@@ -30,25 +30,34 @@ https://tw.carousell.com/search/{關鍵字}?addRecent=false&layered_condition=3%
 
 兩者搭配使用，一個看面，一個看點。
 
-## 03. 監控的 11 個分類
+## 03. 監控的分類頁
 
-每個 URL 都已包含 condition + price 參數，可以直接 navigate 使用。
+每輪至少跑 3-4 個分類頁，輪流覆蓋。每個分類都要用 Sort → Recent。
+
+### 優先分類（每輪跑）
+
+| # | 分類 | slug | 重點看 |
+|---|------|------|--------|
+| 1 | 家具居家 | furniture-home-living-13 | 落地燈/地毯/設計家具 |
+| 2 | 美妝保養 | beauty-personal-care-11 | 品牌香水/護膚 |
+| 3 | 精品 | luxury-20 | VW/設計師品牌 |
+| 4 | 手機平板 | mobile-phones-gadgets-1091 | Apple Watch/智慧手錶 |
+
+### 一般分類（隔輪跑）
 
 | # | 分類 | slug |
 |---|------|------|
-| 1 | 手機平板 | mobile-phones-gadgets-1091 |
-| 2 | 家電影音 | tv-home-appliances-30 |
-| 3 | 音響耳機 | audio-1600 |
-| 4 | 電腦科技 | computers-tech-1094 |
-| 5 | 電玩遊戲 | video-gaming-1189 |
-| 6 | 保健營養 | health-nutrition-6704 |
-| 7 | 美妝保養 | beauty-personal-care-11 |
-| 8 | 女裝 | women-s-fashion-4 |
-| 9 | 精品 | luxury-20 |
-| 10 | 男裝 | men-s-fashion-3 |
-| 11 | 運動器材 | sports-equipment-10 |
+| 5 | 家電影音 | tv-home-appliances-30 |
+| 6 | 音響耳機 | audio-1600 |
+| 7 | 電腦科技 | computers-tech-1094 |
+| 8 | 電玩遊戲 | video-gaming-1189 |
+| 9 | 興趣嗜好 | hobbies-toys-6683 |
+| 10 | 女裝 | women-s-fashion-4 |
+| 11 | 男裝 | men-s-fashion-3 |
+| 12 | 運動器材 | sports-equipment-10 |
+| 13 | 保健營養 | health-nutrition-6704 |
 
-完整 URL 拼法：`https://tw.carousell.com/categories/{slug}/?layered_condition=3%2C4%2C7&price_end=5000&price_start=2500`
+完整 URL 拼法：`https://tw.carousell.com/categories/{slug}/?layered_condition=3%2C4%2C7&price_end=5000&price_start=500`
 
 ## 04. 監控的 10 個關鍵字
 
@@ -290,14 +299,28 @@ URL 一律用 product ID 短網址 `https://tw.carousell.com/p/{ID}/`。
 
 1. **讀這份文件**了解系統設定
 2. **讀 wishlist CSV** 了解已有的商品和 known IDs
-3. **用 Chrome DevTools MCP 開始巡邏**：
-   - navigate 到分類/搜尋 URL
-   - 執行排序 JS（分類頁需要）
-   - 執行抓取 JS
-   - 比對 known IDs，只記錄新商品
-   - 新好貨追加到對應 CSV
-4. **用 `/loop` 設定 1 小時循環**
-5. **每輪報告新發現**給使用者
+3. **一口氣跑完全部 17 個活躍 queries + 3-4 個分類頁**（約 10 分鐘）
+4. **篩選**：新品 30% 以下 or 二手行情 70% 以下 + 3 天內 + 排除二手店 + 注意折舊
+5. **寫入 CSV + 更新 README + git push + 更新 Gist**
+6. **報告給使用者**，等使用者看完說「都看完了」
+7. **歸檔到歷史**，清空 wishlist 準備下一批
+8. **用 `/loop` 設定 1 小時循環**
+
+### 重要連結
+
+- **Gist（有連結就能看）**：https://gist.github.com/yangnim21029/8b9b7ab910319ac83f1b36761c26cfc9
+- **GitHub repo（private）**：https://github.com/yangnim21029/cheap-product
+- **本地目錄**：`/Users/rose/Documents/cheap-product/`
+
+### 每輪 checklist
+
+- [ ] 跑 17 個活躍 queries
+- [ ] 跑 3-4 個分類頁（優先：家居、美妝、精品、手機）
+- [ ] 用「展開搜法」：找到好貨 → 搜更廣的品牌名
+- [ ] 停產品用二手行情比，不用原價
+- [ ] 市價 < $2,000 的跳過（除非是高級款）
+- [ ] URL 用 product ID 短網址
+- [ ] 更新 CSV + README + push + Gist
 
 ## 15. 恍然大悟：二手市場的時間差套利
 
