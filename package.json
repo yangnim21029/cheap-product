@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/yangnim21029/cheap-product#readme",
   "dependencies": {
+    "playwright": "^1.59.1",
     "puppeteer-core": "^24.42.0"
   }
 }
