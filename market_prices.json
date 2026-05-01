@@ -82,5 +82,13 @@
 
   {"pattern": "落地燈.*(ikea|hay|muuto|flos)", "currentNew": 3000, "secondhand": 1500, "label": "品牌落地燈", "source": "IKEA HEKTOGRAM新$999-1,499"},
   {"pattern": "(立燈|落地燈).*實木", "currentNew": 4000, "secondhand": 2000, "label": "實木立燈"},
-  {"pattern": "立燈|落地燈", "currentNew": 2500, "secondhand": 1200, "label": "落地燈/立燈"}
+  {"pattern": "立燈|落地燈", "currentNew": 2500, "secondhand": 1200, "label": "落地燈/立燈"},
+
+  {"pattern": "quest\\s*3s", "currentNew": 11640, "secondhand": 10500, "label": "Meta Quest 3S", "source": "Meta官方$11,640(漲價後),二手$9,500-11,500"},
+  {"pattern": "quest\\s*3(?!s)", "currentNew": 19790, "secondhand": 15000, "label": "Meta Quest 3", "source": "Meta官方$19,790(512GB),二手$15,000-19,000"},
+  {"pattern": "quest\\s*2", "currentNew": null, "secondhand": 7500, "label": "Meta Quest 2 (停產)", "source": "二手$5,500-8,800"},
+  {"pattern": "ps\\s*vr\\s*2|playstation\\s*vr", "currentNew": 13880, "secondhand": 9000, "label": "PS VR2", "source": "Sony降價後$13,880,二手$7,990-10,500"},
+  {"pattern": "pico\\s*4", "currentNew": 14000, "secondhand": 7500, "label": "Pico 4", "source": "代購$13,820-14,500,二手$5,800-9,000"},
+  {"pattern": "vive.*elite|vive.*xr", "currentNew": 34900, "secondhand": 17500, "label": "HTC Vive XR Elite", "source": "新$34,900,二手$15,000-20,000"},
+  {"pattern": "vr|oculus|quest", "currentNew": 15000, "secondhand": 8000, "label": "VR裝置"}
 ]

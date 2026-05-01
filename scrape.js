@@ -21,6 +21,7 @@ const QUERIES = [
   { q: '拍立得', min: 500, max: 5000 },
   { q: '藍牙喇叭', min: 500, max: 5000 },
   { q: '立燈', min: 500, max: 5000 },
+  { q: 'VR', min: 1000, max: 5000 },
 ];
 
 // === 分類頁（需點 Sort → Recent）===
