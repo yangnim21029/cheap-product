@@ -1,0 +1,24 @@
+{
+  "name": "cheap-product",
+  "version": "1.0.0",
+  "description": "17 queries + 13 分類 | 新品 30% 以下 or 二手 70% 以下 | 3 天內 | 注意折舊",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangnim21029/cheap-product.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yangnim21029/cheap-product/issues"
+  },
+  "homepage": "https://github.com/yangnim21029/cheap-product#readme",
+  "dependencies": {
+    "puppeteer-core": "^24.42.0"
+  }
+}

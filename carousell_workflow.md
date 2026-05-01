@@ -69,8 +69,7 @@ https://tw.carousell.com/search/{關鍵字}?addRecent=false&layered_condition=3%
 
 | # | 關鍵字 | 搜尋價格 | 新品市價 | 備註 |
 |---|--------|---------|---------|------|
-| 1 | dyson | $500-5,000 | $5,000-25,000 | 吹風機/吸塵器/造型器都搜 |
-| 2 | apple watch | $1,000-5,000 | $7,900-13,900 | 各代 SE/S6/S7/S8 |
+| 1 | apple watch | $1,000-5,000 | $7,900-13,900 | 各代 SE/S6/S7/S8 |
 | 3 | Samsung Galaxy Watch | $1,000-5,000 | $8,000-12,000 | Watch 4/5/6 Classic |
 | 4 | Vivienne Westwood | $500-5,000 | $4,500-15,000 | 戒指/項鍊/飾品 |
 | 5 | 空氣清淨機 | $500-3,000 | $3,000-12,000 | 大金/飛利浦/SHARP/小米 |
@@ -104,6 +103,7 @@ https://tw.carousell.com/search/{關鍵字}?addRecent=false&layered_condition=3%
 | ~~Switch 主機~~ | 折數通常不夠（49%+）| 暫停 |
 | ~~sodastream~~ | 量少 | 暫停 |
 | ~~懶骨頭~~ | 品牌款少 | 暫停 |
+| ~~dyson~~ | Rose 不再追了 | 暫停 |
 
 ### 不再監控（市價低於 $2,000，買新的比較值得）
 
