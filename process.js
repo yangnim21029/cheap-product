@@ -188,7 +188,7 @@ if (deals.length === 0) {
   deals.forEach(d => {
     const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
     const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
-    md += `| ${d.mkt.label} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.timeAgo} | <a href="${d.url}" target="_blank">查看</a> |\n`;
+    md += `| ${d.title.slice(0, 50)} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.timeAgo} | <a href="${d.url}" target="_blank">查看</a> |\n`;
   });
 }
 md += `\n---\n\n## 歷史批次\n\n`;
