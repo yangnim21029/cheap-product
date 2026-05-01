@@ -2,9 +2,9 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/2 03:05:22
+> 最後更新：2026/5/2 03:08:21
 
-## 目前清單（31 筆）
+## 目前清單（28 筆）
 
 | 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|----------|------|------|------|------|
@@ -26,17 +26,14 @@
 | JO MALONE英國梨與甜豌豆香水30ml | NT$1,000 | 新$2950 | 34% | Like new | 2 days ago | <a href="https://tw.carousell.com/p/1435118289/" target="_blank">查看</a> |
 | 「二手香水」Aesop Eidesis 艾底希思香水（已開封） | NT$2,800 | 新$7700 | 36% | Like new | 4 hours ago | <a href="https://tw.carousell.com/p/1435485952/" target="_blank">查看</a> |
 | Aesop Hywl 熾香水 | NT$2,880 | 新$7700 | 37% | Like new | 18 hours ago | <a href="https://tw.carousell.com/p/1435341039/" target="_blank">查看</a> |
-| Bose SoundLink Home ⚠ | NT$3,500 | 新$9900 | 35% | Like new | 2 hours ago | <a href="https://tw.carousell.com/p/1431438404/" target="_blank">查看</a> |
 | 【專櫃正品】 Lululemon City Sleek 5 Pocket 7/8 Pant 5口袋  | NT$1,180 | 新$4100 | 29% | Like new | 3 hours ago | <a href="https://tw.carousell.com/p/1435497654/" target="_blank">查看</a> |
 | Vivienne Westwood 軍牌 項鍊 | NT$1,500 | 新$4500 | 33% | Lightly used | 14 hours ago | <a href="https://tw.carousell.com/p/1435377602/" target="_blank">查看</a> |
 | OSIM uMoby 捏捏樂肩頸按摩器 | NT$1,200 | 新$3980 | 30% | Like new | 4 hours ago | <a href="https://tw.carousell.com/p/1432369316/" target="_blank">查看</a> |
 | 英國 Marshall MINOR III 降噪藍牙耳機（過保正品） | NT$1,500 | 新$4290 | 35% | Lightly used | 2 days ago | <a href="https://tw.carousell.com/p/1435152235/" target="_blank">查看</a> |
 | Dior 香氛世家 高訂系列-蒙田大道香氛(Gris Dior)50ml | NT$4,300 | 新$11000 | 39% | Like new | 5 hours ago | <a href="https://tw.carousell.com/p/1435478056/" target="_blank">查看</a> |
-| Samsung Galaxy Watch 6 Classic 43mm R950三星手錶 Watch ⚠ | NT$3,600 | 二手$5500 | 65% | Lightly used | 2 days ago | <a href="https://tw.carousell.com/p/1435141650/" target="_blank">查看</a> |
 | |二手手錶|Apple Watch S8 白 | NT$4,000 | 二手$6000 | 67% | Like new | 1 day ago | <a href="https://tw.carousell.com/p/1435230718/" target="_blank">查看</a> |
 | （便宜賣）Apple Watch Series 8 (GPS)。 | NT$4,000 | 二手$6000 | 67% | Lightly used | 2 days ago | <a href="https://tw.carousell.com/p/1435056863/" target="_blank">查看</a> |
 | Malin+Goetz 大麻香水 50ml | NT$2,000 | 新$4600 | 43% | Like new | 7 hours ago | <a href="https://tw.carousell.com/p/1435452474/" target="_blank">查看</a> |
-| Bose QC EARBUDS II 藍 ⚠ | NT$3,000 | 二手$4500 | 67% | Lightly used | 18 hours ago | <a href="https://tw.carousell.com/p/1433280668/" target="_blank">查看</a> |
 | 拍立得 mini8 | NT$1,000 | 新$3000 | 33% | Lightly used | 2 days ago | <a href="https://tw.carousell.com/p/1435107824/" target="_blank">查看</a> |
 | Apple Watch SE 1代 44mm | NT$1,500 | 二手$2200 | 68% | Lightly used | 13 hours ago | <a href="https://tw.carousell.com/p/1435385456/" target="_blank">查看</a> |
 

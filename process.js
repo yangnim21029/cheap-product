@@ -2,7 +2,10 @@ const fs = require('fs');
 
 // === 賣家分類：從 sellers.json 讀取 ===
 const sellersData = JSON.parse(fs.readFileSync('sellers.json', 'utf8'));
-const SHOPS = new Set(sellersData.shops.accounts.map(a => a.id));
+const BANNED = new Set([
+  ...sellersData.shops.accounts.map(a => a.id),
+  ...(sellersData.overpriced?.accounts || []).map(a => a.id),
+]);
 const RESELLERS = new Set(sellersData.resellers.accounts.map(a => a.id));
 const resellerNotes = Object.fromEntries(sellersData.resellers.accounts.map(a => [a.id, a.note]));
 
@@ -53,7 +56,7 @@ let skippedDup = 0;
 
 raw.forEach(item => {
   if (!isRecent(item.timeAgo)) return;
-  if (SHOPS.has(item.seller)) return;
+  if (BANNED.has(item.seller)) return;
   if (SKIP_CAT.includes(item.category)) return;
   const price = parsePrice(item.price);
   if (price < 300) return;

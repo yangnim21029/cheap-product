@@ -13,24 +13,31 @@
       {"id": "wei3cphone", "name": "wei3c", "note": "3C店"},
       {"id": "kp3c.", "name": "kp3c", "note": "台中3C店"},
       {"id": "apple3054", "name": "apple3054", "note": "Apple專賣"},
-      {"id": "s0905177699", "name": "百豐悅二手家電", "note": "台北二手家電店"}
+      {"id": "s0905177699", "name": "百豐悅二手家電", "note": "台北二手家電店"},
+      {"id": "carrot_chen", "name": "carrot_chen", "note": "637單/561評/10年/賣手機平板手錶=3C小店"}
     ]
   },
   "resellers": {
-    "_comment": "批量賣家/代購/香水商，不排除但標記⚠",
+    "_comment": "批量賣家/代購，不排除但標記⚠",
     "accounts": [
-      {"id": "lover.perfume", "note": "香水批量賣家，同時上多支"},
+      {"id": "lover.perfume", "orders": 136, "reviews": 185, "joined": "10y6m", "note": "香水批量,136單有成交,定價合理但量大"},
       {"id": "margaret.sshop", "note": "香水代購"},
       {"id": "m1413", "note": "古董香水瓶賣家"},
       {"id": "bravedeer.829ec6", "note": "小眾香水批量"},
       {"id": "pfg011370324", "note": "同時賣多支Dyson吹風機"},
-      {"id": "carrot_chen", "note": "同時賣AW+Samsung Watch多支，疑似小批量"},
-      {"id": "maxwilliam", "note": "同時賣多台Bose，疑似小批量"},
       {"id": "yuan712", "note": "二手家電量大，編號NO:開頭"}
     ]
   },
+  "overpriced": {
+    "_comment": "定價偏高/賣不動，排除。Bumped=付費置頂但賣不掉",
+    "accounts": [
+      {"id": "maxwilliam", "orders": 330, "reviews": 201, "joined": "5m13d", "note": "Bose全線Bumped賣不動,330單但音響類定價高於市場"}
+    ]
+  },
   "trusted": {
-    "_comment": "已確認的個人賣家，優先顯示",
-    "accounts": []
+    "_comment": "已確認的個人賣家",
+    "accounts": [
+      {"id": "zzz9121", "orders": 16, "reviews": 7, "joined": "1y1m", "note": "個人出清,VW絲巾$500全新含收據,可信"}
+    ]
   }
 }
