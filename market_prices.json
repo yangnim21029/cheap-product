@@ -1,0 +1,82 @@
+[
+  {"pattern": "apple watch.*(se\\s*1|se1|第一代)", "currentNew": null, "secondhand": 2200, "label": "AW SE1 (2020停產)", "note": "6年前,電池老化"},
+  {"pattern": "apple watch.*(se\\s*2|se2|第二代)", "currentNew": null, "secondhand": 3500, "label": "AW SE2 (2022停產)"},
+  {"pattern": "apple watch.*se\\b(?!.*[12])", "currentNew": null, "secondhand": 2200, "label": "AW SE (停產)"},
+  {"pattern": "apple watch.*(s6|series\\s*6)", "currentNew": null, "secondhand": 4000, "label": "AW S6 (2020停產)"},
+  {"pattern": "apple watch.*(s7|series\\s*7)", "currentNew": null, "secondhand": 5000, "label": "AW S7 (2021停產)"},
+  {"pattern": "apple watch.*(s8|series\\s*8)", "currentNew": null, "secondhand": 6000, "label": "AW S8 (2022停產)"},
+  {"pattern": "apple watch.*(s9|series\\s*9)", "currentNew": 12900, "secondhand": 7500, "label": "AW S9"},
+  {"pattern": "apple watch.*(s10|series\\s*10|ultra)", "currentNew": 13900, "secondhand": 9000, "label": "AW S10/Ultra"},
+
+  {"pattern": "samsung.*watch.*6", "currentNew": null, "secondhand": 5500, "label": "GW6 Classic (2023停產)"},
+  {"pattern": "samsung.*watch.*7", "currentNew": 11990, "secondhand": 7000, "label": "GW7"},
+
+  {"pattern": "vivienne.*westwood.*軍牌", "currentNew": 4500, "secondhand": 2500, "label": "VW 軍牌項鍊"},
+  {"pattern": "vivienne.*westwood.*絲巾", "currentNew": 3500, "secondhand": 1500, "label": "VW 絲巾"},
+  {"pattern": "vivienne.*westwood.*皮夾", "currentNew": 9000, "secondhand": 4000, "label": "VW 皮夾"},
+  {"pattern": "vivienne.*westwood.*(包|bag)", "currentNew": 12000, "secondhand": 5000, "label": "VW 包"},
+  {"pattern": "vivienne.*westwood.*戒指", "currentNew": 8000, "secondhand": 3500, "label": "VW 戒指"},
+
+  {"pattern": "momi", "currentNew": null, "secondhand": 2500, "label": "MOMI投影機 (停產)"},
+  {"pattern": "投影機", "currentNew": 5000, "secondhand": 2500, "label": "投影機"},
+
+  {"pattern": "osim.*護眼樂.*180", "currentNew": null, "secondhand": 1000, "label": "OSIM護眼樂180 (舊款)"},
+  {"pattern": "osim.*護眼樂.*air", "currentNew": 4980, "secondhand": 2500, "label": "OSIM護眼樂Air"},
+  {"pattern": "osim.*umoby", "currentNew": 3980, "secondhand": 2000, "label": "OSIM uMoby"},
+  {"pattern": "osim", "currentNew": 4000, "secondhand": 2000, "label": "OSIM按摩"},
+
+  {"pattern": "jo\\s*malone.*100ml", "currentNew": 6800, "secondhand": 4500, "label": "JM 100ml"},
+  {"pattern": "jo\\s*malone.*50ml", "currentNew": 4900, "secondhand": 3200, "label": "JM 50ml"},
+  {"pattern": "jo\\s*malone.*30ml", "currentNew": 2950, "secondhand": 1800, "label": "JM 30ml"},
+  {"pattern": "jo\\s*malone", "currentNew": 4900, "secondhand": 3000, "label": "Jo Malone"},
+
+  {"pattern": "aesop.*(eidesis|艾底)", "currentNew": 7700, "secondhand": 5000, "label": "Aesop Eidesis"},
+  {"pattern": "aesop.*hywl", "currentNew": 7700, "secondhand": 5000, "label": "Aesop Hywl"},
+  {"pattern": "aesop", "currentNew": 7700, "secondhand": 5000, "label": "Aesop香水"},
+  {"pattern": "dior.*gris", "currentNew": 11000, "secondhand": 7000, "label": "Dior Gris Dior"},
+  {"pattern": "hermès|hermes|愛馬仕.*大地.*100", "currentNew": 5700, "secondhand": 3800, "label": "Hermès大地"},
+  {"pattern": "shiro", "currentNew": 3200, "secondhand": 2000, "label": "Shiro香水"},
+  {"pattern": "ysl.*香水", "currentNew": 4500, "secondhand": 2800, "label": "YSL香水"},
+  {"pattern": "malin.*goetz", "currentNew": 4600, "secondhand": 3000, "label": "Malin+Goetz"},
+
+  {"pattern": "lululemon.*(pant|褲|legging|tight)", "currentNew": 4100, "secondhand": 2000, "label": "Lulu褲"},
+  {"pattern": "lululemon.*(short|短褲)", "currentNew": 2200, "secondhand": 1000, "label": "Lulu短褲"},
+  {"pattern": "lululemon.*groove", "currentNew": 3800, "secondhand": 1800, "label": "Lulu Groove褲"},
+  {"pattern": "lululemon.*(set|組)", "currentNew": 5000, "secondhand": 2000, "label": "Lulu組合"},
+  {"pattern": "lululemon.*四件", "currentNew": 8000, "secondhand": 3000, "label": "Lulu四件組"},
+  {"pattern": "lululemon.*(包|bag|belt)", "currentNew": 3500, "secondhand": 1500, "label": "Lulu包"},
+  {"pattern": "lululemon", "currentNew": 3000, "secondhand": 1500, "label": "Lululemon"},
+
+  {"pattern": "marshall.*kilburn\\s*ii", "currentNew": 10900, "secondhand": 5500, "label": "Marshall Kilburn II"},
+  {"pattern": "marshall.*emberton\\s*ii\\b", "currentNew": 5999, "secondhand": 3500, "label": "Marshall Emberton II"},
+  {"pattern": "marshall.*emberton\\s*iii", "currentNew": 6999, "secondhand": 4500, "label": "Marshall Emberton III"},
+  {"pattern": "marshall.*minor\\s*iii", "currentNew": 4290, "secondhand": 2500, "label": "Marshall Minor III"},
+  {"pattern": "marshall.*minor\\s*iv", "currentNew": 4490, "secondhand": 3000, "label": "Marshall Minor IV"},
+  {"pattern": "marshall.*major\\s*(iv|v)", "currentNew": 5999, "secondhand": 3500, "label": "Marshall Major"},
+  {"pattern": "marshall", "currentNew": 5000, "secondhand": 3000, "label": "Marshall"},
+
+  {"pattern": "bose.*soundlink\\s*home", "currentNew": 9900, "secondhand": 6000, "label": "Bose Home"},
+  {"pattern": "bose.*qc.*earbuds\\s*ii\\b", "currentNew": null, "secondhand": 4500, "label": "Bose QC II (停產)"},
+  {"pattern": "bose.*qc.*ultra", "currentNew": 9900, "secondhand": 6000, "label": "Bose QC Ultra"},
+  {"pattern": "bose.*flex", "currentNew": 5490, "secondhand": 3800, "label": "Bose Flex II"},
+  {"pattern": "bose", "currentNew": 7000, "secondhand": 4000, "label": "Bose"},
+
+  {"pattern": "藍牙喇叭.*edifier|edifier.*藍牙", "currentNew": 2500, "secondhand": 1200, "label": "Edifier藍牙喇叭"},
+  {"pattern": "jbl.*go", "currentNew": 1990, "secondhand": 1000, "label": "JBL Go"},
+  {"pattern": "藍牙喇叭", "currentNew": 3000, "secondhand": 1500, "label": "藍牙喇叭"},
+
+  {"pattern": "空氣清淨機", "currentNew": 5000, "secondhand": 2500, "label": "空氣清淨機"},
+  {"pattern": "空氣循環扇.*vornado", "currentNew": 5000, "secondhand": 3000, "label": "Vornado循環扇"},
+  {"pattern": "空氣循環扇", "currentNew": 3000, "secondhand": 1500, "label": "循環扇"},
+
+  {"pattern": "nespresso.*pixie", "currentNew": null, "secondhand": 2200, "label": "Nespresso Pixie (停產)"},
+  {"pattern": "nespresso", "currentNew": 4990, "secondhand": 2500, "label": "Nespresso"},
+
+  {"pattern": "拍立得.*50s", "currentNew": null, "secondhand": 3500, "label": "Mini 50s (停產)"},
+  {"pattern": "拍立得.*sq6", "currentNew": null, "secondhand": 4000, "label": "SQ6 (停產)"},
+  {"pattern": "拍立得.*liplay", "currentNew": 5990, "secondhand": 3500, "label": "LiPlay"},
+  {"pattern": "拍立得", "currentNew": 3000, "secondhand": 1500, "label": "拍立得"},
+
+  {"pattern": "落地燈.*(ikea|hay|muuto|flos)", "currentNew": 5000, "secondhand": 2500, "label": "品牌落地燈"},
+  {"pattern": "落地燈", "currentNew": 3000, "secondhand": 1500, "label": "落地燈"}
+]

@@ -1,99 +1,26 @@
 const fs = require('fs');
 
-// === 二手店帳號（行情基準，不算便宜）===
-const SHOPS = [
-  'change12336', 'elba_digital888', 'phone_recycle', 'chan_850725',
-  'chineming03', 'phoneshop', 'guoguo.shop', 'joycely.yang',
-  'wei3cphone', 'kp3c.', 'apple3054'
-];
-const RESELLERS = ['lover.perfume', 'margaret.sshop', 'm1413', 'bravedeer.829ec6'];
+// === 賣家分類：從 sellers.json 讀取 ===
+const sellersData = JSON.parse(fs.readFileSync('sellers.json', 'utf8'));
+const SHOPS = new Set(sellersData.shops.accounts.map(a => a.id));
+const RESELLERS = new Set(sellersData.resellers.accounts.map(a => a.id));
+const resellerNotes = Object.fromEntries(sellersData.resellers.accounts.map(a => [a.id, a.note]));
 
 // === 跳過配件/周邊/非商品 ===
-const SKIP = ['配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','充電線','說明書','潔膚露','面膜','髮夾','相紙','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒'];
+const SKIP = ['配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','充電線','說明書','潔膚露','面膜','髮夾','相紙','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒','運動衣','瑜珈服','運動內衣','Tank','Sleeve','Top'];
 
 // === 跳過的 category ===
 const SKIP_CAT = ['dyson'];
 
-// === 市場行情表 ===
-// currentNew: 目前仍在賣的新品價（停產=null）
-// secondhand: 二手行情（從二手店/常見成交價推估）
+// === 市場行情表：從 market_prices.json 讀取 ===
 // 判斷規則：price <= currentNew*0.30 OR price <= secondhand*0.70
-const MARKET = [
-  // Apple Watch — SE1 是 2020 年，SE2 是 2022 年，都已停產
-  { match: /apple watch.*(se\s*1|se1|第一代)/i, currentNew: null, secondhand: 2200, label: 'AW SE1 (2020停產)' },
-  { match: /apple watch.*(se\s*2|se2|第二代)/i, currentNew: null, secondhand: 3500, label: 'AW SE2 (2022停產)' },
-  { match: /apple watch.*se\b(?!.*[12])/i, currentNew: null, secondhand: 2200, label: 'AW SE (停產)' },
-  { match: /apple watch.*(s6|series\s*6)/i, currentNew: null, secondhand: 4000, label: 'AW S6 (2020停產)' },
-  { match: /apple watch.*(s7|series\s*7)/i, currentNew: null, secondhand: 5000, label: 'AW S7 (2021停產)' },
-  { match: /apple watch.*(s8|series\s*8)/i, currentNew: null, secondhand: 6000, label: 'AW S8 (2022停產)' },
-  { match: /apple watch.*(s9|series\s*9)/i, currentNew: 12900, secondhand: 7500, label: 'AW S9' },
-  { match: /apple watch.*(s10|series\s*10|ultra)/i, currentNew: 13900, secondhand: 9000, label: 'AW S10/Ultra' },
-  // Samsung Watch
-  { match: /samsung.*watch.*6/i, currentNew: null, secondhand: 5500, label: 'GW6 Classic (2023停產)' },
-  { match: /samsung.*watch.*7/i, currentNew: 11990, secondhand: 7000, label: 'GW7' },
-  // Vivienne Westwood — 精品不太折舊
-  { match: /vivienne.*westwood.*軍牌/i, currentNew: 4500, secondhand: 2500, label: 'VW 軍牌項鍊' },
-  { match: /vivienne.*westwood.*絲巾/i, currentNew: 3500, secondhand: 1500, label: 'VW 絲巾' },
-  { match: /vivienne.*westwood.*皮夾/i, currentNew: 9000, secondhand: 4000, label: 'VW 皮夾' },
-  { match: /vivienne.*westwood.*(包|bag)/i, currentNew: 12000, secondhand: 5000, label: 'VW 包' },
-  { match: /vivienne.*westwood.*戒指/i, currentNew: 8000, secondhand: 3500, label: 'VW 戒指' },
-  // 投影機
-  { match: /momi/i, currentNew: null, secondhand: 2500, label: 'MOMI投影機 (停產)' },
-  { match: /投影機/i, currentNew: 5000, secondhand: 2500, label: '投影機' },
-  // OSIM — 很多型號已停產
-  { match: /osim.*護眼樂.*180/i, currentNew: null, secondhand: 1000, label: 'OSIM護眼樂180 (舊款)' },
-  { match: /osim.*護眼樂.*air/i, currentNew: 4980, secondhand: 2500, label: 'OSIM護眼樂Air' },
-  { match: /osim.*umoby/i, currentNew: 3980, secondhand: 2000, label: 'OSIM uMoby' },
-  { match: /osim/i, currentNew: 4000, secondhand: 2000, label: 'OSIM按摩' },
-  // Jo Malone — 香水有容量差異
-  { match: /jo\s*malone.*100ml/i, currentNew: 6800, secondhand: 4500, label: 'JM 100ml' },
-  { match: /jo\s*malone.*50ml/i, currentNew: 4900, secondhand: 3200, label: 'JM 50ml' },
-  { match: /jo\s*malone.*30ml/i, currentNew: 2950, secondhand: 1800, label: 'JM 30ml' },
-  { match: /jo\s*malone/i, currentNew: 4900, secondhand: 3000, label: 'Jo Malone' },
-  // 香水品牌
-  { match: /aesop.*(eidesis|艾底)/i, currentNew: 7700, secondhand: 5000, label: 'Aesop Eidesis' },
-  { match: /aesop.*hywl/i, currentNew: 7700, secondhand: 5000, label: 'Aesop Hywl' },
-  { match: /aesop/i, currentNew: 7700, secondhand: 5000, label: 'Aesop香水' },
-  { match: /dior.*gris/i, currentNew: 11000, secondhand: 7000, label: 'Dior Gris Dior' },
-  { match: /hermès|hermes|愛馬仕.*大地.*100/i, currentNew: 5700, secondhand: 3800, label: 'Hermès大地' },
-  { match: /shiro/i, currentNew: 3200, secondhand: 2000, label: 'Shiro香水' },
-  { match: /ysl.*香水/i, currentNew: 4500, secondhand: 2800, label: 'YSL香水' },
-  { match: /malin.*goetz/i, currentNew: 4600, secondhand: 3000, label: 'Malin+Goetz' },
-  // Lululemon — 在售品，用新品價
-  { match: /lululemon.*(pant|褲|legging|tight)/i, currentNew: 4100, secondhand: 2000, label: 'Lulu褲' },
-  { match: /lululemon.*(t-shirt|tee|短袖|上衣)/i, currentNew: 1900, secondhand: 800, label: 'Lulu上衣' },
-  { match: /lululemon.*(bra|內衣)/i, currentNew: 1700, secondhand: 700, label: 'Lulu內衣' },
-  { match: /lululemon.*(short|短褲)/i, currentNew: 2200, secondhand: 1000, label: 'Lulu短褲' },
-  { match: /lululemon.*groove/i, currentNew: 3800, secondhand: 1800, label: 'Lulu Groove褲' },
-  { match: /lululemon.*(set|組)/i, currentNew: 5000, secondhand: 2000, label: 'Lulu組合' },
-  { match: /lululemon.*四件/i, currentNew: 8000, secondhand: 3000, label: 'Lulu四件組' },
-  { match: /lululemon/i, currentNew: 3000, secondhand: 1500, label: 'Lululemon' },
-  // Marshall — 大部分在售
-  { match: /marshall.*kilburn\s*ii/i, currentNew: 10900, secondhand: 5500, label: 'Marshall Kilburn II' },
-  { match: /marshall.*emberton\s*ii\b/i, currentNew: 5999, secondhand: 3500, label: 'Marshall Emberton II' },
-  { match: /marshall.*emberton\s*iii/i, currentNew: 6999, secondhand: 4500, label: 'Marshall Emberton III' },
-  { match: /marshall.*minor\s*iii/i, currentNew: 4290, secondhand: 2500, label: 'Marshall Minor III' },
-  { match: /marshall.*minor\s*iv/i, currentNew: 4490, secondhand: 3000, label: 'Marshall Minor IV' },
-  { match: /marshall.*major\s*(iv|v)/i, currentNew: 5999, secondhand: 3500, label: 'Marshall Major' },
-  { match: /marshall/i, currentNew: 5000, secondhand: 3000, label: 'Marshall' },
-  // Bose
-  { match: /bose.*soundlink\s*home/i, currentNew: 9900, secondhand: 6000, label: 'Bose Home' },
-  { match: /bose.*qc.*earbuds\s*ii\b/i, currentNew: null, secondhand: 4500, label: 'Bose QC II (停產)' },
-  { match: /bose.*qc.*ultra/i, currentNew: 9900, secondhand: 6000, label: 'Bose QC Ultra' },
-  { match: /bose.*flex/i, currentNew: 5490, secondhand: 3800, label: 'Bose Flex II' },
-  { match: /bose/i, currentNew: 7000, secondhand: 4000, label: 'Bose' },
-  // 其他
-  { match: /空氣清淨機/i, currentNew: 5000, secondhand: 2500, label: '空氣清淨機' },
-  { match: /空氣循環扇.*vornado/i, currentNew: 5000, secondhand: 3000, label: 'Vornado循環扇' },
-  { match: /空氣循環扇/i, currentNew: 3000, secondhand: 1500, label: '循環扇' },
-  { match: /nespresso.*pixie/i, currentNew: null, secondhand: 2200, label: 'Nespresso Pixie (停產)' },
-  { match: /nespresso/i, currentNew: 4990, secondhand: 2500, label: 'Nespresso' },
-  { match: /拍立得.*50s/i, currentNew: null, secondhand: 3500, label: 'Mini 50s (停產)' },
-  { match: /拍立得.*sq6/i, currentNew: null, secondhand: 4000, label: 'SQ6 (停產)' },
-  { match: /拍立得.*liplay/i, currentNew: 5990, secondhand: 3500, label: 'LiPlay' },
-  { match: /拍立得/i, currentNew: 3000, secondhand: 1500, label: '拍立得' },
-  { match: /落地燈/i, currentNew: 3000, secondhand: 1500, label: '落地燈' },
-];
+const priceData = JSON.parse(fs.readFileSync('market_prices.json', 'utf8'));
+const MARKET = priceData.map(p => ({
+  match: new RegExp(p.pattern, p.flags || 'i'),
+  currentNew: p.currentNew,
+  secondhand: p.secondhand,
+  label: p.label,
+}));
 
 function findMarket(title, category) {
   const text = title + ' ' + category;
@@ -126,7 +53,7 @@ let skippedDup = 0;
 
 raw.forEach(item => {
   if (!isRecent(item.timeAgo)) return;
-  if (SHOPS.includes(item.seller) || RESELLERS.includes(item.seller)) return;
+  if (SHOPS.has(item.seller)) return;
   if (SKIP_CAT.includes(item.category)) return;
   const price = parsePrice(item.price);
   if (price < 300) return;
@@ -146,7 +73,9 @@ raw.forEach(item => {
   const passSecondhand = vsSecondhand <= 70;
 
   if (passNew || passSecondhand) {
-    deals.push({ ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand });
+    const isReseller = RESELLERS.has(item.seller);
+    const sellerNote = isReseller ? resellerNotes[item.seller] || '批量賣家' : '';
+    deals.push({ ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand, isReseller, sellerNote });
   }
 });
 
@@ -188,7 +117,8 @@ if (deals.length === 0) {
   deals.forEach(d => {
     const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
     const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
-    md += `| ${d.title.slice(0, 50)} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.timeAgo} | <a href="${d.url}" target="_blank">查看</a> |\n`;
+    const warn = d.isReseller ? ' ⚠' : '';
+    md += `| ${d.title.slice(0, 50)}${warn} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.timeAgo} | <a href="${d.url}" target="_blank">查看</a> |\n`;
   });
 }
 md += `\n---\n\n## 歷史批次\n\n`;

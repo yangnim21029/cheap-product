@@ -1,0 +1,36 @@
+{
+  "shops": {
+    "_comment": "二手連鎖店=行情基準，直接排除",
+    "accounts": [
+      {"id": "change12336", "name": "澄橘", "note": "專業二手3C"},
+      {"id": "elba_digital888", "name": "艾爾巴", "note": "全台連鎖"},
+      {"id": "phone_recycle", "name": "瘋回收", "note": "板橋實體店"},
+      {"id": "chan_850725", "name": "蘆洲店A", "note": "跟chineming03同店"},
+      {"id": "chineming03", "name": "蘆洲店B", "note": "跟chan_850725同店"},
+      {"id": "phoneshop", "name": "典藏奇機", "note": "展示機出清"},
+      {"id": "guoguo.shop", "name": "果果", "note": "iPad專賣"},
+      {"id": "joycely.yang", "name": "二手通路", "note": "量大"},
+      {"id": "wei3cphone", "name": "wei3c", "note": "3C店"},
+      {"id": "kp3c.", "name": "kp3c", "note": "台中3C店"},
+      {"id": "apple3054", "name": "apple3054", "note": "Apple專賣"},
+      {"id": "s0905177699", "name": "百豐悅二手家電", "note": "台北二手家電店"}
+    ]
+  },
+  "resellers": {
+    "_comment": "批量賣家/代購/香水商，不排除但標記⚠",
+    "accounts": [
+      {"id": "lover.perfume", "note": "香水批量賣家，同時上多支"},
+      {"id": "margaret.sshop", "note": "香水代購"},
+      {"id": "m1413", "note": "古董香水瓶賣家"},
+      {"id": "bravedeer.829ec6", "note": "小眾香水批量"},
+      {"id": "pfg011370324", "note": "同時賣多支Dyson吹風機"},
+      {"id": "carrot_chen", "note": "同時賣AW+Samsung Watch多支，疑似小批量"},
+      {"id": "maxwilliam", "note": "同時賣多台Bose，疑似小批量"},
+      {"id": "yuan712", "note": "二手家電量大，編號NO:開頭"}
+    ]
+  },
+  "trusted": {
+    "_comment": "已確認的個人賣家，優先顯示",
+    "accounts": []
+  }
+}
