@@ -2,29 +2,36 @@
 
 自動巡邏系統 | 篩選：新品 30% 以下優先 | 3 天內上架 | 排除二手店行情價
 
-> 最後更新：2026-05-01 23:00
+> 最後更新：2026-05-02
 
-## 好貨清單（13 筆，按折數排序）
+## 好貨清單
 
-| 品項 | 價格 | 市價 | 折數 | 狀態 | 連結 |
-|------|------|------|------|------|------|
-| Dyson DC63 有線吸塵器 | $2,000 | $15,000 | **13%** | Lightly used | <a href="https://tw.carousell.com/p/1435462773/" target="_blank">查看</a> |
-| Dyson 吹風機 3 代 | $2,600 | $16,900 | **15%** | Lightly used | <a href="https://tw.carousell.com/p/1435080631/" target="_blank">查看</a> |
-| Apple Watch SE 1代 44mm | $1,500 | $7,900 | **19%** | Lightly used | <a href="https://tw.carousell.com/p/1435385456/" target="_blank">查看</a> |
-| Dyson HDO3 吹風機 台灣機 恆隆行 | $2,700 | $13,900 | **19%** | Lightly used | <a href="https://tw.carousell.com/p/1435030331/" target="_blank">查看</a> |
-| Apple Watch SE GPS 40mm 幾乎全新 | $1,700 | $7,900 | **22%** | Brand new | <a href="https://tw.carousell.com/p/1435230564/" target="_blank">查看</a> |
-| TOKUYO 玩美揉捶按摩枕 TH-536 全新 | $699 | $2,980 | **23%** | Brand new | <a href="https://tw.carousell.com/p/1435375071/" target="_blank">查看</a> |
-| iPad 5 128G WiFi 9.7吋 | $2,500 | $10,900 | **23%** | Like new | <a href="https://tw.carousell.com/p/1435255192/" target="_blank">查看</a> |
-| Apple Watch S8 45mm 送錶帶 | $3,800 | $13,900 | **27%** | Lightly used | <a href="https://tw.carousell.com/p/1435325140/" target="_blank">查看</a> |
-| Samsung Galaxy Watch 6 Classic 43mm | $3,600 | $11,990 | **30%** | Lightly used | <a href="https://tw.carousell.com/p/1435141650/" target="_blank">查看</a> |
-| Apple Watch S8 白 | $4,000 | $12,900 | **31%** | Like new | <a href="https://tw.carousell.com/p/1435230718/" target="_blank">查看</a> |
-| Vivienne Westwood 軍牌項鍊 | $1,500 | $4,500 | **33%** | Lightly used | <a href="https://tw.carousell.com/p/1435377602/" target="_blank">查看</a> |
-| B&O x CISCO 980 商務耳機 | $4,800 | $12,000+ | **40%** | Lightly used | <a href="https://tw.carousell.com/p/1428682636/" target="_blank">查看</a> |
-| Vivienne Westwood 純銀字母戒指 | $3,500 | $8,000+ | **44%** | Like new | <a href="https://tw.carousell.com/p/1435449951/" target="_blank">查看</a> |
+巡邏中，下一批即將更新...
 
 ---
 
 ## 已檢查過的好貨（歷史記錄）
+
+<details>
+<summary>Batch 2（已檢查 2026-05-01 23:00）</summary>
+
+| 品項 | 價格 | 市價 | 折數 | 結果 |
+|------|------|------|------|------|
+| Dyson DC63 吸塵器 | $2,000 | $15,000 | 13% | 已查 |
+| Dyson 吹風機 3代 | $2,600 | $16,900 | 15% | 已查 |
+| Apple Watch SE 1代 44mm | $1,500 | $7,900 | 19% | 已查 |
+| Dyson HDO3 吹風機 恆隆行 | $2,700 | $13,900 | 19% | 已查 |
+| Apple Watch SE GPS 40mm | $1,700 | $7,900 | 22% | 已查 |
+| TOKUYO 按摩枕 TH-536 | $699 | $2,980 | 23% | 已查 |
+| iPad 5 128G WiFi | $2,500 | $10,900 | 23% | 已查 |
+| Apple Watch S8 送錶帶 | $3,800 | $13,900 | 27% | 已查 |
+| Samsung Watch 6 Classic | $3,600 | $11,990 | 30% | 已查 → 展開搜 Samsung Galaxy Watch 有更多好貨 |
+| Apple Watch S8 白 | $4,000 | $12,900 | 31% | 已查 |
+| VW 軍牌項鍊 | $1,500 | $4,500 | 33% | 已查 |
+| B&O x CISCO 980 | $4,800 | $12,000+ | 40% | 已查 |
+| VW 純銀字母戒指 | $3,500 | $8,000+ | 44% | **有興趣** |
+
+</details>
 
 <details>
 <summary>Batch 1（已檢查 2026-05-01）</summary>

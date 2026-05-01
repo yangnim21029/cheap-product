@@ -43,6 +43,16 @@
 | `MagSafe 充電` | 有 3 天內的但都是行情價 |
 | `switch 遊戲` | 有但多是二手店或行情價 |
 
+## 搜尋技巧：從好貨展開搜
+
+找到一筆好貨後，用更廣的關鍵字展開搜尋：
+- 找到 `Samsung Galaxy Watch 6 Classic` → 搜 `Samsung Galaxy Watch` → 找到更多款式
+- 找到 `Dyson HDO3 吹風機` → 搜 `dyson` → 找到吸塵器、造型器等
+- 找到 `Lululemon 短褲` → 搜 `lululemon` → 找到上衣、褲子、瑜伽墊等
+- 找到 `OSIM 護眼樂` → 搜 `OSIM` → 找到腿部按摩、肩頸等
+
+原則：**品牌名 > 型號名 > 品類通用詞**，從窄到寬逐步展開。
+
 ## 待試的 queries
 
 | 品項 | 待試 queries |

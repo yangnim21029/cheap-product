@@ -166,7 +166,17 @@ const isRecent = (timeAgo) => {
 
 注意 URL 一律用 `https://tw.carousell.com/p/{product_ID}/` 短網址格式。Carousell 會自動 redirect 到正確頁面，避免中文 slug 拼錯。
 
-## 09. 速率限制：太快會被擋
+## 09. 搜尋技巧：從好貨展開搜
+
+找到一筆好貨後，用更廣的品牌名展開搜尋，往往能挖到更多同類好貨：
+
+1. 找到一筆好貨（如 Samsung Galaxy Watch 6 Classic $3,600）
+2. 把關鍵字放寬到品牌（搜 `Samsung Galaxy Watch`）
+3. 發現更多款式和價格帶
+
+原則：**品牌名 > 型號名 > 品類通用詞**，從窄到寬。
+
+## 10. 速率限制：太快會被擋
 
 Carousell 短時間內連續請求太多會觸發 500 錯誤（"Something's wrong on our end"）。已踩過的坑：
 
