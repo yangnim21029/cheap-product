@@ -9,7 +9,7 @@ const SHOPS = [
 const RESELLERS = ['lover.perfume', 'margaret.sshop', 'm1413', 'bravedeer.829ec6'];
 
 // === 跳過配件/周邊/非商品 ===
-const SKIP = ['配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','租借','寫真','鬼滅','禮盒組','蠟燭','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','充電線','說明書'];
+const SKIP = ['配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','充電線','說明書','潔膚露','面膜','髮夾','相紙','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒'];
 
 // === 跳過的 category ===
 const SKIP_CAT = ['dyson'];
@@ -105,6 +105,8 @@ function findMarket(title, category) {
 
 const isRecent = t => {
   if (!t) return false;
+  if (/\d+ days/.test(t) && !/^[12] days/.test(t)) return false;
+  if (/week|month|year/.test(t)) return false;
   return /minute|hour|1 day|2 days|yesterday/.test(t);
 };
 
