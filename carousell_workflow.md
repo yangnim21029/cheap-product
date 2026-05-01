@@ -325,36 +325,66 @@ URL 一律用 product ID 短網址 `https://tw.carousell.com/p/{ID}/`。
 兩個腳本搭配使用：
 
 ```bash
-node scrape.js    # 用 Playwright 跑 16 queries + 4 分類，輸出 raw_results.json
-node process.js   # 過濾+比價+折舊，輸出 CSV + README + deals.html
+node scrape.js    # Playwright headless 跑 16 queries + 6 分類 → raw_results.json（~5分鐘）
+node process.js   # 過濾+折舊比價 → CSV + README + deals.html
 ```
 
-**scrape.js** 做的事：開 headless Chromium → 逐一搜尋 → 抓商品卡片資料 → 存 JSON
-**process.js** 做的事：讀 JSON → 排除店家/配件/過期 → 用 MARKET 表比價 → 輸出結果
+### scrape.js 技術細節
 
-MARKET 行情表在 `process.js` 裡，需要**人工維護**：
+- 用 Playwright + Chromium headless，不需要已開啟的 Chrome
+- `waitUntil: 'load'` + `waitForTimeout(5000)`（不能用 `networkidle`，Carousell SPA 永遠不會 idle）
+- `page.evaluate()` 傳 IIFE 字串 `` `(${SCRAPE_JS})()` ``（不能直接傳字串，不會自動執行）
+- 設定 user-agent 避免被偵測為 headless bot
+- 每頁間隔 8-12 秒，分類頁 10-15 秒，防 rate limit
+- 被擋（500）時自動等 30 秒
+- 分類頁需額外點 Sort → Recent（JS click 模擬）
+- 全程 debug log：URL、頁面標題、抓到幾筆、前 3 筆預覽、錯誤訊息
+
+### process.js 核心邏輯
+
+- MARKET 行情表：每個商品類別有 `currentNew`（在售新品價，停產=null）和 `secondhand`（二手行情）
+- 判斷好貨：`price <= currentNew × 30%` OR `price <= secondhand × 70%`
+- 停產品只看二手行情，不用原價（之前踩過坑）
+- 排除：二手店帳號、已知批量賣家、配件/耗材關鍵字、超過 3 天
+- 輸出：CSV + README.md + deals.html，按折數排序
+
+MARKET 行情表需要**人工維護**：
 - 新增商品類別時加對應的 match 規則
 - 發現行情偏差時更新 secondhand 價格
 - 停產品的 currentNew 設為 null
+- SKIP 詞表也需要根據實際結果持續擴充
+
+### 什麼時候調用腳本
+
+| 場景 | 做法 |
+|------|------|
+| **每小時例行巡邏** | `node scrape.js && node process.js` → AI 讀 log 檢查 → push |
+| **新 session 第一輪** | 先讀 workflow → 跑腳本 → 讀 log 檢查有沒有異常 → 報告 |
+| **使用者加了新關鍵字** | 更新 scrape.js QUERIES → 更新 process.js MARKET → 跑一輪 |
+| **發現行情不對** | 更新 process.js MARKET 表 → 重跑 `node process.js`（不需重抓） |
+| **腳本出錯** | 讀 log 找錯誤 → 修腳本 → 重跑（scrape.js 有完整 debug log） |
+| **分類頁要看更多** | 用 Chrome DevTools MCP 手動瀏覽（腳本只抓首頁，手動可以翻頁） |
+
+### 腳本的限制（需要 AI/人工補充）
+
+- 腳本只抓每頁首批商品（~48 筆），不會自動翻頁
+- MARKET 行情表是靜態的，需要定期根據實際觀察更新
+- 新出現的店家帳號需要人工辨認並加入 SHOPS
+- 「展開搜法」（從好貨展開搜品牌）需要人工操作
+- 商品描述裡的隱藏問題（過保、缺件、仿品）需要人工判斷
 
 ## 15. 完整巡邏流程（重啟後照著跑）
 
-### 自動模式（推薦）
+### 標準流程
 
-```bash
-node scrape.js && node process.js && git add -A && git commit -m "batch update" && git push
-```
-
-### 手動模式（用 Chrome DevTools MCP）
-
-1. **讀這份文件**了解系統設定
-2. **讀 wishlist CSV** 了解已有的商品
-3. **跑 16 個活躍 queries + 4 個分類頁**
-4. **篩選**：停產品用二手行情比 + 3 天內 + 排除二手店
-5. **人工檢查**：行情表是否需要更新、有沒有新的店家帳號
-6. **寫入 CSV + 更新 README + push + 更新 Gist**
-7. **報告給使用者**，等使用者看完說「都看完了」
-8. **歸檔到歷史**，清空 wishlist 準備下一批
+1. **讀 workflow** 了解系統設定
+2. **跑腳本** `node scrape.js && node process.js`
+3. **讀 log** 檢查有沒有搜尋失敗、被擋、異常
+4. **讀結果** 掃一眼 30 筆好貨，人工移除明顯不對的
+5. **更新行情** 如果發現某類商品行情偏差，更新 MARKET 表
+6. **push** `git add -A && git commit && git push`
+7. **更新 Gist** `gh gist edit {id} README.md`
+8. **報告** 給使用者看，等「都看完了」後歸檔
 
 ### 重要連結
 
