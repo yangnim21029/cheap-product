@@ -201,6 +201,14 @@ Carousell 短時間內連續請求太多會觸發 500 錯誤（"Something's wron
 
 用 `/loop` 的 `ScheduleWakeup` 每小時觸發。
 
+因為 query 和分類很多，每輪只跑 6-8 個 query，按優先級輪流：
+- **A 級（每輪都搜）**：歷史上有找到好貨的 query（dyson、apple watch、Samsung galaxy watch 等）
+- **B 級（隔輪搜）**：偶爾有結果的（marshall、拍立得、空氣清淨機、OSIM）
+- **C 級（每 3 輪搜一次）**：很少結果的（SMEG、Pendleton、Riedel、底片相機）
+- **分類頁**：每輪挑 2-3 個分類掃，輪流覆蓋
+
+這樣每輪控制在 6-8 次搜尋，不會觸發速率限制，也不會太慢。
+
 ## 11. 誰便宜？誰是行情？判斷比價的關鍵
 
 這是整套系統最重要的認知——不是所有低價都是好貨。
