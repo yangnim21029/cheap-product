@@ -1,9 +1,9 @@
 {
-  "apple watch": { "currentNew": 13500, "secondhand": 5000, "note": "S9 $13,500 / 停產各代二手$2,500-5,000" },
+  "apple watch": { "currentNew": 13500, "secondhand": 5000, "note": "S9 $13,500 / SE1二手$2,000 / SE2二手$3,000 / S8二手$5,500", "source": "web search 2026-05-02" },
   "Vivienne Westwood": { "currentNew": 5000, "secondhand": 2000, "note": "項鍊/絲巾/皮夾/戒指混合" },
   "空氣清淨機": { "currentNew": 5000, "secondhand": 2500 },
   "投影機": { "currentNew": 5000, "secondhand": 2500 },
-  "OSIM": { "currentNew": 4000, "secondhand": 2000 },
+  "OSIM": { "currentNew": 4680, "secondhand": 1600, "note": "uMoby促銷$4,680/二手$1,280-1,999", "source": "web search 2026-05-02" },
   "鼠尾草 海鹽": { "currentNew": 5850, "secondhand": 3600, "note": "Jo Malone 100ml" },
   "Jo Malone": { "currentNew": 4200, "secondhand": 2200, "note": "30-100ml 混合均價" },
   "香水": { "currentNew": 5000, "secondhand": 3000, "note": "品牌香水均價" },
