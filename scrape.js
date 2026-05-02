@@ -4,7 +4,7 @@ const fs = require('fs');
 // === 搜尋關鍵字 ===
 const QUERIES = [
   { q: 'apple watch', min: 1000, max: 5000 },
-  { q: 'Samsung Galaxy Watch', min: 1000, max: 5000 },
+  // { q: 'Samsung Galaxy Watch', min: 1000, max: 5000 }, // 暫停：連續4輪空 2026-05-02
   { q: 'Vivienne Westwood', min: 500, max: 5000 },
   { q: '空氣清淨機', min: 500, max: 3000 },
   { q: '投影機', min: 500, max: 5000 },
