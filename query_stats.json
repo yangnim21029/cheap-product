@@ -1,110 +1,110 @@
 {
   "apple watch": {
-    "total": 192,
-    "recentTotal": 69,
+    "total": 48,
+    "recentTotal": 16,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:17:02.041Z"
+    "lastSeen": "2026-05-02T10:59:18.589Z"
   },
   "Samsung Galaxy Watch": {
-    "total": 103,
+    "total": 27,
     "recentTotal": 0,
-    "zeroStreak": 4,
+    "zeroStreak": 1,
     "lastSeen": null
   },
   "Vivienne Westwood": {
-    "total": 192,
-    "recentTotal": 21,
+    "total": 48,
+    "recentTotal": 8,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:17:38.720Z"
+    "lastSeen": "2026-05-02T10:59:51.007Z"
   },
   "空氣清淨機": {
-    "total": 191,
-    "recentTotal": 57,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:17:58.291Z"
-  },
-  "投影機": {
-    "total": 192,
-    "recentTotal": 49,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:18:15.501Z"
-  },
-  "OSIM": {
-    "total": 192,
-    "recentTotal": 8,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:18:32.794Z"
-  },
-  "鼠尾草 海鹽": {
-    "total": 192,
-    "recentTotal": 4,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:18:49.002Z"
-  },
-  "Jo Malone": {
-    "total": 192,
-    "recentTotal": 42,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:19:05.464Z"
-  },
-  "香水": {
-    "total": 192,
-    "recentTotal": 191,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:19:20.513Z"
-  },
-  "marshall": {
-    "total": 192,
-    "recentTotal": 57,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:19:39.118Z"
-  },
-  "bose": {
-    "total": 188,
-    "recentTotal": 41,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:19:55.470Z"
-  },
-  "落地燈": {
-    "total": 156,
-    "recentTotal": 8,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:20:14.708Z"
-  },
-  "空氣循環扇": {
-    "total": 192,
+    "total": 48,
     "recentTotal": 12,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:20:31.954Z"
+    "lastSeen": "2026-05-02T11:00:12.732Z"
   },
-  "nespresso": {
-    "total": 192,
-    "recentTotal": 16,
+  "投影機": {
+    "total": 47,
+    "recentTotal": 12,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:20:50.723Z"
+    "lastSeen": "2026-05-02T11:00:31.757Z"
   },
-  "拍立得": {
-    "total": 192,
-    "recentTotal": 72,
+  "OSIM": {
+    "total": 48,
+    "recentTotal": 2,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:21:07.458Z"
+    "lastSeen": "2026-05-02T11:00:49.616Z"
   },
-  "藍牙喇叭": {
-    "total": 190,
-    "recentTotal": 58,
+  "鼠尾草 海鹽": {
+    "total": 48,
+    "recentTotal": 1,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T07:21:23.748Z"
+    "lastSeen": "2026-05-02T11:01:06.239Z"
   },
-  "立燈": {
-    "total": 144,
+  "Jo Malone": {
+    "total": 47,
+    "recentTotal": 10,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:01:22.723Z"
+  },
+  "香水": {
+    "total": 47,
+    "recentTotal": 47,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:01:40.662Z"
+  },
+  "marshall": {
+    "total": 46,
     "recentTotal": 15,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T06:21:32.935Z"
+    "lastSeen": "2026-05-02T11:01:55.732Z"
+  },
+  "bose": {
+    "total": 47,
+    "recentTotal": 12,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:02:14.531Z"
+  },
+  "落地燈": {
+    "total": 39,
+    "recentTotal": 2,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:02:30.906Z"
+  },
+  "空氣循環扇": {
+    "total": 47,
+    "recentTotal": 3,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:02:47.802Z"
+  },
+  "nespresso": {
+    "total": 46,
+    "recentTotal": 4,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:03.783Z"
+  },
+  "拍立得": {
+    "total": 48,
+    "recentTotal": 21,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:21.623Z"
+  },
+  "藍牙喇叭": {
+    "total": 47,
+    "recentTotal": 16,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:38.690Z"
+  },
+  "立燈": {
+    "total": 47,
+    "recentTotal": 6,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:55.974Z"
   },
   "VR": {
-    "total": 144,
-    "recentTotal": 14,
+    "total": 46,
+    "recentTotal": 5,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T06:21:49.598Z"
+    "lastSeen": "2026-05-02T11:04:11.811Z"
   }
 }

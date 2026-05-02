@@ -2,11 +2,15 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/2 15:26:01
+> 最後更新：2026/5/2 19:07:14
 
-## 目前清單
+## 目前清單（3 筆）
 
-巡邏中，下一批即將更新...
+| 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |
+|------|------|----------|------|------|------|------|
+| Hermes Voyage d'Hermes 愛馬仕之旅中性淡香水 | NT$520 | 新$5700 | 9% | Lightly used | 05/02 16:07 | <a href="https://tw.carousell.com/p/1424221447/" target="_blank">查看</a> |
+| Shiro 白茶 香水 | NT$762 | 新$3200 | 24% | Lightly used | 05/02 18:07 | <a href="https://tw.carousell.com/p/1435622576/" target="_blank">查看</a> |
+| YSL 天之嬌子 夜幕版淡香水100ML | NT$1,500 | 新$4500 | 33% | Lightly used | 05/02 16:07 | <a href="https://tw.carousell.com/p/1435599728/" target="_blank">查看</a> |
 
 ---
 
