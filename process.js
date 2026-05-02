@@ -69,7 +69,8 @@ const seenSet = new Set(seenHistory);
 // === 主流程 ===
 const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
 const seen = new Set();
-const deals = [];
+const allDeals = [];  // 所有好貨（含已看過，README 用）
+const newDeals = []; // 新發現（報告用）
 let skippedDup = 0;
 
 raw.forEach(item => {
@@ -80,8 +81,6 @@ raw.forEach(item => {
   if (price < 300) return;
   if (seen.has(item.url)) return;
   seen.add(item.url);
-  const pid = item.url.match(/\/p\/(\d+)/)?.[1];
-  if (pid && seenSet.has(pid)) { skippedDup++; return; }
   if (SKIP.some(w => item.title.includes(w))) return;
 
   const mkt = findMarket(item.title, item.category);
@@ -100,18 +99,23 @@ raw.forEach(item => {
   if (passNew || passSecondhand) {
     const isReseller = RESELLERS.has(item.seller);
     const sellerNote = isReseller ? resellerNotes[item.seller] || '批量賣家' : '';
-    // timeAgo → UTC+8 絕對時間
     const listedAt = timeAgoToTimestamp(item.timeAgo);
-    deals.push({ ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand, isReseller, sellerNote, listedAt });
+    const deal = { ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand, isReseller, sellerNote, listedAt };
+    allDeals.push(deal);
+
+    const pid = item.url.match(/\/p\/(\d+)/)?.[1];
+    if (pid && seenSet.has(pid)) { skippedDup++; }
+    else { newDeals.push(deal); }
   }
 });
 
 // 按折數排序（用二手行情折數）
-deals.sort((a, b) => a.vsSecondhand - b.vsSecondhand);
+allDeals.sort((a, b) => a.vsSecondhand - b.vsSecondhand);
+newDeals.sort((a, b) => a.vsSecondhand - b.vsSecondhand);
 
 // === 輸出 CSV ===
 const csvLines = ['category|seller|title|price|condition|url|比較基準|vs_new|vs_secondhand|listed_at'];
-deals.forEach(d => {
+allDeals.forEach(d => {
   const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}/二手$${d.mkt.secondhand}` : `二手$${d.mkt.secondhand}(停產)`;
   csvLines.push(`${d.category}|${d.seller}|${escPipe(d.title)}|${d.priceStr}|${d.condition}|${d.url}|${basis}|${d.vsNew ?? '-'}%|${d.vsSecondhand}%|${d.listedAt}`);
 });
@@ -120,8 +124,8 @@ fs.writeFileSync('carousell_wishlist_20260501.csv', csvLines.join('\n') + '\n');
 // === 輸出報告 ===
 const recentCount = [...new Set(raw.filter(i => isRecent(i.timeAgo)).map(i => i.url))].length;
 console.log(`\n=== Batch 結果 ===`);
-console.log(`原始 ${raw.length} → 3天內 ${recentCount} → 好貨 ${deals.length} 筆（跳過 ${skippedDup} 筆已看過）\n`);
-deals.forEach((d, i) => {
+console.log(`原始 ${raw.length} → 3天內 ${recentCount} → 好貨 ${allDeals.length} 筆（新 ${newDeals.length}，已看過 ${skippedDup}）\n`);
+newDeals.forEach((d, i) => {
   const basis = d.mkt.currentNew
     ? `新品${d.vsNew}% 二手${d.vsSecondhand}%`
     : `二手${d.vsSecondhand}% (停產品,無新品價)`;
@@ -135,13 +139,13 @@ const now = new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12
 let md = `# Carousell 二手好物清單\n\n`;
 md += `16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比\n\n`;
 md += `> 最後更新：${now}\n\n`;
-if (deals.length === 0) {
+if (allDeals.length === 0) {
   md += `## 目前清單\n\n巡邏中，下一批即將更新...\n`;
 } else {
-  md += `## 目前清單（${deals.length} 筆）\n\n`;
+  md += `## 目前清單（${allDeals.length} 筆，新 ${newDeals.length}）\n\n`;
   md += `| 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |\n`;
   md += `|------|------|----------|------|------|------|------|\n`;
-  deals.forEach(d => {
+  allDeals.forEach(d => {
     const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
     const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
     const warn = d.isReseller ? ' ⚠' : '';
@@ -156,7 +160,7 @@ fs.writeFileSync('README.md', md);
 
 // === 更新 deals.html ===
 let html = `<!DOCTYPE html>\n<html lang="zh-TW">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1.0">\n<title>Carousell 二手好物清單</title>\n<style>\n*{margin:0;padding:0;box-sizing:border-box}\nbody{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0a0a;color:#e0e0e0;padding:20px;max-width:960px;margin:0 auto}\nh1{font-size:1.6rem;margin-bottom:6px;color:#fff}\n.sub{color:#888;margin-bottom:20px;font-size:.85rem}\ntable{width:100%;border-collapse:collapse;margin-bottom:30px}\nth{text-align:left;padding:10px 6px;border-bottom:2px solid #333;color:#888;font-size:.75rem;text-transform:uppercase}\ntd{padding:8px 6px;border-bottom:1px solid #1a1a1a;font-size:.85rem}\ntr:hover{background:#111}\n.p{color:#e8364e;font-weight:700}\n.d{color:#4ade80;font-weight:700}\na{color:#60a5fa;text-decoration:none}\na:hover{text-decoration:underline}\n.t{font-size:.8rem;color:#666}\n</style>\n</head>\n<body>\n<h1>Carousell 二手好物清單</h1>\n<p class="sub">新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情 | ${now}</p>\n<table>\n<tr><th>品項</th><th>價格</th><th>比較基準</th><th>折數</th><th>狀態</th><th>上架</th><th></th></tr>\n`;
-deals.forEach(d => {
+allDeals.forEach(d => {
   const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
   const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
   html += `<tr><td>${d.title}</td><td class="p">${d.priceStr}</td><td>${basis}</td><td class="d">${disc}</td><td class="t">${d.condition}</td><td class="t">${d.listedAt}</td><td><a href="${d.url}" target="_blank">查看</a></td></tr>\n`;
@@ -165,7 +169,7 @@ html += `</table>\n</body>\n</html>`;
 fs.writeFileSync('deals.html', html);
 
 // === 更新 seen_ids（去重用）===
-const newIds = deals.map(d => d.url.match(/\/p\/(\d+)/)?.[1]).filter(Boolean);
+const newIds = newDeals.map(d => d.url.match(/\/p\/(\d+)/)?.[1]).filter(Boolean);
 const allSeen = [...new Set([...seenHistory, ...newIds])];
 fs.writeFileSync(SEEN_FILE, JSON.stringify(allSeen, null, 2));
 console.log(`\n✓ CSV + README + HTML 已更新`);
