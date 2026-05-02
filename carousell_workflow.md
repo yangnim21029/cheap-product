@@ -14,7 +14,7 @@ https://tw.carousell.com/search/{關鍵字}?addRecent=false&layered_condition=3%
 
 ## 02. 兩個腳本跑完整套流程
 
-`scrape.js` 用 Playwright headless Chromium 自動開 18 個搜尋頁 + 6 個分類頁，每頁等 5 秒讓 SPA 渲染完再抓資料，全程約 5 分鐘，輸出 `raw_results.json`。
+`scrape.js` 用 Playwright headless Chromium 自動開搜尋頁 + 分類頁，每頁等 5 秒讓 SPA 渲染完再抓資料，全程約 5 分鐘，輸出 `raw_results.json`。
 
 `process.js` 讀 raw_results.json，套用行情表比價、排除店家、過濾配件和過期商品，輸出 CSV + README + deals.html。同時讀 `seen_ids.json` 做去重，使用者看過的不會再出現。
 
@@ -24,153 +24,164 @@ node scrape.js && node process.js
 
 跑完一定要讀 scrape.js 的 log，確認每個 query 都有結果、沒有被 Carousell 擋（500 錯誤）、分類頁的 Sort → Recent 有成功。
 
-## 03. 行情表決定什麼是「便宜」
+## 03. 行情表是 category → 價格的簡單對照
 
-`market_prices.json` 存了每個商品類別的新品價和二手行情，是整套系統的判斷核心。每筆有：
+`market_prices.json` 是一個 JSON object，key 就是 scrape 的 query 名稱或分類名，直接查表，不用 regex。
 
-- `currentNew`：目前仍在賣的新品售價。停產品填 `null`。
-- `secondhand`：Carousell 上的二手行情均價，從店家定價和 web search 得來。
-- `source`：價格來源，方便下次驗證時知道這數字怎麼來的。
+```json
+{
+  "apple watch": { "currentNew": 13500, "secondhand": 5000 },
+  "marshall": { "currentNew": 6500, "secondhand": 3500 },
+  "藍牙喇叭": { "currentNew": 3000, "secondhand": 1500 }
+}
+```
 
 比價規則：**售價 ≤ 新品 × 30%** 或 **售價 ≤ 二手行情 × 70%**，符合任一就算好貨。
 
-新增品項時，先 web search 查台灣售價，再到 Carousell 搜同款看店家和其他賣家怎麼定價，兩邊對照後填入。不能用猜的——之前猜 Bose Home 新品 $9,900，實際只有 $6,500，差了 $3,400。
+行情數字**必須用 subagent web search 查**，不能用猜的。之前猜 Bose Home 新品 $9,900，實際只有 $6,500，差了 $3,400。查完的數字附上 `source` 欄位記來源。
+
+分類頁（家具居家、精品等）不設行情——太雜，$500 鍋碗瓢盆會被當成 5% 的好貨。分類頁只作為 scrape 來源，不進比價。
 
 ## 04. 停產品不能用原價比
 
 Apple Watch SE1 原價 $7,900，但那是 2020 年的事。現在二手行情只有 $2,500。如果拿 $1,500 跟原價比會得到 19%（看起來超便宜），但跟二手行情比是 60%（接近市場價）。
 
-在 `market_prices.json` 裡，停產品的 `currentNew` 填 `null`，process.js 就只會用 `secondhand` 來比。常見的停產品：Apple Watch SE1/SE2/S6-S8、Samsung Watch 6、Bose QC Earbuds II、Nespresso Pixie、OSIM 護眼樂 OS-180。
+在 `market_prices.json` 裡，停產品的 `currentNew` 填 `null`，process.js 就只會用 `secondhand` 來比。
 
 ## 05. 賣家比商品重要
 
-同一支 Apple Watch SE1 $1,500，個人急售 vs 二手連鎖店 vs 定價偏高的批量賣家，意義完全不同。
-
 `sellers.json` 把賣家分四層：
 
-- **shops**（直接排除）：澄橘、艾爾巴、百豐悅、蒐機王、carrot_chen——他們的定價就是行情，不算便宜。
-- **overpriced**（直接排除）：像 maxwilliam，所有商品都 Bumped（付費置頂）但賣不掉，代表定價高於市場願付。
-- **resellers**（保留但標 ⚠）：像 lover.perfume 香水批量商，有成交量但不是個人出清，看到 ⚠ 再自己判斷。
-- **trusted**（優先）：已確認的個人賣家，像 zzz9121 有收據的 VW 絲巾。
+- **shops**（直接排除）：澄橘、艾爾巴、百豐悅、蒐機王、carrot_chen
+- **overpriced**（直接排除）：maxwilliam（全 Bumped 賣不動）
+- **resellers**（保留但標 ⚠）：lover.perfume 等批量賣家
+- **trusted**（優先）：已確認的個人賣家
 
-判斷新賣家的方法：開 `https://tw.carousell.com/u/{seller}/`，看 Orders 數量、Reviews、加入多久、有沒有多筆 Bumped。500+ Orders + 品類集中 = 店家；全部 Bumped = 定價偏高；< 50 Orders + 雜物 = 個人出清。
+判斷新賣家：開 `https://tw.carousell.com/u/{seller}/`，看 Orders/Reviews/Joined/Bumped。
 
-## 06. 過濾掉的不只是店家
+## 06. SKIP 詞表過濾垃圾
 
-process.js 有一個 SKIP 詞表，會排除標題包含這些詞的商品：配件、電源線、濾網、維修、錶帶、底座、收納架、吸頭、馬達、電池、護手霜、相紙、DVD、運動衣、瑜珈服、運動內衣⋯⋯
+process.js 有 SKIP 詞表，標題包含這些詞的商品直接跳過。這個表是從實際結果裡一次次發現垃圾後累積的，包括：配件/耗材、衣服、低價雜牌、家電雜物、美妝小物等。
 
-這個表是從實際結果裡一次次發現垃圾後累積的。每輪跑完如果看到不該出現的東西（比如 Aesop 潔膚露被當成香水、Polaroid 相紙被當成拍立得），就把關鍵字加進去。
-
-Lululemon 的衣服也被排除了——單件市價低，只留褲子、包、組合。
+每輪跑完如果看到不該出現的東西，就把關鍵字加進 SKIP。
 
 ## 07. 3 天內才有意義
 
-二手好貨的時間窗口很短，通常幾小時到一天。超過 3 天的幾乎都被搶走了或是沒人要。process.js 的 `isRecent` 只留 minutes/hours/1 day/2 days/yesterday。
+process.js 的 `isRecent` 只留 minutes/hours/1 day/2 days/yesterday。超過 3 天的幾乎都被搶走了。
 
-之前踩過坑：分類頁的 Sort → Recent 沒成功時，會混入 11 天甚至 21 天前的商品。所以 isRecent 要先排除 `\d+ days`（3+ 天），再正向匹配 1-2 天。
+## 08. 去重靠 seen_ids.json（絕對不能刪）
 
-## 08. 去重靠 seen_ids.json
+每輪 process.js 跑完會把新好貨的 product ID 寫入 `seen_ids.json`。下輪這些 ID 會被跳過，不再出現在 README。
 
-每輪 process.js 跑完會把好貨的 product ID 寫入 `seen_ids.json`。下輪跑同樣的 raw data 時，這些 ID 會被跳過。使用者說「看完了」不需要手動歸檔，seen_ids 自動處理。
+**⚠ 絕對不要刪除 seen_ids.json。** 之前為了測試反覆 `rm seen_ids.json`，導致使用者已看過的商品一直重複出現。如果需要測試 process.js 的邏輯，用其他方式（比如改閾值看數量變化），不要清已看記錄。
 
-如果要重置（比如想重看全部），刪掉 seen_ids.json 再跑 process.js 就好。
+README 只顯示**新發現的未看過商品**。沒有新貨時顯示「本輪無新好貨（已看過 X 筆）」。
 
 ## 09. 每輪巡邏的完整步驟
 
 1. `node scrape.js` — 抓資料，讀 log 確認沒異常
 2. `node process.js` — 過濾比價，看輸出筆數和跳過數
-3. 掃結果 — 有沒有配件混入、店家漏網、行情偏差
-4. 查新賣家 — 沒見過的開 `/u/{seller}/` 看 Orders/Bumped，分類到 sellers.json
-5. 查行情 — 價格可疑的 web search 確認，更新 market_prices.json
-6. 展開搜法 — 發現好貨就搜更廣的品牌名
-7. `git push` + 更新 Gist
-8. 報告給 Rose，等「看完了」
+3. 掃結果 — 有沒有垃圾混入、店家漏網
+4. 查新賣家 — 沒見過的開 profile，分類到 sellers.json
+5. 查行情 — 用 subagent web search 確認，更新 market_prices.json
+6. `git push` + 更新 Gist
+7. 報告給 Rose
+
+**不要做的事：**
+- 不要 `rm seen_ids.json`（會讓已看商品重複出現）
+- 不要用猜的填行情表（必須 web search）
+- 不要用 regex 匹配標題（用 category 直接查表）
 
 ## 10. 使用者加新品項時
 
-Rose 說「我想找 XXX」→ 做這些：
-
 1. 加到 `scrape.js` 的 QUERIES 陣列（關鍵字 + 價格區間）
-2. Web search 查新品價和二手行情
-3. 加到 `market_prices.json`（pattern + currentNew + secondhand + source）
+2. 用 subagent web search 查新品價和二手行情
+3. 加到 `market_prices.json`（key = query 名稱）
 4. 跑一輪確認有結果
 5. 更新這份 workflow 的 queries 表
 
-## 11. 腳本做不到的事
+## 11. query 效果追蹤
 
-腳本負責量（18 queries × 48 筆 = ~900 筆自動掃描），人負責質：
+`query_stats.json` 記錄每個 query 的效果。scrape.js 每輪更新，連續 3+ 輪沒有 3 天內商品的 query 會在 log 中標記 `⚠ 建議暫停`。
 
+看到建議暫停的 query，在 scrape.js 中註解掉並加日期。
+
+## 12. 腳本做不到的事
+
+- **確認行情**：必須 subagent web search，不靠猜
 - **判斷賣家身份**：看 profile 決定是店家還是個人
-- **確認行情**：web search 查真實價格，不靠猜
-- **判斷商品品質**：過保、缺件、Heavily used、維修品、仿品
-- **展開搜法**：從一筆好貨展開搜整個品牌
+- **判斷商品品質**：過保、缺件、仿品
 - **維護 SKIP 詞表**：每輪看到垃圾就加
-- **翻頁**：腳本只抓首頁 ~48 筆，想看更多要用 Chrome DevTools MCP 手動瀏覽
+- **翻頁**：腳本只抓首頁 ~48 筆，想看更多用 Chrome DevTools MCP
 
-## 12. 目前監控的 18 個 queries
+## 13. 目前監控的 13 個 queries
 
 | 關鍵字 | 價格區間 | 備註 |
 |--------|---------|------|
 | apple watch | $1,000-5,000 | 各代 SE/S6-S9 |
-| Samsung Galaxy Watch | $1,000-5,000 | Watch 4/5/6/7 |
-| Vivienne Westwood | $500-5,000 | 戒指/項鍊/飾品 |
 | 空氣清淨機 | $500-3,000 | 大金/飛利浦/SHARP/小米 |
 | 投影機 | $500-5,000 | 便攜型 |
 | OSIM | $500-5,000 | 眼部/肩頸/腿部按摩 |
-| 鼠尾草 海鹽 | $500-5,000 | Jo Malone |
-| Jo Malone | $500-5,000 | 各款香水 |
-| 香水 | $500-5,000 | 品牌香水全搜 |
-| lululemon | $300-3,000 | 褲/包/組合（衣服不查）|
 | marshall | $1,000-5,000 | 喇叭/耳機 |
 | bose | $1,000-5,000 | 喇叭/耳機 |
-| 落地燈 | $500-5,000 | 品牌/設計款 |
+| 落地燈 | $1,000-5,000 | 品牌/設計款 |
 | 空氣循環扇 | $500-3,000 | Vornado/百慕達 |
 | nespresso | $500-3,000 | 膠囊咖啡機 |
 | 拍立得 | $500-5,000 | 停產款有收藏價值 |
-| 藍牙喇叭 | $500-5,000 | 不限品牌 |
+| 藍牙喇叭 | $500-5,000 | 不限品牌，優先找 |
 | 立燈 | $500-5,000 | 同「落地燈」補充搜尋 |
 | VR | $1,000-5,000 | Quest 2/3/3S、PS VR2、Pico 4 |
 
-分類頁 6 個：家具居家、美妝保養、精品、手機平板、家電影音、音響耳機。
+分類頁 6 個（min $2,000）：家具居家、美妝保養、精品、手機平板、家電影音、音響耳機。分類頁不進比價，只作為 scrape 來源。
 
-暫停的：dyson、FLOS、Artemide、Philips Hue、JBL、Switch 主機、sodastream、懶骨頭。
+### 暫停的 queries
 
-## 13. 踩過的坑一覽
+| 關鍵字 | 暫停原因 | 日期 |
+|--------|---------|------|
+| Samsung Galaxy Watch | 連續 4 輪空 | 2026-05-02 |
+| 鼠尾草 海鹽 | 香水已搞定 | 2026-05-02 |
+| Jo Malone | 香水已搞定 | 2026-05-02 |
+| 香水 | 香水已搞定 | 2026-05-02 |
+| Vivienne Westwood | 暫停 | 2026-05-02 |
+| lululemon | 沒好貨 | 2026-05-02 |
+| dyson | Rose 不追了 | 之前 |
+
+## 14. 踩過的坑一覽
 
 | 錯誤 | 結果 | 修正 |
 |------|------|------|
-| 停產品用原價比 | AW SE1 顯示 19% 超便宜 | 實際二手行情 60%，改用 secondhand |
-| 沒 web search 猜價格 | Bose Home 差 $3,400 | 一律 web search 確認後填表 |
-| 二手店當便宜貨 | 澄橘的價格就是行情 | 店家帳號寫入 sellers.json 排除 |
-| Bumped 賣家沒排除 | maxwilliam 賣不掉的也進清單 | 開 profile 看 Bumped 狀態 |
-| Playwright 用 networkidle | Carousell SPA 永遠等不到 | 改 load + waitForTimeout(5000) |
-| evaluate 傳字串不執行 | 全部 query 回傳 0 筆 | 改 IIFE: `(${SCRAPE_JS})()` |
-| isRecent 漏放舊商品 | 21 天前的混進來 | 先排除 `\d+ days` 再正向匹配 |
-| VW 絲巾二手價猜 $1,500 | 實際 $600，$500 不算便宜 | web search 確認各款式價差 |
+| 刪 seen_ids.json 測試 | 已看過的商品一直重複出現 | **絕對不刪 seen_ids.json** |
+| 用 regex 匹配標題 | 66% 商品靜默被丟棄 | 改用 category 直接查表 |
+| 分類頁設通用行情 | $500 鬆餅機被當成 10% 好貨 | 分類頁不進比價 |
+| 猜行情不 web search | Bose Home 差 $3,400 | 必須 subagent web search |
+| 停產品用原價比 | AW SE1 顯示 19% 超便宜 | 用 secondhand 比 |
+| 二手店當便宜貨 | 澄橘定價就是行情 | sellers.json 排除 |
+| Playwright 用 networkidle | Carousell SPA 永遠等不到 | load + waitForTimeout |
+| evaluate 傳字串不執行 | 全部 query 回傳 0 筆 | IIFE: `(${SCRAPE_JS})()` |
 
-## 14. 檔案結構
+## 15. 檔案結構
 
-| 檔案 | 用途 | 更新時機 |
-|------|------|---------|
-| `scrape.js` | 抓 Carousell 資料 | 加/改 query 時 |
-| `process.js` | 過濾 + 比價 + 輸出 | 改邏輯、加 SKIP 詞時 |
-| `market_prices.json` | 行情表（新品價 + 二手價）| web search 查到新價格時 |
-| `sellers.json` | 賣家分四層 | 發現新店家/批量賣家時 |
-| `seen_ids.json` | 已看過的商品 ID | 自動維護 |
+| 檔案 | 用途 | 注意 |
+|------|------|------|
+| `scrape.js` | 抓 Carousell 資料 | 加/改 query 時改 |
+| `process.js` | 過濾 + 比價 + 輸出 | 改邏輯、加 SKIP 詞時改 |
+| `market_prices.json` | 行情表（key=category）| subagent web search 後填 |
+| `sellers.json` | 賣家分四層 | 發現新店家時加 |
+| `seen_ids.json` | 已看過的商品 ID | **不要刪** |
+| `query_stats.json` | query 效果追蹤 | 自動維護 |
 | `raw_results.json` | 原始抓取資料 | 每輪自動覆蓋 |
 | `README.md` / `deals.html` | 展示頁 | 每輪自動生成 |
-| `query_log.md` | 搜尋效果追蹤 | 人工記錄 |
 
-## 15. 重要連結
+## 16. 重要連結
 
 - Gist：https://gist.github.com/yangnim21029/8b9b7ab910319ac83f1b36761c26cfc9
 - GitHub：https://github.com/yangnim21029/cheap-product
 - 本地：`/Users/rose/Documents/cheap-product/`
 
-## 16. 恍然大悟：便宜不是價格低，是低於該低的
+## 17. 恍然大悟：便宜不是價格低，是低於該低的
 
 一支 $1,500 的 Apple Watch SE1 看起來很便宜——原價 $7,900 的兩折不到。但那是 2020 年的產品，二手行情只有 $2,500，$1,500 其實是六折。六折不是撿漏，是正常交易。
 
-真正的撿漏是：有人不知道行情、急著出清、或是純粹懶得查價。這個窗口通常只有幾小時。二手店看到就會收購，其他買家看到就會搶走。
+真正的撿漏是：有人不知道行情、急著出清、或是純粹懶得查價。這個窗口通常只有幾小時。
 
-所以整套系統做的不是「找便宜的東西」，而是在行情表準確的前提下，比市場快一步看到那些定價不合理的瞬間。行情表錯了，一切都錯——這就是為什麼 market_prices.json 必須用 web search 查、用 Carousell 店家價驗證、而不能用猜的。
+所以整套系統做的不是「找便宜的東西」，而是在行情表準確的前提下，比市場快一步看到定價不合理的瞬間。行情表錯了，一切都錯——這就是為什麼行情必須 subagent web search、不能用猜的、不能用 regex 靜默丟棄。
