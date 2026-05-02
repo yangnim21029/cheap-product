@@ -139,13 +139,13 @@ const now = new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12
 let md = `# Carousell 二手好物清單\n\n`;
 md += `16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比\n\n`;
 md += `> 最後更新：${now}\n\n`;
-if (allDeals.length === 0) {
-  md += `## 目前清單\n\n巡邏中，下一批即將更新...\n`;
+if (newDeals.length === 0) {
+  md += `## 目前清單\n\n本輪無新好貨（已看過 ${skippedDup} 筆）。持續巡邏中。\n`;
 } else {
-  md += `## 目前清單（${allDeals.length} 筆，新 ${newDeals.length}）\n\n`;
+  md += `## 目前清單（${newDeals.length} 筆新貨）\n\n`;
   md += `| 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |\n`;
   md += `|------|------|----------|------|------|------|------|\n`;
-  allDeals.forEach(d => {
+  newDeals.forEach(d => {
     const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
     const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
     const warn = d.isReseller ? ' ⚠' : '';
@@ -160,7 +160,7 @@ fs.writeFileSync('README.md', md);
 
 // === 更新 deals.html ===
 let html = `<!DOCTYPE html>\n<html lang="zh-TW">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1.0">\n<title>Carousell 二手好物清單</title>\n<style>\n*{margin:0;padding:0;box-sizing:border-box}\nbody{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0a0a;color:#e0e0e0;padding:20px;max-width:960px;margin:0 auto}\nh1{font-size:1.6rem;margin-bottom:6px;color:#fff}\n.sub{color:#888;margin-bottom:20px;font-size:.85rem}\ntable{width:100%;border-collapse:collapse;margin-bottom:30px}\nth{text-align:left;padding:10px 6px;border-bottom:2px solid #333;color:#888;font-size:.75rem;text-transform:uppercase}\ntd{padding:8px 6px;border-bottom:1px solid #1a1a1a;font-size:.85rem}\ntr:hover{background:#111}\n.p{color:#e8364e;font-weight:700}\n.d{color:#4ade80;font-weight:700}\na{color:#60a5fa;text-decoration:none}\na:hover{text-decoration:underline}\n.t{font-size:.8rem;color:#666}\n</style>\n</head>\n<body>\n<h1>Carousell 二手好物清單</h1>\n<p class="sub">新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情 | ${now}</p>\n<table>\n<tr><th>品項</th><th>價格</th><th>比較基準</th><th>折數</th><th>狀態</th><th>上架</th><th></th></tr>\n`;
-allDeals.forEach(d => {
+newDeals.forEach(d => {
   const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
   const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
   html += `<tr><td>${d.title}</td><td class="p">${d.priceStr}</td><td>${basis}</td><td class="d">${disc}</td><td class="t">${d.condition}</td><td class="t">${d.listedAt}</td><td><a href="${d.url}" target="_blank">查看</a></td></tr>\n`;
