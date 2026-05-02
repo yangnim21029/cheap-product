@@ -67,6 +67,11 @@ const SCRAPE_JS = `() => {
 const delay = ms => new Promise(r => setTimeout(r, ms));
 const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
 
+// === Query 效果追蹤 ===
+const STATS_FILE = 'query_stats.json';
+let stats = {};
+try { stats = JSON.parse(fs.readFileSync(STATS_FILE, 'utf8')); } catch {}
+
 (async () => {
   console.log(`[${ts()}] 啟動 Chromium...`);
   const browser = await chromium.launch({ headless: true });
@@ -120,6 +125,17 @@ const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
 
       all.push(...items);
       errorCount = 0;
+
+      // 記錄 query 效果
+      if (!stats[q]) stats[q] = { total: 0, recentTotal: 0, zeroStreak: 0, lastSeen: null };
+      stats[q].total += items.length;
+      stats[q].recentTotal += recent.length;
+      if (recent.length === 0) {
+        stats[q].zeroStreak = (stats[q].zeroStreak || 0) + 1;
+      } else {
+        stats[q].zeroStreak = 0;
+        stats[q].lastSeen = new Date().toISOString();
+      }
     } catch (e) {
       console.log(`  ❌ 失敗: ${e.message.slice(0, 80)}`);
       errorCount++;
@@ -206,5 +222,17 @@ const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
 
   fs.writeFileSync('raw_results.json', JSON.stringify(all, null, 2));
   console.log(`已寫入 raw_results.json`);
+
+  // === Query 效果報告 ===
+  const deadQueries = Object.entries(stats).filter(([, s]) => s.zeroStreak >= 3);
+  if (deadQueries.length > 0) {
+    console.log(`\n⚠ 建議暫停的 queries（連續 3+ 輪 0 筆 3 天內商品）：`);
+    deadQueries.forEach(([q, s]) => {
+      console.log(`  ✗ "${q}" — 連續 ${s.zeroStreak} 輪沒新貨，上次有貨: ${s.lastSeen || '從未'}`);
+    });
+  }
+
+  fs.writeFileSync(STATS_FILE, JSON.stringify(stats, null, 2));
+  console.log(`\n已寫入 ${STATS_FILE}`);
   console.log(`接下來跑: node process.js`);
 })();
