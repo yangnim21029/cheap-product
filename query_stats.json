@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 189,
-    "recentTotal": 67,
+    "total": 237,
+    "recentTotal": 85,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:17:01.973Z"
+    "lastSeen": "2026-05-02T14:16:59.593Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,22 +18,22 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 190,
-    "recentTotal": 52,
+    "total": 238,
+    "recentTotal": 65,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:17:57.129Z"
+    "lastSeen": "2026-05-02T14:17:15.829Z"
   },
   "投影機": {
-    "total": 188,
-    "recentTotal": 47,
+    "total": 236,
+    "recentTotal": 60,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:18:13.188Z"
+    "lastSeen": "2026-05-02T14:17:31.366Z"
   },
   "OSIM": {
-    "total": 189,
-    "recentTotal": 8,
+    "total": 236,
+    "recentTotal": 10,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:18:29.226Z"
+    "lastSeen": "2026-05-02T14:17:47.065Z"
   },
   "鼠尾草 海鹽": {
     "total": 190,
@@ -54,57 +54,57 @@
     "lastSeen": "2026-05-02T13:19:20.436Z"
   },
   "marshall": {
-    "total": 189,
-    "recentTotal": 61,
+    "total": 236,
+    "recentTotal": 76,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:19:35.262Z"
+    "lastSeen": "2026-05-02T14:18:05.393Z"
   },
   "bose": {
-    "total": 191,
-    "recentTotal": 48,
+    "total": 239,
+    "recentTotal": 60,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:19:51.658Z"
+    "lastSeen": "2026-05-02T14:18:22.433Z"
   },
   "落地燈": {
-    "total": 156,
-    "recentTotal": 8,
+    "total": 195,
+    "recentTotal": 10,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:20:07.982Z"
+    "lastSeen": "2026-05-02T14:18:40.735Z"
   },
   "空氣循環扇": {
-    "total": 189,
-    "recentTotal": 12,
+    "total": 237,
+    "recentTotal": 15,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:20:23.726Z"
+    "lastSeen": "2026-05-02T14:18:59.050Z"
   },
   "nespresso": {
-    "total": 189,
-    "recentTotal": 16,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:20:40.726Z"
-  },
-  "拍立得": {
-    "total": 191,
-    "recentTotal": 82,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:20:59.774Z"
-  },
-  "藍牙喇叭": {
-    "total": 190,
-    "recentTotal": 63,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:21:18.221Z"
-  },
-  "立燈": {
-    "total": 191,
-    "recentTotal": 24,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:21:34.371Z"
-  },
-  "VR": {
-    "total": 189,
+    "total": 237,
     "recentTotal": 20,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T13:21:50.646Z"
+    "lastSeen": "2026-05-02T14:19:17.168Z"
+  },
+  "拍立得": {
+    "total": 238,
+    "recentTotal": 102,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T14:19:35.133Z"
+  },
+  "藍牙喇叭": {
+    "total": 238,
+    "recentTotal": 78,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T14:19:52.509Z"
+  },
+  "立燈": {
+    "total": 239,
+    "recentTotal": 30,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T14:20:09.327Z"
+  },
+  "VR": {
+    "total": 237,
+    "recentTotal": 25,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T14:20:26.303Z"
   }
 }
