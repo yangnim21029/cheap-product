@@ -12,7 +12,7 @@ const QUERIES = [
   { q: '鼠尾草 海鹽', min: 500, max: 5000 },
   { q: 'Jo Malone', min: 500, max: 5000 },
   { q: '香水', min: 500, max: 5000 },
-  { q: 'lululemon', min: 300, max: 3000 },
+  // lululemon 略過 — Rose 2026-05-02
   { q: 'marshall', min: 1000, max: 5000 },
   { q: 'bose', min: 1000, max: 5000 },
   { q: '落地燈', min: 1000, max: 5000 },

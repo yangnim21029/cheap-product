@@ -10,10 +10,10 @@ const RESELLERS = new Set(sellersData.resellers.accounts.map(a => a.id));
 const resellerNotes = Object.fromEntries(sellersData.resellers.accounts.map(a => [a.id, a.note]));
 
 // === 跳過配件/周邊/非商品 ===
-const SKIP = ['配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','充電線','說明書','潔膚露','面膜','髮夾','相紙','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒','運動衣','瑜珈服','運動內衣','Tank','Sleeve','Top','底片','DIY','自製','KTV','麥克風','卡拉OK','K歌'];
+const SKIP = ['配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','充電線','說明書','潔膚露','面膜','髮夾','相紙','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒','運動衣','瑜珈服','運動內衣','Tank','Sleeve','Top','底片','DIY','自製','KTV','麥克風','卡拉OK','K歌','UDP-G25','NovaPlus','騎馬機'];
 
 // === 跳過的 category ===
-const SKIP_CAT = ['dyson'];
+const SKIP_CAT = ['dyson', 'lululemon'];
 
 // === 市場行情表：從 market_prices.json 讀取 ===
 // 判斷規則：price <= currentNew*0.30 OR price <= secondhand*0.70
@@ -42,6 +42,24 @@ const isRecent = t => {
 
 const parsePrice = p => parseInt((p || '').replace(/[^0-9]/g, '')) || 0;
 
+function timeAgoToTimestamp(timeAgo) {
+  const now = new Date();
+  if (!timeAgo) return '';
+  const m = timeAgo.match(/(\d+)\s*(minute|hour|day)/);
+  if (m) {
+    const n = parseInt(m[1]);
+    const unit = m[2];
+    if (unit === 'minute') now.setMinutes(now.getMinutes() - n);
+    else if (unit === 'hour') now.setHours(now.getHours() - n);
+    else if (unit === 'day') now.setDate(now.getDate() - n);
+  } else if (timeAgo.includes('yesterday')) {
+    now.setDate(now.getDate() - 1);
+  }
+  return now.toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false, month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
+}
+
+const escPipe = s => (s || '').replace(/\|/g, '/');
+
 // === 去重：排除之前已看過的 product ID ===
 const SEEN_FILE = 'seen_ids.json';
 let seenHistory = [];
@@ -69,6 +87,10 @@ raw.forEach(item => {
   const mkt = findMarket(item.title, item.category);
   if (!mkt) return;
 
+  // 市價低於 $2,000 的跳過（買新的比較值得）
+  const refPrice = mkt.currentNew || mkt.secondhand;
+  if (refPrice < 2000) return;
+
   // 核心比價：新品30%以下 OR 二手行情70%以下
   const vsNew = mkt.currentNew ? Math.round(price / mkt.currentNew * 100) : null;
   const vsSecondhand = Math.round(price / mkt.secondhand * 100);
@@ -78,7 +100,9 @@ raw.forEach(item => {
   if (passNew || passSecondhand) {
     const isReseller = RESELLERS.has(item.seller);
     const sellerNote = isReseller ? resellerNotes[item.seller] || '批量賣家' : '';
-    deals.push({ ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand, isReseller, sellerNote });
+    // timeAgo → UTC+8 絕對時間
+    const listedAt = timeAgoToTimestamp(item.timeAgo);
+    deals.push({ ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand, isReseller, sellerNote, listedAt });
   }
 });
 
@@ -86,10 +110,10 @@ raw.forEach(item => {
 deals.sort((a, b) => a.vsSecondhand - b.vsSecondhand);
 
 // === 輸出 CSV ===
-const csvLines = ['category|seller|title|price|condition|url|比較基準|vs_new|vs_secondhand|time_ago'];
+const csvLines = ['category|seller|title|price|condition|url|比較基準|vs_new|vs_secondhand|listed_at'];
 deals.forEach(d => {
   const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}/二手$${d.mkt.secondhand}` : `二手$${d.mkt.secondhand}(停產)`;
-  csvLines.push(`${d.category}|${d.seller}|${d.title}|${d.priceStr}|${d.condition}|${d.url}|${basis}|${d.vsNew ?? '-'}%|${d.vsSecondhand}%|${d.timeAgo}`);
+  csvLines.push(`${d.category}|${d.seller}|${escPipe(d.title)}|${d.priceStr}|${d.condition}|${d.url}|${basis}|${d.vsNew ?? '-'}%|${d.vsSecondhand}%|${d.listedAt}`);
 });
 fs.writeFileSync('carousell_wishlist_20260501.csv', csvLines.join('\n') + '\n');
 
@@ -121,7 +145,7 @@ if (deals.length === 0) {
     const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
     const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
     const warn = d.isReseller ? ' ⚠' : '';
-    md += `| ${d.title.slice(0, 50)}${warn} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.timeAgo} | <a href="${d.url}" target="_blank">查看</a> |\n`;
+    md += `| ${escPipe(d.title.slice(0, 50))}${warn} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.listedAt} | <a href="${d.url}" target="_blank">查看</a> |\n`;
   });
 }
 md += `\n---\n\n## 歷史批次\n\n`;
@@ -135,7 +159,7 @@ let html = `<!DOCTYPE html>\n<html lang="zh-TW">\n<head>\n<meta charset="UTF-8">
 deals.forEach(d => {
   const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
   const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
-  html += `<tr><td>${d.title}</td><td class="p">${d.priceStr}</td><td>${basis}</td><td class="d">${disc}</td><td class="t">${d.condition}</td><td class="t">${d.timeAgo}</td><td><a href="${d.url}" target="_blank">查看</a></td></tr>\n`;
+  html += `<tr><td>${d.title}</td><td class="p">${d.priceStr}</td><td>${basis}</td><td class="d">${disc}</td><td class="t">${d.condition}</td><td class="t">${d.listedAt}</td><td><a href="${d.url}" target="_blank">查看</a></td></tr>\n`;
 });
 html += `</table>\n</body>\n</html>`;
 fs.writeFileSync('deals.html', html);
