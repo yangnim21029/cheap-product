@@ -10,27 +10,38 @@ const RESELLERS = new Set(sellersData.resellers.accounts.map(a => a.id));
 const resellerNotes = Object.fromEntries(sellersData.resellers.accounts.map(a => [a.id, a.note]));
 
 // === 跳過配件/周邊/非商品 ===
-const SKIP = ['配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','充電線','說明書','潔膚露','面膜','髮夾','相紙','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒','運動衣','瑜珈服','運動內衣','Tank','Sleeve','Top','底片','DIY','自製','KTV','麥克風','卡拉OK','K歌','UDP-G25','NovaPlus','騎馬機','PS4 VR','身體乳'];
+const SKIP = [
+  // 配件/耗材
+  '配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','充電線','說明書','充電盒','相紙','底片',
+  // 非目標商品
+  '租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','潔膚露','面膜','髮夾','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒','身體乳',
+  // 衣服
+  '運動衣','瑜珈服','運動內衣','Tank','Sleeve','Top','喇叭褲','牛仔褲','短褲','襯衫','毛帽','棒球帽',
+  // 低價/雜牌
+  'DIY','自製','KTV','麥克風','卡拉OK','K歌','UDP-G25','NovaPlus','騎馬機','PS4 VR',
+  // 家電雜物
+  '鬆餅機','刨冰機','榨汁機','電鍋','微波爐','氣炸鍋','電動牙刷','吹風機','計算機','掃地機','洗牙器','蛋捲夾',
+  // 美妝雜物
+  '眼影','腮紅','唇蜜','粉底','卸妝','化妝包','彩妝包','眼霜','乳液','護膚','妝前乳',
+  // 手機殼/配件
+  'Clear Case','手機殼','記憶卡',
+  // 雜牌/非品牌香水
+  'KP記憶','KLOWER','GRAFEN','費洛香','天堂','蝴蝶香水','聖物','桃花','香水盒','提袋','卡片4件','Frank Olivier','HDO','守護甜心','日和結',
+  // 錶帶不是手錶
+  '錶環','高山錶',
+];
+
 
 // === 跳過的 category ===
 const SKIP_CAT = ['dyson', 'lululemon'];
 
 // === 市場行情表：從 market_prices.json 讀取 ===
+// key = category（就是 scrape 的 query 或分類名），直接查表
 // 判斷規則：price <= currentNew*0.30 OR price <= secondhand*0.70
-const priceData = JSON.parse(fs.readFileSync('market_prices.json', 'utf8'));
-const MARKET = priceData.map(p => ({
-  match: new RegExp(p.pattern, p.flags || 'i'),
-  currentNew: p.currentNew,
-  secondhand: p.secondhand,
-  label: p.label,
-}));
+const MARKET = JSON.parse(fs.readFileSync('market_prices.json', 'utf8'));
 
-function findMarket(title, category) {
-  const text = title + ' ' + category;
-  for (const m of MARKET) {
-    if (m.match.test(text)) return m;
-  }
-  return null;
+function findMarket(category) {
+  return MARKET[category] || null;
 }
 
 const isRecent = t => {
@@ -83,7 +94,7 @@ raw.forEach(item => {
   seen.add(item.url);
   if (SKIP.some(w => item.title.includes(w))) return;
 
-  const mkt = findMarket(item.title, item.category);
+  const mkt = findMarket(item.category);
   if (!mkt) return;
 
   // 市價低於 $2,000 的跳過（買新的比較值得）
@@ -129,7 +140,7 @@ newDeals.forEach((d, i) => {
   const basis = d.mkt.currentNew
     ? `新品${d.vsNew}% 二手${d.vsSecondhand}%`
     : `二手${d.vsSecondhand}% (停產品,無新品價)`;
-  console.log(`${i+1}. [${d.mkt.label}] ${d.priceStr} — ${basis}`);
+  console.log(`${i+1}. [${d.category}] ${d.priceStr} — ${basis}`);
   console.log(`   ${d.title} | ${d.seller} | ${d.timeAgo}`);
   console.log(`   ${d.url}`);
 });

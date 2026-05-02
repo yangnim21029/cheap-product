@@ -26,12 +26,12 @@ const QUERIES = [
 
 // === 分類頁（需點 Sort → Recent）===
 const CATEGORIES = [
-  { slug: 'furniture-home-living-13', name: '家具居家', min: 500, max: 5000 },
-  { slug: 'beauty-personal-care-11', name: '美妝保養', min: 500, max: 5000 },
-  { slug: 'luxury-20', name: '精品', min: 500, max: 5000 },
-  { slug: 'mobile-phones-gadgets-1091', name: '手機平板', min: 500, max: 5000 },
-  { slug: 'tv-home-appliances-30', name: '家電影音', min: 500, max: 5000 },
-  { slug: 'audio-1600', name: '音響耳機', min: 500, max: 5000 },
+  { slug: 'furniture-home-living-13', name: '家具居家', min: 2000, max: 5000 },
+  { slug: 'beauty-personal-care-11', name: '美妝保養', min: 2000, max: 5000 },
+  { slug: 'luxury-20', name: '精品', min: 2000, max: 5000 },
+  { slug: 'mobile-phones-gadgets-1091', name: '手機平板', min: 2000, max: 5000 },
+  { slug: 'tv-home-appliances-30', name: '家電影音', min: 2000, max: 5000 },
+  { slug: 'audio-1600', name: '音響耳機', min: 2000, max: 5000 },
 ];
 
 // === 頁面抓取 JS ===

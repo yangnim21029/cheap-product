@@ -1,94 +1,19 @@
-[
-  {"pattern": "apple watch.*(se\\s*1|se1|第一代)", "currentNew": null, "secondhand": 2500, "label": "AW SE1 (2020停產)", "source": "Carousell實查$1,500-3,500"},
-  {"pattern": "apple watch.*(se\\s*2|se2|第二代)", "currentNew": null, "secondhand": 4000, "label": "AW SE2 (2022停產)", "source": "Carousell實查$3,000-5,000"},
-  {"pattern": "apple watch.*se\\b(?!.*[12])", "currentNew": null, "secondhand": 2500, "label": "AW SE (停產)"},
-  {"pattern": "apple watch.*(s6|series\\s*6)", "currentNew": null, "secondhand": 4000, "label": "AW S6 (2020停產)"},
-  {"pattern": "apple watch.*(s7|series\\s*7)", "currentNew": null, "secondhand": 5000, "label": "AW S7 (2021停產)"},
-  {"pattern": "apple watch.*(s8|series\\s*8)", "currentNew": null, "secondhand": 4500, "label": "AW S8 (2022停產)", "source": "Carousell實查$3,500-5,000"},
-  {"pattern": "apple watch.*(s9|series\\s*9)", "currentNew": 13500, "secondhand": 5500, "label": "AW S9", "source": "web search"},
-  {"pattern": "apple watch.*(s10|series\\s*10|ultra)", "currentNew": 13900, "secondhand": 9000, "label": "AW S10/Ultra"},
-
-  {"pattern": "samsung.*watch.*6", "currentNew": null, "secondhand": 4000, "label": "GW6 Classic (2023停產)", "source": "Carousell實查$3,000-4,900"},
-  {"pattern": "samsung.*watch.*7", "currentNew": 11990, "secondhand": 7000, "label": "GW7"},
-
-  {"pattern": "vivienne.*westwood.*軍牌", "currentNew": 5500, "secondhand": 1600, "label": "VW 軍牌項鍊", "source": "新$4,500-6,500,二手$1,200-2,000"},
-  {"pattern": "vivienne.*westwood.*絲巾", "currentNew": 3000, "secondhand": 600, "label": "VW 絲巾", "source": "新$480-5,000看款式,二手$300-800"},
-  {"pattern": "vivienne.*westwood.*皮夾", "currentNew": 9000, "secondhand": 4000, "label": "VW 皮夾"},
-  {"pattern": "vivienne.*westwood.*(包|bag)", "currentNew": 12000, "secondhand": 5000, "label": "VW 包"},
-  {"pattern": "vivienne.*westwood.*戒指", "currentNew": 8000, "secondhand": 3500, "label": "VW 戒指"},
-
-  {"pattern": "momi", "currentNew": null, "secondhand": 2500, "label": "MOMI投影機 (停產)"},
-  {"pattern": "投影機", "currentNew": 5000, "secondhand": 2500, "label": "投影機"},
-
-  {"pattern": "osim.*護眼樂.*180", "currentNew": null, "secondhand": 500, "label": "OSIM護眼樂180 (舊款)", "source": "Carousell實查$300-680"},
-  {"pattern": "osim.*護眼樂.*air", "currentNew": 4980, "secondhand": 2500, "label": "OSIM護眼樂Air"},
-  {"pattern": "osim.*umoby", "currentNew": 4680, "secondhand": 1200, "label": "OSIM uMoby", "source": "新$4,680,二手$800-1,500"},
-  {"pattern": "osim", "currentNew": 4000, "secondhand": 2000, "label": "OSIM按摩"},
-
-  {"pattern": "jo\\s*malone.*100ml", "currentNew": 5850, "secondhand": 3600, "label": "JM 100ml", "source": "web search"},
-  {"pattern": "jo\\s*malone.*50ml", "currentNew": 4200, "secondhand": 2200, "label": "JM 50ml", "source": "web search"},
-  {"pattern": "jo\\s*malone.*30ml", "currentNew": 2950, "secondhand": 1100, "label": "JM 30ml", "source": "二手$700-1,500"},
-  {"pattern": "jo\\s*malone", "currentNew": 4200, "secondhand": 2200, "label": "Jo Malone"},
-
-  {"pattern": "aesop.*(eidesis|艾底)", "currentNew": 5600, "secondhand": 2800, "label": "Aesop Eidesis", "source": "web search"},
-  {"pattern": "aesop.*hywl", "currentNew": 4900, "secondhand": 3200, "label": "Aesop Hywl", "source": "web search $2,500-3,900"},
-  {"pattern": "aesop", "currentNew": 5600, "secondhand": 3000, "label": "Aesop香水"},
-  {"pattern": "dior.*gris", "currentNew": 6700, "secondhand": 4100, "label": "Dior Gris Dior", "source": "新$6,700,二手$3,800-4,500"},
-  {"pattern": "hermès|hermes|愛馬仕.*大地.*100", "currentNew": 5700, "secondhand": 3800, "label": "Hermès大地"},
-  {"pattern": "shiro", "currentNew": 3200, "secondhand": 2000, "label": "Shiro香水"},
-  {"pattern": "ysl.*香水", "currentNew": 4500, "secondhand": 2800, "label": "YSL香水"},
-  {"pattern": "malin.*goetz", "currentNew": 3500, "secondhand": 2400, "label": "Malin+Goetz", "source": "新$3,500,二手$2,000-2,800"},
-
-  {"pattern": "lululemon.*(pant|褲|legging|tight)", "currentNew": 4100, "secondhand": 2000, "label": "Lulu褲"},
-  {"pattern": "lululemon.*(short|短褲)", "currentNew": 2200, "secondhand": 1000, "label": "Lulu短褲"},
-  {"pattern": "lululemon.*groove", "currentNew": 3800, "secondhand": 1800, "label": "Lulu Groove褲"},
-  {"pattern": "lululemon.*(set|組)", "currentNew": 5000, "secondhand": 2000, "label": "Lulu組合"},
-  {"pattern": "lululemon.*四件", "currentNew": 8000, "secondhand": 3000, "label": "Lulu四件組"},
-  {"pattern": "lululemon.*(包|bag|belt)", "currentNew": 3500, "secondhand": 1500, "label": "Lulu包"},
-  {"pattern": "lululemon", "currentNew": 3000, "secondhand": 1500, "label": "Lululemon"},
-
-  {"pattern": "marshall.*kilburn\\s*ii", "currentNew": 11900, "secondhand": 4200, "label": "Marshall Kilburn II", "source": "新$11,900,二手$3,500-5,000"},
-  {"pattern": "marshall.*emberton\\s*ii\\b", "currentNew": 5490, "secondhand": 3600, "label": "Marshall Emberton II", "source": "清倉中(III已出),二手$3,000-4,300"},
-  {"pattern": "marshall.*emberton\\s*iii", "currentNew": 6490, "secondhand": 4500, "label": "Marshall Emberton III", "source": "新$6,490,二手$4,000-5,000"},
-  {"pattern": "marshall.*minor\\s*iii", "currentNew": 3990, "secondhand": 1600, "label": "Marshall Minor III", "source": "新$3,990,二手$1,200-2,000"},
-  {"pattern": "marshall.*minor\\s*iv", "currentNew": 3990, "secondhand": 2800, "label": "Marshall Minor IV", "source": "二手$2,500-3,100"},
-  {"pattern": "marshall.*major\\s*(iv|v)", "currentNew": 5999, "secondhand": 3500, "label": "Marshall Major"},
-  {"pattern": "marshall", "currentNew": 5000, "secondhand": 3000, "label": "Marshall"},
-
-  {"pattern": "bose.*soundlink\\s*home", "currentNew": 6500, "secondhand": 3500, "label": "Bose Home", "source": "新$6,500(非$9,900!),二手$3,000-4,000"},
-  {"pattern": "bose.*qc.*earbuds\\s*ii\\b", "currentNew": null, "secondhand": 3000, "label": "Bose QC II (停產)", "source": "二手$2,500-3,500"},
-  {"pattern": "bose.*qc.*ultra", "currentNew": 9500, "secondhand": 5000, "label": "Bose QC Ultra", "source": "新$9,500,二手$4,500-5,500"},
-  {"pattern": "bose.*flex", "currentNew": 4990, "secondhand": 3700, "label": "Bose Flex II", "source": "二手$3,200-4,200"},
-  {"pattern": "bose", "currentNew": 6000, "secondhand": 3500, "label": "Bose"},
-
-  {"pattern": "藍牙喇叭.*(edifier|漫步者)", "currentNew": 2500, "secondhand": 1200, "label": "Edifier藍牙喇叭"},
-  {"pattern": "jbl.*go", "currentNew": 1990, "secondhand": 1000, "label": "JBL Go"},
-  {"pattern": "divoom", "currentNew": 3500, "secondhand": 1800, "label": "Divoom喇叭"},
-  {"pattern": "sony.*srs", "currentNew": 4500, "secondhand": 2500, "label": "Sony藍牙喇叭"},
-  {"pattern": "mackie", "currentNew": 5000, "secondhand": 2500, "label": "Mackie喇叭"},
-  {"pattern": "藍牙喇叭", "currentNew": 3000, "secondhand": 1500, "label": "藍牙喇叭"},
-
-  {"pattern": "空氣清淨機", "currentNew": 5000, "secondhand": 2500, "label": "空氣清淨機"},
-  {"pattern": "空氣循環扇.*vornado", "currentNew": 5000, "secondhand": 3000, "label": "Vornado循環扇"},
-  {"pattern": "空氣循環扇", "currentNew": 3000, "secondhand": 1500, "label": "循環扇"},
-
-  {"pattern": "nespresso.*pixie", "currentNew": null, "secondhand": 2000, "label": "Nespresso Pixie (停產)", "source": "二手$1,500-2,500"},
-  {"pattern": "nespresso", "currentNew": 5400, "secondhand": 2500, "label": "Nespresso"},
-
-  {"pattern": "拍立得.*50s", "currentNew": null, "secondhand": 3500, "label": "Mini 50s (停產)"},
-  {"pattern": "拍立得.*sq6", "currentNew": null, "secondhand": 4000, "label": "SQ6 (停產)"},
-  {"pattern": "拍立得.*liplay", "currentNew": 5990, "secondhand": 3500, "label": "LiPlay"},
-  {"pattern": "拍立得", "currentNew": 3000, "secondhand": 1500, "label": "拍立得"},
-
-  {"pattern": "落地燈.*(ikea|hay|muuto|flos)", "currentNew": 3000, "secondhand": 1500, "label": "品牌落地燈", "source": "IKEA HEKTOGRAM新$999-1,499"},
-  {"pattern": "(立燈|落地燈).*實木", "currentNew": 4000, "secondhand": 2000, "label": "實木立燈"},
-  {"pattern": "立燈|落地燈", "currentNew": 2500, "secondhand": 1200, "label": "落地燈/立燈"},
-
-  {"pattern": "quest\\s*3s", "currentNew": 11640, "secondhand": 10500, "label": "Meta Quest 3S", "source": "Meta官方$11,640(漲價後),二手$9,500-11,500"},
-  {"pattern": "quest\\s*3(?!s)", "currentNew": 19790, "secondhand": 15000, "label": "Meta Quest 3", "source": "Meta官方$19,790(512GB),二手$15,000-19,000"},
-  {"pattern": "quest\\s*2", "currentNew": null, "secondhand": 7500, "label": "Meta Quest 2 (停產)", "source": "二手$5,500-8,800"},
-  {"pattern": "ps\\s*vr\\s*2|playstation\\s*vr", "currentNew": 13880, "secondhand": 9000, "label": "PS VR2", "source": "Sony降價後$13,880,二手$7,990-10,500"},
-  {"pattern": "pico\\s*4", "currentNew": 14000, "secondhand": 7500, "label": "Pico 4", "source": "代購$13,820-14,500,二手$5,800-9,000"},
-  {"pattern": "vive.*elite|vive.*xr", "currentNew": 34900, "secondhand": 17500, "label": "HTC Vive XR Elite", "source": "新$34,900,二手$15,000-20,000"},
-  {"pattern": "vr|oculus|quest", "currentNew": 15000, "secondhand": 8000, "label": "VR裝置"}
-]
+{
+  "apple watch": { "currentNew": 13500, "secondhand": 5000, "note": "S9 $13,500 / 停產各代二手$2,500-5,000" },
+  "Vivienne Westwood": { "currentNew": 5000, "secondhand": 2000, "note": "項鍊/絲巾/皮夾/戒指混合" },
+  "空氣清淨機": { "currentNew": 5000, "secondhand": 2500 },
+  "投影機": { "currentNew": 5000, "secondhand": 2500 },
+  "OSIM": { "currentNew": 4000, "secondhand": 2000 },
+  "鼠尾草 海鹽": { "currentNew": 5850, "secondhand": 3600, "note": "Jo Malone 100ml" },
+  "Jo Malone": { "currentNew": 4200, "secondhand": 2200, "note": "30-100ml 混合均價" },
+  "香水": { "currentNew": 5000, "secondhand": 3000, "note": "品牌香水均價" },
+  "marshall": { "currentNew": 6500, "secondhand": 3500, "note": "Emberton III $6,490 / Kilburn II $11,900" },
+  "bose": { "currentNew": 6500, "secondhand": 3500, "note": "Home $6,500 / QC Ultra $9,500" },
+  "落地燈": { "currentNew": 3000, "secondhand": 1500 },
+  "空氣循環扇": { "currentNew": 3000, "secondhand": 1500 },
+  "nespresso": { "currentNew": 5400, "secondhand": 2500 },
+  "拍立得": { "currentNew": 3000, "secondhand": 1500 },
+  "藍牙喇叭": { "currentNew": 3000, "secondhand": 1500 },
+  "立燈": { "currentNew": 3000, "secondhand": 1500 },
+  "VR": { "currentNew": 12000, "secondhand": 7000, "note": "Quest 3S $11,640 / PS VR2 $13,880" }
+}
