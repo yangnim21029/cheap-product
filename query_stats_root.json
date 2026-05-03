@@ -1,0 +1,110 @@
+{
+  "apple watch": {
+    "total": 48,
+    "recentTotal": 16,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T10:59:18.589Z"
+  },
+  "Samsung Galaxy Watch": {
+    "total": 27,
+    "recentTotal": 0,
+    "zeroStreak": 1,
+    "lastSeen": null
+  },
+  "Vivienne Westwood": {
+    "total": 48,
+    "recentTotal": 8,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T10:59:51.007Z"
+  },
+  "空氣清淨機": {
+    "total": 48,
+    "recentTotal": 12,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:00:12.732Z"
+  },
+  "投影機": {
+    "total": 47,
+    "recentTotal": 12,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:00:31.757Z"
+  },
+  "OSIM": {
+    "total": 48,
+    "recentTotal": 2,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:00:49.616Z"
+  },
+  "鼠尾草 海鹽": {
+    "total": 48,
+    "recentTotal": 1,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:01:06.239Z"
+  },
+  "Jo Malone": {
+    "total": 47,
+    "recentTotal": 10,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:01:22.723Z"
+  },
+  "香水": {
+    "total": 47,
+    "recentTotal": 47,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:01:40.662Z"
+  },
+  "marshall": {
+    "total": 46,
+    "recentTotal": 15,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:01:55.732Z"
+  },
+  "bose": {
+    "total": 47,
+    "recentTotal": 12,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:02:14.531Z"
+  },
+  "落地燈": {
+    "total": 39,
+    "recentTotal": 2,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:02:30.906Z"
+  },
+  "空氣循環扇": {
+    "total": 47,
+    "recentTotal": 3,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:02:47.802Z"
+  },
+  "nespresso": {
+    "total": 46,
+    "recentTotal": 4,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:03.783Z"
+  },
+  "拍立得": {
+    "total": 48,
+    "recentTotal": 21,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:21.623Z"
+  },
+  "藍牙喇叭": {
+    "total": 47,
+    "recentTotal": 16,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:38.690Z"
+  },
+  "立燈": {
+    "total": 47,
+    "recentTotal": 6,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:03:55.974Z"
+  },
+  "VR": {
+    "total": 46,
+    "recentTotal": 5,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-02T11:04:11.811Z"
+  }
+}
