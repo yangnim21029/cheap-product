@@ -13,7 +13,7 @@
   "空氣循環扇": { "currentNew": 3000, "secondhand": 1500 },
   "nespresso": { "currentNew": 5400, "secondhand": 2500 },
   "拍立得": { "currentNew": 3000, "secondhand": 1500 },
-  "藍牙喇叭": { "currentNew": 3000, "secondhand": 1500 },
+  "喇叭": { "currentNew": 8000, "secondhand": 4000, "note": "品牌喇叭均價: Marshall Acton $8,500 / HK SoundSticks $5,000 / KEF $10,000+" },
   "立燈": { "currentNew": 3000, "secondhand": 1500 },
   "VR": { "currentNew": 12000, "secondhand": 7000, "note": "Quest 3S $11,640 / PS VR2 $13,880" }
 }

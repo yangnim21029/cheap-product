@@ -19,7 +19,7 @@ const QUERIES = [
   { q: '空氣循環扇', min: 500, max: 3000 },
   { q: 'nespresso', min: 500, max: 3000 },
   { q: '拍立得', min: 500, max: 5000 },
-  { q: '藍牙喇叭', min: 500, max: 5000 },
+  { q: '喇叭', min: 2000, max: 10000 },
   { q: '立燈', min: 500, max: 5000 },
   { q: 'VR', min: 1000, max: 5000 },
 ];
