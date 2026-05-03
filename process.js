@@ -47,7 +47,13 @@ const SKIP = [
 
 
 // === 跳過的 category ===
-const SKIP_CAT = ['dyson', 'lululemon'];
+const SKIP_CAT = [
+  'dyson', 'lululemon',
+  // 暫停的 queries
+  'Samsung Galaxy Watch', 'Vivienne Westwood', '鼠尾草 海鹽', 'Jo Malone', '香水', 'OSIM', '咖啡機', 'marshall', 'bose',
+  // 分類頁不進比價
+  '家具居家', '美妝保養', '精品', '手機平板', '家電影音', '音響耳機',
+];
 
 // === 市場行情表：從 market_prices.json 讀取 ===
 // key = category（就是 scrape 的 query 或分類名），直接查表
