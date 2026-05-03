@@ -2,28 +2,20 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/3 17:25:39
+> 最後更新：2026/5/3 17:45:05
 
-## 目前清單（6 筆新貨）
+## 目前清單
 
-| 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |
-|------|------|----------|------|------|------|------|
-| 德國SABA 抗過敏空氣清淨機 SA-HX03 | NT$1,000 | 新$7000 | 14% | Brand new | 05/03 16:58 | <a href="https://tw.carousell.com/p/1435803039/" target="_blank">查看</a> |
-| ETOE 翼拓 Starfish 投影機 | NT$3,500 | 新$18000 | 19% | Lightly used | 05/03 00:25 | <a href="https://tw.carousell.com/p/1435684392/" target="_blank">查看</a> |
-| Spotlight | NT$1,280 | 新$7000 | 18% | Brand new | 05/03 14:25 | <a href="https://tw.carousell.com/p/1435766716/" target="_blank">查看</a> |
-| 百靈紐倫堡 Braun Paximat 2150 幻燈片投影機 | NT$4,999 | 新$18000 | 28% | Lightly used | 05/02 21:25 | <a href="https://tw.carousell.com/p/1435651598/" target="_blank">查看</a> |
-| 索尼 Sony SRS XB33 極致清晰藍牙喇叭 | NT$2,900 | 新$10000 | 29% | Like new | 05/02 20:25 | <a href="https://tw.carousell.com/p/1429577652/" target="_blank">查看</a> |
-| 富士拍立得 instax mini 12 綠色 | NT$2,300 | 新$6000 | 38% | Like new | 05/01 17:25 | <a href="https://tw.carousell.com/p/1435511112/" target="_blank">查看</a> |
+本輪無新好貨（已看過 10 筆）。持續巡邏中。
 
-## 殺價保留（5 筆，$3,000+ 可議價）
+## 殺價保留（4 筆，$3,000+ 可議價）
 
 | 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|----------|------|------|------|------|
-| 峰米2.1音響 | NT$5,000 | 新$15000 | 33% | Like new | 05/03 16:25 | <a href="https://tw.carousell.com/p/1435793375/" target="_blank">查看</a> |
-| Evolve 伊法audio Soundbar 藍芽音響 SB2600 | NT$5,000 | 新$15000 | 33% | Like new | 05/02 17:25 | <a href="https://tw.carousell.com/p/1435606601/" target="_blank">查看</a> |
-| 全新 Edifier 漫步者 N300 / M60 高清桌面喇叭（淨白色） | NT$3,800 | 新$10000 | 38% | Brand new | 05/01 17:25 | <a href="https://tw.carousell.com/p/1435500535/" target="_blank">查看</a> |
-| Spotlight | NT$3,888 | 新$10000 | 39% | Lightly used | 05/02 17:25 | <a href="https://tw.carousell.com/p/1435598966/" target="_blank">查看</a> |
-| jbl charge 4 防水攜帶式藍芽喇叭 戶外藍牙音響 | NT$4,000 | 新$10000 | 40% | Lightly used | 05/02 17:25 | <a href="https://tw.carousell.com/p/1435535707/" target="_blank">查看</a> |
+| 峰米2.1音響 | NT$5,000 | 新$15000 | 33% | Like new | 05/03 16:45 | <a href="https://tw.carousell.com/p/1435793375/" target="_blank">查看</a> |
+| Evolve 伊法audio Soundbar 藍芽音響 SB2600 | NT$5,000 | 新$15000 | 33% | Like new | 05/02 17:45 | <a href="https://tw.carousell.com/p/1435606601/" target="_blank">查看</a> |
+| 全新 Edifier 漫步者 N300 / M60 高清桌面喇叭（淨白色） | NT$3,800 | 新$10000 | 38% | Brand new | 05/01 17:45 | <a href="https://tw.carousell.com/p/1435500535/" target="_blank">查看</a> |
+| jbl charge 4 防水攜帶式藍芽喇叭 戶外藍牙音響 | NT$4,000 | 新$10000 | 40% | Lightly used | 05/02 17:45 | <a href="https://tw.carousell.com/p/1435535707/" target="_blank">查看</a> |
 
 ---
 
