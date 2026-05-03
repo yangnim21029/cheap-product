@@ -23,6 +23,7 @@ const QUERIES = [
   { q: '拍立得', min: 500, max: 5000 },
   { q: '相印機', min: 500, max: 5000 },
   { q: 'VR', min: 1000, max: 5000 },
+  { q: '帳篷', min: 2000, max: 10000 },
 ];
 
 // === 分類頁（需點 Sort → Recent）===
