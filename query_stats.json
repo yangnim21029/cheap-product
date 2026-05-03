@@ -24,10 +24,10 @@
     "lastSeen": "2026-05-03T16:32:53.132Z"
   },
   "投影機": {
-    "total": 1091,
-    "recentTotal": 332,
+    "total": 1138,
+    "recentTotal": 354,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T17:17:00.456Z"
+    "lastSeen": "2026-05-03T18:17:01.168Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 834,
-    "recentTotal": 51,
+    "total": 878,
+    "recentTotal": 53,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T16:19:32.163Z"
+    "lastSeen": "2026-05-03T18:19:02.484Z"
   },
   "nespresso": {
     "total": 475,
@@ -96,28 +96,28 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 869,
-    "recentTotal": 128,
+    "total": 913,
+    "recentTotal": 136,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T17:18:17.081Z"
+    "lastSeen": "2026-05-03T18:18:35.491Z"
   },
   "VR": {
-    "total": 1055,
-    "recentTotal": 111,
+    "total": 1102,
+    "recentTotal": 117,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T17:19:34.000Z"
+    "lastSeen": "2026-05-03T18:19:57.920Z"
   },
   "喇叭": {
-    "total": 495,
-    "recentTotal": 243,
+    "total": 541,
+    "recentTotal": 267,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T17:17:26.352Z"
+    "lastSeen": "2026-05-03T18:17:37.194Z"
   },
   "音響": {
-    "total": 585,
-    "recentTotal": 156,
+    "total": 632,
+    "recentTotal": 170,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T17:17:53.777Z"
+    "lastSeen": "2026-05-03T18:18:08.346Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,15 +126,15 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 448,
-    "recentTotal": 22,
+    "total": 495,
+    "recentTotal": 24,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T17:19:09.133Z"
+    "lastSeen": "2026-05-03T18:19:32.597Z"
   },
   "帳篷": {
-    "total": 523,
-    "recentTotal": 64,
+    "total": 570,
+    "recentTotal": 72,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T17:20:01.092Z"
+    "lastSeen": "2026-05-03T18:20:27.058Z"
   }
 }
