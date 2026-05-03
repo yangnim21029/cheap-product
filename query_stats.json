@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 427,
-    "recentTotal": 151,
+    "total": 475,
+    "recentTotal": 163,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T20:19:24.319Z"
+    "lastSeen": "2026-05-02T23:22:03.030Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,22 +18,22 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 427,
-    "recentTotal": 128,
+    "total": 475,
+    "recentTotal": 146,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T20:19:41.345Z"
+    "lastSeen": "2026-05-02T23:22:18.946Z"
   },
   "投影機": {
-    "total": 331,
-    "recentTotal": 86,
+    "total": 378,
+    "recentTotal": 97,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T16:17:54.856Z"
+    "lastSeen": "2026-05-02T23:22:37.046Z"
   },
   "OSIM": {
-    "total": 375,
-    "recentTotal": 16,
+    "total": 422,
+    "recentTotal": 19,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T17:49:12.658Z"
+    "lastSeen": "2026-05-02T23:38:17.032Z"
   },
   "鼠尾草 海鹽": {
     "total": 190,
@@ -60,10 +60,10 @@
     "lastSeen": "2026-05-02T16:18:30.428Z"
   },
   "bose": {
-    "total": 380,
-    "recentTotal": 96,
+    "total": 427,
+    "recentTotal": 108,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T18:01:12.632Z"
+    "lastSeen": "2026-05-02T23:39:02.497Z"
   },
   "落地燈": {
     "total": 273,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-02T16:19:02.566Z"
   },
   "空氣循環扇": {
-    "total": 379,
-    "recentTotal": 24,
+    "total": 427,
+    "recentTotal": 27,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T18:17:04.803Z"
+    "lastSeen": "2026-05-02T23:54:38.702Z"
   },
   "nespresso": {
     "total": 427,
@@ -102,9 +102,9 @@
     "lastSeen": "2026-05-02T18:49:11.812Z"
   },
   "VR": {
-    "total": 379,
-    "recentTotal": 40,
+    "total": 425,
+    "recentTotal": 44,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T21:36:44.610Z"
+    "lastSeen": "2026-05-03T00:23:48.549Z"
   }
 }
