@@ -7,7 +7,7 @@ const QUERIES = [
   // { q: 'Samsung Galaxy Watch', min: 1000, max: 5000 }, // 暫停：連續4輪空 2026-05-02
   // { q: 'Vivienne Westwood', min: 500, max: 5000 }, // 暫停 2026-05-02
   { q: '空氣清淨機', min: 500, max: 3000 },
-  { q: '投影機', min: 500, max: 5000 },
+  { q: '投影機', min: 2000, max: 10000 },
   { q: 'OSIM', min: 500, max: 5000 },
   // { q: '鼠尾草 海鹽', min: 500, max: 5000 }, // 暫停：香水已搞定 2026-05-02
   // { q: 'Jo Malone', min: 500, max: 5000 }, // 暫停：香水已搞定 2026-05-02
