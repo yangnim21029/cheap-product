@@ -2,13 +2,16 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/3 14:25:29
+> 最後更新：2026/5/3 15:25:34
 
-## 目前清單（1 筆新貨）
+## 目前清單（4 筆新貨）
 
 | 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|----------|------|------|------|------|
-| OSIM uHIP OS-243 美臀娃娃 按摩機 美臀機 腿部按摩 臀部按摩 按摩機 新北新莊可驗 | NT$1,299 | 新$4680 | 28% |  | 05/03 13:54 | <a href="https://tw.carousell.com/p/1435763458/" target="_blank">查看</a> |
+| Spotlight | NT$1,280 | 新$13500 | 9% | Brand new | 05/03 14:25 | <a href="https://tw.carousell.com/p/1435766716/" target="_blank">查看</a> |
+| 蘋果手錶Apple watch s6 44m gps | NT$4,000 | 新$13500 | 30% | Lightly used | 05/03 15:20 | <a href="https://tw.carousell.com/p/1429745049/" target="_blank">查看</a> |
+| Apple Watch S7 LTE藍/GPS黑 | NT$4,000 | 新$13500 | 30% | Lightly used | 05/03 14:49 | <a href="https://tw.carousell.com/p/1435774465/" target="_blank">查看</a> |
+| OSIM uHIP OS-243 美臀娃娃 按摩機 美臀機 腿部按摩 臀部按摩 按摩機 新北新莊可驗 | NT$1,299 | 新$4680 | 28% |  | 05/03 13:25 | <a href="https://tw.carousell.com/p/1435763458/" target="_blank">查看</a> |
 
 ---
 
