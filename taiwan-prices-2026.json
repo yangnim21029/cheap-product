@@ -1,0 +1,278 @@
+{
+  "lastUpdated": "2026-05-02",
+  "currency": "NTD",
+
+  "appleWatch": {
+    "currentNew": {
+      "Series11_42mm_GPS": 12900,
+      "Series11_46mm_GPS": 13900,
+      "SE3_40mm_GPS": 7900,
+      "SE3_44mm_GPS": 8900,
+      "Ultra3": 27900
+    },
+    "secondhand": {
+      "S9_45mm": "3500-5500",
+      "S9_41mm": "3000-5000",
+      "S8_45mm": "2500-4000",
+      "S8_41mm": "2000-3500",
+      "SE2_44mm": "2500-3500",
+      "SE2_40mm": "2000-3000",
+      "SE1": "1500-2500"
+    },
+    "note": "2025年9月Apple發表S11/SE3/Ultra3，全系列搭載S10晶片。S10/S9/S8因此停產，二手價格明顯下滑。回收價S8=1000、S9=2000-2500、SE2=2000，蝦皮售價約為回收價的1.5-2倍。",
+    "source": "apple.com/tw, guardstation.com.tw, shopee.tw, BigGo"
+  },
+
+  "airPurifier": {
+    "currentNew": {
+      "xiaomi4Pro": 6995,
+      "xiaomi4": 4995,
+      "xiaomi4Lite": 3495,
+      "daikinMCK70VSCT": 18820,
+      "daikinMC55USCT7": 12390,
+      "dysonTP11": 10900,
+      "dysonTP09": 15888,
+      "dysonTP12": 20900,
+      "dysonBP04": 29900,
+      "dysonHJ10_HushJet": 12900,
+      "sharpFPJ60T": 8000,
+      "sharpKCJH70T": 12000
+    },
+    "secondhand": {
+      "xiaomi_previous_gen": "800-1500",
+      "daikin_older": "5000-8000",
+      "dysonTP07_TP09": "6000-10000",
+      "sharp_older": "2000-4000"
+    },
+    "note": "小米性價比最高，3495起。Dyson TP11是2026新款入門價10900（官網折扣價）。大金MCK70為加濕型旗艦約18000-20000。Sharp在台灣主力是FP/KC系列約8000-15000。二手市場小米因原價低流通少，Dyson二手約4-6折。",
+    "source": "mi.com/tw, shop.dyson.tw, momo, PChome, BigGo"
+  },
+
+  "projector": {
+    "currentNew": {
+      "BenQGV30": 17900,
+      "BenQGV50": 19900,
+      "XGIMIMoGo3Pro": 19184,
+      "XGIMIMoGoProPlus": 16900,
+      "EpsonEF12": 25900
+    },
+    "secondhand": {
+      "BenQGV30": "8000-10000",
+      "XGIMIMoGoPro": "5000-8000",
+      "generic_portable": "3000-8000"
+    },
+    "note": "BenQ GV30為台灣品牌熱銷款，內建電池+2.1聲道。XGIMI MoGo 3 Pro搭Google TV，台灣約19000。二手投影機約新品5-6折，但燈泡壽命是考量。便攜型投影機新品主力落在15000-25000區間。",
+    "source": "PChome, BenQ Taiwan, myfone, BigGo"
+  },
+
+  "osim": {
+    "currentNew": {
+      "uLove3_massageChair": 149800,
+      "V手天王3_OS8242": 93860,
+      "天王工學椅_OS8245": 22610,
+      "暖足樂Sync_OS3233": 17099,
+      "護眼樂Air2_OS1251": 3799,
+      "護眼樂Air_OS1202": 3988
+    },
+    "secondhand": {
+      "uLove_older_massageChair": "15000-40000",
+      "按摩小物": "500-2000"
+    },
+    "note": "uLove 3旗艦按摩椅原價198000，早鳥149800。二手OSIM按摩椅流通不多，Carousell上偶有半價出售但需自取搬運。護眼樂/按摩小物二手價值低。uMoby頸肩按摩器約3000-5000新品。",
+    "source": "osim.com.tw, momo, PChome, Carousell"
+  },
+
+  "marshall": {
+    "currentNew": {
+      "EmbertonIII": 6490,
+      "WillenII": 3590,
+      "KilburnIII": 13900,
+      "StanmoreIII": 14900,
+      "KilburnII": 8690,
+      "EmbertonII": 4490
+    },
+    "secondhand": {
+      "EmbertonI": "1500-2000",
+      "EmbertonII": "2500-3500",
+      "KilburnII": "4000-6000",
+      "StanmoreII": "5000-8000"
+    },
+    "note": "Emberton III/Kilburn III/Stanmore III為2024-2025新世代。Willen II=最小最便宜3590、Emberton III=隨身6490、Kilburn III=可攜帶13900、Stanmore III=家用14900。舊款II系列因III推出二手明顯降價，Emberton II蝦皮約2500-3500。",
+    "source": "JM-PLUS, PChome, urbanunits, BigGo, 蝦皮"
+  },
+
+  "bose": {
+    "currentNew": {
+      "SoundLinkHome": 5990,
+      "SoundLinkFlexII": 4990,
+      "SoundLinkMicro": 3990,
+      "Soundbar900": 19900,
+      "QCUltra_earbuds": 9900,
+      "QCUltra_headphones": 12900
+    },
+    "secondhand": {
+      "SoundLinkFlex_1st": "2000-3000",
+      "SoundLinkMiniII": "2000-3500",
+      "SoundLinkRevolve": "3000-5000"
+    },
+    "note": "SoundLink Home是2025新品，復古造型家用喇叭原價7990折後5990。SoundLink Flex II第二代原價5900折後4990。Soundbar 900大幅降價至19900（原39900）。QC Ultra系列為旗艦耳機。二手Bose喇叭約4-5折。",
+    "source": "PChome Bose旗艦館, bose.tw, 蝦皮, BigGo"
+  },
+
+  "speakers_branded": {
+    "currentNew": {
+      "HarmanKardon_AuraStudio5": 11880,
+      "HarmanKardon_AuraStudio4": 8990,
+      "SonosEra100": 10600,
+      "KEFLSXII_pair": 44980,
+      "BOBeosoundA1_3rdGen": 12800
+    },
+    "secondhand": {
+      "HarmanKardon_AuraStudio3": "3000-5000",
+      "BOBeosoundA1_2nd": "4000-6000",
+      "SonosOne": "3000-5000"
+    },
+    "note": "Harman Kardon Aura Studio 5 (水母喇叭) 2026年1月在台上市11880。KEF LSX II為發燒級書架喇叭44980/pair。B&O已推出A1第三代(USD 399)，二代逐步退場。Sonos Era 100台灣10600。這類精品喇叭二手約5折。",
+    "source": "PChome, T客邦, ai-tec.com.tw, nordic.com.tw, BigGo"
+  },
+
+  "soundbar": {
+    "currentNew": {
+      "BoseSoundbar900": 19900,
+      "SamsungHWQ990D_11ch": 49900,
+      "SamsungHWQ800D_5ch": 19900,
+      "SonosArcUltra": 32000,
+      "SonosBeamGen2": 15000,
+      "SonosRay": 9800
+    },
+    "secondhand": {
+      "older_samsung_soundbar": "3000-8000",
+      "bose_soundbar_older": "8000-15000",
+      "sonos_beam_gen1": "5000-8000"
+    },
+    "note": "Soundbar市場從萬元入門到五萬旗艦都有。Samsung HW-Q990D 11.1.4聲道旗艦約49900。Bose Soundbar 900從原價39900降到19900。Sonos Ray入門約9800。一般萬元級就能滿足大多數需求。Samsung 2026新款HW-Q990H(USD1999)尚未在台上市。",
+    "source": "PChome, samsung.com/tw, momo, bose.tw"
+  },
+
+  "floorLamp": {
+    "currentNew": {
+      "IKEA_BARLAST": 299,
+      "IKEA_SINNERLIG_bamboo": 1999,
+      "IKEA_HEKTAR": 2499,
+      "IKEA_ISJAKT_LED": 3999,
+      "Flos_Arco_LED": 98400,
+      "Hay_RopeTrick": 28000,
+      "designer_mid_range": "5000-15000"
+    },
+    "secondhand": {
+      "IKEA_lamps": "100-800",
+      "designer_lamps": "3000-15000"
+    },
+    "note": "極大價差：IKEA BARLAST只要299、SINNERLIG竹製1999。Flos Arco經典款98400。Hay在台由北歐櫥窗代理，Rope Trick約28000。設計立燈(Hay/Flos/Louis Poulsen等)二手約5-7折，IKEA因原價低二手幾乎無市場。中價位5000-15000有不少北歐風選擇。",
+    "source": "ikea.com.tw, luxurylife.com.tw, nordic.com.tw, momo"
+  },
+
+  "circulationFan": {
+    "currentNew": {
+      "Vornado633DC": 5990,
+      "Vornado660": 4215,
+      "BALMUDA_GreenFan_EGF1800": 9990,
+      "BALMUDA_GreenFanCirc_EGF3300": 5990
+    },
+    "secondhand": {
+      "Vornado_older": "1500-2500",
+      "BALMUDA_GreenFan": "3000-5000",
+      "BALMUDA_Cirq": "2000-3500"
+    },
+    "note": "Vornado 633DC (DC直流) 5990、660渦流機4215（折扣價）。BALMUDA GreenFan旗艦9990-11990、Cirq循環扇5990。BALMUDA二手約5折因品牌溢價。Vornado台灣總代理雯麗國際，DC系列保固10年。",
+    "source": "PChome, balmuda.com.tw, winrex.com.tw, BigGo"
+  },
+
+  "coffeeMachine": {
+    "currentNew": {
+      "DolceGusto_GenioS": 2899,
+      "DolceGusto_GenioSTouch": 2899,
+      "DolceGusto_GenioSPlus": 3490,
+      "Nespresso_VertuoPop": 3790,
+      "Nespresso_VertLattissima": 16600,
+      "Nespresso_LattissimaOne_set": 9400,
+      "Philips_EP2220": 18999,
+      "DeLonghi_ECAM290": 25900
+    },
+    "secondhand": {
+      "DolceGusto_older": "500-1500",
+      "Nespresso_older": "1500-3000",
+      "Philips_EP2220": "8000-12000",
+      "DeLonghi_older": "8000-15000"
+    },
+    "note": "Dolce Gusto Genio S新品約2899，是最便宜的膠囊咖啡機入門款。Nespresso Vertuo Pop 3790。全自動義式咖啡機Philips EP2220約19000、DeLonghi ECAM290約25900（折後）。膠囊機二手幾乎不值錢，全自動機二手約5-6折。Costco有Genio S Plus+144顆膠囊組合。",
+    "source": "dolce-gusto.com.tw, nespresso.com/tw, PChome, momo, Costco"
+  },
+
+  "instantCamera": {
+    "currentNew": {
+      "instaxMini12": 2590,
+      "instaxMiniEvo": 6290,
+      "instaxMiniEvoCinema": 11100,
+      "instaxWideEvo": 11210,
+      "instaxPal": 3090
+    },
+    "secondhand": {
+      "instaxMini12": "1200-1800",
+      "instaxMiniEvo": "5500-7000",
+      "instaxMini11_older": "800-1500"
+    },
+    "note": "Mini 12入門款2590。Mini Evo混合式(數位+底片)6290是最熱門二手流通款。2026年1月發表Mini Evo Cinema(能錄影的拍立得)日幣55000≈NT$11100，台灣尚未正式上市。Wide Evo寬幅混合式約11210。Instax Pal超迷你數位款3090。Mini Evo二手5500-7000(9成新含底片)。",
+    "source": "fujifilm.com.tw, FujifilmMall, PChome, Dcard二手版, BigGo"
+  },
+
+  "photoprinter": {
+    "currentNew": {
+      "instaxMiniLink3": 3906,
+      "CanonSELPHY_QX20": 4690
+    },
+    "secondhand": {
+      "instaxMiniLink2": "1500-2500",
+      "instaxMiniLink3": "2500-3500",
+      "CanonSELPHY_QX10": "2000-3000"
+    },
+    "note": "Instax Mini Link 3手機印相機約3906(Yahoo)。Canon SELPHY QX20熱昇華印相機建議售價4690，畫質更好但耗材較貴。Mini Link 3用拍立得底片，SELPHY QX20用專屬相紙+墨盒。二手Link 2因Link 3推出降到1500-2500。",
+    "source": "Yahoo購物, tw.canon, PChome, BigGo"
+  },
+
+  "vr": {
+    "currentNew": {
+      "MetaQuest3S_128GB": 12200,
+      "MetaQuest3S_256GB": 15800,
+      "MetaQuest3_512GB": 20700,
+      "PSVR2": 13880,
+      "Pico4": 12000
+    },
+    "secondhand": {
+      "MetaQuest3S_128GB": "8999-10000",
+      "MetaQuest3": "14000-17000",
+      "PSVR2": "8000-11000",
+      "Pico4": "5000-8000"
+    },
+    "note": "2026年4月19日Meta因記憶體晶片漲價，Quest全線調漲50-100美元(約1591-3182台幣)。台灣無官方代理，PChome/蝦皮約比海外貴20%。Quest 3S 128GB新價約USD370=NT$12200。PS VR2在2025年3月大降價從18880降到13880。Pico 4在台較冷門，二手跌很兇。",
+    "source": "巴哈姆特, PChome, Carousell, Mobile01, meta.com"
+  },
+
+  "tent": {
+    "currentNew": {
+      "SnowPeak_AmenityDomeL": 17000,
+      "SnowPeak_AmenityDomeM": 14500,
+      "Coleman_ToughScreen2Room_MDX": 25000,
+      "Coleman_ToughScreen2Room_LDXPlus": 36600,
+      "KZM_TIER": 8618
+    },
+    "secondhand": {
+      "SnowPeak_AmenityDome": "8000-12000",
+      "Coleman_ToughScreen": "10000-18000",
+      "Coleman_basic": "3000-5000",
+      "KZM_older": "3000-6000"
+    },
+    "note": "Snow Peak Amenity Dome L官方17000，是SP入門經典。Coleman Tough Screen 2-Room系列主力25000-36600。KZM韓系品牌TIER原價15600但常見折扣價8618。露營退燒後二手帳篷市場供過於求，好品牌約5-6折可入手。Carousell上Coleman二手10人帳約4500。",
+    "source": "snowpeak.com.tw, coleman.com.tw, momo, PChome, Carousell, BigGo"
+  }
+}
