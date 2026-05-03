@@ -72,20 +72,42 @@ const STATS_FILE = 'query_stats.json';
 let stats = {};
 try { stats = JSON.parse(fs.readFileSync(STATS_FILE, 'utf8')); } catch {}
 
+// 每輪隨機跳過比例（0.3 = 跳過 30% 的 queries）
+const SKIP_RATIO = 0.3;
+
 (async () => {
   console.log(`[${ts()}] 啟動 Chromium...`);
   const browser = await chromium.launch({ headless: true });
+
+  // 嘗試載入已登入的 cookie
+  let cookies = [];
+  try {
+    cookies = JSON.parse(fs.readFileSync('cookies.json', 'utf8'));
+    console.log(`  載入 ${cookies.length} 個 cookies`);
+  } catch { console.log('  無 cookies.json，未登入模式'); }
+
   const ctx = await browser.newContext({
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
   });
+  if (cookies.length) await ctx.addCookies(cookies);
+
   const page = await ctx.newPage();
   const all = [];
   let errorCount = 0;
 
-  // === 搜尋頁 ===
-  console.log(`\n=== 搜尋頁（${QUERIES.length} 個）===`);
+  // === 搜尋頁（隨機跳過 SKIP_RATIO）===
+  const skipSet = new Set();
+  while (skipSet.size < Math.floor(QUERIES.length * SKIP_RATIO)) {
+    skipSet.add(Math.floor(Math.random() * QUERIES.length));
+  }
+  const activeCount = QUERIES.length - skipSet.size;
+  console.log(`\n=== 搜尋頁（${activeCount}/${QUERIES.length} 個，跳過 ${skipSet.size}）===`);
   for (let i = 0; i < QUERIES.length; i++) {
     const { q, min, max } = QUERIES[i];
+    if (skipSet.has(i)) {
+      console.log(`[${ts()}] [${i+1}/${QUERIES.length}] 跳過: "${q}"（本輪隨機跳過）`);
+      continue;
+    }
     const url = `https://tw.carousell.com/search/${encodeURIComponent(q)}?addRecent=false&layered_condition=3%2C4%2C7&price_end=${max}&price_start=${min}&sort_by=3`;
     console.log(`[${ts()}] [${i+1}/${QUERIES.length}] 搜尋: "${q}" ($${min}-$${max})`);
     console.log(`  URL: ${url}`);
@@ -141,7 +163,7 @@ try { stats = JSON.parse(fs.readFileSync(STATS_FILE, 'utf8')); } catch {}
       errorCount++;
     }
 
-    const wait = 8000 + Math.random() * 4000;
+    const wait = 15000 + Math.random() * 10000;
     console.log(`  等待 ${(wait/1000).toFixed(1)}s...`);
     await delay(wait);
   }
@@ -206,7 +228,7 @@ try { stats = JSON.parse(fs.readFileSync(STATS_FILE, 'utf8')); } catch {}
       errorCount++;
     }
 
-    const wait = 10000 + Math.random() * 5000;
+    const wait = 20000 + Math.random() * 10000;
     console.log(`  等待 ${(wait/1000).toFixed(1)}s...`);
     await delay(wait);
   }
