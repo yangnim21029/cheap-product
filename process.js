@@ -58,11 +58,13 @@ function findMarket(category) {
   return MARKET[category] || null;
 }
 
-const isRecent = t => {
+const isRecent = (t, maxDays = 3) => {
   if (!t) return false;
-  if (/\d+ days/.test(t) && !/^[12] days/.test(t)) return false;
   if (/week|month|year/.test(t)) return false;
-  return /minute|hour|1 day|2 days|yesterday/.test(t);
+  if (/minute|hour|yesterday/.test(t)) return true;
+  const dayMatch = t.match(/^(\d+)\s*days?/);
+  if (dayMatch) return parseInt(dayMatch[1]) <= maxDays;
+  return false;
 };
 
 const parsePrice = p => parseInt((p || '').replace(/[^0-9]/g, '')) || 0;
@@ -100,7 +102,7 @@ const negotiate = []; // 殺價保留（$3,000+ 且二手 85% 以下）
 let skippedDup = 0;
 
 raw.forEach(item => {
-  if (!isRecent(item.timeAgo)) return;
+  if (!isRecent(item.timeAgo, item.maxDays || 3)) return;
   if (BANNED.has(item.seller)) return;
   if (SKIP_CAT.includes(item.category)) return;
   const price = parsePrice(item.price);

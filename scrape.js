@@ -2,28 +2,29 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 // === 搜尋關鍵字 ===
+// maxDays: 最大可接受上架天數（預設 3）
 const QUERIES = [
-  { q: 'apple watch', min: 1000, max: 5000 },
+  { q: 'apple watch', min: 1000, max: 5000, maxDays: 3 },
   // { q: 'Samsung Galaxy Watch', min: 1000, max: 5000 }, // 暫停：連續4輪空 2026-05-02
   // { q: 'Vivienne Westwood', min: 500, max: 5000 }, // 暫停 2026-05-02
-  { q: '空氣清淨機', min: 500, max: 3000 },
-  { q: '投影機', min: 2000, max: 10000 },
-  { q: 'OSIM', min: 500, max: 5000 },
+  { q: '空氣清淨機', min: 500, max: 3000, maxDays: 3 },
+  { q: '投影機', min: 2000, max: 10000, maxDays: 5 },
+  { q: 'OSIM', min: 500, max: 5000, maxDays: 5 },
   // { q: '鼠尾草 海鹽', min: 500, max: 5000 }, // 暫停：香水已搞定 2026-05-02
   // { q: 'Jo Malone', min: 500, max: 5000 }, // 暫停：香水已搞定 2026-05-02
   // { q: '香水', min: 500, max: 5000 }, // 暫停：香水已搞定 2026-05-02
   // lululemon 略過 — Rose 2026-05-02
-  { q: 'marshall', min: 1000, max: 10000 },
-  { q: 'bose', min: 1000, max: 10000 },
-  { q: '喇叭', min: 2000, max: 10000 },
-  { q: '音響', min: 2000, max: 10000 },
-  { q: '立燈', min: 1000, max: 10000 },
-  { q: '空氣循環扇', min: 500, max: 3000 },
-  { q: '咖啡機', min: 1000, max: 10000 },
-  { q: '拍立得', min: 500, max: 5000 },
-  { q: '相印機', min: 500, max: 5000 },
-  { q: 'VR', min: 1000, max: 5000 },
-  { q: '帳篷', min: 2000, max: 10000 },
+  { q: 'marshall', min: 1000, max: 10000, maxDays: 3 },
+  { q: 'bose', min: 1000, max: 10000, maxDays: 3 },
+  { q: '喇叭', min: 2000, max: 10000, maxDays: 3 },
+  { q: '音響', min: 2000, max: 10000, maxDays: 5 },
+  { q: '立燈', min: 1000, max: 10000, maxDays: 7 },
+  { q: '空氣循環扇', min: 500, max: 3000, maxDays: 5 },
+  { q: '咖啡機', min: 1000, max: 10000, maxDays: 5 },
+  { q: '拍立得', min: 500, max: 5000, maxDays: 5 },
+  { q: '相印機', min: 500, max: 5000, maxDays: 7 },
+  { q: 'VR', min: 1000, max: 5000, maxDays: 7 },
+  { q: '帳篷', min: 2000, max: 10000, maxDays: 7 },
 ];
 
 // === 分類頁（需點 Sort → Recent）===
@@ -147,7 +148,7 @@ const SKIP_RATIO = 0.3;
         console.log(`  ⚠ evaluate 回傳非陣列: ${typeof items}`);
         continue;
       }
-      items.forEach(it => { it.category = q; });
+      items.forEach(it => { it.category = q; it.maxDays = QUERIES[i].maxDays || 3; });
       const recent = items.filter(it => /minute|hour|1 day|2 days|yesterday/.test(it.timeAgo));
       console.log(`  抓到 ${items.length} 筆（3天內: ${recent.length} 筆）`);
 
@@ -224,7 +225,7 @@ const SKIP_RATIO = 0.3;
         console.log(`  ⚠ evaluate 回傳非陣列: ${typeof items}`);
         continue;
       }
-      items.forEach(it => { it.category = name; });
+      items.forEach(it => { it.category = name; it.maxDays = 3; });
       const recent = items.filter(it => /minute|hour|1 day|2 days|yesterday/.test(it.timeAgo));
       console.log(`  抓到 ${items.length} 筆（3天內: ${recent.length} 筆）`);
 

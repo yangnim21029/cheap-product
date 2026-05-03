@@ -2,18 +2,20 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/3 23:11:07
+> 最後更新：2026/5/3 23:21:25
 
 ## 目前清單
 
-本輪無新好貨（已看過 18 筆）。持續巡邏中。
+本輪無新好貨（已看過 20 筆）。持續巡邏中。
 
-## 殺價保留（2 筆，$3,000+ 可議價）
+## 殺價保留（4 筆，$3,000+ 可議價）
 
 | 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|----------|------|------|------|------|
-| 全新 Edifier 漫步者 N300 / M60 高清桌面喇叭（淨白色） | NT$3,800 | 新$10000 | 38% | Brand new | 05/01 23:11 | <a href="https://tw.carousell.com/p/1435500535/" target="_blank">查看</a> |
-| jbl charge 4 防水攜帶式藍芽喇叭 戶外藍牙音響 | NT$4,000 | 新$10000 | 40% | Lightly used | 05/02 23:11 | <a href="https://tw.carousell.com/p/1435535707/" target="_blank">查看</a> |
+| UMST Q1 投影機 | NT$6,800 | 新$18000 | 38% | Lightly used | 04/30 23:21 | <a href="https://tw.carousell.com/p/1435294665/" target="_blank">查看</a> |
+| 全新 Edifier 漫步者 N300 / M60 高清桌面喇叭（淨白色） | NT$3,800 | 新$10000 | 38% | Brand new | 05/01 23:21 | <a href="https://tw.carousell.com/p/1435500535/" target="_blank">查看</a> |
+| jbl charge 4 防水攜帶式藍芽喇叭 戶外藍牙音響 | NT$4,000 | 新$10000 | 40% | Lightly used | 05/02 23:21 | <a href="https://tw.carousell.com/p/1435535707/" target="_blank">查看</a> |
+| [二手] 高雄Nuit 飛天象帳篷（只使用兩次）含內外地墊 拋帳 | NT$6,000 | 新$15000 | 40% | Like new | 04/30 23:21 | <a href="https://tw.carousell.com/p/1431415375/" target="_blank">查看</a> |
 
 ---
 
