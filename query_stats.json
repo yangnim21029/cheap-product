@@ -18,22 +18,22 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 522,
-    "recentTotal": 161,
+    "total": 569,
+    "recentTotal": 174,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T02:16:17.996Z"
+    "lastSeen": "2026-05-03T03:16:59.864Z"
   },
   "投影機": {
-    "total": 426,
-    "recentTotal": 109,
+    "total": 473,
+    "recentTotal": 121,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T02:16:42.953Z"
+    "lastSeen": "2026-05-03T03:17:23.121Z"
   },
   "OSIM": {
-    "total": 422,
-    "recentTotal": 19,
+    "total": 470,
+    "recentTotal": 25,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T23:38:17.032Z"
+    "lastSeen": "2026-05-03T03:17:45.124Z"
   },
   "鼠尾草 海鹽": {
     "total": 190,
@@ -60,10 +60,10 @@
     "lastSeen": "2026-05-03T02:17:12.852Z"
   },
   "bose": {
-    "total": 427,
-    "recentTotal": 108,
+    "total": 475,
+    "recentTotal": 126,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T23:39:02.497Z"
+    "lastSeen": "2026-05-03T03:18:16.536Z"
   },
   "落地燈": {
     "total": 312,
@@ -96,15 +96,39 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 429,
-    "recentTotal": 57,
+    "total": 473,
+    "recentTotal": 67,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T02:20:05.288Z"
+    "lastSeen": "2026-05-03T03:19:39.906Z"
   },
   "VR": {
-    "total": 469,
-    "recentTotal": 48,
+    "total": 516,
+    "recentTotal": 54,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T02:20:37.051Z"
+    "lastSeen": "2026-05-03T03:21:06.480Z"
+  },
+  "喇叭": {
+    "total": 44,
+    "recentTotal": 27,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T03:18:44.346Z"
+  },
+  "音響": {
+    "total": 47,
+    "recentTotal": 18,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T03:19:11.509Z"
+  },
+  "咖啡機": {
+    "total": 47,
+    "recentTotal": 17,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T03:20:02.847Z"
+  },
+  "相印機": {
+    "total": 44,
+    "recentTotal": 3,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T03:20:34.408Z"
   }
 }
