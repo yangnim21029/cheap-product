@@ -84,8 +84,9 @@ const seenSet = new Set(seenHistory);
 // === 主流程 ===
 const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
 const seen = new Set();
-const allDeals = [];  // 所有好貨（含已看過，README 用）
-const newDeals = []; // 新發現（報告用）
+const allDeals = [];  // 好貨（30%/70% 門檻）
+const newDeals = [];  // 新發現（報告用）
+const negotiate = []; // 殺價保留（$3,000+ 且二手 85% 以下）
 let skippedDup = 0;
 
 raw.forEach(item => {
@@ -111,22 +112,25 @@ raw.forEach(item => {
   const passNew = vsNew !== null && vsNew <= 30;
   const passSecondhand = vsSecondhand <= 70;
 
-  if (passNew || passSecondhand) {
-    const isReseller = RESELLERS.has(item.seller);
-    const sellerNote = isReseller ? resellerNotes[item.seller] || '批量賣家' : '';
-    const listedAt = timeAgoToTimestamp(item.timeAgo);
-    const deal = { ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand, isReseller, sellerNote, listedAt };
-    allDeals.push(deal);
+  const isReseller = RESELLERS.has(item.seller);
+  const sellerNote = isReseller ? resellerNotes[item.seller] || '批量賣家' : '';
+  const listedAt = timeAgoToTimestamp(item.timeAgo);
+  const deal = { ...item, price, priceStr: item.price, mkt, vsNew, vsSecondhand, isReseller, sellerNote, listedAt };
 
+  if (passNew || passSecondhand) {
+    allDeals.push(deal);
     const pid = item.url.match(/\/p\/(\d+)/)?.[1];
     if (pid && seenSet.has(pid)) { skippedDup++; }
     else { newDeals.push(deal); }
+  } else if (price >= 3000 && vsSecondhand <= 85) {
+    negotiate.push(deal);
   }
 });
 
 // 按折數排序（用二手行情折數）
 allDeals.sort((a, b) => a.vsSecondhand - b.vsSecondhand);
 newDeals.sort((a, b) => a.vsSecondhand - b.vsSecondhand);
+negotiate.sort((a, b) => a.vsSecondhand - b.vsSecondhand);
 
 // === 輸出 CSV ===
 const csvLines = ['category|seller|title|price|condition|url|比較基準|vs_new|vs_secondhand|listed_at'];
@@ -139,7 +143,7 @@ fs.writeFileSync('carousell_wishlist_20260501.csv', csvLines.join('\n') + '\n');
 // === 輸出報告 ===
 const recentCount = [...new Set(raw.filter(i => isRecent(i.timeAgo)).map(i => i.url))].length;
 console.log(`\n=== Batch 結果 ===`);
-console.log(`原始 ${raw.length} → 3天內 ${recentCount} → 好貨 ${allDeals.length} 筆（新 ${newDeals.length}，已看過 ${skippedDup}）\n`);
+console.log(`原始 ${raw.length} → 3天內 ${recentCount} → 好貨 ${allDeals.length} 筆（新 ${newDeals.length}，已看過 ${skippedDup}）＋ 殺價 ${negotiate.length} 筆\n`);
 newDeals.forEach((d, i) => {
   const basis = d.mkt.currentNew
     ? `新品${d.vsNew}% 二手${d.vsSecondhand}%`
@@ -148,6 +152,18 @@ newDeals.forEach((d, i) => {
   console.log(`   ${d.title} | ${d.seller} | ${d.timeAgo}`);
   console.log(`   ${d.url}`);
 });
+
+if (negotiate.length > 0) {
+  console.log(`\n--- 殺價保留清單（$3,000+，二手 ≤85%）---\n`);
+  negotiate.forEach((d, i) => {
+    const basis = d.mkt.currentNew
+      ? `新品${d.vsNew}% 二手${d.vsSecondhand}%`
+      : `二手${d.vsSecondhand}%`;
+    console.log(`${i+1}. [${d.category}] ${d.priceStr} — ${basis}`);
+    console.log(`   ${d.title} | ${d.seller} | ${d.timeAgo}`);
+    console.log(`   ${d.url}`);
+  });
+}
 
 // === 更新 README ===
 const now = new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false });
@@ -165,6 +181,16 @@ if (newDeals.length === 0) {
     const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
     const warn = d.isReseller ? ' ⚠' : '';
     md += `| ${escPipe(d.title.slice(0, 50))}${warn} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.listedAt} | <a href="${d.url}" target="_blank">查看</a> |\n`;
+  });
+}
+if (negotiate.length > 0) {
+  md += `\n## 殺價保留（${negotiate.length} 筆，$3,000+ 可議價）\n\n`;
+  md += `| 品項 | 價格 | 比較基準 | 折數 | 狀態 | 上架 | 連結 |\n`;
+  md += `|------|------|----------|------|------|------|------|\n`;
+  negotiate.forEach(d => {
+    const basis = d.mkt.currentNew ? `新$${d.mkt.currentNew}` : `二手$${d.mkt.secondhand}`;
+    const disc = d.mkt.currentNew ? `${d.vsNew}%` : `${d.vsSecondhand}%`;
+    md += `| ${escPipe(d.title.slice(0, 50))} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.listedAt} | <a href="${d.url}" target="_blank">查看</a> |\n`;
   });
 }
 md += `\n---\n\n## 歷史批次\n\n`;
