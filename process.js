@@ -242,13 +242,13 @@ const showDeals = (list, title) => {
   return s;
 };
 
-if (newDeals.length === 0 && needVerify.length === 0) {
+if (newDeals.length === 0 && negotiate.length === 0 && needVerify.length === 0) {
   md += `## 目前清單\n\n本輪無新好貨（已看過 ${skippedDup} 筆）。持續巡邏中。\n`;
 } else {
   md += showDeals(newDeals, '好貨（≤30% 新品 or ≤70% 二手）');
   md += showDeals(negotiate, '殺價保留（$3,000+，≤85%）');
   if (needVerify.length > 0) {
-    md += `\n## 待查價（${needVerify.length} 筆）\n\n`;
+    md += `\n## 待查價（${needVerify.length} 筆，subagent 尚未驗證）\n\n`;
     md += `| 品項 | 價格 | 上架 | 連結 |\n`;
     md += `|------|------|------|------|\n`;
     needVerify.slice(0, 20).forEach(d => {
