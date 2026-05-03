@@ -18,16 +18,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 475,
-    "recentTotal": 146,
+    "total": 522,
+    "recentTotal": 161,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T23:22:18.946Z"
+    "lastSeen": "2026-05-03T02:16:17.996Z"
   },
   "投影機": {
-    "total": 378,
-    "recentTotal": 97,
+    "total": 426,
+    "recentTotal": 109,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T23:22:37.046Z"
+    "lastSeen": "2026-05-03T02:16:42.953Z"
   },
   "OSIM": {
     "total": 422,
@@ -54,10 +54,10 @@
     "lastSeen": "2026-05-02T13:19:20.436Z"
   },
   "marshall": {
-    "total": 331,
-    "recentTotal": 105,
+    "total": 379,
+    "recentTotal": 119,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T16:18:30.428Z"
+    "lastSeen": "2026-05-03T02:17:12.852Z"
   },
   "bose": {
     "total": 427,
@@ -66,45 +66,45 @@
     "lastSeen": "2026-05-02T23:39:02.497Z"
   },
   "落地燈": {
-    "total": 273,
-    "recentTotal": 13,
+    "total": 312,
+    "recentTotal": 14,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T16:19:02.566Z"
+    "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 427,
-    "recentTotal": 27,
+    "total": 471,
+    "recentTotal": 31,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-02T23:54:38.702Z"
+    "lastSeen": "2026-05-03T02:18:07.795Z"
   },
   "nespresso": {
-    "total": 427,
-    "recentTotal": 39,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T21:19:48.042Z"
-  },
-  "拍立得": {
-    "total": 334,
-    "recentTotal": 141,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T16:19:51.572Z"
-  },
-  "藍牙喇叭": {
-    "total": 333,
-    "recentTotal": 109,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T16:20:09.702Z"
-  },
-  "立燈": {
-    "total": 382,
-    "recentTotal": 51,
-    "zeroStreak": 0,
-    "lastSeen": "2026-05-02T18:49:11.812Z"
-  },
-  "VR": {
-    "total": 425,
+    "total": 475,
     "recentTotal": 44,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T00:23:48.549Z"
+    "lastSeen": "2026-05-03T02:18:38.222Z"
+  },
+  "拍立得": {
+    "total": 378,
+    "recentTotal": 157,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T02:19:01.885Z"
+  },
+  "藍牙喇叭": {
+    "total": 380,
+    "recentTotal": 126,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T02:19:33.828Z"
+  },
+  "立燈": {
+    "total": 429,
+    "recentTotal": 57,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T02:20:05.288Z"
+  },
+  "VR": {
+    "total": 469,
+    "recentTotal": 48,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-03T02:20:37.051Z"
   }
 }

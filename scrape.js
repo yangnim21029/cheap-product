@@ -82,9 +82,18 @@ const SKIP_RATIO = 0.3;
   // 嘗試載入已登入的 cookie
   let cookies = [];
   try {
-    cookies = JSON.parse(fs.readFileSync('cookies.json', 'utf8'));
+    const raw = JSON.parse(fs.readFileSync('cookies.json', 'utf8'));
+    cookies = raw.map(c => {
+      const sameSiteMap = { 'unspecified': 'Lax', 'no_restriction': 'None', 'lax': 'Lax', 'strict': 'Strict' };
+      return {
+        name: c.name, value: c.value, domain: c.domain, path: c.path || '/',
+        secure: c.secure || false, httpOnly: c.httpOnly || false,
+        sameSite: sameSiteMap[(c.sameSite || '').toLowerCase()] || 'Lax',
+        ...(c.expirationDate ? { expires: c.expirationDate } : {}),
+      };
+    });
     console.log(`  載入 ${cookies.length} 個 cookies`);
-  } catch { console.log('  無 cookies.json，未登入模式'); }
+  } catch(e) { console.log('  無 cookies.json 或格式錯誤:', e.message?.slice(0,60)); }
 
   const ctx = await browser.newContext({
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
