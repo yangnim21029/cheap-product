@@ -9,11 +9,12 @@
   "香水": { "currentNew": 5000, "secondhand": 3000, "note": "品牌香水均價" },
   "marshall": { "currentNew": 6500, "secondhand": 3500, "note": "Emberton III $6,490 / Kilburn II $11,900" },
   "bose": { "currentNew": 6500, "secondhand": 3500, "note": "Home $6,500 / QC Ultra $9,500" },
-  "落地燈": { "currentNew": 3000, "secondhand": 1500 },
+  "立燈": { "currentNew": 5000, "secondhand": 2500, "note": "品牌立燈/落地燈, IKEA高階$3K+ / 設計款$5K+" },
   "空氣循環扇": { "currentNew": 3000, "secondhand": 1500 },
-  "nespresso": { "currentNew": 5400, "secondhand": 2500 },
+  "咖啡機": { "currentNew": 8000, "secondhand": 4000, "note": "品牌咖啡機: 飛利浦全自動$15K+ / Nespresso $5K / Sunbeam $7K" },
+  "音響": { "currentNew": 8000, "secondhand": 4000, "note": "與喇叭互補, Marshall/Bose/Edifier/Soundbar" },
   "拍立得": { "currentNew": 3000, "secondhand": 1500 },
+  "相印機": { "currentNew": 4000, "secondhand": 2000, "note": "Instax Mini Link $3,490 / Canon SELPHY $4,000" },
   "喇叭": { "currentNew": 8000, "secondhand": 4000, "note": "品牌喇叭均價: Marshall Acton $8,500 / HK SoundSticks $5,000 / KEF $10,000+" },
-  "立燈": { "currentNew": 3000, "secondhand": 1500 },
   "VR": { "currentNew": 12000, "secondhand": 7000, "note": "Quest 3S $11,640 / PS VR2 $13,880" }
 }
