@@ -225,9 +225,9 @@ newDeals.forEach(d => {
 html += `</table>\n</body>\n</html>`;
 fs.writeFileSync('deals.html', html);
 
-// === 更新 seen_ids（去重用）===
-const newIds = newDeals.map(d => d.url.match(/\/p\/(\d+)/)?.[1]).filter(Boolean);
-const allSeen = [...new Set([...seenHistory, ...newIds])];
-fs.writeFileSync(SEEN_FILE, JSON.stringify(allSeen, null, 2));
+// seen_ids 不自動更新——等使用者說「看完了」後跑 node mark_seen.js
 console.log(`\n✓ CSV + README + HTML 已更新`);
-console.log(`✓ seen_ids: ${seenHistory.length} 舊 + ${newIds.length} 新 = ${allSeen.length} 總已看過`);
+console.log(`✓ seen_ids: ${seenHistory.length} 筆已看過，本輪 ${newDeals.length} 筆待確認`);
+if (newDeals.length > 0) {
+  console.log(`  → 使用者確認後跑: node mark_seen.js`);
+}
