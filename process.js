@@ -165,6 +165,18 @@ if (negotiate.length > 0) {
   });
 }
 
+// === 列出需要查的新賣家 ===
+const knownSellers = new Set([...BANNED, ...RESELLERS, ...(sellersData.trusted?.accounts || []).map(a => a.id)]);
+const allResults = [...newDeals, ...negotiate];
+const unknownSellers = [...new Set(allResults.map(d => d.seller))].filter(s => !knownSellers.has(s));
+if (unknownSellers.length > 0) {
+  console.log(`\n⚡ 需要查的新賣家（${unknownSellers.length} 位）：`);
+  unknownSellers.forEach(s => {
+    const items = allResults.filter(d => d.seller === s);
+    console.log(`  → ${s} (${items.length} 筆) https://tw.carousell.com/u/${s}/`);
+  });
+}
+
 // === 更新 README ===
 const now = new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false });
 let md = `# Carousell 二手好物清單\n\n`;
