@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 1185,
-    "recentTotal": 417,
+    "total": 1229,
+    "recentTotal": 434,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T20:17:01.959Z"
+    "lastSeen": "2026-05-03T21:17:11.326Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,10 +18,10 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 1243,
-    "recentTotal": 348,
+    "total": 1290,
+    "recentTotal": 360,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T19:17:23.471Z"
+    "lastSeen": "2026-05-03T21:17:45.499Z"
   },
   "投影機": {
     "total": 1234,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 969,
-    "recentTotal": 57,
+    "total": 1013,
+    "recentTotal": 59,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T20:18:52.045Z"
+    "lastSeen": "2026-05-03T21:19:52.336Z"
   },
   "nespresso": {
     "total": 475,
@@ -96,16 +96,16 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 957,
-    "recentTotal": 143,
+    "total": 1004,
+    "recentTotal": 149,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T20:18:29.241Z"
+    "lastSeen": "2026-05-03T21:19:28.546Z"
   },
   "VR": {
-    "total": 1190,
-    "recentTotal": 127,
+    "total": 1234,
+    "recentTotal": 133,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T20:19:47.489Z"
+    "lastSeen": "2026-05-03T21:20:46.249Z"
   },
   "喇叭": {
     "total": 588,
@@ -114,10 +114,10 @@
     "lastSeen": "2026-05-03T20:17:59.632Z"
   },
   "音響": {
-    "total": 679,
-    "recentTotal": 184,
+    "total": 723,
+    "recentTotal": 193,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T19:18:18.492Z"
+    "lastSeen": "2026-05-03T21:18:58.811Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 495,
-    "recentTotal": 24,
+    "total": 542,
+    "recentTotal": 25,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T18:19:32.597Z"
+    "lastSeen": "2026-05-03T21:20:20.762Z"
   },
   "帳篷": {
     "total": 665,
