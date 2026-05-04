@@ -1,0 +1,73 @@
+{
+  "newDeals": [
+    {
+      "pid": "1435881319",
+      "url": "https://tw.carousell.com/p/1435881319/",
+      "title": "Apple Watch 7 二手良品",
+      "price": 3000,
+      "priceStr": "NT$3,000",
+      "category": "apple watch",
+      "seller": "nana6022842119",
+      "condition": "Lightly used",
+      "timeAgo": "1 day ago",
+      "listedAt": "05/04 01:00",
+      "isReseller": false,
+      "vsNew": null,
+      "vsSecondhand": 55,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5500,
+        "note": "AW7已停產5年, 二手店家$5,830-7,920, 個人賣家$4,640-6,000。$3,000無size資訊風險高, 需問41/45mm + GPS/LTE + 電池健康度",
+        "source": "web search 2026-05-04"
+      }
+    }
+  ],
+  "negotiate": [
+    {
+      "seller": "longerx",
+      "timeAgo": "12 hours ago",
+      "title": "三星投影機 全新 交車禮",
+      "price": 10000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1419049893/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/03 22:42",
+      "pid": "1419049893",
+      "verified": {
+        "newPrice": 28900,
+        "secondhand": 12000,
+        "note": "Samsung The Freestyle Gen1，原價$28,900，電商$19,900。交車禮全新未拆二手$12K-15K，$10K 低於行情",
+        "source": "web search 2026-05-03"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 83
+    }
+  ],
+  "uncertain": [
+    {
+      "pid": "1435910868",
+      "url": "https://tw.carousell.com/p/1435910868/",
+      "title": "[自售] Wharfedale DIAMOND 12.1書架喇叭 淺木紋白色",
+      "price": 8800,
+      "priceStr": "NT$8,800",
+      "category": "喇叭",
+      "seller": "blkf852741",
+      "condition": "Lightly used",
+      "timeAgo": "10 hours ago",
+      "listedAt": "05/04 00:00",
+      "isReseller": false,
+      "vsNew": 66,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 13400,
+        "secondhand": null,
+        "note": "Wharfedale Diamond 12.1 新品仕洋$13,400 / 公司貨$15,800。二手實際listing不足3筆,無法定行情。$8,800/13,400=66%,Hi-Fi書架喇叭折舊慢,可考慮",
+        "source": "web search 2026-05-04"
+      }
+    }
+  ]
+}
