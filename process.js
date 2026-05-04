@@ -135,6 +135,7 @@ try { verified = JSON.parse(fs.readFileSync(VERIFIED_FILE, 'utf8')); } catch {}
 // === 用已驗證價格比價，沒驗證的列為待查 ===
 const newDeals = [];
 const negotiate = [];
+const uncertain = []; // 二手資料不足，價格相對新品合理但無法自動判斷
 const needVerify = [];
 
 candidates.forEach(d => {
@@ -155,17 +156,21 @@ candidates.forEach(d => {
     newDeals.push(d);
   } else if (d.price >= 3000 && vsSecondhand !== null && vsSecondhand <= 85) {
     negotiate.push(d);
+  } else if (v.secondhand === null && vsNew !== null && vsNew <= 70 && d.price >= 3000) {
+    // 二手無資料 + 新品折數合理（≤70%）+ 金額大 → 手動判斷
+    uncertain.push(d);
   }
 });
 
 newDeals.sort((a, b) => (a.vsSecondhand || 999) - (b.vsSecondhand || 999));
 negotiate.sort((a, b) => (a.vsSecondhand || 999) - (b.vsSecondhand || 999));
+uncertain.sort((a, b) => (a.vsNew || 999) - (b.vsNew || 999));
 
 // === 輸出報告 ===
 const recentCount = [...new Set(raw.filter(i => isRecent(i.timeAgo, i.maxDays || 3)).map(i => i.url))].length;
 console.log(`\n=== Batch 結果 ===`);
 console.log(`原始 ${raw.length} → 候選 ${candidates.length}（已看過跳過 ${skippedDup}）`);
-console.log(`已驗證: 好貨 ${newDeals.length} ＋ 殺價 ${negotiate.length} ＋ 待查價 ${needVerify.length}\n`);
+console.log(`已驗證: 好貨 ${newDeals.length} ＋ 殺價 ${negotiate.length} ＋ 手動判斷 ${uncertain.length} ＋ 待查價 ${needVerify.length}\n`);
 
 if (newDeals.length > 0) {
   console.log(`--- 好貨 ---\n`);
@@ -185,6 +190,17 @@ if (negotiate.length > 0) {
     console.log(`${i+1}. [${d.category}] ${d.priceStr} — 新品${d.vsNew ?? '-'}% 二手${d.vsSecondhand ?? '-'}%`);
     console.log(`   ${d.title} | ${d.seller} | ${d.timeAgo}`);
     console.log(`   新品$${v.newPrice || '?'} 二手$${v.secondhand || '?'} (${v.note || ''})`);
+    console.log(`   ${d.url}`);
+  });
+}
+
+if (uncertain.length > 0) {
+  console.log(`\n--- 手動判斷（二手資料不足，新品 ≤70%）---\n`);
+  uncertain.forEach((d, i) => {
+    const v = d.verified;
+    console.log(`${i+1}. [${d.category}] ${d.priceStr} — 新品${d.vsNew ?? '-'}%（二手資料不足）`);
+    console.log(`   ${d.title} | ${d.seller} | ${d.timeAgo}`);
+    console.log(`   新品$${v.newPrice} ${v.note || ''}`);
     console.log(`   ${d.url}`);
   });
 }
@@ -218,7 +234,7 @@ if (unknownSellers.length > 0) {
 
 // === 輸出 CSV ===
 const csvLines = ['category|seller|title|price|condition|url|newPrice|secondhand|vs_new|vs_secondhand|listed_at'];
-[...newDeals, ...negotiate].forEach(d => {
+[...newDeals, ...negotiate, ...uncertain].forEach(d => {
   const v = d.verified || {};
   csvLines.push(`${d.category}|${d.seller}|${escPipe(d.title)}|${d.priceStr}|${d.condition}|${d.url}|${v.newPrice||''}|${v.secondhand||''}|${d.vsNew ?? '-'}%|${d.vsSecondhand ?? '-'}%|${d.listedAt}`);
 });
@@ -244,11 +260,12 @@ const showDeals = (list, title) => {
   return s;
 };
 
-if (newDeals.length === 0 && negotiate.length === 0 && needVerify.length === 0) {
+if (newDeals.length === 0 && negotiate.length === 0 && uncertain.length === 0 && needVerify.length === 0) {
   md += `## 目前清單\n\n本輪無新好貨（已看過 ${skippedDup} 筆）。持續巡邏中。\n`;
 } else {
   md += showDeals(newDeals, '好貨（≤30% 新品 or ≤70% 二手）');
   md += showDeals(negotiate, '殺價保留（$3,000+，≤85%）');
+  md += showDeals(uncertain, '手動判斷（二手資料不足，新品 ≤70%）');
   if (needVerify.length > 0) {
     md += `\n## 待查價（${needVerify.length} 筆，subagent 尚未驗證）\n\n`;
     md += `| 品項 | 價格 | 上架 | 連結 |\n`;
@@ -266,7 +283,7 @@ fs.writeFileSync('README.md', md);
 
 // === 更新 deals.html ===
 let html = `<!DOCTYPE html>\n<html lang="zh-TW">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1.0">\n<title>Carousell 二手好物清單</title>\n<style>\n*{margin:0;padding:0;box-sizing:border-box}\nbody{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0a0a;color:#e0e0e0;padding:20px;max-width:960px;margin:0 auto}\nh1{font-size:1.6rem;margin-bottom:6px;color:#fff}\n.sub{color:#888;margin-bottom:20px;font-size:.85rem}\ntable{width:100%;border-collapse:collapse;margin-bottom:30px}\nth{text-align:left;padding:10px 6px;border-bottom:2px solid #333;color:#888;font-size:.75rem;text-transform:uppercase}\ntd{padding:8px 6px;border-bottom:1px solid #1a1a1a;font-size:.85rem}\ntr:hover{background:#111}\n.p{color:#e8364e;font-weight:700}\n.d{color:#4ade80;font-weight:700}\na{color:#60a5fa;text-decoration:none}\na:hover{text-decoration:underline}\n.t{font-size:.8rem;color:#666}\n</style>\n</head>\n<body>\n<h1>Carousell 二手好物清單</h1>\n<p class="sub">新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情 | ${now}</p>\n<table>\n<tr><th>品項</th><th>價格</th><th>比較基準</th><th>折數</th><th>狀態</th><th>上架</th><th></th></tr>\n`;
-[...newDeals, ...negotiate].forEach(d => {
+[...newDeals, ...negotiate, ...uncertain].forEach(d => {
   const v = d.verified || {};
   const basis = v.newPrice ? `$${v.newPrice}` : (v.secondhand ? `二手$${v.secondhand}` : '?');
   const disc = d.vsNew ? `${d.vsNew}%` : (d.vsSecondhand ? `${d.vsSecondhand}%` : '?');
