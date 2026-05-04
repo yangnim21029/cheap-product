@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "ed0623",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Apple AirPods Pro2",
       "price": 3000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 15:09",
+      "listedAt": "05/04 14:26",
       "pid": "1435966307",
       "verified": {
         "newPrice": 7490,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "NeighborhoodLife",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "BOSE QuietComfort Ultra I 消噪耳塞 第一代 黑色 藍牙耳機",
       "price": 4300,
       "condition": "Like new",
@@ -35,7 +35,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 13:09",
+      "listedAt": "05/04 12:26",
       "pid": "1435949875",
       "verified": {
         "newPrice": 15800,
@@ -50,7 +50,7 @@
   "negotiate": [
     {
       "seller": "eason1070016",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "AirPods Pro 2",
       "price": 3700,
       "condition": "Lightly used",
@@ -60,7 +60,7 @@
       "priceStr": "NT$3,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 14:09",
+      "listedAt": "05/04 13:26",
       "pid": "1435956548",
       "verified": {
         "newPrice": 7490,
