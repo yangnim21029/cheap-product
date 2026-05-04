@@ -166,7 +166,7 @@ candidates.forEach(d => {
 
   if (passNew || passSecondhand) {
     newDeals.push(d);
-  } else if (d.price >= 3000 && vsSecondhand !== null && vsSecondhand <= 85) {
+  } else if (d.price >= 3000 && vsSecondhand !== null && vsSecondhand <= 90) {
     negotiate.push(d);
   } else if (v.secondhand === null && vsNew !== null && vsNew <= 70 && d.price >= 2000) {
     uncertain.push(d);
@@ -293,7 +293,7 @@ if (allNewDeals.length === 0 && allNegotiate.length === 0 && allUncertain.length
   md += `## 目前清單\n\n本輪無新好貨（已看過 ${skippedDup} 筆）。持續巡邏中。\n`;
 } else {
   md += showDeals(allNewDeals, '好貨（≤30% 新品 or ≤70% 二手）');
-  md += showDeals(allNegotiate, '殺價保留（$3,000+，≤85%）');
+  md += showDeals(allNegotiate, '殺價保留（$3,000+，≤90%）');
   md += showDeals(allUncertain, '手動判斷（二手資料不足，新品 ≤70%）');
   if (needVerify.length > 0) {
     md += `\n## 待查價（${needVerify.length} 筆，subagent 尚未驗證）\n\n`;
