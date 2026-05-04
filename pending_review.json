@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "mila_zzz",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "✨ 全新正品✨ 馬歇爾 Marshall Minor IV 真無線 藍牙 耳機 最新 第四代 半入耳式 公司貨",
       "price": 2600,
       "condition": "Brand new",
@@ -27,7 +27,7 @@
     },
     {
       "seller": "lehao0911",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "BOSE QUIETCOMFORT EARBUDS 2024年製",
       "price": 3540,
       "condition": "Like new",
@@ -73,7 +73,7 @@
     },
     {
       "seller": "yingycy73",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Honeywell 淨味空氣清淨機 HPA5250WTWV1",
       "price": 2500,
       "condition": "Lightly used",
@@ -106,7 +106,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/02 00:27",
+      "listedAt": "05/02 01:27",
       "pid": "1435501506",
       "verified": {
         "newPrice": 13800,
@@ -115,6 +115,29 @@
         "source": "web search 2026-05-05"
       },
       "vsNew": 43,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "love8110279",
+      "timeAgo": "5 days ago",
+      "title": "The north face 北臉 露營椅 露營桌",
+      "price": 3000,
+      "condition": "",
+      "url": "https://tw.carousell.com/p/1435167100/",
+      "category": "露營",
+      "maxDays": 7,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "04/30 01:27",
+      "pid": "1435167100",
+      "verified": {
+        "newPrice": 6000,
+        "secondhand": null,
+        "note": "TNF 露營椅+桌組 新品$5,500-8,000 (Camp Chair日系平輸$4,500-6,500 + Table $1,500-2,500)。$3,000 = 50%, 划算但無TW二手3+筆",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 50,
       "vsSecondhand": null
     }
   ]
