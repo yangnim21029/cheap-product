@@ -25,8 +25,8 @@ const QUERIES = [
   { q: '相印機', min: 500, max: 5000, maxDays: 7 },
   { q: 'VR', min: 1000, max: 5000, maxDays: 7 },
   { q: '帳篷', min: 2000, max: 10000, maxDays: 7 },
-  // 無關鍵字瀏覽：撈關鍵字搜不到的冷門品牌好物（≥$3,000，避免雜訊）
-  { q: '', min: 3000, max: 10000, maxDays: 1, label: '無關鍵字' },
+  // 無關鍵字瀏覽暫停：雜訊太多（衣服/家具/包/球員卡），SoundSticks 4 是少數成功案例
+  // { q: '', min: 3000, max: 10000, maxDays: 1, label: '無關鍵字' },
 ];
 
 // === 分類頁（需點 Sort → Recent）===

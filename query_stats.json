@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 1452,
-    "recentTotal": 522,
+    "total": 1496,
+    "recentTotal": 539,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T06:16:59.572Z"
+    "lastSeen": "2026-05-04T08:16:59.600Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -24,10 +24,10 @@
     "lastSeen": "2026-05-04T07:17:01.761Z"
   },
   "投影機": {
-    "total": 1376,
-    "recentTotal": 434,
+    "total": 1423,
+    "recentTotal": 449,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T07:17:25.971Z"
+    "lastSeen": "2026-05-04T08:17:28.281Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,9 +72,9 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 1285,
+    "total": 1332,
     "recentTotal": 60,
-    "zeroStreak": 5,
+    "zeroStreak": 6,
     "lastSeen": "2026-05-04T01:43:57.187Z"
   },
   "nespresso": {
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 1234,
-    "recentTotal": 500,
+    "total": 1281,
+    "recentTotal": 516,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T05:18:47.881Z"
+    "lastSeen": "2026-05-04T08:19:17.684Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -96,22 +96,22 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 1365,
-    "recentTotal": 193,
+    "total": 1412,
+    "recentTotal": 200,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T07:18:42.770Z"
+    "lastSeen": "2026-05-04T08:18:20.667Z"
   },
   "VR": {
-    "total": 1598,
-    "recentTotal": 167,
+    "total": 1642,
+    "recentTotal": 170,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T07:20:03.956Z"
+    "lastSeen": "2026-05-04T08:19:41.619Z"
   },
   "喇叭": {
-    "total": 810,
-    "recentTotal": 373,
+    "total": 854,
+    "recentTotal": 390,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T07:17:56.047Z"
+    "lastSeen": "2026-05-04T08:17:53.094Z"
   },
   "音響": {
     "total": 858,
@@ -132,15 +132,15 @@
     "lastSeen": "2026-05-04T07:19:39.011Z"
   },
   "帳篷": {
-    "total": 1049,
-    "recentTotal": 108,
+    "total": 1097,
+    "recentTotal": 110,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T07:20:28.141Z"
+    "lastSeen": "2026-05-04T08:20:06.780Z"
   },
   "": {
-    "total": 96,
-    "recentTotal": 89,
+    "total": 144,
+    "recentTotal": 134,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T06:20:49.245Z"
+    "lastSeen": "2026-05-04T08:20:32.659Z"
   }
 }
