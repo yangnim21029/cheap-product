@@ -18,10 +18,10 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 1290,
-    "recentTotal": 360,
+    "total": 1337,
+    "recentTotal": 372,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T21:17:45.499Z"
+    "lastSeen": "2026-05-04T01:42:37.864Z"
   },
   "投影機": {
     "total": 1234,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 1013,
-    "recentTotal": 59,
+    "total": 1059,
+    "recentTotal": 60,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T21:19:52.336Z"
+    "lastSeen": "2026-05-04T01:43:57.187Z"
   },
   "nespresso": {
     "total": 475,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 961,
-    "recentTotal": 383,
+    "total": 1008,
+    "recentTotal": 404,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T20:19:17.047Z"
+    "lastSeen": "2026-05-04T01:44:27.454Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -96,22 +96,22 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 1004,
-    "recentTotal": 149,
+    "total": 1048,
+    "recentTotal": 154,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T21:19:28.546Z"
+    "lastSeen": "2026-05-04T01:43:27.394Z"
   },
   "VR": {
-    "total": 1234,
-    "recentTotal": 133,
+    "total": 1281,
+    "recentTotal": 136,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T21:20:46.249Z"
+    "lastSeen": "2026-05-04T01:45:20.968Z"
   },
   "喇叭": {
-    "total": 588,
-    "recentTotal": 289,
+    "total": 632,
+    "recentTotal": 309,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T20:17:59.632Z"
+    "lastSeen": "2026-05-04T01:43:01.672Z"
   },
   "音響": {
     "total": 723,
@@ -126,15 +126,15 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 542,
-    "recentTotal": 25,
+    "total": 589,
+    "recentTotal": 27,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T21:20:20.762Z"
+    "lastSeen": "2026-05-04T01:44:57.469Z"
   },
   "帳篷": {
-    "total": 665,
-    "recentTotal": 84,
+    "total": 713,
+    "recentTotal": 88,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-03T20:20:18.929Z"
+    "lastSeen": "2026-05-04T01:45:49.554Z"
   }
 }
