@@ -58,7 +58,8 @@ const SKIP_CAT = [
   // 暫停的 queries
   'Samsung Galaxy Watch', 'Vivienne Westwood', '鼠尾草 海鹽', 'Jo Malone', '香水', 'OSIM', '咖啡機', 'marshall', 'bose',
   // 分類頁不進比價
-  '家具居家', '美妝保養', '精品', '手機平板', '家電影音', '音響耳機',
+  '家具居家', '美妝保養', '精品', '手機平板', '家電影音',
+  // '音響耳機' 開放：marshall/bose/AirPods 暫停 query 時靠這個撈
 ];
 
 // === 市場行情表：從 market_prices.json 讀取 ===
