@@ -1,5 +1,52 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "pei919",
+      "timeAgo": "43 minutes ago",
+      "title": "Apple Watch SE 40mm （GPS版）",
+      "price": 2000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1435927885/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/04 10:43",
+      "pid": "1435927885",
+      "verified": {
+        "newPrice": 7900,
+        "secondhand": 4000,
+        "note": "SE3新品$7,900。SE1/SE2 40mm GPS 二手listing：$4,500/$4,600 SE2, $3,000/$4,700 SE1。$2,000 屬店家收購價,不像個人賣家行情",
+        "source": "web search 2026-05-04"
+      },
+      "vsNew": 25,
+      "vsSecondhand": 50
+    },
+    {
+      "seller": "zvf81533",
+      "timeAgo": "30 minutes ago",
+      "title": "VR HTC VIVE",
+      "price": 2000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1435930688/",
+      "category": "VR",
+      "maxDays": 7,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/04 10:56",
+      "pid": "1435930688",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 4500,
+        "note": "原版HTC Vive(2016)停產。二手listing $2,100/$4,500/$7,000。$2,000只比最低端略高。要注意是哪個型號",
+        "source": "web search 2026-05-04"
+      },
+      "vsNew": null,
+      "vsSecondhand": 44
+    }
+  ],
   "negotiate": [],
   "uncertain": []
 }
