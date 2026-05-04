@@ -18,16 +18,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 1795,
-    "recentTotal": 467,
+    "total": 1842,
+    "recentTotal": 477,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T14:17:32.076Z"
+    "lastSeen": "2026-05-04T16:16:59.871Z"
   },
   "投影機": {
-    "total": 1756,
-    "recentTotal": 562,
+    "total": 1803,
+    "recentTotal": 577,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T15:17:28.905Z"
+    "lastSeen": "2026-05-04T16:17:24.402Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 1558,
-    "recentTotal": 65,
+    "total": 1605,
+    "recentTotal": 66,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T15:19:23.139Z"
+    "lastSeen": "2026-05-04T16:18:49.479Z"
   },
   "nespresso": {
     "total": 475,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 1463,
-    "recentTotal": 578,
+    "total": 1510,
+    "recentTotal": 594,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T13:20:02.702Z"
+    "lastSeen": "2026-05-04T16:19:16.382Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -102,22 +102,22 @@
     "lastSeen": "2026-05-04T15:18:56.490Z"
   },
   "VR": {
-    "total": 1867,
-    "recentTotal": 189,
+    "total": 1914,
+    "recentTotal": 191,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T15:20:17.316Z"
+    "lastSeen": "2026-05-04T16:19:47.595Z"
   },
   "喇叭": {
-    "total": 1124,
-    "recentTotal": 513,
+    "total": 1168,
+    "recentTotal": 533,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T15:17:56.427Z"
+    "lastSeen": "2026-05-04T16:17:52.955Z"
   },
   "音響": {
-    "total": 1130,
-    "recentTotal": 296,
+    "total": 1174,
+    "recentTotal": 305,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T15:18:27.123Z"
+    "lastSeen": "2026-05-04T16:18:18.897Z"
   },
   "咖啡機": {
     "total": 409,
@@ -138,9 +138,15 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 144,
-    "recentTotal": 134,
+    "total": 192,
+    "recentTotal": 180,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T08:20:32.659Z"
+    "lastSeen": "2026-05-04T16:20:43.498Z"
+  },
+  "露營": {
+    "total": 44,
+    "recentTotal": 9,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-04T16:20:14.984Z"
   }
 }

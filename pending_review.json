@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "mila_zzz",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "✨ 全新正品✨ 馬歇爾 Marshall Minor IV 真無線 藍牙 耳機 最新 第四代 半入耳式 公司貨",
       "price": 2600,
       "condition": "Brand new",
@@ -14,7 +14,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:37",
+      "listedAt": "05/04 20:27",
       "pid": "1436040999",
       "verified": {
         "newPrice": 3990,
@@ -27,7 +27,7 @@
     },
     {
       "seller": "lehao0911",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "BOSE QUIETCOMFORT EARBUDS 2024年製",
       "price": 3540,
       "condition": "Like new",
@@ -37,7 +37,7 @@
       "priceStr": "NT$3,540",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:37",
+      "listedAt": "05/04 20:27",
       "pid": "1421229534",
       "verified": {
         "newPrice": 6000,
@@ -69,6 +69,52 @@
         "source": "web search 2026-05-04 (model unspecified)"
       },
       "vsNew": 64,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "yingycy73",
+      "timeAgo": "1 hour ago",
+      "title": "Honeywell 淨味空氣清淨機 HPA5250WTWV1",
+      "price": 2500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436065269/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/04 23:27",
+      "pid": "1436065269",
+      "verified": {
+        "newPrice": 7990,
+        "secondhand": null,
+        "note": "Honeywell HPA5250WTWV1 (淨味款) 新品PChome$7,990。$2,500 = 31% 新品, 超低需確認狀況/濾網",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 31,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "sunny228530",
+      "timeAgo": "3 days ago",
+      "title": "Osprey Ariel 65L 女款 登山背包 健行 露營 大容量 贈防水套",
+      "price": 6000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1435501506/",
+      "category": "露營",
+      "maxDays": 7,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/02 00:27",
+      "pid": "1435501506",
+      "verified": {
+        "newPrice": 13800,
+        "secondhand": null,
+        "note": "Osprey Ariel 65L 女款登山背包 新品$13,000-14,500(山水/Prince Outdoor)。$6,000 = 43% 新品 含防水套, 不錯",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 43,
       "vsSecondhand": null
     }
   ]
