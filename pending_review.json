@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "mila_zzz",
-      "timeAgo": "30 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "✨ 全新正品✨ 馬歇爾 Marshall Minor IV 真無線 藍牙 耳機 最新 第四代 半入耳式 公司貨",
       "price": 2600,
       "condition": "Brand new",
@@ -14,7 +14,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:56",
+      "listedAt": "05/04 20:26",
       "pid": "1436040999",
       "verified": {
         "newPrice": 3990,
@@ -27,7 +27,7 @@
     },
     {
       "seller": "lehao0911",
-      "timeAgo": "44 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "BOSE QUIETCOMFORT EARBUDS 2024年製",
       "price": 3540,
       "condition": "Like new",
@@ -37,7 +37,7 @@
       "priceStr": "NT$3,540",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:42",
+      "listedAt": "05/04 20:26",
       "pid": "1421229534",
       "verified": {
         "newPrice": 6000,
@@ -46,6 +46,29 @@
         "source": "web search 2026-05-04 (model uncertain)"
       },
       "vsNew": 59,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "yingycy73",
+      "timeAgo": "3 minutes ago",
+      "title": "Honeywell空氣清淨機",
+      "price": 2500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436056823/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/04 22:23",
+      "pid": "1436056823",
+      "verified": {
+        "newPrice": 3880,
+        "secondhand": null,
+        "note": "Honeywell空氣清淨機 沒標型號。HPA-100APTW新品$3,880, HPA-300APTW新品$6-12K。$2,500=HPA-100的64%,需問型號",
+        "source": "web search 2026-05-04 (model unspecified)"
+      },
+      "vsNew": 64,
       "vsSecondhand": null
     }
   ]
