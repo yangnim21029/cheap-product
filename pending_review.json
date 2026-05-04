@@ -1,5 +1,27 @@
 {
   "newDeals": [],
   "negotiate": [],
-  "uncertain": []
+  "uncertain": [
+    {
+      "pid": "1435938783",
+      "url": "https://tw.carousell.com/p/1435938783/",
+      "title": "Harman Kardon SoundSticks 4 (黑色)",
+      "price": 6500,
+      "priceStr": "NT$6,500",
+      "category": "無關鍵字",
+      "seller": "(待查)",
+      "condition": "Like new",
+      "timeAgo": "26 minutes ago",
+      "listedAt": "05/04 11:00",
+      "isReseller": false,
+      "vsNew": 59,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 10990,
+        "secondhand": null,
+        "note": "Harman Kardon SoundSticks 4 黑色, 官方$10,990-12,990, 蝦皮水貨$9,690, 福利品$7,990-8,999. 同型號二手實際成交不足3筆,無法定義行情. $6,500明顯低於福利品下限,機況正常屬划算",
+        "source": "web search 2026-05-04 (insufficient secondhand data)"
+      }
+    }
+  ]
 }
