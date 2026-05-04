@@ -1,5 +1,52 @@
 {
   "newDeals": [],
   "negotiate": [],
-  "uncertain": []
+  "uncertain": [
+    {
+      "seller": "mila_zzz",
+      "timeAgo": "30 minutes ago",
+      "title": "✨ 全新正品✨ 馬歇爾 Marshall Minor IV 真無線 藍牙 耳機 最新 第四代 半入耳式 公司貨",
+      "price": 2600,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436040999/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/04 20:56",
+      "pid": "1436040999",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Marshall Minor IV 全新 PChome/momo $3,990。$2,600 = 65% 新品, 全新正品折扣35% 是好貨",
+        "source": "web search 2026-05-04"
+      },
+      "vsNew": 65,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "lehao0911",
+      "timeAgo": "44 minutes ago",
+      "title": "BOSE QUIETCOMFORT EARBUDS 2024年製",
+      "price": 3540,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1421229534/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,540",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/04 20:42",
+      "pid": "1421229534",
+      "verified": {
+        "newPrice": 6000,
+        "secondhand": null,
+        "note": "Bose QC Earbuds 2024年製 — 型號不明 (QC Earbuds 2024 / QC Earbuds II / 一代)。PChome QC消噪耳塞$6,000, QC Ultra II $8,100-9,500。$3,540 模糊難判,要先確定哪一代",
+        "source": "web search 2026-05-04 (model uncertain)"
+      },
+      "vsNew": 59,
+      "vsSecondhand": null
+    }
+  ]
 }

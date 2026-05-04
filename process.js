@@ -168,7 +168,7 @@ candidates.forEach(d => {
     newDeals.push(d);
   } else if (d.price >= 3000 && vsSecondhand !== null && vsSecondhand <= 85) {
     negotiate.push(d);
-  } else if (v.secondhand === null && vsNew !== null && vsNew <= 70 && d.price >= 3000) {
+  } else if (v.secondhand === null && vsNew !== null && vsNew <= 70 && d.price >= 2000) {
     uncertain.push(d);
   }
 });
