@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 1540,
-    "recentTotal": 556,
+    "total": 1584,
+    "recentTotal": 572,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T10:16:59.382Z"
+    "lastSeen": "2026-05-04T11:16:59.583Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -24,10 +24,10 @@
     "lastSeen": "2026-05-04T10:17:23.773Z"
   },
   "投影機": {
-    "total": 1518,
-    "recentTotal": 481,
+    "total": 1566,
+    "recentTotal": 497,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T10:17:48.709Z"
+    "lastSeen": "2026-05-04T11:17:23.782Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 1379,
-    "recentTotal": 60,
-    "zeroStreak": 7,
-    "lastSeen": "2026-05-04T01:43:57.187Z"
+    "total": 1426,
+    "recentTotal": 61,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-04T11:19:23.719Z"
   },
   "nespresso": {
     "total": 475,
@@ -96,10 +96,10 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 1503,
-    "recentTotal": 213,
+    "total": 1547,
+    "recentTotal": 220,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T10:19:10.976Z"
+    "lastSeen": "2026-05-04T11:18:53.979Z"
   },
   "VR": {
     "total": 1730,
@@ -108,16 +108,16 @@
     "lastSeen": "2026-05-04T10:19:59.388Z"
   },
   "喇叭": {
-    "total": 942,
-    "recentTotal": 427,
+    "total": 989,
+    "recentTotal": 449,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T10:18:19.757Z"
+    "lastSeen": "2026-05-04T11:17:56.945Z"
   },
   "音響": {
-    "total": 905,
-    "recentTotal": 234,
+    "total": 952,
+    "recentTotal": 248,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T10:18:44.769Z"
+    "lastSeen": "2026-05-04T11:18:25.609Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,16 +126,16 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 899,
-    "recentTotal": 44,
+    "total": 946,
+    "recentTotal": 47,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T09:19:42.207Z"
+    "lastSeen": "2026-05-04T11:19:47.505Z"
   },
   "帳篷": {
-    "total": 1097,
-    "recentTotal": 110,
+    "total": 1144,
+    "recentTotal": 113,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T08:20:06.780Z"
+    "lastSeen": "2026-05-04T11:20:13.466Z"
   },
   "": {
     "total": 144,
