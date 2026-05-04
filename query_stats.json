@@ -24,10 +24,10 @@
     "lastSeen": "2026-05-04T10:17:23.773Z"
   },
   "投影機": {
-    "total": 1566,
-    "recentTotal": 497,
+    "total": 1614,
+    "recentTotal": 514,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T11:17:23.782Z"
+    "lastSeen": "2026-05-04T12:17:02.429Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,9 +72,9 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 1426,
+    "total": 1470,
     "recentTotal": 61,
-    "zeroStreak": 0,
+    "zeroStreak": 1,
     "lastSeen": "2026-05-04T11:19:23.719Z"
   },
   "nespresso": {
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 1369,
-    "recentTotal": 546,
+    "total": 1416,
+    "recentTotal": 562,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T10:19:35.319Z"
+    "lastSeen": "2026-05-04T12:19:18.197Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -96,28 +96,28 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 1547,
-    "recentTotal": 220,
+    "total": 1591,
+    "recentTotal": 227,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T11:18:53.979Z"
+    "lastSeen": "2026-05-04T12:18:28.465Z"
   },
   "VR": {
-    "total": 1730,
-    "recentTotal": 179,
+    "total": 1774,
+    "recentTotal": 181,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T10:19:59.388Z"
+    "lastSeen": "2026-05-04T12:20:16.036Z"
   },
   "喇叭": {
-    "total": 989,
-    "recentTotal": 449,
+    "total": 1033,
+    "recentTotal": 470,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T11:17:56.945Z"
+    "lastSeen": "2026-05-04T12:17:28.632Z"
   },
   "音響": {
-    "total": 952,
-    "recentTotal": 248,
+    "total": 996,
+    "recentTotal": 260,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T11:18:25.609Z"
+    "lastSeen": "2026-05-04T12:17:57.537Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 946,
-    "recentTotal": 47,
+    "total": 993,
+    "recentTotal": 50,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T11:19:47.505Z"
+    "lastSeen": "2026-05-04T12:19:50.379Z"
   },
   "帳篷": {
     "total": 1144,
