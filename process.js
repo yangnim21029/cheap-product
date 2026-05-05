@@ -240,17 +240,20 @@ if (allUncertain.length > 0) {
   });
 }
 
-if (needVerify.length > 0) {
-  console.log(`\n⏳ 待查價（${needVerify.length} 筆，需 subagent web search）：\n`);
-  needVerify.slice(0, 20).forEach((d, i) => {
-    console.log(`${i+1}. ${d.priceStr} | ${d.title.slice(0,50)} | ${d.seller} | ${d.timeAgo}`);
+// 把待查分成「相關」（特定 query）跟「雜訊」（無關鍵字）
+const needVerifyRelevant = needVerify.filter(d => d.category && d.category !== '');
+const needVerifyNoise = needVerify.filter(d => !d.category || d.category === '');
+
+if (needVerifyRelevant.length > 0) {
+  console.log(`\n⏳ 待查價（${needVerifyRelevant.length} 筆相關 +${needVerifyNoise.length} 筆雜訊，需 subagent web search）：\n`);
+  needVerifyRelevant.forEach((d, i) => {
+    console.log(`${i+1}. [${d.category}] ${d.priceStr} | ${d.title.slice(0,50)} | ${d.seller} | ${d.timeAgo}`);
     console.log(`   ${d.url}`);
   });
-  if (needVerify.length > 20) console.log(`   ...還有 ${needVerify.length - 20} 筆`);
 }
 
-// 輸出待查價清單給 subagent 用
-fs.writeFileSync('need_verify.json', JSON.stringify(needVerify.map(d => ({
+// 只把相關的寫進 need_verify.json（無關鍵字雜訊不進）
+fs.writeFileSync('need_verify.json', JSON.stringify(needVerifyRelevant.map(d => ({
   pid: d.pid, title: d.title, price: d.price, priceStr: d.priceStr,
   category: d.category, seller: d.seller, url: d.url, timeAgo: d.timeAgo
 })), null, 2));
@@ -295,17 +298,17 @@ const showDeals = (list, title) => {
   return s;
 };
 
-if (allNewDeals.length === 0 && allNegotiate.length === 0 && allUncertain.length === 0 && needVerify.length === 0) {
+if (allNewDeals.length === 0 && allNegotiate.length === 0 && allUncertain.length === 0 && needVerifyRelevant.length === 0) {
   md += `## 目前清單\n\n本輪無新好貨（已看過 ${skippedDup} 筆）。持續巡邏中。\n`;
 } else {
   md += showDeals(allNewDeals, '好貨（≤30% 新品 or ≤70% 二手）');
   md += showDeals(allNegotiate, '殺價保留（$3,000+，≤90%）');
   md += showDeals(allUncertain, '手動判斷（二手資料不足，新品 ≤70%）');
-  if (needVerify.length > 0) {
-    md += `\n## 待查價（${needVerify.length} 筆，subagent 尚未驗證）\n\n`;
+  if (needVerifyRelevant.length > 0) {
+    md += `\n## 待查價（${needVerifyRelevant.length} 筆，subagent 尚未驗證）\n\n`;
     md += `| 品項 | 價格 | 上架 | 連結 |\n`;
     md += `|------|------|------|------|\n`;
-    needVerify.slice(0, 20).forEach(d => {
+    needVerifyRelevant.forEach(d => {
       md += `| ${escPipe(d.title.slice(0, 50))} | ${d.priceStr} | ${d.listedAt} | <a href="${d.url}" target="_blank">查看</a> |\n`;
     });
   }
