@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "thepatient32297",
-      "timeAgo": "11 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "（極新）日本 The Final VR3000 wireless 電競藍牙耳機 降噪 低延遲",
       "price": 3000,
       "condition": "Like new",
@@ -14,7 +14,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 17:16",
+      "listedAt": "05/05 17:29",
       "pid": "1436187818",
       "verified": {
         "newPrice": 4390,
@@ -27,7 +27,7 @@
     },
     {
       "seller": "kkk1182",
-      "timeAgo": "15 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Jabra Elite 8 Active 真無線降噪藍牙耳機 全新",
       "price": 3680,
       "condition": "Brand new",
@@ -37,7 +37,7 @@
       "priceStr": "NT$3,680",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 17:12",
+      "listedAt": "05/05 17:29",
       "pid": "1436187058",
       "verified": {
         "newPrice": 6990,
@@ -50,7 +50,7 @@
     },
     {
       "seller": "thepatient32297",
-      "timeAgo": "26 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "（保固內）日本 The Final ZE3000 SV 降噪 真無線 藍牙耳機",
       "price": 2300,
       "condition": "Like new",
@@ -60,7 +60,7 @@
       "priceStr": "NT$2,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 17:01",
+      "listedAt": "05/05 17:29",
       "pid": "1436185148",
       "verified": {
         "newPrice": 3490,
@@ -73,7 +73,7 @@
     },
     {
       "seller": "thepatient32297",
-      "timeAgo": "36 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "（保固內）Sony LinkBuds Open 真無線藍牙耳機",
       "price": 2100,
       "condition": "Lightly used",
@@ -83,7 +83,7 @@
       "priceStr": "NT$2,100",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 16:51",
+      "listedAt": "05/05 16:29",
       "pid": "1436183342",
       "verified": {
         "newPrice": 6490,
@@ -92,6 +92,29 @@
         "source": "web search 2026-05-05"
       },
       "vsNew": 32,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "calmstone_783715",
+      "timeAgo": "29 minutes ago",
+      "title": "BOSE Quietcomfort SE",
+      "price": 4500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436195404/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 18:00",
+      "pid": "1436195404",
+      "verified": {
+        "newPrice": 10500,
+        "secondhand": null,
+        "note": "Bose QC SE = QC45軟殼版(Costco限定),新品 QC45 $10,500。$4,500 = 43%, 平輸/水貨需驗",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 43,
       "vsSecondhand": null
     }
   ]
