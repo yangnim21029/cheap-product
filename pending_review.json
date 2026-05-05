@@ -1,5 +1,52 @@
 {
   "newDeals": [],
   "negotiate": [],
-  "uncertain": []
+  "uncertain": [
+    {
+      "seller": "yiyiwu115",
+      "timeAgo": "51 minutes ago",
+      "title": "FUJIFILM 富士 拍立得相機 instax Pal 迷你相機 掌上型拍立得",
+      "price": 2500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1424714134/",
+      "category": "拍立得",
+      "maxDays": 5,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 21:36",
+      "pid": "1424714134",
+      "verified": {
+        "newPrice": 4280,
+        "secondhand": null,
+        "note": "Fuji Instax Pal 新品$4,280-5,180。$2,500=58%新品",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 58,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "xxxyyyzz",
+      "timeAgo": "12 minutes ago",
+      "title": "[9成新] RODE NT-USB+",
+      "price": 2700,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436242416/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,700",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 22:15",
+      "pid": "1436242416",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": null,
+        "note": "RODE NT-USB+ 新品$5,490-6,290。$2,700=45%新品 9成新",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 45,
+      "vsSecondhand": null
+    }
+  ]
 }
