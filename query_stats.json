@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 2298,
-    "recentTotal": 786,
+    "total": 2342,
+    "recentTotal": 800,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T11:16:59.030Z"
+    "lastSeen": "2026-05-05T13:17:00.320Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,16 +18,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 2429,
-    "recentTotal": 571,
+    "total": 2473,
+    "recentTotal": 577,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T12:17:02.180Z"
+    "lastSeen": "2026-05-05T13:17:23.539Z"
   },
   "投影機": {
-    "total": 2566,
-    "recentTotal": 804,
+    "total": 2614,
+    "recentTotal": 819,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T12:17:26.772Z"
+    "lastSeen": "2026-05-05T13:17:54.343Z"
   },
   "OSIM": {
     "total": 852,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 2184,
-    "recentTotal": 799,
+    "total": 2228,
+    "recentTotal": 812,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T12:19:10.302Z"
+    "lastSeen": "2026-05-05T13:18:46.871Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -102,16 +102,16 @@
     "lastSeen": "2026-05-05T12:18:21.563Z"
   },
   "VR": {
-    "total": 2543,
-    "recentTotal": 205,
+    "total": 2587,
+    "recentTotal": 206,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T12:20:04.745Z"
+    "lastSeen": "2026-05-05T13:19:37.815Z"
   },
   "喇叭": {
-    "total": 1792,
-    "recentTotal": 752,
+    "total": 1836,
+    "recentTotal": 771,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T11:17:48.675Z"
+    "lastSeen": "2026-05-05T13:18:19.027Z"
   },
   "音響": {
     "total": 1975,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 1661,
-    "recentTotal": 99,
+    "total": 1705,
+    "recentTotal": 102,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T12:19:36.397Z"
+    "lastSeen": "2026-05-05T13:19:12.468Z"
   },
   "帳篷": {
     "total": 1239,
@@ -138,21 +138,21 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 1005,
-    "recentTotal": 934,
+    "total": 1053,
+    "recentTotal": 979,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T12:21:02.071Z"
+    "lastSeen": "2026-05-05T13:20:59.358Z"
   },
   "露營": {
-    "total": 584,
-    "recentTotal": 138,
+    "total": 628,
+    "recentTotal": 154,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T12:20:32.248Z"
+    "lastSeen": "2026-05-05T13:20:08.717Z"
   },
   "地毯": {
-    "total": 96,
-    "recentTotal": 14,
+    "total": 144,
+    "recentTotal": 23,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T11:20:35.701Z"
+    "lastSeen": "2026-05-05T13:20:31.787Z"
   }
 }
