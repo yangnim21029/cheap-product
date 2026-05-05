@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "thepatient32297",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "（極新）日本 The Final VR3000 wireless 電競藍牙耳機 降噪 低延遲",
       "price": 3000,
       "condition": "Like new",
@@ -14,7 +14,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 17:29",
+      "listedAt": "05/05 17:26",
       "pid": "1436187818",
       "verified": {
         "newPrice": 4390,
@@ -27,7 +27,7 @@
     },
     {
       "seller": "kkk1182",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Jabra Elite 8 Active 真無線降噪藍牙耳機 全新",
       "price": 3680,
       "condition": "Brand new",
@@ -37,7 +37,7 @@
       "priceStr": "NT$3,680",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 17:29",
+      "listedAt": "05/05 17:26",
       "pid": "1436187058",
       "verified": {
         "newPrice": 6990,
@@ -50,7 +50,7 @@
     },
     {
       "seller": "thepatient32297",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "（保固內）日本 The Final ZE3000 SV 降噪 真無線 藍牙耳機",
       "price": 2300,
       "condition": "Like new",
@@ -60,7 +60,7 @@
       "priceStr": "NT$2,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 17:29",
+      "listedAt": "05/05 17:26",
       "pid": "1436185148",
       "verified": {
         "newPrice": 3490,
@@ -73,7 +73,7 @@
     },
     {
       "seller": "thepatient32297",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "（保固內）Sony LinkBuds Open 真無線藍牙耳機",
       "price": 2100,
       "condition": "Lightly used",
@@ -83,7 +83,7 @@
       "priceStr": "NT$2,100",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 16:29",
+      "listedAt": "05/05 16:26",
       "pid": "1436183342",
       "verified": {
         "newPrice": 6490,
@@ -96,7 +96,7 @@
     },
     {
       "seller": "calmstone_783715",
-      "timeAgo": "29 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "BOSE Quietcomfort SE",
       "price": 4500,
       "condition": "Brand new",
@@ -106,7 +106,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 18:00",
+      "listedAt": "05/05 18:26",
       "pid": "1436195404",
       "verified": {
         "newPrice": 10500,
@@ -115,6 +115,29 @@
         "source": "web search 2026-05-05"
       },
       "vsNew": 43,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "ivy_0520",
+      "timeAgo": "58 minutes ago",
+      "title": "BOSE Soundlink Flex Ⅱ 防水防塵IP67 織帶掛環輕巧可攜式藍牙揚聲器 藍色 全新未拆封",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436200962/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 18:28",
+      "pid": "1436200962",
+      "verified": {
+        "newPrice": 5900,
+        "secondhand": null,
+        "note": "Bose SoundLink Flex II 新品$5,900。$4,000全新未拆=68%,折32% 但蝦皮Bose仿品多需驗真偽",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 68,
       "vsSecondhand": null
     }
   ]
