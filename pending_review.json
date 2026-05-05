@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "jane.li.1238",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "富士mini 90拍立得相機",
       "price": 5000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 23:45",
+      "listedAt": "05/04 23:26",
       "pid": "1436071046",
       "verified": {
         "newPrice": 6300,
@@ -28,7 +28,7 @@
   "uncertain": [
     {
       "seller": "mila_zzz",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "✨ 全新正品✨ 馬歇爾 Marshall Minor IV 真無線 藍牙 耳機 最新 第四代 半入耳式 公司貨",
       "price": 2600,
       "condition": "Brand new",
@@ -38,7 +38,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:45",
+      "listedAt": "05/04 20:26",
       "pid": "1436040999",
       "verified": {
         "newPrice": 3990,
@@ -51,7 +51,7 @@
     },
     {
       "seller": "lehao0911",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "BOSE QUIETCOMFORT EARBUDS 2024年製",
       "price": 3540,
       "condition": "Like new",
@@ -61,7 +61,7 @@
       "priceStr": "NT$3,540",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:45",
+      "listedAt": "05/04 20:26",
       "pid": "1421229534",
       "verified": {
         "newPrice": 6000,
@@ -189,7 +189,7 @@
     },
     {
       "seller": "melody.an",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "#26母親節 全新apple 耳機",
       "price": 2900,
       "condition": "Brand new",
@@ -199,7 +199,7 @@
       "priceStr": "NT$2,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 10:45",
+      "listedAt": "05/05 10:26",
       "pid": "1436119295",
       "verified": {
         "newPrice": 4290,
@@ -212,7 +212,7 @@
     },
     {
       "seller": "lesliesjhsu",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Marshall MINOR IV 全新",
       "price": 2350,
       "condition": "Brand new",
@@ -222,7 +222,7 @@
       "priceStr": "NT$2,350",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 11:45",
+      "listedAt": "05/05 11:26",
       "pid": "1436128912",
       "verified": {
         "newPrice": 3990,
@@ -235,7 +235,7 @@
     },
     {
       "seller": "fish7953",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Samsung Buds3 FE",
       "price": 2290,
       "condition": "Brand new",
@@ -245,7 +245,7 @@
       "priceStr": "NT$2,290",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 13:45",
+      "listedAt": "05/05 13:26",
       "pid": "1430140502",
       "verified": {
         "newPrice": 3990,
@@ -254,6 +254,29 @@
         "source": "web search 2026-05-05"
       },
       "vsNew": 57,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "fantastic_mama",
+      "timeAgo": "26 minutes ago",
+      "title": "搬家出清_harman kardon by HARMAN ONYX STUDIO 4喇叭，支援藍芽",
+      "price": 3000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436159937/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 15:00",
+      "pid": "1436159937",
+      "verified": {
+        "newPrice": 4500,
+        "secondhand": null,
+        "note": "HK Onyx Studio 4 (2017停產) TW新品$4,215-5,500。$3,000 = 67% 新品, 搬家出清",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 67,
       "vsSecondhand": null
     }
   ]
