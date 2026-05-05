@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "jane.li.1238",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "富士mini 90拍立得相機",
       "price": 5000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 23:25",
+      "listedAt": "05/04 23:26",
       "pid": "1436071046",
       "verified": {
         "newPrice": 6300,
@@ -28,7 +28,7 @@
   "uncertain": [
     {
       "seller": "mila_zzz",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "✨ 全新正品✨ 馬歇爾 Marshall Minor IV 真無線 藍牙 耳機 最新 第四代 半入耳式 公司貨",
       "price": 2600,
       "condition": "Brand new",
@@ -51,7 +51,7 @@
     },
     {
       "seller": "lehao0911",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "BOSE QUIETCOMFORT EARBUDS 2024年製",
       "price": 3540,
       "condition": "Like new",
@@ -97,7 +97,7 @@
     },
     {
       "seller": "yingycy73",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Honeywell 淨味空氣清淨機 HPA5250WTWV1",
       "price": 2500,
       "condition": "Lightly used",
@@ -189,7 +189,7 @@
     },
     {
       "seller": "melody.an",
-      "timeAgo": "34 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "#26母親節 全新apple 耳機",
       "price": 2900,
       "condition": "Brand new",
@@ -199,7 +199,7 @@
       "priceStr": "NT$2,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 10:52",
+      "listedAt": "05/05 10:26",
       "pid": "1436119295",
       "verified": {
         "newPrice": 4290,
@@ -208,6 +208,29 @@
         "source": "web search 2026-05-05 (model uncertain)"
       },
       "vsNew": 68,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "lesliesjhsu",
+      "timeAgo": "38 minutes ago",
+      "title": "Marshall MINOR IV 全新",
+      "price": 2350,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436128912/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,350",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 11:48",
+      "pid": "1436128912",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Marshall Minor IV 全新 PChome/momo$3,990。$2,350=59%新品, 比上一筆$2,600更便宜",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 59,
       "vsSecondhand": null
     }
   ]
