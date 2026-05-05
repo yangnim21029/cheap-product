@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 1941,
-    "recentTotal": 693,
+    "total": 1985,
+    "recentTotal": 705,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T00:16:59.383Z"
+    "lastSeen": "2026-05-05T01:17:00.766Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,10 +18,10 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 2068,
-    "recentTotal": 520,
+    "total": 2112,
+    "recentTotal": 527,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T23:17:00.084Z"
+    "lastSeen": "2026-05-05T01:17:26.734Z"
   },
   "投影機": {
     "total": 2089,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 1969,
-    "recentTotal": 80,
+    "total": 2013,
+    "recentTotal": 81,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T00:18:54.009Z"
+    "lastSeen": "2026-05-05T01:18:38.047Z"
   },
   "nespresso": {
     "total": 475,
@@ -102,22 +102,22 @@
     "lastSeen": "2026-05-05T00:18:23.676Z"
   },
   "VR": {
-    "total": 2096,
-    "recentTotal": 200,
-    "zeroStreak": 1,
-    "lastSeen": "2026-05-04T21:19:40.753Z"
+    "total": 2143,
+    "recentTotal": 201,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-05T01:19:33.817Z"
   },
   "喇叭": {
-    "total": 1437,
-    "recentTotal": 627,
+    "total": 1481,
+    "recentTotal": 640,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T00:17:30.979Z"
+    "lastSeen": "2026-05-05T01:17:48.890Z"
   },
   "音響": {
-    "total": 1485,
-    "recentTotal": 368,
+    "total": 1529,
+    "recentTotal": 376,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T00:17:54.461Z"
+    "lastSeen": "2026-05-05T01:18:12.543Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 1348,
-    "recentTotal": 77,
+    "total": 1392,
+    "recentTotal": 81,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T00:19:56.361Z"
+    "lastSeen": "2026-05-05T01:19:02.675Z"
   },
   "帳篷": {
     "total": 1239,
@@ -138,15 +138,15 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 479,
-    "recentTotal": 443,
+    "total": 526,
+    "recentTotal": 486,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-05T00:20:47.280Z"
+    "lastSeen": "2026-05-05T01:20:25.048Z"
   },
   "露營": {
-    "total": 315,
-    "recentTotal": 64,
+    "total": 361,
+    "recentTotal": 72,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-04T23:20:11.943Z"
+    "lastSeen": "2026-05-05T01:19:57.944Z"
   }
 }
