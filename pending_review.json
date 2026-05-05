@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "jane.li.1238",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "富士mini 90拍立得相機",
       "price": 5000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 23:26",
+      "listedAt": "05/04 23:27",
       "pid": "1436071046",
       "verified": {
         "newPrice": 6300,
@@ -28,7 +28,7 @@
   "uncertain": [
     {
       "seller": "mila_zzz",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "✨ 全新正品✨ 馬歇爾 Marshall Minor IV 真無線 藍牙 耳機 最新 第四代 半入耳式 公司貨",
       "price": 2600,
       "condition": "Brand new",
@@ -38,7 +38,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:26",
+      "listedAt": "05/04 20:27",
       "pid": "1436040999",
       "verified": {
         "newPrice": 3990,
@@ -51,7 +51,7 @@
     },
     {
       "seller": "lehao0911",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "BOSE QUIETCOMFORT EARBUDS 2024年製",
       "price": 3540,
       "condition": "Like new",
@@ -61,7 +61,7 @@
       "priceStr": "NT$3,540",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/04 20:26",
+      "listedAt": "05/04 20:27",
       "pid": "1421229534",
       "verified": {
         "newPrice": 6000,
@@ -120,7 +120,7 @@
     },
     {
       "seller": "sunny228530",
-      "timeAgo": "3 days ago",
+      "timeAgo": "4 days ago",
       "title": "Osprey Ariel 65L 女款 登山背包 健行 露營 大容量 贈防水套",
       "price": 6000,
       "condition": "Like new",
@@ -130,7 +130,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/02 11:26",
+      "listedAt": "05/01 13:27",
       "pid": "1435501506",
       "verified": {
         "newPrice": 13800,
@@ -153,7 +153,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "04/30 11:26",
+      "listedAt": "04/30 13:27",
       "pid": "1435167100",
       "verified": {
         "newPrice": 6000,
@@ -189,7 +189,7 @@
     },
     {
       "seller": "melody.an",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "#26母親節 全新apple 耳機",
       "price": 2900,
       "condition": "Brand new",
@@ -199,7 +199,7 @@
       "priceStr": "NT$2,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 10:26",
+      "listedAt": "05/05 10:27",
       "pid": "1436119295",
       "verified": {
         "newPrice": 4290,
@@ -212,7 +212,7 @@
     },
     {
       "seller": "lesliesjhsu",
-      "timeAgo": "38 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Marshall MINOR IV 全新",
       "price": 2350,
       "condition": "Brand new",
@@ -222,7 +222,7 @@
       "priceStr": "NT$2,350",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 11:48",
+      "listedAt": "05/05 11:27",
       "pid": "1436128912",
       "verified": {
         "newPrice": 3990,
@@ -231,6 +231,29 @@
         "source": "web search 2026-05-05"
       },
       "vsNew": 59,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "fish7953",
+      "timeAgo": "2 minutes ago",
+      "title": "Samsung Buds3 FE",
+      "price": 2290,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1430140502/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,290",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 13:25",
+      "pid": "1430140502",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Samsung Buds3 FE 2025/9 上市新品$3,990。$2,290=57%新品折43%, 機身才7個月積極定價需驗真偽",
+        "source": "web search 2026-05-05"
+      },
+      "vsNew": 57,
       "vsSecondhand": null
     }
   ]
