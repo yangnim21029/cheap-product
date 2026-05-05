@@ -2,27 +2,17 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/5 19:26:46
+> 最後更新：2026/5/5 20:27:07
 
-## 手動判斷（二手資料不足，新品 ≤70%）（6 筆）
-
-| 品項 | 價格 | 新品價 | 折數 | 狀態 | 上架 | 連結 |
-|------|------|--------|------|------|------|------|
-| （保固內）Sony LinkBuds Open 真無線藍牙耳機 | NT$2,100 | $6490 | 32% | Lightly used | 05/05 16:26 | <a href="https://tw.carousell.com/p/1436183342/" target="_blank">查看</a> |
-| BOSE Quietcomfort SE | NT$4,500 | $10500 | 43% | Brand new | 05/05 18:26 | <a href="https://tw.carousell.com/p/1436195404/" target="_blank">查看</a> |
-| Jabra Elite 8 Active 真無線降噪藍牙耳機 全新 | NT$3,680 | $6990 | 53% | Brand new | 05/05 17:26 | <a href="https://tw.carousell.com/p/1436187058/" target="_blank">查看</a> |
-| （保固內）日本 The Final ZE3000 SV 降噪 真無線 藍牙耳機 | NT$2,300 | $3490 | 66% | Like new | 05/05 17:26 | <a href="https://tw.carousell.com/p/1436185148/" target="_blank">查看</a> |
-| （極新）日本 The Final VR3000 wireless 電競藍牙耳機 降噪 低延遲 | NT$3,000 | $4390 | 68% | Like new | 05/05 17:26 | <a href="https://tw.carousell.com/p/1436187818/" target="_blank">查看</a> |
-| BOSE Soundlink Flex Ⅱ 防水防塵IP67 織帶掛環輕巧可攜式藍牙揚聲器 藍色 全 | NT$4,000 | $5900 | 68% | Brand new | 05/05 18:28 | <a href="https://tw.carousell.com/p/1436200962/" target="_blank">查看</a> |
 
 ## 待查價（4 筆，subagent 尚未驗證）
 
 | 品項 | 價格 | 上架 | 連結 |
 |------|------|------|------|
-| 二手電吉他+喇叭（送ukulele） | NT$8,000 | 05/05 19:08 | <a href="https://tw.carousell.com/p/1436206668/" target="_blank">查看</a> |
-| 地毯 | NT$1,000 | 04/28 19:26 | <a href="https://tw.carousell.com/p/1434903971/" target="_blank">查看</a> |
-| niko and..【回到未來40週年】造型地毯 Delorean內部經典元素版本 | NT$1,200 | 04/28 19:26 | <a href="https://tw.carousell.com/p/1423312837/" target="_blank">查看</a> |
-| 💗 鐵三角 ATH-CKS30TW+ 重低音 SOLID BASS 降噪 藍牙耳機 | NT$2,580 | 05/05 19:24 | <a href="https://tw.carousell.com/p/1436210594/" target="_blank">查看</a> |
+| 美國Coleman lay 三段可調露營躺椅 綠 | NT$2,150 | 05/05 12:27 | <a href="https://tw.carousell.com/p/1429978708/" target="_blank">查看</a> |
+| olaf 露營登山系列 | NT$9,999 | 05/04 20:27 | <a href="https://tw.carousell.com/p/1435981852/" target="_blank">查看</a> |
+| 露營折疊車 | NT$2,000 | 05/03 20:27 | <a href="https://tw.carousell.com/p/1435832636/" target="_blank">查看</a> |
+| Coleman LAY躺椅 / 露營椅/ 綠橄欖 | NT$2,000 | 05/02 20:27 | <a href="https://tw.carousell.com/p/1435603374/" target="_blank">查看</a> |
 
 ---
 
