@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "kkin_",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Frigidaire 富及第倍效空氣清淨機",
       "price": 600,
       "condition": "Lightly used",
@@ -25,7 +25,7 @@
     },
     {
       "seller": "paapanda",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "apple airpods max 1 lightning",
       "price": 5000,
       "condition": "Lightly used",
@@ -50,7 +50,7 @@
   "negotiate": [
     {
       "seller": "goose.store",
-      "timeAgo": "5 days ago",
+      "timeAgo": "6 days ago",
       "title": "售canon eos M6II 無反apsc 相機單機身",
       "price": 13500,
       "condition": "Like new",
@@ -60,7 +60,7 @@
       "priceStr": "NT$13,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/01 19:27",
+      "listedAt": "04/30 21:28",
       "pid": "1435342625",
       "verified": {
         "newPrice": null,
@@ -75,7 +75,7 @@
   "uncertain": [
     {
       "seller": "mela.0313",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "信封式羽絨睡袋 露營睡袋 600g 拾山世紀 13 CENTURY",
       "price": 3999,
       "condition": "Like new",
@@ -131,7 +131,7 @@
       "priceStr": "NT$14,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/03 20:28",
+      "listedAt": "05/03 21:28",
       "pid": "1435851164",
       "verified": {
         "newPrice": 27700,
@@ -140,6 +140,29 @@
         "source": "web search 2026-05-06"
       },
       "vsNew": 51,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "juke99696",
+      "timeAgo": "1 hour ago",
+      "title": "Airpods Pro 2 USB-C款",
+      "price": 3360,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436406501/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,360",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 20:28",
+      "pid": "1436406501",
+      "verified": {
+        "newPrice": 7490,
+        "secondhand": null,
+        "note": "AirPods Pro 2 USB-C 通路特價$5,590-6,890 / 二手$5,000。⚠ PTT明確警告$5K-6K已是假貨高風險區, $3,360幾乎確定假貨/詐騙誘餌, secondhand設null以排除",
+        "source": "web search 2026-05-06 (FAKE WARNING)"
+      },
+      "vsNew": 45,
       "vsSecondhand": null
     }
   ]
