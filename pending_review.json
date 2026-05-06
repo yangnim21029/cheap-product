@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "yiyiwu115",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "FUJIFILM 富士 拍立得相機 instax Pal 迷你相機 掌上型拍立得",
       "price": 2500,
       "condition": "Like new",
@@ -14,7 +14,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 21:25",
+      "listedAt": "05/06 08:06",
       "pid": "1424714134",
       "verified": {
         "newPrice": 4280,
@@ -27,7 +27,7 @@
     },
     {
       "seller": "xxxyyyzz",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "[9成新] RODE NT-USB+",
       "price": 2700,
       "condition": "Like new",
@@ -37,7 +37,7 @@
       "priceStr": "NT$2,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 22:25",
+      "listedAt": "05/06 09:06",
       "pid": "1436242416",
       "verified": {
         "newPrice": 5990,
@@ -46,6 +46,29 @@
         "source": "web search 2026-05-05"
       },
       "vsNew": 45,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "lowlicorn69",
+      "timeAgo": "25 minutes ago",
+      "title": "旗艦級【SHOKZ】Open Fit 2 T920 開放式藍牙耳機",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436266303/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 11:41",
+      "pid": "1436266303",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": null,
+        "note": "SHOKZ OpenFit 2 T920 通路均價$6,490。$4,000=62%新品",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": 62,
       "vsSecondhand": null
     }
   ]
