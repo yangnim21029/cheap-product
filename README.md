@@ -2,19 +2,15 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/6 23:27:06
+> 最後更新：2026/5/7 00:27:21
 
-## 手動判斷（二手資料不足，新品 ≤70%）（1 筆）
+## 手動判斷（二手資料不足，新品 ≤70%）（3 筆）
 
 | 品項 | 價格 | 新品價 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|--------|------|------|------|------|
 | Honeywell抗敏空氣清淨機HPA-202APTW | NT$2,300 | $6990 | 33% | Like new | 05/06 21:27 | <a href="https://tw.carousell.com/p/1436420840/" target="_blank">查看</a> |
-
-## 待查價（1 筆，subagent 尚未驗證）
-
-| 品項 | 價格 | 上架 | 連結 |
-|------|------|------|------|
-| 全新未使用｜MIRAVAC ARF6 4合1無葉空氣循環扇 白色 | NT$840 | 05/06 19:27 | <a href="https://tw.carousell.com/p/1436400840/" target="_blank">查看</a> |
+| Beat Studio Buds | NT$3,000 | $4990 | 60% | Like new | 05/07 00:18 | <a href="https://tw.carousell.com/p/1436448275/" target="_blank">查看</a> |
+| 【Marshall】 Major IV 藍牙耳罩式耳機－咖 | NT$3,350 | $4990 | 67% | Lightly used | 05/07 00:20 | <a href="https://tw.carousell.com/p/1436448416/" target="_blank">查看</a> |
 
 ---
 

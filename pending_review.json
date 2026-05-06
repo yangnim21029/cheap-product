@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "wujames_101",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Honeywell抗敏空氣清淨機HPA-202APTW",
       "price": 2300,
       "condition": "Like new",
@@ -23,6 +23,52 @@
         "source": "web search 2026-05-06"
       },
       "vsNew": 33,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "puppy0001",
+      "timeAgo": "7 minutes ago",
+      "title": "【Marshall】 Major IV 藍牙耳罩式耳機－咖",
+      "price": 3350,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436448416/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,350",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 00:20",
+      "pid": "1436448416",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": null,
+        "note": "Marshall Major IV 咖啡 新品$4,990。$3,350=67%, ⚠ PTT/Dcard 有假貨警告，建議當面驗",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 67,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "quickeagle.774de3",
+      "timeAgo": "9 minutes ago",
+      "title": "Beat Studio Buds",
+      "price": 3000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436448275/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 00:18",
+      "pid": "1436448275",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": null,
+        "note": "Beats Studio Buds (原版) 新品$4,990。$3,000=60%, ⚠ PTT/Dcard 有假貨警告，建議當面驗",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 60,
       "vsSecondhand": null
     }
   ]
