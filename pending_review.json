@@ -1,10 +1,32 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "pid": "1436361099",
+      "url": "https://tw.carousell.com/p/1436361099/",
+      "title": "全新Dji mic mini",
+      "price": 2000,
+      "priceStr": "NT$2,000",
+      "category": "音響耳機",
+      "seller": "(待查)",
+      "condition": "Brand new",
+      "timeAgo": "32 minutes ago",
+      "listedAt": "05/06 02:35",
+      "isReseller": false,
+      "vsNew": 45,
+      "vsSecondhand": 80,
+      "verified": {
+        "newPrice": 4490,
+        "secondhand": 2500,
+        "note": "DJI Mic Mini 1v2套組 公司貨$4,490 / 二手中位$2,500。$2,000全新低於二手中位",
+        "source": "web search 2026-05-06"
+      }
+    }
+  ],
   "negotiate": [],
   "uncertain": [
     {
       "seller": "yiyiwu115",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "FUJIFILM 富士 拍立得相機 instax Pal 迷你相機 掌上型拍立得",
       "price": 2500,
       "condition": "Like new",
@@ -14,7 +36,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 21:26",
+      "listedAt": "05/05 21:27",
       "pid": "1424714134",
       "verified": {
         "newPrice": 4280,
@@ -27,7 +49,7 @@
     },
     {
       "seller": "xxxyyyzz",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "[9成新] RODE NT-USB+",
       "price": 2700,
       "condition": "Like new",
@@ -37,7 +59,7 @@
       "priceStr": "NT$2,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 22:26",
+      "listedAt": "05/05 22:27",
       "pid": "1436242416",
       "verified": {
         "newPrice": 5990,
@@ -50,7 +72,7 @@
     },
     {
       "seller": "lowlicorn69",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "旗艦級【SHOKZ】Open Fit 2 T920 開放式藍牙耳機",
       "price": 4000,
       "condition": "Brand new",
@@ -60,7 +82,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 01:26",
+      "listedAt": "05/06 01:27",
       "pid": "1436266303",
       "verified": {
         "newPrice": 6490,
@@ -73,7 +95,7 @@
     },
     {
       "seller": "baracapy",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "HUAWEI FreeBuds Pro 4 真無線降噪耳機",
       "price": 3000,
       "condition": "Lightly used",
@@ -83,7 +105,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 12:26",
+      "listedAt": "05/06 12:27",
       "pid": "1436319463",
       "verified": {
         "newPrice": 7490,
@@ -92,6 +114,52 @@
         "source": "web search 2026-05-06"
       },
       "vsNew": 40,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "sandy_3939",
+      "timeAgo": "32 minutes ago",
+      "title": "Apple Watch SE 3（40mm）",
+      "price": 4200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436359580/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$4,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 15:55",
+      "pid": "1436359580",
+      "verified": {
+        "newPrice": 7900,
+        "secondhand": null,
+        "note": "AW SE3 40mm GPS Apple$7,900。$4,200=53%新品, SE3晚2025上市40mm二手listings不足3筆",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": 53,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "safecat_12cb91",
+      "timeAgo": "17 minutes ago",
+      "title": "SAMSUNG Galaxy Bud4(真無線藍芽耳機)",
+      "price": 3000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436363998/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 16:10",
+      "pid": "1436363998",
+      "verified": {
+        "newPrice": 5190,
+        "secondhand": null,
+        "note": "Samsung Galaxy Buds 4 (非Pro) TW新品$5,190(2026/3上市)。$3,000=58%, 才6週新機型二手稀少",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": 58,
       "vsSecondhand": null
     }
   ]
