@@ -16,6 +16,8 @@
   "露營": { "currentNew": 8000, "secondhand": 4000, "note": "混合: 帳篷$10K+/椅桌$3K/行動電源$8K-12K/登山包$8K, 平均$8K" },
   "地毯": { "currentNew": 5000, "secondhand": 2500, "note": "IKEA STOENSE 200x300 新品$5,990 / 一般家用地毯 新品$2K-8K" },
   "優格機": { "currentNew": 2000, "secondhand": 1000, "note": "Cuisinart Gelateria(冰淇淋+優格)新品$3,500 / EasiYo 紐西蘭$1,500 / 一般家用$500-1,500" },
+  "fujifilm": { "currentNew": 30000, "secondhand": 18000, "note": "X-T3 二手$20K / X-M5 $26K / Mini Evo $5K / 鏡頭$7K-15K, 機身$15K-26K" },
+  "相機機身": { "currentNew": 30000, "secondhand": 18000, "note": "Fuji X-T3/X-M5 二手$20-26K / Sony NEX/ZV-1 $9-10K / Panasonic G100 $16K / Canon M2 $6.5K" },
   "Vivienne Westwood": { "currentNew": 5000, "secondhand": 2000, "note": "暫停中" },
   "鼠尾草 海鹽": { "currentNew": 5850, "secondhand": 3600, "note": "暫停中" },
   "Jo Malone": { "currentNew": 4200, "secondhand": 2200, "note": "暫停中" },
