@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "kkin_",
-      "timeAgo": "25 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Frigidaire 富及第倍效空氣清淨機",
       "price": 600,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 18:01",
+      "listedAt": "05/06 18:27",
       "pid": "1419671946",
       "verified": {
         "newPrice": 4990,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "paapanda",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "apple airpods max 1 lightning",
       "price": 5000,
       "condition": "Lightly used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 17:26",
+      "listedAt": "05/06 17:27",
       "pid": "1436373491",
       "verified": {
         "newPrice": null,
@@ -47,11 +47,35 @@
       "vsSecondhand": 45
     }
   ],
-  "negotiate": [],
+  "negotiate": [
+    {
+      "seller": "goose.store",
+      "timeAgo": "5 days ago",
+      "title": "售canon eos M6II 無反apsc 相機單機身",
+      "price": 13500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1435342625/",
+      "category": "相機機身",
+      "maxDays": 7,
+      "priceStr": "NT$13,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/01 19:27",
+      "pid": "1435342625",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 19000,
+        "note": "Canon EOS M6 II 機身 二手$18K-22K(青蘋果$19K)。$13,500=71%, 低於行情29%但要驗快門數",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": null,
+      "vsSecondhand": 71
+    }
+  ],
   "uncertain": [
     {
       "seller": "mela.0313",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "信封式羽絨睡袋 露營睡袋 600g 拾山世紀 13 CENTURY",
       "price": 3999,
       "condition": "Like new",
@@ -61,7 +85,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 15:26",
+      "listedAt": "05/06 15:27",
       "pid": "1424849929",
       "verified": {
         "newPrice": 9570,
@@ -70,6 +94,29 @@
         "source": "web search 2026-05-06"
       },
       "vsNew": 42,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "tw_gino",
+      "timeAgo": "38 minutes ago",
+      "title": "Sony INZONE H5 ｜ 無線電競耳機 (冰河白)",
+      "price": 2400,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436392919/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,400",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 18:49",
+      "pid": "1436392919",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Sony INZONE H5 白 PChome$3,990。$2,400=60%新品 38分鐘前剛上架",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": 60,
       "vsSecondhand": null
     }
   ]
