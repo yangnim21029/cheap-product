@@ -2,15 +2,22 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/7 00:27:21
+> 最後更新：2026/5/7 01:25:45
 
 ## 手動判斷（二手資料不足，新品 ≤70%）（3 筆）
 
 | 品項 | 價格 | 新品價 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|--------|------|------|------|------|
-| Honeywell抗敏空氣清淨機HPA-202APTW | NT$2,300 | $6990 | 33% | Like new | 05/06 21:27 | <a href="https://tw.carousell.com/p/1436420840/" target="_blank">查看</a> |
-| Beat Studio Buds | NT$3,000 | $4990 | 60% | Like new | 05/07 00:18 | <a href="https://tw.carousell.com/p/1436448275/" target="_blank">查看</a> |
-| 【Marshall】 Major IV 藍牙耳罩式耳機－咖 | NT$3,350 | $4990 | 67% | Lightly used | 05/07 00:20 | <a href="https://tw.carousell.com/p/1436448416/" target="_blank">查看</a> |
+| Honeywell抗敏空氣清淨機HPA-202APTW | NT$2,300 | $6990 | 33% | Like new | 05/06 21:25 | <a href="https://tw.carousell.com/p/1436420840/" target="_blank">查看</a> |
+| Beat Studio Buds | NT$3,000 | $4990 | 60% | Like new | 05/07 00:25 | <a href="https://tw.carousell.com/p/1436448275/" target="_blank">查看</a> |
+| 【Marshall】 Major IV 藍牙耳罩式耳機－咖 | NT$3,350 | $4990 | 67% | Lightly used | 05/07 00:25 | <a href="https://tw.carousell.com/p/1436448416/" target="_blank">查看</a> |
+
+## 待查價（2 筆，subagent 尚未驗證）
+
+| 品項 | 價格 | 上架 | 連結 |
+|------|------|------|------|
+| 未來實驗室 空氣清淨除濕機 | NT$500 | 05/07 01:02 | <a href="https://tw.carousell.com/p/1436452203/" target="_blank">查看</a> |
+| Bose SoundLink Flex 2nd Gen (第二代) 藍牙揚聲器 | NT$4,800 | 05/07 00:49 | <a href="https://tw.carousell.com/p/1436451845/" target="_blank">查看</a> |
 
 ---
 
