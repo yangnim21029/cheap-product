@@ -2,7 +2,7 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/7 05:25:58
+> 最後更新：2026/5/7 06:25:54
 
 ## 好貨（≤30% 新品 or ≤70% 二手）（2 筆）
 
@@ -19,12 +19,6 @@
 | 森海 Accentum 耳罩式藍牙耳機 | NT$3,350 | $6490 | 52% | Like new | 05/07 01:25 | <a href="https://tw.carousell.com/p/1436458042/" target="_blank">查看</a> |
 | Beat Studio Buds | NT$3,000 | $4990 | 60% | Like new | 05/07 00:25 | <a href="https://tw.carousell.com/p/1436448275/" target="_blank">查看</a> |
 | 【Marshall】 Major IV 藍牙耳罩式耳機－咖 | NT$3,350 | $4990 | 67% | Lightly used | 05/07 00:25 | <a href="https://tw.carousell.com/p/1436448416/" target="_blank">查看</a> |
-
-## 待查價（1 筆，subagent 尚未驗證）
-
-| 品項 | 價格 | 上架 | 連結 |
-|------|------|------|------|
-| klipsch R- 51m 書架式喇叭 古力奇 二手極新 | NT$8,000 | 05/07 03:25 | <a href="https://tw.carousell.com/p/1436462159/" target="_blank">查看</a> |
 
 ---
 
