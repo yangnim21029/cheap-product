@@ -1,10 +1,57 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "kkin_",
+      "timeAgo": "25 minutes ago",
+      "title": "Frigidaire 富及第倍效空氣清淨機",
+      "price": 600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1419671946/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 18:01",
+      "pid": "1419671946",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": null,
+        "note": "Frigidaire 倍效空氣清淨機(2-6坪桌上型) PChome$4,990。$600=12%超低可能舊機/壞機需驗",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": 12,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "paapanda",
+      "timeAgo": "1 hour ago",
+      "title": "apple airpods max 1 lightning",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436373491/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 17:26",
+      "pid": "1436373491",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 11000,
+        "note": "AirPods Max Lightning版已停產(USB-C 2024取代)。TW二手$8K-12.5K(個人$8K-11.8K, gapple$11.8K-13.9K)。$5,000=45% 撿便宜但需防仿品",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": null,
+      "vsSecondhand": 45
+    }
+  ],
   "negotiate": [],
   "uncertain": [
     {
       "seller": "mela.0313",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "信封式羽絨睡袋 露營睡袋 600g 拾山世紀 13 CENTURY",
       "price": 3999,
       "condition": "Like new",
@@ -14,7 +61,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 15:25",
+      "listedAt": "05/06 15:26",
       "pid": "1424849929",
       "verified": {
         "newPrice": 9570,
