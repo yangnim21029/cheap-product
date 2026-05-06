@@ -4,7 +4,7 @@
   "uncertain": [
     {
       "seller": "yiyiwu115",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "FUJIFILM 富士 拍立得相機 instax Pal 迷你相機 掌上型拍立得",
       "price": 2500,
       "condition": "Like new",
@@ -14,7 +14,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 08:06",
+      "listedAt": "05/05 21:26",
       "pid": "1424714134",
       "verified": {
         "newPrice": 4280,
@@ -27,7 +27,7 @@
     },
     {
       "seller": "xxxyyyzz",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "[9成新] RODE NT-USB+",
       "price": 2700,
       "condition": "Like new",
@@ -37,7 +37,7 @@
       "priceStr": "NT$2,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 09:06",
+      "listedAt": "05/05 22:26",
       "pid": "1436242416",
       "verified": {
         "newPrice": 5990,
@@ -50,7 +50,7 @@
     },
     {
       "seller": "lowlicorn69",
-      "timeAgo": "25 minutes ago",
+      "timeAgo": "14 hours ago",
       "title": "旗艦級【SHOKZ】Open Fit 2 T920 開放式藍牙耳機",
       "price": 4000,
       "condition": "Brand new",
@@ -60,7 +60,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 11:41",
+      "listedAt": "05/06 01:26",
       "pid": "1436266303",
       "verified": {
         "newPrice": 6490,
@@ -69,6 +69,29 @@
         "source": "web search 2026-05-06"
       },
       "vsNew": 62,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "baracapy",
+      "timeAgo": "3 hours ago",
+      "title": "HUAWEI FreeBuds Pro 4 真無線降噪耳機",
+      "price": 3000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436319463/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 12:26",
+      "pid": "1436319463",
+      "verified": {
+        "newPrice": 7490,
+        "secondhand": null,
+        "note": "Huawei FreeBuds Pro 4 TW新品$7,490(2025/1上市)。$3,000=40%, iOS體驗受限需驗",
+        "source": "web search 2026-05-06"
+      },
+      "vsNew": 40,
       "vsSecondhand": null
     }
   ]
