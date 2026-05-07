@@ -1,4 +1,31 @@
 {
+  "1430483171": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Marshall Willen II 二代 黑 公司貨$3,990（最低$3,490酷澎）。$2,500=63%, 二手樣本不足",
+    "source": "web search 2026-05-07"
+  },
+  "1436592484": {
+    "newPrice": 7500,
+    "secondhand": null,
+    "note": "VOX 貝斯口袋音響+入門電貝斯組合 估新品約$7,500。$8,000=107%, 比新品還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436597861": {
+    "newPrice": 2990,
+    "secondhand": null,
+    "note": "Marshall Minor IV 全新未拆 主流$2,990。$2,500=84%, 過 70% 門檻 SKIP（雖全新但只省$490）",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436591277": {
+    "newPrice": 4990,
+    "secondhand": 2500,
+    "note": "AirPods 3 三代 新品$4,990 / 二手中位$2,500。$2,500=50%/100%, 剛好等於二手中位數無特別便宜 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
   "1430459298": {
     "newPrice": 8600,
     "secondhand": null,

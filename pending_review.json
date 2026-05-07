@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sara0606",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "AirPods 4 主動式降噪款 (ANC/可私訊看購買證明/二手少用）",
       "price": 2700,
       "condition": "Like new",
@@ -28,7 +28,7 @@
   "uncertain": [
     {
       "seller": "raccoonjien",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "HUAWEI華為FreeClip 藍牙耳夾耳機 真無線耳夾式耳機 【附耳機套】",
       "price": 2660,
       "condition": "Lightly used",
@@ -51,7 +51,7 @@
     },
     {
       "seller": "paapanda",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Bose SoundLink Flex 可攜式藍牙喇叭",
       "price": 3000,
       "condition": "Lightly used",
@@ -74,7 +74,7 @@
     },
     {
       "seller": "martinwu",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Snowpeak 超級保冰袋 露營用 38L 原價五千多",
       "price": 2200,
       "condition": "Lightly used",
@@ -120,7 +120,7 @@
     },
     {
       "seller": "kobe790328",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "EPSON EF-11 3LCD雷射投影機",
       "price": 10000,
       "condition": "Lightly used",
@@ -143,7 +143,7 @@
     },
     {
       "seller": "angrymonster",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "《Bose》SoundLink mini 2 特別版 二手",
       "price": 3500,
       "condition": "Like new",
@@ -166,7 +166,7 @@
     },
     {
       "seller": "im_looper",
-      "timeAgo": "58 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "NOVATION LAUNCHKEY 49 MK3 第三代 主控鍵盤",
       "price": 4200,
       "condition": "Like new",
@@ -176,7 +176,7 @@
       "priceStr": "NT$4,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 19:31",
+      "listedAt": "05/07 19:29",
       "pid": "1430459298",
       "verified": {
         "newPrice": 8600,
@@ -185,6 +185,29 @@
         "source": "web search 2026-05-07"
       },
       "vsNew": 49,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "pennyxx",
+      "timeAgo": "15 minutes ago",
+      "title": "Marshall Willen II 二代攜帶式藍牙喇叭 -黑色",
+      "price": 2500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1430483171/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 21:14",
+      "pid": "1430483171",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Marshall Willen II 二代 黑 公司貨$3,990（最低$3,490酷澎）。$2,500=63%, 二手樣本不足",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 63,
       "vsSecondhand": null
     }
   ]
