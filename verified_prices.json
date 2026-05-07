@@ -1,4 +1,45 @@
 {
+  "1419624695": {
+    "newPrice": null,
+    "secondhand": 1500,
+    "note": "Apple Watch S3 38mm 已停產 二手中位$1,500。$2,200=147% 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436408751": {
+    "newPrice": 1890,
+    "secondhand": null,
+    "note": "Brewista 戶外旅咖手沖套組 momo$1,890。$1,600=85%, 不便宜 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436319544": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "金鑫陽手動沖壓機 = 皮革用沖壓機，「手沖」query 字面誤匹配 SKIP",
+    "source": "manual 2026-05-07",
+    "skip": true
+  },
+  "1436193801": {
+    "newPrice": 2990,
+    "secondhand": null,
+    "note": "Bodum BISTRO Programmable 美式咖啡機 新品$2,990（原$3,990）。$850=28% → 好貨檻",
+    "source": "web search 2026-05-07"
+  },
+  "1436157948": {
+    "newPrice": 1099,
+    "secondhand": null,
+    "note": "Driver 快拆手沖壺 600ml 官方$1,099。$1,099=100% 等於新品 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1435819128": {
+    "newPrice": 849,
+    "secondhand": null,
+    "note": "無品牌手沖入門組 一般$849-1,360。$500=59%, 雜牌+件數材質不明 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
   "1425234292": {
     "newPrice": 4990,
     "secondhand": null,

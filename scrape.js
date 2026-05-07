@@ -29,6 +29,8 @@ const QUERIES = [
   { q: '優格機', min: 500, max: 3000, maxDays: 7 },
   { q: 'fujifilm', min: 5000, max: 30000, maxDays: 7 },
   { q: '相機機身', min: 5000, max: 30000, maxDays: 7 },
+  { q: '磨豆機', min: 1500, max: 15000, maxDays: 7 },
+  { q: '手沖', min: 500, max: 5000, maxDays: 7 },
   // 無關鍵字瀏覽：雜訊高但偶有冷門品牌好物（SoundSticks 4 等）
   { q: '', min: 5000, max: 10000, maxDays: 1, label: '無關鍵字' },
 ];

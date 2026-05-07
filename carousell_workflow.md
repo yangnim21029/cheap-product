@@ -94,14 +94,17 @@ README 只顯示**新發現的未看過商品**。沒有新貨時顯示「本輪
 2. `node process.js` — 過濾比價，看輸出筆數和跳過數
 3. 掃結果 — 有沒有垃圾混入、店家漏網
 4. 查新賣家 — 沒見過的開 profile，分類到 sellers.json
-5. 查行情 — 用 subagent web search 確認，更新 market_prices.json
-6. `git push` + 更新 Gist
-7. 報告給 Rose
+5. 查行情 — 用 subagent web search 確認，更新 verified_prices.json
+6. **觀察新方向**（重要）— 看 raw_results 雜訊與待查清單，挑出頻繁出現但不在當前 query 清單的有趣品類，append 到 `suggestions.md`，讓 Rose 審手動清單時順便看到
+7. `git push` + 更新 Gist
+8. 報告給 Rose
 
 **不要做的事：**
 - 不要 `rm seen_ids.json`（會讓已看商品重複出現）
 - 不要用猜的填行情表（必須 web search）
 - 不要用 regex 匹配標題（用 category 直接查表）
+- 不要把使用者明示注意的類別邊緣值（70-80%）私自 SKIP — 放手動讓使用者裁決
+- 不要把非清單商品 vsNew ≤50% 自動 SKIP — 真便宜也要看
 
 ## 10. 使用者加新品項時
 
@@ -181,6 +184,9 @@ README 只顯示**新發現的未看過商品**。沒有新貨時顯示「本輪
 | `seen_ids.json` | 已看過的商品 ID | **不要刪** |
 | `query_stats.json` | query 效果追蹤 | 自動維護 |
 | `raw_results.json` | 原始抓取資料 | 每輪自動覆蓋 |
+| `suggestions.md` | 每輪觀察新方向（追加式） | AI 每輪 step 6 寫入 |
+| `verified_prices.json` | 個別 PID 的行情（subagent 查的）| skip:true 表示已驗證但不放手動 |
+| `pending_review.json` | 累積待審清單（newDeals/negotiate/uncertain）| Rose 看完後 mark_seen.js 清空 |
 | `README.md` / `deals.html` | 展示頁 | 每輪自動生成 |
 
 ## 16. 重要連結
@@ -189,7 +195,25 @@ README 只顯示**新發現的未看過商品**。沒有新貨時顯示「本輪
 - GitHub：https://github.com/yangnim21029/cheap-product
 - 本地：`/Users/rose/Documents/cheap-product/`
 
-## 17. 恍然大悟：便宜不是價格低，是低於該低的
+## 17. suggestions.md：每輪觀察新方向
+
+每輪巡邏的 step 6 會生成觀察寫進 `suggestions.md`（追加式）。重點：
+
+- **看 raw_results 雜訊**：38-43 筆「待查價雜訊」裡常有非清單品類訊號（pro audio 樂器器材、Soundbar、香薰機等）
+- **看連續出現品牌**：同一賣家上多次相同類別、不同賣家撞同款品牌 = 可能值得加 query
+- **看 SKIP 模式**：被 SKIP 的不該都是真垃圾，看是否有「不在清單但便宜」的訊號
+
+每次 append 一段（時間戳 + 觀察 + 建議），不要覆蓋舊紀錄。Rose 看 git diff 就能順便評估新方向。
+
+## 18. Loop prompt 格式
+
+Rose 觸發巡邏的標準 prompt：
+
+> 根據 workflow 巡邏：node scrape.js && node process.js，讀 log 確認無異常，push 到 git，報告新增好貨數量
+
+AI 看到「根據 workflow」就要展開 step 1-8，包含 step 6 觀察新方向。每輪都做。
+
+## 19. 恍然大悟：便宜不是價格低，是低於該低的
 
 一支 $1,500 的 Apple Watch SE1 看起來很便宜——原價 $7,900 的兩折不到。但那是 2020 年的產品，二手行情只有 $2,500，$1,500 其實是六折。六折不是撿漏，是正常交易。
 

@@ -1,5 +1,29 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "chengbaiyu",
+      "timeAgo": "2 days ago",
+      "title": "二手 中古 全新 丹麥品牌 Bodum 的美式濾滴咖啡機 (BISTRO Programmable Coffee Maker)。這款機型主打模擬手沖咖啡的萃取技術，並具備 24 小時預約功能 備註 ' 我是全新",
+      "price": 850,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436193801/",
+      "category": "手沖",
+      "maxDays": 7,
+      "priceStr": "NT$850",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 23:56",
+      "pid": "1436193801",
+      "verified": {
+        "newPrice": 2990,
+        "secondhand": null,
+        "note": "Bodum BISTRO Programmable 美式咖啡機 新品$2,990（原$3,990）。$850=28% → 好貨檻",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 28,
+      "vsSecondhand": null
+    }
+  ],
   "negotiate": [],
   "uncertain": []
 }
