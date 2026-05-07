@@ -1,4 +1,30 @@
 {
+  "1425234292": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "TCL S45H Soundbar 公司貨$4,990（蝦皮$4,200-4,500）。$2,750=55%, 二手樣本不足",
+    "source": "web search 2026-05-07"
+  },
+  "1436610628": {
+    "newPrice": 3990,
+    "secondhand": 2200,
+    "note": "Marshall Willen 一代 新品$3,990 / 二手中位$2,200。$2,400=60%/109%, 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436607346": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "AirPods Pro 3 (2025/10 上市) 公司貨$7,490（最低$6,490）。$4,600=61%/71%, ⚠ AirPods Pro 系列假貨多, 全新未拆需驗序號",
+    "source": "web search 2026-05-07"
+  },
+  "1436602617": {
+    "newPrice": null,
+    "secondhand": 3000,
+    "note": "DARLING 300 黑膠唱機 已停產 二手中位$3,000。$3,500=117% 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
   "1430483171": {
     "newPrice": 3990,
     "secondhand": null,
@@ -106,7 +132,7 @@
   "1436512575": {
     "newPrice": 4990,
     "secondhand": 4000,
-    "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。賣家從$3,200降到$2,700=54%/68%, 進好貨檻⚠ 假貨多請當面驗",
+    "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。連續降價$3,200→$2,700→$2,300=46%/57%, 越來越便宜⚠ 假貨多請當面驗",
     "source": "web search 2026-05-07"
   },
   "1436490628": {
