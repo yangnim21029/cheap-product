@@ -1,34 +1,34 @@
 {
-  "newDeals": [],
-  "negotiate": [
+  "newDeals": [
     {
       "seller": "sara0606",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "AirPods 4 主動式降噪款 (ANC/可私訊看購買證明/二手少用）",
-      "price": 3200,
+      "price": 2700,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1436512575/",
       "category": "音響耳機",
       "maxDays": 3,
-      "priceStr": "NT$3,200",
+      "priceStr": "NT$2,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 13:25",
+      "listedAt": "05/07 13:27",
       "pid": "1436512575",
       "verified": {
         "newPrice": 4990,
         "secondhand": 4000,
-        "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。$3,200=64%/80%, 賣家提供購買證明，⚠ AirPods 系列假貨多請當面驗",
+        "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。賣家從$3,200降到$2,700=54%/68%, 進好貨檻⚠ 假貨多請當面驗",
         "source": "web search 2026-05-07"
       },
-      "vsNew": 64,
-      "vsSecondhand": 80
+      "vsNew": 54,
+      "vsSecondhand": 68
     }
   ],
+  "negotiate": [],
   "uncertain": [
     {
       "seller": "raccoonjien",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "HUAWEI華為FreeClip 藍牙耳夾耳機 真無線耳夾式耳機 【附耳機套】",
       "price": 2660,
       "condition": "Lightly used",
@@ -38,7 +38,7 @@
       "priceStr": "NT$2,660",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 14:25",
+      "listedAt": "05/07 14:27",
       "pid": "1430311333",
       "verified": {
         "newPrice": 5990,
@@ -51,17 +51,17 @@
     },
     {
       "seller": "paapanda",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Bose SoundLink Flex 可攜式藍牙喇叭",
-      "price": 3300,
-      "condition": "Like new",
+      "price": 3000,
+      "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1436538498/",
       "category": "喇叭",
       "maxDays": 3,
-      "priceStr": "NT$3,300",
+      "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 15:25",
+      "listedAt": "05/07 15:27",
       "pid": "1436538498",
       "verified": {
         "newPrice": 5900,
@@ -69,12 +69,12 @@
         "note": "Bose SoundLink Flex 二代新品$5,900（初代約$4,690）。$3,300=56% (二代)/70% (初代)，⚠ 賣家未標世代，需問清楚",
         "source": "web search 2026-05-07"
       },
-      "vsNew": 56,
+      "vsNew": 51,
       "vsSecondhand": null
     },
     {
       "seller": "martinwu",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Snowpeak 超級保冰袋 露營用 38L 原價五千多",
       "price": 2200,
       "condition": "Lightly used",
@@ -84,7 +84,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 15:25",
+      "listedAt": "05/07 15:27",
       "pid": "1436536216",
       "verified": {
         "newPrice": 5450,
@@ -93,6 +93,29 @@
         "source": "web search 2026-05-07"
       },
       "vsNew": 40,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "kobe790328",
+      "timeAgo": "2 hours ago",
+      "title": "EPSON EF-11 3LCD雷射投影機",
+      "price": 10000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436547031/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 16:27",
+      "pid": "1436547031",
+      "verified": {
+        "newPrice": 21900,
+        "secondhand": null,
+        "note": "EPSON EF-11 雷射投影機 公司貨$20,900-22,900。$10,000=46%, 二手樣本不足",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 46,
       "vsSecondhand": null
     }
   ]
