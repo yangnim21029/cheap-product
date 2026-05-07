@@ -1,4 +1,24 @@
 {
+  "1436578609": {
+    "newPrice": 9660,
+    "secondhand": null,
+    "note": "Bose SoundLink Mini 2 特別版黑金 已停售 undersky.tw 特別版$5K-6K, BigGo 二手$9,070。$3,500=36-64%, ⚠ 已停售+特別版仿品多需驗真品",
+    "source": "web search 2026-05-07"
+  },
+  "1436578178": {
+    "newPrice": 4690,
+    "secondhand": 3500,
+    "note": "AirPods 4 ANC 公司貨 新品$4,690 / 二手中位$3,500。$4,000=85%/114%, 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436578130": {
+    "newPrice": 5400,
+    "secondhand": null,
+    "note": "JBL Bar 2.0 mk2 Soundbar 新品$5,400-5,990。$4,500=83%, 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
   "1436547031": {
     "newPrice": 21900,
     "secondhand": null,

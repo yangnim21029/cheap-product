@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sara0606",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "AirPods 4 主動式降噪款 (ANC/可私訊看購買證明/二手少用）",
       "price": 2700,
       "condition": "Like new",
@@ -12,7 +12,7 @@
       "priceStr": "NT$2,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 13:27",
+      "listedAt": "05/07 13:28",
       "pid": "1436512575",
       "verified": {
         "newPrice": 4990,
@@ -28,7 +28,7 @@
   "uncertain": [
     {
       "seller": "raccoonjien",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "HUAWEI華為FreeClip 藍牙耳夾耳機 真無線耳夾式耳機 【附耳機套】",
       "price": 2660,
       "condition": "Lightly used",
@@ -38,7 +38,7 @@
       "priceStr": "NT$2,660",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 14:27",
+      "listedAt": "05/07 14:28",
       "pid": "1430311333",
       "verified": {
         "newPrice": 5990,
@@ -51,17 +51,17 @@
     },
     {
       "seller": "paapanda",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Bose SoundLink Flex 可攜式藍牙喇叭",
       "price": 3000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1436538498/",
-      "category": "喇叭",
+      "category": "音響耳機",
       "maxDays": 3,
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 15:27",
+      "listedAt": "05/07 15:28",
       "pid": "1436538498",
       "verified": {
         "newPrice": 5900,
@@ -74,7 +74,7 @@
     },
     {
       "seller": "martinwu",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Snowpeak 超級保冰袋 露營用 38L 原價五千多",
       "price": 2200,
       "condition": "Lightly used",
@@ -84,7 +84,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 15:27",
+      "listedAt": "05/07 15:28",
       "pid": "1436536216",
       "verified": {
         "newPrice": 5450,
@@ -120,7 +120,7 @@
     },
     {
       "seller": "kobe790328",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "EPSON EF-11 3LCD雷射投影機",
       "price": 10000,
       "condition": "Lightly used",
@@ -130,7 +130,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 16:27",
+      "listedAt": "05/07 16:28",
       "pid": "1436547031",
       "verified": {
         "newPrice": 21900,
@@ -139,6 +139,29 @@
         "source": "web search 2026-05-07"
       },
       "vsNew": 46,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "angrymonster",
+      "timeAgo": "9 minutes ago",
+      "title": "《Bose》SoundLink mini 2 特別版 二手",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436578609/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 19:19",
+      "pid": "1436578609",
+      "verified": {
+        "newPrice": 9660,
+        "secondhand": null,
+        "note": "Bose SoundLink Mini 2 特別版黑金 已停售 undersky.tw 特別版$5K-6K, BigGo 二手$9,070。$3,500=36-64%, ⚠ 已停售+特別版仿品多需驗真品",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 36,
       "vsSecondhand": null
     }
   ]
