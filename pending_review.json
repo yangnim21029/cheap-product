@@ -1,5 +1,29 @@
 {
   "newDeals": [],
-  "negotiate": [],
+  "negotiate": [
+    {
+      "seller": "sara0606",
+      "timeAgo": "14 minutes ago",
+      "title": "AirPods 4 主動式降噪款 (ANC/可私訊看購買證明/二手少用）",
+      "price": 3200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436512575/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 13:13",
+      "pid": "1436512575",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": 4000,
+        "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。$3,200=64%/80%, 賣家提供購買證明，⚠ AirPods 系列假貨多請當面驗",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 80
+    }
+  ],
   "uncertain": []
 }
