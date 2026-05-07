@@ -2,20 +2,20 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/8 04:26:05
+> 最後更新：2026/5/8 05:26:54
 
 ## 好貨（≤30% 新品 or ≤70% 二手）（1 筆）
 
 | 品項 | 價格 | 新品價 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|--------|------|------|------|------|
-| 二手 中古 全新 丹麥品牌 Bodum 的美式濾滴咖啡機 (BISTRO Programmable  | NT$850 | $2990 | 28% | Brand new | 05/06 04:26 | <a href="https://tw.carousell.com/p/1436193801/" target="_blank">查看</a> |
+| 二手 中古 全新 丹麥品牌 Bodum 的美式濾滴咖啡機 (BISTRO Programmable  | NT$850 | $2990 | 28% | Brand new | 05/06 05:26 | <a href="https://tw.carousell.com/p/1436193801/" target="_blank">查看</a> |
 ## 手動判斷（二手資料不足，新品 ≤70%）（3 筆）
 
 | 品項 | 價格 | 新品價 | 折數 | 狀態 | 上架 | 連結 |
 |------|------|--------|------|------|------|------|
 | 飛馬牌咖啡磨豆機600N | NT$1,600 | $2800 | 57% | Lightly used | 05/04 | <a href="https://tw.carousell.com/p/1429754461/" target="_blank">查看</a> |
 | FUJIFILM GF35-70 mm F4.5-5.6 WR | NT$16,000 | $27000 | 59% | Like new | 05/08 01:26 | <a href="https://tw.carousell.com/p/1436632710/" target="_blank">查看</a> |
-| Opus 錐刀磨豆機 | NT$5,200 | $7480 | 70% | Like new | 05/03 03:26 | <a href="https://tw.carousell.com/p/1418785420/" target="_blank">查看</a> |
+| Opus 錐刀磨豆機 | NT$5,200 | $7480 | 70% | Like new | 05/03 05:26 | <a href="https://tw.carousell.com/p/1418785420/" target="_blank">查看</a> |
 
 ---
 
