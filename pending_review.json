@@ -3,7 +3,7 @@
   "negotiate": [
     {
       "seller": "sara0606",
-      "timeAgo": "14 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "AirPods 4 主動式降噪款 (ANC/可私訊看購買證明/二手少用）",
       "price": 3200,
       "condition": "Like new",
@@ -13,7 +13,7 @@
       "priceStr": "NT$3,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 13:13",
+      "listedAt": "05/07 13:27",
       "pid": "1436512575",
       "verified": {
         "newPrice": 4990,
@@ -25,5 +25,29 @@
       "vsSecondhand": 80
     }
   ],
-  "uncertain": []
+  "uncertain": [
+    {
+      "seller": "raccoonjien",
+      "timeAgo": "1 hour ago",
+      "title": "HUAWEI華為FreeClip 藍牙耳夾耳機 真無線耳夾式耳機 【附耳機套】",
+      "price": 2660,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1430311333/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,660",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 14:27",
+      "pid": "1430311333",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": null,
+        "note": "HUAWEI FreeClip 耳夾耳機 公司貨$5,990（特價$4,990）。$2,660=44%/53%，二手樣本不足",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 44,
+      "vsSecondhand": null
+    }
+  ]
 }
