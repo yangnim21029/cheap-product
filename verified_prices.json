@@ -1,4 +1,25 @@
 {
+  "1436490628": {
+    "newPrice": 6999,
+    "secondhand": 4900,
+    "note": "Apple Watch SE2 40mm 銀 二手中位$4,900。$1,200=17%/24%, ⚠ 太便宜離譜，疑似詐騙引流 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436487735": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "AirPods Pro 2 USB-C 新品$7,490。$2,300=31%, ⚠ 已知中國仿品詐騙模式 (PTT iOS板有實證) SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436486742": {
+    "newPrice": 3500,
+    "secondhand": null,
+    "note": "UNiKA DI-BT Box 估新品$3,500（小眾pro-audio無公開定價）。$2,500=71%, 不過 70% 門檻且非耳機/喇叭 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
   "1436472388": {
     "newPrice": 2690,
     "secondhand": null,
