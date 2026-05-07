@@ -28,3 +28,23 @@
 - 這位 (overpriced) 一直在賣 Bose / B&O / 帝瓦雷，過濾規則生效中，commit log 看不到他進候選
 
 ---
+
+## 2026-05-08 00:25 觀察（patrol 13:25）
+
+raw 848 筆 / 候選 36，本輪掃 raw 雜訊看到的非清單訊號：
+
+### 出現頻率高 + 你可能想要
+- **WEDGWOOD 餐瓷**（漫遊美境/翠玉鳳凰盤 $2,450 等）— 你之前看 Marimekko 地毯，餐瓷風格類似，建議加 query 「WEDGWOOD」 min $1,500 max $5,000
+- **L'Artisan Parfumeur 香薰蠟燭** $2,700 全新正品 — 你追過香水，香薰類同領域可考慮加 query「香薰」min $1K max $5K
+- **Sony WH-1000XM4** 全黑 $5,500 — 已被「音響」query 抓但建議加專名 query 「sony xm」min $3K max $10K（你之前 AirPods 4 ANC 有興趣，主動降噪耳機同類）
+
+### 高量但不適合追
+- **大型家電出清**（洗衣機/冰箱/瓦斯爐 $5K-8K 量大）— 運送麻煩 + 不在你需求
+- **母嬰用品**（Nuna 汽座 / Mamaway 吸乳器）— 不適
+- **動漫一番賞**（七龍珠 $5,400-5,550）— 不在興趣
+
+### query 效果觀察
+- **磨豆機** query 連兩輪 0 筆相關，可能 keyword 太窄；下輪試「電動磨豆」「手沖磨豆機」「Wilfa」「1Zpresso」分項
+- **手沖** query 第二輪只有 1 筆（ROSÉ 周邊吊飾誤匹配），昨天首輪 5 筆都被 SKIP；考慮把 max 從 $5K 拉到 $10K 抓 Acaia/Wilfa
+
+---
