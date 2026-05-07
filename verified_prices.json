@@ -1,4 +1,43 @@
 {
+  "1436632710": {
+    "newPrice": 27000,
+    "secondhand": null,
+    "note": "FUJIFILM GF35-70mm F4.5-5.6 WR GFX 中片幅變焦鏡 公司貨$27,000-28,500。$16,000=59%, 二手樣本不足",
+    "source": "web search 2026-05-08"
+  },
+  "1436631479": {
+    "newPrice": null,
+    "secondhand": 5488,
+    "note": "Fujifilm X-E1 銀 已停產 二手中位$5,488。$9,000=164% 比二手還貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436630586": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Fujifilm 餅乾鏡稀有機身 賣家描述模糊（餅乾鏡=XF27mm 但機身未指明 X-Pro1/X-E1/X-T1）, ⚠ 太籠統 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1429754461": {
+    "newPrice": 2800,
+    "secondhand": null,
+    "note": "飛馬牌 600N 磨豆機 PChome$2,800（momo$3K-4.2K）。$1,600=57%, ⚠ <$2K 手動門檻但便宜值得看",
+    "source": "web search 2026-05-08"
+  },
+  "1418785420": {
+    "newPrice": 7480,
+    "secondhand": null,
+    "note": "Fellow Opus 錐刀磨豆機 公司貨$7,480-7,950（嘖嘖集資$6,200）。$5,200=70%, 剛邊緣手動門檻 + PTT報價$4,500 比這便宜",
+    "source": "web search 2026-05-08"
+  },
+  "1436631009": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "標題只有 YouTube link 詐騙 SKIP",
+    "source": "manual 2026-05-08",
+    "skip": true
+  },
   "1419624695": {
     "newPrice": null,
     "secondhand": 1500,
