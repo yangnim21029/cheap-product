@@ -2,7 +2,7 @@
 
 16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比
 
-> 最後更新：2026/5/7 07:25:45
+> 最後更新：2026/5/7 08:25:44
 
 ## 好貨（≤30% 新品 or ≤70% 二手）（2 筆）
 
@@ -19,6 +19,12 @@
 | 森海 Accentum 耳罩式藍牙耳機 | NT$3,350 | $6490 | 52% | Like new | 05/07 01:25 | <a href="https://tw.carousell.com/p/1436458042/" target="_blank">查看</a> |
 | Beat Studio Buds | NT$3,000 | $4990 | 60% | Like new | 05/07 00:25 | <a href="https://tw.carousell.com/p/1436448275/" target="_blank">查看</a> |
 | 【Marshall】 Major IV 藍牙耳罩式耳機－咖 | NT$3,350 | $4990 | 67% | Lightly used | 05/07 00:25 | <a href="https://tw.carousell.com/p/1436448416/" target="_blank">查看</a> |
+
+## 待查價（1 筆，subagent 尚未驗證）
+
+| 品項 | 價格 | 上架 | 連結 |
+|------|------|------|------|
+| 二手近全新Edifier Lolliclip 開放式耳夾降噪藍牙耳機-白 | NT$2,650 | 05/07 08:12 | <a href="https://tw.carousell.com/p/1436471067/" target="_blank">查看</a> |
 
 ---
 
