@@ -96,6 +96,29 @@
       "vsSecondhand": null
     },
     {
+      "seller": "abc998855",
+      "timeAgo": "~5 hours ago (patrol 05:25 注入)",
+      "title": "Marimekko 花花地毯",
+      "price": 2600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436534976/",
+      "category": "地毯",
+      "maxDays": 5,
+      "priceStr": "NT$2,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 13:25",
+      "pid": "1436534976",
+      "verified": {
+        "newPrice": 3590,
+        "secondhand": null,
+        "note": "Marimekko Unikko 官方$3,590（代購$2,850-3,190）。$2,600=72%, 邊緣值得看, ⚠ 仿品多需驗真品 + 問尺寸款式",
+        "source": "web search 2026-05-07"
+      },
+      "vsNew": 72,
+      "vsSecondhand": null
+    },
+    {
       "seller": "kobe790328",
       "timeAgo": "2 hours ago",
       "title": "EPSON EF-11 3LCD雷射投影機",
