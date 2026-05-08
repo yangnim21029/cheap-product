@@ -1,5 +1,75 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "zhogood",
+      "timeAgo": "11 minutes ago",
+      "title": "b&o beoplay h9i 耳罩式 主動降噪 無線 藍芽耳機 星空版",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1430774612/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 00:19",
+      "pid": "1430774612",
+      "verified": {
+        "newPrice": 19900,
+        "secondhand": null,
+        "note": "B&O Beoplay H9i 星空版 已停產 公司貨原價$19,900。$5,000=25% → 好貨檻, ⚠ 二手實際$4.5K-5K 同價, 樣本不足",
+        "source": "web search 2026-05-09"
+      },
+      "vsNew": 25,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "jefflisten",
+      "timeAgo": "22 minutes ago",
+      "title": "Sony WH-1000XM5",
+      "price": 4300,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436803154/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 00:08",
+      "pid": "1436803154",
+      "verified": {
+        "newPrice": 9500,
+        "secondhand": 6500,
+        "note": "Sony WH-1000XM5 旗艦降噪 公司貨$9,500 / 二手中位$6,500。$4,300=45%/66% → 好貨檻 (比 hannaz1 $5,000 更便宜)",
+        "source": "web search 2026-05-09"
+      },
+      "vsNew": 45,
+      "vsSecondhand": 66
+    },
+    {
+      "seller": "s7219438",
+      "timeAgo": "2 hours ago",
+      "title": "Vario-Tessar® T* FE 16-35 mm F4 ZA OSS (二手)",
+      "price": 9500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436790778/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$9,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 22:30",
+      "pid": "1436790778",
+      "verified": {
+        "newPrice": 32980,
+        "secondhand": 14500,
+        "note": "Sony Vario-Tessar 16-35 F4 ZA OSS (SEL1635Z) 公司貨$32,980 / 二手中位$14,500。$9,500=29%/66% → 好貨檻雙重通過",
+        "source": "web search 2026-05-09"
+      },
+      "vsNew": 29,
+      "vsSecondhand": 66
+    }
+  ],
   "negotiate": [],
   "uncertain": [
     {
@@ -23,6 +93,29 @@
         "source": "web search 2026-05-08"
       },
       "vsNew": 60,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "tito96030949840",
+      "timeAgo": "34 minutes ago",
+      "title": "marshall major v 復古棕",
+      "price": 3200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436801503/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 23:56",
+      "pid": "1436801503",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": null,
+        "note": "Marshall Major V 復古棕 2024新品 公司貨$4,990。$3,200=64% 進手動門檻, 二手樣本不足",
+        "source": "web search 2026-05-09"
+      },
+      "vsNew": 64,
       "vsSecondhand": null
     }
   ]
