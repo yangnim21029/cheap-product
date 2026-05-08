@@ -1,4 +1,17 @@
 {
+  "1430431727": {
+    "newPrice": 6490,
+    "secondhand": 5000,
+    "note": "Marshall Emberton III 三代 公司貨$6,490 / 二手中位$5,000。$4,000=62%/80% → 殺價檻 (比 hana0613 $4,500 更便宜)",
+    "source": "web search 2026-05-08"
+  },
+  "1436739357": {
+    "newPrice": 3880,
+    "secondhand": null,
+    "note": "Fujifilm mini Link 3 日購全新 公司貨$3,880（平輸最低$3,080）。$3,499=90%/114%(平輸) 不便宜 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
   "1436732085": {
     "newPrice": 2900,
     "secondhand": null,
@@ -154,8 +167,8 @@
   },
   "1436655539": {
     "newPrice": 6490,
-    "secondhand": null,
-    "note": "Marshall Emberton III 三代 IP67 公司貨$6,490（建議售價$6,790）。$4,500=69%, 二手樣本不足",
+    "secondhand": 5000,
+    "note": "Marshall Emberton III 三代 IP67 公司貨$6,490 / 二手中位$5,000（PTT $4.6K-5.3K）。$4,500=69%/90% → 殺價檻邊緣",
     "source": "web search 2026-05-08"
   },
   "1436654769": {

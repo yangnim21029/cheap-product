@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "AlexTW767",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "【售】DJI Osmo Pocket 3",
       "price": 7500,
       "condition": "Lightly used",
@@ -27,7 +27,7 @@
   "negotiate": [
     {
       "seller": "hannaz1",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Sony WH-1000xm5",
       "price": 5000,
       "condition": "Like new",
@@ -47,6 +47,29 @@
       },
       "vsNew": 53,
       "vsSecondhand": 77
+    },
+    {
+      "seller": "faststone_c87072",
+      "timeAgo": "8 minutes ago",
+      "title": "Marshall Emberton III 三代藍牙喇叭",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1430431727/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 18:22",
+      "pid": "1430431727",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 5000,
+        "note": "Marshall Emberton III 三代 公司貨$6,490 / 二手中位$5,000。$4,000=62%/80% → 殺價檻 (比 hana0613 $4,500 更便宜)",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 80
     }
   ],
   "uncertain": [
@@ -75,7 +98,7 @@
     },
     {
       "seller": "jerry030203",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "BOSE Earbuds OPEN Ultra",
       "price": 5000,
       "condition": "Lightly used",
@@ -98,7 +121,7 @@
     },
     {
       "seller": "lcw1113.",
-      "timeAgo": "43 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "PHILIPS (TAH 8856)",
       "price": 2800,
       "condition": "Like new",
@@ -108,7 +131,7 @@
       "priceStr": "NT$2,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 16:47",
+      "listedAt": "05/08 16:30",
       "pid": "1436731395",
       "verified": {
         "newPrice": 3990,
