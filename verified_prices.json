@@ -1,4 +1,23 @@
 {
+  "1430434870": {
+    "newPrice": 20900,
+    "secondhand": null,
+    "note": "Canon EOS R50 KIT 公司貨$20,900（原$22,900）。$18,000=86%, 不過 70% 門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436609049": {
+    "newPrice": null,
+    "secondhand": 12000,
+    "note": "Fujifilm XF 35mm F1.4 R 已停產 二手中位$12,000（蝦皮/Yahoo $10K-13K）。$10,500=88% → 殺價檻 (≥$3K ≤90% 二手)",
+    "source": "web search 2026-05-08"
+  },
+  "1436608752": {
+    "newPrice": null,
+    "secondhand": 21500,
+    "note": "Fujifilm X-T3 機身 已停產 二手中位$21,500（蝦皮/Yahoo $19.5K-22K）。$18,000=84% → 殺價檻 (≥$3K ≤90% 二手)",
+    "source": "web search 2026-05-08"
+  },
   "1436655539": {
     "newPrice": 6490,
     "secondhand": null,

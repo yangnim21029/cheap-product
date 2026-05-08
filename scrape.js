@@ -27,8 +27,8 @@ const QUERIES = [
   { q: '露營', min: 2000, max: 10000, maxDays: 7 },
   { q: '地毯', min: 1000, max: 8000, maxDays: 7 },
   { q: '優格機', min: 500, max: 3000, maxDays: 7 },
-  { q: 'fujifilm', min: 5000, max: 30000, maxDays: 7 },
-  { q: '相機機身', min: 5000, max: 30000, maxDays: 7 },
+  // { q: 'fujifilm', min: 5000, max: 30000, maxDays: 7 }, // 改用 photography-6 分類 2026-05-08
+  // { q: '相機機身', min: 5000, max: 30000, maxDays: 7 }, // 改用 photography-6 分類 2026-05-08
   { q: '磨豆機', min: 1500, max: 15000, maxDays: 7 },
   { q: '手沖', min: 500, max: 5000, maxDays: 7 },
   // 無關鍵字瀏覽：雜訊高但偶有冷門品牌好物（SoundSticks 4 等）
@@ -43,6 +43,9 @@ const CATEGORIES = [
   { slug: 'mobile-phones-gadgets-1091', name: '手機平板', min: 2000, max: 5000 },
   { slug: 'tv-home-appliances-30', name: '家電影音', min: 2000, max: 5000 },
   { slug: 'audio-1600', name: '音響耳機', min: 2000, max: 5000 },
+  { slug: 'photography-6', name: '相機攝影', min: 5000, max: 30000, maxDays: 7 },
+  { slug: 'collectibles-memorabilia-9', name: '收藏品', min: 1000, max: 10000, maxDays: 7 },
+  { slug: 'music-media-14', name: '音樂媒體', min: 2000, max: 15000, maxDays: 7 },
 ];
 
 // === 頁面抓取 JS ===

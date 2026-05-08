@@ -85,3 +85,25 @@ raw 848 筆 / 候選 36，本輪掃 raw 雜訊看到的非清單訊號：
 - 雜訊 query：'' 無關鍵字 + 露營（誤匹配衣服）
 
 ---
+
+## 2026-05-08 10:03 觀察（patrol 23:25 — 加 3 個分類頁）
+
+### 動作：移除 fujifilm/相機機身 keyword，加 photography-6 / collectibles-memorabilia-9 / music-media-14 三個分類頁
+
+效果立竿見影 — 原始 942（vs. 上輪 848），3 天內 519（vs. 402）。
+
+### 相機攝影分類頁（11 筆候選）一輪進帳
+- Canon EOS R50 KIT $18,000 = 86% SKIP（不夠便宜）
+- Fuji XF 35mm F1.4 R $10,500 = 88% 二手 → **進殺價** ✓
+- Fuji X-T3 機身 $18,000 = 84% 二手 → **進殺價** ✓
+- 其他待後續輪驗：Sony A6000 / Contax G28 Zeiss / Sony DSC-W810 / LOMO LCA+ / 七工匠 50/1.4 移軸 / Sachtler 腳架 / Sony CCD VX1
+
+### 分類頁 + keyword 組合的價值
+- 「fujifilm」keyword 之前每輪 1-3 筆 → 改 photography-6 一輪 11 筆，覆蓋 Sony / Canon / Contax / LOMO / 七工匠 / Sachtler 全部沒 keyword 的相機品牌
+- 結論：**不在 keyword 涵蓋的品牌 → 用分類頁；明確品牌型號 → 用 keyword**
+
+### 收藏品 / 音樂媒體分類頁觀察
+- 收藏品（collectibles-memorabilia-9）：抓到 2026 馬年生肖紀念套幣 $4,000、狩野永德唐獅子圖紋織掛軸 $6,800（藝術品多，二手價值需個案查）
+- 音樂媒體（music-media-14）：抓到大量卡帶錄音帶（$250-680，太低不在範圍）— 需考慮是否用 min $2K 過濾掉低價長尾
+
+---
