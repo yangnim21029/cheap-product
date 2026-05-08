@@ -12,7 +12,7 @@
       "priceStr": "NT$850",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 09:28",
+      "listedAt": "05/05 10:31",
       "pid": "1436193801",
       "verified": {
         "newPrice": 2990,
@@ -35,7 +35,7 @@
       "priceStr": "NT$3,980",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 09:06",
+      "listedAt": "05/08 09:31",
       "pid": "1436654769",
       "verified": {
         "newPrice": null,
@@ -60,7 +60,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 22:06",
+      "listedAt": "05/07 22:31",
       "pid": "1436609049",
       "verified": {
         "newPrice": null,
@@ -83,7 +83,7 @@
       "priceStr": "NT$18,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/07 22:06",
+      "listedAt": "05/07 22:31",
       "pid": "1436608752",
       "verified": {
         "newPrice": null,
@@ -93,12 +93,35 @@
       },
       "vsNew": null,
       "vsSecondhand": 84
+    },
+    {
+      "seller": "mai_camera",
+      "timeAgo": "20 hours ago",
+      "title": "Sony A73 A7III A7M3 單機身 快門3千多 (公司貨)",
+      "price": 27000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436524866/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$27,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/07 14:31",
+      "pid": "1436524866",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 30000,
+        "note": "Sony A7III 機身公司貨 已停產 二手中位$30,000。$27,000=90% → 殺價檻邊緣, 快門3千多極低算合理偏便宜",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": null,
+      "vsSecondhand": 90
     }
   ],
   "uncertain": [
     {
       "seller": "pklok588",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "FUJIFILM GF35-70 mm F4.5-5.6 WR",
       "price": 16000,
       "condition": "Like new",
@@ -108,7 +131,7 @@
       "priceStr": "NT$16,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 01:06",
+      "listedAt": "05/08 00:31",
       "pid": "1436632710",
       "verified": {
         "newPrice": 27000,
@@ -154,7 +177,7 @@
       "priceStr": "NT$5,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/03 09:28",
+      "listedAt": "05/03 10:31",
       "pid": "1418785420",
       "verified": {
         "newPrice": 7480,
@@ -167,7 +190,7 @@
     },
     {
       "seller": "hana0613",
-      "timeAgo": "45 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Marshall Emberton ||| 可攜 帯式藍牙喇叭IP67防塵防水 32小時續航",
       "price": 4500,
       "condition": "Brand new",
@@ -177,7 +200,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 09:21",
+      "listedAt": "05/08 09:31",
       "pid": "1436655539",
       "verified": {
         "newPrice": 6490,

@@ -1,4 +1,38 @@
 {
+  "1436651290": {
+    "newPrice": null,
+    "secondhand": 14000,
+    "note": "Sony A6000+28-70mm KIT 描述有誤（A6000原廠KIT是16-50mm，28-70mm是A7 KIT鏡需轉接）。$11,000 落在組合中位，不夠便宜+描述問題 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436644546": {
+    "newPrice": null,
+    "secondhand": 11880,
+    "note": "Contax G28 Zeiss Biogon T* 已停產 二手中位$11,880。$28,000=236% 比二手貴2倍多 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436524866": {
+    "newPrice": null,
+    "secondhand": 30000,
+    "note": "Sony A7III 機身公司貨 已停產 二手中位$30,000。$27,000=90% → 殺價檻邊緣, 快門3千多極低算合理偏便宜",
+    "source": "web search 2026-05-08"
+  },
+  "1436661502": {
+    "newPrice": 22900,
+    "secondhand": 9500,
+    "note": "Canon 800D 公司貨$22,900（清庫存）二手中位$9,500。$12,000=52%/126% 比二手還貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436544521": {
+    "newPrice": 7700,
+    "secondhand": null,
+    "note": "LOMO LC-A+ 木盒大全套 蝦皮慢調思理新品$7,700（缺貨）。$6,580=85% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
   "1430434870": {
     "newPrice": 20900,
     "secondhand": null,
