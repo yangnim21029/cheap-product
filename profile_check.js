@@ -1,7 +1,7 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
-const SELLERS = ['jo1133', 'ViFi77', 'tedhuang0826', 'jazw__'];
+const SELLERS = ['cdyuuu', 'kk4401', '221tgron', '.celine.', 'hank0720', 'clevertree-c694'];
 
 const delay = ms => new Promise(r => setTimeout(r, ms));
 

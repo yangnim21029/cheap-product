@@ -25,7 +25,8 @@
       {"id": "stevecho", "name": "stevecho", "note": "audiophile downsizer, 多筆不同品牌音響/喇叭"},
       {"id": "noble_a5768549", "name": "noble_a5768549", "note": "批量賣家, 同時上多筆露營車/沙發/幕布等generic"},
       {"id": "carrot_chen", "name": "carrot_chen", "note": "637單/561評/10年/賣手機平板手錶=3C小店"},
-      {"id": "jo1133", "name": "有玉有藝術品", "note": "11y/3評/玉翡翠專賣『周姐翡翠特價回饋』前綴, 小規模玉商"}
+      {"id": "jo1133", "name": "有玉有藝術品", "note": "11y/3評/玉翡翠專賣『周姐翡翠特價回饋』前綴, 小規模玉商"},
+      {"id": "221tgron", "reviews": 10, "joined": "7y9m", "name": "桃園二手家具 【預約制】王小姐", "note": "桃園實體預約制二手家具家電倉儲, 0916-401-314, 商品全『桃園二手家具/家電』前綴"}
     ]
   },
   "resellers": {
@@ -37,7 +38,8 @@
       {"id": "bravedeer.829ec6", "note": "小眾香水批量"},
       {"id": "pfg011370324", "note": "同時賣多支Dyson吹風機"},
       {"id": "yuan712", "note": "二手家電量大，編號NO:開頭"},
-      {"id": "ViFi77", "joined": "3y5m", "note": "Apm純銀批量9+件+巴黎世家款韓國代購, 3.5y零評零成交"}
+      {"id": "ViFi77", "joined": "3y5m", "note": "Apm純銀批量9+件+巴黎世家款韓國代購, 3.5y零評零成交"},
+      {"id": "hank0720", "orders": 366, "reviews": 232, "joined": "9y5m", "note": "366單9年5.0星, 全Brand new多品類(髮品/電子/球拍), 量級像批量代購"}
     ]
   },
   "overpriced": {
@@ -51,7 +53,11 @@
     "accounts": [
       {"id": "zzz9121", "orders": 16, "reviews": 7, "joined": "1y1m", "note": "個人出清,VW絲巾$500全新含收據,可信"},
       {"id": "tedhuang0826", "orders": 66, "reviews": 38, "joined": "3y7m", "note": "4.8星,太陽眼鏡+外套+短T多元出清"},
-      {"id": "jazw__", "orders": 72, "reviews": 30, "joined": "10y5m", "note": "5.0星,女裝多品牌出清(VW/Tod's/Uniqlo)"}
+      {"id": "jazw__", "orders": 72, "reviews": 30, "joined": "10y5m", "note": "5.0星,女裝多品牌出清(VW/Tod's/Uniqlo)"},
+      {"id": "cdyuuu", "orders": 88, "reviews": 71, "joined": "9y2m", "note": "5.0星,個人精品收藏家,emoji碼標題,只接轉帳不議價"},
+      {"id": "kk4401", "reviews": 1, "joined": "3y6m", "note": "K-pop小卡盤出(I-DLE/SKZ/TXT)+保養品個人出清"},
+      {"id": ".celine.", "reviews": 1, "joined": "11y1m", "note": "精品斷捨離(Chanel/LV/Celine/YSL/Loewe)限面交"},
+      {"id": "clevertree-c694", "reviews": 2, "joined": "5m3d", "note": "新號雜物多元出清(京劇油畫/翻頁鐘/字帖)"}
     ]
   }
 }

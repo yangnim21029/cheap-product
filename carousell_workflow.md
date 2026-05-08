@@ -93,11 +93,11 @@ README 只顯示**新發現的未看過商品**。沒有新貨時顯示「本輪
 1. `node scrape.js` — 抓資料，讀 log 確認沒異常
 2. `node process.js` — 過濾比價，看輸出筆數和跳過數
 3. 掃結果 — 有沒有垃圾混入、店家漏網
-4. 查新賣家 — 沒見過的開 profile，分類到 sellers.json
+4. **自動查新賣家**（不要列清單給 Rose 看）— 把本輪有 ≥2 筆掛單的新賣家送 subagent 分類，結果寫進 sellers.json，下輪自動過濾。單筆掛單個人賣家不查（CP 值低）
 5. 查行情 — 用 subagent web search 確認，更新 verified_prices.json
 6. **觀察新方向**（重要）— 看 raw_results 雜訊與待查清單，挑出頻繁出現但不在當前 query 清單的有趣品類，append 到 `suggestions.md`，讓 Rose 審手動清單時順便看到
 7. `git push` + 更新 Gist
-8. 報告給 Rose
+8. 報告給 Rose（簡短：好貨/殺價/手動數，新方向觀察一兩句，賣家分類自動做不報告）
 
 **不要做的事：**
 - 不要 `rm seen_ids.json`（會讓已看商品重複出現）
