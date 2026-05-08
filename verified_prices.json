@@ -1,4 +1,25 @@
 {
+  "1436788262": {
+    "newPrice": 6490,
+    "secondhand": 3000,
+    "note": "Marshall Emberton II 二代藍牙喇叭 公司貨$6,490 / 二手中位$3,000。$3,200=49%/107% 比二手略貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436786464": {
+    "newPrice": 3290,
+    "secondhand": null,
+    "note": "Shokz OpenFit Air 開放式 公司貨$3,290（原$4,690）。$2,500=76% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436782901": {
+    "newPrice": 4490,
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 遠傳公司貨未拆 新品$4,490 / 二手中位$4,000。$4,000=89%/100% 等於二手 SKIP（同 mars921 規格）",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
   "1433801453": {
     "newPrice": null,
     "secondhand": null,
