@@ -1,4 +1,23 @@
 {
+  "1436712097": {
+    "newPrice": 9500,
+    "secondhand": null,
+    "note": "Bose Ultra Open Earbuds 公司貨$9,500（Yahoo$8,500）。$5,000=53%, ⚠ 2024高階機+低47% 需驗真偽公司貨",
+    "source": "web search 2026-05-08"
+  },
+  "1436701924": {
+    "newPrice": 9500,
+    "secondhand": 6500,
+    "note": "Sony WH-1000XM5 旗艦降噪 公司貨$8,910-10,400 / 二手中位$6,500。$5,000=53%/77% → 殺價檻, 比二手低23% 急售區",
+    "source": "web search 2026-05-08"
+  },
+  "1436719975": {
+    "newPrice": null,
+    "secondhand": 26000,
+    "note": "Sony A6500+SEL18-135 KIT 已停產 二手組合$26,000（機身$17.5K+鏡$9.5K減折）。$25,000=96% 過 90% 殺價門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
   "1436713095": {
     "newPrice": null,
     "secondhand": null,

@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "AlexTW767",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "【售】DJI Osmo Pocket 3",
       "price": 7500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 13:29",
+      "listedAt": "05/08 13:30",
       "pid": "1436696445",
       "verified": {
         "newPrice": 18990,
@@ -24,7 +24,31 @@
       "vsSecondhand": 63
     }
   ],
-  "negotiate": [],
+  "negotiate": [
+    {
+      "seller": "hannaz1",
+      "timeAgo": "2 hours ago",
+      "title": "Sony WH-1000xm5",
+      "price": 5000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436701924/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 14:30",
+      "pid": "1436701924",
+      "verified": {
+        "newPrice": 9500,
+        "secondhand": 6500,
+        "note": "Sony WH-1000XM5 旗艦降噪 公司貨$8,910-10,400 / 二手中位$6,500。$5,000=53%/77% → 殺價檻, 比二手低23% 急售區",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 77
+    }
+  ],
   "uncertain": [
     {
       "seller": "royalflower.cda52d",
@@ -47,6 +71,29 @@
         "source": "web search 2026-05-08"
       },
       "vsNew": 59,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "jerry030203",
+      "timeAgo": "1 hour ago",
+      "title": "BOSE Earbuds OPEN Ultra",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436712097/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 15:30",
+      "pid": "1436712097",
+      "verified": {
+        "newPrice": 9500,
+        "secondhand": null,
+        "note": "Bose Ultra Open Earbuds 公司貨$9,500（Yahoo$8,500）。$5,000=53%, ⚠ 2024高階機+低47% 需驗真偽公司貨",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 53,
       "vsSecondhand": null
     }
   ]
