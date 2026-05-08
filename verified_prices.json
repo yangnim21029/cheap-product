@@ -1,4 +1,17 @@
 {
+  "1436758506": {
+    "newPrice": 4980,
+    "secondhand": null,
+    "note": "Beurer 博依 LR 220 全淨化空氣清淨機 諾曼百赫官方$4,980（原$8,180）。$1,900=38%, <$2K 手動門檻但便宜值得看",
+    "source": "web search 2026-05-08"
+  },
+  "1429791585": {
+    "newPrice": 18900,
+    "secondhand": 11000,
+    "note": "Tamron 28-75mm f/2.8 A036 Sony FE 一代停產 新品$18,900 / 二手中位$11,000。$13,500=71%/123% 比二手貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
   "1436735889": {
     "newPrice": 9900,
     "secondhand": 4900,

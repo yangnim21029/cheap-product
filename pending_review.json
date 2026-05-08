@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "AlexTW767",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "【售】DJI Osmo Pocket 3",
       "price": 7500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 13:30",
+      "listedAt": "05/08 13:28",
       "pid": "1436696445",
       "verified": {
         "newPrice": 18990,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "jack_1114",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "APSC鏡頭 ZEISS Touit 12mm/f2.8 Sony E卡扣",
       "price": 7500,
       "condition": "Lightly used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 18:30",
+      "listedAt": "05/08 18:28",
       "pid": "1436745355",
       "verified": {
         "newPrice": 28900,
@@ -50,7 +50,7 @@
   "negotiate": [
     {
       "seller": "hannaz1",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Sony WH-1000xm5",
       "price": 5000,
       "condition": "Like new",
@@ -60,7 +60,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 14:30",
+      "listedAt": "05/08 14:28",
       "pid": "1436701924",
       "verified": {
         "newPrice": 9500,
@@ -73,17 +73,17 @@
     },
     {
       "seller": "faststone_c87072",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Marshall Emberton III 三代藍牙喇叭",
       "price": 4000,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1430431727/",
-      "category": "喇叭",
+      "category": "音響耳機",
       "maxDays": 3,
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 18:30",
+      "listedAt": "05/08 18:28",
       "pid": "1430431727",
       "verified": {
         "newPrice": 6490,
@@ -121,7 +121,7 @@
     },
     {
       "seller": "jerry030203",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "BOSE Earbuds OPEN Ultra",
       "price": 5000,
       "condition": "Lightly used",
@@ -131,7 +131,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 15:30",
+      "listedAt": "05/08 15:28",
       "pid": "1436712097",
       "verified": {
         "newPrice": 9500,
@@ -144,7 +144,7 @@
     },
     {
       "seller": "lcw1113.",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "PHILIPS (TAH 8856)",
       "price": 2800,
       "condition": "Like new",
@@ -154,7 +154,7 @@
       "priceStr": "NT$2,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 16:30",
+      "listedAt": "05/08 16:28",
       "pid": "1436731395",
       "verified": {
         "newPrice": 3990,
@@ -163,6 +163,29 @@
         "source": "web search 2026-05-08"
       },
       "vsNew": 70,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "tootall003",
+      "timeAgo": "54 minutes ago",
+      "title": "德國博依360度全淨化空氣清淨機 LR 220",
+      "price": 1900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436758506/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$1,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 19:34",
+      "pid": "1436758506",
+      "verified": {
+        "newPrice": 4980,
+        "secondhand": null,
+        "note": "Beurer 博依 LR 220 諾曼百赫官方$4,980（原$8,180）。$1,900=38%, <$2K 手動門檻但便宜值得看",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 38,
       "vsSecondhand": null
     }
   ]
