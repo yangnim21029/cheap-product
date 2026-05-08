@@ -288,43 +288,55 @@ fs.writeFileSync('carousell_wishlist_20260501.csv', csvLines.join('\n') + '\n');
 
 // === 更新 README ===
 const now = new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false });
-let md = `# Carousell 二手好物清單\n\n`;
-md += `16 queries + 4 分類 | 新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情比\n\n`;
-md += `> 最後更新：${now}\n\n`;
-const showDeals = (list, title) => {
+const totalShops = (sellersData.shops?.accounts?.length || 0);
+const totalSeen = (() => { try { return JSON.parse(fs.readFileSync('seen_ids.json','utf8')).length; } catch { return 0; } })();
+let md = `# Carousell 二手好物巡邏\n\n`;
+md += `> ${now} · 累積已看 ${totalSeen} 筆 · ${totalShops} 位賣家黑名單\n\n`;
+md += `**待審：** 好貨 ${allNewDeals.length} ｜ 殺價 ${allNegotiate.length} ｜ 手動 ${allUncertain.length} ｜ 待查 ${needVerifyRelevant.length}\n\n`;
+md += `**規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足\n\n`;
+
+const showDeals = (list, emoji, title, hint) => {
   if (list.length === 0) return '';
-  let s = `## ${title}（${list.length} 筆）\n\n`;
-  s += `| 品項 | 價格 | 新品價 | 折數 | 狀態 | 上架 | 連結 |\n`;
-  s += `|------|------|--------|------|------|------|------|\n`;
+  let s = `## ${emoji} ${title}（${list.length}）\n\n`;
+  if (hint) s += `> ${hint}\n\n`;
+  s += `| 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |\n`;
+  s += `|------|------|--------|------|------|------|--|\n`;
   list.forEach(d => {
     const v = d.verified || {};
-    const basis = v.newPrice ? `$${v.newPrice}` : (v.secondhand ? `二手$${v.secondhand}` : '?');
-    const disc = d.vsNew ? `${d.vsNew}%` : (d.vsSecondhand ? `${d.vsSecondhand}%` : '?');
+    const basis = v.newPrice ? `新$${v.newPrice}` : (v.secondhand ? `二手$${v.secondhand}` : '?');
+    const disc = d.vsNew ? `${d.vsNew}% new` : (d.vsSecondhand ? `${d.vsSecondhand}% 二手` : '?');
     const warn = d.isReseller ? ' ⚠' : '';
-    s += `| ${escPipe(d.title.slice(0, 50))}${warn} | ${d.priceStr} | ${basis} | ${disc} | ${d.condition} | ${d.listedAt} | <a href="${d.url}" target="_blank">查看</a> |\n`;
+    const cat = d.category ? `[${d.category}] ` : '';
+    s += `| ${cat}${escPipe(d.title.slice(0, 45))}${warn} | **${d.priceStr}** | ${basis} | ${disc} | ${d.condition} | ${d.listedAt} | [→](${d.url}) |\n`;
   });
+  s += '\n';
   return s;
 };
 
 if (allNewDeals.length === 0 && allNegotiate.length === 0 && allUncertain.length === 0 && needVerifyRelevant.length === 0) {
-  md += `## 目前清單\n\n本輪無新好貨（已看過 ${skippedDup} 筆）。持續巡邏中。\n`;
+  md += `## 本輪空 \n\n沒有新候選（已看過 ${skippedDup} 筆）。持續巡邏中。\n`;
 } else {
-  md += showDeals(allNewDeals, '好貨（≤30% 新品 or ≤70% 二手）');
-  md += showDeals(allNegotiate, '殺價保留（$3,000+，≤90%）');
-  md += showDeals(allUncertain, '手動判斷（二手資料不足，新品 ≤70%）');
+  md += showDeals(allNewDeals, '🟢', '好貨', '通過自動門檻，可直接買');
+  md += showDeals(allNegotiate, '🟡', '殺價', '價格已合理但還能再殺，看你殺得到嗎');
+  md += showDeals(allUncertain, '🟠', '手動判斷', '二手樣本不足或邊緣值，手動評估');
   if (needVerifyRelevant.length > 0) {
-    md += `\n## 待查價（${needVerifyRelevant.length} 筆，subagent 尚未驗證）\n\n`;
-    md += `| 品項 | 價格 | 上架 | 連結 |\n`;
-    md += `|------|------|------|------|\n`;
-    needVerifyRelevant.forEach(d => {
-      md += `| ${escPipe(d.title.slice(0, 50))} | ${d.priceStr} | ${d.listedAt} | <a href="${d.url}" target="_blank">查看</a> |\n`;
+    md += `<details><summary>⏳ 待查價 ${needVerifyRelevant.length} 筆（subagent 還沒跑完）</summary>\n\n`;
+    md += `| 品項 | 價格 | 上架 |  |\n`;
+    md += `|------|------|------|--|\n`;
+    needVerifyRelevant.slice(0, 50).forEach(d => {
+      const cat = d.category ? `[${d.category}] ` : '';
+      md += `| ${cat}${escPipe(d.title.slice(0, 50))} | ${d.priceStr} | ${d.listedAt} | [→](${d.url}) |\n`;
     });
+    if (needVerifyRelevant.length > 50) md += `\n_（顯示前 50 筆，完整見 \`need_verify.json\`）_\n`;
+    md += `\n</details>\n\n`;
   }
 }
-md += `\n---\n\n## 歷史批次\n\n`;
-md += `<details><summary>Batch 5（已檢查 2026-05-02）</summary>\n\n折舊修正前的結果，見 git history\n\n</details>\n\n`;
-md += `<details><summary>Batch 1-4（已檢查 2026-05-01~02）</summary>\n\n見 git history\n\n</details>\n\n`;
-md += `---\n\n## 系統說明\n\n詳見 [carousell_workflow.md](carousell_workflow.md)\n`;
+md += `\n---\n\n`;
+md += `## 系統\n\n`;
+md += `- 每輪 [carousell_workflow.md](carousell_workflow.md) 8 步驟\n`;
+md += `- 新方向觀察 → [suggestions.md](suggestions.md)\n`;
+md += `- 賣家黑名單 / 信任名單 → [sellers.json](sellers.json)\n`;
+md += `- 已驗證個別品價 → [verified_prices.json](verified_prices.json)\n`;
 fs.writeFileSync('README.md', md);
 
 // === 更新 deals.html ===
