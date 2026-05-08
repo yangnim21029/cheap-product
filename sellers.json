@@ -26,7 +26,12 @@
       {"id": "noble_a5768549", "name": "noble_a5768549", "note": "批量賣家, 同時上多筆露營車/沙發/幕布等generic"},
       {"id": "carrot_chen", "name": "carrot_chen", "note": "637單/561評/10年/賣手機平板手錶=3C小店"},
       {"id": "jo1133", "name": "有玉有藝術品", "note": "11y/3評/玉翡翠專賣『周姐翡翠特價回饋』前綴, 小規模玉商"},
-      {"id": "221tgron", "reviews": 10, "joined": "7y9m", "name": "桃園二手家具 【預約制】王小姐", "note": "桃園實體預約制二手家具家電倉儲, 0916-401-314, 商品全『桃園二手家具/家電』前綴"}
+      {"id": "221tgron", "reviews": 10, "joined": "7y9m", "name": "桃園二手家具 【預約制】王小姐", "note": "桃園實體預約制二手家具家電倉儲, 0916-401-314, 商品全『桃園二手家具/家電』前綴"},
+      {"id": "mai_camera", "name": "mai_camera", "note": "5+筆Sony系列水貨/公司貨(A7III/A7C/ZV-1/20-70mm/70-200mm), id含_camera=相機水貨店, 定價貼齊二手中位"},
+      {"id": "shih0205", "name": "shih0205", "note": "多筆相機(Canon 800D/70D/EF-M鏡頭), 多型號=相機店"},
+      {"id": "cameradoge", "name": "cameradoge", "note": "Contax G28 Zeiss老鏡定價$28K=二手中位2倍, id含camera, 高價老鏡 dealer"},
+      {"id": "filmcamera.kao", "name": "filmcamera.kao", "note": "LOMO LC-A+木盒限量版, id含filmcamera = 底片相機收藏店"},
+      {"id": "goose.store", "name": "goose.store", "note": "Sony A6000+28-70KIT(誤組合), id含.store"}
     ]
   },
   "resellers": {
