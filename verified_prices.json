@@ -1,4 +1,24 @@
 {
+  "1436713095": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Google Home Max 已停產 二手樣本不足（Expansys平輸殘餘$8,940）。$10,000 比平輸還貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436696445": {
+    "newPrice": 18990,
+    "secondhand": 12000,
+    "note": "DJI Osmo Pocket 3 公司貨$17,820-18,990 / 全能套裝$22,773 / 二手中位$12,000。$7,500=39%/63% → 好貨檻",
+    "source": "web search 2026-05-08"
+  },
+  "1436690151": {
+    "newPrice": null,
+    "secondhand": 5500,
+    "note": "Canon EF-S 18-135mm IS STM EF-S 已停產 二手中位$5,500。$5,250=95% 過 90% 殺價門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
   "1436696532": {
     "newPrice": 4990,
     "secondhand": 4000,

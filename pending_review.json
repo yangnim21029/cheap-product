@@ -1,5 +1,29 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "AlexTW767",
+      "timeAgo": "2 hours ago",
+      "title": "【售】DJI Osmo Pocket 3",
+      "price": 7500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436696445/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$7,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 13:29",
+      "pid": "1436696445",
+      "verified": {
+        "newPrice": 18990,
+        "secondhand": 12000,
+        "note": "DJI Osmo Pocket 3 公司貨$17,820-18,990 / 全能套裝$22,773 / 二手中位$12,000。$7,500=39%/63% → 好貨檻",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 39,
+      "vsSecondhand": 63
+    }
+  ],
   "negotiate": [],
   "uncertain": [
     {
