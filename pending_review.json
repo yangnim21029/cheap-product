@@ -1,5 +1,29 @@
 {
   "newDeals": [],
   "negotiate": [],
-  "uncertain": []
+  "uncertain": [
+    {
+      "seller": "royalflower.cda52d",
+      "timeAgo": "3 hours ago",
+      "title": "Arturia KeyLab Essential MK3 49鍵 便宜賣～",
+      "price": 5000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436673658/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 11:30",
+      "pid": "1436673658",
+      "verified": {
+        "newPrice": 8500,
+        "secondhand": null,
+        "note": "Arturia KeyLab Essential MK3 49鍵 MIDI 鍵盤 新品$8,190-8,800 中位$8,500。$5,000=59%, 二手樣本不足",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 59,
+      "vsSecondhand": null
+    }
+  ]
 }
