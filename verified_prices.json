@@ -1,4 +1,30 @@
 {
+  "1436816407": {
+    "newPrice": null,
+    "secondhand": 13000,
+    "note": "Canon EF 70-200 f/4 L USM 無IS 第一代1999 已停產 二手中位$13,000。$12,000=92% 過 90% 殺價門檻 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
+  },
+  "1436810507": {
+    "newPrice": 9900,
+    "secondhand": 6500,
+    "note": "Nikon Z 28mm f/2.8 SE 復古版 公司貨$9,900 / 二手中位$6,500。$5,000=51%/77% → 殺價檻",
+    "source": "web search 2026-05-09"
+  },
+  "1436808637": {
+    "newPrice": null,
+    "secondhand": 7000,
+    "note": "DJI Mini 2 已停產 二手中位$7,000。$7,600=109% 比二手略貴 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
+  },
+  "1436806164": {
+    "newPrice": 13990,
+    "secondhand": 9000,
+    "note": "Canon PowerShot V10 vlog相機 公司貨$13,990 / 二手中位$9,000。$6,500=46%/72% → 殺價檻",
+    "source": "web search 2026-05-09"
+  },
   "1436809912": {
     "newPrice": 3000,
     "secondhand": 1600,
