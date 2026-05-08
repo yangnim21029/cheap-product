@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "AlexTW767",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "【售】DJI Osmo Pocket 3",
       "price": 7500,
       "condition": "Lightly used",
@@ -22,12 +22,35 @@
       },
       "vsNew": 39,
       "vsSecondhand": 63
+    },
+    {
+      "seller": "jack_1114",
+      "timeAgo": "1 hour ago",
+      "title": "APSC鏡頭 ZEISS Touit 12mm/f2.8 Sony E卡扣",
+      "price": 7500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436745355/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$7,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 18:30",
+      "pid": "1436745355",
+      "verified": {
+        "newPrice": 28900,
+        "secondhand": 12000,
+        "note": "ZEISS Touit 12mm f/2.8 Sony E APS-C廣角 公司貨$28,900 / 二手中位$12,000。$7,500=26%/63% → 好貨檻雙重通過",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 26,
+      "vsSecondhand": 63
     }
   ],
   "negotiate": [
     {
       "seller": "hannaz1",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Sony WH-1000xm5",
       "price": 5000,
       "condition": "Like new",
@@ -50,17 +73,17 @@
     },
     {
       "seller": "faststone_c87072",
-      "timeAgo": "8 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Marshall Emberton III 三代藍牙喇叭",
       "price": 4000,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1430431727/",
-      "category": "音響耳機",
+      "category": "喇叭",
       "maxDays": 3,
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 18:22",
+      "listedAt": "05/08 18:30",
       "pid": "1430431727",
       "verified": {
         "newPrice": 6490,
@@ -98,7 +121,7 @@
     },
     {
       "seller": "jerry030203",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "BOSE Earbuds OPEN Ultra",
       "price": 5000,
       "condition": "Lightly used",
@@ -121,7 +144,7 @@
     },
     {
       "seller": "lcw1113.",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "PHILIPS (TAH 8856)",
       "price": 2800,
       "condition": "Like new",

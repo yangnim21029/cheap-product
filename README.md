@@ -1,18 +1,19 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/8 18:30:40 · 累積已看 3264 筆 · 32 位賣家黑名單
+> 2026/5/8 19:30:01 · 累積已看 3265 筆 · 32 位賣家黑名單
 
-**待審：** 好貨 1 ｜ 殺價 2 ｜ 手動 3 ｜ 待查 32
+**待審：** 好貨 2 ｜ 殺價 2 ｜ 手動 3 ｜ 待查 40
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
-## 🟢 好貨（1）
+## 🟢 好貨（2）
 
 > 通過自動門檻，可直接買
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
 | [相機攝影] 【售】DJI Osmo Pocket 3 | **NT$7,500** | 新$18990 | 39% new | Lightly used | 05/08 13:30 | [→](https://tw.carousell.com/p/1436696445/) |
+| [相機攝影] APSC鏡頭 ZEISS Touit 12mm/f2.8 Sony E卡扣 | **NT$7,500** | 新$28900 | 26% new | Lightly used | 05/08 18:30 | [→](https://tw.carousell.com/p/1436745355/) |
 
 ## 🟡 殺價（2）
 
@@ -21,7 +22,7 @@
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
 | [音響耳機] Sony WH-1000xm5 | **NT$5,000** | 新$9500 | 53% new | Like new | 05/08 14:30 | [→](https://tw.carousell.com/p/1436701924/) |
-| [音響耳機] Marshall Emberton III 三代藍牙喇叭 | **NT$4,000** | 新$6490 | 62% new | Brand new | 05/08 18:22 | [→](https://tw.carousell.com/p/1430431727/) |
+| [喇叭] Marshall Emberton III 三代藍牙喇叭 | **NT$4,000** | 新$6490 | 62% new | Brand new | 05/08 18:30 | [→](https://tw.carousell.com/p/1430431727/) |
 
 ## 🟠 手動判斷（3）
 
@@ -33,17 +34,24 @@
 | [音樂媒體] Arturia KeyLab Essential MK3 49鍵 便宜賣～ | **NT$5,000** | 新$8500 | 59% new | Like new | 05/08 11:30 | [→](https://tw.carousell.com/p/1436673658/) |
 | [音響耳機] PHILIPS (TAH 8856) | **NT$2,800** | 新$3990 | 70% new | Like new | 05/08 16:30 | [→](https://tw.carousell.com/p/1436731395/) |
 
-<details><summary>⏳ 待查價 32 筆（subagent 還沒跑完）</summary>
+<details><summary>⏳ 待查價 40 筆（subagent 還沒跑完）</summary>
 
 | 品項 | 價格 | 上架 |  |
 |------|------|------|--|
-| [拍立得] 全新 Instant Snap 透明相機 復古相機 迷你拍立得 情人節禮物 | NT$1,599 | 05/08 17:50 | [→](https://tw.carousell.com/p/1436741649/) |
-| [音響耳機] 雷蛇 X Pokémon，聯名 Leviathan V2 X 皮卡丘限定藍芽喇叭 | NT$2,500 | 05/08 16:30 | [→](https://tw.carousell.com/p/1436728856/) |
+| [喇叭] 雷蛇 X Pokémon，聯名 Leviathan V2 X 皮卡丘限定藍芽喇叭 | NT$2,500 | 05/08 16:30 | [→](https://tw.carousell.com/p/1436728856/) |
+| [拍立得] 全新 Instant Snap 透明相機 復古相機 迷你拍立得 情人節禮物 | NT$1,599 | 05/08 17:30 | [→](https://tw.carousell.com/p/1436741649/) |
+| [相機攝影] Canon 佳能 efs 10-22mm 變焦廣角頭F/3.5-4.5 USM | NT$6,400 | 05/08 17:30 | [→](https://tw.carousell.com/p/1436733934/) |
 | [相機攝影] Canon 佳能 EF-S 55-250mmf/4-5.6 IS II 望遠變焦鏡頭 | NT$8,500 | 05/08 16:30 | [→](https://tw.carousell.com/p/1436728645/) |
 | [相機攝影] vixen polarie u 星空雲台 | NT$11,000 | 05/08 16:30 | [→](https://tw.carousell.com/p/1436728088/) |
 | [相機攝影] Canon s100 | NT$5,980 | 05/08 15:30 | [→](https://tw.carousell.com/p/1436720680/) |
-| [收藏品] Cooper Flagg球員卡 | NT$2,000 | 05/08 18:15 | [→](https://tw.carousell.com/p/1436747140/) |
-| [收藏品] 乘龍琉璃觀音23*50公分 | NT$3,500 | 05/08 17:54 | [→](https://tw.carousell.com/p/1436743450/) |
+| [收藏品] 【合雅藝品】藏傳佛教 高檔琉璃【八吉祥寶塔】佛塔 寶瓶 燭台 蓮花座 酥油灯座 供佛 琉璃燈座 | NT$2,880 | 05/08 18:59 | [→](https://tw.carousell.com/p/1436754089/) |
+| [收藏品] Pokemon PTCG寶可夢卡 日文 SAR 瑪俐 ex 5張一組 | NT$2,500 | 05/08 18:53 | [→](https://tw.carousell.com/p/1436753096/) |
+| [收藏品] 【合雅藝品】紫銅 薰香爐【孫悟空 香爐】齊天大聖 聚寶盆 香粉 煙供 供佛 香爐 淨爐 收藏擺件 B | NT$1,580 | 05/08 18:49 | [→](https://tw.carousell.com/p/1436752559/) |
+| [收藏品] Ptcg 日版 噴火龍 萊西拉姆 tag team SR | NT$2,700 | 05/08 18:48 | [→](https://tw.carousell.com/p/1436752329/) |
+| [收藏品] 進擊的巨人 FLY畫集 | NT$3,100 | 05/08 18:34 | [→](https://tw.carousell.com/p/1436750199/) |
+| [收藏品] Cooper Flagg球員卡 | NT$2,000 | 05/08 18:30 | [→](https://tw.carousell.com/p/1436747140/) |
+| [收藏品] 乘龍琉璃觀音23*50公分 | NT$3,500 | 05/08 17:30 | [→](https://tw.carousell.com/p/1436743450/) |
+| [收藏品] ⭕ 3-16、4杯凸蓋。黑鐵砂。孟臣壺 | NT$6,800 | 05/08 17:30 | [→](https://tw.carousell.com/p/1436741503/) |
 | [收藏品] 叛逆玩家紙杯墊一套8張 | NT$3,500 | 05/08 17:30 | [→](https://tw.carousell.com/p/1436737778/) |
 | [收藏品] ⭕ 3-1、徐富珍。一廠壺。上心橋老紫砂 | NT$3,800 | 05/08 16:30 | [→](https://tw.carousell.com/p/1436732907/) |
 | [收藏品] G403 黑膽石 聚寶盆 茶洗 聚財盆 鑰匙 零錢 造景 石頭 漂亮 收藏 漂亮 | NT$2,200 | 05/08 15:30 | [→](https://tw.carousell.com/p/1436722439/) |
@@ -56,6 +64,8 @@
 | [收藏品] 台湾石头 | NT$1,200 | 05/08 13:30 | [→](https://tw.carousell.com/p/1436693224/) |
 | [收藏品] 韓國珍珠母貝四抽屜首飾盒，可收納項鍊、手鍊、耳環、戒指。 | NT$1,200 | 05/08 11:30 | [→](https://tw.carousell.com/p/1436680641/) |
 | [收藏品] 『預購代訂』權志龍 G-DRAGON 最新官方會員周邊 項鍊 | NT$5,300 | 05/08 10:30 | [→](https://tw.carousell.com/p/1436669824/) |
+| [音樂媒體] Washburn SI75 電吉他 | NT$35,000 | 05/08 19:21 | [→](https://tw.carousell.com/p/1436757535/) |
+| [音樂媒體] PRS SE Custom 24 Roasted Maple Limited Edition | NT$22,000 | 05/08 18:42 | [→](https://tw.carousell.com/p/1436751595/) |
 | [音樂媒體] Epiphone Les Paul Custom 電吉他 | NT$15,000 | 05/08 17:30 | [→](https://tw.carousell.com/p/1436734006/) |
 | [音樂媒體] [勿忘我] 吳兆南、魏龍豪【聲聲不絕】相聲大師經典精選集 (壹、貳、參) 3卷 6片裝 CD - 超 | NT$650 | 05/08 16:30 | [→](https://tw.carousell.com/p/1436726441/) |
 | [音樂媒體] Decca《Wagner - Die Walküre》（Erich Leinsdorf 版） | NT$1,380 | 05/08 16:30 | [→](https://tw.carousell.com/p/1436724570/) |
@@ -68,7 +78,6 @@
 | [音樂媒體] [勿忘我] 日本歌謠大賞 (七) - 早期 8軌磁帶 (8-Track) - 新美格實業 NMK90 | NT$720 | 05/08 15:30 | [→](https://tw.carousell.com/p/1436714078/) |
 | [音樂媒體] 二手 木吉他 單板吉他 | NT$2,000 | 05/08 15:30 | [→](https://tw.carousell.com/p/1436713874/) |
 | [音樂媒體] Boito Mefistofele Tebaldi Del Monaco Siepi Serafin | NT$880 | 05/08 14:30 | [→](https://tw.carousell.com/p/1436706323/) |
-| [音樂媒體] H5. 林俊傑/她說-概念自選輯 紙盒版2010年海蝶溫柔傾聽版～二手2CD | NT$1,380 | 05/08 14:30 | [→](https://tw.carousell.com/p/1436702679/) |
 
 </details>
 
