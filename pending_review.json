@@ -1,5 +1,29 @@
 {
   "newDeals": [],
   "negotiate": [],
-  "uncertain": []
+  "uncertain": [
+    {
+      "seller": "cindyliu0317-33542",
+      "timeAgo": "11 minutes ago",
+      "title": "全新法式簡約圓形地毯直徑180公分$1500",
+      "price": 1500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436795495/",
+      "category": "地毯",
+      "maxDays": 7,
+      "priceStr": "NT$1,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 23:17",
+      "pid": "1436795495",
+      "verified": {
+        "newPrice": 2500,
+        "secondhand": null,
+        "note": "法式簡約圓形地毯 180cm 市場新品中位$2,500。$1,500=60% 全新, ⚠ 賣家未標品牌/材質/厚度",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 60,
+      "vsSecondhand": null
+    }
+  ]
 }
