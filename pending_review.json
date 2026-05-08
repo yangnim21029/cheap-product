@@ -12,7 +12,7 @@
       "priceStr": "NT$850",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 08:26",
+      "listedAt": "05/05 09:28",
       "pid": "1436193801",
       "verified": {
         "newPrice": 2990,
@@ -22,6 +22,29 @@
       },
       "vsNew": 28,
       "vsSecondhand": null
+    },
+    {
+      "seller": "cybershotdsc",
+      "timeAgo": "25 minutes ago",
+      "title": "Onkyo DP-X1A 64GB Hi-Res Digital Music Player By Android OS 王曲 安卓系統 音樂播放器",
+      "price": 3980,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436654769/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,980",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 09:03",
+      "pid": "1436654769",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 9500,
+        "note": "Onkyo DP-X1A 64GB DAP 已停產 二手中位$9,500（PTT $6K-12K）。$3,980=42% → 好貨檻",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": null,
+      "vsSecondhand": 42
     }
   ],
   "negotiate": [],
@@ -84,7 +107,7 @@
       "priceStr": "NT$5,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/03 08:26",
+      "listedAt": "05/03 09:28",
       "pid": "1418785420",
       "verified": {
         "newPrice": 7480,
@@ -93,6 +116,29 @@
         "source": "web search 2026-05-08"
       },
       "vsNew": 70,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "hana0613",
+      "timeAgo": "8 minutes ago",
+      "title": "Marshall Emberton ||| 可攜 帯式藍牙喇叭IP67防塵防水 32小時續航",
+      "price": 4500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436655539/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 09:20",
+      "pid": "1436655539",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": null,
+        "note": "Marshall Emberton III 三代 IP67 公司貨$6,490（建議售價$6,790）。$4,500=69%, 二手樣本不足",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 69,
       "vsSecondhand": null
     }
   ]
