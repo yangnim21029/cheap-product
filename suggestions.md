@@ -107,3 +107,24 @@ raw 848 筆 / 候選 36，本輪掃 raw 雜訊看到的非清單訊號：
 - 音樂媒體（music-media-14）：抓到大量卡帶錄音帶（$250-680，太低不在範圍）— 需考慮是否用 min $2K 過濾掉低價長尾
 
 ---
+
+## 2026-05-08 12:28 觀察（patrol 26:25 — 跑了兩輪後檢討新分類效益）
+
+### collectibles-memorabilia-9 / music-media-14 兩個分類頁，建議撤掉
+
+**為什麼想撤**：
+- collectibles 每輪：sam681008 棒球扭蛋 6 筆（已加 shops）+ 紫南宮錢母/廟宇 + 茶壺/古玉/老香珀 + 翻頁鐘/復古錢幣 + K-pop 簽名小卡
+- music-media 每輪：古典 CD（$1,350）/ 黑膠專輯（$1,800-2,800）/ 卡帶（$280-680）/ 樂器（NOVATION/VOX/Boss）
+- 跟 Rose 需求重疊 0 筆。唯一可能是 NOVATION Launchkey 之前進過手動，但 keyword「磨豆機」也抓不到 NOVATION → 樂器類 keyword 應該換成「synthesizer」或「鍵盤」
+
+**建議**：
+- 撤掉 collectibles-memorabilia-9（純訊雜訊，沒有 Rose 想要的）
+- 撤掉 music-media-14（同上）
+- 保留 photography-6（這個有效，產出 X-T3/XF35/A7III/GF35-70）
+
+### photography-6 表現好但要持續黑名單相機店
+- 已加 5 位（mai_camera/shih0205/cameradoge/filmcamera.kao/goose.store）
+- 模式：id 含 _camera/_photo/.store/film/photo + 多筆掛單就是相機水貨店
+- 下次遇到符合模式的賣家直接加 shops，不送 subagent 浪費 token
+
+---
