@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "AlexTW767",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "【售】DJI Osmo Pocket 3",
       "price": 7500,
       "condition": "Lightly used",
@@ -27,7 +27,7 @@
   "negotiate": [
     {
       "seller": "hannaz1",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Sony WH-1000xm5",
       "price": 5000,
       "condition": "Like new",
@@ -75,7 +75,7 @@
     },
     {
       "seller": "jerry030203",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "BOSE Earbuds OPEN Ultra",
       "price": 5000,
       "condition": "Lightly used",
@@ -94,6 +94,29 @@
         "source": "web search 2026-05-08"
       },
       "vsNew": 53,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "lcw1113.",
+      "timeAgo": "43 minutes ago",
+      "title": "PHILIPS (TAH 8856)",
+      "price": 2800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436731395/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 16:47",
+      "pid": "1436731395",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "PHILIPS TAH8856 ANC耳機 新品$3,990（PChome/momo$4,990）。$2,800=70% 邊緣, ⚠ BigGo 二手才$1,900 賣家偏高",
+        "source": "web search 2026-05-08"
+      },
+      "vsNew": 70,
       "vsSecondhand": null
     }
   ]
