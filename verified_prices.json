@@ -1,4 +1,24 @@
 {
+  "1436990912": {
+    "newPrice": null,
+    "secondhand": 6500,
+    "note": "DJI Osmo Pocket 一代 已停產 二手中位$6,000-7,300。$4,190=64% → 好貨檻, ⚠ 比中位低30% 需驗真品",
+    "source": "web search 2026-05-10"
+  },
+  "1430469712": {
+    "newPrice": 2290,
+    "secondhand": null,
+    "note": "DJI Mic Mini 1V1 公司貨$2,290。$2,100=92% 接近全新, ⚠ 可能 1V1 標 1V2 規格混淆 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436728930": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "Insta360 Flow 2 Pro 公司貨$4,990（促銷$3,490）。$2,500=50%, ⚠ 強烈疑似仿品/詐騙(比最低促銷還低) SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
   "1436872301": {
     "newPrice": null,
     "secondhand": null,
