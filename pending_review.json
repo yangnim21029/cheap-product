@@ -164,6 +164,29 @@
       },
       "vsNew": 64,
       "vsSecondhand": null
+    },
+    {
+      "seller": "xx773324703495",
+      "timeAgo": "34 minutes ago",
+      "title": "AKAI Professional MPK Mini MKIII 黑色",
+      "price": 2500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436824502/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 08:39",
+      "pid": "1436824502",
+      "verified": {
+        "newPrice": 3980,
+        "secondhand": null,
+        "note": "AKAI MPK Mini MKIII 黑 PChome公司貨$3,980（DigiLog平輸$2,999）。$2,500=63%（公司貨）/83%（平輸）, ⚠ 是否公司貨會影響評價",
+        "source": "web search 2026-05-09"
+      },
+      "vsNew": 63,
+      "vsSecondhand": null
     }
   ]
 }

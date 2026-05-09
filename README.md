@@ -1,8 +1,8 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/9 09:13:00 · 累積已看 3602 筆 · 33 位賣家黑名單
+> 2026/5/9 09:13:25 · 累積已看 3602 筆 · 33 位賣家黑名單
 
-**待審：** 好貨 3 ｜ 殺價 2 ｜ 手動 2 ｜ 待查 19
+**待審：** 好貨 3 ｜ 殺價 2 ｜ 手動 3 ｜ 待查 18
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
@@ -25,16 +25,17 @@
 | [相機攝影] Canon Powershot V10 | **NT$6,500** | 新$13990 | 46% new | Like new | 05/09 01:37 | [→](https://tw.carousell.com/p/1436806164/) |
 | Nikon z 28mmf2.8 (SE特別版、復古版） | **NT$5,000** | 新$9900 | 51% new | Like new | 05/09 02:37 | [→](https://tw.carousell.com/p/1436810507/) |
 
-## 🟠 手動判斷（2）
+## 🟠 手動判斷（3）
 
 > 二手樣本不足或邊緣值，手動評估
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
 | [地毯] 全新法式簡約圓形地毯直徑180公分$1500 | **NT$1,500** | 新$2500 | 60% new | Brand new | 05/08 23:17 | [→](https://tw.carousell.com/p/1436795495/) |
+| [音樂媒體] AKAI Professional MPK Mini MKIII 黑色 | **NT$2,500** | 新$3980 | 63% new | Lightly used | 05/09 08:39 | [→](https://tw.carousell.com/p/1436824502/) |
 | [音響耳機] marshall major v 復古棕 | **NT$3,200** | 新$4990 | 64% new | Like new | 05/09 02:13 | [→](https://tw.carousell.com/p/1436801503/) |
 
-<details><summary>⏳ 待查價 19 筆（subagent 還沒跑完）</summary>
+<details><summary>⏳ 待查價 18 筆（subagent 還沒跑完）</summary>
 
 | 品項 | 價格 | 上架 |  |
 |------|------|------|--|
@@ -46,7 +47,6 @@
 | [收藏品] ⭕ 3-12、8杯乳鴿。老紫砂。豆乾印 | NT$4,800 | 05/09 03:13 | [→](https://tw.carousell.com/p/1436813514/) |
 | [收藏品] Stray Kids 2024高雄場背心 | NT$6,000 | 05/09 01:13 | [→](https://tw.carousell.com/p/1436798162/) |
 | [收藏品] T1 2024五星世界冠軍紀念T 全新未拆絕版 | NT$6,000 | 05/09 01:13 | [→](https://tw.carousell.com/p/1436797918/) |
-| [音樂媒體] AKAI Professional MPK Mini MKIII 黑色 | NT$2,500 | 05/09 08:39 | [→](https://tw.carousell.com/p/1436824502/) |
 | [音樂媒體] GrassRoots HYPER SERIES GV-FR-105 5弦 電貝斯 | NT$15,000 | 05/09 06:13 | [→](https://tw.carousell.com/p/1436820769/) |
 | [音樂媒體] GrassRoots G-FR-62GT 韓廠 電吉他 | NT$6,500 | 05/09 05:13 | [→](https://tw.carousell.com/p/1436819368/) |
 | [音樂媒體] Duster-Together黑膠 | NT$800 | 05/09 04:13 | [→](https://tw.carousell.com/p/1436816619/) |
