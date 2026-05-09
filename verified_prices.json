@@ -1,4 +1,32 @@
 {
+  "1436872301": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Watch S5 40mm GPS 已停產6年, 台灣回收商已不收。$2,600 略高於海外 Swappa $2,300 行情, 樣本不足 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1425499776": {
+    "newPrice": 17749,
+    "secondhand": null,
+    "note": "XGIMI 極米 Google TV 投影機 型號未指明 (MoGo 2/Pro/3?) $7,850 對不上任何現役機種, ⚠ 仿品或舊型號掛新名 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436945100": {
+    "newPrice": 4980,
+    "secondhand": null,
+    "note": "JBL Flip 7 白 公司貨$5,980 (PChome$4,980)。$4,000=80% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436957999": {
+    "newPrice": 1799,
+    "secondhand": null,
+    "note": "小米便攜相印機 1S 公司貨$1,799。$2,800=156% 比新品還貴 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
   "1436835290": {
     "newPrice": null,
     "secondhand": 3550,
