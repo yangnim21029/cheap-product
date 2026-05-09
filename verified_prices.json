@@ -1,4 +1,31 @@
 {
+  "1436835290": {
+    "newPrice": null,
+    "secondhand": 3550,
+    "note": "Apple Watch S6 40mm GPS 整修品 已停產 二手中位$3,550。$4,600=130% 比二手貴 30% SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
+  },
+  "1436830443": {
+    "newPrice": 2690,
+    "secondhand": null,
+    "note": "Snow Peak CS-116 磨豆機 公司貨$2,690。$2,500=93% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
+  },
+  "1436845492": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "Bose QuietComfort Earbuds 一代 已停產 二手中位$3,500。$2,900=83% 二手, <$3K 殺價門檻邊緣 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
+  },
+  "1436843572": {
+    "newPrice": 4990,
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 保固內 公司貨$4,990 / 二手中位$4,000。$3,400=68%/85% → 殺價檻 (≥$3K ≤90% 二手)",
+    "source": "web search 2026-05-09"
+  },
   "1436827918": {
     "newPrice": 5100,
     "secondhand": null,
