@@ -28,6 +28,7 @@ const KNOWN_DEAL_BRANDS = new Set([
 const CURRENT_QUERIES = [
   'apple watch', '空氣清淨機', '投影機', '喇叭', '音響', '立燈', '空氣循環扇',
   '拍立得', '相印機', 'VR', '露營', '地毯', '優格機', '磨豆機', '手沖', '除濕機',
+  'dji', 'insta360',
 ];
 const CURRENT_CATEGORIES = [
   '家具居家', '美妝保養', '精品', '手機平板', '家電影音', '音響耳機',
