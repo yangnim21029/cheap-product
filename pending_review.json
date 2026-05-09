@@ -12,7 +12,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 02:41",
+      "listedAt": "05/09 02:42",
       "pid": "1430774612",
       "verified": {
         "newPrice": 19900,
@@ -58,7 +58,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 02:41",
+      "listedAt": "05/09 02:42",
       "pid": "1436790778",
       "verified": {
         "newPrice": 32980,
@@ -91,6 +91,29 @@
       },
       "vsNew": 16,
       "vsSecondhand": null
+    },
+    {
+      "seller": "boldgem.434b23",
+      "timeAgo": "4 hours ago",
+      "title": "DJI Osmo Pocket｜完整盒裝＋64GB｜三軸穩定 Vlog 相機",
+      "price": 4190,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436240173/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$4,190",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 22:42",
+      "pid": "1436240173",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 6500,
+        "note": "DJI Osmo Pocket 一代 已停產 二手中位$6,000-7,300。$4,190=64% → 好貨檻, ⚠ 比中位低30% 需驗真品",
+        "source": "web search 2026-05-10"
+      },
+      "vsNew": null,
+      "vsSecondhand": 64
     }
   ],
   "negotiate": [
@@ -106,7 +129,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 02:41",
+      "listedAt": "05/09 02:42",
       "pid": "1436810507",
       "verified": {
         "newPrice": 9900,
@@ -129,7 +152,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 02:41",
+      "listedAt": "05/09 02:42",
       "pid": "1436806164",
       "verified": {
         "newPrice": 13990,
@@ -152,7 +175,7 @@
       "priceStr": "NT$3,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 10:41",
+      "listedAt": "05/09 10:42",
       "pid": "1436843572",
       "verified": {
         "newPrice": 4990,
