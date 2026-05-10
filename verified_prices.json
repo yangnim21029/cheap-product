@@ -1,4 +1,104 @@
 {
+  "1437198734": {
+    "newPrice": 25000,
+    "secondhand": null,
+    "note": "Bose Soundtouch 300 Soundbar 已停產 估原價$25,000。$4,000=16% → 好貨檻, ⚠ 已停產注意保固/連線",
+    "source": "web search 2026-05-11"
+  },
+  "1437202135": {
+    "newPrice": 5990,
+    "secondhand": null,
+    "note": "Marshall Emberton 一代 新品$5,890-5,990。$2,500=42% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1435810179": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "Insta360 Flow 2 Pro 公司貨$4,990。$3,000=60% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1436442716": {
+    "newPrice": 3900,
+    "secondhand": null,
+    "note": "Insta360 Ace Pro 2 微距鏡頭 港價HK$999≈NT$3,900。$2,800=72% 邊緣, 進手動可參考",
+    "source": "web search 2026-05-11"
+  },
+  "1437198901": {
+    "newPrice": 6000,
+    "secondhand": null,
+    "note": "M-Audio Code 25 MIDI 已停產 海外二手$199≈NT$6,000。$3,800=63% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437190042": {
+    "newPrice": 6290,
+    "secondhand": null,
+    "note": "DJI Neo 2 飛行器單機 $6,290。$5,100=81% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437034548": {
+    "newPrice": 12300,
+    "secondhand": null,
+    "note": "Insta360 X4 Air 入門套裝 $12,300。$10,000=81% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436291334": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Insta360 Selfie Stick 全新未拆 無基準 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436255677": {
+    "newPrice": 2990,
+    "secondhand": null,
+    "note": "Insta360 Snap 補光版 公司貨$2,990。$2,666=89% 僅省$324 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436085387": {
+    "newPrice": 3900,
+    "secondhand": null,
+    "note": "Insta360 Ace Pro 2 微距鏡頭 (同上款) $3,500=90% 比 #3 $2,800 還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436076638": {
+    "newPrice": 14990,
+    "secondhand": null,
+    "note": "Insta360 Ace Pro 2 白 標準版$14,990。$20,800=139% 比新品還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1435881795": {
+    "newPrice": null,
+    "secondhand": 7250,
+    "note": "Insta360 Ace Pro 一代 蝦皮二手$7,250。$9,600 明顯高於行情 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1425803817": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "新北燈會 線條小狗平安符 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437200011": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "BLACKPINK LISA LALISA 黑膠 收藏專輯非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437182711": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Leaf 內馬爾簽名卡 球員卡收藏 非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
   "1437071856": {
     "newPrice": 11900,
     "secondhand": null,
