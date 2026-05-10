@@ -1,4 +1,46 @@
 {
+  "1436934608": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Eureka Mythos $14,000 ⚠ 品名疑點: Eureka 是 Mignon 系列, 真 Mythos 是 Victoria Arduino 商用機新品$80K-150K。$14K 不合理, 疑型號誤標/山寨 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436954828": {
+    "newPrice": 19990,
+    "secondhand": 12000,
+    "note": "DJI Pocket 3 全能套裝 公司貨$19,990 / 二手中位$12,000。$12,500=63%/104% 略高於二手, ⚠『主機極速換新未拆封』需確認序號保固轉移 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436969174": {
+    "newPrice": 17000,
+    "secondhand": 10800,
+    "note": "Insta360 GO 3S 128G 套組 公司貨$17,000 / 二手中位$10,800。$10,300=61%/95% 落在二手店行情下緣, 不夠便宜 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436962894": {
+    "newPrice": 17990,
+    "secondhand": 13500,
+    "note": "Insta360 X5 萬能套裝 公司貨$17,990（稅免後降價）/ 二手套組$13,500。$17,500=97%/130% 比二手貴30% SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436904856": {
+    "newPrice": 3290,
+    "secondhand": null,
+    "note": "DJI Osmo Mobile 7P 公司貨$3,290 (PChome特價$2,790)。$2,000 比全新最低折扣還低30%, ⚠ 強烈疑似仿品 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436957036": {
+    "newPrice": 2970,
+    "secondhand": null,
+    "note": "DJI Neo 2 充電管家+電池x2 全新拆賣 估$2,970。$2,550=86% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
   "1436240173": {
     "newPrice": null,
     "secondhand": 6500,
