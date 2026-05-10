@@ -1,4 +1,47 @@
 {
+  "1437071856": {
+    "newPrice": 11900,
+    "secondhand": null,
+    "note": "JBL Partybox On-The-Go Essential 公司貨$11,900-18,800。$7,500=63% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437155494": {
+    "newPrice": 13400,
+    "secondhand": null,
+    "note": "Marshall Stanmore II 公司貨$13,400 (已停產). $8,000=60% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1436860785": {
+    "newPrice": 14900,
+    "secondhand": null,
+    "note": "BOSE Portable Smart Speaker 公司貨$14,900。$8,000=54% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437059488": {
+    "newPrice": 7491,
+    "secondhand": null,
+    "note": "Oakley Sutro TI OO6013 太陽眼鏡 PChome$7,491(MSRP$11,350)。$2,480=33% 進手動門檻 (露營query誤匹配實際是墨鏡)",
+    "source": "web search 2026-05-11"
+  },
+  "1437192132": {
+    "newPrice": 6000,
+    "secondhand": null,
+    "note": "Bose 耳塞式 (標題太籠統估QC一代$6,000) $4,200=70% 邊緣進手動, ⚠ 賣家未指明型號",
+    "source": "web search 2026-05-11"
+  },
+  "1437198332": {
+    "newPrice": 54000,
+    "secondhand": null,
+    "note": "Canon R8+Sigma 18-50/2.8+TT350c 套組估$54,000。$28,000=52% 省$26K 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437194984": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "方大同 回到未來 雙碟版 CD/DVD 收藏 非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
   "1437047709": {
     "newPrice": 19900,
     "secondhand": 11800,
