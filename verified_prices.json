@@ -1,4 +1,166 @@
 {
+  "1437188307": {
+    "newPrice": 17990,
+    "secondhand": 15000,
+    "note": "DJI Pocket 3 標準版 公司貨$17,990 / 二手中位$15,000 (Pocket 4 已發表降溫)。$8,888=49%/59% → 好貨檻, ⚠ 太低需驗真偽",
+    "source": "web search 2026-05-11"
+  },
+  "1437137840": {
+    "newPrice": 11590,
+    "secondhand": null,
+    "note": "DJI RS4 Mini Combo+手機夾 公司貨$11,590。$8,310=72% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436850682": {
+    "newPrice": 27800,
+    "secondhand": null,
+    "note": "Canon R50 + DJI Osmo Mobile 7 套組估$27,800。$20,000=72% 套組搭售風險 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436723576": {
+    "newPrice": 4090,
+    "secondhand": null,
+    "note": "DJI Osmo Mobile 7P 公司貨$4,090。$2,000=49% 進手動門檻, ⚠ 太低疑水貨或 OM7 一般版混淆",
+    "source": "web search 2026-05-11"
+  },
+  "1436494611": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "DJI Goggles N3 公司貨$7,490。$6,499=87% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436234698": {
+    "newPrice": 10589,
+    "secondhand": null,
+    "note": "DJI Neo 暢飛套裝 公司貨$10,589 (PChome特價$7,589)。$5,190=49%/68% 進手動門檻, ⚠ 全新未拆需驗真偽",
+    "source": "web search 2026-05-11"
+  },
+  "1424576991": {
+    "newPrice": 2750,
+    "secondhand": null,
+    "note": "DJI Osmo Mobile 6 9成新 PChome特價$2,750。$3,200=116% 比新品還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436073100": {
+    "newPrice": 13980,
+    "secondhand": null,
+    "note": "DJI Osmo 360 標準套 公司貨$13,980 (特價$12,600)。$12,800=92% 沒優勢 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436042857": {
+    "newPrice": null,
+    "secondhand": 16888,
+    "note": "DJI Phantom 4 Pro+ 已停產 二手中位$16,888 (8年機況)。$13,000=77% 二手 → 殺價檻",
+    "source": "web search 2026-05-11"
+  },
+  "1425566184": {
+    "newPrice": 4990,
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 全新 $4,780 vs 新品 $4,990 僅省$210, 二手中位$4,000 反而便宜 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1430972210": {
+    "newPrice": 4490,
+    "secondhand": 3230,
+    "note": "AirPods 4 一般款全新 $4,000 vs 新品 $4,490 省$490, 二手中位$3,230 更便宜 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437147233": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods 3 Lightning 已停產, 二手散亂無 ≥3 筆同款 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437098899": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 一代 已停產, 蝦皮副廠雜訊多, $3,000 偏高 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436693464": {
+    "newPrice": 5490,
+    "secondhand": null,
+    "note": "Whirlpool WDEE20AW 10.5L 公司貨$5,490 (momo/PChome/Yahoo一致)。$3,000=55% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1436189748": {
+    "newPrice": 18990,
+    "secondhand": null,
+    "note": "MITSUBISHI MJ-E180AX 18L 智慧除濕機 公司貨$18,990。$6,500=34% 進手動門檻, ⚠ 停產款後繼EHV180JX, 二手注意壓縮機運轉年限",
+    "source": "web search 2026-05-11"
+  },
+  "1437078895": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "KE 嘉儀 KEDB-216 型號查無此型 (官方是 KED-316), ⚠ 型號可疑 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436811049": {
+    "newPrice": 16900,
+    "secondhand": null,
+    "note": "SHARP 2合1 除濕清淨 賣家未指明型號(DW-J16T 公司貨$16,900)。$10,000 若是J16T則=59% deal但型號不確認 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436610387": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "三菱日本原裝 25L 2022 製造 賣家未給具體型號(MJ-PV/EV/EHV250 都不同), 無法 ≥3 筆同款驗證 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436597911": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "三菱 MJ-P180SX-W 18L 日本水貨 P180 舊款, 台灣 ≥3 筆同款湊不齊 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436591663": {
+    "newPrice": 6503,
+    "secondhand": null,
+    "note": "HITACHI RD-16FR1 8L 公司貨$6,503。$6,555=101% 比新品還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436540192": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Panasonic 國際牌 16L 變頻 賣家未給型號(F-Y32JH/EH/F-Y36JH 等差價大), 無法驗 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436158804": {
+    "newPrice": 19500,
+    "secondhand": null,
+    "note": "Panasonic F-Y45GX 旗艦22L 公司貨$19,500-22,490。$18,000=92% 沒誘因 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436083850": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "國際牌除濕機 標題太籠統無型號 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1435820722": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LG 除濕機 標題太籠統無型號 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
   "1436934608": {
     "newPrice": null,
     "secondhand": null,

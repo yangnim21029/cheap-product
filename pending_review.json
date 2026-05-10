@@ -104,7 +104,7 @@
       "priceStr": "NT$4,190",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 00:37",
+      "listedAt": "05/10 01:14",
       "pid": "1436240173",
       "verified": {
         "newPrice": null,
@@ -114,6 +114,29 @@
       },
       "vsNew": null,
       "vsSecondhand": 64
+    },
+    {
+      "seller": "mcadamlian50886",
+      "timeAgo": "5 minutes ago",
+      "title": "DJI OSMO Pocket 3",
+      "price": 8888,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437188307/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$8,888",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 01:09",
+      "pid": "1437188307",
+      "verified": {
+        "newPrice": 17990,
+        "secondhand": 15000,
+        "note": "DJI Pocket 3 標準版 公司貨$17,990 / 二手中位$15,000 (Pocket 4 已發表降溫)。$8,888=49%/59% → 好貨檻, ⚠ 太低需驗真偽",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": 49,
+      "vsSecondhand": 59
     }
   ],
   "negotiate": [
@@ -185,6 +208,29 @@
       },
       "vsNew": 68,
       "vsSecondhand": 85
+    },
+    {
+      "seller": "mrbili",
+      "timeAgo": "6 days ago",
+      "title": "Dji Phantom 4 Pro Plus",
+      "price": 13000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436042857/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$13,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/05 01:14",
+      "pid": "1436042857",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 16888,
+        "note": "DJI Phantom 4 Pro+ 已停產 二手中位$16,888 (8年機況)。$13,000=77% 二手 → 殺價檻",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": null,
+      "vsSecondhand": 77
     }
   ],
   "uncertain": [
@@ -255,6 +301,98 @@
         "source": "web search 2026-05-09"
       },
       "vsNew": 63,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "yennnkk",
+      "timeAgo": "2 days ago",
+      "title": "Whirlpool惠而浦 10.5L節能除濕機 WDEE20A",
+      "price": 3000,
+      "condition": "",
+      "url": "https://tw.carousell.com/p/1436693464/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 01:14",
+      "pid": "1436693464",
+      "verified": {
+        "newPrice": 5490,
+        "secondhand": null,
+        "note": "Whirlpool WDEE20AW 10.5L 公司貨$5,490 (momo/PChome/Yahoo一致)。$3,000=55% 進手動門檻",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": 55,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "cocobos",
+      "timeAgo": "5 days ago",
+      "title": "MITSUBISHI三菱除濕機MJ-E180AX智慧型(原價18500）適用12~23坪",
+      "price": 6500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436189748/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 01:14",
+      "pid": "1436189748",
+      "verified": {
+        "newPrice": 18990,
+        "secondhand": null,
+        "note": "MITSUBISHI MJ-E180AX 18L 智慧除濕機 公司貨$18,990。$6,500=34% 進手動門檻, ⚠ 停產款後繼EHV180JX, 二手注意壓縮機運轉年限",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": 34,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "luckytomy",
+      "timeAgo": "2 days ago",
+      "title": "『大疆』 DJI MOBILE 7P 手機穩定器、三軸穩定器、手機雲台、DJI 、大疆",
+      "price": 2000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436723576/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 01:14",
+      "pid": "1436723576",
+      "verified": {
+        "newPrice": 4090,
+        "secondhand": null,
+        "note": "DJI Osmo Mobile 7P 公司貨$4,090。$2,000=49% 進手動門檻, ⚠ 太低疑水貨或 OM7 一般版混淆",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": 49,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "felixliu1976104",
+      "timeAgo": "5 days ago",
+      "title": "(New set will be available next week) (4 set sold)DJI Neo 2 – Brand New, Unopened, Unactivated (drone only+one battery) taken from fly more combo set",
+      "price": 5190,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436234698/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$5,190",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/06 01:14",
+      "pid": "1436234698",
+      "verified": {
+        "newPrice": 10589,
+        "secondhand": null,
+        "note": "DJI Neo 暢飛套裝 公司貨$10,589 (PChome特價$7,589)。$5,190=49%/68% 進手動門檻, ⚠ 全新未拆需驗真偽",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": 49,
       "vsSecondhand": null
     }
   ]
