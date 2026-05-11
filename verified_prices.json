@@ -1,4 +1,67 @@
 {
+  "1437225726": {
+    "newPrice": null,
+    "secondhand": 26000,
+    "note": "Fujifilm X100F 銀 已停產 二手中位$26,000。$24,900=96% 過 90% 殺價門檻 SKIP (殺到≤$23K才值得)",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437193660": {
+    "newPrice": 6290,
+    "secondhand": null,
+    "note": "Fuji Mini Evo 含保固 公司貨$6,290。$6,800 高於新品 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437225840": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "手繪描金觀音菩薩畫像 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437198966": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PSA9 PTCG 船長皮卡丘 三星卡 球員卡收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437194588": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "文玩核桃 古玩收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437194264": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "義大利玉聚寶盆 風水擺件非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437192095": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "明代龍泉蓋盒 古董收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437218764": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "二手立式電子琴 標題太籠統+非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437216664": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Tacet 真空管試音碟 1995 德國版 發燒友 CD 非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
   "1437207110": {
     "newPrice": 10980,
     "secondhand": 9000,
