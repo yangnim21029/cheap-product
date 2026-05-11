@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "xuanll93",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "Olympus OM-D E-M5 Mark II 銀黑(公司貨) +12mm F2(平輸)",
       "price": 19000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:38",
+      "listedAt": "05/11 12:40",
       "pid": "1437244363",
       "verified": {
         "newPrice": null,
@@ -47,7 +47,7 @@
     },
     {
       "seller": "cosmicowl-e72dc9",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "airpodspro2代 使用過幾次而已 保固内 便宜轉手",
       "price": 2000,
       "condition": "Like new",
@@ -57,7 +57,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 17:38",
+      "listedAt": "05/11 17:40",
       "pid": "1437310483",
       "verified": {
         "newPrice": 6890,
@@ -88,12 +88,34 @@
       },
       "vsNew": 37,
       "vsSecondhand": 67
+    },
+    {
+      "seller": "whatsupgirrrl",
+      "timeAgo": "5 hours ago",
+      "title": "Coway空氣清淨機",
+      "price": 1000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437371226/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$1,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 23:40",
+      "pid": "1437371226",
+      "verified": {
+        "newPrice": 5900,
+        "secondhand": null,
+        "note": "Coway 空氣清淨機 $1,000 標題缺型號. 17% 新品 $5,900 (AP-1019C 入門款基準). 數字甜但型號黑盒, 風險: 壞掉/缺濾網/AP-1008 舊型. 開連結確認型號+濾網狀況"
+      },
+      "vsNew": 17,
+      "vsSecondhand": null
     }
   ],
   "negotiate": [
     {
       "seller": "calmstar_03f7a0",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "《8成新》Insta360 X3",
       "price": 7250,
       "condition": "Lightly used",
@@ -103,7 +125,7 @@
       "priceStr": "NT$7,250",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 13:38",
+      "listedAt": "05/11 13:40",
       "pid": "1425956850",
       "verified": {
         "newPrice": 15129,
@@ -138,7 +160,7 @@
     },
     {
       "seller": "lightgarden333",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "二手 APPLE Watch 5代 40mm 玫瑰金 +AirPods2 組合",
       "price": 3500,
       "condition": "Lightly used",
@@ -148,7 +170,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 13:38",
+      "listedAt": "05/11 13:40",
       "pid": "1437261050",
       "verified": {
         "newPrice": null,
@@ -160,7 +182,7 @@
     },
     {
       "seller": "yangnim21070322",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Marshell 未拆封 emberyon III 3代",
       "price": 4000,
       "condition": "Brand new",
@@ -170,7 +192,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 23:38",
+      "listedAt": "05/11 23:40",
       "pid": "1437372408",
       "verified": {
         "newPrice": 6490,
@@ -184,7 +206,7 @@
   "uncertain": [
     {
       "seller": "lily_linlin",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "Marshall 耳機",
       "price": 2500,
       "condition": "Brand new",
@@ -194,7 +216,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 14:38",
+      "listedAt": "05/11 14:40",
       "pid": "1437269271",
       "verified": {
         "newPrice": 3990,
@@ -206,7 +228,7 @@
     },
     {
       "seller": "materialgyal",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "Creative Aurvana Ace 2 真無線耳機｜全新未使用｜新加坡購入",
       "price": 2200,
       "condition": "Brand new",
@@ -216,7 +238,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:38",
+      "listedAt": "05/11 12:40",
       "pid": "1431201757",
       "verified": {
         "newPrice": 3590,
@@ -229,7 +251,7 @@
     },
     {
       "seller": "sunny___211",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Galaxy Buds3 FE 陶岩灰",
       "price": 2500,
       "condition": "Like new",
@@ -239,7 +261,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 15:38",
+      "listedAt": "05/11 15:40",
       "pid": "1437279792",
       "verified": {
         "newPrice": 3990,
@@ -273,7 +295,7 @@
     },
     {
       "seller": "happyfalcon-022db2",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "airpods4代 降噪版 保固内",
       "price": 2500,
       "condition": "Like new",
@@ -283,7 +305,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 17:38",
+      "listedAt": "05/11 17:40",
       "pid": "1437311185",
       "verified": {
         "newPrice": 5990,
@@ -295,7 +317,7 @@
     },
     {
       "seller": "brightforest-a34466",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "AirPods4代 降噪版在保",
       "price": 2500,
       "condition": "Like new",
@@ -305,7 +327,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 17:38",
+      "listedAt": "05/11 17:40",
       "pid": "1437306732",
       "verified": {
         "newPrice": 5990,
@@ -317,7 +339,7 @@
     },
     {
       "seller": "suusunhope",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "Apple Watch s7 45mm",
       "price": 4500,
       "condition": "Lightly used",
@@ -327,7 +349,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 19:38",
+      "listedAt": "05/11 19:40",
       "pid": "1437325861",
       "verified": {
         "newPrice": 12900,
@@ -339,17 +361,17 @@
     },
     {
       "seller": "ginaaaaaa",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Marshall Kilburn II 藍牙音響",
       "price": 5000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1437318449/",
-      "category": "音響耳機",
-      "maxDays": 3,
+      "category": "音響",
+      "maxDays": 5,
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 18:38",
+      "listedAt": "05/11 18:40",
       "pid": "1437318449",
       "verified": {
         "newPrice": 11900,
@@ -361,7 +383,7 @@
     },
     {
       "seller": "aurora520yuki",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "Airpods pro 2 USB-C 看敘述！",
       "price": 3500,
       "condition": "Lightly used",
@@ -371,7 +393,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 20:38",
+      "listedAt": "05/11 20:40",
       "pid": "1437335537",
       "verified": {
         "newPrice": 6363,
@@ -810,7 +832,7 @@
     },
     {
       "seller": "vybzlin",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "SONY WF-LS910N 無線降噪藍牙耳機 入耳式藍牙耳機 真無線耳機 台灣公司貨",
       "price": 4300,
       "condition": "Brand new",
@@ -820,7 +842,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/12 00:38",
+      "listedAt": "05/12 00:40",
       "pid": "1437380911",
       "verified": {
         "newPrice": 6490,
@@ -832,7 +854,7 @@
     },
     {
       "seller": "poctor",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Apple Airpods pro 2代 ( Lightning 版本 )",
       "price": 2800,
       "condition": "Lightly used",
@@ -842,7 +864,7 @@
       "priceStr": "NT$2,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 23:38",
+      "listedAt": "05/11 23:40",
       "pid": "1437371512",
       "verified": {
         "newPrice": 6890,
@@ -854,7 +876,7 @@
     },
     {
       "seller": "peach999",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "SONY 24-105mm F4 G",
       "price": 17000,
       "condition": "Like new",
@@ -864,7 +886,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/12 00:38",
+      "listedAt": "05/12 00:40",
       "pid": "1434412415",
       "verified": {
         "newPrice": 31500,
@@ -876,7 +898,7 @@
     },
     {
       "seller": "ao1995",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "富士 Fujifilm XF 56mm F1.2 R 鏡頭 人像神鏡 『日本製』 Fuji",
       "price": 14500,
       "condition": "Like new",
@@ -886,7 +908,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/12 00:38",
+      "listedAt": "05/12 00:40",
       "pid": "1437382542",
       "verified": {
         "newPrice": 25000,
@@ -894,6 +916,50 @@
         "note": "Fujifilm XF 56mm F1.2 R 一代日本製停產 $14,500 = 58% 新品末期 $25,000 / 112% 二手中位 $13,000. 一代停產收藏向, 二手中位上緣, 要看實品成色與配件"
       },
       "vsNew": 58,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "warmriver.7c21ce",
+      "timeAgo": "3 days ago",
+      "title": "Bose sound link puls",
+      "price": 8000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1430296091/",
+      "category": "音響",
+      "maxDays": 5,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 04:40",
+      "pid": "1430296091",
+      "verified": {
+        "newPrice": 11900,
+        "secondhand": null,
+        "note": "Bose SoundLink「Pulse」$8,000 - 型號是錯字, 可能 Revolve/Revolve+ II/2025 新 Plus. 對舊款 Revolve(二手 $3-5K)偏貴, 對新 Plus($8-9K) 剛好. 67% Revolve+ II 公司貨 $11,900. 看實物 sticker"
+      },
+      "vsNew": 67,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "aris_26144",
+      "timeAgo": "55 minutes ago",
+      "title": "[Nikon] Z fc 無反光鏡相機",
+      "price": 18000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437392906/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$18,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/12 03:45",
+      "pid": "1437392906",
+      "verified": {
+        "newPrice": 28500,
+        "secondhand": null,
+        "note": "Nikon Z fc $18,000. body only=72% 新品 $25K/二手 $16-18K, 含16-50kit=63% kit $28,500/二手 $21-24K. 標題未說含鏡頭, 需確認是否含 16-50 kit + 快門數"
+      },
+      "vsNew": 63,
       "vsSecondhand": null
     }
   ]

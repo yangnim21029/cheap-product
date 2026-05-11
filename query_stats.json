@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 5450,
-    "recentTotal": 1573,
+    "total": 5498,
+    "recentTotal": 1589,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:24:47.603Z"
+    "lastSeen": "2026-05-11T20:24:50.546Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,16 +18,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 5554,
-    "recentTotal": 1549,
+    "total": 5602,
+    "recentTotal": 1561,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T14:25:24.126Z"
+    "lastSeen": "2026-05-11T20:25:21.747Z"
   },
   "投影機": {
-    "total": 5694,
-    "recentTotal": 1392,
+    "total": 5742,
+    "recentTotal": 1400,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T16:24:51.206Z"
+    "lastSeen": "2026-05-11T20:25:50.703Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 5371,
-    "recentTotal": 231,
+    "total": 5419,
+    "recentTotal": 233,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:26:14.774Z"
+    "lastSeen": "2026-05-11T20:27:03.098Z"
   },
   "nespresso": {
     "total": 475,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 5319,
-    "recentTotal": 1621,
+    "total": 5367,
+    "recentTotal": 1632,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T16:26:35.609Z"
+    "lastSeen": "2026-05-11T20:27:28.844Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -102,22 +102,22 @@
     "lastSeen": "2026-05-11T18:25:42.934Z"
   },
   "VR": {
-    "total": 5495,
-    "recentTotal": 354,
+    "total": 5543,
+    "recentTotal": 355,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:27:10.233Z"
+    "lastSeen": "2026-05-11T20:28:25.260Z"
   },
   "喇叭": {
-    "total": 5011,
-    "recentTotal": 1911,
+    "total": 5059,
+    "recentTotal": 1921,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:25:14.366Z"
+    "lastSeen": "2026-05-11T20:26:14.052Z"
   },
   "音響": {
-    "total": 5323,
-    "recentTotal": 1433,
+    "total": 5371,
+    "recentTotal": 1447,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T16:25:14.477Z"
+    "lastSeen": "2026-05-11T20:26:38.133Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 5240,
-    "recentTotal": 316,
+    "total": 5288,
+    "recentTotal": 318,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:26:44.814Z"
+    "lastSeen": "2026-05-11T20:27:56.334Z"
   },
   "帳篷": {
     "total": 1239,
@@ -138,22 +138,22 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 4893,
-    "recentTotal": 4616,
+    "total": 4941,
+    "recentTotal": 4664,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:31:00.868Z"
+    "lastSeen": "2026-05-11T20:31:05.634Z"
   },
   "露營": {
-    "total": 3705,
-    "recentTotal": 1120,
+    "total": 3753,
+    "recentTotal": 1127,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:27:37.721Z"
+    "lastSeen": "2026-05-11T20:28:54.189Z"
   },
   "地毯": {
-    "total": 3550,
-    "recentTotal": 508,
+    "total": 3598,
+    "recentTotal": 512,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:28:01.044Z"
+    "lastSeen": "2026-05-11T20:29:20.107Z"
   },
   "相機機身": {
     "total": 1188,
@@ -174,10 +174,10 @@
     "lastSeen": "2026-05-11T14:28:39.803Z"
   },
   "手沖": {
-    "total": 1685,
-    "recentTotal": 315,
+    "total": 1733,
+    "recentTotal": 320,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:29:09.729Z"
+    "lastSeen": "2026-05-11T20:29:50.527Z"
   },
   "磨豆機": {
     "total": 2062,
@@ -186,10 +186,10 @@
     "lastSeen": "2026-05-11T18:28:47.505Z"
   },
   "除濕機": {
-    "total": 432,
-    "recentTotal": 57,
+    "total": 480,
+    "recentTotal": 58,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T14:30:06.226Z"
+    "lastSeen": "2026-05-11T20:30:14.635Z"
   },
   "dji": {
     "total": 712,
@@ -198,10 +198,10 @@
     "lastSeen": "2026-05-11T14:30:36.956Z"
   },
   "insta360": {
-    "total": 660,
-    "recentTotal": 151,
+    "total": 708,
+    "recentTotal": 164,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T18:29:32.101Z"
+    "lastSeen": "2026-05-11T20:30:42.976Z"
   },
   "果汁機": {
     "total": 96,

@@ -213,6 +213,15 @@
     "note": "Samsung Buds3 FE 2025/9 上市新品$3,990。$2,290=57%新品折43%, 機身才7個月積極定價需驗真偽",
     "source": "web search 2026-05-05"
   },
+  "1430284217": {
+    "skip": true,
+    "note": "Blur The Ballad of Darren 黑膠 $800. 標準黑膠台灣新品 $697-980, 蝦皮 $697, 二手 $500-700. 對標準黑沒折扣(94% 新品). 除非 Red/Picture Disc 限定版才算好貨, 但賣家標題不清, 預設標準黑 SKIP"
+  },
+  "1430296091": {
+    "newPrice": 11900,
+    "secondhand": null,
+    "note": "Bose SoundLink「Pulse」$8,000 - 型號是錯字, 可能 Revolve/Revolve+ II/2025 新 Plus. 對舊款 Revolve(二手 $3-5K)偏貴, 對新 Plus($8-9K) 剛好. 67% Revolve+ II 公司貨 $11,900. 看實物 sticker"
+  },
   "1430311333": {
     "newPrice": 5990,
     "secondhand": null,
@@ -2766,6 +2775,11 @@
     "skip": true,
     "note": "Love Is In The Air 1-6 集合輯 1995 wuwangwo.shop 二手CD店家"
   },
+  "1437371226": {
+    "newPrice": 5900,
+    "secondhand": null,
+    "note": "Coway 空氣清淨機 $1,000 標題缺型號. 17% 新品 $5,900 (AP-1019C 入門款基準). 數字甜但型號黑盒, 風險: 壞掉/缺濾網/AP-1008 舊型. 開連結確認型號+濾網狀況"
+  },
   "1437371512": {
     "newPrice": 6890,
     "secondhand": null,
@@ -2865,5 +2879,30 @@
   "1437390400": {
     "skip": true,
     "note": "SK Japan 特別週草上飛娃 賽馬娘公仔 收藏非需求"
+  },
+  "1437390472": {
+    "skip": true,
+    "note": "Boss MT-2 Metal Zone 金屬破音效果器 momi_guitar 樂器商家"
+  },
+  "1437390737": {
+    "skip": true,
+    "note": "MXR Super Badass M75 破音效果器 momi_guitar 樂器商家"
+  },
+  "1437390994": {
+    "skip": true,
+    "note": "Boss CE-5 Chorus Ensemble 合聲效果器 momi_guitar 樂器商家"
+  },
+  "1437391483": {
+    "skip": true,
+    "note": "Ibanez CF7 Chorus/Flanger 效果器 momi_guitar 樂器商家"
+  },
+  "1437391770": {
+    "skip": true,
+    "note": "Fender Short Scale Player Modern Telecaster White 電吉他 $15,800 momi_guitar 樂器商家(已加shops)"
+  },
+  "1437392906": {
+    "newPrice": 28500,
+    "secondhand": null,
+    "note": "Nikon Z fc $18,000. body only=72% 新品 $25K/二手 $16-18K, 含16-50kit=63% kit $28,500/二手 $21-24K. 標題未說含鏡頭, 需確認是否含 16-50 kit + 快門數"
   }
 }
