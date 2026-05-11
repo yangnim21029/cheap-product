@@ -2327,6 +2327,10 @@
     "skip": true,
     "note": "高雄世運5/30 門票 非需求"
   },
+  "1437305798": {
+    "skip": true,
+    "note": "Apple Watch S3 $1,200 — 機型停產進vintage, 無法升 watchOS 11, 回收商已不收, 電子垃圾邊緣"
+  },
   "1437306732": {
     "newPrice": 5990,
     "secondhand": null,
@@ -2381,5 +2385,52 @@
   "1437317916": {
     "skip": true,
     "note": "Thousand sunny by mike figure 公仔 非需求"
+  },
+  "1437318449": {
+    "newPrice": 11900,
+    "secondhand": null,
+    "note": "Marshall Kilburn II $5,000 = 42% 新品 $11,900, 二手中位 $7-9K. ⚠ Mobile01/Dcard/小紅書 仿冒重災區, 必須當面驗序號/皮革/LED/原始發票"
+  },
+  "1437319400": {
+    "skip": true,
+    "note": "ONE PIECE CHOPPER 海賊王卡片 EB02-003 周邊非需求"
+  },
+  "1437325861": {
+    "newPrice": 12900,
+    "secondhand": null,
+    "note": "Apple Watch S7 45mm $4,500 標題缺GPS/LTE 與電池健康度. 35% 原價 $12,900. GPS 二手中位 $4,000(=113%) / LTE $5,100(=88%) 邊緣, 缺資訊"
+  },
+  "1437327666": {
+    "skip": true,
+    "note": "Super Junior 20th MD 情人節周邊 K-pop非需求"
+  },
+  "1437332055": {
+    "skip": true,
+    "note": "ISVA-I360 4/4 小提琴新手琴 非清單樂器"
+  },
+  "1437332181": {
+    "skip": true,
+    "note": "中華民國35年老台幣壹佰圓 4張連號 同 tinaviggo 古錢幣非需求"
+  },
+  "1437332270": {
+    "skip": true,
+    "note": "Karajan 卡拉揚 1957 Salzburg 紀實 古典CD非需求"
+  },
+  "1437335537": {
+    "newPrice": 6363,
+    "secondhand": null,
+    "note": "AirPods Pro 2 USB-C 看敘述 $3,500 = 55% 蝦皮全國電子 $6,363. 標題「看敘述！」可能單耳/降噪壞/水貨, 需讀敘述判定"
+  },
+  "1437336174": {
+    "skip": true,
+    "note": "旋轉芭蕾舞者音樂盒 $16,200 賣家 warehouse.AA(id含warehouse倉庫嫌疑) 古玩非需求"
+  },
+  "1437336772": {
+    "skip": true,
+    "note": "中華民國35年老台幣壹佰圓 4張 鴻兔小舖 連續多輪 古錢幣非需求"
+  },
+  "1437336780": {
+    "skip": true,
+    "note": "YAMAHA PSR-S970 編曲鍵盤工作站 $15K 非清單樂器(KNOWN_DEAL_BRANDS 無 YAMAHA Psr)"
   }
 }
