@@ -6,20 +6,24 @@ const fs = require('fs');
 // 維護方式：每次有新 deal 進清單時，把品牌加進這個 set
 const KNOWN_DEAL_BRANDS = new Set([
   // 耳機 / 喇叭
-  'marshall', 'sony wh', 'sony xm', 'b&o', 'beoplay', 'bose', 'audio-technica', 'sennheiser',
-  'edifier', 'shokz', 'jbl', 'akg', 'philips tah', 'huawei freeclip', 'apple airpods',
+  'marshall', 'sony wh', 'sony xm', 'sony linkbuds', 'b&o', 'beoplay', 'bose', 'audio-technica',
+  'sennheiser', 'edifier', 'shokz', 'jbl', 'akg', 'philips tah', 'huawei freeclip',
+  'apple airpods', 'logitech g pro', '羅技 g pro',
   // 相機 / 攝影
-  'fujifilm', 'fuji x-', 'fuji xf', 'sony a6', 'sony a7', 'canon r', 'nikon z', 'leica',
-  'zeiss', 'sigma', 'tamron', 'lomo', 'dji', 'gopro', 'insta360', 'panasonic g',
+  'fujifilm', 'fuji x-', 'fuji xf', 'fuji x100', 'sony a6', 'sony a7', 'sony zv', 'canon r',
+  'canon m6', 'canon eos', 'nikon z', 'nikon af-s', 'leica', 'zeiss', 'sigma', 'tamron', 'tokina',
+  'lomo', 'dji', 'gopro', 'insta360', 'panasonic g', 'panasonic fz',
   // 投影機 / 影音
-  'epson ef', 'xgimi', 'benq gv', 'onkyo',
+  'epson ef', 'xgimi', 'benq gv', 'onkyo', 'sega homestar', 'teac tn',
+  // 除濕機 / 家電
+  'whirlpool', 'mitsubishi mj', '三菱 mj', 'hitachi rd', '日立 rd', 'panasonic f-y', '國際牌',
   // 咖啡器具
   'fellow opus', '1zpresso', 'wilfa', 'acaia', 'comandante', 'hario', 'bodum', 'brewista',
   '飛馬', 'snow peak',
   // MIDI / 樂器
-  'akai mpk', 'arturia keylab', 'novation launchkey',
+  'akai mpk', 'arturia keylab', 'novation launchkey', 'm-audio code',
   // 居家
-  'marimekko', 'wedgwood', 'iittala',
+  'marimekko', 'wedgwood', 'iittala', 'oakley',
   // 其他
   'apple watch s', 'honeywell hpa', 'honeywell hap', 'beurer', '未來實驗室',
 ]);

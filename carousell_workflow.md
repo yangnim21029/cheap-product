@@ -94,13 +94,25 @@ README 只顯示**新發現的未看過商品**。沒有新貨時顯示「本輪
 2. `node process.js` — 過濾比價，看輸出筆數和跳過數
 3. 掃結果 — 有沒有垃圾混入、店家漏網
 4. **自動查新賣家**（不要列清單給 Rose 看）— 把本輪有 ≥2 筆掛單的新賣家送 subagent 分類，結果寫進 sellers.json，下輪自動過濾。單筆掛單個人賣家不查（CP 值低）
-5. 查行情 — 用 subagent web search 確認，更新 verified_prices.json
+5. **驗證機制**（重要）— 對 README 顯示的「待查」必須清零：
+   - 看 `need_verify.json` 列表（process.js 自動產生）
+   - 整批 SKIP：明顯非 Rose 需求（收藏品/演唱會周邊/古玩/CD/扭蛋）+ 賣家標題太籠統（型號未明）
+   - 剩餘批次 subagent 驗證（一批 5-15 筆，每筆精簡 1-2 行 note）
+   - subagent 查到二手中位 → 殺價/好貨 自動分類
+   - subagent 查不到二手中位（secondhand=null）+ ≤70% new + ≥$2K → 「手動」分類（Rose 親自看）
+   - 其他都標 skip:true 進 verified_prices.json + 加進 seen_ids
+   - 跑完後 README 應顯示「待查 0」
 6. **觀察新方向**（重要）— 兩種訊號：
    - (a) 跑 `node auto_query_suggest.js`：自動找雜訊裡「過去進過 deal 同品牌 ≥2 次」但不在 QUERIES 的品牌（dji/insta360 這類）
    - (b) 手動掃 raw_results 雜訊：挑出頻繁出現的全新品類（不在 deal 歷史的）
    - 兩者都 append 到 `suggestions.md`，明顯訊號（同品牌 ≥3 次）直接加進 scrape.js QUERIES
-7. `git push` + 更新 Gist
-8. 報告給 Rose（簡短：好貨/殺價/手動數，新方向觀察一兩句，賣家分類自動做不報告）
+7. **歸檔時更新 KNOWN_DEAL_BRANDS**（重要）— Rose 說「都看完了」執行 `node mark_seen.js` 前後：
+   - 掃 verified_prices.json 中本批進手動/殺價/好貨的條目（非 skip:true）
+   - 抽取品牌關鍵字（Tokina / SEGA Homestar / Whirlpool / 三菱 MJ 等）
+   - 加進 `auto_query_suggest.js` 的 `KNOWN_DEAL_BRANDS` set
+   - 下輪自動 query suggest 會涵蓋這些新品牌
+8. `git push` + 更新 Gist
+9. 報告給 Rose（簡短：好貨/殺價/手動數，新方向觀察一兩句，賣家分類自動做不報告）
 
 **不要做的事：**
 - 不要 `rm seen_ids.json`（會讓已看商品重複出現）
