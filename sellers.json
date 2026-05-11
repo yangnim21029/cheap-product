@@ -2,73 +2,301 @@
   "shops": {
     "_comment": "二手連鎖店=行情基準，直接排除",
     "accounts": [
-      {"id": "change12336", "name": "澄橘", "note": "專業二手3C"},
-      {"id": "elba_digital888", "name": "艾爾巴", "note": "全台連鎖"},
-      {"id": "phone_recycle", "name": "瘋回收", "note": "板橋實體店"},
-      {"id": "chan_850725", "name": "蘆洲店A", "note": "跟chineming03同店"},
-      {"id": "chineming03", "name": "蘆洲店B", "note": "跟chan_850725同店"},
-      {"id": "phoneshop", "name": "典藏奇機", "note": "展示機出清"},
-      {"id": "guoguo.shop", "name": "果果", "note": "iPad專賣"},
-      {"id": "joycely.yang", "name": "二手通路", "note": "量大"},
-      {"id": "wei3cphone", "name": "wei3c", "note": "3C店"},
-      {"id": "kp3c.", "name": "kp3c", "note": "台中3C店"},
-      {"id": "apple3054", "name": "apple3054", "note": "Apple專賣"},
-      {"id": "s0905177699", "name": "百豐悅二手家電", "note": "台北二手家電店"},
-      {"id": "winson999888", "name": "蒐機王", "note": "3C店,全Heavily used"},
-      {"id": "roosterburger.taiwan", "name": "公雞漢堡", "note": "老物/古著雜貨店,105單11年,賣CD/飾品/老品燈"},
-      {"id": "shelly_0909", "name": "香榭二手家具", "note": "台中實體二手家具店,0單7年"},
-      {"id": "linmarc0413", "name": "linmarc0413", "note": "古董收藏品賣家"},
-      {"id": "goodcloud", "name": "好物雲3C", "note": "3C店, AW S8 $4,200"},
-      {"id": "yungda23863666", "name": "永達二手傢俱", "note": "二手傢俱店"},
-      {"id": "qzy8653", "name": "qzy8653(批量)", "note": "編號NO:開頭, 同 yuan712 模式"},
-      {"id": "marc_vintage_collection", "name": "marc_vintage_collection", "note": "vintage收藏品店,賣老物招牌燈箱"},
-      {"id": "stevecho", "name": "stevecho", "note": "audiophile downsizer, 多筆不同品牌音響/喇叭"},
-      {"id": "noble_a5768549", "name": "noble_a5768549", "note": "批量賣家, 同時上多筆露營車/沙發/幕布等generic"},
-      {"id": "carrot_chen", "name": "carrot_chen", "note": "637單/561評/10年/賣手機平板手錶=3C小店"},
-      {"id": "jo1133", "name": "有玉有藝術品", "note": "11y/3評/玉翡翠專賣『周姐翡翠特價回饋』前綴, 小規模玉商"},
-      {"id": "221tgron", "reviews": 10, "joined": "7y9m", "name": "桃園二手家具 【預約制】王小姐", "note": "桃園實體預約制二手家具家電倉儲, 0916-401-314, 商品全『桃園二手家具/家電』前綴"},
-      {"id": "mai_camera", "name": "mai_camera", "note": "5+筆Sony系列水貨/公司貨(A7III/A7C/ZV-1/20-70mm/70-200mm), id含_camera=相機水貨店, 定價貼齊二手中位"},
-      {"id": "shih0205", "name": "shih0205", "note": "多筆相機(Canon 800D/70D/EF-M鏡頭), 多型號=相機店"},
-      {"id": "cameradoge", "name": "cameradoge", "note": "Contax G28 Zeiss老鏡定價$28K=二手中位2倍, id含camera, 高價老鏡 dealer"},
-      {"id": "filmcamera.kao", "name": "filmcamera.kao", "note": "LOMO LC-A+木盒限量版, id含filmcamera = 底片相機收藏店"},
-      {"id": "goose.store", "name": "goose.store", "note": "Sony A6000+28-70KIT(誤組合), id含.store"},
-      {"id": "sam681008", "name": "sam681008", "note": "連續多輪上 6+ 筆中信兄弟/樂天桃猿扭蛋簽名周邊, 棒球收藏品店家"},
-      {"id": "keenphoenix-b9f308", "name": "keenphoenix-b9f308", "note": "連續上樂器(MG-300效果器/Bensons貝斯/Ibanez電吉他), 樂器店家"},
-      {"id": "a556555s", "name": "a556555s", "note": "連續上多筆藏密天珠/硨磲手鍊(編號W001-W006), 收藏品商家"},
-      {"id": "chitt37", "name": "chitt37", "note": "連 3+ 筆 GD權志龍 G-DRAGON 周邊(手燈/帽/官方周邊), K-pop 周邊店家"},
-      {"id": "mason7667", "name": "mason7667", "note": "連 4+ 筆 DJI Mavic Air 不同顏色+RC-N1 遙控器, 二手精品/空拍機店家"}
+      {
+        "id": "change12336",
+        "name": "澄橘",
+        "note": "專業二手3C"
+      },
+      {
+        "id": "elba_digital888",
+        "name": "艾爾巴",
+        "note": "全台連鎖"
+      },
+      {
+        "id": "phone_recycle",
+        "name": "瘋回收",
+        "note": "板橋實體店"
+      },
+      {
+        "id": "chan_850725",
+        "name": "蘆洲店A",
+        "note": "跟chineming03同店"
+      },
+      {
+        "id": "chineming03",
+        "name": "蘆洲店B",
+        "note": "跟chan_850725同店"
+      },
+      {
+        "id": "phoneshop",
+        "name": "典藏奇機",
+        "note": "展示機出清"
+      },
+      {
+        "id": "guoguo.shop",
+        "name": "果果",
+        "note": "iPad專賣"
+      },
+      {
+        "id": "joycely.yang",
+        "name": "二手通路",
+        "note": "量大"
+      },
+      {
+        "id": "wei3cphone",
+        "name": "wei3c",
+        "note": "3C店"
+      },
+      {
+        "id": "kp3c.",
+        "name": "kp3c",
+        "note": "台中3C店"
+      },
+      {
+        "id": "apple3054",
+        "name": "apple3054",
+        "note": "Apple專賣"
+      },
+      {
+        "id": "s0905177699",
+        "name": "百豐悅二手家電",
+        "note": "台北二手家電店"
+      },
+      {
+        "id": "winson999888",
+        "name": "蒐機王",
+        "note": "3C店,全Heavily used"
+      },
+      {
+        "id": "roosterburger.taiwan",
+        "name": "公雞漢堡",
+        "note": "老物/古著雜貨店,105單11年,賣CD/飾品/老品燈"
+      },
+      {
+        "id": "shelly_0909",
+        "name": "香榭二手家具",
+        "note": "台中實體二手家具店,0單7年"
+      },
+      {
+        "id": "linmarc0413",
+        "name": "linmarc0413",
+        "note": "古董收藏品賣家"
+      },
+      {
+        "id": "goodcloud",
+        "name": "好物雲3C",
+        "note": "3C店, AW S8 $4,200"
+      },
+      {
+        "id": "yungda23863666",
+        "name": "永達二手傢俱",
+        "note": "二手傢俱店"
+      },
+      {
+        "id": "qzy8653",
+        "name": "qzy8653(批量)",
+        "note": "編號NO:開頭, 同 yuan712 模式"
+      },
+      {
+        "id": "marc_vintage_collection",
+        "name": "marc_vintage_collection",
+        "note": "vintage收藏品店,賣老物招牌燈箱"
+      },
+      {
+        "id": "stevecho",
+        "name": "stevecho",
+        "note": "audiophile downsizer, 多筆不同品牌音響/喇叭"
+      },
+      {
+        "id": "noble_a5768549",
+        "name": "noble_a5768549",
+        "note": "批量賣家, 同時上多筆露營車/沙發/幕布等generic"
+      },
+      {
+        "id": "carrot_chen",
+        "name": "carrot_chen",
+        "note": "637單/561評/10年/賣手機平板手錶=3C小店"
+      },
+      {
+        "id": "jo1133",
+        "name": "有玉有藝術品",
+        "note": "11y/3評/玉翡翠專賣『周姐翡翠特價回饋』前綴, 小規模玉商"
+      },
+      {
+        "id": "221tgron",
+        "reviews": 10,
+        "joined": "7y9m",
+        "name": "桃園二手家具 【預約制】王小姐",
+        "note": "桃園實體預約制二手家具家電倉儲, 0916-401-314, 商品全『桃園二手家具/家電』前綴"
+      },
+      {
+        "id": "mai_camera",
+        "name": "mai_camera",
+        "note": "5+筆Sony系列水貨/公司貨(A7III/A7C/ZV-1/20-70mm/70-200mm), id含_camera=相機水貨店, 定價貼齊二手中位"
+      },
+      {
+        "id": "shih0205",
+        "name": "shih0205",
+        "note": "多筆相機(Canon 800D/70D/EF-M鏡頭), 多型號=相機店"
+      },
+      {
+        "id": "cameradoge",
+        "name": "cameradoge",
+        "note": "Contax G28 Zeiss老鏡定價$28K=二手中位2倍, id含camera, 高價老鏡 dealer"
+      },
+      {
+        "id": "filmcamera.kao",
+        "name": "filmcamera.kao",
+        "note": "LOMO LC-A+木盒限量版, id含filmcamera = 底片相機收藏店"
+      },
+      {
+        "id": "goose.store",
+        "name": "goose.store",
+        "note": "Sony A6000+28-70KIT(誤組合), id含.store"
+      },
+      {
+        "id": "sam681008",
+        "name": "sam681008",
+        "note": "連續多輪上 6+ 筆中信兄弟/樂天桃猿扭蛋簽名周邊, 棒球收藏品店家"
+      },
+      {
+        "id": "keenphoenix-b9f308",
+        "name": "keenphoenix-b9f308",
+        "note": "連續上樂器(MG-300效果器/Bensons貝斯/Ibanez電吉他), 樂器店家"
+      },
+      {
+        "id": "a556555s",
+        "name": "a556555s",
+        "note": "連續上多筆藏密天珠/硨磲手鍊(編號W001-W006), 收藏品商家"
+      },
+      {
+        "id": "chitt37",
+        "name": "chitt37",
+        "note": "連 3+ 筆 GD權志龍 G-DRAGON 周邊(手燈/帽/官方周邊), K-pop 周邊店家"
+      },
+      {
+        "id": "mason7667",
+        "name": "mason7667",
+        "note": "連 4+ 筆 DJI Mavic Air 不同顏色+RC-N1 遙控器, 二手精品/空拍機店家"
+      },
+      {
+        "id": "andytung401",
+        "name": "andytung401",
+        "note": "同日連4筆Sony系統(a6000機身+SEL1670Z+FE50/1.8+SEL55210), 同款價型, 相機商家清貨型態"
+      }
     ]
   },
   "resellers": {
     "_comment": "批量賣家/代購，不排除但標記⚠",
     "accounts": [
-      {"id": "lover.perfume", "orders": 136, "reviews": 185, "joined": "10y6m", "note": "香水批量,136單有成交,定價合理但量大"},
-      {"id": "margaret.sshop", "note": "香水代購"},
-      {"id": "m1413", "note": "古董香水瓶賣家"},
-      {"id": "bravedeer.829ec6", "note": "小眾香水批量"},
-      {"id": "pfg011370324", "note": "同時賣多支Dyson吹風機"},
-      {"id": "yuan712", "note": "二手家電量大，編號NO:開頭"},
-      {"id": "ViFi77", "joined": "3y5m", "note": "Apm純銀批量9+件+巴黎世家款韓國代購, 3.5y零評零成交"},
-      {"id": "hank0720", "orders": 366, "reviews": 232, "joined": "9y5m", "note": "366單9年5.0星, 全Brand new多品類(髮品/電子/球拍), 量級像批量代購"}
+      {
+        "id": "lover.perfume",
+        "orders": 136,
+        "reviews": 185,
+        "joined": "10y6m",
+        "note": "香水批量,136單有成交,定價合理但量大"
+      },
+      {
+        "id": "margaret.sshop",
+        "note": "香水代購"
+      },
+      {
+        "id": "m1413",
+        "note": "古董香水瓶賣家"
+      },
+      {
+        "id": "bravedeer.829ec6",
+        "note": "小眾香水批量"
+      },
+      {
+        "id": "pfg011370324",
+        "note": "同時賣多支Dyson吹風機"
+      },
+      {
+        "id": "yuan712",
+        "note": "二手家電量大，編號NO:開頭"
+      },
+      {
+        "id": "ViFi77",
+        "joined": "3y5m",
+        "note": "Apm純銀批量9+件+巴黎世家款韓國代購, 3.5y零評零成交"
+      },
+      {
+        "id": "hank0720",
+        "orders": 366,
+        "reviews": 232,
+        "joined": "9y5m",
+        "note": "366單9年5.0星, 全Brand new多品類(髮品/電子/球拍), 量級像批量代購"
+      }
     ]
   },
   "overpriced": {
     "_comment": "定價偏高/賣不動，排除。Bumped=付費置頂但賣不掉",
     "accounts": [
-      {"id": "maxwilliam", "orders": 330, "reviews": 201, "joined": "5m13d", "note": "Bose全線Bumped賣不動,330單但音響類定價高於市場"}
+      {
+        "id": "maxwilliam",
+        "orders": 330,
+        "reviews": 201,
+        "joined": "5m13d",
+        "note": "Bose全線Bumped賣不動,330單但音響類定價高於市場"
+      }
     ]
   },
   "trusted": {
     "_comment": "已確認的個人賣家",
     "accounts": [
-      {"id": "zzz9121", "orders": 16, "reviews": 7, "joined": "1y1m", "note": "個人出清,VW絲巾$500全新含收據,可信"},
-      {"id": "tedhuang0826", "orders": 66, "reviews": 38, "joined": "3y7m", "note": "4.8星,太陽眼鏡+外套+短T多元出清"},
-      {"id": "jazw__", "orders": 72, "reviews": 30, "joined": "10y5m", "note": "5.0星,女裝多品牌出清(VW/Tod's/Uniqlo)"},
-      {"id": "cdyuuu", "orders": 88, "reviews": 71, "joined": "9y2m", "note": "5.0星,個人精品收藏家,emoji碼標題,只接轉帳不議價"},
-      {"id": "kk4401", "reviews": 1, "joined": "3y6m", "note": "K-pop小卡盤出(I-DLE/SKZ/TXT)+保養品個人出清"},
-      {"id": ".celine.", "reviews": 1, "joined": "11y1m", "note": "精品斷捨離(Chanel/LV/Celine/YSL/Loewe)限面交"},
-      {"id": "clevertree-c694", "reviews": 2, "joined": "5m3d", "note": "新號雜物多元出清(京劇油畫/翻頁鐘/字帖)"},
-      {"id": "william86050", "reviews": 2, "joined": "3y", "note": "5/5星已驗證, LV/Fendi精品配件個人賣家, 量少評價佳"}
+      {
+        "id": "zzz9121",
+        "orders": 16,
+        "reviews": 7,
+        "joined": "1y1m",
+        "note": "個人出清,VW絲巾$500全新含收據,可信"
+      },
+      {
+        "id": "tedhuang0826",
+        "orders": 66,
+        "reviews": 38,
+        "joined": "3y7m",
+        "note": "4.8星,太陽眼鏡+外套+短T多元出清"
+      },
+      {
+        "id": "jazw__",
+        "orders": 72,
+        "reviews": 30,
+        "joined": "10y5m",
+        "note": "5.0星,女裝多品牌出清(VW/Tod's/Uniqlo)"
+      },
+      {
+        "id": "cdyuuu",
+        "orders": 88,
+        "reviews": 71,
+        "joined": "9y2m",
+        "note": "5.0星,個人精品收藏家,emoji碼標題,只接轉帳不議價"
+      },
+      {
+        "id": "kk4401",
+        "reviews": 1,
+        "joined": "3y6m",
+        "note": "K-pop小卡盤出(I-DLE/SKZ/TXT)+保養品個人出清"
+      },
+      {
+        "id": ".celine.",
+        "reviews": 1,
+        "joined": "11y1m",
+        "note": "精品斷捨離(Chanel/LV/Celine/YSL/Loewe)限面交"
+      },
+      {
+        "id": "clevertree-c694",
+        "reviews": 2,
+        "joined": "5m3d",
+        "note": "新號雜物多元出清(京劇油畫/翻頁鐘/字帖)"
+      },
+      {
+        "id": "william86050",
+        "reviews": 2,
+        "joined": "3y",
+        "note": "5/5星已驗證, LV/Fendi精品配件個人賣家, 量少評價佳"
+      }
     ]
   }
 }
