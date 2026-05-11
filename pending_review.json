@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "xuanll93",
-      "timeAgo": "20 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Olympus OM-D E-M5 Mark II 銀黑(公司貨) +12mm F2(平輸)",
       "price": 19000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:20",
+      "listedAt": "05/11 12:43",
       "pid": "1437244363",
       "verified": {
         "newPrice": null,
@@ -26,8 +26,30 @@
   ],
   "negotiate": [
     {
+      "seller": "calmstar_03f7a0",
+      "timeAgo": "36 minutes ago",
+      "title": "《8成新》Insta360 X3",
+      "price": 7250,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1425956850/",
+      "category": "insta360",
+      "maxDays": 7,
+      "priceStr": "NT$7,250",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 14:07",
+      "pid": "1425956850",
+      "verified": {
+        "newPrice": 15129,
+        "secondhand": 8500,
+        "note": "Insta360 X3 8 成新 $7,250 = 中位 85% / 新品 48%, 配件保固未確認, 邊緣手動"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 85
+    },
+    {
       "seller": "blackcaicai",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "Canon R6 展示機 公司貨 原廠保存三個月",
       "price": 30000,
       "condition": "Like new",
@@ -37,7 +59,7 @@
       "priceStr": "NT$30,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 12:40",
+      "listedAt": "05/09 14:43",
       "pid": "1437002035",
       "verified": {
         "newPrice": 56880,
@@ -51,8 +73,30 @@
   ],
   "uncertain": [
     {
+      "seller": "lily_linlin",
+      "timeAgo": "3 minutes ago",
+      "title": "Marshall 耳機",
+      "price": 2500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437269271/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 14:40",
+      "pid": "1437269271",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Marshall 耳機 標題缺型號, 用最便宜款 Minor IV $3,990 估; $2,500=63% 新品, 開連結看圖判斷實際型號"
+      },
+      "vsNew": 63,
+      "vsSecondhand": null
+    },
+    {
       "seller": "materialgyal",
-      "timeAgo": "2 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Creative Aurvana Ace 2 真無線耳機｜全新未使用｜新加坡購入",
       "price": 2200,
       "condition": "Brand new",
@@ -62,7 +106,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:38",
+      "listedAt": "05/11 12:43",
       "pid": "1431201757",
       "verified": {
         "newPrice": 3590,

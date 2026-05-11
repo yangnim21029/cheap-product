@@ -1,612 +1,15 @@
 {
-  "1431201757": {
-    "newPrice": 3590,
+  "1418785420": {
+    "newPrice": 7480,
     "secondhand": null,
-    "note": "Creative Aurvana Ace 2 真無線 公司貨$3,590。$2,200=61% 進手動門檻 (新加坡購入全新未使用)",
-    "source": "web search 2026-05-11"
-  },
-  "1437244363": {
-    "newPrice": null,
-    "secondhand": 27000,
-    "note": "Olympus E-M5 II + 12mm F2 套組 二手中位$27,000。$19,000=70% → 殺價檻 殺幅$8K",
-    "source": "web search 2026-05-11"
-  },
-  "1437002035": {
-    "newPrice": 56880,
-    "secondhand": 36000,
-    "note": "Canon R6 展示機 公司貨$56,880 / 二手中位$36,000。$30,000=53%/83% → 殺價檻 展示機原廠保存3個月",
-    "source": "web search 2026-05-11"
-  },
-  "1437234622": {
-    "newPrice": 6490,
-    "secondhand": 5000,
-    "note": "Marshall Emberton III 白 公司貨$6,490 / 二手中位$5,000。$4,900=75%/98% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437191019": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Quadral Sub 600DV 重低音 二手資料稀, 非 Rose 需求 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1434178367": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "侏羅紀公園 刮鬍泡胚胎罐 收藏品非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1431143131": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "偶像公主三彈四星卡 球員卡風格收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437227698": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "PCGS PR69 民國91年馬年銀章 紀念幣收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437247094": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Ado 残夢 完全生產限定盤 2LP 黑膠收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437238353": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Sade Promise 黑膠收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437237257": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Sade 首張黑膠收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437228810": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Wagner Ring 完整套裝 Decca Solti 古典黑膠收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437227289": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Gibson Les Paul 電吉他弦 樂器配件非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437225726": {
-    "newPrice": null,
-    "secondhand": 26000,
-    "note": "Fujifilm X100F 銀 已停產 二手中位$26,000。$24,900=96% 過 90% 殺價門檻 SKIP (殺到≤$23K才值得)",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437193660": {
-    "newPrice": 6290,
-    "secondhand": null,
-    "note": "Fuji Mini Evo 含保固 公司貨$6,290。$6,800 高於新品 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437225840": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "手繪描金觀音菩薩畫像 收藏品非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437198966": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "PSA9 PTCG 船長皮卡丘 三星卡 球員卡收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437194588": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "文玩核桃 古玩收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437194264": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "義大利玉聚寶盆 風水擺件非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437192095": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "明代龍泉蓋盒 古董收藏非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437218764": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "二手立式電子琴 標題太籠統+非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437216664": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Tacet 真空管試音碟 1995 德國版 發燒友 CD 非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437207110": {
-    "newPrice": 10980,
-    "secondhand": 9000,
-    "note": "DJI Osmo Action 5 Pro 標準套裝 公司貨$10,980 / 二手中位$9,000。$7,500=68%/83% → 殺價檻",
-    "source": "web search 2026-05-11"
-  },
-  "1429789614": {
-    "newPrice": 4990,
-    "secondhand": null,
-    "note": "SONY LinkBuds Fit WF-LS910N 公司貨$4,990。$3,000=60% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437208452": {
-    "newPrice": 3800,
-    "secondhand": null,
-    "note": "Fender Mustang LT25 效果器 新品$3,500-4,500。$3,000=79% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437189284": {
-    "newPrice": null,
-    "secondhand": 4500,
-    "note": "SONY HDR-XR520 2009 停產 二手$4,500。$6,000 高於行情 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437210089": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "早期老木雕觀音 收藏品非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437198734": {
-    "newPrice": 25000,
-    "secondhand": null,
-    "note": "Bose Soundtouch 300 Soundbar 已停產 估原價$25,000。$4,000=16% → 好貨檻, ⚠ 已停產注意保固/連線",
-    "source": "web search 2026-05-11"
-  },
-  "1437202135": {
-    "newPrice": 5990,
-    "secondhand": null,
-    "note": "Marshall Emberton 一代 新品$5,890-5,990。$2,500=42% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1435810179": {
-    "newPrice": 4990,
-    "secondhand": null,
-    "note": "Insta360 Flow 2 Pro 公司貨$4,990。$3,000=60% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1436442716": {
-    "newPrice": 3900,
-    "secondhand": null,
-    "note": "Insta360 Ace Pro 2 微距鏡頭 港價HK$999≈NT$3,900。$2,800=72% 邊緣, 進手動可參考",
-    "source": "web search 2026-05-11"
-  },
-  "1437198901": {
-    "newPrice": 6000,
-    "secondhand": null,
-    "note": "M-Audio Code 25 MIDI 已停產 海外二手$199≈NT$6,000。$3,800=63% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437190042": {
-    "newPrice": 6290,
-    "secondhand": null,
-    "note": "DJI Neo 2 飛行器單機 $6,290。$5,100=81% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437034548": {
-    "newPrice": 12300,
-    "secondhand": null,
-    "note": "Insta360 X4 Air 入門套裝 $12,300。$10,000=81% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436291334": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Insta360 Selfie Stick 全新未拆 無基準 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436255677": {
-    "newPrice": 2990,
-    "secondhand": null,
-    "note": "Insta360 Snap 補光版 公司貨$2,990。$2,666=89% 僅省$324 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436085387": {
-    "newPrice": 3900,
-    "secondhand": null,
-    "note": "Insta360 Ace Pro 2 微距鏡頭 (同上款) $3,500=90% 比 #3 $2,800 還貴 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436076638": {
-    "newPrice": 14990,
-    "secondhand": null,
-    "note": "Insta360 Ace Pro 2 白 標準版$14,990。$20,800=139% 比新品還貴 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1435881795": {
-    "newPrice": null,
-    "secondhand": 7250,
-    "note": "Insta360 Ace Pro 一代 蝦皮二手$7,250。$9,600 明顯高於行情 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1425803817": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "新北燈會 線條小狗平安符 收藏品非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437200011": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "BLACKPINK LISA LALISA 黑膠 收藏專輯非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437182711": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Leaf 內馬爾簽名卡 球員卡收藏 非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437071856": {
-    "newPrice": 11900,
-    "secondhand": null,
-    "note": "JBL Partybox On-The-Go Essential 公司貨$11,900-18,800。$7,500=63% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437155494": {
-    "newPrice": 13400,
-    "secondhand": null,
-    "note": "Marshall Stanmore II 公司貨$13,400 (已停產). $8,000=60% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1436860785": {
-    "newPrice": 14900,
-    "secondhand": null,
-    "note": "BOSE Portable Smart Speaker 公司貨$14,900。$8,000=54% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437059488": {
-    "newPrice": 7491,
-    "secondhand": null,
-    "note": "Oakley Sutro TI OO6013 太陽眼鏡 PChome$7,491(MSRP$11,350)。$2,480=33% 進手動門檻 (露營query誤匹配實際是墨鏡)",
-    "source": "web search 2026-05-11"
-  },
-  "1437192132": {
-    "newPrice": 6000,
-    "secondhand": null,
-    "note": "Bose 耳塞式 (標題太籠統估QC一代$6,000) $4,200=70% 邊緣進手動, ⚠ 賣家未指明型號",
-    "source": "web search 2026-05-11"
-  },
-  "1437198332": {
-    "newPrice": 54000,
-    "secondhand": null,
-    "note": "Canon R8+Sigma 18-50/2.8+TT350c 套組估$54,000。$28,000=52% 省$26K 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437194984": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "方大同 回到未來 雙碟版 CD/DVD 收藏 非 Rose 需求 SKIP",
-    "source": "manual 2026-05-11",
-    "skip": true
-  },
-  "1437047709": {
-    "newPrice": 19900,
-    "secondhand": 11800,
-    "note": "Tokina AT-X PRO 11-20 F2.8 IF DX for Canon 新品$19,900 / 二手中位$11,800。$6,300=32%/53% → 好貨檻雙重通過",
-    "source": "web search 2026-05-11"
-  },
-  "1437006261": {
-    "newPrice": null,
-    "secondhand": 21000,
-    "note": "Canon EOS M6 Mark II 已停產 二手中位$21,000。$13,500=64% 二手 → 好貨檻 (≤70%二手), ⚠ EOS M 卡口已棄用注意零件支援",
-    "source": "web search 2026-05-11"
-  },
-  "1430810959": {
-    "newPrice": null,
-    "secondhand": 30000,
-    "note": "Canon EOS 5DS 全片幅 已停產 二手中位$30,000+。$17,800=59% → 殺價檻 (≥$3K ≤90% 二手)",
-    "source": "web search 2026-05-11"
-  },
-  "1436826237": {
-    "newPrice": 7890,
-    "secondhand": null,
-    "note": "SEGA HOMESTAR Classic MARS 星空投影機 新$7,890。$3,000=38% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437183006": {
-    "newPrice": 25980,
-    "secondhand": null,
-    "note": "Sony ZV-1 II 黑 公司貨已過保 新$25,980。$18,000=69% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437095776": {
-    "newPrice": 15129,
-    "secondhand": null,
-    "note": "Insta360 X3 全景相機 新$15,129。$6,980=46% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437035515": {
-    "newPrice": 24552,
-    "secondhand": null,
-    "note": "Canon R50 機身公司貨 新$24,552。$17,000=69% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1430966383": {
-    "newPrice": 17798,
-    "secondhand": null,
-    "note": "Insta360 GO 3S 128G 人氣套組 新$17,734-18,848。$10,300=58% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437089117": {
-    "newPrice": 2288,
-    "secondhand": null,
-    "note": "奇美 AP-03SRC1 燦坤特價$2,288。$1,200=52% 進手動但<$2K SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436869826": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "負離子兩用空氣清淨機 雜牌無基準 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1430926828": {
-    "newPrice": 2329,
-    "secondhand": null,
-    "note": "Wellnight HP-123 全新$2,329。$2,300=99% 等於新品 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437115124": {
-    "newPrice": 6980,
-    "secondhand": null,
-    "note": "Wanbo 萬播 Vali 1 全新$6,980。$6,000=86% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437173101": {
-    "newPrice": 1000,
-    "secondhand": null,
-    "note": "富士電通 8吋循環扇 新$800-1,200。$580 太低金額不足 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437150722": {
-    "newPrice": 3300,
-    "secondhand": null,
-    "note": "Instax mini 41 公司貨新$3,300。$3,290=100% 等於新品 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437137885": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Seventeen 演唱會周邊 收藏品無基準 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436741649": {
-    "newPrice": 1411,
-    "secondhand": null,
-    "note": "InstantSnap 透明拍立得新$1,411。$1,599 比新品還貴 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436995490": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Eureka Mythos 型號錯標 ⚠ Eureka 無 Mythos (Mignon系列), 真 Mythos 是 Victoria Arduino SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437130720": {
-    "newPrice": 15500,
-    "secondhand": 13000,
-    "note": "Fuji XF 16-80 F4 R OIS WR 平輸新$15,500 / 二手$13,000。$12,000=92% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1430828965": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Sony z1 型號太籠統(可能手機/相機) SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437114077": {
-    "newPrice": 26000,
+    "note": "Fellow Opus 錐刀磨豆機 公司貨$7,480-7,950（嘖嘖集資$6,200）。$5,200=70%, 剛邊緣手動門檻 + PTT報價$4,500 比這便宜",
+    "source": "web search 2026-05-08"
+  },
+  "1419049893": {
+    "newPrice": 28900,
     "secondhand": 12000,
-    "note": "Nikon AF-S DX 18-300 新$26,000 / 二手中位$12,000。$8,500=33%/71% 邊緣剛超 70% 二手門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437028402": {
-    "newPrice": 18900,
-    "secondhand": null,
-    "note": "中一光學 Speedmaster 65mm F1.4 GFX口 新$18,900。$15,000=79% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436987770": {
-    "newPrice": null,
-    "secondhand": 4500,
-    "note": "Sony NEX-3 Kit 老機停產 二手$4,500。$5,200 高於行情 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1430907597": {
-    "newPrice": null,
-    "secondhand": 3500,
-    "note": "Canon IXUS 100 / IXY210 CCD 二手$3,500。$9,200 過高(收藏溢價) SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436940550": {
-    "newPrice": null,
-    "secondhand": 3500,
-    "note": "Sony DSC-F828 老機 二手$3,500。$8,500 過高 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436938981": {
-    "newPrice": null,
-    "secondhand": 3000,
-    "note": "Canon 1000D 入門機停產 二手$3,000。$6,800 過高 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436935329": {
-    "newPrice": 6290,
-    "secondhand": null,
-    "note": "Fuji mini evo 粉 公司貨新$6,290。$6,700 高於新品 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436921149": {
-    "newPrice": 6990,
-    "secondhand": null,
-    "note": "Fuji mini evo Rose 粉 公司貨新$6,990。$7,500 高於新品 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436890502": {
-    "newPrice": 25800,
-    "secondhand": null,
-    "note": "Panasonic FZ1000 II 公司貨新$22,000-25,800。$17,000=66% 進手動門檻 ✓",
-    "source": "web search 2026-05-11"
-  },
-  "1430959147": {
-    "newPrice": 15300,
-    "secondhand": null,
-    "note": "Canon RF 35mm F1.8 Macro IS STM 公司貨新$14-16K。$11,500=75% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1430624599": {
-    "newPrice": 5990,
-    "secondhand": null,
-    "note": "SONY WH-ULT900N (ULT WEAR) 公司貨$5,990。$3,500=58% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437172561": {
-    "newPrice": 4310,
-    "secondhand": null,
-    "note": "Edifier M60/N300 套組 M60單機$4,310。$3,000=70% 邊緣手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437151953": {
-    "newPrice": 4490,
-    "secondhand": null,
-    "note": "SONY WH-CH720N 公司貨$4,490(promo$3,990)。$2,690=60% 進手動門檻",
-    "source": "web search 2026-05-11"
-  },
-  "1437109919": {
-    "newPrice": 5990,
-    "secondhand": null,
-    "note": "TEAC TN-100 黑膠唱盤入門盤$5,990。$3,000=50% 進手動 (Rose 黑膠興趣)",
-    "source": "web search 2026-05-11"
-  },
-  "1437109385": {
-    "newPrice": 3690,
-    "secondhand": null,
-    "note": "Soundcore Liberty 4 Pro momo$3,690。$2,100=57% 進手動",
-    "source": "web search 2026-05-11"
-  },
-  "1430834752": {
-    "newPrice": 5990,
-    "secondhand": null,
-    "note": "羅技 G Pro X LIGHTSPEED 一代原價$5,990。$3,000=50% 進手動",
-    "source": "web search 2026-05-11"
-  },
-  "1425534149": {
-    "newPrice": 7980,
-    "secondhand": null,
-    "note": "鐵三角 ATH-WS990BT 街價$7,980。$3,900=49% 進手動",
-    "source": "web search 2026-05-11"
-  },
-  "1436940174": {
-    "newPrice": 9500,
-    "secondhand": null,
-    "note": "Bose QC Ultra Earbuds 一代全新 $9,500。$4,800=51% 進手動, ⚠ Bose 假貨多",
-    "source": "web search 2026-05-11"
-  },
-  "1436918433": {
-    "newPrice": 4990,
-    "secondhand": 4000,
-    "note": "AirPods 4 ANC 公司貨$4,990 / 二手中位$4,000。$3,200=64%/80% → 殺價檻",
-    "source": "web search 2026-05-11"
-  },
-  "1436917937": {
-    "newPrice": 7490,
-    "secondhand": null,
-    "note": "AirPods Pro 3 三代 type-c 公司貨$7,490。$4,200=56% 進手動, ⚠ Pro 系列假貨警告留意保固/序號",
-    "source": "web search 2026-05-11"
-  },
-  "1437188540": {
-    "newPrice": 2790,
-    "secondhand": null,
-    "note": "EDIFIER MP230 街價$2,390-2,790。$2,200=79% 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437172693": {
-    "newPrice": 4990,
-    "secondhand": null,
-    "note": "AirPods 4 主動降噪 ANC 公司貨$4,990。$4,500=90% 二手價偏高 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437042858": {
-    "newPrice": 4490,
-    "secondhand": 3230,
-    "note": "AirPods 4 一般款 公司貨$4,490 / 二手中位$3,230。$4,000=89%/124% 比二手還貴 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1437001533": {
-    "newPrice": 2990,
-    "secondhand": null,
-    "note": "Samsung Galaxy Buds FE 公司貨$2,990。$3,000=100% 沒便宜 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
+    "note": "Samsung The Freestyle Gen1，原價$28,900，電商$19,900。交車禮全新未拆二手$12K-15K，$10K 低於行情",
+    "source": "web search 2026-05-03"
   },
   "1419072156": {
     "newPrice": 4990,
@@ -622,12 +25,18 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
-  "1430963151": {
-    "newPrice": 3990,
-    "secondhand": null,
-    "note": "Edifier WH950NB 公司貨$3,990。$3,500=88% 沒便宜 SKIP",
-    "source": "web search 2026-05-11",
+  "1419624695": {
+    "newPrice": null,
+    "secondhand": 1500,
+    "note": "Apple Watch S3 38mm 已停產 二手中位$1,500。$2,200=147% 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
     "skip": true
+  },
+  "1419671946": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "Frigidaire 倍效空氣清淨機(2-6坪桌上型) PChome$4,990。$600=12%超低可能舊機/壞機需驗",
+    "source": "web search 2026-05-06"
   },
   "1420282773": {
     "newPrice": 14900,
@@ -636,44 +45,11 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
-  "1437188307": {
-    "newPrice": 17990,
-    "secondhand": 15000,
-    "note": "DJI Pocket 3 標準版 公司貨$17,990 / 二手中位$15,000 (Pocket 4 已發表降溫)。$8,888=49%/59% → 好貨檻, ⚠ 太低需驗真偽",
-    "source": "web search 2026-05-11"
-  },
-  "1437137840": {
-    "newPrice": 11590,
+  "1421229534": {
+    "newPrice": 6000,
     "secondhand": null,
-    "note": "DJI RS4 Mini Combo+手機夾 公司貨$11,590。$8,310=72% 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436850682": {
-    "newPrice": 27800,
-    "secondhand": null,
-    "note": "Canon R50 + DJI Osmo Mobile 7 套組估$27,800。$20,000=72% 套組搭售風險 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436723576": {
-    "newPrice": 4090,
-    "secondhand": null,
-    "note": "DJI Osmo Mobile 7P 公司貨$4,090。$2,000=49% 進手動門檻, ⚠ 太低疑水貨或 OM7 一般版混淆",
-    "source": "web search 2026-05-11"
-  },
-  "1436494611": {
-    "newPrice": 7490,
-    "secondhand": null,
-    "note": "DJI Goggles N3 公司貨$7,490。$6,499=87% 過門檻 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436234698": {
-    "newPrice": 10589,
-    "secondhand": null,
-    "note": "DJI Neo 暢飛套裝 公司貨$10,589 (PChome特價$7,589)。$5,190=49%/68% 進手動門檻, ⚠ 全新未拆需驗真偽",
-    "source": "web search 2026-05-11"
+    "note": "Bose QC Earbuds 2024年製 — 型號不明 (QC Earbuds 2024 / QC Earbuds II / 一代)。PChome QC消噪耳塞$6,000, QC Ultra II $8,100-9,500。$3,540 模糊難判,要先確定哪一代",
+    "source": "web search 2026-05-04 (model uncertain)"
   },
   "1424576991": {
     "newPrice": 2750,
@@ -682,17 +58,53 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
-  "1436073100": {
-    "newPrice": 13980,
+  "1424646757": {
+    "newPrice": 3790,
     "secondhand": null,
-    "note": "DJI Osmo 360 標準套 公司貨$13,980 (特價$12,600)。$12,800=92% 沒優勢 SKIP",
-    "source": "web search 2026-05-11",
+    "note": "Thetford PP335 樂卡$3,790。$3,500=92%新品,折扣<10%",
+    "source": "web search 2026-05-05"
+  },
+  "1424705956": {
+    "newPrice": 5990,
+    "secondhand": 3650,
+    "note": "Sony LinkBuds 原版WF-L900 PTT二手$3,600-3,700。$3,988=109%比行情高,不算便宜",
+    "source": "web search 2026-05-05"
+  },
+  "1424714134": {
+    "newPrice": 4280,
+    "secondhand": null,
+    "note": "Fuji Instax Pal 新品$4,280-5,180。$2,500=58%新品",
+    "source": "web search 2026-05-05"
+  },
+  "1424849929": {
+    "newPrice": 9570,
+    "secondhand": null,
+    "note": "拾山世紀 QTACE T1-6002 600g羽絨睡袋 官網$9,570。$3,999=42%新品 二手",
+    "source": "web search 2026-05-06"
+  },
+  "1424852372": {
+    "newPrice": 6080,
+    "secondhand": null,
+    "note": "Snow Peak SET-111 焚火台M四件套組 新品$5,320-7,600(momo$6,080)。$5,300=87%幾乎是新品價",
+    "source": "web search 2026-05-06"
+  },
+  "1425234292": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "TCL S45H Soundbar 公司貨$4,990（蝦皮$4,200-4,500）。$2,750=55%, 二手樣本不足",
+    "source": "web search 2026-05-07"
+  },
+  "1425499776": {
+    "newPrice": 17749,
+    "secondhand": null,
+    "note": "XGIMI 極米 Google TV 投影機 型號未指明 (MoGo 2/Pro/3?) $7,850 對不上任何現役機種, ⚠ 仿品或舊型號掛新名 SKIP",
+    "source": "web search 2026-05-10",
     "skip": true
   },
-  "1436042857": {
-    "newPrice": null,
-    "secondhand": 16888,
-    "note": "DJI Phantom 4 Pro+ 已停產 二手中位$16,888 (8年機況)。$13,000=77% 二手 → 殺價檻",
+  "1425534149": {
+    "newPrice": 7980,
+    "secondhand": null,
+    "note": "鐵三角 ATH-WS990BT 街價$7,980。$3,900=49% 進手動",
     "source": "web search 2026-05-11"
   },
   "1425566184": {
@@ -702,6 +114,158 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
+  "1425803817": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "新北燈會 線條小狗平安符 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1425956850": {
+    "newPrice": 15129,
+    "secondhand": 8500,
+    "note": "Insta360 X3 8 成新 $7,250 = 中位 85% / 新品 48%, 配件保固未確認, 邊緣手動"
+  },
+  "1429754461": {
+    "newPrice": 2800,
+    "secondhand": null,
+    "note": "飛馬牌 600N 磨豆機 PChome$2,800（momo$3K-4.2K）。$1,600=57%, ⚠ <$2K 手動門檻但便宜值得看",
+    "source": "web search 2026-05-08"
+  },
+  "1429789614": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "SONY LinkBuds Fit WF-LS910N 公司貨$4,990。$3,000=60% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1429791585": {
+    "newPrice": 18900,
+    "secondhand": 11000,
+    "note": "Tamron 28-75mm f/2.8 A036 Sony FE 一代停產 新品$18,900 / 二手中位$11,000。$13,500=71%/123% 比二手貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1429805394": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "D.A.S. Audio Factor-8 西班牙 pro audio 主動喇叭，非消費級需求 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1430072610": {
+    "newPrice": null,
+    "secondhand": 5500,
+    "note": "ViewSonic M1+ 舊款(M1 Max現役$13,900)。PTT二手$5,000-6,000。$5,500=中位非deal,需確認燈泡時數",
+    "source": "web search 2026-05-05"
+  },
+  "1430106623": {
+    "newPrice": 7900,
+    "secondhand": 5000,
+    "note": "Marshall Stockwell II 已停產但TW仍有公司貨$7,900。二手中位$5,000(蝦皮$4,500-5,990)。$5,000=行情中位非deal",
+    "source": "web search 2026-05-05"
+  },
+  "1430140502": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Samsung Buds3 FE 2025/9 上市新品$3,990。$2,290=57%新品折43%, 機身才7個月積極定價需驗真偽",
+    "source": "web search 2026-05-05"
+  },
+  "1430311333": {
+    "newPrice": 5990,
+    "secondhand": null,
+    "note": "HUAWEI FreeClip 耳夾耳機 公司貨$5,990（特價$4,990）。$2,660=44%/53%，二手樣本不足",
+    "source": "web search 2026-05-07"
+  },
+  "1430431727": {
+    "newPrice": 6490,
+    "secondhand": 5000,
+    "note": "Marshall Emberton III 三代 公司貨$6,490 / 二手中位$5,000。$4,000=62%/80% → 殺價檻 (比 hana0613 $4,500 更便宜)",
+    "source": "web search 2026-05-08"
+  },
+  "1430434870": {
+    "newPrice": 20900,
+    "secondhand": null,
+    "note": "Canon EOS R50 KIT 公司貨$20,900（原$22,900）。$18,000=86%, 不過 70% 門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1430459298": {
+    "newPrice": 8600,
+    "secondhand": null,
+    "note": "NOVATION Launchkey 49 MK3 公司貨$8,000-8,800。$4,200=49%, 雖非 Rose 主清單但價格便宜值得看",
+    "source": "web search 2026-05-07"
+  },
+  "1430483171": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Marshall Willen II 二代 黑 公司貨$3,990（最低$3,490酷澎）。$2,500=63%, 二手樣本不足",
+    "source": "web search 2026-05-07"
+  },
+  "1430624599": {
+    "newPrice": 5990,
+    "secondhand": null,
+    "note": "SONY WH-ULT900N (ULT WEAR) 公司貨$5,990。$3,500=58% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1430774612": {
+    "newPrice": 19900,
+    "secondhand": null,
+    "note": "B&O Beoplay H9i 星空版 已停產 公司貨原價$19,900。$5,000=25% → 好貨檻, ⚠ 二手實際$4.5K-5K 同價, 樣本不足",
+    "source": "web search 2026-05-09"
+  },
+  "1430810959": {
+    "newPrice": null,
+    "secondhand": 30000,
+    "note": "Canon EOS 5DS 全片幅 已停產 二手中位$30,000+。$17,800=59% → 殺價檻 (≥$3K ≤90% 二手)",
+    "source": "web search 2026-05-11"
+  },
+  "1430828965": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sony z1 型號太籠統(可能手機/相機) SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1430834752": {
+    "newPrice": 5990,
+    "secondhand": null,
+    "note": "羅技 G Pro X LIGHTSPEED 一代原價$5,990。$3,000=50% 進手動",
+    "source": "web search 2026-05-11"
+  },
+  "1430907597": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "Canon IXUS 100 / IXY210 CCD 二手$3,500。$9,200 過高(收藏溢價) SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1430926828": {
+    "newPrice": 2329,
+    "secondhand": null,
+    "note": "Wellnight HP-123 全新$2,329。$2,300=99% 等於新品 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1430959147": {
+    "newPrice": 15300,
+    "secondhand": null,
+    "note": "Canon RF 35mm F1.8 Macro IS STM 公司貨新$14-16K。$11,500=75% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1430963151": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Edifier WH950NB 公司貨$3,990。$3,500=88% 沒便宜 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1430966383": {
+    "newPrice": 17798,
+    "secondhand": null,
+    "note": "Insta360 GO 3S 128G 人氣套組 新$17,734-18,848。$10,300=58% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
   "1430972210": {
     "newPrice": 4490,
     "secondhand": 3230,
@@ -709,86 +273,98 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
-  "1437147233": {
+  "1431143131": {
     "newPrice": null,
     "secondhand": null,
-    "note": "AirPods 3 Lightning 已停產, 二手散亂無 ≥3 筆同款 SKIP",
-    "source": "web search 2026-05-11",
+    "note": "偶像公主三彈四星卡 球員卡風格收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
     "skip": true
   },
-  "1437098899": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "AirPods Pro 一代 已停產, 蝦皮副廠雜訊多, $3,000 偏高 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
+  "1431147803": {
+    "skip": true,
+    "note": "aespa Giselle 小卡 K-pop 非需求"
   },
-  "1436693464": {
-    "newPrice": 5490,
+  "1431201757": {
+    "newPrice": 3590,
     "secondhand": null,
-    "note": "Whirlpool WDEE20AW 10.5L 公司貨$5,490 (momo/PChome/Yahoo一致)。$3,000=55% 進手動門檻",
+    "note": "Creative Aurvana Ace 2 真無線 公司貨$3,590。$2,200=61% 進手動門檻 (新加坡購入全新未使用)",
     "source": "web search 2026-05-11"
   },
-  "1436189748": {
-    "newPrice": 18990,
+  "1433316866": {
+    "newPrice": 3000,
+    "secondhand": 2850,
+    "note": "Mini 8 Minion 限定版 行情$2,750-2,950。$8,500=3倍以上行情, 不是deal",
+    "source": "web search 2026-05-06"
+  },
+  "1433801453": {
+    "newPrice": null,
     "secondhand": null,
-    "note": "MITSUBISHI MJ-E180AX 18L 智慧除濕機 公司貨$18,990。$6,500=34% 進手動門檻, ⚠ 停產款後繼EHV180JX, 二手注意壓縮機運轉年限",
+    "note": "鐵三角 ATH-WS33BT 型號不存在（官方無此編號，可能混淆 WS33X 有線/WS330BT 無線）, ⚠ 仿品或標錯 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1434178367": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "侏羅紀公園 刮鬍泡胚胎罐 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1434441879": {
+    "skip": true,
+    "note": "Cortis 金主訓小卡 K-pop 周邊 非需求"
+  },
+  "1434556658": {
+    "skip": true,
+    "note": "高勝美 CD 收藏 非需求"
+  },
+  "1434658358": {
+    "newPrice": 10700,
+    "secondhand": null,
+    "note": "Snow Peak Amenity Dome S (SDE-002 RH) 3人家庭 新品$10,700。$7,000=65%(日本平輸新品), 35% off retail算划算但無TW二手同款3+筆",
+    "source": "web search 2026-05-04"
+  },
+  "1434755853": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Westinghouse 戶外空調 $9,999 — 同款TW無3+筆,同類新品$9-13K, $9,999 在中位數沒折扣",
+    "source": "web search 2026-05-04"
+  },
+  "1434761992": {
+    "newPrice": 6100,
+    "secondhand": null,
+    "note": "AUX 大人的鐵板 小方型附蓋 新品$5,600-6,500 (蝦皮/uDesign/Handslide)。$3,800 = 62% 新品, 划算但二手listings不足3筆",
+    "source": "web search 2026-05-05"
+  },
+  "1435167100": {
+    "newPrice": 6000,
+    "secondhand": null,
+    "note": "TNF 露營椅+桌組 新品$5,500-8,000 (Camp Chair日系平輸$4,500-6,500 + Table $1,500-2,500)。$3,000 = 50%, 划算但無TW二手3+筆",
+    "source": "web search 2026-05-05"
+  },
+  "1435342625": {
+    "newPrice": null,
+    "secondhand": 19000,
+    "note": "Canon EOS M6 II 機身 二手$18K-22K(青蘋果$19K)。$13,500=71%, 低於行情29%但要驗快門數",
+    "source": "web search 2026-05-06"
+  },
+  "1435501506": {
+    "newPrice": 13800,
+    "secondhand": null,
+    "note": "Osprey Ariel 65L 女款登山背包 新品$13,000-14,500(山水/Prince Outdoor)。$6,000 = 43% 新品 含防水套, 不錯",
+    "source": "web search 2026-05-05"
+  },
+  "1435810179": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "Insta360 Flow 2 Pro 公司貨$4,990。$3,000=60% 進手動門檻",
     "source": "web search 2026-05-11"
   },
-  "1437078895": {
-    "newPrice": null,
+  "1435819128": {
+    "newPrice": 849,
     "secondhand": null,
-    "note": "KE 嘉儀 KEDB-216 型號查無此型 (官方是 KED-316), ⚠ 型號可疑 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436811049": {
-    "newPrice": 16900,
-    "secondhand": null,
-    "note": "SHARP 2合1 除濕清淨 賣家未指明型號(DW-J16T 公司貨$16,900)。$10,000 若是J16T則=59% deal但型號不確認 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436610387": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "三菱日本原裝 25L 2022 製造 賣家未給具體型號(MJ-PV/EV/EHV250 都不同), 無法 ≥3 筆同款驗證 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436597911": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "三菱 MJ-P180SX-W 18L 日本水貨 P180 舊款, 台灣 ≥3 筆同款湊不齊 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436591663": {
-    "newPrice": 6503,
-    "secondhand": null,
-    "note": "HITACHI RD-16FR1 8L 公司貨$6,503。$6,555=101% 比新品還貴 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436540192": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Panasonic 國際牌 16L 變頻 賣家未給型號(F-Y32JH/EH/F-Y36JH 等差價大), 無法驗 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436158804": {
-    "newPrice": 19500,
-    "secondhand": null,
-    "note": "Panasonic F-Y45GX 旗艦22L 公司貨$19,500-22,490。$18,000=92% 沒誘因 SKIP",
-    "source": "web search 2026-05-11",
-    "skip": true
-  },
-  "1436083850": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "國際牌除濕機 標題太籠統無型號 SKIP",
-    "source": "web search 2026-05-11",
+    "note": "無品牌手沖入門組 一般$849-1,360。$500=59%, 雜牌+件數材質不明 SKIP",
+    "source": "web search 2026-05-07",
     "skip": true
   },
   "1435820722": {
@@ -798,47 +374,402 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
-  "1436934608": {
+  "1435851164": {
+    "newPrice": 27700,
+    "secondhand": null,
+    "note": "Fuji X-HF1 (X half) 2025新機, 全新$27,700-31,000。$14,000=51%超低⚠紅旗警示可能偷竊/拆零件/詐騙",
+    "source": "web search 2026-05-06"
+  },
+  "1435881319": {
+    "newPrice": null,
+    "secondhand": 5500,
+    "note": "AW7已停產5年, 二手店家$5,830-7,920, 個人賣家$4,640-6,000。$3,000無size資訊風險高, 需問41/45mm + GPS/LTE + 電池健康度",
+    "source": "web search 2026-05-04"
+  },
+  "1435881795": {
+    "newPrice": null,
+    "secondhand": 7250,
+    "note": "Insta360 Ace Pro 一代 蝦皮二手$7,250。$9,600 明顯高於行情 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1435882422": {
+    "newPrice": 8900,
+    "secondhand": 3500,
+    "note": "SE3 44mm GPS $8,900。listing $3,500 可能是 SE1($2K-3K) 或 SE2($3K-4.5K)，需確認世代",
+    "source": "web search 2026-05-03"
+  },
+  "1435891875": {
+    "newPrice": null,
+    "secondhand": 1200,
+    "note": "Mini 8 已停產(2017),Carousell行情$700-1,500,$1,500偏高。Mini 12 新品$2,690",
+    "source": "web search 2026-05-04"
+  },
+  "1435910868": {
+    "newPrice": 13400,
+    "secondhand": null,
+    "note": "Wharfedale Diamond 12.1 新品仕洋$13,400 / 公司貨$15,800。二手實際listing不足3筆,無法定行情。$8,800/13,400=66%,Hi-Fi書架喇叭折舊慢,可考慮",
+    "source": "web search 2026-05-04 (insufficient secondhand data)"
+  },
+  "1435923153": {
+    "newPrice": 31900,
+    "secondhand": 27000,
+    "note": "Fuji X-S10 + XC15-45 Kit 全新$31,900 / 二手$26,800-28,000。$25,800=96%二手, 略便宜但不過殺價門檻",
+    "source": "web search 2026-05-06"
+  },
+  "1435927885": {
+    "newPrice": 7900,
+    "secondhand": 4000,
+    "note": "SE3新品$7,900。SE1/SE2 40mm GPS 二手listing：$4,500/$4,600 SE2, $3,000/$4,700 SE1。$2,000 屬店家收購價,不像個人賣家行情",
+    "source": "web search 2026-05-04"
+  },
+  "1435930688": {
+    "newPrice": null,
+    "secondhand": 4500,
+    "note": "原版HTC Vive(2016)停產。二手listing $2,100/$4,500/$7,000。$2,000只比最低端略高。要注意是哪個型號",
+    "source": "web search 2026-05-04"
+  },
+  "1435938320": {
+    "newPrice": 4290,
+    "secondhand": null,
+    "note": "AirPods 4 全新未拆 $3,850 = 新品 90%, 沒折扣",
+    "source": "web search 2026-05-04"
+  },
+  "1435938783": {
+    "newPrice": 10990,
+    "secondhand": null,
+    "note": "Harman Kardon SoundSticks 4 黑色, 官方$10,990-12,990, 蝦皮水貨$9,690, 福利品$7,990-8,999. 同型號二手實際成交不足3筆,無法定義行情. $6,500明顯低於福利品下限,機況正常屬划算",
+    "source": "web search 2026-05-04 (insufficient secondhand data)"
+  },
+  "1435949875": {
+    "newPrice": 15800,
+    "secondhand": 9500,
+    "note": "Bose QC Ultra Headphones 一代 新品$15,800 / PTT二手$8,000-11,000。$4,300 = 45% 極度便宜可疑,需驗證真偽和狀況",
+    "source": "web search 2026-05-04"
+  },
+  "1435954223": {
+    "newPrice": 7490,
+    "secondhand": 5000,
+    "note": "AirPods Pro 2 $4,500 = 二手 90%, 不算 deal",
+    "source": "web search 2026-05-04"
+  },
+  "1435956548": {
+    "newPrice": 7490,
+    "secondhand": 5000,
+    "note": "AirPods Pro 2 USB-C 新品$7,490 / 二手$5,000。$3,700 = 74% 二手,接近門檻但沒過。可能8成新或電池衰退",
+    "source": "web search 2026-05-04"
+  },
+  "1435966307": {
+    "newPrice": 7490,
+    "secondhand": 5000,
+    "note": "AirPods Pro 2 USB-C 新品$7,490 / 二手店$5,200-5,700 / PTT 9成新$4,500-5,500。$3,000 = 60% 二手,過門檻但太便宜可疑(單耳/壞了/假貨/失竊)需驗",
+    "source": "web search 2026-05-04"
+  },
+  "1435974912": {
+    "newPrice": 2788,
+    "secondhand": null,
+    "note": "Razer Leviathan V2 X 新品$2,788(momo)/$2,988(PChome)。listing $3,000 比新品還貴,不算deal",
+    "source": "web search 2026-05-04"
+  },
+  "1435993375": {
+    "newPrice": 2188,
+    "secondhand": null,
+    "note": "CHIMEI空氣清淨機 listing 沒標型號, 入門款新品$2,188起。$1,500可能是更便宜的mini桌上型,沒折扣優勢",
+    "source": "web search 2026-05-04"
+  },
+  "1435998202": {
+    "newPrice": 4999,
+    "secondhand": null,
+    "note": "Xiaomi 智慧投影機 L1 PChome/momo新品就$4,999! listing價等於新品價,完全沒折扣",
+    "source": "web search 2026-05-04"
+  },
+  "1436001155": {
     "newPrice": null,
     "secondhand": null,
-    "note": "Eureka Mythos $14,000 ⚠ 品名疑點: Eureka 是 Mignon 系列, 真 Mythos 是 Victoria Arduino 商用機新品$80K-150K。$14K 不合理, 疑型號誤標/山寨 SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
+    "note": "Marshall 白色音響 — 標題太籠統,無法確定型號。Emberton II 新$5,691-6,490 / Acton III $11,305 / Willen II $13,900。$2,000 全部都低於新品/二手行情,可能是水貨/問題機/假貨,需問賣家具體型號+狀況",
+    "source": "web search 2026-05-04 (model unclear)"
   },
-  "1436954828": {
-    "newPrice": 19990,
-    "secondhand": 12000,
-    "note": "DJI Pocket 3 全能套裝 公司貨$19,990 / 二手中位$12,000。$12,500=63%/104% 略高於二手, ⚠『主機極速換新未拆封』需確認序號保固轉移 SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
-  },
-  "1436969174": {
-    "newPrice": 17000,
-    "secondhand": 10800,
-    "note": "Insta360 GO 3S 128G 套組 公司貨$17,000 / 二手中位$10,800。$10,300=61%/95% 落在二手店行情下緣, 不夠便宜 SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
-  },
-  "1436962894": {
-    "newPrice": 17990,
-    "secondhand": 13500,
-    "note": "Insta360 X5 萬能套裝 公司貨$17,990（稅免後降價）/ 二手套組$13,500。$17,500=97%/130% 比二手貴30% SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
-  },
-  "1436904856": {
-    "newPrice": 3290,
+  "1436012670": {
+    "newPrice": 3580,
     "secondhand": null,
-    "note": "DJI Osmo Mobile 7P 公司貨$3,290 (PChome特價$2,790)。$2,000 比全新最低折扣還低30%, ⚠ 強烈疑似仿品 SKIP",
-    "source": "web search 2026-05-10",
+    "note": "JBL Clip 5 PChome$3,580 / Costco常態$2,079 / 黑五$1,599-1,799。listing $2,200 = Costco 行情價,非便宜",
+    "source": "web search 2026-05-04"
+  },
+  "1436015284": {
+    "newPrice": 6380,
+    "secondhand": 2400,
+    "note": "Wharfedale WH-2 環繞喇叭組 行情$2,300-2,500。$3,280 比行情貴, 不是deal",
+    "source": "web search 2026-05-04"
+  },
+  "1436017402": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Wharfedale Vardus VR-300 落地喇叭 — TW無同款比對。EU 2012新品約€280/pair($9,800), 二手$3,800-15,000範圍。$7,000在範圍內但無法判斷",
+    "source": "web search 2026-05-04 (insufficient data)"
+  },
+  "1436027976": {
+    "newPrice": 9500,
+    "secondhand": 5150,
+    "note": "Bose QC Ultra Earbuds 一代 入耳式 新品$9,500 / 二手$5,000-5,300。$5,000 是二手行情底,不是 deal。若為二代則大撿漏需確認",
+    "source": "web search 2026-05-04"
+  },
+  "1436040999": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Marshall Minor IV 全新 PChome/momo $3,990。$2,600 = 65% 新品, 全新正品折扣35% 是好貨",
+    "source": "web search 2026-05-04"
+  },
+  "1436042857": {
+    "newPrice": null,
+    "secondhand": 16888,
+    "note": "DJI Phantom 4 Pro+ 已停產 二手中位$16,888 (8年機況)。$13,000=77% 二手 → 殺價檻",
+    "source": "web search 2026-05-11"
+  },
+  "1436050243": {
+    "newPrice": 3490,
+    "secondhand": null,
+    "note": "Soundcore Liberty 5 新品$3,490, $3,200=92%, 折讓僅$290 不算划算",
+    "source": "web search 2026-05-04"
+  },
+  "1436054906": {
+    "newPrice": 3495,
+    "secondhand": null,
+    "note": "小米空氣清淨機沒標型號。4 Lite新品$3,495,$1,500若為4 Lite=43%但需型號",
+    "source": "web search 2026-05-04 (under $2K threshold)"
+  },
+  "1436056823": {
+    "newPrice": 3880,
+    "secondhand": null,
+    "note": "Honeywell空氣清淨機 沒標型號。HPA-100APTW新品$3,880, HPA-300APTW新品$6-12K。$2,500=HPA-100的64%,需問型號",
+    "source": "web search 2026-05-04 (model unspecified)"
+  },
+  "1436061080": {
+    "newPrice": null,
+    "secondhand": 13000,
+    "note": "Fuji 56mm F1.2 R 一代(WR是二代) 二手$11K-15K。$14,500=行情中上",
+    "source": "web search 2026-05-06"
+  },
+  "1436065269": {
+    "newPrice": 7990,
+    "secondhand": null,
+    "note": "Honeywell HPA5250WTWV1 (淨味款) 新品PChome$7,990。$2,500 = 31% 新品, 超低需確認狀況/濾網",
+    "source": "web search 2026-05-05"
+  },
+  "1436071046": {
+    "newPrice": 6300,
+    "secondhand": 9500,
+    "note": "Fuji Mini 90 Neo Classic 公司貨新品$6,300, 二手$8,500-10,800 (BigGo 10+ listings)。$5,000 = 53% 二手, 過門檻好貨 (停產過渡期二手價反高於新品)",
+    "source": "web search 2026-05-05"
+  },
+  "1436073100": {
+    "newPrice": 13980,
+    "secondhand": null,
+    "note": "DJI Osmo 360 標準套 公司貨$13,980 (特價$12,600)。$12,800=92% 沒優勢 SKIP",
+    "source": "web search 2026-05-11",
     "skip": true
   },
-  "1436957036": {
-    "newPrice": 2970,
+  "1436075748": {
+    "newPrice": 2999,
+    "secondhand": 2000,
+    "note": "HomePod mini 新品$2,999 / 二手$1,100-2,500 (median $2,000)。$2,550 比二手行情高,不是 deal",
+    "source": "web search 2026-05-04"
+  },
+  "1436076638": {
+    "newPrice": 14990,
     "secondhand": null,
-    "note": "DJI Neo 2 充電管家+電池x2 全新拆賣 估$2,970。$2,550=86% 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-10",
+    "note": "Insta360 Ace Pro 2 白 標準版$14,990。$20,800=139% 比新品還貴 SKIP",
+    "source": "web search 2026-05-11",
     "skip": true
+  },
+  "1436079092": {
+    "newPrice": null,
+    "secondhand": 8500,
+    "note": "Fuji XM1+27mm餅乾鏡組合 二手$7K-10K(Carousell$7.8K近全新)。$18,000=2倍以上行情",
+    "source": "web search 2026-05-06"
+  },
+  "1436083850": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "國際牌除濕機 標題太籠統無型號 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436085387": {
+    "newPrice": 3900,
+    "secondhand": null,
+    "note": "Insta360 Ace Pro 2 微距鏡頭 (同上款) $3,500=90% 比 #3 $2,800 還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436098537": {
+    "newPrice": 5990,
+    "secondhand": 3350,
+    "note": "AirPods 4 ANC 新品$5,990 / 街頭低$4,690。PTT 二手用過$3,200-3,500 / 全新$4,300-4,700。$3,500 = 二手行情上緣, 不算便宜",
+    "source": "web search 2026-05-05"
+  },
+  "1436112142": {
+    "newPrice": null,
+    "secondhand": 4500,
+    "note": "Apple Watch S8 二手行情$3,500-5,000(店家$5,830)/個人$3,500-5,000。$4,800=行情上緣略高,非deal",
+    "source": "web search 2026-05-05"
+  },
+  "1436119295": {
+    "newPrice": 4290,
+    "secondhand": null,
+    "note": "賣家「全新apple耳機 $2,900」型號模糊。若AirPods 4標準版($4,290)=68%, 折扣32%偏激進需驗序號真偽。AirPods 4 ANC($5,990) $2,900不可能真品全新",
+    "source": "web search 2026-05-05 (model uncertain)"
+  },
+  "1436119425": {
+    "newPrice": 2680,
+    "secondhand": null,
+    "note": "LUMENA M3 PChome$2,680。$2,300=86%新品,折扣14%太小",
+    "source": "web search 2026-05-05"
+  },
+  "1436126012": {
+    "newPrice": 5780,
+    "secondhand": null,
+    "note": "Arc'teryx Mantis 20 始祖鳥後背包 momo$5,780(3rd party$4,046)。$4,200=73%新品, 折27% 沒過70%門檻",
+    "source": "web search 2026-05-05"
+  },
+  "1436128912": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Marshall Minor IV 全新 PChome/momo$3,990。$2,350=59%新品, 比上一筆$2,600更便宜",
+    "source": "web search 2026-05-05"
+  },
+  "1436144742": {
+    "newPrice": 13800,
+    "secondhand": 8050,
+    "note": "iLoud Micro Monitors 平輸新品$9,500-10,500 / 公司貨$13,800。$9,980=平輸新品下緣,非deal",
+    "source": "web search 2026-05-05"
+  },
+  "1436146273": {
+    "newPrice": 3000,
+    "secondhand": 1800,
+    "note": "HomePod mini 白色 蝦皮二手$1,600-1,950。$2,400 比二手高33%, 不是deal",
+    "source": "web search 2026-05-05"
+  },
+  "1436157948": {
+    "newPrice": 1099,
+    "secondhand": null,
+    "note": "Driver 快拆手沖壺 600ml 官方$1,099。$1,099=100% 等於新品 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436158721": {
+    "newPrice": 4490,
+    "secondhand": 2700,
+    "note": "AirPods 4 標準版 新品$4,490 / Landtop$3,790 / dealer sealed$3,500-3,900。$3,500=78%剛好行情",
+    "source": "web search 2026-05-05"
+  },
+  "1436158804": {
+    "newPrice": 19500,
+    "secondhand": null,
+    "note": "Panasonic F-Y45GX 旗艦22L 公司貨$19,500-22,490。$18,000=92% 沒誘因 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436159937": {
+    "newPrice": 4500,
+    "secondhand": null,
+    "note": "HK Onyx Studio 4 (2017停產) TW新品$4,215-5,500。$3,000 = 67% 新品, 搬家出清",
+    "source": "web search 2026-05-05"
+  },
+  "1436162496": {
+    "newPrice": 2990,
+    "secondhand": null,
+    "note": "Fuji Mini 40 新品$2,990-3,619。$3,500 比新品還貴, 不是deal",
+    "source": "web search 2026-05-05"
+  },
+  "1436183342": {
+    "newPrice": 6490,
+    "secondhand": null,
+    "note": "Sony LinkBuds Open WF-L910 Sony官網$6,490。BigGo 3筆已下架listings$1,999-3,200。$2,100=32%新品保固內,接近成交行情",
+    "source": "web search 2026-05-05"
+  },
+  "1436185148": {
+    "newPrice": 3490,
+    "secondhand": null,
+    "note": "Final ZE3000 SV 志達/PChome$3,490。$2,300=66%新品保固內",
+    "source": "web search 2026-05-05"
+  },
+  "1436187058": {
+    "newPrice": 6990,
+    "secondhand": null,
+    "note": "Jabra Elite 8 Active 新品$6,990(Gen 2已出 Gen 1可能清倉)。$3,680=53%全新需驗真偽/refurb/水貨",
+    "source": "web search 2026-05-05"
+  },
+  "1436187818": {
+    "newPrice": 4390,
+    "secondhand": null,
+    "note": "Final VR3000 Wireless 加煒NT$4,390。$3,000=68%新品",
+    "source": "web search 2026-05-05"
+  },
+  "1436189748": {
+    "newPrice": 18990,
+    "secondhand": null,
+    "note": "MITSUBISHI MJ-E180AX 18L 智慧除濕機 公司貨$18,990。$6,500=34% 進手動門檻, ⚠ 停產款後繼EHV180JX, 二手注意壓縮機運轉年限",
+    "source": "web search 2026-05-11"
+  },
+  "1436193801": {
+    "newPrice": 2990,
+    "secondhand": null,
+    "note": "Bodum BISTRO Programmable 美式咖啡機 新品$2,990（原$3,990）。$850=28% → 好貨檻",
+    "source": "web search 2026-05-07"
+  },
+  "1436195404": {
+    "newPrice": 10500,
+    "secondhand": null,
+    "note": "Bose QC SE = QC45軟殼版(Costco限定),新品 QC45 $10,500。$4,500 = 43%, 平輸/水貨需驗",
+    "source": "web search 2026-05-05"
+  },
+  "1436200962": {
+    "newPrice": 5900,
+    "secondhand": null,
+    "note": "Bose SoundLink Flex II 新品$5,900。$4,000全新未拆=68%,折32% 但蝦皮Bose仿品多需驗真偽",
+    "source": "web search 2026-05-05"
+  },
+  "1436215088": {
+    "newPrice": 4490,
+    "secondhand": 3230,
+    "note": "AirPods 4 標準版 PTT近全新$3,200-3,260。$2,490=77%二手, 不過70%門檻",
+    "source": "web search 2026-05-05"
+  },
+  "1436215377": {
+    "newPrice": 12900,
+    "secondhand": 7500,
+    "note": "AW S7 45mm 個人賣家$7,000-8,000(Carousell$8K/蝦皮$7.2K)。$5,000=67%二手, 過保固期",
+    "source": "web search 2026-05-05"
+  },
+  "1436219295": {
+    "newPrice": 4990,
+    "secondhand": 3150,
+    "note": "Sony ULT900N 新品$4,990 / PTT二手$3,000-3,300。$2,800=89%二手, 不過70%門檻, 也<$3K不進殺價",
+    "source": "web search 2026-05-05"
+  },
+  "1436226245": {
+    "newPrice": 13900,
+    "secondhand": null,
+    "note": "AW S9 45mm 健康機行情$6,500-8,500, 螢幕刮痕版本TW無同款3+筆。$3,500=25%新品但有刮痕",
+    "source": "web search 2026-05-05"
+  },
+  "1436226400": {
+    "newPrice": 12900,
+    "secondhand": 6500,
+    "note": "AW S9 41mm 個人漂亮機行情$5,500-7,500。$4,500=69%二手, 漂亮無傷無盒",
+    "source": "web search 2026-05-05"
+  },
+  "1436234475": {
+    "newPrice": 2990,
+    "secondhand": 1800,
+    "note": "smartmi P1 新品$2,990, 二手$1,000-2,500。$2,499 在二手上緣不是deal",
+    "source": "web search 2026-05-05"
+  },
+  "1436234698": {
+    "newPrice": 10589,
+    "secondhand": null,
+    "note": "DJI Neo 暢飛套裝 公司貨$10,589 (PChome特價$7,589)。$5,190=49%/68% 進手動門檻, ⚠ 全新未拆需驗真偽",
+    "source": "web search 2026-05-11"
   },
   "1436240173": {
     "newPrice": null,
@@ -846,137 +777,662 @@
     "note": "DJI Osmo Pocket 一代 已停產 二手中位$6,000-7,300。$4,190=64% → 好貨檻, ⚠ 比中位低30% 需驗真品",
     "source": "web search 2026-05-10"
   },
-  "1436843152": {
-    "newPrice": 2290,
+  "1436240340": {
+    "newPrice": 4490,
     "secondhand": null,
-    "note": "DJI Mic Mini 1V1 公司貨$2,290。$2,100=92% 接近全新, ⚠ 可能 1V1 標 1V2 規格混淆 SKIP",
-    "source": "web search 2026-05-10",
+    "note": "Sony LinkBuds Open 公司貨保固 PChome$4,490。$3,508=78%, 折22%太小",
+    "source": "web search 2026-05-05"
+  },
+  "1436242416": {
+    "newPrice": 5990,
+    "secondhand": null,
+    "note": "RODE NT-USB+ 新品$5,490-6,290。$2,700=45%新品 9成新",
+    "source": "web search 2026-05-05"
+  },
+  "1436255677": {
+    "newPrice": 2990,
+    "secondhand": null,
+    "note": "Insta360 Snap 補光版 公司貨$2,990。$2,666=89% 僅省$324 SKIP",
+    "source": "web search 2026-05-11",
     "skip": true
   },
-  "1436941769": {
-    "newPrice": 4990,
+  "1436266303": {
+    "newPrice": 6490,
     "secondhand": null,
-    "note": "Insta360 Flow 2 Pro 公司貨$4,990（促銷$3,490）。$2,500=50%, ⚠ 強烈疑似仿品/詐騙(比最低促銷還低) SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
+    "note": "SHOKZ OpenFit 2 T920 通路均價$6,490。$4,000=62%新品",
+    "source": "web search 2026-05-06"
   },
-  "1436872301": {
+  "1436266491": {
+    "newPrice": 3800,
+    "secondhand": null,
+    "note": "Sudio K2 Pro PChome$3,800。$3,000=79%, 折21%太小",
+    "source": "web search 2026-05-06"
+  },
+  "1436270854": {
+    "newPrice": 3000,
+    "secondhand": null,
+    "note": "藍牙派對喇叭 沒型號雜牌",
+    "source": "skip - vague brand"
+  },
+  "1436291334": {
     "newPrice": null,
     "secondhand": null,
-    "note": "Apple Watch S5 40mm GPS 已停產6年, 台灣回收商已不收。$2,600 略高於海外 Swappa $2,300 行情, 樣本不足 SKIP",
-    "source": "web search 2026-05-10",
+    "note": "Insta360 Selfie Stick 全新未拆 無基準 SKIP",
+    "source": "web search 2026-05-11",
     "skip": true
   },
-  "1425499776": {
-    "newPrice": 17749,
+  "1436315871": {
+    "newPrice": 3699,
     "secondhand": null,
-    "note": "XGIMI 極米 Google TV 投影機 型號未指明 (MoGo 2/Pro/3?) $7,850 對不上任何現役機種, ⚠ 仿品或舊型號掛新名 SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
+    "note": "Xiaomi 開放式耳機Pro 官網$3,699。$3,000=81% 折19%太小不如買新品",
+    "source": "web search 2026-05-06"
   },
-  "1436945100": {
-    "newPrice": 4980,
+  "1436319463": {
+    "newPrice": 7490,
     "secondhand": null,
-    "note": "JBL Flip 7 白 公司貨$5,980 (PChome$4,980)。$4,000=80% 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
+    "note": "Huawei FreeBuds Pro 4 TW新品$7,490(2025/1上市)。$3,000=40%, iOS體驗受限需驗",
+    "source": "web search 2026-05-06"
   },
-  "1436957999": {
-    "newPrice": 1799,
-    "secondhand": null,
-    "note": "小米便攜相印機 1S 公司貨$1,799。$2,800=156% 比新品還貴 SKIP",
-    "source": "web search 2026-05-10",
-    "skip": true
-  },
-  "1436835290": {
+  "1436319544": {
     "newPrice": null,
-    "secondhand": 3550,
-    "note": "Apple Watch S6 40mm GPS 整修品 已停產 二手中位$3,550。$4,600=130% 比二手貴 30% SKIP",
-    "source": "web search 2026-05-09",
-    "skip": true
-  },
-  "1436830443": {
-    "newPrice": 2690,
     "secondhand": null,
-    "note": "Snow Peak CS-116 磨豆機 公司貨$2,690。$2,500=93% 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-09",
+    "note": "金鑫陽手動沖壓機 = 皮革用沖壓機，「手沖」query 字面誤匹配 SKIP",
+    "source": "manual 2026-05-07",
     "skip": true
   },
-  "1436845492": {
+  "1436350245": {
+    "newPrice": 5990,
+    "secondhand": 5000,
+    "note": "AirPods 4 ANC $4,900=98%二手, 完全沒折扣",
+    "source": "web search 2026-05-06"
+  },
+  "1436359580": {
+    "newPrice": 7900,
+    "secondhand": null,
+    "note": "AW SE3 40mm GPS Apple$7,900。$4,200=53%新品, SE3晚2025上市40mm二手listings不足3筆",
+    "source": "web search 2026-05-06"
+  },
+  "1436361099": {
+    "newPrice": 4490,
+    "secondhand": 2500,
+    "note": "DJI Mic Mini 1v2套組 公司貨$4,490。二手$2,000-3,350(中位$2,500)。$2,000全新低於二手中位 = 雙贏",
+    "source": "web search 2026-05-06"
+  },
+  "1436363998": {
+    "newPrice": 5190,
+    "secondhand": null,
+    "note": "Samsung Galaxy Buds 4 (非Pro) TW新品$5,190(2026/3上市)。$3,000=58%, 才6週新機型二手稀少",
+    "source": "web search 2026-05-06"
+  },
+  "1436367629": {
+    "newPrice": 5980,
+    "secondhand": null,
+    "note": "Moondrop MoonRiver 3 (水解叁) 旗艦小尾巴 audiolinked $5,980。$4,500=75% 折25%太小",
+    "source": "web search 2026-05-06"
+  },
+  "1436371732": {
+    "newPrice": 8000,
+    "secondhand": 4500,
+    "note": "Sony WH-1000XM4 已停產(被XM5/6取代)。二手$3,500-5,000中位$4,500。$4,500=行情",
+    "source": "web search 2026-05-06"
+  },
+  "1436373491": {
     "newPrice": null,
-    "secondhand": 3500,
-    "note": "Bose QuietComfort Earbuds 一代 已停產 二手中位$3,500。$2,900=83% 二手, <$3K 殺價門檻邊緣 SKIP",
-    "source": "web search 2026-05-09",
-    "skip": true
+    "secondhand": 11000,
+    "note": "AirPods Max Lightning版已停產(USB-C 2024取代)。TW二手$8K-12.5K(個人$8K-11.8K, gapple$11.8K-13.9K)。$5,000=45% 撿便宜但需防仿品",
+    "source": "web search 2026-05-06"
   },
-  "1436843572": {
-    "newPrice": 4990,
-    "secondhand": 4000,
-    "note": "AirPods 4 ANC 保固內 公司貨$4,990 / 二手中位$4,000。$3,400=68%/85% → 殺價檻 (≥$3K ≤90% 二手)",
-    "source": "web search 2026-05-09"
-  },
-  "1436827918": {
-    "newPrice": 5100,
+  "1436373725": {
+    "newPrice": null,
     "secondhand": null,
-    "note": "Honeywell HAP-801APTW 新品$5,100-7,990（Costco/Yahoo福利品$5,100起）。$800=16% → 好貨檻, ⚠ 賣家標『付二手濾棉』需再買新濾網",
-    "source": "web search 2026-05-09"
+    "note": "露營車尾帳 generic 無品牌, TW行情$3K-18.8K, $5,000 mid-range無套利",
+    "source": "skip - vague brand"
   },
-  "1436824502": {
+  "1436392919": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Sony INZONE H5 白 PChome$3,990。$2,400=60%新品 38分鐘前剛上架",
+    "source": "web search 2026-05-06"
+  },
+  "1436400840": {
     "newPrice": 3980,
     "secondhand": null,
-    "note": "AKAI MPK Mini MKIII 黑 PChome公司貨$3,980（DigiLog平輸$2,999）。$2,500=63%（公司貨）/83%（平輸）, ⚠ 是否公司貨會影響評價",
-    "source": "web search 2026-05-09"
+    "note": "MIRAVAC ARF6 4合1無葉空氣循環扇 白色 PChome新品$3,980（原$5,990）。$840=21% of new，全新未使用",
+    "source": "web search 2026-05-07"
   },
-  "1436816407": {
+  "1436403139": {
     "newPrice": null,
-    "secondhand": 13000,
-    "note": "Canon EF 70-200 f/4 L USM 無IS 第一代1999 已停產 二手中位$13,000。$12,000=92% 過 90% 殺價門檻 SKIP",
-    "source": "web search 2026-05-09",
-    "skip": true
-  },
-  "1436810507": {
-    "newPrice": 9900,
-    "secondhand": 6500,
-    "note": "Nikon Z 28mm f/2.8 SE 復古版 公司貨$9,900 / 二手中位$6,500。$5,000=51%/77% → 殺價檻",
-    "source": "web search 2026-05-09"
-  },
-  "1436808637": {
-    "newPrice": null,
-    "secondhand": 7000,
-    "note": "DJI Mini 2 已停產 二手中位$7,000。$7,600=109% 比二手略貴 SKIP",
-    "source": "web search 2026-05-09",
-    "skip": true
-  },
-  "1436806164": {
-    "newPrice": 13990,
-    "secondhand": 9000,
-    "note": "Canon PowerShot V10 vlog相機 公司貨$13,990 / 二手中位$9,000。$6,500=46%/72% → 殺價檻",
-    "source": "web search 2026-05-09"
-  },
-  "1436809912": {
-    "newPrice": 3000,
-    "secondhand": 1600,
-    "note": "HomePod mini 全新$3,000 / 二手中位$1,600（無盒無充扣價後）。$2,050=68%/128% 比二手貴 SKIP",
-    "source": "web search 2026-05-09",
-    "skip": true
-  },
-  "1430774612": {
-    "newPrice": 19900,
     "secondhand": null,
-    "note": "B&O Beoplay H9i 星空版 已停產 公司貨原價$19,900。$5,000=25% → 好貨檻, ⚠ 二手實際$4.5K-5K 同價, 樣本不足",
-    "source": "web search 2026-05-09"
+    "note": "KENDRA 埃及地毯 TW無公開行情, 個人/小眾品牌. $1,800無法判斷",
+    "source": "skip - no data"
   },
-  "1436803154": {
-    "newPrice": 9500,
-    "secondhand": 6500,
-    "note": "Sony WH-1000XM5 旗艦降噪 公司貨$9,500 / 二手中位$6,500。$4,300=45%/66% → 好貨檻 (比 hannaz1 $5,000 更便宜)",
-    "source": "web search 2026-05-09"
+  "1436406501": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "AirPods Pro 2 USB-C 通路特價$5,590-6,890 / 二手$5,000。⚠ PTT明確警告$5K-6K已是假貨高風險區, $3,360幾乎確定假貨/詐騙誘餌, secondhand設null以排除",
+    "source": "web search 2026-05-06 (FAKE WARNING)"
   },
-  "1436801503": {
+  "1436408751": {
+    "newPrice": 1890,
+    "secondhand": null,
+    "note": "Brewista 戶外旅咖手沖套組 momo$1,890。$1,600=85%, 不便宜 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436420840": {
+    "newPrice": 6990,
+    "secondhand": null,
+    "note": "Honeywell HPA-202APTW 新品$6,990。$2,300=33%, ⚠ 二手濾網替換成本$1,000+",
+    "source": "web search 2026-05-06"
+  },
+  "1436424889": {
     "newPrice": 4990,
     "secondhand": null,
-    "note": "Marshall Major V 復古棕 2024新品 公司貨$4,990。$3,200=64% 進手動門檻, 二手樣本不足",
-    "source": "web search 2026-05-09"
+    "note": "Fuji Wide 400 新品$4,990(PChome)。$4,500=90%, 折10%太小",
+    "source": "web search 2026-05-06"
+  },
+  "1436428672": {
+    "newPrice": 3290,
+    "secondhand": null,
+    "note": "Fuji Mini 40 新品$2,990-3,619。$3,500=92%幾乎新品價",
+    "source": "web search 2026-05-06"
+  },
+  "1436442716": {
+    "newPrice": 3900,
+    "secondhand": null,
+    "note": "Insta360 Ace Pro 2 微距鏡頭 港價HK$999≈NT$3,900。$2,800=72% 邊緣, 進手動可參考",
+    "source": "web search 2026-05-11"
+  },
+  "1436448275": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "Beats Studio Buds (原版) 新品$4,990。$3,000=60%, ⚠ PTT/Dcard 有假貨警告，建議當面驗",
+    "source": "web search 2026-05-07"
+  },
+  "1436448416": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "Marshall Major IV 咖啡 新品$4,990。$3,350=67%, ⚠ PTT/Dcard 有假貨警告，建議當面驗",
+    "source": "web search 2026-05-07"
+  },
+  "1436451845": {
+    "newPrice": 5900,
+    "secondhand": null,
+    "note": "Bose SoundLink Flex 2nd Gen 新品$5,900（momo促銷$4,990）。$4,800=81% of $5,900，太貴不過手動判斷門檻。Mobile01 有仿品警告",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436452203": {
+    "newPrice": 1899,
+    "secondhand": null,
+    "note": "未來實驗室 Stermidi 除濕機 新品$1,899。$500=26%, ⚠ 官方發詐騙警告 + PTT/Dcard 稱『智商稅』+ 太便宜離譜（疑似引流詐騙），SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436454014": {
+    "newPrice": 9900,
+    "secondhand": 6500,
+    "note": "Apple Watch S8 港版 41mm GPS 已停產，二手中位數約$6,500。$3,500=54% vs 二手, ⚠ 港版水貨，注意保固",
+    "source": "web search 2026-05-07"
+  },
+  "1436458042": {
+    "newPrice": 6490,
+    "secondhand": null,
+    "note": "Sennheiser Accentum 公司貨$6,490。$3,350=52%，2023年款二手樣本不足",
+    "source": "web search 2026-05-07"
+  },
+  "1436458235": {
+    "newPrice": 5600,
+    "secondhand": null,
+    "note": "AKG K701 陸產 THINK2新品$5,600。$2,800=50%, ⚠ 陸產版品質被認為次於奧產（PTT Headphone板）",
+    "source": "web search 2026-05-07"
+  },
+  "1436461216": {
+    "newPrice": 4490,
+    "secondhand": 3230,
+    "note": "AirPods 4 無降噪版 新品$4,490, 二手中位數$3,230。$3,499=78%/108%，比二手還貴，SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436462159": {
+    "newPrice": 9900,
+    "secondhand": null,
+    "note": "Klipsch R-51M 書架喇叭 PChome公司貨$9,900。$8,000=81%, 不過 70% 門檻 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436471067": {
+    "newPrice": 2390,
+    "secondhand": null,
+    "note": "Edifier Lolliclip 開放式耳夾耳機 momo新品最低$2,390。$2,650=111%, 比新品還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436472388": {
+    "newPrice": 2690,
+    "secondhand": null,
+    "note": "Philips TAH8000 新品$2,530-2,690（東森最低$2,530）。$2,200=82%, 不過 70% 門檻 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436486742": {
+    "newPrice": 3500,
+    "secondhand": null,
+    "note": "UNiKA DI-BT Box 估新品$3,500（小眾pro-audio無公開定價）。$2,500=71%, 不過 70% 門檻且非耳機/喇叭 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436487735": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "AirPods Pro 2 USB-C 新品$7,490。$2,300=31%, ⚠ 已知中國仿品詐騙模式 (PTT iOS板有實證) SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436490628": {
+    "newPrice": 6999,
+    "secondhand": 4900,
+    "note": "Apple Watch SE2 40mm 銀 二手中位$4,900。$1,200=17%/24%, ⚠ 太便宜離譜，疑似詐騙引流 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436494611": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "DJI Goggles N3 公司貨$7,490。$6,499=87% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436512575": {
+    "newPrice": 4990,
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。連續降價$3,200→$2,700→$2,300=46%/57%, 越來越便宜⚠ 假貨多請當面驗",
+    "source": "web search 2026-05-07"
+  },
+  "1436523874": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "lululemon 喇叭神褲 是衣服雜訊，Rose 不買 lululemon SKIP",
+    "source": "manual 2026-05-07",
+    "skip": true
+  },
+  "1436524866": {
+    "newPrice": null,
+    "secondhand": 30000,
+    "note": "Sony A7III 機身公司貨 已停產 二手中位$30,000。$27,000=90% → 殺價檻邊緣, 快門3千多極低算合理偏便宜",
+    "source": "web search 2026-05-08"
+  },
+  "1436534976": {
+    "newPrice": 3590,
+    "secondhand": null,
+    "note": "Marimekko Unikko 官方$3,590（代購$2,850-3,190）。$2,600=72%, 邊緣值得看, ⚠ 仿品多需驗真品 + 問尺寸款式",
+    "source": "web search 2026-05-07"
+  },
+  "1436536216": {
+    "newPrice": 5450,
+    "secondhand": null,
+    "note": "Snow Peak 軟式保冰袋 38L (FP-138R) 公司貨$5,450。$2,200=40%, 賣家『原價五千多』屬實",
+    "source": "web search 2026-05-07"
+  },
+  "1436538498": {
+    "newPrice": 5900,
+    "secondhand": null,
+    "note": "Bose SoundLink Flex 二代新品$5,900（初代約$4,690）。$3,300=56% (二代)/70% (初代)，⚠ 賣家未標世代，需問清楚",
+    "source": "web search 2026-05-07"
+  },
+  "1436540192": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Panasonic 國際牌 16L 變頻 賣家未給型號(F-Y32JH/EH/F-Y36JH 等差價大), 無法驗 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436544521": {
+    "newPrice": 7700,
+    "secondhand": null,
+    "note": "LOMO LC-A+ 木盒大全套 蝦皮慢調思理新品$7,700（缺貨）。$6,580=85% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436544880": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Saramonic UwMic10 麥克風組 = pro audio 收音設備，非 Rose 消費需求 SKIP",
+    "source": "manual 2026-05-07",
+    "skip": true
+  },
+  "1436547031": {
+    "newPrice": 21900,
+    "secondhand": null,
+    "note": "EPSON EF-11 雷射投影機 公司貨$20,900-22,900。$10,000=46%, 二手樣本不足",
+    "source": "web search 2026-05-07"
+  },
+  "1436578130": {
+    "newPrice": 5400,
+    "secondhand": null,
+    "note": "JBL Bar 2.0 mk2 Soundbar 新品$5,400-5,990。$4,500=83%, 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436578178": {
+    "newPrice": 4690,
+    "secondhand": 3500,
+    "note": "AirPods 4 ANC 公司貨 新品$4,690 / 二手中位$3,500。$4,000=85%/114%, 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436578609": {
+    "newPrice": 9660,
+    "secondhand": null,
+    "note": "Bose SoundLink Mini 2 特別版黑金 已停售 undersky.tw 特別版$5K-6K, BigGo 二手$9,070。$3,500=36-64%, ⚠ 已停售+特別版仿品多需驗真品",
+    "source": "web search 2026-05-07"
+  },
+  "1436591277": {
+    "newPrice": 4990,
+    "secondhand": 2500,
+    "note": "AirPods 3 三代 新品$4,990 / 二手中位$2,500。$2,500=50%/100%, 剛好等於二手中位數無特別便宜 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436591663": {
+    "newPrice": 6503,
+    "secondhand": null,
+    "note": "HITACHI RD-16FR1 8L 公司貨$6,503。$6,555=101% 比新品還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436592484": {
+    "newPrice": 7500,
+    "secondhand": null,
+    "note": "VOX 貝斯口袋音響+入門電貝斯組合 估新品約$7,500。$8,000=107%, 比新品還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436597861": {
+    "newPrice": 2990,
+    "secondhand": null,
+    "note": "Marshall Minor IV 全新未拆 主流$2,990。$2,500=84%, 過 70% 門檻 SKIP（雖全新但只省$490）",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436597911": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "三菱 MJ-P180SX-W 18L 日本水貨 P180 舊款, 台灣 ≥3 筆同款湊不齊 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436602617": {
+    "newPrice": null,
+    "secondhand": 3000,
+    "note": "DARLING 300 黑膠唱機 已停產 二手中位$3,000。$3,500=117% 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436607346": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "AirPods Pro 3 (2025/10 上市) 公司貨$7,490（最低$6,490）。$4,600=61%/71%, ⚠ AirPods Pro 系列假貨多, 全新未拆需驗序號",
+    "source": "web search 2026-05-07"
+  },
+  "1436608752": {
+    "newPrice": null,
+    "secondhand": 21500,
+    "note": "Fujifilm X-T3 機身 已停產 二手中位$21,500（蝦皮/Yahoo $19.5K-22K）。$18,000=84% → 殺價檻 (≥$3K ≤90% 二手)",
+    "source": "web search 2026-05-08"
+  },
+  "1436609049": {
+    "newPrice": null,
+    "secondhand": 12000,
+    "note": "Fujifilm XF 35mm F1.4 R 已停產 二手中位$12,000（蝦皮/Yahoo $10K-13K）。$10,500=88% → 殺價檻 (≥$3K ≤90% 二手)",
+    "source": "web search 2026-05-08"
+  },
+  "1436610387": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "三菱日本原裝 25L 2022 製造 賣家未給具體型號(MJ-PV/EV/EHV250 都不同), 無法 ≥3 筆同款驗證 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436610628": {
+    "newPrice": 3990,
+    "secondhand": 2200,
+    "note": "Marshall Willen 一代 新品$3,990 / 二手中位$2,200。$2,400=60%/109%, 比二手還貴 SKIP",
+    "source": "web search 2026-05-07",
+    "skip": true
+  },
+  "1436630586": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Fujifilm 餅乾鏡稀有機身 賣家描述模糊（餅乾鏡=XF27mm 但機身未指明 X-Pro1/X-E1/X-T1）, ⚠ 太籠統 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436631009": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "標題只有 YouTube link 詐騙 SKIP",
+    "source": "manual 2026-05-08",
+    "skip": true
+  },
+  "1436631479": {
+    "newPrice": null,
+    "secondhand": 5488,
+    "note": "Fujifilm X-E1 銀 已停產 二手中位$5,488。$9,000=164% 比二手還貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436632710": {
+    "newPrice": 27000,
+    "secondhand": null,
+    "note": "FUJIFILM GF35-70mm F4.5-5.6 WR GFX 中片幅變焦鏡 公司貨$27,000-28,500。$16,000=59%, 二手樣本不足",
+    "source": "web search 2026-05-08"
+  },
+  "1436636877": {
+    "newPrice": 6790,
+    "secondhand": null,
+    "note": "EDIFIER MR5 監聽喇叭 一對$6,790（特價$5,488）。$5,000=74%/91%, 過 70% 門檻 + 監聽喇叭非藍牙喇叭用途 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436644546": {
+    "newPrice": null,
+    "secondhand": 11880,
+    "note": "Contax G28 Zeiss Biogon T* 已停產 二手中位$11,880。$28,000=236% 比二手貴2倍多 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436651290": {
+    "newPrice": null,
+    "secondhand": 14000,
+    "note": "Sony A6000+28-70mm KIT 描述有誤（A6000原廠KIT是16-50mm，28-70mm是A7 KIT鏡需轉接）。$11,000 落在組合中位，不夠便宜+描述問題 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436654769": {
+    "newPrice": null,
+    "secondhand": 9500,
+    "note": "Onkyo DP-X1A 64GB DAP 已停產 二手中位$9,500（PTT $6K-12K）。$3,980=42% → 好貨檻",
+    "source": "web search 2026-05-08"
+  },
+  "1436655539": {
+    "newPrice": 6490,
+    "secondhand": 5000,
+    "note": "Marshall Emberton III 三代 IP67 公司貨$6,490 / 二手中位$5,000（PTT $4.6K-5.3K）。$4,500=69%/90% → 殺價檻邊緣",
+    "source": "web search 2026-05-08"
+  },
+  "1436661502": {
+    "newPrice": 22900,
+    "secondhand": 9500,
+    "note": "Canon 800D 公司貨$22,900（清庫存）二手中位$9,500。$12,000=52%/126% 比二手還貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436672974": {
+    "newPrice": 1190,
+    "secondhand": null,
+    "note": "Edifier G2II 電競耳機 PChome$1,190。$2,200=185% 比新品還貴 SKIP（賣家可能標錯型號）",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436673254": {
+    "newPrice": 12150,
+    "secondhand": null,
+    "note": "Boss ME-90 電吉他效果器 公司貨$12,150（原$13,500）。$11,000=91% 過門檻+非 Rose 需求 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436673658": {
+    "newPrice": 8500,
+    "secondhand": null,
+    "note": "Arturia KeyLab Essential MK3 49鍵 MIDI 鍵盤 新品$8,190-8,800 中位$8,500。$5,000=59%, 二手樣本不足",
+    "source": "web search 2026-05-08"
+  },
+  "1436690151": {
+    "newPrice": null,
+    "secondhand": 5500,
+    "note": "Canon EF-S 18-135mm IS STM EF-S 已停產 二手中位$5,500。$5,250=95% 過 90% 殺價門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436690514": {
+    "newPrice": null,
+    "secondhand": 25500,
+    "note": "Sony a6400 + Sigma 30/1.4 套組 二手組合估算$25,500（機身$18K+鏡$7.5K）。$25,000=98% 合理價非 deal SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436693464": {
+    "newPrice": 5490,
+    "secondhand": null,
+    "note": "Whirlpool WDEE20AW 10.5L 公司貨$5,490 (momo/PChome/Yahoo一致)。$3,000=55% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1436696445": {
+    "newPrice": 18990,
+    "secondhand": 12000,
+    "note": "DJI Osmo Pocket 3 公司貨$17,820-18,990 / 全能套裝$22,773 / 二手中位$12,000。$7,500=39%/63% → 好貨檻",
+    "source": "web search 2026-05-08"
+  },
+  "1436696532": {
+    "newPrice": 4990,
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 神腦續約全新未拆 新品$4,990 / 二手中位$4,000。$4,600=92%/115% 比二手還貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436701924": {
+    "newPrice": 9500,
+    "secondhand": 6500,
+    "note": "Sony WH-1000XM5 旗艦降噪 公司貨$8,910-10,400 / 二手中位$6,500。$5,000=53%/77% → 殺價檻, 比二手低23% 急售區",
+    "source": "web search 2026-05-08"
+  },
+  "1436712097": {
+    "newPrice": 9500,
+    "secondhand": null,
+    "note": "Bose Ultra Open Earbuds 公司貨$9,500（Yahoo$8,500）。$5,000=53%, ⚠ 2024高階機+低47% 需驗真偽公司貨",
+    "source": "web search 2026-05-08"
+  },
+  "1436713095": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Google Home Max 已停產 二手樣本不足（Expansys平輸殘餘$8,940）。$10,000 比平輸還貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436719975": {
+    "newPrice": null,
+    "secondhand": 26000,
+    "note": "Sony A6500+SEL18-135 KIT 已停產 二手組合$26,000（機身$17.5K+鏡$9.5K減折）。$25,000=96% 過 90% 殺價門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436722149": {
+    "newPrice": 2900,
+    "secondhand": null,
+    "note": "Snowpeak 雪峰咖啡壺 同上款，疑仿品 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436723077": {
+    "newPrice": null,
+    "secondhand": 8500,
+    "note": "RICOH GXR+S10 已停產 二手中位$8,500（Yahoo/蝦皮 $6.8K-9.8K）。$9,999=118% 比二手貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436723576": {
+    "newPrice": 4090,
+    "secondhand": null,
+    "note": "DJI Osmo Mobile 7P 公司貨$4,090。$2,000=49% 進手動門檻, ⚠ 太低疑水貨或 OM7 一般版混淆",
+    "source": "web search 2026-05-11"
+  },
+  "1436731395": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "PHILIPS TAH8856 ANC耳機 新品$3,990（PChome/momo$4,990）。$2,800=70% 邊緣, ⚠ BigGo 二手才$1,900 賣家偏高",
+    "source": "web search 2026-05-08"
+  },
+  "1436732085": {
+    "newPrice": 2900,
+    "secondhand": null,
+    "note": "Snowpeak 雪峰咖啡壺 官方無『帶溫度計』版本+momo新品$2,900。$1,880=65%, ⚠ 賣家描述與官方規格不符疑仿品 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436735889": {
+    "newPrice": 9900,
+    "secondhand": 4900,
+    "note": "Corona FH-TS321Y 煤油暖氣機 公司貨$9,900 / 二手中位$4,900。$5,000=51%/102% 比二手貴 SKIP（2013舊款新品多福利品）",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436739357": {
+    "newPrice": 3880,
+    "secondhand": null,
+    "note": "Fujifilm mini Link 3 日購全新 公司貨$3,880（平輸最低$3,080）。$3,499=90%/114%(平輸) 不便宜 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436741649": {
+    "newPrice": 1411,
+    "secondhand": null,
+    "note": "InstantSnap 透明拍立得新$1,411。$1,599 比新品還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436745355": {
+    "newPrice": 28900,
+    "secondhand": 12000,
+    "note": "ZEISS Touit 12mm f/2.8 Sony E APS-C廣角 公司貨$28,900 / 二手中位$12,000。$7,500=26%/63% → 好貨檻雙重通過",
+    "source": "web search 2026-05-08"
+  },
+  "1436758506": {
+    "newPrice": 4980,
+    "secondhand": null,
+    "note": "Beurer 博依 LR 220 全淨化空氣清淨機 諾曼百赫官方$4,980（原$8,180）。$1,900=38%, <$2K 手動門檻但便宜值得看",
+    "source": "web search 2026-05-08"
+  },
+  "1436782901": {
+    "newPrice": 4490,
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 遠傳公司貨未拆 新品$4,490 / 二手中位$4,000。$4,000=89%/100% 等於二手 SKIP（同 mars921 規格）",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436786464": {
+    "newPrice": 3290,
+    "secondhand": null,
+    "note": "Shokz OpenFit Air 開放式 公司貨$3,290（原$4,690）。$2,500=76% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436788262": {
+    "newPrice": 6490,
+    "secondhand": 3000,
+    "note": "Marshall Emberton II 二代藍牙喇叭 公司貨$6,490 / 二手中位$3,000。$3,200=49%/107% 比二手略貴 SKIP",
+    "source": "web search 2026-05-08",
+    "skip": true
   },
   "1436790778": {
     "newPrice": 32980,
@@ -997,1116 +1453,722 @@
     "source": "web search 2026-05-08",
     "skip": true
   },
-  "1436788262": {
-    "newPrice": 6490,
-    "secondhand": 3000,
-    "note": "Marshall Emberton II 二代藍牙喇叭 公司貨$6,490 / 二手中位$3,000。$3,200=49%/107% 比二手略貴 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436786464": {
-    "newPrice": 3290,
+  "1436801503": {
+    "newPrice": 4990,
     "secondhand": null,
-    "note": "Shokz OpenFit Air 開放式 公司貨$3,290（原$4,690）。$2,500=76% 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
+    "note": "Marshall Major V 復古棕 2024新品 公司貨$4,990。$3,200=64% 進手動門檻, 二手樣本不足",
+    "source": "web search 2026-05-09"
   },
-  "1436782901": {
-    "newPrice": 4490,
-    "secondhand": 4000,
-    "note": "AirPods 4 ANC 遠傳公司貨未拆 新品$4,490 / 二手中位$4,000。$4,000=89%/100% 等於二手 SKIP（同 mars921 規格）",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1433801453": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "鐵三角 ATH-WS33BT 型號不存在（官方無此編號，可能混淆 WS33X 有線/WS330BT 無線）, ⚠ 仿品或標錯 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436758506": {
-    "newPrice": 4980,
-    "secondhand": null,
-    "note": "Beurer 博依 LR 220 全淨化空氣清淨機 諾曼百赫官方$4,980（原$8,180）。$1,900=38%, <$2K 手動門檻但便宜值得看",
-    "source": "web search 2026-05-08"
-  },
-  "1429791585": {
-    "newPrice": 18900,
-    "secondhand": 11000,
-    "note": "Tamron 28-75mm f/2.8 A036 Sony FE 一代停產 新品$18,900 / 二手中位$11,000。$13,500=71%/123% 比二手貴 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436735889": {
-    "newPrice": 9900,
-    "secondhand": 4900,
-    "note": "Corona FH-TS321Y 煤油暖氣機 公司貨$9,900 / 二手中位$4,900。$5,000=51%/102% 比二手貴 SKIP（2013舊款新品多福利品）",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436745355": {
-    "newPrice": 28900,
-    "secondhand": 12000,
-    "note": "ZEISS Touit 12mm f/2.8 Sony E APS-C廣角 公司貨$28,900 / 二手中位$12,000。$7,500=26%/63% → 好貨檻雙重通過",
-    "source": "web search 2026-05-08"
-  },
-  "1430431727": {
-    "newPrice": 6490,
-    "secondhand": 5000,
-    "note": "Marshall Emberton III 三代 公司貨$6,490 / 二手中位$5,000。$4,000=62%/80% → 殺價檻 (比 hana0613 $4,500 更便宜)",
-    "source": "web search 2026-05-08"
-  },
-  "1436739357": {
-    "newPrice": 3880,
-    "secondhand": null,
-    "note": "Fujifilm mini Link 3 日購全新 公司貨$3,880（平輸最低$3,080）。$3,499=90%/114%(平輸) 不便宜 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436732085": {
-    "newPrice": 2900,
-    "secondhand": null,
-    "note": "Snowpeak 雪峰咖啡壺 官方無『帶溫度計』版本+momo新品$2,900。$1,880=65%, ⚠ 賣家描述與官方規格不符疑仿品 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436722149": {
-    "newPrice": 2900,
-    "secondhand": null,
-    "note": "Snowpeak 雪峰咖啡壺 同上款，疑仿品 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436731395": {
-    "newPrice": 3990,
-    "secondhand": null,
-    "note": "PHILIPS TAH8856 ANC耳機 新品$3,990（PChome/momo$4,990）。$2,800=70% 邊緣, ⚠ BigGo 二手才$1,900 賣家偏高",
-    "source": "web search 2026-05-08"
-  },
-  "1436723077": {
-    "newPrice": null,
-    "secondhand": 8500,
-    "note": "RICOH GXR+S10 已停產 二手中位$8,500（Yahoo/蝦皮 $6.8K-9.8K）。$9,999=118% 比二手貴 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436712097": {
-    "newPrice": 9500,
-    "secondhand": null,
-    "note": "Bose Ultra Open Earbuds 公司貨$9,500（Yahoo$8,500）。$5,000=53%, ⚠ 2024高階機+低47% 需驗真偽公司貨",
-    "source": "web search 2026-05-08"
-  },
-  "1436701924": {
+  "1436803154": {
     "newPrice": 9500,
     "secondhand": 6500,
-    "note": "Sony WH-1000XM5 旗艦降噪 公司貨$8,910-10,400 / 二手中位$6,500。$5,000=53%/77% → 殺價檻, 比二手低23% 急售區",
-    "source": "web search 2026-05-08"
+    "note": "Sony WH-1000XM5 旗艦降噪 公司貨$9,500 / 二手中位$6,500。$4,300=45%/66% → 好貨檻 (比 hannaz1 $5,000 更便宜)",
+    "source": "web search 2026-05-09"
   },
-  "1436719975": {
+  "1436806164": {
+    "newPrice": 13990,
+    "secondhand": 9000,
+    "note": "Canon PowerShot V10 vlog相機 公司貨$13,990 / 二手中位$9,000。$6,500=46%/72% → 殺價檻",
+    "source": "web search 2026-05-09"
+  },
+  "1436808637": {
     "newPrice": null,
-    "secondhand": 26000,
-    "note": "Sony A6500+SEL18-135 KIT 已停產 二手組合$26,000（機身$17.5K+鏡$9.5K減折）。$25,000=96% 過 90% 殺價門檻 SKIP",
-    "source": "web search 2026-05-08",
+    "secondhand": 7000,
+    "note": "DJI Mini 2 已停產 二手中位$7,000。$7,600=109% 比二手略貴 SKIP",
+    "source": "web search 2026-05-09",
     "skip": true
   },
-  "1436713095": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Google Home Max 已停產 二手樣本不足（Expansys平輸殘餘$8,940）。$10,000 比平輸還貴 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436696445": {
-    "newPrice": 18990,
-    "secondhand": 12000,
-    "note": "DJI Osmo Pocket 3 公司貨$17,820-18,990 / 全能套裝$22,773 / 二手中位$12,000。$7,500=39%/63% → 好貨檻",
-    "source": "web search 2026-05-08"
-  },
-  "1436690151": {
-    "newPrice": null,
-    "secondhand": 5500,
-    "note": "Canon EF-S 18-135mm IS STM EF-S 已停產 二手中位$5,500。$5,250=95% 過 90% 殺價門檻 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436696532": {
-    "newPrice": 4990,
-    "secondhand": 4000,
-    "note": "AirPods 4 ANC 神腦續約全新未拆 新品$4,990 / 二手中位$4,000。$4,600=92%/115% 比二手還貴 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436673658": {
-    "newPrice": 8500,
-    "secondhand": null,
-    "note": "Arturia KeyLab Essential MK3 49鍵 MIDI 鍵盤 新品$8,190-8,800 中位$8,500。$5,000=59%, 二手樣本不足",
-    "source": "web search 2026-05-08"
-  },
-  "1436690514": {
-    "newPrice": null,
-    "secondhand": 25500,
-    "note": "Sony a6400 + Sigma 30/1.4 套組 二手組合估算$25,500（機身$18K+鏡$7.5K）。$25,000=98% 合理價非 deal SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436672974": {
-    "newPrice": 1190,
-    "secondhand": null,
-    "note": "Edifier G2II 電競耳機 PChome$1,190。$2,200=185% 比新品還貴 SKIP（賣家可能標錯型號）",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436673254": {
-    "newPrice": 12150,
-    "secondhand": null,
-    "note": "Boss ME-90 電吉他效果器 公司貨$12,150（原$13,500）。$11,000=91% 過門檻+非 Rose 需求 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436651290": {
-    "newPrice": null,
-    "secondhand": 14000,
-    "note": "Sony A6000+28-70mm KIT 描述有誤（A6000原廠KIT是16-50mm，28-70mm是A7 KIT鏡需轉接）。$11,000 落在組合中位，不夠便宜+描述問題 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436644546": {
-    "newPrice": null,
-    "secondhand": 11880,
-    "note": "Contax G28 Zeiss Biogon T* 已停產 二手中位$11,880。$28,000=236% 比二手貴2倍多 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436524866": {
-    "newPrice": null,
-    "secondhand": 30000,
-    "note": "Sony A7III 機身公司貨 已停產 二手中位$30,000。$27,000=90% → 殺價檻邊緣, 快門3千多極低算合理偏便宜",
-    "source": "web search 2026-05-08"
-  },
-  "1436661502": {
-    "newPrice": 22900,
-    "secondhand": 9500,
-    "note": "Canon 800D 公司貨$22,900（清庫存）二手中位$9,500。$12,000=52%/126% 比二手還貴 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436544521": {
-    "newPrice": 7700,
-    "secondhand": null,
-    "note": "LOMO LC-A+ 木盒大全套 蝦皮慢調思理新品$7,700（缺貨）。$6,580=85% 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1430434870": {
-    "newPrice": 20900,
-    "secondhand": null,
-    "note": "Canon EOS R50 KIT 公司貨$20,900（原$22,900）。$18,000=86%, 不過 70% 門檻 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436609049": {
-    "newPrice": null,
-    "secondhand": 12000,
-    "note": "Fujifilm XF 35mm F1.4 R 已停產 二手中位$12,000（蝦皮/Yahoo $10K-13K）。$10,500=88% → 殺價檻 (≥$3K ≤90% 二手)",
-    "source": "web search 2026-05-08"
-  },
-  "1436608752": {
-    "newPrice": null,
-    "secondhand": 21500,
-    "note": "Fujifilm X-T3 機身 已停產 二手中位$21,500（蝦皮/Yahoo $19.5K-22K）。$18,000=84% → 殺價檻 (≥$3K ≤90% 二手)",
-    "source": "web search 2026-05-08"
-  },
-  "1436655539": {
-    "newPrice": 6490,
-    "secondhand": 5000,
-    "note": "Marshall Emberton III 三代 IP67 公司貨$6,490 / 二手中位$5,000（PTT $4.6K-5.3K）。$4,500=69%/90% → 殺價檻邊緣",
-    "source": "web search 2026-05-08"
-  },
-  "1436654769": {
-    "newPrice": null,
-    "secondhand": 9500,
-    "note": "Onkyo DP-X1A 64GB DAP 已停產 二手中位$9,500（PTT $6K-12K）。$3,980=42% → 好貨檻",
-    "source": "web search 2026-05-08"
-  },
-  "1436636877": {
-    "newPrice": 6790,
-    "secondhand": null,
-    "note": "EDIFIER MR5 監聽喇叭 一對$6,790（特價$5,488）。$5,000=74%/91%, 過 70% 門檻 + 監聽喇叭非藍牙喇叭用途 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436632710": {
-    "newPrice": 27000,
-    "secondhand": null,
-    "note": "FUJIFILM GF35-70mm F4.5-5.6 WR GFX 中片幅變焦鏡 公司貨$27,000-28,500。$16,000=59%, 二手樣本不足",
-    "source": "web search 2026-05-08"
-  },
-  "1436631479": {
-    "newPrice": null,
-    "secondhand": 5488,
-    "note": "Fujifilm X-E1 銀 已停產 二手中位$5,488。$9,000=164% 比二手還貴 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1436630586": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Fujifilm 餅乾鏡稀有機身 賣家描述模糊（餅乾鏡=XF27mm 但機身未指明 X-Pro1/X-E1/X-T1）, ⚠ 太籠統 SKIP",
-    "source": "web search 2026-05-08",
-    "skip": true
-  },
-  "1429754461": {
-    "newPrice": 2800,
-    "secondhand": null,
-    "note": "飛馬牌 600N 磨豆機 PChome$2,800（momo$3K-4.2K）。$1,600=57%, ⚠ <$2K 手動門檻但便宜值得看",
-    "source": "web search 2026-05-08"
-  },
-  "1418785420": {
-    "newPrice": 7480,
-    "secondhand": null,
-    "note": "Fellow Opus 錐刀磨豆機 公司貨$7,480-7,950（嘖嘖集資$6,200）。$5,200=70%, 剛邊緣手動門檻 + PTT報價$4,500 比這便宜",
-    "source": "web search 2026-05-08"
-  },
-  "1436631009": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "標題只有 YouTube link 詐騙 SKIP",
-    "source": "manual 2026-05-08",
-    "skip": true
-  },
-  "1419624695": {
-    "newPrice": null,
-    "secondhand": 1500,
-    "note": "Apple Watch S3 38mm 已停產 二手中位$1,500。$2,200=147% 比二手還貴 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436408751": {
-    "newPrice": 1890,
-    "secondhand": null,
-    "note": "Brewista 戶外旅咖手沖套組 momo$1,890。$1,600=85%, 不便宜 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436319544": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "金鑫陽手動沖壓機 = 皮革用沖壓機，「手沖」query 字面誤匹配 SKIP",
-    "source": "manual 2026-05-07",
-    "skip": true
-  },
-  "1436193801": {
-    "newPrice": 2990,
-    "secondhand": null,
-    "note": "Bodum BISTRO Programmable 美式咖啡機 新品$2,990（原$3,990）。$850=28% → 好貨檻",
-    "source": "web search 2026-05-07"
-  },
-  "1436157948": {
-    "newPrice": 1099,
-    "secondhand": null,
-    "note": "Driver 快拆手沖壺 600ml 官方$1,099。$1,099=100% 等於新品 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1435819128": {
-    "newPrice": 849,
-    "secondhand": null,
-    "note": "無品牌手沖入門組 一般$849-1,360。$500=59%, 雜牌+件數材質不明 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1425234292": {
-    "newPrice": 4990,
-    "secondhand": null,
-    "note": "TCL S45H Soundbar 公司貨$4,990（蝦皮$4,200-4,500）。$2,750=55%, 二手樣本不足",
-    "source": "web search 2026-05-07"
-  },
-  "1436610628": {
-    "newPrice": 3990,
-    "secondhand": 2200,
-    "note": "Marshall Willen 一代 新品$3,990 / 二手中位$2,200。$2,400=60%/109%, 比二手還貴 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436607346": {
-    "newPrice": 7490,
-    "secondhand": null,
-    "note": "AirPods Pro 3 (2025/10 上市) 公司貨$7,490（最低$6,490）。$4,600=61%/71%, ⚠ AirPods Pro 系列假貨多, 全新未拆需驗序號",
-    "source": "web search 2026-05-07"
-  },
-  "1436602617": {
-    "newPrice": null,
-    "secondhand": 3000,
-    "note": "DARLING 300 黑膠唱機 已停產 二手中位$3,000。$3,500=117% 比二手還貴 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1430483171": {
-    "newPrice": 3990,
-    "secondhand": null,
-    "note": "Marshall Willen II 二代 黑 公司貨$3,990（最低$3,490酷澎）。$2,500=63%, 二手樣本不足",
-    "source": "web search 2026-05-07"
-  },
-  "1436592484": {
-    "newPrice": 7500,
-    "secondhand": null,
-    "note": "VOX 貝斯口袋音響+入門電貝斯組合 估新品約$7,500。$8,000=107%, 比新品還貴 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436597861": {
-    "newPrice": 2990,
-    "secondhand": null,
-    "note": "Marshall Minor IV 全新未拆 主流$2,990。$2,500=84%, 過 70% 門檻 SKIP（雖全新但只省$490）",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436591277": {
-    "newPrice": 4990,
-    "secondhand": 2500,
-    "note": "AirPods 3 三代 新品$4,990 / 二手中位$2,500。$2,500=50%/100%, 剛好等於二手中位數無特別便宜 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1430459298": {
-    "newPrice": 8600,
-    "secondhand": null,
-    "note": "NOVATION Launchkey 49 MK3 公司貨$8,000-8,800。$4,200=49%, 雖非 Rose 主清單但價格便宜值得看",
-    "source": "web search 2026-05-07"
-  },
-  "1436578609": {
-    "newPrice": 9660,
-    "secondhand": null,
-    "note": "Bose SoundLink Mini 2 特別版黑金 已停售 undersky.tw 特別版$5K-6K, BigGo 二手$9,070。$3,500=36-64%, ⚠ 已停售+特別版仿品多需驗真品",
-    "source": "web search 2026-05-07"
-  },
-  "1436578178": {
-    "newPrice": 4690,
-    "secondhand": 3500,
-    "note": "AirPods 4 ANC 公司貨 新品$4,690 / 二手中位$3,500。$4,000=85%/114%, 比二手還貴 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436578130": {
-    "newPrice": 5400,
-    "secondhand": null,
-    "note": "JBL Bar 2.0 mk2 Soundbar 新品$5,400-5,990。$4,500=83%, 過 70% 門檻 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436547031": {
-    "newPrice": 21900,
-    "secondhand": null,
-    "note": "EPSON EF-11 雷射投影機 公司貨$20,900-22,900。$10,000=46%, 二手樣本不足",
-    "source": "web search 2026-05-07"
-  },
-  "1436534976": {
-    "newPrice": 3590,
-    "secondhand": null,
-    "note": "Marimekko Unikko 官方$3,590（代購$2,850-3,190）。$2,600=72%, 邊緣值得看, ⚠ 仿品多需驗真品 + 問尺寸款式",
-    "source": "web search 2026-05-07"
-  },
-  "1436538498": {
-    "newPrice": 5900,
-    "secondhand": null,
-    "note": "Bose SoundLink Flex 二代新品$5,900（初代約$4,690）。$3,300=56% (二代)/70% (初代)，⚠ 賣家未標世代，需問清楚",
-    "source": "web search 2026-05-07"
-  },
-  "1436536216": {
-    "newPrice": 5450,
-    "secondhand": null,
-    "note": "Snow Peak 軟式保冰袋 38L (FP-138R) 公司貨$5,450。$2,200=40%, 賣家『原價五千多』屬實",
-    "source": "web search 2026-05-07"
-  },
-  "1436544880": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Saramonic UwMic10 麥克風組 = pro audio 收音設備，非 Rose 消費需求 SKIP",
-    "source": "manual 2026-05-07",
-    "skip": true
-  },
-  "1429805394": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "D.A.S. Audio Factor-8 西班牙 pro audio 主動喇叭，非消費級需求 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436523874": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "lululemon 喇叭神褲 是衣服雜訊，Rose 不買 lululemon SKIP",
-    "source": "manual 2026-05-07",
-    "skip": true
-  },
-  "1430311333": {
-    "newPrice": 5990,
-    "secondhand": null,
-    "note": "HUAWEI FreeClip 耳夾耳機 公司貨$5,990（特價$4,990）。$2,660=44%/53%，二手樣本不足",
-    "source": "web search 2026-05-07"
-  },
-  "1436512575": {
-    "newPrice": 4990,
-    "secondhand": 4000,
-    "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。連續降價$3,200→$2,700→$2,300=46%/57%, 越來越便宜⚠ 假貨多請當面驗",
-    "source": "web search 2026-05-07"
-  },
-  "1436490628": {
-    "newPrice": 6999,
-    "secondhand": 4900,
-    "note": "Apple Watch SE2 40mm 銀 二手中位$4,900。$1,200=17%/24%, ⚠ 太便宜離譜，疑似詐騙引流 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436487735": {
-    "newPrice": 7490,
-    "secondhand": null,
-    "note": "AirPods Pro 2 USB-C 新品$7,490。$2,300=31%, ⚠ 已知中國仿品詐騙模式 (PTT iOS板有實證) SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436486742": {
-    "newPrice": 3500,
-    "secondhand": null,
-    "note": "UNiKA DI-BT Box 估新品$3,500（小眾pro-audio無公開定價）。$2,500=71%, 不過 70% 門檻且非耳機/喇叭 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436472388": {
-    "newPrice": 2690,
-    "secondhand": null,
-    "note": "Philips TAH8000 新品$2,530-2,690（東森最低$2,530）。$2,200=82%, 不過 70% 門檻 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436471067": {
-    "newPrice": 2390,
-    "secondhand": null,
-    "note": "Edifier Lolliclip 開放式耳夾耳機 momo新品最低$2,390。$2,650=111%, 比新品還貴 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436462159": {
-    "newPrice": 9900,
-    "secondhand": null,
-    "note": "Klipsch R-51M 書架喇叭 PChome公司貨$9,900。$8,000=81%, 不過 70% 門檻 SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436461216": {
-    "newPrice": 4490,
-    "secondhand": 3230,
-    "note": "AirPods 4 無降噪版 新品$4,490, 二手中位數$3,230。$3,499=78%/108%，比二手還貴，SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436454014": {
-    "newPrice": 9900,
-    "secondhand": 6500,
-    "note": "Apple Watch S8 港版 41mm GPS 已停產，二手中位數約$6,500。$3,500=54% vs 二手, ⚠ 港版水貨，注意保固",
-    "source": "web search 2026-05-07"
-  },
-  "1436400840": {
-    "newPrice": 3980,
-    "secondhand": null,
-    "note": "MIRAVAC ARF6 4合1無葉空氣循環扇 白色 PChome新品$3,980（原$5,990）。$840=21% of new，全新未使用",
-    "source": "web search 2026-05-07"
-  },
-  "1436458235": {
-    "newPrice": 5600,
-    "secondhand": null,
-    "note": "AKG K701 陸產 THINK2新品$5,600。$2,800=50%, ⚠ 陸產版品質被認為次於奧產（PTT Headphone板）",
-    "source": "web search 2026-05-07"
-  },
-  "1436458042": {
-    "newPrice": 6490,
-    "secondhand": null,
-    "note": "Sennheiser Accentum 公司貨$6,490。$3,350=52%，2023年款二手樣本不足",
-    "source": "web search 2026-05-07"
-  },
-  "1436452203": {
-    "newPrice": 1899,
-    "secondhand": null,
-    "note": "未來實驗室 Stermidi 除濕機 新品$1,899。$500=26%, ⚠ 官方發詐騙警告 + PTT/Dcard 稱『智商稅』+ 太便宜離譜（疑似引流詐騙），SKIP",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436451845": {
-    "newPrice": 5900,
-    "secondhand": null,
-    "note": "Bose SoundLink Flex 2nd Gen 新品$5,900（momo促銷$4,990）。$4,800=81% of $5,900，太貴不過手動判斷門檻。Mobile01 有仿品警告",
-    "source": "web search 2026-05-07",
-    "skip": true
-  },
-  "1436448416": {
-    "newPrice": 4990,
-    "secondhand": null,
-    "note": "Marshall Major IV 咖啡 新品$4,990。$3,350=67%, ⚠ PTT/Dcard 有假貨警告，建議當面驗",
-    "source": "web search 2026-05-07"
-  },
-  "1436448275": {
-    "newPrice": 4990,
-    "secondhand": null,
-    "note": "Beats Studio Buds (原版) 新品$4,990。$3,000=60%, ⚠ PTT/Dcard 有假貨警告，建議當面驗",
-    "source": "web search 2026-05-07"
-  },
-  "1436420840": {
-    "newPrice": 6990,
-    "secondhand": null,
-    "note": "Honeywell HPA-202APTW 新品$6,990。$2,300=33%, ⚠ 二手濾網替換成本$1,000+",
-    "source": "web search 2026-05-06"
-  },
-  "1436428672": {
-    "newPrice": 3290,
-    "secondhand": null,
-    "note": "Fuji Mini 40 新品$2,990-3,619。$3,500=92%幾乎新品價",
-    "source": "web search 2026-05-06"
-  },
-  "1436424889": {
-    "newPrice": 4990,
-    "secondhand": null,
-    "note": "Fuji Wide 400 新品$4,990(PChome)。$4,500=90%, 折10%太小",
-    "source": "web search 2026-05-06"
-  },
-  "1433316866": {
+  "1436809912": {
     "newPrice": 3000,
-    "secondhand": 2850,
-    "note": "Mini 8 Minion 限定版 行情$2,750-2,950。$8,500=3倍以上行情, 不是deal",
-    "source": "web search 2026-05-06"
+    "secondhand": 1600,
+    "note": "HomePod mini 全新$3,000 / 二手中位$1,600（無盒無充扣價後）。$2,050=68%/128% 比二手貴 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
   },
-  "1436079092": {
-    "newPrice": null,
-    "secondhand": 8500,
-    "note": "Fuji XM1+27mm餅乾鏡組合 二手$7K-10K(Carousell$7.8K近全新)。$18,000=2倍以上行情",
-    "source": "web search 2026-05-06"
+  "1436810507": {
+    "newPrice": 9900,
+    "secondhand": 6500,
+    "note": "Nikon Z 28mm f/2.8 SE 復古版 公司貨$9,900 / 二手中位$6,500。$5,000=51%/77% → 殺價檻",
+    "source": "web search 2026-05-09"
   },
-  "1436406501": {
-    "newPrice": 7490,
+  "1436811049": {
+    "newPrice": 16900,
     "secondhand": null,
-    "note": "AirPods Pro 2 USB-C 通路特價$5,590-6,890 / 二手$5,000。⚠ PTT明確警告$5K-6K已是假貨高風險區, $3,360幾乎確定假貨/詐騙誘餌, secondhand設null以排除",
-    "source": "web search 2026-05-06 (FAKE WARNING)"
+    "note": "SHARP 2合1 除濕清淨 賣家未指明型號(DW-J16T 公司貨$16,900)。$10,000 若是J16T則=59% deal但型號不確認 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436061080": {
+  "1436816407": {
     "newPrice": null,
     "secondhand": 13000,
-    "note": "Fuji 56mm F1.2 R 一代(WR是二代) 二手$11K-15K。$14,500=行情中上",
-    "source": "web search 2026-05-06"
+    "note": "Canon EF 70-200 f/4 L USM 無IS 第一代1999 已停產 二手中位$13,000。$12,000=92% 過 90% 殺價門檻 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
   },
-  "1435923153": {
-    "newPrice": 31900,
-    "secondhand": 27000,
-    "note": "Fuji X-S10 + XC15-45 Kit 全新$31,900 / 二手$26,800-28,000。$25,800=96%二手, 略便宜但不過殺價門檻",
-    "source": "web search 2026-05-06"
-  },
-  "1435851164": {
-    "newPrice": 27700,
+  "1436824502": {
+    "newPrice": 3980,
     "secondhand": null,
-    "note": "Fuji X-HF1 (X half) 2025新機, 全新$27,700-31,000。$14,000=51%超低⚠紅旗警示可能偷竊/拆零件/詐騙",
-    "source": "web search 2026-05-06"
+    "note": "AKAI MPK Mini MKIII 黑 PChome公司貨$3,980（DigiLog平輸$2,999）。$2,500=63%（公司貨）/83%（平輸）, ⚠ 是否公司貨會影響評價",
+    "source": "web search 2026-05-09"
   },
-  "1436403139": {
-    "newPrice": null,
+  "1436826237": {
+    "newPrice": 7890,
     "secondhand": null,
-    "note": "KENDRA 埃及地毯 TW無公開行情, 個人/小眾品牌. $1,800無法判斷",
-    "source": "skip - no data"
+    "note": "SEGA HOMESTAR Classic MARS 星空投影機 新$7,890。$3,000=38% 進手動門檻",
+    "source": "web search 2026-05-11"
   },
-  "1435342625": {
-    "newPrice": null,
-    "secondhand": 19000,
-    "note": "Canon EOS M6 II 機身 二手$18K-22K(青蘋果$19K)。$13,500=71%, 低於行情29%但要驗快門數",
-    "source": "web search 2026-05-06"
-  },
-  "1436392919": {
-    "newPrice": 3990,
+  "1436827918": {
+    "newPrice": 5100,
     "secondhand": null,
-    "note": "Sony INZONE H5 白 PChome$3,990。$2,400=60%新品 38分鐘前剛上架",
-    "source": "web search 2026-05-06"
+    "note": "Honeywell HAP-801APTW 新品$5,100-7,990（Costco/Yahoo福利品$5,100起）。$800=16% → 好貨檻, ⚠ 賣家標『付二手濾棉』需再買新濾網",
+    "source": "web search 2026-05-09"
   },
-  "1436373491": {
+  "1436830443": {
+    "newPrice": 2690,
+    "secondhand": null,
+    "note": "Snow Peak CS-116 磨豆機 公司貨$2,690。$2,500=93% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
+  },
+  "1436835290": {
     "newPrice": null,
-    "secondhand": 11000,
-    "note": "AirPods Max Lightning版已停產(USB-C 2024取代)。TW二手$8K-12.5K(個人$8K-11.8K, gapple$11.8K-13.9K)。$5,000=45% 撿便宜但需防仿品",
-    "source": "web search 2026-05-06"
+    "secondhand": 3550,
+    "note": "Apple Watch S6 40mm GPS 整修品 已停產 二手中位$3,550。$4,600=130% 比二手貴 30% SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
   },
-  "1419671946": {
+  "1436843152": {
+    "newPrice": 2290,
+    "secondhand": null,
+    "note": "DJI Mic Mini 1V1 公司貨$2,290。$2,100=92% 接近全新, ⚠ 可能 1V1 標 1V2 規格混淆 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436843572": {
     "newPrice": 4990,
-    "secondhand": null,
-    "note": "Frigidaire 倍效空氣清淨機(2-6坪桌上型) PChome$4,990。$600=12%超低可能舊機/壞機需驗",
-    "source": "web search 2026-05-06"
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 保固內 公司貨$4,990 / 二手中位$4,000。$3,400=68%/85% → 殺價檻 (≥$3K ≤90% 二手)",
+    "source": "web search 2026-05-09"
   },
-  "1424849929": {
-    "newPrice": 9570,
-    "secondhand": null,
-    "note": "拾山世紀 QTACE T1-6002 600g羽絨睡袋 官網$9,570。$3,999=42%新品 二手",
-    "source": "web search 2026-05-06"
+  "1436845492": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "Bose QuietComfort Earbuds 一代 已停產 二手中位$3,500。$2,900=83% 二手, <$3K 殺價門檻邊緣 SKIP",
+    "source": "web search 2026-05-09",
+    "skip": true
   },
-  "1436373725": {
+  "1436850682": {
+    "newPrice": 27800,
+    "secondhand": null,
+    "note": "Canon R50 + DJI Osmo Mobile 7 套組估$27,800。$20,000=72% 套組搭售風險 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436860785": {
+    "newPrice": 14900,
+    "secondhand": null,
+    "note": "BOSE Portable Smart Speaker 公司貨$14,900。$8,000=54% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1436869826": {
     "newPrice": null,
     "secondhand": null,
-    "note": "露營車尾帳 generic 無品牌, TW行情$3K-18.8K, $5,000 mid-range無套利",
-    "source": "skip - vague brand"
+    "note": "負離子兩用空氣清淨機 雜牌無基準 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436371732": {
-    "newPrice": 8000,
-    "secondhand": 4500,
-    "note": "Sony WH-1000XM4 已停產(被XM5/6取代)。二手$3,500-5,000中位$4,500。$4,500=行情",
-    "source": "web search 2026-05-06"
-  },
-  "1436367629": {
-    "newPrice": 5980,
+  "1436872301": {
+    "newPrice": null,
     "secondhand": null,
-    "note": "Moondrop MoonRiver 3 (水解叁) 旗艦小尾巴 audiolinked $5,980。$4,500=75% 折25%太小",
-    "source": "web search 2026-05-06"
+    "note": "Apple Watch S5 40mm GPS 已停產6年, 台灣回收商已不收。$2,600 略高於海外 Swappa $2,300 行情, 樣本不足 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
   },
-  "1436359580": {
-    "newPrice": 7900,
+  "1436890502": {
+    "newPrice": 25800,
     "secondhand": null,
-    "note": "AW SE3 40mm GPS Apple$7,900。$4,200=53%新品, SE3晚2025上市40mm二手listings不足3筆",
-    "source": "web search 2026-05-06"
+    "note": "Panasonic FZ1000 II 公司貨新$22,000-25,800。$17,000=66% 進手動門檻 ✓",
+    "source": "web search 2026-05-11"
   },
-  "1436363998": {
-    "newPrice": 5190,
+  "1436904856": {
+    "newPrice": 3290,
     "secondhand": null,
-    "note": "Samsung Galaxy Buds 4 (非Pro) TW新品$5,190(2026/3上市)。$3,000=58%, 才6週新機型二手稀少",
-    "source": "web search 2026-05-06"
+    "note": "DJI Osmo Mobile 7P 公司貨$3,290 (PChome特價$2,790)。$2,000 比全新最低折扣還低30%, ⚠ 強烈疑似仿品 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
   },
-  "1436361099": {
-    "newPrice": 4490,
-    "secondhand": 2500,
-    "note": "DJI Mic Mini 1v2套組 公司貨$4,490。二手$2,000-3,350(中位$2,500)。$2,000全新低於二手中位 = 雙贏",
-    "source": "web search 2026-05-06"
-  },
-  "1436319463": {
+  "1436917937": {
     "newPrice": 7490,
     "secondhand": null,
-    "note": "Huawei FreeBuds Pro 4 TW新品$7,490(2025/1上市)。$3,000=40%, iOS體驗受限需驗",
-    "source": "web search 2026-05-06"
+    "note": "AirPods Pro 3 三代 type-c 公司貨$7,490。$4,200=56% 進手動, ⚠ Pro 系列假貨警告留意保固/序號",
+    "source": "web search 2026-05-11"
   },
-  "1436315871": {
-    "newPrice": 3699,
-    "secondhand": null,
-    "note": "Xiaomi 開放式耳機Pro 官網$3,699。$3,000=81% 折19%太小不如買新品",
-    "source": "web search 2026-05-06"
-  },
-  "1436270854": {
-    "newPrice": 3000,
-    "secondhand": null,
-    "note": "藍牙派對喇叭 沒型號雜牌",
-    "source": "skip - vague brand"
-  },
-  "1436350245": {
-    "newPrice": 5990,
-    "secondhand": 5000,
-    "note": "AirPods 4 ANC $4,900=98%二手, 完全沒折扣",
-    "source": "web search 2026-05-06"
-  },
-  "1424852372": {
-    "newPrice": 6080,
-    "secondhand": null,
-    "note": "Snow Peak SET-111 焚火台M四件套組 新品$5,320-7,600(momo$6,080)。$5,300=87%幾乎是新品價",
-    "source": "web search 2026-05-06"
-  },
-  "1436266491": {
-    "newPrice": 3800,
-    "secondhand": null,
-    "note": "Sudio K2 Pro PChome$3,800。$3,000=79%, 折21%太小",
-    "source": "web search 2026-05-06"
-  },
-  "1436266303": {
-    "newPrice": 6490,
-    "secondhand": null,
-    "note": "SHOKZ OpenFit 2 T920 通路均價$6,490。$4,000=62%新品",
-    "source": "web search 2026-05-06"
-  },
-  "1436234475": {
-    "newPrice": 2990,
-    "secondhand": 1800,
-    "note": "smartmi P1 新品$2,990, 二手$1,000-2,500。$2,499 在二手上緣不是deal",
-    "source": "web search 2026-05-05"
-  },
-  "1424714134": {
-    "newPrice": 4280,
-    "secondhand": null,
-    "note": "Fuji Instax Pal 新品$4,280-5,180。$2,500=58%新品",
-    "source": "web search 2026-05-05"
-  },
-  "1436242416": {
-    "newPrice": 5990,
-    "secondhand": null,
-    "note": "RODE NT-USB+ 新品$5,490-6,290。$2,700=45%新品 9成新",
-    "source": "web search 2026-05-05"
-  },
-  "1436240340": {
-    "newPrice": 4490,
-    "secondhand": null,
-    "note": "Sony LinkBuds Open 公司貨保固 PChome$4,490。$3,508=78%, 折22%太小",
-    "source": "web search 2026-05-05"
-  },
-  "1436226400": {
-    "newPrice": 12900,
-    "secondhand": 6500,
-    "note": "AW S9 41mm 個人漂亮機行情$5,500-7,500。$4,500=69%二手, 漂亮無傷無盒",
-    "source": "web search 2026-05-05"
-  },
-  "1436226245": {
-    "newPrice": 13900,
-    "secondhand": null,
-    "note": "AW S9 45mm 健康機行情$6,500-8,500, 螢幕刮痕版本TW無同款3+筆。$3,500=25%新品但有刮痕",
-    "source": "web search 2026-05-05"
-  },
-  "1436215377": {
-    "newPrice": 12900,
-    "secondhand": 7500,
-    "note": "AW S7 45mm 個人賣家$7,000-8,000(Carousell$8K/蝦皮$7.2K)。$5,000=67%二手, 過保固期",
-    "source": "web search 2026-05-05"
-  },
-  "1436219295": {
+  "1436918433": {
     "newPrice": 4990,
-    "secondhand": 3150,
-    "note": "Sony ULT900N 新品$4,990 / PTT二手$3,000-3,300。$2,800=89%二手, 不過70%門檻, 也<$3K不進殺價",
-    "source": "web search 2026-05-05"
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 公司貨$4,990 / 二手中位$4,000。$3,200=64%/80% → 殺價檻",
+    "source": "web search 2026-05-11"
   },
-  "1424705956": {
-    "newPrice": 5990,
-    "secondhand": 3650,
-    "note": "Sony LinkBuds 原版WF-L900 PTT二手$3,600-3,700。$3,988=109%比行情高,不算便宜",
-    "source": "web search 2026-05-05"
-  },
-  "1436215088": {
-    "newPrice": 4490,
-    "secondhand": 3230,
-    "note": "AirPods 4 標準版 PTT近全新$3,200-3,260。$2,490=77%二手, 不過70%門檻",
-    "source": "web search 2026-05-05"
-  },
-  "1436200962": {
-    "newPrice": 5900,
-    "secondhand": null,
-    "note": "Bose SoundLink Flex II 新品$5,900。$4,000全新未拆=68%,折32% 但蝦皮Bose仿品多需驗真偽",
-    "source": "web search 2026-05-05"
-  },
-  "1436195404": {
-    "newPrice": 10500,
-    "secondhand": null,
-    "note": "Bose QC SE = QC45軟殼版(Costco限定),新品 QC45 $10,500。$4,500 = 43%, 平輸/水貨需驗",
-    "source": "web search 2026-05-05"
-  },
-  "1436187818": {
-    "newPrice": 4390,
-    "secondhand": null,
-    "note": "Final VR3000 Wireless 加煒NT$4,390。$3,000=68%新品",
-    "source": "web search 2026-05-05"
-  },
-  "1436187058": {
+  "1436921149": {
     "newPrice": 6990,
     "secondhand": null,
-    "note": "Jabra Elite 8 Active 新品$6,990(Gen 2已出 Gen 1可能清倉)。$3,680=53%全新需驗真偽/refurb/水貨",
-    "source": "web search 2026-05-05"
+    "note": "Fuji mini evo Rose 粉 公司貨新$6,990。$7,500 高於新品 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436185148": {
-    "newPrice": 3490,
+  "1436934608": {
+    "newPrice": null,
     "secondhand": null,
-    "note": "Final ZE3000 SV 志達/PChome$3,490。$2,300=66%新品保固內",
-    "source": "web search 2026-05-05"
+    "note": "Eureka Mythos $14,000 ⚠ 品名疑點: Eureka 是 Mignon 系列, 真 Mythos 是 Victoria Arduino 商用機新品$80K-150K。$14K 不合理, 疑型號誤標/山寨 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
   },
-  "1436183342": {
-    "newPrice": 6490,
+  "1436935329": {
+    "newPrice": 6290,
     "secondhand": null,
-    "note": "Sony LinkBuds Open WF-L910 Sony官網$6,490。BigGo 3筆已下架listings$1,999-3,200。$2,100=32%新品保固內,接近成交行情",
-    "source": "web search 2026-05-05"
+    "note": "Fuji mini evo 粉 公司貨新$6,290。$6,700 高於新品 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436159937": {
-    "newPrice": 4500,
+  "1436938981": {
+    "newPrice": null,
+    "secondhand": 3000,
+    "note": "Canon 1000D 入門機停產 二手$3,000。$6,800 過高 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436940174": {
+    "newPrice": 9500,
     "secondhand": null,
-    "note": "HK Onyx Studio 4 (2017停產) TW新品$4,215-5,500。$3,000 = 67% 新品, 搬家出清",
-    "source": "web search 2026-05-05"
+    "note": "Bose QC Ultra Earbuds 一代全新 $9,500。$4,800=51% 進手動, ⚠ Bose 假貨多",
+    "source": "web search 2026-05-11"
   },
-  "1436162496": {
+  "1436940550": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "Sony DSC-F828 老機 二手$3,500。$8,500 過高 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436941769": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "Insta360 Flow 2 Pro 公司貨$4,990（促銷$3,490）。$2,500=50%, ⚠ 強烈疑似仿品/詐騙(比最低促銷還低) SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436945100": {
+    "newPrice": 4980,
+    "secondhand": null,
+    "note": "JBL Flip 7 白 公司貨$5,980 (PChome$4,980)。$4,000=80% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436954828": {
+    "newPrice": 19990,
+    "secondhand": 12000,
+    "note": "DJI Pocket 3 全能套裝 公司貨$19,990 / 二手中位$12,000。$12,500=63%/104% 略高於二手, ⚠『主機極速換新未拆封』需確認序號保固轉移 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436957036": {
+    "newPrice": 2970,
+    "secondhand": null,
+    "note": "DJI Neo 2 充電管家+電池x2 全新拆賣 估$2,970。$2,550=86% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436957999": {
+    "newPrice": 1799,
+    "secondhand": null,
+    "note": "小米便攜相印機 1S 公司貨$1,799。$2,800=156% 比新品還貴 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436962894": {
+    "newPrice": 17990,
+    "secondhand": 13500,
+    "note": "Insta360 X5 萬能套裝 公司貨$17,990（稅免後降價）/ 二手套組$13,500。$17,500=97%/130% 比二手貴30% SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436969174": {
+    "newPrice": 17000,
+    "secondhand": 10800,
+    "note": "Insta360 GO 3S 128G 套組 公司貨$17,000 / 二手中位$10,800。$10,300=61%/95% 落在二手店行情下緣, 不夠便宜 SKIP",
+    "source": "web search 2026-05-10",
+    "skip": true
+  },
+  "1436987770": {
+    "newPrice": null,
+    "secondhand": 4500,
+    "note": "Sony NEX-3 Kit 老機停產 二手$4,500。$5,200 高於行情 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1436995490": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Eureka Mythos 型號錯標 ⚠ Eureka 無 Mythos (Mignon系列), 真 Mythos 是 Victoria Arduino SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437001533": {
     "newPrice": 2990,
     "secondhand": null,
-    "note": "Fuji Mini 40 新品$2,990-3,619。$3,500 比新品還貴, 不是deal",
-    "source": "web search 2026-05-05"
+    "note": "Samsung Galaxy Buds FE 公司貨$2,990。$3,000=100% 沒便宜 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436158721": {
+  "1437002035": {
+    "newPrice": 56880,
+    "secondhand": 36000,
+    "note": "Canon R6 展示機 公司貨$56,880 / 二手中位$36,000。$30,000=53%/83% → 殺價檻 展示機原廠保存3個月",
+    "source": "web search 2026-05-11"
+  },
+  "1437006261": {
+    "newPrice": null,
+    "secondhand": 21000,
+    "note": "Canon EOS M6 Mark II 已停產 二手中位$21,000。$13,500=64% 二手 → 好貨檻 (≤70%二手), ⚠ EOS M 卡口已棄用注意零件支援",
+    "source": "web search 2026-05-11"
+  },
+  "1437028402": {
+    "newPrice": 18900,
+    "secondhand": null,
+    "note": "中一光學 Speedmaster 65mm F1.4 GFX口 新$18,900。$15,000=79% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437034548": {
+    "newPrice": 12300,
+    "secondhand": null,
+    "note": "Insta360 X4 Air 入門套裝 $12,300。$10,000=81% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437035515": {
+    "newPrice": 24552,
+    "secondhand": null,
+    "note": "Canon R50 機身公司貨 新$24,552。$17,000=69% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437042858": {
     "newPrice": 4490,
-    "secondhand": 2700,
-    "note": "AirPods 4 標準版 新品$4,490 / Landtop$3,790 / dealer sealed$3,500-3,900。$3,500=78%剛好行情",
-    "source": "web search 2026-05-05"
+    "secondhand": 3230,
+    "note": "AirPods 4 一般款 公司貨$4,490 / 二手中位$3,230。$4,000=89%/124% 比二手還貴 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1430072610": {
+  "1437047709": {
+    "newPrice": 19900,
+    "secondhand": 11800,
+    "note": "Tokina AT-X PRO 11-20 F2.8 IF DX for Canon 新品$19,900 / 二手中位$11,800。$6,300=32%/53% → 好貨檻雙重通過",
+    "source": "web search 2026-05-11"
+  },
+  "1437059488": {
+    "newPrice": 7491,
+    "secondhand": null,
+    "note": "Oakley Sutro TI OO6013 太陽眼鏡 PChome$7,491(MSRP$11,350)。$2,480=33% 進手動門檻 (露營query誤匹配實際是墨鏡)",
+    "source": "web search 2026-05-11"
+  },
+  "1437071856": {
+    "newPrice": 11900,
+    "secondhand": null,
+    "note": "JBL Partybox On-The-Go Essential 公司貨$11,900-18,800。$7,500=63% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437078895": {
     "newPrice": null,
-    "secondhand": 5500,
-    "note": "ViewSonic M1+ 舊款(M1 Max現役$13,900)。PTT二手$5,000-6,000。$5,500=中位非deal,需確認燈泡時數",
-    "source": "web search 2026-05-05"
-  },
-  "1436144742": {
-    "newPrice": 13800,
-    "secondhand": 8050,
-    "note": "iLoud Micro Monitors 平輸新品$9,500-10,500 / 公司貨$13,800。$9,980=平輸新品下緣,非deal",
-    "source": "web search 2026-05-05"
-  },
-  "1436146273": {
-    "newPrice": 3000,
-    "secondhand": 1800,
-    "note": "HomePod mini 白色 蝦皮二手$1,600-1,950。$2,400 比二手高33%, 不是deal",
-    "source": "web search 2026-05-05"
-  },
-  "1436126012": {
-    "newPrice": 5780,
     "secondhand": null,
-    "note": "Arc'teryx Mantis 20 始祖鳥後背包 momo$5,780(3rd party$4,046)。$4,200=73%新品, 折27% 沒過70%門檻",
-    "source": "web search 2026-05-05"
+    "note": "KE 嘉儀 KEDB-216 型號查無此型 (官方是 KED-316), ⚠ 型號可疑 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1430140502": {
-    "newPrice": 3990,
+  "1437089117": {
+    "newPrice": 2288,
     "secondhand": null,
-    "note": "Samsung Buds3 FE 2025/9 上市新品$3,990。$2,290=57%新品折43%, 機身才7個月積極定價需驗真偽",
-    "source": "web search 2026-05-05"
+    "note": "奇美 AP-03SRC1 燦坤特價$2,288。$1,200=52% 進手動但<$2K SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1430106623": {
-    "newPrice": 7900,
-    "secondhand": 5000,
-    "note": "Marshall Stockwell II 已停產但TW仍有公司貨$7,900。二手中位$5,000(蝦皮$4,500-5,990)。$5,000=行情中位非deal",
-    "source": "web search 2026-05-05"
-  },
-  "1436128912": {
-    "newPrice": 3990,
+  "1437095776": {
+    "newPrice": 15129,
     "secondhand": null,
-    "note": "Marshall Minor IV 全新 PChome/momo$3,990。$2,350=59%新品, 比上一筆$2,600更便宜",
-    "source": "web search 2026-05-05"
+    "note": "Insta360 X3 全景相機 新$15,129。$6,980=46% 進手動門檻",
+    "source": "web search 2026-05-11"
   },
-  "1436119425": {
-    "newPrice": 2680,
-    "secondhand": null,
-    "note": "LUMENA M3 PChome$2,680。$2,300=86%新品,折扣14%太小",
-    "source": "web search 2026-05-05"
-  },
-  "1424646757": {
-    "newPrice": 3790,
-    "secondhand": null,
-    "note": "Thetford PP335 樂卡$3,790。$3,500=92%新品,折扣<10%",
-    "source": "web search 2026-05-05"
-  },
-  "1436119295": {
-    "newPrice": 4290,
-    "secondhand": null,
-    "note": "賣家「全新apple耳機 $2,900」型號模糊。若AirPods 4標準版($4,290)=68%, 折扣32%偏激進需驗序號真偽。AirPods 4 ANC($5,990) $2,900不可能真品全新",
-    "source": "web search 2026-05-05 (model uncertain)"
-  },
-  "1436112142": {
+  "1437098899": {
     "newPrice": null,
-    "secondhand": 4500,
-    "note": "Apple Watch S8 二手行情$3,500-5,000(店家$5,830)/個人$3,500-5,000。$4,800=行情上緣略高,非deal",
-    "source": "web search 2026-05-05"
+    "secondhand": null,
+    "note": "AirPods Pro 一代 已停產, 蝦皮副廠雜訊多, $3,000 偏高 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436098537": {
+  "1437109385": {
+    "newPrice": 3690,
+    "secondhand": null,
+    "note": "Soundcore Liberty 4 Pro momo$3,690。$2,100=57% 進手動",
+    "source": "web search 2026-05-11"
+  },
+  "1437109919": {
     "newPrice": 5990,
-    "secondhand": 3350,
-    "note": "AirPods 4 ANC 新品$5,990 / 街頭低$4,690。PTT 二手用過$3,200-3,500 / 全新$4,300-4,700。$3,500 = 二手行情上緣, 不算便宜",
-    "source": "web search 2026-05-05"
-  },
-  "1436075748": {
-    "newPrice": 2999,
-    "secondhand": 2000,
-    "note": "HomePod mini 新品$2,999 / 二手$1,100-2,500 (median $2,000)。$2,550 比二手行情高,不是 deal",
-    "source": "web search 2026-05-04"
-  },
-  "1436071046": {
-    "newPrice": 6300,
-    "secondhand": 9500,
-    "note": "Fuji Mini 90 Neo Classic 公司貨新品$6,300, 二手$8,500-10,800 (BigGo 10+ listings)。$5,000 = 53% 二手, 過門檻好貨 (停產過渡期二手價反高於新品)",
-    "source": "web search 2026-05-05"
-  },
-  "1434761992": {
-    "newPrice": 6100,
     "secondhand": null,
-    "note": "AUX 大人的鐵板 小方型附蓋 新品$5,600-6,500 (蝦皮/uDesign/Handslide)。$3,800 = 62% 新品, 划算但二手listings不足3筆",
-    "source": "web search 2026-05-05"
+    "note": "TEAC TN-100 黑膠唱盤入門盤$5,990。$3,000=50% 進手動 (Rose 黑膠興趣)",
+    "source": "web search 2026-05-11"
   },
-  "1435167100": {
-    "newPrice": 6000,
+  "1437114077": {
+    "newPrice": 26000,
+    "secondhand": 12000,
+    "note": "Nikon AF-S DX 18-300 新$26,000 / 二手中位$12,000。$8,500=33%/71% 邊緣剛超 70% 二手門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437115124": {
+    "newPrice": 6980,
     "secondhand": null,
-    "note": "TNF 露營椅+桌組 新品$5,500-8,000 (Camp Chair日系平輸$4,500-6,500 + Table $1,500-2,500)。$3,000 = 50%, 划算但無TW二手3+筆",
-    "source": "web search 2026-05-05"
+    "note": "Wanbo 萬播 Vali 1 全新$6,980。$6,000=86% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1435501506": {
-    "newPrice": 13800,
+  "1437130720": {
+    "newPrice": 15500,
+    "secondhand": 13000,
+    "note": "Fuji XF 16-80 F4 R OIS WR 平輸新$15,500 / 二手$13,000。$12,000=92% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437137840": {
+    "newPrice": 11590,
     "secondhand": null,
-    "note": "Osprey Ariel 65L 女款登山背包 新品$13,000-14,500(山水/Prince Outdoor)。$6,000 = 43% 新品 含防水套, 不錯",
-    "source": "web search 2026-05-05"
+    "note": "DJI RS4 Mini Combo+手機夾 公司貨$11,590。$8,310=72% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436065269": {
-    "newPrice": 7990,
-    "secondhand": null,
-    "note": "Honeywell HPA5250WTWV1 (淨味款) 新品PChome$7,990。$2,500 = 31% 新品, 超低需確認狀況/濾網",
-    "source": "web search 2026-05-05"
-  },
-  "1434658358": {
-    "newPrice": 10700,
-    "secondhand": null,
-    "note": "Snow Peak Amenity Dome S (SDE-002 RH) 3人家庭 新品$10,700。$7,000=65%(日本平輸新品), 35% off retail算划算但無TW二手同款3+筆",
-    "source": "web search 2026-05-04"
-  },
-  "1436056823": {
-    "newPrice": 3880,
-    "secondhand": null,
-    "note": "Honeywell空氣清淨機 沒標型號。HPA-100APTW新品$3,880, HPA-300APTW新品$6-12K。$2,500=HPA-100的64%,需問型號",
-    "source": "web search 2026-05-04 (model unspecified)"
-  },
-  "1436054906": {
-    "newPrice": 3495,
-    "secondhand": null,
-    "note": "小米空氣清淨機沒標型號。4 Lite新品$3,495,$1,500若為4 Lite=43%但需型號",
-    "source": "web search 2026-05-04 (under $2K threshold)"
-  },
-  "1436050243": {
-    "newPrice": 3490,
-    "secondhand": null,
-    "note": "Soundcore Liberty 5 新品$3,490, $3,200=92%, 折讓僅$290 不算划算",
-    "source": "web search 2026-05-04"
-  },
-  "1436040999": {
-    "newPrice": 3990,
-    "secondhand": null,
-    "note": "Marshall Minor IV 全新 PChome/momo $3,990。$2,600 = 65% 新品, 全新正品折扣35% 是好貨",
-    "source": "web search 2026-05-04"
-  },
-  "1421229534": {
-    "newPrice": 6000,
-    "secondhand": null,
-    "note": "Bose QC Earbuds 2024年製 — 型號不明 (QC Earbuds 2024 / QC Earbuds II / 一代)。PChome QC消噪耳塞$6,000, QC Ultra II $8,100-9,500。$3,540 模糊難判,要先確定哪一代",
-    "source": "web search 2026-05-04 (model uncertain)"
-  },
-  "1436027976": {
-    "newPrice": 9500,
-    "secondhand": 5150,
-    "note": "Bose QC Ultra Earbuds 一代 入耳式 新品$9,500 / 二手$5,000-5,300。$5,000 是二手行情底,不是 deal。若為二代則大撿漏需確認",
-    "source": "web search 2026-05-04"
-  },
-  "1436017402": {
+  "1437137885": {
     "newPrice": null,
     "secondhand": null,
-    "note": "Wharfedale Vardus VR-300 落地喇叭 — TW無同款比對。EU 2012新品約€280/pair($9,800), 二手$3,800-15,000範圍。$7,000在範圍內但無法判斷",
-    "source": "web search 2026-05-04 (insufficient data)"
+    "note": "Seventeen 演唱會周邊 收藏品無基準 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436015284": {
-    "newPrice": 6380,
-    "secondhand": 2400,
-    "note": "Wharfedale WH-2 環繞喇叭組 行情$2,300-2,500。$3,280 比行情貴, 不是deal",
-    "source": "web search 2026-05-04"
-  },
-  "1434755853": {
+  "1437147233": {
     "newPrice": null,
     "secondhand": null,
-    "note": "Westinghouse 戶外空調 $9,999 — 同款TW無3+筆,同類新品$9-13K, $9,999 在中位數沒折扣",
-    "source": "web search 2026-05-04"
+    "note": "AirPods 3 Lightning 已停產, 二手散亂無 ≥3 筆同款 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1436012670": {
-    "newPrice": 3580,
+  "1437150722": {
+    "newPrice": 3300,
     "secondhand": null,
-    "note": "JBL Clip 5 PChome$3,580 / Costco常態$2,079 / 黑五$1,599-1,799。listing $2,200 = Costco 行情價,非便宜",
-    "source": "web search 2026-05-04"
+    "note": "Instax mini 41 公司貨新$3,300。$3,290=100% 等於新品 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1435954223": {
-    "newPrice": 7490,
-    "secondhand": 5000,
-    "note": "AirPods Pro 2 $4,500 = 二手 90%, 不算 deal",
-    "source": "web search 2026-05-04"
-  },
-  "1435938320": {
-    "newPrice": 4290,
+  "1437151953": {
+    "newPrice": 4490,
     "secondhand": null,
-    "note": "AirPods 4 全新未拆 $3,850 = 新品 90%, 沒折扣",
-    "source": "web search 2026-05-04"
+    "note": "SONY WH-CH720N 公司貨$4,490(promo$3,990)。$2,690=60% 進手動門檻",
+    "source": "web search 2026-05-11"
   },
-  "1436001155": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "Marshall 白色音響 — 標題太籠統,無法確定型號。Emberton II 新$5,691-6,490 / Acton III $11,305 / Willen II $13,900。$2,000 全部都低於新品/二手行情,可能是水貨/問題機/假貨,需問賣家具體型號+狀況",
-    "source": "web search 2026-05-04 (model unclear)"
-  },
-  "1435966307": {
-    "newPrice": 7490,
-    "secondhand": 5000,
-    "note": "AirPods Pro 2 USB-C 新品$7,490 / 二手店$5,200-5,700 / PTT 9成新$4,500-5,500。$3,000 = 60% 二手,過門檻但太便宜可疑(單耳/壞了/假貨/失竊)需驗",
-    "source": "web search 2026-05-04"
-  },
-  "1435956548": {
-    "newPrice": 7490,
-    "secondhand": 5000,
-    "note": "AirPods Pro 2 USB-C 新品$7,490 / 二手$5,000。$3,700 = 74% 二手,接近門檻但沒過。可能8成新或電池衰退",
-    "source": "web search 2026-05-04"
-  },
-  "1435949875": {
-    "newPrice": 15800,
-    "secondhand": 9500,
-    "note": "Bose QC Ultra Headphones 一代 新品$15,800 / PTT二手$8,000-11,000。$4,300 = 45% 極度便宜可疑,需驗證真偽和狀況",
-    "source": "web search 2026-05-04"
-  },
-  "1435993375": {
-    "newPrice": 2188,
-    "secondhand": null,
-    "note": "CHIMEI空氣清淨機 listing 沒標型號, 入門款新品$2,188起。$1,500可能是更便宜的mini桌上型,沒折扣優勢",
-    "source": "web search 2026-05-04"
-  },
-  "1435998202": {
-    "newPrice": 4999,
-    "secondhand": null,
-    "note": "Xiaomi 智慧投影機 L1 PChome/momo新品就$4,999! listing價等於新品價,完全沒折扣",
-    "source": "web search 2026-05-04"
-  },
-  "1435974912": {
-    "newPrice": 2788,
-    "secondhand": null,
-    "note": "Razer Leviathan V2 X 新品$2,788(momo)/$2,988(PChome)。listing $3,000 比新品還貴,不算deal",
-    "source": "web search 2026-05-04"
-  },
-  "1435938783": {
-    "newPrice": 10990,
-    "secondhand": null,
-    "note": "Harman Kardon SoundSticks 4 黑色, 官方$10,990-12,990, 蝦皮水貨$9,690, 福利品$7,990-8,999. 同型號二手實際成交不足3筆,無法定義行情. $6,500明顯低於福利品下限,機況正常屬划算",
-    "source": "web search 2026-05-04 (insufficient secondhand data)"
-  },
-  "1435927885": {
-    "newPrice": 7900,
-    "secondhand": 4000,
-    "note": "SE3新品$7,900。SE1/SE2 40mm GPS 二手listing：$4,500/$4,600 SE2, $3,000/$4,700 SE1。$2,000 屬店家收購價,不像個人賣家行情",
-    "source": "web search 2026-05-04"
-  },
-  "1435930688": {
-    "newPrice": null,
-    "secondhand": 4500,
-    "note": "原版HTC Vive(2016)停產。二手listing $2,100/$4,500/$7,000。$2,000只比最低端略高。要注意是哪個型號",
-    "source": "web search 2026-05-04"
-  },
-  "1435910868": {
+  "1437155494": {
     "newPrice": 13400,
     "secondhand": null,
-    "note": "Wharfedale Diamond 12.1 新品仕洋$13,400 / 公司貨$15,800。二手實際listing不足3筆,無法定行情。$8,800/13,400=66%,Hi-Fi書架喇叭折舊慢,可考慮",
-    "source": "web search 2026-05-04 (insufficient secondhand data)"
+    "note": "Marshall Stanmore II 公司貨$13,400 (已停產). $8,000=60% 進手動門檻",
+    "source": "web search 2026-05-11"
   },
-  "1435881319": {
+  "1437172561": {
+    "newPrice": 4310,
+    "secondhand": null,
+    "note": "Edifier M60/N300 套組 M60單機$4,310。$3,000=70% 邊緣手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437172693": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "AirPods 4 主動降噪 ANC 公司貨$4,990。$4,500=90% 二手價偏高 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437173101": {
+    "newPrice": 1000,
+    "secondhand": null,
+    "note": "富士電通 8吋循環扇 新$800-1,200。$580 太低金額不足 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437182711": {
     "newPrice": null,
-    "secondhand": 5500,
-    "note": "AW7已停產5年, 二手店家$5,830-7,920, 個人賣家$4,640-6,000。$3,000無size資訊風險高, 需問41/45mm + GPS/LTE + 電池健康度",
-    "source": "web search 2026-05-04"
+    "secondhand": null,
+    "note": "Leaf 內馬爾簽名卡 球員卡收藏 非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
   },
-  "1435891875": {
+  "1437183006": {
+    "newPrice": 25980,
+    "secondhand": null,
+    "note": "Sony ZV-1 II 黑 公司貨已過保 新$25,980。$18,000=69% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437188307": {
+    "newPrice": 17990,
+    "secondhand": 15000,
+    "note": "DJI Pocket 3 標準版 公司貨$17,990 / 二手中位$15,000 (Pocket 4 已發表降溫)。$8,888=49%/59% → 好貨檻, ⚠ 太低需驗真偽",
+    "source": "web search 2026-05-11"
+  },
+  "1437188540": {
+    "newPrice": 2790,
+    "secondhand": null,
+    "note": "EDIFIER MP230 街價$2,390-2,790。$2,200=79% 過 70% 門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437189284": {
     "newPrice": null,
-    "secondhand": 1200,
-    "note": "Mini 8 已停產(2017),Carousell行情$700-1,500,$1,500偏高。Mini 12 新品$2,690",
-    "source": "web search 2026-05-04"
+    "secondhand": 4500,
+    "note": "SONY HDR-XR520 2009 停產 二手$4,500。$6,000 高於行情 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1435882422": {
-    "newPrice": 8900,
-    "secondhand": 3500,
-    "note": "SE3 44mm GPS $8,900。listing $3,500 可能是 SE1($2K-3K) 或 SE2($3K-4.5K)，需確認世代",
-    "source": "web search 2026-05-03"
+  "1437190042": {
+    "newPrice": 6290,
+    "secondhand": null,
+    "note": "DJI Neo 2 飛行器單機 $6,290。$5,100=81% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
   },
-  "1419049893": {
-    "newPrice": 28900,
-    "secondhand": 12000,
-    "note": "Samsung The Freestyle Gen1，原價$28,900，電商$19,900。交車禮全新未拆二手$12K-15K，$10K 低於行情",
-    "source": "web search 2026-05-03"
+  "1437191019": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Quadral Sub 600DV 重低音 二手資料稀, 非 Rose 需求 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437192095": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "明代龍泉蓋盒 古董收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437192132": {
+    "newPrice": 6000,
+    "secondhand": null,
+    "note": "Bose 耳塞式 (標題太籠統估QC一代$6,000) $4,200=70% 邊緣進手動, ⚠ 賣家未指明型號",
+    "source": "web search 2026-05-11"
+  },
+  "1437193660": {
+    "newPrice": 6290,
+    "secondhand": null,
+    "note": "Fuji Mini Evo 含保固 公司貨$6,290。$6,800 高於新品 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437194264": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "義大利玉聚寶盆 風水擺件非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437194588": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "文玩核桃 古玩收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437194984": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "方大同 回到未來 雙碟版 CD/DVD 收藏 非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437198332": {
+    "newPrice": 54000,
+    "secondhand": null,
+    "note": "Canon R8+Sigma 18-50/2.8+TT350c 套組估$54,000。$28,000=52% 省$26K 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437198734": {
+    "newPrice": 25000,
+    "secondhand": null,
+    "note": "Bose Soundtouch 300 Soundbar 已停產 估原價$25,000。$4,000=16% → 好貨檻, ⚠ 已停產注意保固/連線",
+    "source": "web search 2026-05-11"
+  },
+  "1437198901": {
+    "newPrice": 6000,
+    "secondhand": null,
+    "note": "M-Audio Code 25 MIDI 已停產 海外二手$199≈NT$6,000。$3,800=63% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437198966": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PSA9 PTCG 船長皮卡丘 三星卡 球員卡收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437200011": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "BLACKPINK LISA LALISA 黑膠 收藏專輯非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437202135": {
+    "newPrice": 5990,
+    "secondhand": null,
+    "note": "Marshall Emberton 一代 新品$5,890-5,990。$2,500=42% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437207110": {
+    "newPrice": 10980,
+    "secondhand": 9000,
+    "note": "DJI Osmo Action 5 Pro 標準套裝 公司貨$10,980 / 二手中位$9,000。$7,500=68%/83% → 殺價檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437208452": {
+    "newPrice": 3800,
+    "secondhand": null,
+    "note": "Fender Mustang LT25 效果器 新品$3,500-4,500。$3,000=79% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437210089": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "早期老木雕觀音 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437216664": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Tacet 真空管試音碟 1995 德國版 發燒友 CD 非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437218764": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "二手立式電子琴 標題太籠統+非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437225726": {
+    "newPrice": null,
+    "secondhand": 26000,
+    "note": "Fujifilm X100F 銀 已停產 二手中位$26,000。$24,900=96% 過 90% 殺價門檻 SKIP (殺到≤$23K才值得)",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437225840": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "手繪描金觀音菩薩畫像 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437227289": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Gibson Les Paul 電吉他弦 樂器配件非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437227698": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PCGS PR69 民國91年馬年銀章 紀念幣收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437228810": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Wagner Ring 完整套裝 Decca Solti 古典黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437234622": {
+    "newPrice": 6490,
+    "secondhand": 5000,
+    "note": "Marshall Emberton III 白 公司貨$6,490 / 二手中位$5,000。$4,900=75%/98% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437237257": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sade 首張黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437238353": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sade Promise 黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437238575": {
+    "skip": true,
+    "note": "Canon S120 $6,800 = 中位 $6,500 的 105%, 2013 老機無保固沒折扣"
+  },
+  "1437244363": {
+    "newPrice": null,
+    "secondhand": 27000,
+    "note": "Olympus E-M5 II + 12mm F2 套組 二手中位$27,000。$19,000=70% → 殺價檻 殺幅$8K",
+    "source": "web search 2026-05-11"
+  },
+  "1437246702": {
+    "skip": true,
+    "note": "instax mini Evo $6,300 高於 PChome 公司貨 $6,229 + 二手中位 $5,500, 105%~114% 灌水"
+  },
+  "1437247094": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Ado 残夢 完全生產限定盤 2LP 黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437250988": {
+    "skip": true,
+    "note": "Tribit StormBox Micro 3 新品標 $2,799 比 PChome 公司貨 $1,799 還貴 60%，灌水「現貨限時下殺」話術"
+  },
+  "1437254368": {
+    "skip": true,
+    "note": "印盒 古玩 非清單"
+  },
+  "1437256464": {
+    "skip": true,
+    "note": "Britney Spears 日版 CD 收藏 非需求"
+  },
+  "1437256719": {
+    "skip": true,
+    "note": "中華郵政 超人力霸王 2026 限量套組 非需求"
+  },
+  "1437256950": {
+    "skip": true,
+    "note": "泰國佛牌 龍婆魁 非需求"
+  },
+  "1437257264": {
+    "skip": true,
+    "note": "泰國佛牌 古巴奔揚 非需求"
+  },
+  "1437264417": {
+    "skip": true,
+    "note": "漢雅古美術 和闐玉翁仲 古董掛件 非清單"
+  },
+  "1437265029": {
+    "skip": true,
+    "note": "老寶釦釦 古玩雜貨 非清單"
+  },
+  "1437269271": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "Marshall 耳機 標題缺型號, 用最便宜款 Minor IV $3,990 估; $2,500=63% 新品, 開連結看圖判斷實際型號"
   }
 }
