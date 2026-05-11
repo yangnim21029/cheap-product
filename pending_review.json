@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "xuanll93",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Olympus OM-D E-M5 Mark II 銀黑(公司貨) +12mm F2(平輸)",
       "price": 19000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:40",
+      "listedAt": "05/11 12:45",
       "pid": "1437244363",
       "verified": {
         "newPrice": null,
@@ -47,7 +47,7 @@
     },
     {
       "seller": "cosmicowl-e72dc9",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "airpodspro2代 使用過幾次而已 保固内 便宜轉手",
       "price": 2000,
       "condition": "Like new",
@@ -57,7 +57,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 17:40",
+      "listedAt": "05/11 17:45",
       "pid": "1437310483",
       "verified": {
         "newPrice": 6890,
@@ -66,12 +66,34 @@
       },
       "vsNew": 29,
       "vsSecondhand": 71
+    },
+    {
+      "seller": "yuchihchung",
+      "timeAgo": "1 day ago",
+      "title": "nutribullet調理機，果汁機",
+      "price": 1000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437129365/",
+      "category": "果汁機",
+      "maxDays": 7,
+      "priceStr": "NT$1,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 00:45",
+      "pid": "1437129365",
+      "verified": {
+        "newPrice": 2700,
+        "secondhand": 1500,
+        "note": "nutribullet 600W $1,000 = 37% 新品 $2,700 / 67% 二手中位 $1,500, 美國品牌調理機"
+      },
+      "vsNew": 37,
+      "vsSecondhand": 67
     }
   ],
   "negotiate": [
     {
       "seller": "calmstar_03f7a0",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "《8成新》Insta360 X3",
       "price": 7250,
       "condition": "Lightly used",
@@ -81,7 +103,7 @@
       "priceStr": "NT$7,250",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 13:40",
+      "listedAt": "05/11 13:45",
       "pid": "1425956850",
       "verified": {
         "newPrice": 15129,
@@ -135,12 +157,34 @@
       },
       "vsNew": null,
       "vsSecondhand": 88
+    },
+    {
+      "seller": "yangnim21070322",
+      "timeAgo": "1 hour ago",
+      "title": "Marshell 未拆封 emberyon III 3代",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437372408/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 23:45",
+      "pid": "1437372408",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 4800,
+        "note": "Marshall Emberton III 3代 未拆封 $4,000 = 62% 新品 $6,490 / 83% 二手 $4,800. ⚠ Mobile01/Dcard 仿冒重災區, 必驗序號/原盒發票"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 83
     }
   ],
   "uncertain": [
     {
       "seller": "lily_linlin",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Marshall 耳機",
       "price": 2500,
       "condition": "Brand new",
@@ -150,7 +194,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 14:40",
+      "listedAt": "05/11 14:45",
       "pid": "1437269271",
       "verified": {
         "newPrice": 3990,
@@ -162,7 +206,7 @@
     },
     {
       "seller": "materialgyal",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Creative Aurvana Ace 2 真無線耳機｜全新未使用｜新加坡購入",
       "price": 2200,
       "condition": "Brand new",
@@ -172,7 +216,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:40",
+      "listedAt": "05/11 12:45",
       "pid": "1431201757",
       "verified": {
         "newPrice": 3590,
@@ -185,7 +229,7 @@
     },
     {
       "seller": "sunny___211",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "Galaxy Buds3 FE 陶岩灰",
       "price": 2500,
       "condition": "Like new",
@@ -195,7 +239,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 15:40",
+      "listedAt": "05/11 15:45",
       "pid": "1437279792",
       "verified": {
         "newPrice": 3990,
@@ -229,7 +273,7 @@
     },
     {
       "seller": "happyfalcon-022db2",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "airpods4代 降噪版 保固内",
       "price": 2500,
       "condition": "Like new",
@@ -239,7 +283,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 17:40",
+      "listedAt": "05/11 17:45",
       "pid": "1437311185",
       "verified": {
         "newPrice": 5990,
@@ -251,7 +295,7 @@
     },
     {
       "seller": "brightforest-a34466",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "AirPods4代 降噪版在保",
       "price": 2500,
       "condition": "Like new",
@@ -261,7 +305,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 17:40",
+      "listedAt": "05/11 17:45",
       "pid": "1437306732",
       "verified": {
         "newPrice": 5990,
@@ -295,7 +339,7 @@
     },
     {
       "seller": "ginaaaaaa",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Marshall Kilburn II 藍牙音響",
       "price": 5000,
       "condition": "Lightly used",
@@ -305,7 +349,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 18:40",
+      "listedAt": "05/11 18:45",
       "pid": "1437318449",
       "verified": {
         "newPrice": 11900,
@@ -317,7 +361,7 @@
     },
     {
       "seller": "aurora520yuki",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Airpods pro 2 USB-C 看敘述！",
       "price": 3500,
       "condition": "Lightly used",
@@ -327,7 +371,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 20:40",
+      "listedAt": "05/11 20:45",
       "pid": "1437335537",
       "verified": {
         "newPrice": 6363,
@@ -335,6 +379,499 @@
         "note": "AirPods Pro 2 USB-C 看敘述 $3,500 = 55% 蝦皮全國電子 $6,363. 標題「看敘述！」可能單耳/降噪壞/水貨, 需讀敘述判定"
       },
       "vsNew": 55,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "2 minutes ago",
+      "title": "Deca joins 兩張黑膠唱片 皆彩膠",
+      "price": 4500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437380258/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1437380258",
+      "priceStr": "NT$4,500",
+      "verified": {
+        "newPrice": 6000,
+        "secondhand": null,
+        "note": "Deca joins 兩張黑膠 彩膠 主流台灣樂團 moz168"
+      },
+      "vsNew": 75,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "54 minutes ago",
+      "title": "竹內瑪利亞 單曲黑膠唱片",
+      "price": 4000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437373490/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1437373490",
+      "priceStr": "NT$4,000",
+      "verified": {
+        "newPrice": 5500,
+        "secondhand": null,
+        "note": "竹內瑪利亞 單曲黑膠 City Pop moz168"
+      },
+      "vsNew": 73,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "55 minutes ago",
+      "title": "陳綺貞 還是會寂寞 首版黑膠唱片 流水編號",
+      "price": 8000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437373190/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1437373190",
+      "priceStr": "NT$8,000",
+      "verified": {
+        "newPrice": 10000,
+        "secondhand": null,
+        "note": "陳綺貞 還是會寂寞 首版黑膠 流水編號 moz168"
+      },
+      "vsNew": 80,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "56 minutes ago",
+      "title": "陳綺貞 讓我想一想 首版黑膠唱片 流水編號",
+      "price": 8000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437373041/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1437373041",
+      "priceStr": "NT$8,000",
+      "verified": {
+        "newPrice": 10000,
+        "secondhand": null,
+        "note": "陳綺貞 讓我想一想 首版黑膠 流水編號 moz168"
+      },
+      "vsNew": 80,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "chen970526",
+      "timeAgo": "1 hour ago",
+      "title": "7吋單曲紅色黑膠唱片 The Beatles 披頭四 - Ob-La-Di, Ob-La-Da/While My Guitar Gently Weeps",
+      "price": 650,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437369030/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1437369030",
+      "priceStr": "NT$650",
+      "verified": {
+        "newPrice": 1000,
+        "secondhand": null,
+        "note": "Beatles 7寸紅色單曲 Ob-La-Di chen970526"
+      },
+      "vsNew": 65,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "3 hours ago",
+      "title": "王菲 黑膠唱片 日版",
+      "price": 3800,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437354710/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1437354710",
+      "priceStr": "NT$3,800",
+      "verified": {
+        "newPrice": 5500,
+        "secondhand": null,
+        "note": "王菲日版黑膠 moz168 (Rose 明示要收, 之前 SKIP 已還原)"
+      },
+      "vsNew": 69,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "1 day ago",
+      "title": "Yo la tengo 黑膠唱片 奈良美智封面",
+      "price": 1500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437066060/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1437066060",
+      "priceStr": "NT$1,500",
+      "verified": {
+        "newPrice": 2200,
+        "secondhand": null,
+        "note": "Yo la tengo 黑膠 奈良美智封面 moz168"
+      },
+      "vsNew": 68,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "amraychen",
+      "timeAgo": "2 days ago",
+      "title": "陶喆 I’m ok 黑膠唱片",
+      "price": 1500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436957405/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436957405",
+      "priceStr": "NT$1,500",
+      "verified": {
+        "newPrice": 2200,
+        "secondhand": null,
+        "note": "陶喆 I am ok 黑膠 amraychen"
+      },
+      "vsNew": 68,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "2 days ago",
+      "title": "蔡依林 黑膠唱片 首版帶編號",
+      "price": 8000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436909796/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436909796",
+      "priceStr": "NT$8,000",
+      "verified": {
+        "newPrice": 10000,
+        "secondhand": null,
+        "note": "蔡依林 黑膠 首版帶編號 moz168"
+      },
+      "vsNew": 80,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "xxxxxxx01",
+      "timeAgo": "2 days ago",
+      "title": "泰勒絲 Taylor Swift (2LP/180g Vinyl) 黑膠",
+      "price": 3500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436877725/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/10 00:45",
+      "pid": "1436877725",
+      "verified": {
+        "newPrice": 5000,
+        "secondhand": null,
+        "note": "Taylor Swift 2LP 180g Vinyl xxxxxxx01"
+      },
+      "vsNew": 70,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "misscne",
+      "timeAgo": "4 days ago",
+      "title": "早期知名歌星陳盈潔。甄秀珍的黑膠唱片二張。非常希少",
+      "price": 1500,
+      "condition": "",
+      "url": "https://tw.carousell.com/p/1436608400/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436608400",
+      "priceStr": "NT$1,500",
+      "verified": {
+        "newPrice": 2200,
+        "secondhand": null,
+        "note": "陳盈潔 甄秀珍 早期黑膠 2張 misscne"
+      },
+      "vsNew": 68,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "misscne",
+      "timeAgo": "4 days ago",
+      "title": "早期知名國際巨星鄧麗君的黑膠唱片一張。非常希少",
+      "price": 3000,
+      "condition": "",
+      "url": "https://tw.carousell.com/p/1436607483/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436607483",
+      "priceStr": "NT$3,000",
+      "verified": {
+        "newPrice": 4000,
+        "secondhand": null,
+        "note": "鄧麗君 早期黑膠 misscne"
+      },
+      "vsNew": 75,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "bybsmrxkny",
+      "timeAgo": "4 days ago",
+      "title": "Billie Eilish - HIT ME HARD AND SOFT黑膠LP",
+      "price": 600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1436510992/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436510992",
+      "priceStr": "NT$600",
+      "verified": {
+        "newPrice": 900,
+        "secondhand": null,
+        "note": "Billie Eilish HIT ME HARD AND SOFT LP bybsmrxkny"
+      },
+      "vsNew": 67,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "bybsmrxkny",
+      "timeAgo": "4 days ago",
+      "title": "坂本龍一 電影配樂全紀錄 (2Vinyl LP) 兩張黑膠唱片",
+      "price": 1400,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436510088/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436510088",
+      "priceStr": "NT$1,400",
+      "verified": {
+        "newPrice": 2000,
+        "secondhand": null,
+        "note": "坂本龍一 電影配樂全紀錄 2LP bybsmrxkny"
+      },
+      "vsNew": 70,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "bybsmrxkny",
+      "timeAgo": "4 days ago",
+      "title": "HYBS - Making Steak（演唱會限定版彩膠｜黑膠唱片 LP）",
+      "price": 3000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436509508/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/08 00:45",
+      "pid": "1436509508",
+      "verified": {
+        "newPrice": 4500,
+        "secondhand": null,
+        "note": "HYBS Making Steak 演唱會限定彩膠 LP bybsmrxkny"
+      },
+      "vsNew": 67,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "moz168",
+      "timeAgo": "5 days ago",
+      "title": "落日飛車 黑膠唱片7寸",
+      "price": 2300,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436332932/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436332932",
+      "priceStr": "NT$2,300",
+      "verified": {
+        "newPrice": 3300,
+        "secondhand": null,
+        "note": "落日飛車 黑膠 7寸 moz168"
+      },
+      "vsNew": 70,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "hooooo111",
+      "timeAgo": "6 days ago",
+      "title": "The Beatles 披頭四 黑膠唱片",
+      "price": 1000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1424835704/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1424835704",
+      "priceStr": "NT$1,000",
+      "verified": {
+        "newPrice": 1500,
+        "secondhand": null,
+        "note": "The Beatles 披頭四 LP hooooo111"
+      },
+      "vsNew": 67,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "lin1shan",
+      "timeAgo": "6 days ago",
+      "title": "Taylor Swift — THE LIFE OF A SHOWGIRL 限量黑膠｜浪漫花束金膠",
+      "price": 1500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1419553624/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1419553624",
+      "priceStr": "NT$1,500",
+      "verified": {
+        "newPrice": 2200,
+        "secondhand": null,
+        "note": "Taylor Swift THE LIFE OF A SHOWGIRL 限量金膠 lin1shan"
+      },
+      "vsNew": 68,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "howaboutyouuu",
+      "timeAgo": "6 days ago",
+      "title": "大瀧詠一 黑膠 Niagara Song Book 2 含明信片 1982年 City Pop",
+      "price": 800,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436269135/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436269135",
+      "priceStr": "NT$800",
+      "verified": {
+        "newPrice": 1200,
+        "secondhand": null,
+        "note": "大瀧詠一 Niagara Song Book 2 1982 City Pop howaboutyouuu"
+      },
+      "vsNew": 67,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "asdzxc1235",
+      "timeAgo": "7 days ago",
+      "title": "【全新現貨】milet 1st Album《eyes》完全生產限定盤 2LP 黑膠 (全新未拆)",
+      "price": 2700,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1436024162/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1436024162",
+      "priceStr": "NT$2,700",
+      "verified": {
+        "newPrice": 3800,
+        "secondhand": null,
+        "note": "milet 1st Album eyes 完全生產限定 2LP 全新 asdzxc1235"
+      },
+      "vsNew": 71,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "alec6hh37069",
+      "timeAgo": "7 days ago",
+      "title": "劉藍溪黑膠唱片收 野薑花的回憶 北風兒別敲我窗 如果 梅雪爭春等已拆 極新絕版",
+      "price": 1890,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1435989612/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1435989612",
+      "priceStr": "NT$1,890",
+      "verified": {
+        "newPrice": 2700,
+        "secondhand": null,
+        "note": "劉藍溪 早期黑膠 野薑花的回憶等 alec6hh37069"
+      },
+      "vsNew": 70,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "peiting09023948",
+      "timeAgo": "2 days ago",
+      "title": "BOSCH 果汁機",
+      "price": 5000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437038434/",
+      "category": "果汁機",
+      "maxDays": 7,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/10 00:45",
+      "pid": "1437038434",
+      "verified": {
+        "newPrice": 12900,
+        "secondhand": null,
+        "note": "BOSCH 果汁機標題缺型號 $5,000 = 39% 新品 $12,900 估值(BOSCH MMB 系列). 賣家 peiting09023948 不熟, 需問清楚型號"
+      },
+      "vsNew": 39,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "vybzlin",
+      "timeAgo": "1 minute ago",
+      "title": "SONY WF-LS910N 無線降噪藍牙耳機 入耳式藍牙耳機 真無線耳機 台灣公司貨",
+      "price": 4300,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437380911/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/12 00:44",
+      "pid": "1437380911",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": null,
+        "note": "Sony WF-LS910N LinkBuds Fit 公司貨 $4,300 = 66% Sony Store $6,490, 二手中位 $4,500=96% 持平. 個人賣家公司貨在保"
+      },
+      "vsNew": 66,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "poctor",
+      "timeAgo": "1 hour ago",
+      "title": "Apple Airpods pro 2代 ( Lightning 版本 )",
+      "price": 2800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437371512/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 23:45",
+      "pid": "1437371512",
+      "verified": {
+        "newPrice": 6890,
+        "secondhand": null,
+        "note": "AirPods Pro 2 Lightning版 $2,800 = 41% 新品 $6,890. ⚠ Lightning版本電池老化常見, 需驗真+電池健康(USB-C版才是現行款)"
+      },
+      "vsNew": 41,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "peach999",
+      "timeAgo": "30 minutes ago",
+      "title": "SONY 24-105mm F4 G",
+      "price": 17000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1434412415/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$17,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/12 00:15",
+      "pid": "1434412415",
+      "verified": {
+        "newPrice": 31500,
+        "secondhand": null,
+        "note": "Sony FE 24-105mm F4 G $17,000 = 54% 新品 $31,500 / 77% 二手中位 $22,000. ⚠ 鏡頭一定當面驗發霉/入塵/卡口"
+      },
+      "vsNew": 54,
       "vsSecondhand": null
     }
   ]
