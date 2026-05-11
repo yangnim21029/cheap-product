@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/11 20:40:44 · 累積已看 4391 筆 · 36 位賣家黑名單
+> 2026/5/11 22:40:27 · 累積已看 4391 筆 · 37 位賣家黑名單
 
 **待審：** 好貨 3 ｜ 殺價 3 ｜ 手動 9 ｜ 待查 0
 
@@ -37,7 +37,7 @@
 | [音響耳機] AirPods4代 降噪版在保 | **NT$2,500** | 新$5990 | 42% new | Like new | 05/11 17:40 | [→](https://tw.carousell.com/p/1437306732/) |
 | [音響] Marshall Kilburn II 藍牙音響 | **NT$5,000** | 新$11900 | 42% new | Lightly used | 05/11 18:40 | [→](https://tw.carousell.com/p/1437318449/) |
 | [相機攝影] Sony sel1670z 鏡頭 | **NT$12,000** | 新$26000 | 46% new | Lightly used | 05/11 15:37 | [→](https://tw.carousell.com/p/1437287452/) |
-| [音響耳機] Airpods pro 2 USB-C 看敘述！ | **NT$3,500** | 新$6363 | 55% new | Lightly used | 05/11 20:17 | [→](https://tw.carousell.com/p/1437335537/) |
+| [音響耳機] Airpods pro 2 USB-C 看敘述！ | **NT$3,500** | 新$6363 | 55% new | Lightly used | 05/11 20:40 | [→](https://tw.carousell.com/p/1437335537/) |
 | [音響耳機] Creative Aurvana Ace 2 真無線耳機｜全新未使用｜新加坡購入 | **NT$2,200** | 新$3590 | 61% new | Brand new | 05/11 12:40 | [→](https://tw.carousell.com/p/1431201757/) |
 | [音響耳機] Marshall 耳機 | **NT$2,500** | 新$3990 | 63% new | Brand new | 05/11 14:40 | [→](https://tw.carousell.com/p/1437269271/) |
 | [音響耳機] Galaxy Buds3 FE 陶岩灰 | **NT$2,500** | 新$3990 | 63% new | Like new | 05/11 15:40 | [→](https://tw.carousell.com/p/1437279792/) |
