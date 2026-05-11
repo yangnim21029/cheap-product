@@ -1,4 +1,37 @@
 {
+  "1437207110": {
+    "newPrice": 10980,
+    "secondhand": 9000,
+    "note": "DJI Osmo Action 5 Pro 標準套裝 公司貨$10,980 / 二手中位$9,000。$7,500=68%/83% → 殺價檻",
+    "source": "web search 2026-05-11"
+  },
+  "1429789614": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "SONY LinkBuds Fit WF-LS910N 公司貨$4,990。$3,000=60% 進手動門檻",
+    "source": "web search 2026-05-11"
+  },
+  "1437208452": {
+    "newPrice": 3800,
+    "secondhand": null,
+    "note": "Fender Mustang LT25 效果器 新品$3,500-4,500。$3,000=79% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437189284": {
+    "newPrice": null,
+    "secondhand": 4500,
+    "note": "SONY HDR-XR520 2009 停產 二手$4,500。$6,000 高於行情 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437210089": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "早期老木雕觀音 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
   "1437198734": {
     "newPrice": 25000,
     "secondhand": null,

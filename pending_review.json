@@ -104,7 +104,7 @@
       "priceStr": "NT$4,190",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 06:37",
+      "listedAt": "05/10 08:38",
       "pid": "1436240173",
       "verified": {
         "newPrice": null,
@@ -117,7 +117,7 @@
     },
     {
       "seller": "mcadamlian50886",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "DJI OSMO Pocket 3",
       "price": 8888,
       "condition": "Lightly used",
@@ -127,7 +127,7 @@
       "priceStr": "NT$8,888",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 00:37",
+      "listedAt": "05/11 00:38",
       "pid": "1437188307",
       "verified": {
         "newPrice": 17990,
@@ -140,7 +140,7 @@
     },
     {
       "seller": "unclehsieh",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "《二手》 Tokina AT-X PRO 11-20mm F2.8 IF DX for canon",
       "price": 6300,
       "condition": "Lightly used",
@@ -150,7 +150,7 @@
       "priceStr": "NT$6,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 12:37",
+      "listedAt": "05/10 12:38",
       "pid": "1437047709",
       "verified": {
         "newPrice": 19900,
@@ -173,7 +173,7 @@
       "priceStr": "NT$13,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 06:37",
+      "listedAt": "05/10 08:38",
       "pid": "1437006261",
       "verified": {
         "newPrice": null,
@@ -186,7 +186,7 @@
     },
     {
       "seller": "peterho97133262",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "EOS 5DS",
       "price": 17800,
       "condition": "Lightly used",
@@ -196,7 +196,7 @@
       "priceStr": "NT$17,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 06:37",
+      "listedAt": "05/09 08:38",
       "pid": "1430810959",
       "verified": {
         "newPrice": null,
@@ -209,7 +209,7 @@
     },
     {
       "seller": "aaron0409",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Bose Soundtouch 300",
       "price": 4000,
       "condition": "Like new",
@@ -219,7 +219,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 02:37",
+      "listedAt": "05/11 02:38",
       "pid": "1437198734",
       "verified": {
         "newPrice": 25000,
@@ -313,7 +313,7 @@
       "priceStr": "NT$13,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/05 06:37",
+      "listedAt": "05/05 08:38",
       "pid": "1436042857",
       "verified": {
         "newPrice": null,
@@ -346,6 +346,29 @@
       },
       "vsNew": 64,
       "vsSecondhand": 80
+    },
+    {
+      "seller": "palaukenny",
+      "timeAgo": "2 hours ago",
+      "title": "DJI ACTION 5 PRO",
+      "price": 7500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437207110/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$7,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 06:38",
+      "pid": "1437207110",
+      "verified": {
+        "newPrice": 10980,
+        "secondhand": 9000,
+        "note": "DJI Osmo Action 5 Pro 標準套裝 公司貨$10,980 / 二手中位$9,000。$7,500=68%/83% → 殺價檻",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": 68,
+      "vsSecondhand": 83
     }
   ],
   "uncertain": [
@@ -476,7 +499,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/08 06:37",
+      "listedAt": "05/08 08:38",
       "pid": "1436723576",
       "verified": {
         "newPrice": 4090,
@@ -499,7 +522,7 @@
       "priceStr": "NT$5,190",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/06 06:37",
+      "listedAt": "05/06 08:38",
       "pid": "1436234698",
       "verified": {
         "newPrice": 10589,
@@ -522,7 +545,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 06:37",
+      "listedAt": "05/09 08:38",
       "pid": "1436826237",
       "verified": {
         "newPrice": 7890,
@@ -535,7 +558,7 @@
     },
     {
       "seller": "lun31401",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "SONY ULT WEAR WH-ULT900N",
       "price": 3500,
       "condition": "Lightly used",
@@ -545,7 +568,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 23:37",
+      "listedAt": "05/10 23:38",
       "pid": "1430624599",
       "verified": {
         "newPrice": 5990,
@@ -581,7 +604,7 @@
     },
     {
       "seller": "ben381060642940",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "SONY 索尼 WH-CH72ON 無線藍芽耳罩式耳機",
       "price": 2690,
       "condition": "Like new",
@@ -591,7 +614,7 @@
       "priceStr": "NT$2,690",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 20:37",
+      "listedAt": "05/10 20:38",
       "pid": "1437151953",
       "verified": {
         "newPrice": 4490,
@@ -604,7 +627,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "TEAC TN-100 黑膠唱盤 支援數位轉錄 自動唱臂回歸",
       "price": 3000,
       "condition": "Lightly used",
@@ -614,7 +637,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 17:37",
+      "listedAt": "05/10 17:38",
       "pid": "1437109919",
       "verified": {
         "newPrice": 5990,
@@ -627,7 +650,7 @@
     },
     {
       "seller": "alexz_zhuang",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "Soundcore Liberty 4 pro 藍芽耳機 降噪",
       "price": 2100,
       "condition": "Like new",
@@ -637,7 +660,7 @@
       "priceStr": "NT$2,100",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 17:37",
+      "listedAt": "05/10 17:38",
       "pid": "1437109385",
       "verified": {
         "newPrice": 3690,
@@ -660,7 +683,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 06:37",
+      "listedAt": "05/10 08:38",
       "pid": "1430834752",
       "verified": {
         "newPrice": 5990,
@@ -683,7 +706,7 @@
       "priceStr": "NT$3,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 06:37",
+      "listedAt": "05/10 08:38",
       "pid": "1425534149",
       "verified": {
         "newPrice": 7980,
@@ -696,7 +719,7 @@
     },
     {
       "seller": "dillonchen",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "全新Bose Quietcomfort Ultra Earbuds 第一代",
       "price": 4800,
       "condition": "Brand new",
@@ -706,7 +729,7 @@
       "priceStr": "NT$4,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 06:37",
+      "listedAt": "05/09 08:38",
       "pid": "1436940174",
       "verified": {
         "newPrice": 9500,
@@ -742,7 +765,7 @@
     },
     {
       "seller": "aabbcc0624",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "Sony zv-1 II 黑色 公司貨 已過保",
       "price": 18000,
       "condition": "Lightly used",
@@ -752,7 +775,7 @@
       "priceStr": "NT$18,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 23:37",
+      "listedAt": "05/10 23:38",
       "pid": "1437183006",
       "verified": {
         "newPrice": 25980,
@@ -765,17 +788,17 @@
     },
     {
       "seller": "vinegar0304",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "Insta360 X3 全景相機",
       "price": 6980,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1437095776/",
-      "category": "相機攝影",
-      "maxDays": 3,
+      "category": "insta360",
+      "maxDays": 7,
       "priceStr": "NT$6,980",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 15:37",
+      "listedAt": "05/10 16:38",
       "pid": "1437095776",
       "verified": {
         "newPrice": 15129,
@@ -788,7 +811,7 @@
     },
     {
       "seller": "mi777",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "CANON-R50",
       "price": 17000,
       "condition": "Lightly used",
@@ -798,7 +821,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 10:37",
+      "listedAt": "05/10 10:38",
       "pid": "1437035515",
       "verified": {
         "newPrice": 24552,
@@ -811,7 +834,7 @@
     },
     {
       "seller": "zwk181",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "Insta360 GO 3S 收納套組 128G版本",
       "price": 10300,
       "condition": "Like new",
@@ -821,7 +844,7 @@
       "priceStr": "NT$10,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 04:41",
+      "listedAt": "05/09 08:38",
       "pid": "1430966383",
       "verified": {
         "newPrice": 17798,
@@ -857,7 +880,7 @@
     },
     {
       "seller": "pattyhachu",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "JBL Partybox On-The-Go Essential 便攜式燈光派對藍牙喇叭",
       "price": 7500,
       "condition": "Brand new",
@@ -867,7 +890,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 14:37",
+      "listedAt": "05/10 14:38",
       "pid": "1437071856",
       "verified": {
         "newPrice": 11900,
@@ -880,7 +903,7 @@
     },
     {
       "seller": "kinoko1215",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Marshall stanmore II 無線藍芽家庭音響",
       "price": 8000,
       "condition": "Lightly used",
@@ -890,7 +913,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 21:37",
+      "listedAt": "05/10 21:38",
       "pid": "1437155494",
       "verified": {
         "newPrice": 13400,
@@ -913,7 +936,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 06:37",
+      "listedAt": "05/09 08:38",
       "pid": "1436860785",
       "verified": {
         "newPrice": 14900,
@@ -926,7 +949,7 @@
     },
     {
       "seller": "gabriel.tw",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "Oakley 歐克利蘇特羅SUTRO TI OO6013戶外騎行眼鏡運動駕駛太陽鏡沙灘露營墨鏡",
       "price": 2480,
       "condition": "Brand new",
@@ -936,7 +959,7 @@
       "priceStr": "NT$2,480",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/10 13:41",
+      "listedAt": "05/10 13:38",
       "pid": "1437059488",
       "verified": {
         "newPrice": 7491,
@@ -949,7 +972,7 @@
     },
     {
       "seller": "kz_13",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "Bose 耳塞式",
       "price": 4200,
       "condition": "Like new",
@@ -959,7 +982,7 @@
       "priceStr": "NT$4,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 00:37",
+      "listedAt": "05/11 00:38",
       "pid": "1437192132",
       "verified": {
         "newPrice": 6000,
@@ -972,7 +995,7 @@
     },
     {
       "seller": "ni_2na",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Canon R8 + Sigma 18-50mm f2.8 輕巧全焦段組合（贈神牛閃燈 TT350c）",
       "price": 28000,
       "condition": "Lightly used",
@@ -982,7 +1005,7 @@
       "priceStr": "NT$28,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 02:37",
+      "listedAt": "05/11 02:38",
       "pid": "1437198332",
       "verified": {
         "newPrice": 54000,
@@ -1018,7 +1041,7 @@
     },
     {
       "seller": "jovieee471",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Marshall emberton i 第一代",
       "price": 2500,
       "condition": "Lightly used",
@@ -1028,7 +1051,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 04:37",
+      "listedAt": "05/11 04:38",
       "pid": "1437202135",
       "verified": {
         "newPrice": 5990,
@@ -1041,7 +1064,7 @@
     },
     {
       "seller": "momi_guitar",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "M-audio Code25 MIDI主控鍵盤",
       "price": 3800,
       "condition": "Like new",
@@ -1051,7 +1074,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 02:37",
+      "listedAt": "05/11 02:38",
       "pid": "1437198901",
       "verified": {
         "newPrice": 6000,
@@ -1060,6 +1083,29 @@
         "source": "web search 2026-05-11"
       },
       "vsNew": 63,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "ssssi",
+      "timeAgo": "59 minutes ago",
+      "title": "SONY LinkBuds Fit 真無線降躁耳機 WF-LS910N",
+      "price": 3000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1429789614/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 07:39",
+      "pid": "1429789614",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": null,
+        "note": "SONY LinkBuds Fit WF-LS910N 公司貨$4,990。$3,000=60% 進手動門檻",
+        "source": "web search 2026-05-11"
+      },
+      "vsNew": 60,
       "vsSecondhand": null
     }
   ]
