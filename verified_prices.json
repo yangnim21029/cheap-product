@@ -1,4 +1,92 @@
 {
+  "1431201757": {
+    "newPrice": 3590,
+    "secondhand": null,
+    "note": "Creative Aurvana Ace 2 真無線 公司貨$3,590。$2,200=61% 進手動門檻 (新加坡購入全新未使用)",
+    "source": "web search 2026-05-11"
+  },
+  "1437244363": {
+    "newPrice": null,
+    "secondhand": 27000,
+    "note": "Olympus E-M5 II + 12mm F2 套組 二手中位$27,000。$19,000=70% → 殺價檻 殺幅$8K",
+    "source": "web search 2026-05-11"
+  },
+  "1437002035": {
+    "newPrice": 56880,
+    "secondhand": 36000,
+    "note": "Canon R6 展示機 公司貨$56,880 / 二手中位$36,000。$30,000=53%/83% → 殺價檻 展示機原廠保存3個月",
+    "source": "web search 2026-05-11"
+  },
+  "1437234622": {
+    "newPrice": 6490,
+    "secondhand": 5000,
+    "note": "Marshall Emberton III 白 公司貨$6,490 / 二手中位$5,000。$4,900=75%/98% 過門檻 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437191019": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Quadral Sub 600DV 重低音 二手資料稀, 非 Rose 需求 SKIP",
+    "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1434178367": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "侏羅紀公園 刮鬍泡胚胎罐 收藏品非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1431143131": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "偶像公主三彈四星卡 球員卡風格收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437227698": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PCGS PR69 民國91年馬年銀章 紀念幣收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437247094": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Ado 残夢 完全生產限定盤 2LP 黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437238353": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sade Promise 黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437237257": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sade 首張黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437228810": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Wagner Ring 完整套裝 Decca Solti 古典黑膠收藏非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437227289": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Gibson Les Paul 電吉他弦 樂器配件非 Rose 需求 SKIP",
+    "source": "manual 2026-05-11",
+    "skip": true
+  },
   "1437225726": {
     "newPrice": null,
     "secondhand": 26000,
