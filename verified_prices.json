@@ -191,6 +191,10 @@
     "source": "web search 2026-05-07",
     "skip": true
   },
+  "1429810673": {
+    "skip": true,
+    "note": "日本 AV DVD SNIS-648/SNIS-803/MIDE-3 非需求"
+  },
   "1430072610": {
     "newPrice": null,
     "secondhand": 5500,
@@ -2717,6 +2721,10 @@
     "skip": true,
     "note": "snowpeak 全新日本雪峰露營小桌 標題含「商用桌」 $2,680. snow peak 從不出商用名稱+真品 IGT 桌板 ≥$5K, 95% 仿品/搭名"
   },
+  "1437357568": {
+    "skip": true,
+    "note": "HK SoundSticks 4 水母喇叭 $8,000 = 73% 新品中位 $11,990 / 120% 二手中位 $6,500. 二手市場供給多9-9.8新拆封 $5-7K, $8K 太硬非deal"
+  },
   "1437359929": {
     "skip": true,
     "note": "波麗樹脂公雞雕像 NO:3301 yuan712 批量編號 古玩擺飾"
@@ -2787,17 +2795,33 @@
     "secondhand": null,
     "note": "竹內瑪利亞 單曲黑膠 City Pop moz168"
   },
+  "1437373649": {
+    "skip": true,
+    "note": "徵求📸 理光 Ricoh GRII GR2 $9,999 - 是徵求帖不是賣家"
+  },
   "1437374335": {
     "skip": true,
     "note": "瑪利歐公仔 非需求"
+  },
+  "1437374491": {
+    "skip": true,
+    "note": "DigiTech RV-7 Stereo Reverb 吉他效果器 momi_guitar"
   },
   "1437374675": {
     "skip": true,
     "note": "GD 818 BLOOM BOX 聯名積木+專屬周邊 K-pop非需求"
   },
+  "1437374808": {
+    "skip": true,
+    "note": "VEAL-M3C 面單板木吉他 $9,000 樂器非清單"
+  },
   "1437374947": {
     "skip": true,
     "note": "限量版瑪利歐公仔 非需求"
+  },
+  "1437376429": {
+    "skip": true,
+    "note": "Walrus Audio Slö Multi-Texture Reverb 殘響 吉他效果器 momi_guitar"
   },
   "1437380258": {
     "newPrice": 6000,
@@ -2808,5 +2832,38 @@
     "newPrice": 6490,
     "secondhand": null,
     "note": "Sony WF-LS910N LinkBuds Fit 公司貨 $4,300 = 66% Sony Store $6,490, 二手中位 $4,500=96% 持平. 個人賣家公司貨在保"
+  },
+  "1437382052": {
+    "skip": true,
+    "note": "戶外行動電源 400W $4,000 a09264242574075 id 純數字長, 露營停電備用描述像廠商批量"
+  },
+  "1437382542": {
+    "newPrice": 25000,
+    "secondhand": null,
+    "note": "Fujifilm XF 56mm F1.2 R 一代日本製停產 $14,500 = 58% 新品末期 $25,000 / 112% 二手中位 $13,000. 一代停產收藏向, 二手中位上緣, 要看實品成色與配件"
+  },
+  "1437388735": {
+    "skip": true,
+    "note": "Boss NS-2 Noise Suppressor 雜音抑制 吉他效果器 momi_guitar"
+  },
+  "1437388790": {
+    "skip": true,
+    "note": "五月天 藍/粉紅/綠膠 $55,000 三張限量彩膠. 超出 query 上限 $8K, 平均一張 $18K 稀貴"
+  },
+  "1437389122": {
+    "skip": true,
+    "note": "Suhr RUFUS Fuzz 破音單顆 吉他效果器 momi_guitar"
+  },
+  "1437389433": {
+    "skip": true,
+    "note": "EHX Silencer Noise Gate 吉他效果器 momi_guitar"
+  },
+  "1437389811": {
+    "skip": true,
+    "note": "MXR MC402 CAE Boost Overdrive 吉他效果器 momi_guitar 樂器"
+  },
+  "1437390400": {
+    "skip": true,
+    "note": "SK Japan 特別週草上飛娃 賽馬娘公仔 收藏非需求"
   }
 }
