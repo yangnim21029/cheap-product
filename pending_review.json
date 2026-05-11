@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "xuanll93",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Olympus OM-D E-M5 Mark II 銀黑(公司貨) +12mm F2(平輸)",
       "price": 19000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:43",
+      "listedAt": "05/11 12:39",
       "pid": "1437244363",
       "verified": {
         "newPrice": null,
@@ -22,12 +22,34 @@
       },
       "vsNew": null,
       "vsSecondhand": 70
+    },
+    {
+      "seller": "lichanjan",
+      "timeAgo": "56 minutes ago",
+      "title": "SONY RX100 M3",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437284342/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 15:43",
+      "pid": "1437284342",
+      "verified": {
+        "newPrice": 25000,
+        "secondhand": 10000,
+        "note": "Sony RX100 M3 $6,000 = 60% 二手中位 $10,000 (停產 2014), 好貨"
+      },
+      "vsNew": 24,
+      "vsSecondhand": 60
     }
   ],
   "negotiate": [
     {
       "seller": "calmstar_03f7a0",
-      "timeAgo": "36 minutes ago",
+      "timeAgo": "3 hours ago",
       "title": "《8成新》Insta360 X3",
       "price": 7250,
       "condition": "Lightly used",
@@ -37,7 +59,7 @@
       "priceStr": "NT$7,250",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 14:07",
+      "listedAt": "05/11 13:39",
       "pid": "1425956850",
       "verified": {
         "newPrice": 15129,
@@ -69,12 +91,34 @@
       },
       "vsNew": 53,
       "vsSecondhand": 83
+    },
+    {
+      "seller": "lightgarden333",
+      "timeAgo": "3 hours ago",
+      "title": "二手 APPLE Watch 5代 40mm 玫瑰金 +AirPods2 組合",
+      "price": 3500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437261050/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 13:39",
+      "pid": "1437261050",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 4000,
+        "note": "AW5 40mm 玫瑰金 + AirPods2 組合 $3,500 = 87.5% 二手中位 $4,000 (AW5~$2,500 + AirPods2~$1,500), 殺幅僅 $500 邊緣"
+      },
+      "vsNew": null,
+      "vsSecondhand": 88
     }
   ],
   "uncertain": [
     {
       "seller": "lily_linlin",
-      "timeAgo": "3 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Marshall 耳機",
       "price": 2500,
       "condition": "Brand new",
@@ -84,7 +128,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 14:40",
+      "listedAt": "05/11 14:39",
       "pid": "1437269271",
       "verified": {
         "newPrice": 3990,
@@ -96,7 +140,7 @@
     },
     {
       "seller": "materialgyal",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Creative Aurvana Ace 2 真無線耳機｜全新未使用｜新加坡購入",
       "price": 2200,
       "condition": "Brand new",
@@ -106,7 +150,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/11 12:43",
+      "listedAt": "05/11 12:39",
       "pid": "1431201757",
       "verified": {
         "newPrice": 3590,
@@ -115,6 +159,50 @@
         "source": "web search 2026-05-11"
       },
       "vsNew": 61,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "sunny___211",
+      "timeAgo": "1 hour ago",
+      "title": "Galaxy Buds3 FE 陶岩灰",
+      "price": 2500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437279792/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 15:39",
+      "pid": "1437279792",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Galaxy Buds3 FE 陶岩灰 $2,500 = 63% PChome 新品 $3,990 / 84% 蝦皮 $2,990, 需確認是否全新未拆"
+      },
+      "vsNew": 63,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "andytung401",
+      "timeAgo": "41 minutes ago",
+      "title": "Sony sel1670z 鏡頭",
+      "price": 12000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437287452/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$12,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/11 15:58",
+      "pid": "1437287452",
+      "verified": {
+        "newPrice": 26000,
+        "secondhand": null,
+        "note": "Sony SEL1670Z Zeiss 鏡頭 $12,000 = 46% 新品中位 $26,000 / 92% 二手中位 $13,000, 相機攝影邊緣手動看成色"
+      },
+      "vsNew": 46,
       "vsSecondhand": null
     }
   ]
