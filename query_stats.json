@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 5833,
-    "recentTotal": 1695,
+    "total": 5881,
+    "recentTotal": 1712,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:24:45.368Z"
+    "lastSeen": "2026-05-12T18:24:40.857Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 5803,
-    "recentTotal": 262,
+    "total": 5851,
+    "recentTotal": 266,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:25:32.447Z"
+    "lastSeen": "2026-05-12T18:26:31.681Z"
   },
   "nespresso": {
     "total": 475,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 5847,
-    "recentTotal": 1752,
+    "total": 5895,
+    "recentTotal": 1765,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:25:54.516Z"
+    "lastSeen": "2026-05-12T18:26:58.298Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -96,28 +96,28 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 5631,
-    "recentTotal": 899,
+    "total": 5679,
+    "recentTotal": 903,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T12:26:30.538Z"
+    "lastSeen": "2026-05-12T18:26:03.639Z"
   },
   "VR": {
-    "total": 5927,
-    "recentTotal": 382,
+    "total": 5975,
+    "recentTotal": 387,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:26:54.737Z"
+    "lastSeen": "2026-05-12T18:27:47.646Z"
   },
   "喇叭": {
-    "total": 5347,
-    "recentTotal": 1988,
+    "total": 5395,
+    "recentTotal": 2000,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T14:26:23.832Z"
+    "lastSeen": "2026-05-12T18:25:12.418Z"
   },
   "音響": {
-    "total": 5611,
-    "recentTotal": 1505,
+    "total": 5659,
+    "recentTotal": 1519,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T12:26:07.859Z"
+    "lastSeen": "2026-05-12T18:25:41.903Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 5672,
-    "recentTotal": 326,
+    "total": 5720,
+    "recentTotal": 327,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:26:24.407Z"
+    "lastSeen": "2026-05-12T18:27:23.158Z"
   },
   "帳篷": {
     "total": 1239,
@@ -138,10 +138,10 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 5325,
-    "recentTotal": 5043,
+    "total": 5373,
+    "recentTotal": 5091,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:30:50.833Z"
+    "lastSeen": "2026-05-12T18:30:57.577Z"
   },
   "露營": {
     "total": 4089,
@@ -168,16 +168,16 @@
     "lastSeen": "2026-05-07T23:21:10.805Z"
   },
   "優格機": {
-    "total": 2521,
+    "total": 2555,
     "recentTotal": 123,
-    "zeroStreak": 10,
+    "zeroStreak": 11,
     "lastSeen": "2026-05-11T14:28:39.803Z"
   },
   "手沖": {
-    "total": 2117,
-    "recentTotal": 362,
+    "total": 2165,
+    "recentTotal": 367,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:28:37.784Z"
+    "lastSeen": "2026-05-12T18:28:38.875Z"
   },
   "磨豆機": {
     "total": 2350,
@@ -186,10 +186,10 @@
     "lastSeen": "2026-05-12T16:28:12.452Z"
   },
   "除濕機": {
-    "total": 864,
-    "recentTotal": 85,
+    "total": 912,
+    "recentTotal": 91,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:29:03.810Z"
+    "lastSeen": "2026-05-12T18:29:07.949Z"
   },
   "dji": {
     "total": 1144,
@@ -198,21 +198,21 @@
     "lastSeen": "2026-05-12T16:29:25.999Z"
   },
   "insta360": {
-    "total": 1092,
-    "recentTotal": 272,
+    "total": 1140,
+    "recentTotal": 284,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:29:56.041Z"
+    "lastSeen": "2026-05-12T18:29:35.940Z"
   },
   "果汁機": {
-    "total": 336,
-    "recentTotal": 104,
+    "total": 384,
+    "recentTotal": 117,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T16:30:21.771Z"
+    "lastSeen": "2026-05-12T18:30:00.463Z"
   },
   "黑膠": {
-    "total": 432,
-    "recentTotal": 179,
+    "total": 480,
+    "recentTotal": 199,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T12:30:40.755Z"
+    "lastSeen": "2026-05-12T18:30:27.085Z"
   }
 }
