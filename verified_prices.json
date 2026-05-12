@@ -63,6 +63,11 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
+  "1420399297": {
+    "newPrice": 3000,
+    "secondhand": null,
+    "note": "露營暖爐 $2,000 標題缺品牌型號. Kovea $2-6K / Iwatani $1.5-3K / Snow Peak $5-15K / Stanley 低端. 開連結確認品牌 (中位 $3K 估值)"
+  },
   "1420589638": {
     "skip": true,
     "note": "多聞壓克力立牌 動漫周邊 非需求"
@@ -2861,6 +2866,11 @@
     "secondhand": null,
     "note": "Fujifilm XF 56mm F1.2 R 一代日本製停產 $14,500 = 58% 新品末期 $25,000 / 112% 二手中位 $13,000. 一代停產收藏向, 二手中位上緣, 要看實品成色與配件"
   },
+  "1437386292": {
+    "newPrice": 13000,
+    "secondhand": null,
+    "note": "Panasonic Lumix DC-GF10 + 14-42mm Kit $9,000 = 69% 新品 $13,000 / 二手 $8-17K區間中段. GF10 已停產多年, kit 變體 (14-42mm 比 12-32mm 略貴), 需看實機成色"
+  },
   "1437388735": {
     "skip": true,
     "note": "Boss NS-2 Noise Suppressor 雜音抑制 吉他效果器 momi_guitar"
@@ -2917,5 +2927,34 @@
   "1437396943": {
     "skip": true,
     "note": "青花瓷杯兩個一個有刻碰 $2,300 tokyo1129 古玩瑕疵"
+  },
+  "1437399511": {
+    "skip": true,
+    "note": "重塑雕像的權利 Re-TROS Cut Off EP 2005 後龐克小眾 CD"
+  },
+  "1437399842": {
+    "skip": true,
+    "note": "權志龍小花手燈 $2,500 K-pop周邊"
+  },
+  "1437400597": {
+    "skip": true,
+    "note": "多寶齋佛牌 龍婆坤 2543 火焰藥師佛 line_0900137361 id含line商家嫌疑"
+  },
+  "1437400787": {
+    "newPrice": 19240,
+    "secondhand": 14500,
+    "note": "DJI Goggles 3 + 雞腿 Motion Controller $12,000 = 62% 新品組合 $19,240 (Goggles 3 $16,490 + RC Motion 3 $2,750), 殺幅 $7K. ray3213 個人 FPV 玩家"
+  },
+  "1437400963": {
+    "skip": true,
+    "note": "DJI FPV 遙控器 3 $3,800 = 84% 新品 $4,550, 貼齊蝦皮福利品底價 $3,800 持平, 沒實際 deal"
+  },
+  "1437401997": {
+    "skip": true,
+    "note": "商品3件 royalpenguin.772e6c $2,200 標題模糊"
+  },
+  "1437402106": {
+    "skip": true,
+    "note": "西藏綠松石 $1,200 古玩非需求"
   }
 }
