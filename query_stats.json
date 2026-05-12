@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 5641,
-    "recentTotal": 1631,
+    "total": 5689,
+    "recentTotal": 1647,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T06:24:43.901Z"
+    "lastSeen": "2026-05-12T10:24:42.724Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,16 +18,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 5650,
-    "recentTotal": 1576,
+    "total": 5698,
+    "recentTotal": 1590,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:24:51.105Z"
+    "lastSeen": "2026-05-12T10:25:12.268Z"
   },
   "投影機": {
-    "total": 6030,
-    "recentTotal": 1474,
+    "total": 6078,
+    "recentTotal": 1486,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:25:16.419Z"
+    "lastSeen": "2026-05-12T10:25:35.216Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 5707,
-    "recentTotal": 254,
+    "total": 5755,
+    "recentTotal": 258,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:26:09.472Z"
+    "lastSeen": "2026-05-12T10:26:24.612Z"
   },
   "nespresso": {
     "total": 475,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 5655,
-    "recentTotal": 1698,
+    "total": 5703,
+    "recentTotal": 1712,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:26:39.306Z"
+    "lastSeen": "2026-05-12T10:26:47.017Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -102,16 +102,16 @@
     "lastSeen": "2026-05-12T04:25:57.457Z"
   },
   "VR": {
-    "total": 5783,
-    "recentTotal": 370,
+    "total": 5831,
+    "recentTotal": 374,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:27:04.958Z"
+    "lastSeen": "2026-05-12T10:27:36.930Z"
   },
   "喇叭": {
-    "total": 5203,
-    "recentTotal": 1950,
+    "total": 5251,
+    "recentTotal": 1962,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T06:25:37.320Z"
+    "lastSeen": "2026-05-12T10:26:00.025Z"
   },
   "音響": {
     "total": 5563,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 5480,
-    "recentTotal": 322,
+    "total": 5528,
+    "recentTotal": 323,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T04:27:19.907Z"
+    "lastSeen": "2026-05-12T10:27:10.409Z"
   },
   "帳篷": {
     "total": 1239,
@@ -150,10 +150,10 @@
     "lastSeen": "2026-05-12T08:27:27.714Z"
   },
   "地毯": {
-    "total": 3742,
-    "recentTotal": 523,
+    "total": 3790,
+    "recentTotal": 526,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:27:57.833Z"
+    "lastSeen": "2026-05-12T10:28:00.008Z"
   },
   "相機機身": {
     "total": 1188,
@@ -168,9 +168,9 @@
     "lastSeen": "2026-05-07T23:21:10.805Z"
   },
   "優格機": {
-    "total": 2419,
+    "total": 2453,
     "recentTotal": 123,
-    "zeroStreak": 7,
+    "zeroStreak": 8,
     "lastSeen": "2026-05-11T14:28:39.803Z"
   },
   "手沖": {
@@ -180,34 +180,34 @@
     "lastSeen": "2026-05-12T08:29:14.915Z"
   },
   "磨豆機": {
-    "total": 2254,
-    "recentTotal": 279,
+    "total": 2302,
+    "recentTotal": 282,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:28:51.250Z"
+    "lastSeen": "2026-05-12T10:28:55.089Z"
   },
   "除濕機": {
-    "total": 672,
-    "recentTotal": 67,
+    "total": 720,
+    "recentTotal": 70,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T06:29:47.425Z"
+    "lastSeen": "2026-05-12T10:29:17.643Z"
   },
   "dji": {
-    "total": 1000,
-    "recentTotal": 501,
+    "total": 1048,
+    "recentTotal": 526,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:29:44.244Z"
+    "lastSeen": "2026-05-12T10:29:39.773Z"
   },
   "insta360": {
-    "total": 900,
-    "recentTotal": 216,
+    "total": 948,
+    "recentTotal": 230,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-12T08:30:07.363Z"
+    "lastSeen": "2026-05-12T10:30:10.754Z"
   },
   "果汁機": {
-    "total": 144,
-    "recentTotal": 45,
+    "total": 192,
+    "recentTotal": 60,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-11T22:30:00.702Z"
+    "lastSeen": "2026-05-12T10:30:33.008Z"
   },
   "黑膠": {
     "total": 384,
