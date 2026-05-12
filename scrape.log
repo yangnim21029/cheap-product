@@ -1,228 +1,230 @@
-[04:24:35] 啟動 Chromium...
+[06:24:51] 啟動 Chromium...
   載入 12 個 cookies
 
 === 搜尋頁（15/21 個，跳過 6）===
-[04:24:35] [1/21] 跳過: "apple watch"（本輪隨機跳過）
-[04:24:35] [2/21] 搜尋: "空氣清淨機" ($500-$3000)
+[06:24:52] [1/21] 搜尋: "apple watch" ($1000-$5000)
+  URL: https://tw.carousell.com/search/apple%20watch?addRecent=false&layered_condition=3%2C4%2C7&price_end=5000&price_start=1000&sort_by=3
+  頁面標題: apple watch - View all apple watch ads in Carousell Taiwan
+  抓到 48 筆（3天內: 18 筆）
+    → NT$1,290 ［APPLE] 全新Apple Watch 原廠錶帶 粉色。42MM(M/L) [mysticstar_98ea17] 7 hours ago
+    → NT$1,200 iBRIDGE 15W極速三合一無線充電器(IBW006) 適用(iPhone、 [stargirlstar] 9 hours ago
+    → NT$1,650 三合一 磁吸無線充電器 手機快充 (適用iPhone、Apple Watch、A [stargirlstar] 9 hours ago
+  等待 24.8s...
+[06:25:24] [2/21] 搜尋: "空氣清淨機" ($500-$3000)
   URL: https://tw.carousell.com/search/%E7%A9%BA%E6%B0%A3%E6%B8%85%E6%B7%A8%E6%A9%9F?addRecent=false&layered_condition=3%2C4%2C7&price_end=3000&price_start=500&sort_by=3
   頁面標題: 空氣清淨機 - View all 空氣清淨機 ads in Carousell Taiwan
   抓到 48 筆（3天內: 11 筆）
-    → NT$2,000 全新封膜未拆 ible Airvida M1 穿戴式負離子空氣清淨機 [dabee10273] 16 hours ago
-    → NT$1,000 HONEYWELL空氣清淨機濾網 [goldenhorse_aedbe7] 22 hours ago
+    → NT$2,000 全新封膜未拆 ible Airvida M1 穿戴式負離子空氣清淨機 [dabee10273] 18 hours ago
+    → NT$1,000 HONEYWELL空氣清淨機濾網 [goldenhorse_aedbe7] 24 hours ago
     → NT$1,850 【IONION】升級款MX 日本原裝超輕量隨身空氣清淨機 [howdongshe] 2 days ago
-  等待 16.6s...
-[04:24:59] [3/21] 跳過: "投影機"（本輪隨機跳過）
-[04:24:59] [4/21] 搜尋: "喇叭" ($2000-$10000)
-  URL: https://tw.carousell.com/search/%E5%96%87%E5%8F%AD?addRecent=false&layered_condition=3%2C4%2C7&price_end=10000&price_start=2000&sort_by=3
-  ❌ 失敗: page.goto: Timeout 20000ms exceeded.
-Call log:
-[2m  - navigating to "https://tw
-  等待 16.6s...
-[04:25:36] [5/21] 搜尋: "音響" ($2000-$10000)
+  等待 16.1s...
+[06:25:47] [3/21] 搜尋: "投影機" ($2000-$10000)
+  URL: https://tw.carousell.com/search/%E6%8A%95%E5%BD%B1%E6%A9%9F?addRecent=false&layered_condition=3%2C4%2C7&price_end=10000&price_start=2000&sort_by=3
+  頁面標題: 投影機 - View all 投影機 ads in Carousell Taiwan
+  抓到 48 筆（3天內: 12 筆）
+    → NT$4,500 『澄橘』ViewSonic M1+_G2 智慧LED可攜式投影機 銀《二手3C  [change12336] 2 hours ago
+    → NT$2,200 繁體中文 智能投影機｜房間/露營適用｜內建 Netflix Disney You [ronnie1111] 21 hours ago
+    → NT$7,000 小米 L1 pro投影機 加支架 [truehorse_9428a0] 21 hours ago
+  等待 20.9s...
+[06:26:15] [4/21] 跳過: "喇叭"（本輪隨機跳過）
+[06:26:15] [5/21] 搜尋: "音響" ($2000-$10000)
   URL: https://tw.carousell.com/search/%E9%9F%B3%E9%9F%BF?addRecent=false&layered_condition=3%2C4%2C7&price_end=10000&price_start=2000&sort_by=3
   頁面標題: 音響 - View all 音響 ads in Carousell Taiwan
-  抓到 47 筆（3天內: 14 筆）
-    → NT$8,000 BE@RBRICK Audio 400%藍芽音響 [hanna0022122561] 7 hours ago
-    → NT$2,250 保固中 到明年五月 有盒 無充電頭 蘋果 HomePod mini 喇叭 音箱  [yuki918012] 11 hours ago
-    → NT$2,100 無盒 無充電頭 蘋果 HomePod mini 喇叭 Home pod mini [yuki918012] 11 hours ago
-  等待 19.8s...
-[04:26:02] [6/21] 搜尋: "立燈" ($1000-$10000)
-  URL: https://tw.carousell.com/search/%E7%AB%8B%E7%87%88?addRecent=false&layered_condition=3%2C4%2C7&price_end=10000&price_start=1000&sort_by=3
-  頁面標題: 立燈 - View all 立燈 ads in Carousell Taiwan
-  抓到 48 筆（3天內: 5 筆）
-    → NT$2,200 賣全新未使用的Porter cable直立式工作LED照明燈 [jason07191] 1 day ago
-    → NT$4,280 早期德國知名Lumibar 藍色泰迪熊立體展示檯燈 [marc_vintage_collection] 11 days ago
-    → NT$6,980 經典英國 Bri Tain 絕版橄欖球立體國旗造型招牌燈箱 [marc_vintage_collection] 11 days ago
-  等待 24.4s...
-[04:26:33] [7/21] 跳過: "空氣循環扇"（本輪隨機跳過）
-[04:26:33] [8/21] 搜尋: "拍立得" ($500-$5000)
+  抓到 48 筆（3天內: 13 筆）
+    → NT$8,000 BE@RBRICK Audio 400%藍芽音響 [hanna0022122561] 9 hours ago
+    → NT$2,250 保固中 到明年五月 有盒 無充電頭 蘋果 HomePod mini 喇叭 音箱  [yuki918012] 13 hours ago
+    → NT$2,100 無盒 無充電頭 蘋果 HomePod mini 喇叭 Home pod mini [yuki918012] 13 hours ago
+  等待 18.4s...
+[06:26:40] [6/21] 跳過: "立燈"（本輪隨機跳過）
+[06:26:40] [7/21] 跳過: "空氣循環扇"（本輪隨機跳過）
+[06:26:40] [8/21] 搜尋: "拍立得" ($500-$5000)
   URL: https://tw.carousell.com/search/%E6%8B%8D%E7%AB%8B%E5%BE%97?addRecent=false&layered_condition=3%2C4%2C7&price_end=5000&price_start=500&sort_by=3
   頁面標題: 拍立得 - View all 拍立得 ads in Carousell Taiwan
   抓到 48 筆（3天內: 14 筆）
-    → NT$5,000 163braces親簽拍立得 [r1ese] 15 hours ago
-    → NT$600 NovaPlus 兒童拍拍樂兒童相機 拍立得（全家） [hooviioii] 16 hours ago
-    → NT$1,000 官方C版F風尚志26年3月 王琳凱A+B封面套裝+1張自拍小卡+1張拍立得+1張 [tracy612112] 16 hours ago
-  等待 22.1s...
-[04:27:02] [9/21] 跳過: "相印機"（本輪隨機跳過）
-[04:27:02] [10/21] 搜尋: "VR" ($1000-$5000)
+    → NT$5,000 163braces親簽拍立得 [r1ese] 17 hours ago
+    → NT$600 NovaPlus 兒童拍拍樂兒童相機 拍立得（全家） [hooviioii] 18 hours ago
+    → NT$1,000 官方C版F風尚志26年3月 王琳凱A+B封面套裝+1張自拍小卡+1張拍立得+1張 [tracy612112] 18 hours ago
+  等待 15.8s...
+[06:27:02] [9/21] 搜尋: "相印機" ($500-$5000)
+  URL: https://tw.carousell.com/search/%E7%9B%B8%E5%8D%B0%E6%A9%9F?addRecent=false&layered_condition=3%2C4%2C7&price_end=5000&price_start=500&sort_by=3
+  頁面標題: 相印機 - View all 相印機 ads in Carousell Taiwan
+  抓到 48 筆（3天內: 2 筆）
+    → NT$2,800 Polaroid 寶麗來 手機相片相印機 僅使用過幾次 [hhhhh.22222] 11 days ago
+    → NT$3,500 FUJIFILM 富士 instax mini Link3 相印機 [pibao] 22 days ago
+  等待 20.4s...
+[06:27:30] [10/21] 搜尋: "VR" ($1000-$5000)
   URL: https://tw.carousell.com/search/VR?addRecent=false&layered_condition=3%2C4%2C7&price_end=5000&price_start=1000&sort_by=3
   頁面標題: VR - View all VR ads in Carousell Taiwan
   抓到 48 筆（3天內: 5 筆）
-    → NT$3,500 【蒐機王】Nikon AF-S 18-105mm F3.5-5.6 G ED D [winson999888] 12 hours ago
+    → NT$3,500 【蒐機王】Nikon AF-S 18-105mm F3.5-5.6 G ED D [winson999888] 14 hours ago
     → NT$5,000 PS4 VR 豪華全配包 豪華全配,頭盔+攝影機+2支棒棒糖+射擊槍 +1片原版 [jacquichiu] 11 days ago
-    → NT$2,680 EAGLE EAV220 5.1綜合擴大機 卡拉OK擴大機 VR全數更換 [stevecho] 21 days ago
-  等待 21.2s...
-[04:27:30] [11/21] 搜尋: "露營" ($2000-$10000)
+    → NT$2,680 EAGLE EAV220 5.1綜合擴大機 卡拉OK擴大機 VR全數更換 [stevecho] 22 days ago
+  等待 15.0s...
+[06:27:52] [11/21] 搜尋: "露營" ($2000-$10000)
   URL: https://tw.carousell.com/search/%E9%9C%B2%E7%87%9F?addRecent=false&layered_condition=3%2C4%2C7&price_end=10000&price_start=2000&sort_by=3
   頁面標題: 露營 - View all 露營 ads in Carousell Taiwan
   抓到 48 筆（3天內: 11 筆）
-    → NT$4,300 【全新】露營野炊組：Snow Peak & Coleman 精選收納套組（贈防風 [clevertree-c694] 3 hours ago
-    → NT$3,500 全新-韓國Abenaki 5單元IGT露營桌戶外野營桌 多功能戰術折疊桌 [lealoruth] 4 hours ago
-    → NT$4,280 五單元 IGT 升降桌｜鋁合金輕量化 露營辦公兩用 可加裝配件 [kian.dean] 8 hours ago
-  等待 15.8s...
-[04:27:54] [12/21] 搜尋: "地毯" ($1000-$8000)
-  URL: https://tw.carousell.com/search/%E5%9C%B0%E6%AF%AF?addRecent=false&layered_condition=3%2C4%2C7&price_end=8000&price_start=1000&sort_by=3
-  頁面標題: 地毯 - View all 地毯 ads in Carousell Taiwan
-  抓到 47 筆（3天內: 2 筆）
-    → NT$1,800 羊毛地毯手工編織法式地毯 [fen00line] 7 hours ago
-    → NT$1,390 屎蛋唐尼｜全新地毯｜SWEET HOME [zespri1957] 22 days ago
-  等待 24.3s...
-[04:28:25] [13/21] 搜尋: "優格機" ($500-$3000)
+    → NT$4,300 【全新】露營野炊組：Snow Peak & Coleman 精選收納套組（贈防風 [clevertree-c694] 5 hours ago
+    → NT$3,500 全新-韓國Abenaki 5單元IGT露營桌戶外野營桌 多功能戰術折疊桌 [lealoruth] 6 hours ago
+    → NT$4,280 五單元 IGT 升降桌｜鋁合金輕量化 露營辦公兩用 可加裝配件 [kian.dean] 10 hours ago
+  等待 22.0s...
+[06:28:20] [12/21] 跳過: "地毯"（本輪隨機跳過）
+[06:28:20] [13/21] 搜尋: "優格機" ($500-$3000)
   URL: https://tw.carousell.com/search/%E5%84%AA%E6%A0%BC%E6%A9%9F?addRecent=false&layered_condition=3%2C4%2C7&price_end=3000&price_start=500&sort_by=3
   頁面標題: 優格機 - View all 優格機 ads in Carousell Taiwan
   抓到 34 筆（3天內: 0 筆）
-  等待 19.1s...
-[04:28:51] [14/21] 搜尋: "磨豆機" ($1500-$15000)
+  等待 19.6s...
+[06:28:47] [14/21] 搜尋: "磨豆機" ($1500-$15000)
   URL: https://tw.carousell.com/search/%E7%A3%A8%E8%B1%86%E6%A9%9F?addRecent=false&layered_condition=3%2C4%2C7&price_end=15000&price_start=1500&sort_by=3
   頁面標題: 磨豆機 - View all 磨豆機 ads in Carousell Taiwan
   抓到 48 筆（3天內: 3 筆）
-    → NT$2,000 飛馬牌 (YANG-CHIA) 600N 咖啡磨豆機 [h_nine] 17 hours ago
-    → NT$9,000 全新未拆｜PHILIPS 飛利浦 Grind & Brew 美式研磨咖啡機｜內建 [s98130752192] 1 day ago
+    → NT$2,000 飛馬牌 (YANG-CHIA) 600N 咖啡磨豆機 [h_nine] 19 hours ago
+    → NT$9,000 全新未拆｜PHILIPS 飛利浦 Grind & Brew 美式研磨咖啡機｜內建 [s98130752192] 2 days ago
     → NT$2,200 九陽高速破壁冷熱調理+研磨機 豆漿機 榨汁機 [ctan0921] 21 days ago
-  等待 15.3s...
-[04:29:13] [15/21] 搜尋: "手沖" ($500-$5000)
+  等待 22.3s...
+[06:29:16] [15/21] 搜尋: "手沖" ($500-$5000)
   URL: https://tw.carousell.com/search/%E6%89%8B%E6%B2%96?addRecent=false&layered_condition=3%2C4%2C7&price_end=5000&price_start=500&sort_by=3
   頁面標題: 手沖 - View all 手沖 ads in Carousell Taiwan
-  抓到 47 筆（3天內: 4 筆）
-    → NT$500 CHEMEX Classic Series 木柄手沖壺/咖啡壺 [54hsiaokel64194] 11 hours ago
+  抓到 48 筆（3天內: 4 筆）
+    → NT$500 CHEMEX Classic Series 木柄手沖壺/咖啡壺 [54hsiaokel64194] 13 hours ago
     → NT$800 KINYO電動手沖三用萃茶咖啡機 型號CMH-7590 [catfish624624] 1 day ago
     → NT$599 Ocean rich 半自動手沖咖啡沖泡器 [zealocean.4d291b] 2 days ago
-  等待 17.1s...
-[04:29:36] [16/21] 跳過: "除濕機"（本輪隨機跳過）
-[04:29:36] [17/21] 搜尋: "dji" ($2000-$25000)
-  URL: https://tw.carousell.com/search/dji?addRecent=false&layered_condition=3%2C4%2C7&price_end=25000&price_start=2000&sort_by=3
-  頁面標題: dji - View all dji ads in Carousell Taiwan
-  抓到 47 筆（3天內: 24 筆）
-    → NT$5,800 DJI NEO 全新未激活 含大全配 [yuime520] 10 hours ago
-    → NT$2,180 我最便宜 大疆 DJI Mavic 2遙控器RC1A,RC1B二手良品 買到即飛 [mason7667] 15 hours ago
-    → NT$2,280 我最便宜 全新大疆 DJI Mavic Pro遙控器GL200A 買到即飛，選購 [mason7667] 15 hours ago
-  等待 15.2s...
-[04:29:58] [18/21] 搜尋: "insta360" ($2000-$25000)
+  等待 24.4s...
+[06:29:47] [16/21] 跳過: "除濕機"（本輪隨機跳過）
+[06:29:47] [17/21] 跳過: "dji"（本輪隨機跳過）
+[06:29:47] [18/21] 搜尋: "insta360" ($2000-$25000)
   URL: https://tw.carousell.com/search/insta360?addRecent=false&layered_condition=3%2C4%2C7&price_end=25000&price_start=2000&sort_by=3
   頁面標題: insta360 - View all insta360 ads in Carousell Taiwan
   抓到 48 筆（3天內: 11 筆）
-    → NT$2,800 Insta360 Flow AI 手機穩定器（白） [doreen6424] 10 hours ago
+    → NT$2,800 Insta360 Flow AI 手機穩定器（白） [doreen6424] 12 hours ago
     → NT$7,250 《8成新》Insta360 X3 [calmstar_03f7a0] 2 days ago
     → NT$8,888 Insta360 Go3S 128G 運動相機,盒裝配件都在，多送白色鏡頭蓋/收 [goodthingscomebuy] 2 days ago
-  等待 17.5s...
-[04:30:23] [19/21] 跳過: "果汁機"（本輪隨機跳過）
-[04:30:23] [20/21] 搜尋: "黑膠" ($500-$8000)
+  等待 15.5s...
+[06:30:09] [19/21] 搜尋: "果汁機" ($500-$10000)
+  URL: https://tw.carousell.com/search/%E6%9E%9C%E6%B1%81%E6%A9%9F?addRecent=false&layered_condition=3%2C4%2C7&price_end=10000&price_start=500&sort_by=3
+  頁面標題: 果汁機 - View all 果汁機 ads in Carousell Taiwan
+  抓到 48 筆（3天內: 13 筆）
+    → NT$1,500 血肉果汁機 殺翻現場2.0 [zkbsyjssdd78639] 9 hours ago
+    → NT$2,000 果汁機 [jojocataipei] 13 hours ago
+    → NT$1,480 【9成新】PHILIPS 飛利浦 調理機 果汁機 玻璃調理杯 多段轉速 隨行杯組 [somethingcooltw] 15 hours ago
+  等待 20.2s...
+[06:30:37] [20/21] 搜尋: "黑膠" ($500-$8000)
   URL: https://tw.carousell.com/search/%E9%BB%91%E8%86%A0?addRecent=false&layered_condition=3%2C4%2C7&price_end=8000&price_start=500&sort_by=3
   頁面標題: 黑膠 - View all 黑膠 ads in Carousell Taiwan
-  抓到 48 筆（3天內: 20 筆）
-    → NT$3,200 勞力士腕表 迪通拿手表 黑膠迪 余文樂同款 全自動機械 904L精鋼 [grandw44] 12 hours ago
-    → NT$4,990 Bose RA-12 綜合收音擴大機 內建黑膠唱放 迷你音響 支援AM/FM 收 [stevecho] 13 hours ago
-    → NT$900 ［全新預售有吊牌］Chiikawa 聯名黑膠遮陽傘 超輕量摺疊太陽傘 UPF50 [zaizai666] 18 hours ago
-  等待 19.5s...
-[04:30:49] [21/21] 搜尋: "" ($5000-$10000)
+  抓到 48 筆（3天內: 18 筆）
+    → NT$3,200 勞力士腕表 迪通拿手表 黑膠迪 余文樂同款 全自動機械 904L精鋼 [grandw44] 14 hours ago
+    → NT$4,990 Bose RA-12 綜合收音擴大機 內建黑膠唱放 迷你音響 支援AM/FM 收 [stevecho] 15 hours ago
+    → NT$900 ［全新預售有吊牌］Chiikawa 聯名黑膠遮陽傘 超輕量摺疊太陽傘 UPF50 [zaizai666] 20 hours ago
+  等待 24.5s...
+[06:31:14] [21/21] 搜尋: "" ($5000-$10000)
   URL: https://tw.carousell.com/search/?addRecent=false&layered_condition=3%2C4%2C7&price_end=10000&price_start=5000&sort_by=3
   頁面標題: Carousell - Snap to List, Chat to Buy
-  抓到 48 筆（3天內: 47 筆）
-    → NT$6,500 『澄橘』Lenovo IdeaPad S340-13 IML i5-10210U [change12336] 7 minutes ago
-    → NT$6,500 『澄橘』讀墨 Readmoo Mooink Pro 第1代 10.3吋 黑白電子 [change12336] 18 minutes ago
-    → NT$9,800 GUCCI 老花 Slip-on 懶人鞋｜桃園機場昇恆昌免稅店購入｜27cm [rrcomerr] 26 minutes ago
-  等待 22.7s...
+  抓到 48 筆（3天內: 48 筆）
+    → NT$7,800 《大淡水二手精品傢俱》亞麻米色係雙人加大床組（9成新） ＃新北二手傢俱＃基隆二手 [soliok126] 2 hours ago
+    → NT$7,800 《大淡水二手精品傢俱》簡約木紋三門多收納衣櫃 ＃新北二手傢俱＃基隆二手傢具#桃園 [soliok126] 2 hours ago
+    → NT$5,500 義大利SMEG手持料理棒 HBF02系列 尺寸 [riha_09] 2 hours ago
+  等待 18.3s...
 
 === 分類頁（9 個）===
-[04:31:18] [1/9] 分類: 家具居家
+[06:31:39] [1/9] 分類: 家具居家
   URL: https://tw.carousell.com/categories/furniture-home-living-13/?layered_condition=3%2C4%2C7&price_end=5000&price_start=2000
   頁面標題: 全新/二手傢俱家飾買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
-  抓到 48 筆（3天內: 48 筆）
-    → NT$3,500 全新-韓國Abenaki 5單元IGT露營桌戶外野營桌 多功能戰術折疊桌 [lealoruth] 4 hours ago
-    → NT$3,600 寬庭單人涼夏被150*210 藕紫-粉紅 [bobohung] 6 hours ago
-    → NT$3,850 雞翅木案桌 [c09269115915165] 6 hours ago
-  等待 29.8s...
-[04:31:59] [2/9] 分類: 美妝保養
+  抓到 46 筆（3天內: 46 筆）
+    → NT$2,200 歐洲精緻復古小爐灶造型陶瓷茶壺精油燈/蠟燭暖爐包含底座爐台、小茶壺和壺蓋保存完好 [apple3054] 10 minutes ago
+    → NT$3,500 全新-韓國Abenaki 5單元IGT露營桌戶外野營桌 多功能戰術折疊桌 [lealoruth] 6 hours ago
+    → NT$3,600 寬庭單人涼夏被150*210 藕紫-粉紅 [bobohung] 8 hours ago
+  等待 28.6s...
+[06:32:19] [2/9] 分類: 美妝保養
   URL: https://tw.carousell.com/categories/beauty-personal-care-11/?layered_condition=3%2C4%2C7&price_end=5000&price_start=2000
   頁面標題: 全新/二手護膚護髮產品、美妝品、香水買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
   抓到 48 筆（3天內: 48 筆）
-    → NT$3,000 Dior迪奧 聖誕限定禮盒 Miss Dior 花漾迪奧淡香水潤膚禮盒組(50m [huahuahua11] 2 hours ago
-    → NT$3,500 diptyque 肌膚之華 75ml [nnnnn.a] 2 hours ago
-    → NT$4,300 (全新未拆封) Diptyque依蘭之水 100ml Mohili [shopaholic_.109] 3 hours ago
-  等待 28.8s...
-[04:32:43] [3/9] 分類: 精品
+    → NT$2,500 未使用香奈兒正品19號香水止汗噴霧100ml稀有絕版 [boldcloud.defff9] 1 hour ago
+    → NT$3,000 Dior迪奧 聖誕限定禮盒 Miss Dior 花漾迪奧淡香水潤膚禮盒組(50m [huahuahua11] 4 hours ago
+    → NT$3,500 diptyque 肌膚之華 75ml [nnnnn.a] 4 hours ago
+  等待 27.7s...
+[06:32:58] [3/9] 分類: 精品
   URL: https://tw.carousell.com/categories/luxury-20/?layered_condition=3%2C4%2C7&price_end=5000&price_start=2000
   頁面標題: 全新/二手精品服飾、手錶與包包買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
   抓到 48 筆（3天內: 48 筆）
-    → NT$2,300 義大利VALENTINO 品牌❤️ 專櫃購買保證100%正品 🌟 Made i [bobe56899] 50 minutes ago
-    → NT$5,000 極新 酒紅勃肯鞋35號 [vivianliuvivianliu] 2 hours ago
-    → NT$5,000 Louis Vuitton 皮帶 90 4cm 雙面 LV 黑棕 [easymonkey] 2 hours ago
-  等待 24.2s...
-[04:33:18] [4/9] 分類: 手機平板
+    → NT$2,300 義大利VALENTINO 品牌❤️ 專櫃購買保證100%正品 🌟 Made i [bobe56899] 3 hours ago
+    → NT$5,000 極新 酒紅勃肯鞋35號 [vivianliuvivianliu] 4 hours ago
+    → NT$5,000 Louis Vuitton 皮帶 90 4cm 雙面 LV 黑棕 [easymonkey] 4 hours ago
+  等待 28.9s...
+[06:33:39] [4/9] 分類: 手機平板
   URL: https://tw.carousell.com/categories/mobile-phones-gadgets-1091/?layered_condition=3%2C4%2C7&price_end=5000&price_start=2000
   頁面標題: 全新/二手的手機平板買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
   抓到 48 筆（3天內: 48 筆）
-    → NT$4,500 『澄橘』Apple iPhone 12 64G 64GB (6.1吋) 白《二手 [change12336] 46 minutes ago
-    → NT$2,000 iPhone 7 拍照神器/狀況良好 [nnnnn.a] 1 hour ago
-    → NT$3,600 剛買保固長 Motorola G56 8G+128G 5G手機 黑藍色 4749 [carrot_chen] 2 hours ago
-  等待 23.5s...
-[04:33:53] [5/9] 分類: 家電影音
+    → NT$4,500 『澄橘』Apple iPhone 12 64G 64GB (6.1吋) 白《二手 [change12336] 3 hours ago
+    → NT$2,000 iPhone 7 拍照神器/狀況良好 [nnnnn.a] 3 hours ago
+    → NT$3,600 剛買保固長 Motorola G56 8G+128G 5G手機 黑藍色 4749 [carrot_chen] 4 hours ago
+  等待 26.3s...
+[06:34:16] [5/9] 分類: 家電影音
   URL: https://tw.carousell.com/categories/tv-home-appliances-30/?layered_condition=3%2C4%2C7&price_end=5000&price_start=2000
   頁面標題: 全新/二手廚房電器買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
   抓到 48 筆（3天內: 48 筆）
-    → NT$4,500 『澄橘』ViewSonic M1+_G2 智慧LED可攜式投影機 銀《二手3C  [change12336] 25 minutes ago
-    → NT$4,500 SANLUX台灣三洋》媽媽樂11kg單槽洗衣機 SW-11NS3 民國111年， [p1205210367489] 3 hours ago
-    → NT$4,000 冷藏小冰箱30L [yuki_8.8_cc] 4 hours ago
-  等待 20.8s...
-[04:34:25] [6/9] 分類: 音響耳機
+    → NT$4,500 『澄橘』ViewSonic M1+_G2 智慧LED可攜式投影機 銀《二手3C  [change12336] 2 hours ago
+    → NT$4,500 SANLUX台灣三洋》媽媽樂11kg單槽洗衣機 SW-11NS3 民國111年， [p1205210367489] 5 hours ago
+    → NT$4,000 冷藏小冰箱30L [yuki_8.8_cc] 6 hours ago
+  等待 26.2s...
+[06:34:54] [6/9] 分類: 音響耳機
   URL: https://tw.carousell.com/categories/audio-1600/?layered_condition=3%2C4%2C7&price_end=5000&price_start=2000
   頁面標題: Audio
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
   抓到 48 筆（3天內: 48 筆）
-    → NT$5,000 『澄橘』Micromega Mygroov 唱頭放大器 黑《二手交換買賣》A84 [change12336] 5 minutes ago
-    → NT$3,000 『澄橘』Samsung Buds 3 PRO SM-R630 灰《二手 歡迎折抵 [change12336] 30 minutes ago
-    → NT$2,300 Airpod4降噪耳機 [xxskulya__] 1 hour ago
-  等待 27.8s...
-[04:35:03] [7/9] 分類: 相機攝影
+    → NT$2,800 『澄橘』Bose QuietComfort Earbuds 無線消噪耳機 黑《二 [change12336] 1 hour ago
+    → NT$5,000 『澄橘』Micromega Mygroov 唱頭放大器 黑《二手交換買賣》A84 [change12336] 2 hours ago
+    → NT$3,000 『澄橘』Samsung Buds 3 PRO SM-R630 灰《二手 歡迎折抵 [change12336] 3 hours ago
+  等待 21.4s...
+[06:35:26] [7/9] 分類: 相機攝影
   URL: https://tw.carousell.com/categories/photography-6/?layered_condition=3%2C4%2C7&price_end=30000&price_start=5000
   頁面標題: 全新/二手相機、攝影器材買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
-  抓到 46 筆（3天內: 46 筆）
-    → NT$6,000 『澄橘』Sony E 50mm F1.8 黑《二手鏡頭 無盒裝 中古 歡迎折抵》 [change12336] 1 hour ago
-    → NT$25,000 『澄橘』SONY A7M3 A7 III Body 機身 二手 快門 485xx [change12336] 1 hour ago
-    → NT$16,000 Fujifilm x100T [lv6071091662] 4 hours ago
-  等待 29.5s...
-[04:35:45] [8/9] 分類: 收藏品
+  抓到 48 筆（3天內: 48 筆）
+    → NT$15,000 『澄橘』Canon EF 70-200mm F4 L IS USM 銀《二手鏡頭 [change12336] 2 hours ago
+    → NT$6,000 『澄橘』Sony E 50mm F1.8 黑《二手鏡頭 無盒裝 中古 歡迎折抵》 [change12336] 3 hours ago
+    → NT$25,000 『澄橘』SONY A7M3 A7 III Body 機身 二手 快門 485xx [change12336] 3 hours ago
+  等待 22.1s...
+[06:36:00] [8/9] 分類: 收藏品
   URL: https://tw.carousell.com/categories/collectibles-memorabilia-9/?layered_condition=3%2C4%2C7&price_end=10000&price_start=1000
   頁面標題: 全新/二手古董收藏品買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
   抓到 48 筆（3天內: 48 筆）
-    → NT$5,000 黃鐵礦原礦 [baby_love41314-90450] 3 minutes ago
-    → NT$2,500 BT21 RJ站立娃 [karara.112] 1 hour ago
-    → NT$8,000 【讓藏出售】圓山應舉《春雞》絹本掛軸（含共箱） [clevertree-c694] 3 hours ago
-  等待 28.9s...
-[04:36:26] [9/9] 分類: 音樂媒體
+    → NT$3,800 雲貴閃靈 [baby_love41314-90450] 56 minutes ago
+    → NT$1,380 金口河原礦 [baby_love41314-90450] 2 hours ago
+    → NT$1,800 巧克力方解石 [baby_love41314-90450] 2 hours ago
+  等待 27.3s...
+[06:36:41] [9/9] 分類: 音樂媒體
   URL: https://tw.carousell.com/categories/music-media-14/?layered_condition=3%2C4%2C7&price_end=15000&price_start=2000
   頁面標題: 全新/二手樂器、CD、DVD 買賣｜Carousell 旋轉拍賣
   Sort 按鈕: 找到並點擊
   Recent 選項: 找到並點擊
   抓到 48 筆（3天內: 48 筆）
-    → NT$428 CD音樂--海的節奏•約翰赫伯曼 原創鋼琴演奏作品/方山唱片1995發行~ [hnr318] 3 hours ago
-    → NT$288 經典收藏】二手相聲瓦舍：笑感動天 (2005) + 笑神來了 (2008)｜DV [landblue] 4 hours ago
-    → NT$300 木吉他 [fastyellowflower] 4 hours ago
-  等待 20.8s...
+    → NT$428 CD音樂--海的節奏•約翰赫伯曼 原創鋼琴演奏作品/方山唱片1995發行~ [hnr318] 5 hours ago
+    → NT$288 經典收藏】二手相聲瓦舍：笑感動天 (2005) + 笑神來了 (2008)｜DV [landblue] 6 hours ago
+    → NT$300 木吉他 [fastyellowflower] 6 hours ago
+  等待 22.3s...
 
 === 完成 ===
-[04:36:57] 總共 1084 筆（去重 1062，3天內 601 筆）
+[06:37:14] 總共 1136 筆（去重 1109，3天內 613 筆）
 來源: 21 搜尋 + 9 分類
 已寫入 raw_results.json
 
 ⚠ 建議暫停的 queries（連續 3+ 輪 0 筆 3 天內商品）：
   ✗ "Samsung Galaxy Watch" — 連續 4 輪沒新貨，上次有貨: 從未
-  ✗ "優格機" — 連續 12 輪沒新貨，上次有貨: 2026-05-11T14:28:39.803Z
+  ✗ "優格機" — 連續 13 輪沒新貨，上次有貨: 2026-05-11T14:28:39.803Z
 
 已寫入 query_stats.json
 接下來跑: node process.js
