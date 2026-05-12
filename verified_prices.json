@@ -165,6 +165,11 @@
     "source": "manual 2026-05-11",
     "skip": true
   },
+  "1425875298": {
+    "newPrice": 6890,
+    "secondhand": null,
+    "note": "Apple Watch 7 $4,000 標題僅「apple watch 7」缺尺寸/GPS or LTE/電池. 41mm GPS 二手 $4-5K(=80-100%) / 45mm GPS 二手 $4.5-5.5K(=73-89%). 對 45mm 邊緣 對 41mm 持平, 需確認尺寸+電池"
+  },
   "1425956850": {
     "newPrice": 15129,
     "secondhand": 8500,
@@ -387,6 +392,11 @@
   "1434441879": {
     "skip": true,
     "note": "Cortis 金主訓小卡 K-pop 周邊 非需求"
+  },
+  "1434454526": {
+    "newPrice": 7800,
+    "secondhand": 4400,
+    "note": "Wedgwood Blue Plum 藍莓系列 兩組瓷器 $2,500. Pattern 1999-2010 已停產收藏品. eBay 茶壺杯盤對組 USD$243.80(NT$7,800) / 4件式 USD$137.99(NT$4,400). $2,500 ≈ 30-57% 收藏行情, KNOWN_DEAL_BRANDS Wedgwood"
   },
   "1434556658": {
     "skip": true,
@@ -2871,6 +2881,10 @@
     "secondhand": null,
     "note": "Panasonic Lumix DC-GF10 + 14-42mm Kit $9,000 = 69% 新品 $13,000 / 二手 $8-17K區間中段. GF10 已停產多年, kit 變體 (14-42mm 比 12-32mm 略貴), 需看實機成色"
   },
+  "1437388600": {
+    "skip": true,
+    "note": "天然冰種白底青翡翠 l3o85yyx $8,000 古玩"
+  },
   "1437388735": {
     "skip": true,
     "note": "Boss NS-2 Noise Suppressor 雜音抑制 吉他效果器 momi_guitar"
@@ -2924,6 +2938,14 @@
     "skip": true,
     "note": "壽山芙蓉石手玩件 $1,800 tokyo1129 古玩"
   },
+  "1437396751": {
+    "skip": true,
+    "note": "壽山石芙蓉凍 tokyo1129 $6,800 古玩"
+  },
+  "1437396860": {
+    "skip": true,
+    "note": "壽山芙蓉石印無刻 tokyo1129 $8,000 古玩"
+  },
   "1437396943": {
     "skip": true,
     "note": "青花瓷杯兩個一個有刻碰 $2,300 tokyo1129 古玩瑕疵"
@@ -2956,5 +2978,73 @@
   "1437402106": {
     "skip": true,
     "note": "西藏綠松石 $1,200 古玩非需求"
+  },
+  "1437402903": {
+    "skip": true,
+    "note": "哈鬥賣場 adidas SL72 鞋 $1,735 olang88844815 鞋子被亂分類 不是Apple Watch"
+  },
+  "1437405901": {
+    "skip": true,
+    "note": "薰衣草原聲帶 許紹洋偶像劇 wuwangwo.shop CD"
+  },
+  "1437405963": {
+    "skip": true,
+    "note": "小米 L1 Pro 投影機 + 支架 $7,000 = 87.5% 新品腳架組 $7,999 / 高於二手中位 $5.5-6.5K, 非deal"
+  },
+  "1437406040": {
+    "skip": true,
+    "note": "早期沉香木觀音首 royalpenguin.772e6c 古玩"
+  },
+  "1437406862": {
+    "skip": true,
+    "note": "中國娃娃 單眼皮女生 wuwangwo.shop CD"
+  },
+  "1437407280": {
+    "skip": true,
+    "note": "小蟲 與世無爭 陳煥昌 wuwangwo.shop CD"
+  },
+  "1437407586": {
+    "skip": true,
+    "note": "五月天 Mayday 人生海海/你要去哪裡/大貨車 minimini543 $1,000 標題不明"
+  },
+  "1437407924": {
+    "skip": true,
+    "note": "爵士鼓 $5,500 goldenhorse.dbfbe4 樂器商家"
+  },
+  "1437409061": {
+    "skip": true,
+    "note": "王彩樺 有唱有保庇 親筆簽名宣傳非賣品 wuwangwo.shop CD"
+  },
+  "1437409579": {
+    "skip": true,
+    "note": "陳琦貞限量版 還是會寂寞 carrie98 $500 CD"
+  },
+  "1437409734": {
+    "skip": true,
+    "note": "手風琴 $3,500 goldenhorse.dbfbe4 樂器商家"
+  },
+  "1437410538": {
+    "skip": true,
+    "note": "二胡南胡 $2,800 goldenhorse.dbfbe4 樂器商家"
+  },
+  "1437410876": {
+    "skip": true,
+    "note": "雜牌智能投影機 內建Netflix $2,200 ronnie32123 一般 Android 投影機非清單"
+  },
+  "1437411015": {
+    "skip": true,
+    "note": "張國榮 摯愛 1995-2003 wuwangwo.shop 二手CD店家"
+  },
+  "1437412710": {
+    "skip": true,
+    "note": "Chiikawa 黑膠遮陽傘 $900 不是黑膠唱片! 是「黑膠」傘 標題誤分類"
+  },
+  "1437412754": {
+    "skip": true,
+    "note": "Mercedes USA 小號 富魯格號 $8,888 goldenhorse.dbfbe4 樂器商家(已加shops)"
+  },
+  "1437414362": {
+    "skip": true,
+    "note": "Verdi Macbeth Fischer-Dieskau 古典 CD mr.benshi"
   }
 }
