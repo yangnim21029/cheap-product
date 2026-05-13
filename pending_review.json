@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "makesomemomey",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Bose Soundtouch 30 wireless",
       "price": 4000,
       "condition": "Like new",
@@ -12,7 +12,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 14:42",
+      "listedAt": "05/13 14:39",
       "pid": "1437630721",
       "verified": {
         "newPrice": 15500,
@@ -24,7 +24,7 @@
     },
     {
       "seller": "wjia3594763198",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "夏普六公升空氣清淨除濕機。 2018製造DW H6HTW。",
       "price": 1600,
       "condition": "Lightly used",
@@ -34,7 +34,7 @@
       "priceStr": "NT$1,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 15:42",
+      "listedAt": "05/13 15:39",
       "pid": "1437644664",
       "verified": {
         "newPrice": 8000,
@@ -65,6 +65,50 @@
       },
       "vsNew": 27,
       "vsSecondhand": 64
+    },
+    {
+      "seller": "atx9968",
+      "timeAgo": "2 minutes ago",
+      "title": "美國Honeywell 舒淨空氣清淨機 HPA030WTW (適用坪數4.5-9坪)",
+      "price": 1000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437696374/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$1,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 20:37",
+      "pid": "1437696374",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": null,
+        "note": "Honeywell HPA030WTW 舒淨空清 4.5-9坪 $1,000 = 25% PChome 限時92折 $3,990 / 17% 原價 $5,990. KNOWN_DEAL_BRAND Honeywell HPA, 明顯 deal 但需確認濾網狀態(HEPA換新 $500-700)"
+      },
+      "vsNew": 25,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "howard04",
+      "timeAgo": "12 minutes ago",
+      "title": "Samsung The Freestyle 2 投影機",
+      "price": 8000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437694797/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 20:27",
+      "pid": "1437694797",
+      "verified": {
+        "newPrice": 28900,
+        "secondhand": 16000,
+        "note": "Samsung The Freestyle 2 投影機 $8,000 = 28% 建議售價 $28,900 / 50% 二手中位 $16K. 2023 機型 deal 價但 ⚠ 需驗光源時數/燈泡衰減/HDMI/Wi-Fi/原盒配件, 避免整新/拆機"
+      },
+      "vsNew": 28,
+      "vsSecondhand": 50
     }
   ],
   "negotiate": [
@@ -94,7 +138,7 @@
   "uncertain": [
     {
       "seller": "yuna07141",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "國際牌F-Y22BW 防霉除濕機",
       "price": 3800,
       "condition": "Lightly used",
@@ -104,7 +148,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 13:42",
+      "listedAt": "05/13 13:39",
       "pid": "1437626105",
       "verified": {
         "newPrice": 11000,
@@ -116,7 +160,7 @@
     },
     {
       "seller": "zenstorm-982233",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "森海賽爾 IE200",
       "price": 2000,
       "condition": "Lightly used",
@@ -126,7 +170,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 16:42",
+      "listedAt": "05/13 16:39",
       "pid": "1437657588",
       "verified": {
         "newPrice": 5990,
@@ -138,7 +182,7 @@
     },
     {
       "seller": "boldrabbit-94b0",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "AirPods4代降噪版在保",
       "price": 2500,
       "condition": "Like new",
@@ -148,7 +192,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 15:42",
+      "listedAt": "05/13 15:39",
       "pid": "1437644477",
       "verified": {
         "newPrice": 5990,
@@ -160,7 +204,7 @@
     },
     {
       "seller": "shinji_okada",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Gopro Hero 10 Black 全新二手品",
       "price": 6500,
       "condition": "Like new",
@@ -170,7 +214,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 16:42",
+      "listedAt": "05/13 16:39",
       "pid": "1437658733",
       "verified": {
         "newPrice": 15000,
@@ -182,7 +226,7 @@
     },
     {
       "seller": "minzetsai",
-      "timeAgo": "58 minutes ago",
+      "timeAgo": "3 hours ago",
       "title": "Bose quiet comfort 藍牙耳機",
       "price": 5000,
       "condition": "Brand new",
@@ -192,7 +236,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 17:44",
+      "listedAt": "05/13 17:39",
       "pid": "1437669187",
       "verified": {
         "newPrice": 10500,
@@ -204,7 +248,7 @@
     },
     {
       "seller": "jhih-ting",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "3 hours ago",
       "title": "AirPods 4 主動降噪 typec",
       "price": 2800,
       "condition": "Like new",
@@ -214,7 +258,7 @@
       "priceStr": "NT$2,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 17:42",
+      "listedAt": "05/13 17:39",
       "pid": "1437663862",
       "verified": {
         "newPrice": 5990,
@@ -222,6 +266,28 @@
         "note": "AirPods 4 ANC type-c $2,800 jhih-ting = 47% PChome $5,990 邊緣手動"
       },
       "vsNew": 47,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "_sebastian77",
+      "timeAgo": "30 minutes ago",
+      "title": "Akai Mk3 Midi鍵盤 送盒子 近全新",
+      "price": 2000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437693590/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 20:09",
+      "pid": "1437693590",
+      "verified": {
+        "newPrice": 3000,
+        "secondhand": null,
+        "note": "Akai MPK Mini Mk3 MIDI鍵盤 送盒子近全新 $2,000 _sebastian77 = 67% 新品 $3,000. KNOWN_DEAL_BRAND akai mpk 邊緣手動"
+      },
+      "vsNew": 67,
       "vsSecondhand": null
     }
   ]
