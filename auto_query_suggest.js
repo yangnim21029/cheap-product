@@ -14,10 +14,12 @@ const KNOWN_DEAL_BRANDS = new Set([
   'canon m6', 'canon eos', 'nikon z', 'nikon af-s', 'leica', 'zeiss', 'sigma', 'tamron', 'tokina',
   'lomo', 'dji', 'gopro', 'insta360', 'panasonic g', 'panasonic fz', 'olympus om-d', 'olympus e-m',
   // 投影機 / 影音
-  'epson ef', 'xgimi', 'benq gv', 'onkyo', 'sega homestar', 'teac tn',
+  'epson ef', 'xgimi', 'benq gv', 'onkyo', 'sega homestar', 'teac tn', 'samsung freestyle',
+  // 喇叭(大型 wifi)
+  'bose soundtouch',
   // 除濕機 / 家電 / 空清
   'whirlpool', 'mitsubishi mj', '三菱 mj', 'hitachi rd', '日立 rd', 'panasonic f-y', '國際牌',
-  'coway', 'winix', 'ible airvida',
+  'coway', 'winix', 'ible airvida', 'sharp dw', '夏普 dw', '伊萊克斯',
   // 咖啡器具
   'fellow opus', '1zpresso', 'wilfa', 'acaia', 'comandante', 'hario', 'bodum', 'brewista',
   '飛馬', 'snow peak', 'chemex',
