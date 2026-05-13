@@ -303,6 +303,16 @@
         "id": "luckycshop",
         "name": "luckycshop",
         "note": "id 含 shop 明確商家, Philips 音響"
+      },
+      {
+        "id": "gitanes3c-store",
+        "name": "gitanes3c-store",
+        "note": "id 含 3c-store 明確商家, 行動電源/充電配件"
+      },
+      {
+        "id": "meng69522",
+        "name": "meng69522",
+        "note": "連4筆 H6 編號二手 CD(任賢齊/林憶蓮/陶喆/許茹芸 1990s-2003) 二手CD批量商家"
       }
     ]
   },
