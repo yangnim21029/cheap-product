@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "yvonneliu1234",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "優美視Q1投影機",
       "price": 2800,
       "condition": "Lightly used",
@@ -43,12 +43,34 @@
       },
       "vsNew": 16,
       "vsSecondhand": 63
+    },
+    {
+      "seller": "harry.huang",
+      "timeAgo": "1 hour ago",
+      "title": "Apple Watch S8 LTE",
+      "price": 4800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1426187045/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$4,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 05:37",
+      "pid": "1426187045",
+      "verified": {
+        "newPrice": 13900,
+        "secondhand": 8000,
+        "note": "Apple Watch S8 LTE $4,800 = 35% 原價 $13,900 / 60% 二手中位 $8,000(LTE). 跟上輪 PID 1437670961 S8 45mm $4,800 同價, ⚠ 缺尺寸/電池資訊"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 60
     }
   ],
   "negotiate": [
     {
       "seller": "changhenry58750",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "二手極新 SONY 索尼 WH-1000XM4 藍牙降噪 闇夜黑 有興趣可聊聊價格 🤤",
       "price": 4700,
       "condition": "Like new",
@@ -70,7 +92,7 @@
     },
     {
       "seller": "123456000yyyu",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Canon 佳能 PowerShot G7 X 一代 數位相機📷",
       "price": 11500,
       "condition": "Lightly used",
@@ -113,7 +135,7 @@
     },
     {
       "seller": "s0938112308",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "維邁通VX80",
       "price": 2500,
       "condition": "Like new",
@@ -135,7 +157,7 @@
     },
     {
       "seller": "jacky1993623886",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "ATH-HL7BT 開放式藍牙無線耳機",
       "price": 2800,
       "condition": "Like new",
