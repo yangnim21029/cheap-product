@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 6073,
-    "recentTotal": 1792,
+    "total": 6121,
+    "recentTotal": 1814,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:24:44.860Z"
+    "lastSeen": "2026-05-13T08:29:54.735Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -18,16 +18,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 6034,
-    "recentTotal": 1657,
+    "total": 6082,
+    "recentTotal": 1664,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:25:10.420Z"
+    "lastSeen": "2026-05-13T08:30:25.157Z"
   },
   "投影機": {
-    "total": 6366,
-    "recentTotal": 1563,
+    "total": 6414,
+    "recentTotal": 1576,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:25:36.841Z"
+    "lastSeen": "2026-05-13T08:30:50.119Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 6043,
-    "recentTotal": 280,
+    "total": 6091,
+    "recentTotal": 283,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:26:33.327Z"
+    "lastSeen": "2026-05-13T08:32:22.581Z"
   },
   "nespresso": {
     "total": 475,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 6087,
-    "recentTotal": 1815,
+    "total": 6135,
+    "recentTotal": 1827,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T04:27:07.201Z"
+    "lastSeen": "2026-05-13T08:32:51.603Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -108,16 +108,16 @@
     "lastSeen": "2026-05-13T06:27:04.710Z"
   },
   "喇叭": {
-    "total": 5539,
-    "recentTotal": 2029,
+    "total": 5587,
+    "recentTotal": 2039,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:26:03.565Z"
+    "lastSeen": "2026-05-13T08:31:20.232Z"
   },
   "音響": {
-    "total": 5802,
-    "recentTotal": 1560,
+    "total": 5850,
+    "recentTotal": 1573,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T00:26:01.113Z"
+    "lastSeen": "2026-05-13T08:31:51.570Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 5864,
-    "recentTotal": 333,
+    "total": 5912,
+    "recentTotal": 335,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T04:27:36.051Z"
+    "lastSeen": "2026-05-13T08:33:19.010Z"
   },
   "帳篷": {
     "total": 1239,
@@ -138,22 +138,22 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 5661,
-    "recentTotal": 5376,
+    "total": 5709,
+    "recentTotal": 5424,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:31:10.743Z"
+    "lastSeen": "2026-05-13T08:36:38.221Z"
   },
   "露營": {
-    "total": 4281,
-    "recentTotal": 1231,
+    "total": 4329,
+    "recentTotal": 1242,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:27:31.346Z"
+    "lastSeen": "2026-05-13T08:33:46.700Z"
   },
   "地毯": {
-    "total": 4077,
-    "recentTotal": 540,
+    "total": 4125,
+    "recentTotal": 541,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T04:28:28.006Z"
+    "lastSeen": "2026-05-13T08:34:16.376Z"
   },
   "相機機身": {
     "total": 1188,
@@ -168,10 +168,10 @@
     "lastSeen": "2026-05-07T23:21:10.805Z"
   },
   "優格機": {
-    "total": 2725,
-    "recentTotal": 124,
+    "total": 2759,
+    "recentTotal": 125,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T04:28:52.174Z"
+    "lastSeen": "2026-05-13T08:34:44.376Z"
   },
   "手沖": {
     "total": 2404,
@@ -198,21 +198,21 @@
     "lastSeen": "2026-05-13T06:29:17.228Z"
   },
   "insta360": {
-    "total": 1380,
-    "recentTotal": 341,
+    "total": 1428,
+    "recentTotal": 355,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:29:48.568Z"
+    "lastSeen": "2026-05-13T08:35:14.761Z"
   },
   "果汁機": {
-    "total": 576,
-    "recentTotal": 166,
+    "total": 624,
+    "recentTotal": 177,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:30:11.785Z"
+    "lastSeen": "2026-05-13T08:35:44.016Z"
   },
   "黑膠": {
-    "total": 768,
-    "recentTotal": 308,
+    "total": 816,
+    "recentTotal": 324,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T06:30:39.234Z"
+    "lastSeen": "2026-05-13T08:36:10.484Z"
   }
 }
