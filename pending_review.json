@@ -1,5 +1,51 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "makesomemomey",
+      "timeAgo": "26 minutes ago",
+      "title": "Bose Soundtouch 30 wireless",
+      "price": 4000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437630721/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 14:13",
+      "pid": "1437630721",
+      "verified": {
+        "newPrice": 15500,
+        "secondhand": 7500,
+        "note": "Bose Soundtouch 30 wireless $4,000 = 26% 全新代購 $14,999-15,999 / 53% 八成新行情 $7,500. 已停產但 Soundtouch APP 仍可用, hifizero 國際成交 USD$200-300, 明顯低於個人賣家底價"
+      },
+      "vsNew": 26,
+      "vsSecondhand": 53
+    }
+  ],
   "negotiate": [],
-  "uncertain": []
+  "uncertain": [
+    {
+      "seller": "yuna07141",
+      "timeAgo": "50 minutes ago",
+      "title": "國際牌F-Y22BW 防霉除濕機",
+      "price": 3800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437626105/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$3,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 13:49",
+      "pid": "1437626105",
+      "verified": {
+        "newPrice": 11000,
+        "secondhand": null,
+        "note": "國際牌 Panasonic F-Y22BW 防霉除濕機 $3,800 = 35% 原定價 $11,000 / 40% 新款 F-Y22EN $9,500. 2010 年代舊款 11L 已被 F-Y22EN/GW 取代, ⚠ 防霉款 filter/壓縮機老化要查使用年限"
+      },
+      "vsNew": 35,
+      "vsSecondhand": null
+    }
+  ]
 }
