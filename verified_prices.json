@@ -187,6 +187,11 @@
     "secondhand": 8500,
     "note": "Insta360 X3 8 成新 $7,250 = 中位 85% / 新品 48%, 配件保固未確認, 邊緣手動"
   },
+  "1426188610": {
+    "newPrice": 5700,
+    "secondhand": null,
+    "note": "Audio-Technica ATH-HL7BT 開放藍牙無線 $2,800 = 49% 建議售價 $5,700(PChome $4,500-5,700). KNOWN_DEAL_BRAND鐵三角折扣顯著"
+  },
   "1426244656": {
     "skip": true,
     "note": "林憶蓮 夢了瘋了倦了 $2,000 royalfalcon_9c27b4 CD 二手CD商家加shops"
@@ -462,6 +467,10 @@
     "secondhand": 5500,
     "note": "Sony WH-1000XM4 闇夜黑 二手極新 $4,700 = 60% 新品 $7,880 / 85% 二手中位 $5,500(BigGo $4.5-8K). XM4 已上上代被 XM5/XM6 拉下盤, 落在二手低段比典型良品再低 $300+"
   },
+  "1431751208": {
+    "skip": true,
+    "note": "Apple Watch S4 Nike 44mm $4,000 changhenry58750. S4 vintage (watchOS 11 不支援), 比前次 S4 $2.2K 高 $1.8K 即使 Nike 聯名也偏貴"
+  },
   "1431760131": {
     "skip": true,
     "note": "Canon IXY DIGITAL 110 IS PC1355 復古CCD 9.99成新 $5,800. 落在台灣二手中位數(蝦皮老相好 $5,880/KakkoE $5,928/Yahoo $6,600), 沒撿便宜沒貴, CCD 抖音熱潮中段"
@@ -521,6 +530,10 @@
     "secondhand": null,
     "note": "AUX 大人的鐵板 小方型附蓋 新品$5,600-6,500 (蝦皮/uDesign/Handslide)。$3,800 = 62% 新品, 划算但二手listings不足3筆",
     "source": "web search 2026-05-05"
+  },
+  "1434872065": {
+    "skip": true,
+    "note": "鬼太郎誕生咯咯咯之謎 OST 原聲帶 CD $550 quickhorse.c0b64e 動漫 CD"
   },
   "1435167100": {
     "newPrice": 6000,
@@ -4201,6 +4214,10 @@
     "skip": true,
     "note": "Farida H-10 38吋西提卡雲杉面單板民謠吉他 mrcarrot0222 樂器商家加shops"
   },
+  "1437700033": {
+    "skip": true,
+    "note": "Apple Watch S7 GPS 45mm $4,800 she33553 = 行情中位 $4,500-5,000(SOGI/Yahoo). S7 GPS 二手約這價, 沒明顯甜"
+  },
   "1437700706": {
     "skip": true,
     "note": "Canon EF 24-105 F4 L IS USM 一代紅圈 $27,000. 台灣二手主流 $15,675-19,875(Yahoo拍賣/Lynsey), 高於行情 $7-11K, 建議跳過"
@@ -4229,5 +4246,76 @@
   "1437715891": {
     "skip": true,
     "note": "Philips DTD3190 音響 $3,750 luckycshop id含shop商家加shops"
+  },
+  "1437717869": {
+    "skip": true,
+    "note": "Instax Mini 12 $3,000 = 124% momo 新機最低 $2,413. 賣家高於新機, SKIP"
+  },
+  "1437719271": {
+    "skip": true,
+    "note": "咒術迴戰死滅洄游 OP AIZO 期間生產限定 CD $900 ruchirian 動漫"
+  },
+  "1437722043": {
+    "skip": true,
+    "note": "周杰倫 Jay 2000 首版 $880 sodapopo CD"
+  },
+  "1437722650": {
+    "skip": true,
+    "note": "聯勤基地紀念水晶 $2,500 boldphoenix_69649e 紀念品"
+  },
+  "1437723363": {
+    "skip": true,
+    "note": "霜海靜光海藍寶原礦 $2,880 miracle.crystal77 古玩連續輪"
+  },
+  "1437724203": {
+    "skip": true,
+    "note": "三十音鋁琴 $500 youngtree.73b715 樂器"
+  },
+  "1437724596": {
+    "skip": true,
+    "note": "徵 麋先生周邊商品 $520 q5202716 徵求帖"
+  },
+  "1437725739": {
+    "newPrice": 4500,
+    "secondhand": null,
+    "note": "維邁通 VX80 藍牙對講機 $2,500 = 56% 新機 $4,500(exshop/PChome/官方) / 79% 二手 $2,800-3,500. 低於二手行情下緣需確認配件齊全"
+  },
+  "1437726513": {
+    "skip": true,
+    "note": "3M FD-Z85TW 除濕輪式 7L $5,850. 停產機種歷史 $8-11K 福利品 $6K, 二手露天 $3-4.5K. $5,850 高於二手中位 $3,750, 行情不明且偏貴"
+  },
+  "1437727817": {
+    "skip": true,
+    "note": "王傑故事的角色 1989 WEA 全銀圈 T113 首版 $4,000 p79187 老 CD 收藏 (不是黑膠)"
+  },
+  "1437728443": {
+    "newPrice": 1250,
+    "secondhand": null,
+    "note": "Bruno Mars 火星人浪漫 The Romantic LP 白色彩膠一次性生產 $1,000 原價 $1,250 = 80% 限量彩膠主流黑膠主流歌手"
+  },
+  "1437729454": {
+    "skip": true,
+    "note": "Squier Bass 電貝斯黑色 $6,000 noblewind-b503 樂器"
+  },
+  "1437730925": {
+    "skip": true,
+    "note": "AirPods 4 一般版(非ANC) 全新未拆電信贈品 $3,300 = 73% Apple $4,490 / 89% 通路最低 $3,690(傑昇). 只省 $390(10%) 沒到 deal 門檻"
+  },
+  "1437731325": {
+    "skip": true,
+    "note": "SVT 三代手燈 $1,000 holly0213 K-pop"
+  },
+  "1437733342": {
+    "newPrice": 31500,
+    "secondhand": 7999,
+    "note": "Focal Elegia 封閉耳機 + 線(換非原廠4.4) 九成新耳罩起毛 $5,000 = 16% 原價 $31,500 / 62% 二手中位 $7,999. ⚠ 換線+起毛, 確認狀況可接受才入"
+  },
+  "1437733995": {
+    "skip": true,
+    "note": "Kyrie Irving 卡面簽 30 $5,500 ericjason123 球員卡"
+  },
+  "1437735201": {
+    "skip": true,
+    "note": "Lawson x Marion x Hello Kitty 50週年聯名 $1,000 1tsen 周邊"
   }
 }

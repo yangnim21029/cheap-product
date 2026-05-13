@@ -21,12 +21,34 @@
       },
       "vsNew": 35,
       "vsSecondhand": 48
+    },
+    {
+      "seller": "leochang766",
+      "timeAgo": "26 minutes ago",
+      "title": "Focal elegia 單耳機和線 耳機線已換成非原廠銅線 4.4 九成新，耳罩有點起毛",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437733342/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 00:14",
+      "pid": "1437733342",
+      "verified": {
+        "newPrice": 31500,
+        "secondhand": 7999,
+        "note": "Focal Elegia 封閉耳機 + 線(換非原廠4.4) 九成新耳罩起毛 $5,000 = 16% 原價 $31,500 / 62% 二手中位 $7,999. ⚠ 換線+起毛, 確認狀況可接受才入"
+      },
+      "vsNew": 16,
+      "vsSecondhand": 63
     }
   ],
   "negotiate": [
     {
       "seller": "changhenry58750",
-      "timeAgo": "16 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "二手極新 SONY 索尼 WH-1000XM4 藍牙降噪 闇夜黑 有興趣可聊聊價格 🤤",
       "price": 4700,
       "condition": "Like new",
@@ -36,7 +58,7 @@
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 22:25",
+      "listedAt": "05/13 22:40",
       "pid": "1431749959",
       "verified": {
         "newPrice": 7880,
@@ -47,5 +69,69 @@
       "vsSecondhand": 85
     }
   ],
-  "uncertain": []
+  "uncertain": [
+    {
+      "seller": "juicelavi",
+      "timeAgo": "1 hour ago",
+      "title": "火星人布魯諾 / 火星人的浪漫 (LP白色彩膠) 一次性生產 Bruno Mars / The Romantic (LP) 全球 限量 彩膠 #26吃土季",
+      "price": 10001250,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437728443/",
+      "category": "黑膠",
+      "maxDays": 3,
+      "pid": "1437728443",
+      "priceStr": "NT$1,000 (原價 NT$1,250)",
+      "verified": {
+        "newPrice": 1250,
+        "secondhand": null,
+        "note": "Bruno Mars 火星人浪漫 The Romantic LP 白色彩膠一次性生產 $1,000 原價 $1,250 = 80% 限量彩膠主流黑膠主流歌手"
+      },
+      "vsNew": 800100,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "s0938112308",
+      "timeAgo": "1 hour ago",
+      "title": "維邁通VX80",
+      "price": 2500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437725739/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 23:40",
+      "pid": "1437725739",
+      "verified": {
+        "newPrice": 4500,
+        "secondhand": null,
+        "note": "維邁通 VX80 藍牙對講機 $2,500 = 56% 新機 $4,500(exshop/PChome/官方) / 79% 二手 $2,800-3,500. 低於二手行情下緣需確認配件齊全"
+      },
+      "vsNew": 56,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "jacky1993623886",
+      "timeAgo": "2 hours ago",
+      "title": "ATH-HL7BT 開放式藍牙無線耳機",
+      "price": 2800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1426188610/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 22:40",
+      "pid": "1426188610",
+      "verified": {
+        "newPrice": 5700,
+        "secondhand": null,
+        "note": "Audio-Technica ATH-HL7BT 開放藍牙無線 $2,800 = 49% 建議售價 $5,700(PChome $4,500-5,700). KNOWN_DEAL_BRAND鐵三角折扣顯著"
+      },
+      "vsNew": 49,
+      "vsSecondhand": null
+    }
+  ]
 }
