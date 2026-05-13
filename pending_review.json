@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "makesomemomey",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Bose Soundtouch 30 wireless",
       "price": 4000,
       "condition": "Like new",
@@ -12,7 +12,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 13:45",
+      "listedAt": "05/13 14:42",
       "pid": "1437630721",
       "verified": {
         "newPrice": 15500,
@@ -24,7 +24,7 @@
     },
     {
       "seller": "wjia3594763198",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "3 hours ago",
       "title": "夏普六公升空氣清淨除濕機。 2018製造DW H6HTW。",
       "price": 1600,
       "condition": "Lightly used",
@@ -34,7 +34,7 @@
       "priceStr": "NT$1,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 15:45",
+      "listedAt": "05/13 15:42",
       "pid": "1437644664",
       "verified": {
         "newPrice": 8000,
@@ -43,13 +43,58 @@
       },
       "vsNew": 20,
       "vsSecondhand": null
+    },
+    {
+      "seller": "r2265410502900",
+      "timeAgo": "2 hours ago",
+      "title": "伊萊克斯除濕機適用13坪",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437652402/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 16:42",
+      "pid": "1437652402",
+      "verified": {
+        "newPrice": 12900,
+        "secondhand": 5500,
+        "note": "伊萊克斯除濕機適用13坪 $3,500 = 27% ED1031WC/EDH10TRBW1 建議價 $12,900-14,900 / 64% 二手 $4.5-7K. ⚠ 缺型號需問型號+使用年數+壓縮機聲音, 兩款保固/濾網不同"
+      },
+      "vsNew": 27,
+      "vsSecondhand": 64
     }
   ],
-  "negotiate": [],
+  "negotiate": [
+    {
+      "seller": "chiang0972",
+      "timeAgo": "37 minutes ago",
+      "title": "Apple Watch s8 45mm",
+      "price": 4800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437670961/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$4,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 18:05",
+      "pid": "1437670961",
+      "verified": {
+        "newPrice": 13900,
+        "secondhand": 6767,
+        "note": "Apple Watch S8 45mm $4,800 = 35% 原價 $13,900 / 71% 二手中位 $6,767(GPS B級$6,400/A級$7,500). LTE 行情 $8K+, 標題沒寫 GPS/LTE 大旗. ⚠ S8 已停產3年電池+watchOS支援邊緣需驗序號電池"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 71
+    }
+  ],
   "uncertain": [
     {
       "seller": "yuna07141",
-      "timeAgo": "50 minutes ago",
+      "timeAgo": "5 hours ago",
       "title": "國際牌F-Y22BW 防霉除濕機",
       "price": 3800,
       "condition": "Lightly used",
@@ -59,7 +104,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 13:49",
+      "listedAt": "05/13 13:42",
       "pid": "1437626105",
       "verified": {
         "newPrice": 11000,
@@ -71,7 +116,7 @@
     },
     {
       "seller": "zenstorm-982233",
-      "timeAgo": "8 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "森海賽爾 IE200",
       "price": 2000,
       "condition": "Lightly used",
@@ -81,7 +126,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 16:37",
+      "listedAt": "05/13 16:42",
       "pid": "1437657588",
       "verified": {
         "newPrice": 5990,
@@ -93,7 +138,7 @@
     },
     {
       "seller": "boldrabbit-94b0",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "3 hours ago",
       "title": "AirPods4代降噪版在保",
       "price": 2500,
       "condition": "Like new",
@@ -103,7 +148,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 15:45",
+      "listedAt": "05/13 15:42",
       "pid": "1437644477",
       "verified": {
         "newPrice": 5990,
@@ -115,7 +160,7 @@
     },
     {
       "seller": "shinji_okada",
-      "timeAgo": "3 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Gopro Hero 10 Black 全新二手品",
       "price": 6500,
       "condition": "Like new",
@@ -133,6 +178,50 @@
         "note": "GoPro Hero 10 Black 全新二手品 $6,500 = 43% 庫存新品 $15,000 / 85% 二手中位 $7-9.9K. 比市場常見二手低 7-30%, 賣家 shinji_okada 上輪 GX1已SKIP 需驗機況/序號/盒裝"
       },
       "vsNew": 43,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "minzetsai",
+      "timeAgo": "58 minutes ago",
+      "title": "Bose quiet comfort 藍牙耳機",
+      "price": 5000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437669187/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 17:44",
+      "pid": "1437669187",
+      "verified": {
+        "newPrice": 10500,
+        "secondhand": null,
+        "note": "Bose QuietComfort $5,000 minzetsai 缺型號. QC35II/QC45 中位 $10,500 二手$4.3-6.5K; QC Ultra $15,800; QC Earbuds $10,500. NT$5,000 只對 QC45/QC35II 合理, Ultra 是撿大便宜(仿品警報), Earbuds 偏貴. 必問型號+序號+原盒"
+      },
+      "vsNew": 48,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "jhih-ting",
+      "timeAgo": "1 hour ago",
+      "title": "AirPods 4 主動降噪 typec",
+      "price": 2800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437663862/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 17:42",
+      "pid": "1437663862",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": null,
+        "note": "AirPods 4 ANC type-c $2,800 jhih-ting = 47% PChome $5,990 邊緣手動"
+      },
+      "vsNew": 47,
       "vsSecondhand": null
     }
   ]
