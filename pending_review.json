@@ -1,5 +1,51 @@
 {
-  "newDeals": [],
-  "negotiate": [],
+  "newDeals": [
+    {
+      "seller": "yvonneliu1234",
+      "timeAgo": "2 hours ago",
+      "title": "優美視Q1投影機",
+      "price": 2800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437700966/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$2,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 20:41",
+      "pid": "1437700966",
+      "verified": {
+        "newPrice": 7900,
+        "secondhand": 5850,
+        "note": "UMST 優美視 Q1 投影機 $2,800 = 35% 官方 Q1 $7,900(已被 Q1 Pro 取代) / 48% 二手中位 $5,850(蝦皮 $4.8-6.9K). 顯著低於二手低盤再砍, 入門款"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 48
+    }
+  ],
+  "negotiate": [
+    {
+      "seller": "changhenry58750",
+      "timeAgo": "16 minutes ago",
+      "title": "二手極新 SONY 索尼 WH-1000XM4 藍牙降噪 闇夜黑 有興趣可聊聊價格 🤤",
+      "price": 4700,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1431749959/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,700",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/13 22:25",
+      "pid": "1431749959",
+      "verified": {
+        "newPrice": 7880,
+        "secondhand": 5500,
+        "note": "Sony WH-1000XM4 闇夜黑 二手極新 $4,700 = 60% 新品 $7,880 / 85% 二手中位 $5,500(BigGo $4.5-8K). XM4 已上上代被 XM5/XM6 拉下盤, 落在二手低段比典型良品再低 $300+"
+      },
+      "vsNew": 60,
+      "vsSecondhand": 85
+    }
+  ],
   "uncertain": []
 }
