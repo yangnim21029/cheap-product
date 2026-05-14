@@ -343,6 +343,51 @@
         "id": "tsrecords",
         "name": "tsrecords",
         "note": "id 含 records 明確商家, 二手CD/MQA-CD"
+      },
+      {
+        "id": "revenger",
+        "name": "文質 李",
+        "note": "20件全 ASUS/ACER/MSI 二手筆電批量，標題格式統一，店家"
+      },
+      {
+        "id": "hanmu420",
+        "name": "牧 韓",
+        "note": "20件全 CITIZEN/SEIKO 手錶且多 Brand new，錶商"
+      },
+      {
+        "id": "rarext",
+        "name": "@rarext",
+        "note": "20件全 BAPE 各尺碼 Brand new，潮牌代購店"
+      },
+      {
+        "id": "jiawenmayday",
+        "name": "美機專家二手機專賣店",
+        "note": "自稱「實體經營」批量手機商家"
+      },
+      {
+        "id": "good.one.year",
+        "name": "古玩意兒小站",
+        "note": "批量五金/家電/古物批量商家"
+      },
+      {
+        "id": "us3c_shop",
+        "name": "US3C二手3C專賣店",
+        "note": "id含shop, 二手3C專賣"
+      },
+      {
+        "id": "wuwangwo.shop",
+        "name": "勿忘我",
+        "note": "id含.shop, 「[勿忘我]」前綴批量懷舊收藏品店"
+      },
+      {
+        "id": "vintagejew",
+        "name": "Thistle Vintage",
+        "note": "連2筆紀念幣+古董胸針，收藏品店家"
+      },
+      {
+        "id": "z0989511489",
+        "name": "jian-cheng (疑與 ggaarry 共用)",
+        "note": "前3筆完全相同 PID 與 ggaarry 重複，疑似關聯帳號"
       }
     ]
   },
