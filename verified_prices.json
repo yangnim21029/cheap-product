@@ -267,6 +267,13 @@
     "source": "2026-05-14",
     "skip": true
   },
+  "1426503127": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "中華民國101年壬辰龍精鑄套幣 古錢幣非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1426508358": {
     "skip": true,
     "note": "Tama 小鼓袋 14x6.5 $888 ssj40911 樂器配件"
@@ -577,6 +584,13 @@
     "source": "2026-05-14",
     "skip": true
   },
+  "1431960800": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "周杰倫第一張CD原版 一般CD非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1431969538": {
     "newPrice": null,
     "secondhand": 7500,
@@ -643,6 +657,13 @@
   "1434872065": {
     "skip": true,
     "note": "鬼太郎誕生咯咯咯之謎 OST 原聲帶 CD $550 quickhorse.c0b64e 動漫 CD"
+  },
+  "1435096460": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TAMA ROCKSTAR-DX小鼓 樂器非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1435148242": {
     "newPrice": null,
@@ -4896,6 +4917,13 @@
     "source": "2026-05-14",
     "skip": true
   },
+  "1437879350": {
+    "newPrice": 11900,
+    "secondhand": 5500,
+    "note": "Sony WH-1000XM5玫瑰灰 chiiiar $5,000=91%二手中位$5,500 過殺價門檻90% SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437881488": {
     "newPrice": null,
     "secondhand": null,
@@ -4959,6 +4987,20 @@
     "source": "2026-05-14",
     "skip": true
   },
+  "1437891826": {
+    "newPrice": null,
+    "secondhand": 9500,
+    "note": "Nikon D5500+18-55KIT 2015停產，二手套機$8K-12K中位。$9,300=98%中位合理無折扣 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437896179": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "1991年陳聖頌紙上作品 藝術品收藏非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437897436": {
     "newPrice": null,
     "secondhand": null,
@@ -4985,5 +5027,75 @@
     "secondhand": null,
     "note": "Zayn Konnakol 2024專輯LP，博客來預購$1,180+運費。$1,050個人賣家=70%合理偏低 黑膠例外手動",
     "source": "2026-05-14"
+  },
+  "1437900359": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Coral CS-8800S喇叭組 yuan712 NO:編號批量已在shops SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437900886": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Marshall MG-10CF 吉他音箱 樂器非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437901840": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "A-Lin幸福了然後呢簽名CD 一般CD非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437906688": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Twins滾石全新CD 一般CD非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437908919": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「地毯」$1,500 oldyard標題隨便看不出品牌 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437909334": {
+    "newPrice": 1200,
+    "secondhand": 900,
+    "note": "MJ Bad 2016復刻LP全新$1K-1.5K博客來。$2,000明顯偏高除非1987原版(標題不像) SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437909550": {
+    "newPrice": null,
+    "secondhand": 2800,
+    "note": "Sony SRS-XB41 2018停產，二手$2,500-4,000中位$2,800。$3,000=107%中位略偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437910906": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "中華民國38年伍角蕃薯紀念幣5枚 古錢幣非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437913722": {
+    "newPrice": 6900,
+    "secondhand": 2800,
+    "note": "B&O Beoplay P2一代公司貨$6,900-8,500(已停產)，二手$2,500-3,500中位。$3,100=111%中位偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437914035": {
+    "newPrice": 8500,
+    "secondhand": 4500,
+    "note": "Bose QC45 PChome公司貨$8,500(原$9,900)，二手$4,500中位。$4,700=104%中位合理二手價無折扣 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   }
 }

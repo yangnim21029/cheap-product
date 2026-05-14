@@ -393,6 +393,16 @@
         "id": "vinyl_voyage",
         "name": "vinyl_voyage",
         "note": "同輪19筆黑膠批量+標題前綴「【黑膠唱片】」=黑膠批量商家. 涵蓋椎名林檎/坂本龍一/宮崎駿/Daniel Caesar/EVA OST/Hyukoh/藤井風等. 注: Rose黑膠例外但價=行情非deal"
+      },
+      {
+        "id": "oldyard",
+        "name": "oldyard",
+        "note": "同輪4筆 + 地毯/家具雜物批量 + 標題簡略「地毯」「桌子」=家具/雜貨批量商家"
+      },
+      {
+        "id": "official_thriftavenue",
+        "name": "official_thriftavenue",
+        "note": "id含official，連2筆 thrift store 二手雜貨商家"
       }
     ]
   },
