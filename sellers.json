@@ -403,6 +403,11 @@
         "id": "official_thriftavenue",
         "name": "official_thriftavenue",
         "note": "id含official，連2筆 thrift store 二手雜貨商家"
+      },
+      {
+        "id": "elf_store",
+        "name": "elf_store",
+        "note": "id含_store明確商家, Sony鏡頭 FE 24-240 商家批量價"
       }
     ]
   },

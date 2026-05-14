@@ -285,6 +285,13 @@
     "source": "2026-05-14",
     "skip": true
   },
+  "1426578912": {
+    "newPrice": 34980,
+    "secondhand": 20000,
+    "note": "Sony FE 24-240 OSS原價$34,980二手$18K-22K。$15,000=75%二手偏低但 elf_store(id含store)是商家批量 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1429754461": {
     "newPrice": 2800,
     "secondhand": null,
@@ -5070,6 +5077,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1437909343": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "A-Lin罪惡感CD簽名版 一般CD非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437909550": {
     "newPrice": null,
     "secondhand": 2800,
@@ -5084,6 +5098,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1437913539": {
+    "newPrice": 5500,
+    "secondhand": 3500,
+    "note": "Godox V860II for Sony 2017停產(V860III/IV接替)，新品$5K-6K二手$3K-4K。$5,000偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437913722": {
     "newPrice": 6900,
     "secondhand": 2800,
@@ -5091,10 +5112,31 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1437913795": {
+    "newPrice": null,
+    "secondhand": 6000,
+    "note": "Zhiyun Weebill S 2019停產(Weebill 2/3接替)，二手$5K-7K。$8,000偏高 shanoe0陳貨 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437914035": {
     "newPrice": 8500,
     "secondhand": 4500,
     "note": "Bose QC45 PChome公司貨$8,500(原$9,900)，二手$4,500中位。$4,700=104%中位合理二手價無折扣 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437917859": {
+    "newPrice": 7500,
+    "secondhand": 4500,
+    "note": "Makita MR014G工地藍牙喇叭公司貨$7K-8K二手$4K-5K。$5,200合理但工地用太重非居家收藏目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437919058": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods 4 ANC公司貨$5,490。$3,200=58%太低 (AirPods仿冒重災區 beehived只賣1筆同fastest112233模式) SKIP",
     "source": "2026-05-15",
     "skip": true
   }
