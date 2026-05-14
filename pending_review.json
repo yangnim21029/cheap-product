@@ -93,7 +93,7 @@
   "negotiate": [
     {
       "seller": "changhenry58750",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "二手極新 SONY 索尼 WH-1000XM4 藍牙降噪 闇夜黑 有興趣可聊聊價格 🤤",
       "price": 4700,
       "condition": "Like new",
@@ -103,7 +103,7 @@
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 22:39",
+      "listedAt": "05/13 22:40",
       "pid": "1431749959",
       "verified": {
         "newPrice": 7880,
@@ -115,7 +115,7 @@
     },
     {
       "seller": "123456000yyyu",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "Canon 佳能 PowerShot G7 X 一代 數位相機📷",
       "price": 11500,
       "condition": "Lightly used",
@@ -125,7 +125,7 @@
       "priceStr": "NT$11,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 00:39",
+      "listedAt": "05/14 00:40",
       "pid": "1437738881",
       "verified": {
         "newPrice": 17990,
@@ -160,7 +160,7 @@
     },
     {
       "seller": "tony999913",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "DJI MINI 3 全新未拆聯強公司貨(含遙控）",
       "price": 8999,
       "condition": "Brand new",
@@ -170,7 +170,7 @@
       "priceStr": "NT$8,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 13:39",
+      "listedAt": "05/14 13:40",
       "pid": "1426344233",
       "verified": {
         "newPrice": 18000,
@@ -183,7 +183,7 @@
     },
     {
       "seller": "mkkkyac",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Pocket 3",
       "price": 10500,
       "condition": "Lightly used",
@@ -193,7 +193,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 12:39",
+      "listedAt": "05/14 12:40",
       "pid": "1437791608",
       "verified": {
         "newPrice": 17990,
@@ -206,7 +206,7 @@
     },
     {
       "seller": "sota919",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Leica 原廠50mm viewfinder 光學取景器 SBOOI",
       "price": 5000,
       "condition": "Like new",
@@ -216,7 +216,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 12:39",
+      "listedAt": "05/14 12:40",
       "pid": "1437794344",
       "verified": {
         "newPrice": null,
@@ -226,6 +226,52 @@
       },
       "vsNew": null,
       "vsSecondhand": 71
+    },
+    {
+      "seller": "newhihi12",
+      "timeAgo": "39 minutes ago",
+      "title": "SONY WH-1000XM5 無線降噪耳機| 原價 2萬十1有盒有線| 二手 |",
+      "price": 4500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437850453/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 18:01",
+      "pid": "1437850453",
+      "verified": {
+        "newPrice": 11900,
+        "secondhand": 5500,
+        "note": "Sony WH-1000XM5 公司貨原價$11,900現新品$8.9K-9.9K，二手有盒$4,500=82%二手中位偏低合理可入",
+        "source": "2026-05-14"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 82
+    },
+    {
+      "seller": "happyhappyallday",
+      "timeAgo": "11 minutes ago",
+      "title": "Fujifilm X-S10 (含33mm定焦鏡頭）",
+      "price": 23000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437856147/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$23,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 18:29",
+      "pid": "1437856147",
+      "verified": {
+        "newPrice": 44000,
+        "secondhand": 28000,
+        "note": "Fuji X-S10二手$22K-25K + XF33mm F1.4二手$15K-18K，組合$23K=82%二手中位明顯低於行情需驗快門數鏡況",
+        "source": "2026-05-14"
+      },
+      "vsNew": 52,
+      "vsSecondhand": 82
     }
   ],
   "uncertain": [
@@ -250,7 +296,7 @@
     },
     {
       "seller": "s0938112308",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "維邁通VX80",
       "price": 2500,
       "condition": "Like new",
@@ -260,7 +306,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 23:39",
+      "listedAt": "05/13 23:40",
       "pid": "1437725739",
       "verified": {
         "newPrice": 4500,
@@ -272,7 +318,7 @@
     },
     {
       "seller": "jacky1993623886",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "ATH-HL7BT 開放式藍牙無線耳機",
       "price": 2800,
       "condition": "Like new",
@@ -282,7 +328,7 @@
       "priceStr": "NT$2,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 22:39",
+      "listedAt": "05/13 22:40",
       "pid": "1426188610",
       "verified": {
         "newPrice": 5700,

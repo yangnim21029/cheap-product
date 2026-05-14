@@ -333,6 +333,16 @@
         "id": "9color",
         "name": "九色鹿",
         "note": "標題前綴「【九色鹿】二手」明確樂器二手店"
+      },
+      {
+        "id": "a1pacastore",
+        "name": "a1pacastore",
+        "note": "id 含 store 明確商家, 投影機 UMST 組合(投影機+布幕)組合定價"
+      },
+      {
+        "id": "tsrecords",
+        "name": "tsrecords",
+        "note": "id 含 records 明確商家, 二手CD/MQA-CD"
       }
     ]
   },
