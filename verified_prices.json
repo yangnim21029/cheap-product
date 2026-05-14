@@ -4569,5 +4569,68 @@
     "note": "Sony WF-C700N Sony Store公司貨$2,880-2,990。$3,000比新品還貴 SKIP",
     "source": "2026-05-14",
     "skip": true
+  },
+  "1437820840": {
+    "newPrice": 13900,
+    "secondhand": 8500,
+    "note": "Insta360 X3 公司貨$13K-15K(X4/X5上市降價中)，二手$6.8K-14K中位$8K-9.5K。$8,500=100%中位無折扣 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437825550": {
+    "newPrice": 4500,
+    "secondhand": 2200,
+    "note": "Bose SoundLink Micro 官網$4,500，深藍二手$1,800-2,500。$2,200剛好二手中位無折扣 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437825932": {
+    "newPrice": null,
+    "secondhand": 2800,
+    "note": "HITACHI RD-200FS 2015機已停產，二手中位$2,500-3,500。$5,000=179%二手中位過貴 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437826242": {
+    "newPrice": 5800,
+    "secondhand": 3000,
+    "note": "Bose Revolve一代 PChome公司貨$5,500-6,500，二手$2,500-3,500。$4,500=78%新品/150%二手中位 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437827647": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "雙燕Jupiter長笛兒童彎管，樂器非目標品類 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437827812": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LoveLive! 虹咲學園偶像周邊CD，動漫周邊非目標 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437828621": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "古董音樂首飾盒，古玩非目標 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437828898": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "尚典中古家具神桌，家具非目標品類 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437831660": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "標題「60*60*50」太隨便看不出商品 SKIP",
+    "source": "2026-05-14",
+    "skip": true
   }
 }
