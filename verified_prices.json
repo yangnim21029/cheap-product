@@ -466,6 +466,13 @@
     "skip": true,
     "note": "Bose Solo Soundbar $5,000 vs 二手港台 $3.5-5.5K 偏中上 / 美國 refurb USD$99($3,200). Solo 5 停產被 Bose TV Speaker 取代, 老 soundbar 無 HDMI ARC 偏貴"
   },
+  "1431598788": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Deco Art WP-6 喇叭單顆PChome$12,900；「喇叭組」描述模糊（一對/單顆/含周邊？）冷門牌不在收藏目標 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
   "1431656632": {
     "skip": true,
     "note": "AudioQuest Golden Gate 3.5mm 訊號線 2M $3,600 kumakumalife 發燒線材"
@@ -4539,6 +4546,27 @@
     "newPrice": null,
     "secondhand": null,
     "note": "早期藏銀茶壺古玩，不在收藏範圍",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437809407": {
+    "newPrice": 2680,
+    "secondhand": 1200,
+    "note": "BRUNO優格機 BXM202 新品$2,680。$1,400=52%新品比二手中位$1,200還高17% SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437813672": {
+    "newPrice": 5400,
+    "secondhand": 3500,
+    "note": "鐵三角ATH-TWX7 PChome優惠價$5,400。$4,860=90%差$540換保固不划算 SKIP",
+    "source": "2026-05-14",
+    "skip": true
+  },
+  "1437816990": {
+    "newPrice": 2880,
+    "secondhand": 1800,
+    "note": "Sony WF-C700N Sony Store公司貨$2,880-2,990。$3,000比新品還貴 SKIP",
     "source": "2026-05-14",
     "skip": true
   }
