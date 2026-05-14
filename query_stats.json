@@ -18,16 +18,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 6466,
-    "recentTotal": 1734,
+    "total": 6514,
+    "recentTotal": 1743,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:24:45.273Z"
+    "lastSeen": "2026-05-14T04:24:45.796Z"
   },
   "投影機": {
-    "total": 6702,
-    "recentTotal": 1665,
+    "total": 6750,
+    "recentTotal": 1678,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:25:14.572Z"
+    "lastSeen": "2026-05-14T04:25:13.959Z"
   },
   "OSIM": {
     "total": 852,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 6375,
-    "recentTotal": 1900,
+    "total": 6423,
+    "recentTotal": 1918,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:26:10.875Z"
+    "lastSeen": "2026-05-14T04:26:26.871Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -96,16 +96,16 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 6207,
-    "recentTotal": 952,
+    "total": 6255,
+    "recentTotal": 955,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T00:26:07.657Z"
+    "lastSeen": "2026-05-14T04:26:02.336Z"
   },
   "VR": {
-    "total": 6455,
-    "recentTotal": 425,
+    "total": 6503,
+    "recentTotal": 427,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T00:27:24.650Z"
+    "lastSeen": "2026-05-14T04:27:22.738Z"
   },
   "喇叭": {
     "total": 5875,
@@ -114,10 +114,10 @@
     "lastSeen": "2026-05-14T00:25:16.270Z"
   },
   "音響": {
-    "total": 6234,
-    "recentTotal": 1672,
+    "total": 6282,
+    "recentTotal": 1683,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:25:42.058Z"
+    "lastSeen": "2026-05-14T04:25:36.478Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 6200,
-    "recentTotal": 345,
+    "total": 6248,
+    "recentTotal": 346,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:26:36.223Z"
+    "lastSeen": "2026-05-14T04:26:53.844Z"
   },
   "帳篷": {
     "total": 1239,
@@ -138,10 +138,10 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 5901,
-    "recentTotal": 5615,
+    "total": 5949,
+    "recentTotal": 5663,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:30:57.270Z"
+    "lastSeen": "2026-05-14T04:31:00.217Z"
   },
   "露營": {
     "total": 4713,
@@ -150,10 +150,10 @@
     "lastSeen": "2026-05-14T02:27:05.269Z"
   },
   "地毯": {
-    "total": 4413,
-    "recentTotal": 551,
+    "total": 4461,
+    "recentTotal": 554,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:27:31.414Z"
+    "lastSeen": "2026-05-14T04:27:51.880Z"
   },
   "相機機身": {
     "total": 1188,
@@ -174,28 +174,28 @@
     "lastSeen": "2026-05-14T02:27:59.027Z"
   },
   "手沖": {
-    "total": 2692,
-    "recentTotal": 415,
+    "total": 2740,
+    "recentTotal": 421,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:28:59.677Z"
+    "lastSeen": "2026-05-14T04:28:48.342Z"
   },
   "磨豆機": {
-    "total": 2974,
-    "recentTotal": 332,
+    "total": 3022,
+    "recentTotal": 335,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:28:28.420Z"
+    "lastSeen": "2026-05-14T04:28:19.821Z"
   },
   "除濕機": {
-    "total": 1488,
-    "recentTotal": 191,
+    "total": 1536,
+    "recentTotal": 200,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:29:24.743Z"
+    "lastSeen": "2026-05-14T04:29:18.145Z"
   },
   "dji": {
-    "total": 1479,
-    "recentTotal": 698,
+    "total": 1527,
+    "recentTotal": 711,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-13T22:29:37.410Z"
+    "lastSeen": "2026-05-14T04:29:46.872Z"
   },
   "insta360": {
     "total": 1764,
@@ -204,15 +204,15 @@
     "lastSeen": "2026-05-14T02:29:48.031Z"
   },
   "果汁機": {
-    "total": 1006,
-    "recentTotal": 279,
+    "total": 1054,
+    "recentTotal": 290,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:30:10.495Z"
+    "lastSeen": "2026-05-14T04:30:11.688Z"
   },
   "黑膠": {
-    "total": 1150,
-    "recentTotal": 436,
+    "total": 1198,
+    "recentTotal": 444,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T02:30:33.597Z"
+    "lastSeen": "2026-05-14T04:30:35.508Z"
   }
 }
