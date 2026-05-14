@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 6696,
-    "recentTotal": 2053,
+    "total": 6744,
+    "recentTotal": 2072,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:24:46.950Z"
+    "lastSeen": "2026-05-14T22:24:39.462Z"
   },
   "Samsung Galaxy Watch": {
     "total": 98,
@@ -24,10 +24,10 @@
     "lastSeen": "2026-05-14T16:25:08.194Z"
   },
   "投影機": {
-    "total": 7038,
-    "recentTotal": 1765,
+    "total": 7086,
+    "recentTotal": 1780,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T14:25:29.469Z"
+    "lastSeen": "2026-05-14T22:25:04.195Z"
   },
   "OSIM": {
     "total": 852,
@@ -72,10 +72,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 6714,
-    "recentTotal": 314,
+    "total": 6761,
+    "recentTotal": 316,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T18:26:08.949Z"
+    "lastSeen": "2026-05-14T22:26:20.945Z"
   },
   "nespresso": {
     "total": 475,
@@ -84,10 +84,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 6758,
-    "recentTotal": 2024,
+    "total": 6805,
+    "recentTotal": 2037,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:26:01.247Z"
+    "lastSeen": "2026-05-14T22:26:51.103Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -96,15 +96,15 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 6685,
-    "recentTotal": 985,
+    "total": 6732,
+    "recentTotal": 988,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:25:38.840Z"
+    "lastSeen": "2026-05-14T22:25:55.252Z"
   },
   "VR": {
-    "total": 6837,
+    "total": 6885,
     "recentTotal": 439,
-    "zeroStreak": 0,
+    "zeroStreak": 1,
     "lastSeen": "2026-05-14T20:27:03.188Z"
   },
   "喇叭": {
@@ -114,10 +114,10 @@
     "lastSeen": "2026-05-14T20:25:17.273Z"
   },
   "音響": {
-    "total": 6522,
-    "recentTotal": 1754,
+    "total": 6569,
+    "recentTotal": 1773,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T16:26:04.505Z"
+    "lastSeen": "2026-05-14T22:25:32.368Z"
   },
   "咖啡機": {
     "total": 409,
@@ -126,9 +126,9 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 6535,
+    "total": 6583,
     "recentTotal": 351,
-    "zeroStreak": 1,
+    "zeroStreak": 2,
     "lastSeen": "2026-05-14T18:26:58.262Z"
   },
   "帳篷": {
@@ -144,16 +144,16 @@
     "lastSeen": "2026-05-14T18:31:00.212Z"
   },
   "露營": {
-    "total": 4952,
-    "recentTotal": 1383,
+    "total": 5000,
+    "recentTotal": 1394,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:27:30.460Z"
+    "lastSeen": "2026-05-14T22:28:07.619Z"
   },
   "地毯": {
-    "total": 4700,
-    "recentTotal": 574,
+    "total": 4748,
+    "recentTotal": 580,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:27:57.129Z"
+    "lastSeen": "2026-05-14T22:28:37.498Z"
   },
   "相機機身": {
     "total": 1188,
@@ -168,22 +168,22 @@
     "lastSeen": "2026-05-07T23:21:10.805Z"
   },
   "優格機": {
-    "total": 3242,
-    "recentTotal": 146,
+    "total": 3277,
+    "recentTotal": 148,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:28:23.443Z"
+    "lastSeen": "2026-05-14T22:29:07.802Z"
   },
   "手沖": {
-    "total": 3075,
-    "recentTotal": 458,
+    "total": 3123,
+    "recentTotal": 463,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:29:20.370Z"
+    "lastSeen": "2026-05-14T22:29:57.855Z"
   },
   "磨豆機": {
-    "total": 3357,
-    "recentTotal": 358,
+    "total": 3405,
+    "recentTotal": 361,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:28:50.113Z"
+    "lastSeen": "2026-05-14T22:29:33.028Z"
   },
   "除濕機": {
     "total": 1823,
@@ -198,16 +198,16 @@
     "lastSeen": "2026-05-14T20:30:20.116Z"
   },
   "insta360": {
-    "total": 2004,
-    "recentTotal": 516,
+    "total": 2052,
+    "recentTotal": 531,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T18:30:04.840Z"
+    "lastSeen": "2026-05-14T22:30:20.715Z"
   },
   "果汁機": {
-    "total": 1437,
-    "recentTotal": 384,
+    "total": 1485,
+    "recentTotal": 393,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-14T20:30:51.293Z"
+    "lastSeen": "2026-05-14T22:30:49.348Z"
   },
   "黑膠": {
     "total": 1341,
