@@ -50,7 +50,7 @@
     },
     {
       "seller": "ray3213",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "DJI mini 3 pro 暢飛",
       "price": 13000,
       "condition": "Lightly used",
@@ -73,7 +73,7 @@
     },
     {
       "seller": "play_chillout",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Apple Watch Series 7 GPS 45mm 藍",
       "price": 3333,
       "condition": "Lightly used",
@@ -96,7 +96,7 @@
     },
     {
       "seller": "steve819107",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "SONY 索尼 WF-1000XM5 旗艦真無線藍牙耳機 WF-1000XM4 WF-1000XM6 參考",
       "price": 3990,
       "condition": "Like new",
@@ -139,12 +139,35 @@
       },
       "vsNew": 38,
       "vsSecondhand": 73
+    },
+    {
+      "seller": "wendygirl602",
+      "timeAgo": "12 minutes ago",
+      "title": "Marshall Emberton攜帶式藍牙喇叭",
+      "price": 3000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438052050/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 20:27",
+      "pid": "1438052050",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 3500,
+        "note": "Marshall Emberton III現役$6,490二手II/III代$3K-4.5K。$3,000=86%二手⚠Marshall仿冒重災區wendygirl602新賣家須驗序號",
+        "source": "2026-05-15"
+      },
+      "vsNew": 46,
+      "vsSecondhand": 86
     }
   ],
   "uncertain": [
     {
       "seller": "baseballlove23",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "頑童MJ116 FRESH GAME (2LP/雙色混膠) 黑膠唱片 小春 大淵 瘦子e.so",
       "price": 2480,
       "condition": "Brand new",
