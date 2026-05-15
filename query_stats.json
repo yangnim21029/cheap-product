@@ -12,16 +12,16 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 6992,
-    "recentTotal": 1835,
+    "total": 7040,
+    "recentTotal": 1841,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:25:08.946Z"
+    "lastSeen": "2026-05-15T16:24:47.344Z"
   },
   "投影機": {
-    "total": 7276,
-    "recentTotal": 1839,
+    "total": 7324,
+    "recentTotal": 1853,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T06:25:21.280Z"
+    "lastSeen": "2026-05-15T16:25:15.851Z"
   },
   "OSIM": {
     "total": 852,
@@ -66,10 +66,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 7143,
-    "recentTotal": 332,
+    "total": 7191,
+    "recentTotal": 334,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T14:26:06.888Z"
+    "lastSeen": "2026-05-15T16:26:19.885Z"
   },
   "nespresso": {
     "total": 475,
@@ -102,10 +102,10 @@
     "lastSeen": "2026-05-14T20:27:03.188Z"
   },
   "喇叭": {
-    "total": 6401,
-    "recentTotal": 2239,
+    "total": 6449,
+    "recentTotal": 2253,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:25:31.817Z"
+    "lastSeen": "2026-05-15T16:25:45.749Z"
   },
   "音響": {
     "total": 6950,
@@ -132,16 +132,16 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 6619,
-    "recentTotal": 6330,
+    "total": 6667,
+    "recentTotal": 6378,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T14:31:32.056Z"
+    "lastSeen": "2026-05-15T16:36:26.647Z"
   },
   "露營": {
-    "total": 5286,
-    "recentTotal": 1450,
+    "total": 5334,
+    "recentTotal": 1462,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T14:27:54.415Z"
+    "lastSeen": "2026-05-15T16:28:09.090Z"
   },
   "地毯": {
     "total": 5035,
@@ -174,22 +174,22 @@
     "lastSeen": "2026-05-15T14:29:14.320Z"
   },
   "磨豆機": {
-    "total": 3644,
-    "recentTotal": 371,
+    "total": 3692,
+    "recentTotal": 373,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T14:28:49.522Z"
+    "lastSeen": "2026-05-15T16:29:38.891Z"
   },
   "除濕機": {
-    "total": 1967,
-    "recentTotal": 275,
+    "total": 2015,
+    "recentTotal": 284,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T14:29:44.833Z"
+    "lastSeen": "2026-05-15T16:30:06.987Z"
   },
   "dji": {
-    "total": 2101,
-    "recentTotal": 876,
+    "total": 2149,
+    "recentTotal": 887,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T08:29:28.400Z"
+    "lastSeen": "2026-05-15T16:30:36.094Z"
   },
   "insta360": {
     "total": 2339,
@@ -204,15 +204,69 @@
     "lastSeen": "2026-05-15T14:30:37.031Z"
   },
   "黑膠": {
-    "total": 1675,
-    "recentTotal": 734,
+    "total": 1723,
+    "recentTotal": 779,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:30:28.856Z"
+    "lastSeen": "2026-05-15T16:31:00.521Z"
   },
   "Switch 遊戲片": {
-    "total": 48,
-    "recentTotal": 6,
+    "total": 96,
+    "recentTotal": 12,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T14:31:07.043Z"
+    "lastSeen": "2026-05-15T16:31:31.428Z"
+  },
+  "PS5": {
+    "total": 48,
+    "recentTotal": 7,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T16:32:02.296Z"
+  },
+  "Steam Deck": {
+    "total": 30,
+    "recentTotal": 0,
+    "zeroStreak": 1,
+    "lastSeen": null
+  },
+  "掃地機器人": {
+    "total": 48,
+    "recentTotal": 2,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T16:33:11.869Z"
+  },
+  "氣炸鍋": {
+    "total": 48,
+    "recentTotal": 13,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T16:33:35.776Z"
+  },
+  "筆電": {
+    "total": 48,
+    "recentTotal": 34,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T16:34:02.628Z"
+  },
+  "Kindle": {
+    "total": 12,
+    "recentTotal": 0,
+    "zeroStreak": 1,
+    "lastSeen": null
+  },
+  "機械鍵盤": {
+    "total": 48,
+    "recentTotal": 11,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T16:35:03.270Z"
+  },
+  "美容儀": {
+    "total": 48,
+    "recentTotal": 10,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T16:35:31.271Z"
+  },
+  "吸塵器": {
+    "total": 48,
+    "recentTotal": 5,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T16:36:02.152Z"
   }
 }

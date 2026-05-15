@@ -1,5 +1,285 @@
 {
-  "newDeals": [],
-  "negotiate": [],
-  "uncertain": []
+  "newDeals": [
+    {
+      "seller": "dantetsai",
+      "timeAgo": "2 days ago",
+      "title": "Keychron K2 第三代 75% 雙模無線機械鍵盤 透光 白背光 非熱插拔",
+      "price": 980,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437696730/",
+      "category": "機械鍵盤",
+      "maxDays": 7,
+      "priceStr": "NT$980",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 00:49",
+      "pid": "1437696730",
+      "verified": {
+        "newPrice": 3490,
+        "secondhand": 1800,
+        "note": "Keychron K2 V3 75%雙模無線白背光非熱插拔 公司貨$3,490。$980=28%新品⭐機械鍵盤例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 28,
+      "vsSecondhand": 54
+    },
+    {
+      "seller": "kokonatree",
+      "timeAgo": "12 hours ago",
+      "title": "機械鍵盤 Keychron Q2 65% 熱插拔",
+      "price": 1500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437974574/",
+      "category": "機械鍵盤",
+      "maxDays": 7,
+      "priceStr": "NT$1,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 12:49",
+      "pid": "1437974574",
+      "verified": {
+        "newPrice": 3790,
+        "secondhand": 2200,
+        "note": "Keychron Q2 65%熱插拔 kokonatree $1,500=40%新品/68%二手 同前PID 1438078974同款⭐",
+        "source": "2026-05-16"
+      },
+      "vsNew": 40,
+      "vsSecondhand": 68
+    }
+  ],
+  "negotiate": [
+    {
+      "seller": "cyuan117",
+      "timeAgo": "1 day ago",
+      "title": "Apple筆電MacBook Pro （15寸, 2018)",
+      "price": 12500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1431950776/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$12,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 00:49",
+      "pid": "1431950776",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 14000,
+        "note": "Apple MacBook Pro 15「 2018 i7/16G Intel機型，二手$13K-16K。$12,500=89%二手略低可入(停產8年市場接受度低)",
+        "source": "2026-05-16"
+      },
+      "vsNew": null,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "ilove8105106993",
+      "timeAgo": "2 days ago",
+      "title": "Macbook Air 13.6吋 2022 M2版 8G/256G 蘋果 筆電 星光色",
+      "price": 16000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437650339/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$16,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 00:49",
+      "pid": "1437650339",
+      "verified": {
+        "newPrice": 32900,
+        "secondhand": 18800,
+        "note": "Apple MacBook Air M2 2022 8G/256G 公司貨$34,900二手起跳$18,800。$16,000=85%二手低於行情⚠查電池循環",
+        "source": "2026-05-16"
+      },
+      "vsNew": 49,
+      "vsSecondhand": 85
+    },
+    {
+      "seller": "noblefox.7aab3a",
+      "timeAgo": "2 days ago",
+      "title": "Ps5 1218數位版 近全新 很少使用 跟ps4 pro",
+      "price": 10000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437707149/",
+      "category": "PS5",
+      "maxDays": 7,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 00:49",
+      "pid": "1437707149",
+      "verified": {
+        "newPrice": 14580,
+        "secondhand": 12000,
+        "note": "PS5 1218數位版近全新 公司貨$14,580二手$11K-13K。$10,000=83%二手低於行情⚠1218型號PS5詐騙警戒 noblefox.7aab3a",
+        "source": "2026-05-16"
+      },
+      "vsNew": 69,
+      "vsSecondhand": 83
+    }
+  ],
+  "uncertain": [
+    {
+      "pid": "1438081313",
+      "title": "落日飛車 金桔希子 黑膠 有傷",
+      "price": 850,
+      "priceStr": "NT$850",
+      "url": "https://tw.carousell.com/p/1438081313/",
+      "seller": "docomomomoo",
+      "timeAgo": "1 hour ago",
+      "category": "黑膠",
+      "verified": {
+        "newPrice": 1200,
+        "secondhand": 700,
+        "note": "落日飛車金桔希子LP 個人收藏二手$700-1.2K。$850=121%二手中位「有傷」狀況需確認 docomomomoo黑膠例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 71,
+      "vsSecondhand": 121
+    },
+    {
+      "pid": "1438080723",
+      "title": "To the moon and back 致敬坂本龍一 雙黑膠",
+      "price": 1200,
+      "priceStr": "NT$1,200",
+      "url": "https://tw.carousell.com/p/1438080723/",
+      "seller": "docomomomoo",
+      "timeAgo": "1 hour ago",
+      "category": "黑膠",
+      "verified": {
+        "newPrice": 1500,
+        "secondhand": 1100,
+        "note": "致敬坂本龍一 To the moon and back 2LP 個人轉售$1.1K-1.5K。$1,200=80%新品 docomomomoo黑膠例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 80,
+      "vsSecondhand": 109
+    },
+    {
+      "pid": "1438079893",
+      "title": "落日飛車 Bossa nova 黑膠 近全新 小傷",
+      "price": 900,
+      "priceStr": "NT$900",
+      "url": "https://tw.carousell.com/p/1438079893/",
+      "seller": "docomomomoo",
+      "timeAgo": "1 hour ago",
+      "category": "黑膠",
+      "verified": {
+        "newPrice": 1200,
+        "secondhand": 800,
+        "note": "落日飛車Bossa Nova LP 近全新二手$800-1.2K。$900=112%二手中位小傷需確認 docomomomoo黑膠例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 75,
+      "vsSecondhand": 113
+    },
+    {
+      "pid": "1438079293",
+      "title": "落日飛車cassa nova 黑膠 全新小傷",
+      "price": 1100,
+      "priceStr": "NT$1,100",
+      "url": "https://tw.carousell.com/p/1438079293/",
+      "seller": "docomomomoo",
+      "timeAgo": "2 hours ago",
+      "category": "黑膠",
+      "verified": {
+        "newPrice": 1300,
+        "secondhand": 900,
+        "note": "落日飛車Cassa Nova LP 全新但小傷二手$900-1.3K。$1,100=85%新品 docomomomoo黑膠例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 85,
+      "vsSecondhand": 122
+    },
+    {
+      "pid": "1438078717",
+      "title": "藍色恐懼 Perfect Blue 今敏 黑膠",
+      "price": 1500,
+      "priceStr": "NT$1,500",
+      "url": "https://tw.carousell.com/p/1438078717/",
+      "seller": "docomomomoo",
+      "timeAgo": "2 hours ago",
+      "category": "黑膠",
+      "verified": {
+        "newPrice": 2000,
+        "secondhand": 1300,
+        "note": "今敏動畫藍色恐懼Perfect Blue OST LP 二手$1.3K-2K。$1,500=75%新品 經典動畫OST docomomomoo黑膠例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 75,
+      "vsSecondhand": 115
+    },
+    {
+      "pid": "1438004366",
+      "title": "Knewkey Rymek 復古機械鍵盤｜Cherry MX 茶軸｜近全新｜藍牙/USB mechanical keyboard",
+      "price": 2400,
+      "priceStr": "NT$2,400",
+      "url": "https://tw.carousell.com/p/1438004366/",
+      "seller": "samchan000",
+      "timeAgo": "9 hours ago",
+      "category": "機械鍵盤",
+      "verified": {
+        "newPrice": 4500,
+        "secondhand": 2200,
+        "note": "Knewkey Rymek Cherry MX茶軸復古鍵盤 Indiegogo$3.8K-4.5K二手$2,200。$2,400=53%新品合理",
+        "source": "2026-05-16"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 109
+    },
+    {
+      "pid": "1420578017",
+      "title": "CHERRY 櫻桃 MX2.0S 三模無線機械鍵盤",
+      "price": 1195,
+      "priceStr": "NT$1,195",
+      "url": "https://tw.carousell.com/p/1420578017/",
+      "seller": "alexerzzo",
+      "timeAgo": "4 days ago",
+      "category": "機械鍵盤",
+      "verified": {
+        "newPrice": 2790,
+        "secondhand": 1500,
+        "note": "Cherry MX2.0S三模無線 公司貨$2,790二手$1.5K。$1,195=43%新品 機械鍵盤例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 43,
+      "vsSecondhand": 80
+    },
+    {
+      "pid": "1437844424",
+      "title": "ZIIP美容儀",
+      "price": 8500,
+      "priceStr": "NT$8,500",
+      "url": "https://tw.carousell.com/p/1437844424/",
+      "seller": "czech_buy",
+      "timeAgo": "1 day ago",
+      "category": "美容儀",
+      "verified": {
+        "newPrice": 16000,
+        "secondhand": 9000,
+        "note": "ZIIP美容儀 公司貨$14K-18K二手$8K-12K。$8,500=53%新品 略偏低⭐ 美容儀例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 94
+    },
+    {
+      "pid": "1437036600",
+      "title": "#全新 Medicube Age-R Booster Pro Mini plus美容儀",
+      "price": 2400,
+      "priceStr": "NT$2,400",
+      "url": "https://tw.carousell.com/p/1437036600/",
+      "seller": "flowervi",
+      "timeAgo": "6 days ago",
+      "category": "美容儀",
+      "verified": {
+        "newPrice": 3490,
+        "secondhand": 2000,
+        "note": "Medicube Age-R Booster Pro Mini plus 全新 公司貨$3,490二手$2K。$2,400=69%新品⭐美容儀例外",
+        "source": "2026-05-16"
+      },
+      "vsNew": 69,
+      "vsSecondhand": 120
+    }
+  ]
 }

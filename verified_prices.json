@@ -82,6 +82,12 @@
     "secondhand": null,
     "note": "露營暖爐 $2,000 標題缺品牌型號. Kovea $2-6K / Iwatani $1.5-3K / Snow Peak $5-15K / Stanley 低端. 開連結確認品牌 (中位 $3K 估值)"
   },
+  "1420578017": {
+    "newPrice": 2790,
+    "secondhand": 1500,
+    "note": "Cherry MX2.0S三模無線 公司貨$2,790二手$1.5K。$1,195=43%新品 機械鍵盤例外",
+    "source": "2026-05-16"
+  },
   "1420589638": {
     "skip": true,
     "note": "多聞壓克力立牌 動漫周邊 非需求"
@@ -203,6 +209,13 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
+  "1425568816": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "伊萊克斯吸塵器 $3,500 jason6966 標題無型號 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1425607996": {
     "skip": true,
     "note": "iFi Zen Can 3 耳擴 $5,000 = 72% 公司貨 $6,900. 2024新款剛上市流通少二手接近新品, 不算撿便宜也不貴沒到 deal 門檻"
@@ -267,6 +280,13 @@
     "note": "DJI Mini 3（非Pro）momo聯強含遙控$22,090已下架，市面零星$15K-18K。全新未拆$8,999=75%二手 明顯低於行情需驗證仿冒/水貨",
     "source": "2026-05-14"
   },
+  "1426349693": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Kingston DDR4 3200 32GB 記憶體 $9,050 matrisys 記憶體不是筆電(誤分類) SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1426476221": {
     "newPrice": null,
     "secondhand": null,
@@ -291,6 +311,13 @@
   "1426508358": {
     "skip": true,
     "note": "Tama 小鼓袋 14x6.5 $888 ssj40911 樂器配件"
+  },
+  "1426513293": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "魔法公主全套膠卷 動漫周邊非目標 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1426521778": {
     "newPrice": null,
@@ -418,6 +445,12 @@
     "note": "NOVATION Launchkey 49 MK3 公司貨$8,000-8,800。$4,200=49%, 雖非 Rose 主清單但價格便宜值得看",
     "source": "web search 2026-05-07"
   },
+  "1430466987": {
+    "newPrice": 14500,
+    "secondhand": 7000,
+    "note": "Dyson V8 SV25經典款 公司貨$14.5K二手$5K-8K。$8,000=114%二手中位略偏高 SKIP",
+    "source": "2026-05-16"
+  },
   "1430483171": {
     "newPrice": 3990,
     "secondhand": null,
@@ -440,6 +473,13 @@
     "secondhand": null,
     "note": "SONY WH-ULT900N (ULT WEAR) 公司貨$5,990。$3,500=58% 進手動門檻",
     "source": "web search 2026-05-11"
+  },
+  "1430730086": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "前行者中國平價鍵盤+滑鼠套裝 $1,300 中國平價無折扣 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1430774612": {
     "newPrice": 19900,
@@ -556,6 +596,13 @@
     "note": "Creative Aurvana Ace 2 真無線 公司貨$3,590。$2,200=61% 進手動門檻 (新加坡購入全新未使用)",
     "source": "web search 2026-05-11"
   },
+  "1431218709": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Medicube AGE-R Booster Pro 張員瑛全新 $5,960 公司貨$6K-8K接近新品價 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1431317099": {
     "newPrice": 22500,
     "secondhand": null,
@@ -583,6 +630,13 @@
   "1431671144": {
     "skip": true,
     "note": "AudioQuest Cinnamon RJ/E Ethernet 鍍銀網路傳輸線 $3,600 kumakumalife 發燒線材非清單"
+  },
+  "1431690131": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Logitech K835 TKL青軸 公司貨$1,290。$999=77%新品略偏低非顯著deal SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1431704464": {
     "skip": true,
@@ -652,6 +706,12 @@
     "note": "Anker soundcore Space One入門降噪公司貨$2,290-3,290。$2,250=98%新品同價無折扣 SKIP",
     "source": "2026-05-15",
     "skip": true
+  },
+  "1431950776": {
+    "newPrice": null,
+    "secondhand": 14000,
+    "note": "Apple MacBook Pro 15「 2018 i7/16G Intel機型，二手$13K-16K。$12,500=89%二手略低可入(停產8年市場接受度低)",
+    "source": "2026-05-16"
   },
   "1431960800": {
     "newPrice": null,
@@ -1843,6 +1903,13 @@
     "note": "Sony WH-1000XM5 旗艦降噪 公司貨$8,910-10,400 / 二手中位$6,500。$5,000=53%/77% → 殺價檻, 比二手低23% 急售區",
     "source": "web search 2026-05-08"
   },
+  "1436702312": {
+    "newPrice": 18070,
+    "secondhand": 14000,
+    "note": "PS5 Slim薄型光碟版盒裝完整 公司貨$17.5K-20K。$13,499=96%二手中位偏低⚠ ade1113 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1436712097": {
     "newPrice": 9500,
     "secondhand": null,
@@ -1903,6 +1970,12 @@
     "source": "web search 2026-05-08",
     "skip": true
   },
+  "1436736220": {
+    "newPrice": 14580,
+    "secondhand": 13000,
+    "note": "PS5數位版+雙手把 $12,000=82%二手 a747808096239 略低於行情⚠雙手把PS5詐騙警戒",
+    "source": "2026-05-16"
+  },
   "1436739357": {
     "newPrice": 3880,
     "secondhand": null,
@@ -1928,6 +2001,13 @@
     "secondhand": null,
     "note": "Beurer 博依 LR 220 全淨化空氣清淨機 諾曼百赫官方$4,980（原$8,180）。$1,900=38%, <$2K 手動門檻但便宜值得看",
     "source": "web search 2026-05-08"
+  },
+  "1436764680": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iRocks K83R+M28R套裝 $2,000 iRocks套裝無折扣 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1436782901": {
     "newPrice": 4490,
@@ -2131,6 +2211,13 @@
     "skip": true,
     "note": "one-meter 無線真空果汁機 二手 $700 基本款"
   },
+  "1436903518": {
+    "newPrice": 18070,
+    "secondhand": 15500,
+    "note": "PS5 Slim光碟+雙手把有盒 $16,500=106%二手中位略偏高 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1436904838": {
     "skip": true,
     "note": "panasonic 果汁機 $650 免運 基本款"
@@ -2330,6 +2417,12 @@
     "note": "Canon R50 機身公司貨 新$24,552。$17,000=69% 進手動門檻",
     "source": "web search 2026-05-11"
   },
+  "1437036600": {
+    "newPrice": 3490,
+    "secondhand": 2000,
+    "note": "Medicube Age-R Booster Pro Mini plus 全新 公司貨$3,490二手$2K。$2,400=69%新品⭐美容儀例外",
+    "source": "2026-05-16"
+  },
   "1437038434": {
     "newPrice": 12900,
     "secondhand": null,
@@ -2394,6 +2487,13 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
+  "1437090974": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Medicube二代美容儀 $5,500 公司貨$6K-8K接近新品價 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437095776": {
     "newPrice": 15129,
     "secondhand": null,
@@ -2405,6 +2505,13 @@
     "secondhand": null,
     "note": "AirPods Pro 一代 已停產, 蝦皮副廠雜訊多, $3,000 偏高 SKIP",
     "source": "web search 2026-05-11",
+    "skip": true
+  },
+  "1437107916": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PS5 1018a $9,000 bensonhsu0807 同qciqciqci PS5 1018A詐騙模式⚠ SKIP",
+    "source": "2026-05-16",
     "skip": true
   },
   "1437109385": {
@@ -2485,11 +2592,25 @@
     "note": "Marshall Stanmore II 公司貨$13,400 (已停產). $8,000=60% 進手動門檻",
     "source": "web search 2026-05-11"
   },
+  "1437155765": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "FOUNDER GK87 中國平價三模 全新$699 是新品價無折扣 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437168789": {
     "newPrice": 1890,
     "secondhand": 1100,
     "note": "寶可夢朱9.99成新 公司貨$1.79K-1.99K二手$900-1.3K。$1,000=53%新品近全新 Switch例外手動",
     "source": "2026-05-15"
+  },
+  "1437170943": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "RK Royal Kludge R75 抹茶紅豆 中國品牌$1,850 新品價無折扣 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437171391": {
     "skip": true,
@@ -3188,6 +3309,13 @@
     "skip": true,
     "note": "Beyond 國語粵語懷念精選 1993 wuwangwo.shop 二手CD店家"
   },
+  "1437368386": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI RTX3050筆電 $15,000 johnny0127321 標題簡寫 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437369030": {
     "newPrice": 1000,
     "secondhand": null,
@@ -3506,6 +3634,13 @@
     "skip": true,
     "note": "DJI Neo whole set $9,000 = 129% PChome 暢飛套裝特價 $6,990 / 90% 原價 $9,990. 新品特價更便宜"
   },
+  "1437428171": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI GE66 11UG i7/RTX3070 $28,000 二手$30K-40K=78%偏低⚠ zenforest_taiwan可能商家 SKIP觀察",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437430369": {
     "newPrice": 3350,
     "secondhand": null,
@@ -3616,6 +3751,13 @@
     "skip": true,
     "note": "林佳儀&朋友 王傑張克帆合唱曲犧牲 EP alec6hh37069 CD"
   },
+  "1437459962": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Acer Aspire N20C5 15.6 $5,700 w0913921921 入門偏低中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437461998": {
     "skip": true,
     "note": "Ricoh GR3 公司貨 $24,990 = 二手中位 $22-28K. 賣家 we-are-one-ohsehun id 含 EXO 偶像名像粉絲帳非商家. ⚠ GR3 黃牛市場大需驗保固卡/序號/實拍, 沒到 deal 門檻"
@@ -3660,6 +3802,13 @@
     "newPrice": 6890,
     "secondhand": null,
     "note": "AirPods Pro 2 USB-C $2,500 yuriaaa「降噪功能正常」= 36% PChome $6,890. 個人賣家提示降噪功能正常算良心"
+  },
+  "1437469297": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Dell Latitude 7410 14吋 i5-10310U 16G/256 $6,000 商務輕薄$5K-8K=86%中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437470155": {
     "skip": true,
@@ -3915,6 +4064,13 @@
     "skip": true,
     "note": "音箱 $8,500 brightmountain.4f6c9b 標題不明樂器"
   },
+  "1437524673": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「DYSON吸塵器」kaer30323 標題無型號 $9,500 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437525556": {
     "skip": true,
     "note": "壽山石芙蓉石羅漢印章 錢厓落款 $4,500 happygo5354 古玩"
@@ -4065,6 +4221,13 @@
     "skip": true,
     "note": "圓山應舉春雞絹本掛軸含共箱 $8,000 clevertree-c694(trusted) 字畫古玩"
   },
+  "1437571034": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS Vivobook 15 i5-13420H藍 $12,000 二手$11K-15K=92%中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437572728": {
     "skip": true,
     "note": "BT21 RJ 站立娃 $2,500 karara.112 K-pop周邊"
@@ -4137,6 +4300,13 @@
   "1437589894": {
     "skip": true,
     "note": "鄧麗君/難忘的 $2,000 kv0976028832658 標題未明黑膠/CD 模糊"
+  },
+  "1437590516": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS Vivobook 14 X1404VA $14,000 二手$12K-18K=93%中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437591510": {
     "newPrice": 1690,
@@ -4239,13 +4409,48 @@
     "skip": true,
     "note": "敦煌莫高窟第57窟最美菩薩手繪掛軸高峯落款原作 $8,000 clevertree-c694 字畫古玩"
   },
+  "1437620869": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS i5-10210U「促銷促銷囉」adidas批量 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437621089": {
     "skip": true,
     "note": "黑魔導女孩 PSA10 $3,200 kokarasumaru_ce 集換式卡牌"
   },
+  "1437621129": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS i7-8565U「促銷促銷囉」adidas批量 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1437621363": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HP i5-8250U「促銷促銷囉」adidas批量 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1437621519": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HP i5-10210U「促銷促銷囉」adidas批量 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437621651": {
     "skip": true,
     "note": "Hey!Say!Jump Dear My Lover guan7777 商家"
+  },
+  "1437621843": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "聯想i5-1235U「促銷促銷囉」adidas批量 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437622078": {
     "skip": true,
@@ -4254,6 +4459,20 @@
   "1437622981": {
     "skip": true,
     "note": "Canon EOS-1D Mark III $9,900 落港台二手中段 $9-15K. 2007年機 10MP APS-H 實用價值低, 著名 AF 召回問題. jimmykaoev43756 連2輪老相機商加shops"
+  },
+  "1437624014": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS i5-8250U「促銷促銷囉」adidas批量 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1437624155": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS i3-10110M「促銷促銷囉」adidas958080930商家批量 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437624257": {
     "skip": true,
@@ -4331,10 +4550,23 @@
     "skip": true,
     "note": "黃大城民歌黃金碟精選重逢 24BIT 黃金版絕版 alec6hh37069 CD"
   },
+  "1437650339": {
+    "newPrice": 32900,
+    "secondhand": 18800,
+    "note": "Apple MacBook Air M2 2022 8G/256G 公司貨$34,900二手起跳$18,800。$16,000=85%二手低於行情⚠查電池循環",
+    "source": "2026-05-16"
+  },
   "1437652402": {
     "newPrice": 12900,
     "secondhand": 5500,
     "note": "伊萊克斯除濕機適用13坪 $3,500 = 27% ED1031WC/EDH10TRBW1 建議價 $12,900-14,900 / 64% 二手 $4.5-7K. ⚠ 缺型號需問型號+使用年數+壓縮機聲音, 兩款保固/濾網不同"
+  },
+  "1437653042": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「筆電」epiclion.898118 $10,000 標題模糊 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437653769": {
     "skip": true,
@@ -4553,6 +4785,12 @@
     "secondhand": null,
     "note": "Honeywell HPA030WTW 舒淨空清 4.5-9坪 $1,000 = 25% PChome 限時92折 $3,990 / 17% 原價 $5,990. KNOWN_DEAL_BRAND Honeywell HPA, 明顯 deal 但需確認濾網狀態(HEPA換新 $500-700)"
   },
+  "1437696730": {
+    "newPrice": 3490,
+    "secondhand": 1800,
+    "note": "Keychron K2 V3 75%雙模無線白背光非熱插拔 公司貨$3,490。$980=28%新品⭐機械鍵盤例外",
+    "source": "2026-05-16"
+  },
   "1437698524": {
     "skip": true,
     "note": "Farida H-10 38吋西提卡雲杉面單板民謠吉他 mrcarrot0222 樂器商家加shops"
@@ -4578,6 +4816,20 @@
     "secondhand": 5850,
     "note": "UMST 優美視 Q1 投影機 $2,800 = 35% 官方 Q1 $7,900(已被 Q1 Pro 取代) / 48% 二手中位 $5,850(蝦皮 $4.8-6.9K). 顯著低於二手低盤再砍, 入門款"
   },
+  "1437701314": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI SWORD 17 i7-14700HX RTX4050 $29,000 chenshunrong商家 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1437701760": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HP VICTUS RTX4060 i7 $29,500 chenshunrong同輪2筆=商家 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437701762": {
     "skip": true,
     "note": "瑪瑙珠串阿富汗飛翾老珠 $1,980 rain54389 古玩連多輪"
@@ -4596,6 +4848,12 @@
     "note": "「Switch遊戲片」nn_nnn沒寫片名 $1,000 標題模糊 SKIP",
     "source": "2026-05-15",
     "skip": true
+  },
+  "1437707149": {
+    "newPrice": 14580,
+    "secondhand": 12000,
+    "note": "PS5 1218數位版近全新 公司貨$14,580二手$11K-13K。$10,000=83%二手低於行情⚠1218型號PS5詐騙警戒 noblefox.7aab3a",
+    "source": "2026-05-16"
   },
   "1437715891": {
     "skip": true,
@@ -4680,6 +4938,13 @@
     "skip": true,
     "note": "Marshall Emberton III 奶油白 $5,980 = 92% 新品 $6,490 / 125% 二手中位 $4,800. 接近新品價沒折扣 + Marshall 仿冒重災區風險"
   },
+  "1437737736": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Lenovo IdeaPad 3 R7 5825U 16G/512 $10,800 valles 日版二手$10K-15K=88%中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437738549": {
     "skip": true,
     "note": "三麗鷗正版小卡 40元專區 $9,999 pnjryfc 動漫小卡"
@@ -4726,6 +4991,13 @@
   "1437767160": {
     "skip": true,
     "note": "元友台灣黃檜算盤珠手珠 $1,400 ting2019212 古玩佛珠"
+  },
+  "1437767678": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI Sword 15 i5-12450H RTX4050 $19,500 pc_bank商家 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437770323": {
     "skip": true,
@@ -4971,11 +5243,38 @@
     "source": "2026-05-14",
     "skip": true
   },
+  "1437841867": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS ROG Strix GL504G RTX 2070 $15,000 9chome 2018機型二手$15K-25K=75%中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1437842978": {
+    "newPrice": 14580,
+    "secondhand": 13000,
+    "note": "PS5 Slim數位+雙手把 $14,000=96%新品/108%二手接近新品價無折扣 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1437844424": {
+    "newPrice": 16000,
+    "secondhand": 9000,
+    "note": "ZIIP美容儀 公司貨$14K-18K二手$8K-12K。$8,500=53%新品 略偏低⭐ 美容儀例外",
+    "source": "2026-05-16"
+  },
   "1437844478": {
     "newPrice": null,
     "secondhand": null,
     "note": "蜜蠟算盤珠串俄料 古玩非目標 SKIP",
     "source": "2026-05-14",
+    "skip": true
+  },
+  "1437845115": {
+    "newPrice": 41999,
+    "secondhand": 16000,
+    "note": "ASUS TUF FX516P 2021原價$41,999二手$15K-18K。$18,000=113%二手中位 SKIP",
+    "source": "2026-05-16",
     "skip": true
   },
   "1437846815": {
@@ -5339,6 +5638,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1437915281": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS E410KA $10,999 kwinleekimo 入門ASUS二手$7K-12K=99%中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437917859": {
     "newPrice": 7500,
     "secondhand": 4500,
@@ -5386,6 +5692,13 @@
     "secondhand": null,
     "note": "「吉他」$3,800 a0984393159 樂器非目標 SKIP",
     "source": "2026-05-15",
+    "skip": true
+  },
+  "1437931284": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「售i511代筆電」ace18426 標題模糊 $7,000 SKIP",
+    "source": "2026-05-16",
     "skip": true
   },
   "1437931889": {
@@ -5436,11 +5749,32 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1437947587": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PS5 1018A $9,000 qciqciqci-01824 公司貨$18K 仿冒詐騙警報⚠ PS5詐騙Carousell常見 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437947606": {
     "newPrice": 26690,
     "secondhand": 16000,
     "note": "DJI Mini 3 Pro + DJI RC螢幕暢飛 台灣公司貨$26,690(已停產)。$13,000=81%二手中位若機況良好屬好價",
     "source": "2026-05-15"
+  },
+  "1437947645": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Razer Metallic Keycap Set金屬鍵帽組(只是鍵帽不是鍵盤) SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1437947680": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI Sword 16 HX i7-14650HX $29,900 pc_bank商家 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1437948019": {
     "newPrice": null,
@@ -5516,6 +5850,13 @@
     "secondhand": null,
     "note": "2021 Kitty生日娃娃，三麗鷗周邊非目標 SKIP",
     "source": "2026-05-15",
+    "skip": true
+  },
+  "1437954445": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ACER Nitro V i5-13420H RTX4060 $25,500 pc_bank商家 SKIP",
+    "source": "2026-05-16",
     "skip": true
   },
   "1437955012": {
@@ -5601,6 +5942,12 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1437974574": {
+    "newPrice": 3790,
+    "secondhand": 2200,
+    "note": "Keychron Q2 65%熱插拔 kokonatree $1,500=40%新品/68%二手 同前PID 1438078974同款⭐",
+    "source": "2026-05-16"
+  },
   "1437980692": {
     "newPrice": null,
     "secondhand": null,
@@ -5654,6 +6001,13 @@
     "secondhand": null,
     "note": "麥可傑克森Bad World Tour紀念卡盒 周邊收藏非目標 SKIP",
     "source": "2026-05-15",
+    "skip": true
+  },
+  "1437991264": {
+    "newPrice": 18070,
+    "secondhand": 13500,
+    "note": "PS5 Slim光碟版新品$17.5K-20K。$13,500=100%二手中位無折扣 SKIP",
+    "source": "2026-05-16",
     "skip": true
   },
   "1437991515": {
@@ -5710,6 +6064,12 @@
     "note": "李宗盛生命中的精靈滾石復刻180g新品$1,199。$2,000=167%復刻新品偏高，除非1986原版老盤(稀有$5K+)才合理 SKIP",
     "source": "2026-05-15",
     "skip": true
+  },
+  "1438004366": {
+    "newPrice": 4500,
+    "secondhand": 2200,
+    "note": "Knewkey Rymek Cherry MX茶軸復古鍵盤 Indiegogo$3.8K-4.5K二手$2,200。$2,400=53%新品合理",
+    "source": "2026-05-16"
   },
   "1438005177": {
     "newPrice": null,
@@ -5935,6 +6295,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1438033786": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI Katana GF76 i7-11800H RTX3060 $18,000 二手$18K-25K=78%二手 偏低但 qwt49970608連2筆 SKIP觀察",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1438037264": {
     "newPrice": null,
     "secondhand": null,
@@ -6004,6 +6371,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1438054597": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MateBook 14 i5-1135G7 16/512 $7,900 clean700ml 入門商務二手$8K-12K=66%略偏低但=99%二手中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1438058159": {
     "newPrice": null,
     "secondhand": null,
@@ -6023,6 +6397,13 @@
     "secondhand": null,
     "note": "LEGO 21329 Fender Stratocaster二合一樂高吉他($2,999)，樂高玩具非音響/Rose目標 SKIP",
     "source": "2026-05-15",
+    "skip": true
+  },
+  "1438068460": {
+    "newPrice": 65000,
+    "secondhand": 22000,
+    "note": "ASUS ROG SCAR 17 G733QM 2021旗艦5年機齡二手$22K-25K。$26,500=120%二手略偏高 SKIP",
+    "source": "2026-05-16",
     "skip": true
   },
   "1438070763": {
@@ -6072,6 +6453,120 @@
     "secondhand": 5500,
     "note": "Nikon D90+AF-P 18-55套機「如新展示機」 kincheer店家用語 D90二手套機$5K-7K中位 SKIP",
     "source": "2026-05-15",
+    "skip": true
+  },
+  "1438077934": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Gibson SG Standard 61 Reissue 2013 樂器$42K SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438078717": {
+    "newPrice": 2000,
+    "secondhand": 1300,
+    "note": "今敏動畫藍色恐懼Perfect Blue OST LP 二手$1.3K-2K。$1,500=75%新品 經典動畫OST docomomomoo黑膠例外",
+    "source": "2026-05-16"
+  },
+  "1438078974": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HP TPN-Q286 15吋 i5 12代 $6,500 入門商用筆電二手$6K-9K=72%中位 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438079293": {
+    "newPrice": 1300,
+    "secondhand": 900,
+    "note": "落日飛車Cassa Nova LP 全新但小傷二手$900-1.3K。$1,100=85%新品 docomomomoo黑膠例外",
+    "source": "2026-05-16"
+  },
+  "1438079815": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "A-Lin罪惡感真情告白預購版CD+家事本 一般CD非黑膠 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438079893": {
+    "newPrice": 1200,
+    "secondhand": 800,
+    "note": "落日飛車Bossa Nova LP 近全新二手$800-1.2K。$900=112%二手中位小傷需確認 docomomomoo黑膠例外",
+    "source": "2026-05-16"
+  },
+  "1438079994": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 3 cindyyy__ $2,200 仿冒重災區⚠第9次模式 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438080324": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "五月天阿信5525行李吊牌扭蛋 周邊非目標 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438080723": {
+    "newPrice": 1500,
+    "secondhand": 1100,
+    "note": "致敬坂本龍一 To the moon and back 2LP 個人轉售$1.1K-1.5K。$1,200=80%新品 docomomomoo黑膠例外",
+    "source": "2026-05-16"
+  },
+  "1438080814": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Samsung Galaxy Buds 4 $3,633 liliacc 三星新真無線 公司貨$5,490-6,490 $3,633=66%新品但個人新號旗艦耳機仿冒模式⚠ SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438081313": {
+    "newPrice": 1200,
+    "secondhand": 700,
+    "note": "落日飛車金桔希子LP 個人收藏二手$700-1.2K。$850=121%二手中位「有傷」狀況需確認 docomomomoo黑膠例外",
+    "source": "2026-05-16"
+  },
+  "1438081464": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "2021 Fender Stratocaster墨廠 $17K 樂器 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438083271": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Fender Flea Bass+60s Jazz Bass樂器 $55K SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438084440": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MJ Bad World Tour卡盒 baseballlove23 同前輪同款 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438086597": {
+    "newPrice": 14580,
+    "secondhand": 11000,
+    "note": "PS5 Slim數位版新品$14,580。$15,000高於新品價無理 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438088996": {
+    "newPrice": 19180,
+    "secondhand": 11000,
+    "note": "Sony ZV-1一代(非ZV-E10 II)新品$19,180二手$11K-12K。$14,000=127%二手中位略偏高 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438090067": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「唱片機」livestar_123ecc 標題無型號 SKIP",
+    "source": "2026-05-16",
     "skip": true
   }
 }
