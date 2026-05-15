@@ -5568,6 +5568,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1438008741": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon S100 $5,500 16rakai (S100是2011 CMOS不是CCD抖音炒作非真) SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1438008997": {
     "newPrice": null,
     "secondhand": null,
@@ -5575,11 +5582,33 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1438009281": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon s110白色冷白皮CCD zuesmanml962537商家批量 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438009484": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon a3300is粉色冷白皮CCD zuesmanml962537商家批量 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1438010012": {
-    "newPrice": 28000,
-    "secondhand": 17000,
-    "note": "Canon G5X Mark II公司貨$27K-30K二手$15K-20K(一代僅$8K-12K)。$15,000=88%⚠須確認Mark II 「冷白皮」抖音炒作詞",
-    "source": "2026-05-15"
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon G5X zuesmanml962537「冷白皮」抖音炒作詞 (本輪連4筆同模式 加shops商家) 修正為 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438010217": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon SX60HS「冷白皮演唱會」zuesmanml962537連4筆抖音炒作商家 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1438012884": {
     "newPrice": 900,
@@ -5599,6 +5628,118 @@
     "newPrice": 1500,
     "secondhand": null,
     "note": "Cortis Color Outside The Line K-pop黑膠 $1,100 kime_love第2輪黑膠批量加價 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438014803": {
+    "newPrice": 7900,
+    "secondhand": 3500,
+    "note": "Apple Watch SE Gen 2 40mm 公司貨$7,900二手$3K-4K。$4,600=131%個賣行情偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438014910": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "林依晨惡作劇之吻原聲帶CD+月曆卡 一般CD非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438014916": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "吉他一把 $3,000 kenta321 樂器 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438016106": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "天然緬甸玉虎牌墜 ywlee1203連2筆統一價商家 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438018130": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "古典吉他 $2,500 樂器 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438018528": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "無牌楓木面單電木吉他 樂器 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438018685": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Daddarwood H5面單吉他 樂器 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438018969": {
+    "newPrice": 4280,
+    "secondhand": 2000,
+    "note": "KAIBO VERSE Plus 公司貨$4,280二手$1.5K-2.5K。$3,500=82%新品接近全新價不划算 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438019803": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "我的英雄學院最終季唱片I 動漫OST非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438024146": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "天然緬甸玉雞牌墜 ywlee1203連2筆「1606元活動」統一價玉墜商家 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438029130": {
+    "newPrice": 968,
+    "secondhand": null,
+    "note": "Cortis二專預購黑膠$968 = 預購價無折扣(預購多買一張轉手) SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438030747": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Muramatsu銀管長笛 dstephen21連2筆樂器商家 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438031659": {
+    "newPrice": 17500,
+    "secondhand": 11000,
+    "note": "Sigma 35mm F2 DG DN Sony E水貨$14K-15K公司貨$17K-20K。$13,500水貨價合理但=123%二手過殺價門檻 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438032085": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Muramatsu M系列長笛 dstephen21連2筆樂器 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438032913": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Watch S6 44mm $2,550 battery 100% qqq7276185只賣1筆顯著低於S6二手中位$4K 高度疑似仿冒/詐騙 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438033587": {
+    "newPrice": 5900,
+    "secondhand": 3000,
+    "note": "Bose無型號標題隨便 SoundLink Flex/Mini II/Micro區間差大。$4,500無法判風險高 SKIP",
     "source": "2026-05-15",
     "skip": true
   }
