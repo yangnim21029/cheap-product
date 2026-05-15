@@ -1,5 +1,29 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "whatsupgirrrl",
+      "timeAgo": "60 minutes ago",
+      "title": "Coway 空氣清淨機",
+      "price": 1080,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437961060/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$1,080",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 11:40",
+      "pid": "1437961060",
+      "verified": {
+        "newPrice": 8999,
+        "secondhand": 1800,
+        "note": "Coway入門公司貨$8,999起(AP-1216L/1515G)。$1,080=12%新品/60%二手⚠標題無型號 須確認濾網狀態",
+        "source": "2026-05-15"
+      },
+      "vsNew": 12,
+      "vsSecondhand": 60
+    }
+  ],
   "negotiate": [
     {
       "seller": "ggyy1012",
@@ -26,7 +50,7 @@
     },
     {
       "seller": "ray3213",
-      "timeAgo": "31 minutes ago",
+      "timeAgo": "3 hours ago",
       "title": "DJI mini 3 pro 暢飛",
       "price": 13000,
       "condition": "Lightly used",
@@ -36,7 +60,7 @@
       "priceStr": "NT$13,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 10:08",
+      "listedAt": "05/15 09:40",
       "pid": "1437947606",
       "verified": {
         "newPrice": 26690,
@@ -46,12 +70,35 @@
       },
       "vsNew": 49,
       "vsSecondhand": 81
+    },
+    {
+      "seller": "play_chillout",
+      "timeAgo": "2 hours ago",
+      "title": "Apple Watch Series 7 GPS 45mm 藍",
+      "price": 3333,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437950296/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$3,333",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 10:40",
+      "pid": "1437950296",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 4000,
+        "note": "Apple Watch S7 GPS 45mm 藍 2021停產，福利品$4,979-6,505二手$3K-4.5K。$3,333=83%二手低標 藍色不溢價",
+        "source": "2026-05-15"
+      },
+      "vsNew": null,
+      "vsSecondhand": 83
     }
   ],
   "uncertain": [
     {
       "seller": "baseballlove23",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "頑童MJ116 FRESH GAME (2LP/雙色混膠) 黑膠唱片 小春 大淵 瘦子e.so",
       "price": 2480,
       "condition": "Brand new",
@@ -61,7 +108,7 @@
       "priceStr": "NT$2,480",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 22:39",
+      "listedAt": "05/14 22:40",
       "pid": "1421191514",
       "verified": {
         "newPrice": 4000,
