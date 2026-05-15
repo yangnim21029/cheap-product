@@ -41,6 +41,12 @@ const QUERIES = [
   { q: 'Steam Deck', min: 5000, max: 20000, maxDays: 7 },
   { q: '掃地機器人', min: 3000, max: 25000, maxDays: 7 },
   { q: '氣炸鍋', min: 1000, max: 8000, maxDays: 7 },
+  { q: '筆電', min: 5000, max: 30000, maxDays: 7 },
+  { q: 'Kindle', min: 1000, max: 5000, maxDays: 7 },
+  { q: '電競椅', min: 2000, max: 10000, maxDays: 7 },
+  { q: '機械鍵盤', min: 500, max: 5000, maxDays: 7 },
+  { q: '美容儀', min: 2000, max: 12000, maxDays: 7 },
+  { q: '吸塵器', min: 3000, max: 15000, maxDays: 7 },
   // 無關鍵字瀏覽：雜訊高但偶有冷門品牌好物（SoundSticks 4 等）
   { q: '', min: 5000, max: 10000, maxDays: 1, label: '無關鍵字' },
 ];
