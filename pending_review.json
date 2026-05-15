@@ -50,17 +50,17 @@
     },
     {
       "seller": "ray3213",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "DJI mini 3 pro 暢飛",
       "price": 13000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1437947606/",
-      "category": "相機攝影",
-      "maxDays": 3,
+      "category": "dji",
+      "maxDays": 7,
       "priceStr": "NT$13,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 09:37",
+      "listedAt": "05/15 09:39",
       "pid": "1437947606",
       "verified": {
         "newPrice": 26690,
@@ -73,7 +73,7 @@
     },
     {
       "seller": "play_chillout",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Apple Watch Series 7 GPS 45mm 藍",
       "price": 3333,
       "condition": "Lightly used",
@@ -83,7 +83,7 @@
       "priceStr": "NT$3,333",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 10:37",
+      "listedAt": "05/15 10:39",
       "pid": "1437950296",
       "verified": {
         "newPrice": null,
@@ -93,12 +93,81 @@
       },
       "vsNew": null,
       "vsSecondhand": 83
+    },
+    {
+      "seller": "steve819107",
+      "timeAgo": "2 hours ago",
+      "title": "SONY 索尼 WF-1000XM5 旗艦真無線藍牙耳機 WF-1000XM4 WF-1000XM6 參考",
+      "price": 3990,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437997054/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,990",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 14:39",
+      "pid": "1437997054",
+      "verified": {
+        "newPrice": 7290,
+        "secondhand": 4500,
+        "note": "Sony WF-1000XM5 2023旗艦真無線公司貨$7,090-7,490(上市$9,990)。$3,990=89%二手中位⚠須查電池循環",
+        "source": "2026-05-15"
+      },
+      "vsNew": 55,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "zuesmanml962537",
+      "timeAgo": "26 minutes ago",
+      "title": "佳能Canon G5x冷白皮翻轉螢幕相機",
+      "price": 15000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438010012/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$15,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 16:13",
+      "pid": "1438010012",
+      "verified": {
+        "newPrice": 28000,
+        "secondhand": 17000,
+        "note": "Canon G5X Mark II公司貨$27K-30K二手$15K-20K(一代僅$8K-12K)。$15,000=88%⚠須確認Mark II 「冷白皮」抖音炒作詞",
+        "source": "2026-05-15"
+      },
+      "vsNew": 54,
+      "vsSecondhand": 88
+    },
+    {
+      "seller": "marioguo",
+      "timeAgo": "3 hours ago",
+      "title": "Fujifilm XF 16-80mm F4 R OIS 富士旅遊鏡頭",
+      "price": 9500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437986336/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$9,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 13:39",
+      "pid": "1437986336",
+      "verified": {
+        "newPrice": 25000,
+        "secondhand": 13000,
+        "note": "Fuji XF 16-80mm F4 R OIS WR紅標旅遊鏡公司貨$25K-28K平輸$16K，二手$11K-15K。$9,500=73%二手偏低⚠須查鏡片發霉",
+        "source": "2026-05-15"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 73
     }
   ],
   "uncertain": [
     {
       "seller": "baseballlove23",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "頑童MJ116 FRESH GAME (2LP/雙色混膠) 黑膠唱片 小春 大淵 瘦子e.so",
       "price": 2480,
       "condition": "Brand new",
@@ -108,7 +177,7 @@
       "priceStr": "NT$2,480",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 22:37",
+      "listedAt": "05/14 22:39",
       "pid": "1421191514",
       "verified": {
         "newPrice": 4000,
