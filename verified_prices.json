@@ -5313,6 +5313,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1437948826": {
+    "newPrice": 2290,
+    "secondhand": null,
+    "note": "Fuji instax mini 12 全新公司貨PChome$2,290。$2,900比新品還貴 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437948851": {
     "newPrice": 2200,
     "secondhand": 2500,
@@ -5351,6 +5358,20 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Stranger Things 顛倒世界 WSQK電台外套，影集周邊非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437955385": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "9.5公斤紫晶洞 xasrv 重複上架 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437955540": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "9.5公斤紫晶洞 xasrv 古玩礦石非目標 SKIP",
     "source": "2026-05-15",
     "skip": true
   },
@@ -5399,6 +5420,55 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Cortis 球專 K-pop周邊CD SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437973173": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Olivia Rodrigo drop dead CD+stick season單曲膠 一般CD非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437974369": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "CASIO CT-S1 61鍵電子琴 樂器非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437980692": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "魔道祖師廣播劇CD+忘羨壓克力立牌 動漫周邊非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437981671": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "鄧麗君永恆的巨星VCD 非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437982444": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "阿凡達火與燼4DX 3D特別場膜 電影周邊非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437985666": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "木紋手沖細口壺 $800 < $2K 不在 process 門檻 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437988482": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "麥可傑克森Bad World Tour紀念卡盒 周邊收藏非目標 SKIP",
     "source": "2026-05-15",
     "skip": true
   }

@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/15 12:40:00 · 累積已看 5733 筆 · 81 位賣家黑名單
+> 2026/5/15 14:37:45 · 累積已看 5733 筆 · 81 位賣家黑名單
 
 **待審：** 好貨 1 ｜ 殺價 3 ｜ 手動 2 ｜ 待查 0
 
@@ -21,8 +21,8 @@
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
 | [insta360] Insta360 X5 極新（無原廠盒裝） | **NT$10,000** | 新$16990 | 59% new | Like new | 05/15 05:37 | [→](https://tw.carousell.com/p/1437931889/) |
-| [dji] DJI mini 3 pro 暢飛 | **NT$13,000** | 新$26690 | 49% new | Lightly used | 05/15 09:40 | [→](https://tw.carousell.com/p/1437947606/) |
-| [apple watch] Apple Watch Series 7 GPS 45mm 藍 | **NT$3,333** | 二手$4000 | 83% 二手 | Lightly used | 05/15 10:40 | [→](https://tw.carousell.com/p/1437950296/) |
+| [相機攝影] DJI mini 3 pro 暢飛 | **NT$13,000** | 新$26690 | 49% new | Lightly used | 05/15 09:37 | [→](https://tw.carousell.com/p/1437947606/) |
+| [apple watch] Apple Watch Series 7 GPS 45mm 藍 | **NT$3,333** | 二手$4000 | 83% 二手 | Lightly used | 05/15 10:37 | [→](https://tw.carousell.com/p/1437950296/) |
 
 ## 🟠 手動判斷（2）
 
@@ -30,7 +30,7 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [黑膠] 頑童MJ116 FRESH GAME (2LP/雙色混膠) 黑膠唱片 小春 大淵 瘦子e. | **NT$2,480** | 新$4000 | 62% new | Brand new | 05/14 22:40 | [→](https://tw.carousell.com/p/1421191514/) |
+| [黑膠] 頑童MJ116 FRESH GAME (2LP/雙色混膠) 黑膠唱片 小春 大淵 瘦子e. | **NT$2,480** | 新$4000 | 62% new | Brand new | 05/14 22:37 | [→](https://tw.carousell.com/p/1421191514/) |
 | [音樂媒體] Zayn Konnakol 黑膠 | **NT$1,050** | 新$1500 | 70% new | undefined | undefined | [→](https://tw.carousell.com/p/1437899719/) |
 
 
