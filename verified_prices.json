@@ -143,6 +143,13 @@
     "note": "Thetford PP335 樂卡$3,790。$3,500=92%新品,折扣<10%",
     "source": "web search 2026-05-05"
   },
+  "1424658450": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Diamonds and Rust in the Bullring $2,400 as6666 看不出是不是黑膠+黑膠也偏高 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1424705956": {
     "newPrice": 5990,
     "secondhand": 3650,
@@ -725,6 +732,13 @@
     "secondhand": 7500,
     "note": "Sony a6000白色單機身二手$6.5K-9.5K中位$7.5K(白色非限量色)。$7,200普通中位 SKIP",
     "source": "2026-05-14",
+    "skip": true
+  },
+  "1431991701": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「收購」廣告(賣家想買不是賣)$999,999 SKIP",
+    "source": "2026-05-16",
     "skip": true
   },
   "1433316866": {
@@ -6654,6 +6668,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "鄧紫棋演唱會手燈 K-pop周邊非目標 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438108285": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "古典吉他 $18,500 brightmountain 樂器非目標 SKIP",
     "source": "2026-05-16",
     "skip": true
   }
