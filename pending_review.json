@@ -35,7 +35,7 @@
       "priceStr": "NT$800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 22:43",
+      "listedAt": "05/09 23:06",
       "pid": "1436944333",
       "verified": {
         "newPrice": 2700,
@@ -83,7 +83,7 @@
       "priceStr": "NT$13,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 09:43",
+      "listedAt": "05/15 10:06",
       "pid": "1437947606",
       "verified": {
         "newPrice": 26690,
@@ -106,7 +106,7 @@
       "priceStr": "NT$3,333",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 10:43",
+      "listedAt": "05/15 11:06",
       "pid": "1437950296",
       "verified": {
         "newPrice": null,
@@ -129,7 +129,7 @@
       "priceStr": "NT$3,990",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 14:43",
+      "listedAt": "05/15 15:06",
       "pid": "1437997054",
       "verified": {
         "newPrice": 7290,
@@ -175,7 +175,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 20:43",
+      "listedAt": "05/15 21:06",
       "pid": "1438052050",
       "verified": {
         "newPrice": 6490,
@@ -354,6 +354,24 @@
       },
       "vsNew": 65,
       "vsSecondhand": 87
+    },
+    {
+      "pid": "1431180510",
+      "title": "switch 遊戲片",
+      "price": 600,
+      "priceStr": "NT$600",
+      "url": "https://tw.carousell.com/p/1431180510/",
+      "seller": "rareowl.3d6f5f",
+      "timeAgo": "5 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 1500,
+        "secondhand": 800,
+        "note": "「switch 遊戲片」rareowl.3d6f5f $600=40%平均新品/75%二手 標題沒寫片名但價低需問賣家是哪片. 修正: Switch明示關注類別邊緣值改手動讓Rose看",
+        "source": "2026-05-15"
+      },
+      "vsNew": 40,
+      "vsSecondhand": 75
     }
   ]
 }

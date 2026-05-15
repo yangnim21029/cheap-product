@@ -545,11 +545,10 @@
     "note": "aespa Giselle 小卡 K-pop 非需求"
   },
   "1431180510": {
-    "newPrice": null,
-    "secondhand": null,
-    "note": "「switch 遊戲片」rareowl沒寫片名 $600 標題模糊 SKIP",
-    "source": "2026-05-15",
-    "skip": true
+    "newPrice": 1500,
+    "secondhand": 800,
+    "note": "「switch 遊戲片」rareowl.3d6f5f $600=40%平均新品/75%二手 標題沒寫片名但價低需問賣家是哪片. 修正: Switch明示關注類別邊緣值改手動讓Rose看",
+    "source": "2026-05-15"
   },
   "1431201757": {
     "newPrice": 3590,
