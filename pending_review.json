@@ -23,12 +23,35 @@
       },
       "vsNew": 59,
       "vsSecondhand": 71
+    },
+    {
+      "seller": "ray3213",
+      "timeAgo": "31 minutes ago",
+      "title": "DJI mini 3 pro 暢飛",
+      "price": 13000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1437947606/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$13,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 10:08",
+      "pid": "1437947606",
+      "verified": {
+        "newPrice": 26690,
+        "secondhand": 16000,
+        "note": "DJI Mini 3 Pro + DJI RC螢幕暢飛 台灣公司貨$26,690(已停產)。$13,000=81%二手中位若機況良好屬好價",
+        "source": "2026-05-15"
+      },
+      "vsNew": 49,
+      "vsSecondhand": 81
     }
   ],
   "uncertain": [
     {
       "seller": "baseballlove23",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "頑童MJ116 FRESH GAME (2LP/雙色混膠) 黑膠唱片 小春 大淵 瘦子e.so",
       "price": 2480,
       "condition": "Brand new",
@@ -38,7 +61,7 @@
       "priceStr": "NT$2,480",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 22:37",
+      "listedAt": "05/14 22:39",
       "pid": "1421191514",
       "verified": {
         "newPrice": 4000,
