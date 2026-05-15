@@ -1,9 +1,9 @@
 {
   "apple watch": {
-    "total": 6982,
-    "recentTotal": 2155,
+    "total": 7029,
+    "recentTotal": 2171,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:24:43.771Z"
+    "lastSeen": "2026-05-15T14:24:42.832Z"
   },
   "Vivienne Westwood": {
     "total": 190,
@@ -66,10 +66,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 7095,
-    "recentTotal": 330,
+    "total": 7143,
+    "recentTotal": 332,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:26:56.400Z"
+    "lastSeen": "2026-05-15T14:26:06.888Z"
   },
   "nespresso": {
     "total": 475,
@@ -78,10 +78,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 6995,
-    "recentTotal": 2096,
+    "total": 7043,
+    "recentTotal": 2110,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T10:27:08.812Z"
+    "lastSeen": "2026-05-15T14:26:28.956Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -90,15 +90,15 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 7018,
-    "recentTotal": 1008,
+    "total": 7066,
+    "recentTotal": 1011,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:26:26.364Z"
+    "lastSeen": "2026-05-15T14:25:40.188Z"
   },
   "VR": {
-    "total": 7076,
+    "total": 7124,
     "recentTotal": 439,
-    "zeroStreak": 5,
+    "zeroStreak": 6,
     "lastSeen": "2026-05-14T20:27:03.188Z"
   },
   "喇叭": {
@@ -108,10 +108,10 @@
     "lastSeen": "2026-05-15T12:25:31.817Z"
   },
   "音響": {
-    "total": 6902,
-    "recentTotal": 1909,
+    "total": 6950,
+    "recentTotal": 1928,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:26:00.239Z"
+    "lastSeen": "2026-05-15T14:25:13.502Z"
   },
   "咖啡機": {
     "total": 409,
@@ -120,9 +120,9 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 6726,
+    "total": 6774,
     "recentTotal": 351,
-    "zeroStreak": 5,
+    "zeroStreak": 6,
     "lastSeen": "2026-05-14T18:26:58.262Z"
   },
   "帳篷": {
@@ -132,16 +132,16 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 6571,
-    "recentTotal": 6282,
+    "total": 6619,
+    "recentTotal": 6330,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:30:58.153Z"
+    "lastSeen": "2026-05-15T14:31:32.056Z"
   },
   "露營": {
-    "total": 5238,
-    "recentTotal": 1441,
+    "total": 5286,
+    "recentTotal": 1450,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:27:54.160Z"
+    "lastSeen": "2026-05-15T14:27:54.415Z"
   },
   "地毯": {
     "total": 5035,
@@ -162,28 +162,28 @@
     "lastSeen": "2026-05-07T23:21:10.805Z"
   },
   "優格機": {
-    "total": 3522,
-    "recentTotal": 157,
+    "total": 3557,
+    "recentTotal": 158,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:28:45.908Z"
+    "lastSeen": "2026-05-15T14:28:24.078Z"
   },
   "手沖": {
-    "total": 3362,
-    "recentTotal": 490,
+    "total": 3409,
+    "recentTotal": 495,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:29:40.533Z"
+    "lastSeen": "2026-05-15T14:29:14.320Z"
   },
   "磨豆機": {
-    "total": 3596,
-    "recentTotal": 369,
+    "total": 3644,
+    "recentTotal": 371,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:29:08.599Z"
+    "lastSeen": "2026-05-15T14:28:49.522Z"
   },
   "除濕機": {
-    "total": 1919,
-    "recentTotal": 266,
+    "total": 1967,
+    "recentTotal": 275,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T08:28:58.627Z"
+    "lastSeen": "2026-05-15T14:29:44.833Z"
   },
   "dji": {
     "total": 2101,
@@ -192,21 +192,27 @@
     "lastSeen": "2026-05-15T08:29:28.400Z"
   },
   "insta360": {
-    "total": 2291,
-    "recentTotal": 607,
+    "total": 2339,
+    "recentTotal": 624,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T10:29:54.088Z"
+    "lastSeen": "2026-05-15T14:30:10.659Z"
   },
   "果汁機": {
-    "total": 1772,
-    "recentTotal": 449,
+    "total": 1820,
+    "recentTotal": 458,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-15T12:30:05.347Z"
+    "lastSeen": "2026-05-15T14:30:37.031Z"
   },
   "黑膠": {
     "total": 1675,
     "recentTotal": 734,
     "zeroStreak": 0,
     "lastSeen": "2026-05-15T12:30:28.856Z"
+  },
+  "Switch 遊戲片": {
+    "total": 48,
+    "recentTotal": 6,
+    "zeroStreak": 0,
+    "lastSeen": "2026-05-15T14:31:07.043Z"
   }
 }

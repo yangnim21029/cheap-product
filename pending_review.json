@@ -22,6 +22,29 @@
       },
       "vsNew": 12,
       "vsSecondhand": 60
+    },
+    {
+      "seller": "nisemono",
+      "timeAgo": "6 days ago",
+      "title": "Switch 遊戲片 蠟筆小新 我與博士的暑假 永不結束的七日之旅 UNDERTALE 二手",
+      "price": 800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1436944333/",
+      "category": "Switch 遊戲片",
+      "maxDays": 7,
+      "priceStr": "NT$800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 22:43",
+      "pid": "1436944333",
+      "verified": {
+        "newPrice": 2700,
+        "secondhand": 1500,
+        "note": "蠟筆小新+UNDERTALE兩片合售 per片$400 兩片公司貨各$1.2K-1.5K. $800兩片偏低⭐ Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 30,
+      "vsSecondhand": 53
     }
   ],
   "negotiate": [
@@ -50,7 +73,7 @@
     },
     {
       "seller": "ray3213",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "DJI mini 3 pro 暢飛",
       "price": 13000,
       "condition": "Lightly used",
@@ -60,7 +83,7 @@
       "priceStr": "NT$13,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 09:39",
+      "listedAt": "05/15 09:43",
       "pid": "1437947606",
       "verified": {
         "newPrice": 26690,
@@ -73,7 +96,7 @@
     },
     {
       "seller": "play_chillout",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Apple Watch Series 7 GPS 45mm 藍",
       "price": 3333,
       "condition": "Lightly used",
@@ -83,7 +106,7 @@
       "priceStr": "NT$3,333",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 10:39",
+      "listedAt": "05/15 10:43",
       "pid": "1437950296",
       "verified": {
         "newPrice": null,
@@ -96,7 +119,7 @@
     },
     {
       "seller": "steve819107",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "SONY 索尼 WF-1000XM5 旗艦真無線藍牙耳機 WF-1000XM4 WF-1000XM6 參考",
       "price": 3990,
       "condition": "Like new",
@@ -106,7 +129,7 @@
       "priceStr": "NT$3,990",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 14:39",
+      "listedAt": "05/15 14:43",
       "pid": "1437997054",
       "verified": {
         "newPrice": 7290,
@@ -142,17 +165,17 @@
     },
     {
       "seller": "wendygirl602",
-      "timeAgo": "12 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Marshall Emberton攜帶式藍牙喇叭",
       "price": 3000,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1438052050/",
-      "category": "喇叭",
+      "category": "音響耳機",
       "maxDays": 3,
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 20:27",
+      "listedAt": "05/15 20:43",
       "pid": "1438052050",
       "verified": {
         "newPrice": 6490,
@@ -205,6 +228,132 @@
       },
       "vsNew": 70,
       "vsSecondhand": null
+    },
+    {
+      "pid": "1437692608",
+      "title": "Switch遊戲片-超級瑪利歐 奧德賽 Super Mario Odyssey 中文版",
+      "price": 990,
+      "priceStr": "NT$990",
+      "url": "https://tw.carousell.com/p/1437692608/",
+      "seller": "mk.miriam",
+      "timeAgo": "2 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 1690,
+        "secondhand": 1050,
+        "note": "瑪利歐奧德賽中文版 公司貨$1.5K-1.79K二手$900-1.2K。$990=59%新品/94%二手中位偏低 Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 59,
+      "vsSecondhand": 94
+    },
+    {
+      "pid": "1437431358",
+      "title": "Switch遊戲片-雙人成行 It takes two",
+      "price": 750,
+      "priceStr": "NT$750",
+      "url": "https://tw.carousell.com/p/1437431358/",
+      "seller": "mk.miriam",
+      "timeAgo": "3 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 1590,
+        "secondhand": 800,
+        "note": "雙人成行It Takes Two 公司貨$1.49K-1.69K二手$700-900。$750=47%新品 熱門合作遊戲 Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 47,
+      "vsSecondhand": 94
+    },
+    {
+      "pid": "1437168789",
+      "title": "【9️⃣ 9️⃣ 成新】寶可夢朱/ Switch遊戲片❤️‍🔥",
+      "price": 1000,
+      "priceStr": "NT$1,000",
+      "url": "https://tw.carousell.com/p/1437168789/",
+      "seller": "kodayoff",
+      "timeAgo": "5 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 1890,
+        "secondhand": 1100,
+        "note": "寶可夢朱9.99成新 公司貨$1.79K-1.99K二手$900-1.3K。$1,000=53%新品近全新 Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 91
+    },
+    {
+      "pid": "1437223396",
+      "title": "薩爾達 switch 遊戲片",
+      "price": 1050,
+      "priceStr": "NT$1,050",
+      "url": "https://tw.carousell.com/p/1437223396/",
+      "seller": "nn_nnn",
+      "timeAgo": "5 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 1890,
+        "secondhand": 1100,
+        "note": "薩爾達Switch遊戲片 公司貨$1.79K-1.99K二手$900-1.3K。$1,050=56%新品 Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 56,
+      "vsSecondhand": 95
+    },
+    {
+      "pid": "1437223606",
+      "title": "Switch 遊戲片 霍格華茲 哈利波特",
+      "price": 1000,
+      "priceStr": "NT$1,000",
+      "url": "https://tw.carousell.com/p/1437223606/",
+      "seller": "nn_nnn",
+      "timeAgo": "5 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 1890,
+        "secondhand": 1000,
+        "note": "霍格華茲哈利波特傳承 公司貨$1.79K-1.99K二手$800-1.2K。$1,000=53%新品 Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 100
+    },
+    {
+      "pid": "1436862563",
+      "title": "二手 NS Switch 熱門遊戲 瑪利歐 奇諾比奧隊長、極速快感：超熱力追緝 重製版 兩片合售",
+      "price": 1450,
+      "priceStr": "NT$1,450",
+      "url": "https://tw.carousell.com/p/1436862563/",
+      "seller": "kenn.hsiao",
+      "timeAgo": "6 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 3380,
+        "secondhand": 1800,
+        "note": "瑪利歐奇諾比奧隊長+極速快感重製版兩片合售 per片$725. $1,450=43%兩片新品中位偏低 Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 43,
+      "vsSecondhand": 81
+    },
+    {
+      "pid": "1436842929",
+      "title": "寶可夢ZA SWITCH 2遊戲片",
+      "price": 1300,
+      "priceStr": "NT$1,300",
+      "url": "https://tw.carousell.com/p/1436842929/",
+      "seller": "crazyfa",
+      "timeAgo": "6 days ago",
+      "category": "Switch 遊戲片",
+      "verified": {
+        "newPrice": 1990,
+        "secondhand": 1500,
+        "note": "寶可夢ZA 2025新作Switch 2版 公司貨$1,790-1,990 Brand new $1,300=65%新品 Switch例外手動",
+        "source": "2026-05-15"
+      },
+      "vsNew": 65,
+      "vsSecondhand": 87
     }
   ]
 }

@@ -428,6 +428,13 @@
     "skip": true,
     "note": "NewJeans Haerin 日專 Supernatural & Right Now $718 hays762 K-pop"
   },
+  "1430610265": {
+    "newPrice": 1300,
+    "secondhand": 700,
+    "note": "末世騎士3 不熱門公司貨$1.2K-1.5K二手$500-800。$680=97%二手中位 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1430624599": {
     "newPrice": 5990,
     "secondhand": null,
@@ -449,6 +456,13 @@
     "secondhand": 30000,
     "note": "Canon EOS 5DS 全片幅 已停產 二手中位$30,000+。$17,800=59% → 殺價檻 (≥$3K ≤90% 二手)",
     "source": "web search 2026-05-11"
+  },
+  "1430825020": {
+    "newPrice": 1100,
+    "secondhand": 600,
+    "note": "無名鵝愛搗蛋 公司貨$1K-1.2K二手$500-700。$700=117%二手中位偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1430828965": {
     "newPrice": null,
@@ -512,6 +526,13 @@
     "skip": true,
     "note": "ZOOM MS-50G+ 電吉他綜合效果器 樂器非清單"
   },
+  "1431051488": {
+    "newPrice": 1890,
+    "secondhand": 600,
+    "note": "寶可夢盾「沒有封面」二手$500-700無封面殘缺。$875偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1431143131": {
     "newPrice": null,
     "secondhand": null,
@@ -522,6 +543,13 @@
   "1431147803": {
     "skip": true,
     "note": "aespa Giselle 小卡 K-pop 非需求"
+  },
+  "1431180510": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「switch 遊戲片」rareowl沒寫片名 $600 標題模糊 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1431201757": {
     "newPrice": 3590,
@@ -1742,6 +1770,13 @@
     "source": "web search 2026-05-08",
     "skip": true
   },
+  "1436666035": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "星之卡比Wii豪華版+寶可夢晶燦鑽石$750 標題混合「Wii」非Switch遊戲片 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1436672974": {
     "newPrice": 1190,
     "secondhand": null,
@@ -2023,6 +2058,12 @@
     "skip": true,
     "note": "Philips HR3041 超活氧調理機 $2,800 = 85% 新品 $3,288 / 140% 二手 $2,000 偏貴"
   },
+  "1436842929": {
+    "newPrice": 1990,
+    "secondhand": 1500,
+    "note": "寶可夢ZA 2025新作Switch 2版 公司貨$1,790-1,990 Brand new $1,300=65%新品 Switch例外手動",
+    "source": "2026-05-15"
+  },
   "1436843152": {
     "newPrice": 2290,
     "secondhand": null,
@@ -2055,6 +2096,12 @@
     "secondhand": null,
     "note": "BOSE Portable Smart Speaker 公司貨$14,900。$8,000=54% 進手動門檻",
     "source": "web search 2026-05-11"
+  },
+  "1436862563": {
+    "newPrice": 3380,
+    "secondhand": 1800,
+    "note": "瑪利歐奇諾比奧隊長+極速快感重製版兩片合售 per片$725. $1,450=43%兩片新品中位偏低 Switch例外手動",
+    "source": "2026-05-15"
   },
   "1436869826": {
     "newPrice": null,
@@ -2165,6 +2212,12 @@
     "note": "Insta360 Flow 2 Pro 公司貨$4,990（促銷$3,490）。$2,500=50%, ⚠ 強烈疑似仿品/詐騙(比最低促銷還低) SKIP",
     "source": "web search 2026-05-10",
     "skip": true
+  },
+  "1436944333": {
+    "newPrice": 2700,
+    "secondhand": 1500,
+    "note": "蠟筆小新+UNDERTALE兩片合售 per片$400 兩片公司貨各$1.2K-1.5K. $800兩片偏低⭐ Switch例外手動",
+    "source": "2026-05-15"
   },
   "1436945100": {
     "newPrice": 4980,
@@ -2311,6 +2364,13 @@
     "secondhand": null,
     "note": "Yo la tengo 黑膠 奈良美智封面 moz168"
   },
+  "1437069088": {
+    "newPrice": 1690,
+    "secondhand": 1500,
+    "note": "乙女虔誠之花的晚鐘1925/1926中文 冷門乙女遊戲。$3,000兩片中位無折扣 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437071856": {
     "newPrice": 11900,
     "secondhand": null,
@@ -2425,6 +2485,12 @@
     "secondhand": null,
     "note": "Marshall Stanmore II 公司貨$13,400 (已停產). $8,000=60% 進手動門檻",
     "source": "web search 2026-05-11"
+  },
+  "1437168789": {
+    "newPrice": 1890,
+    "secondhand": 1100,
+    "note": "寶可夢朱9.99成新 公司貨$1.79K-1.99K二手$900-1.3K。$1,000=53%新品近全新 Switch例外手動",
+    "source": "2026-05-15"
   },
   "1437171391": {
     "skip": true,
@@ -2612,6 +2678,32 @@
     "secondhand": null,
     "note": "二手立式電子琴 標題太籠統+非 Rose 需求 SKIP",
     "source": "manual 2026-05-11",
+    "skip": true
+  },
+  "1437223396": {
+    "newPrice": 1890,
+    "secondhand": 1100,
+    "note": "薩爾達Switch遊戲片 公司貨$1.79K-1.99K二手$900-1.3K。$1,050=56%新品 Switch例外手動",
+    "source": "2026-05-15"
+  },
+  "1437223606": {
+    "newPrice": 1890,
+    "secondhand": 1000,
+    "note": "霍格華茲哈利波特傳承 公司貨$1.79K-1.99K二手$800-1.2K。$1,000=53%新品 Switch例外手動",
+    "source": "2026-05-15"
+  },
+  "1437223741": {
+    "newPrice": 1390,
+    "secondhand": 700,
+    "note": "靈活腦學校 兒童遊戲公司貨$1.2K-1.5K。$750=107%二手中位偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437223965": {
+    "newPrice": 1690,
+    "secondhand": 1050,
+    "note": "瑪利歐U Deluxe nn_nnn $1,000=95%二手中位 SKIP",
+    "source": "2026-05-15",
     "skip": true
   },
   "1437225726": {
@@ -2986,6 +3078,20 @@
     "skip": true,
     "note": "YAMAHA PSR-S970 編曲鍵盤工作站 $15K 非清單樂器(KNOWN_DEAL_BRANDS 無 YAMAHA Psr)"
   },
+  "1437338289": {
+    "newPrice": 1690,
+    "secondhand": 1050,
+    "note": "瑪利歐派對超級巨星 bay73 $1,000=95%二手中位 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437338768": {
+    "newPrice": 1390,
+    "secondhand": 750,
+    "note": "角落小伙伴節奏派對 兒童遊戲公司貨$1.2K-1.5K。$720=96%二手中位 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437340762": {
     "skip": true,
     "note": "理想混蛋 Beatard 互動發光手燈 周邊非需求"
@@ -3176,6 +3282,13 @@
     "newPrice": 25000,
     "secondhand": null,
     "note": "Fujifilm XF 56mm F1.2 R 一代日本製停產 $14,500 = 58% 新品末期 $25,000 / 112% 二手中位 $13,000. 一代停產收藏向, 二手中位上緣, 要看實品成色與配件"
+  },
+  "1437383355": {
+    "newPrice": 1300,
+    "secondhand": 600,
+    "note": "殭屍部隊死亡戰爭4 不熱門公司貨$1.2K-1.5K。$600=100%二手中位 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1437386292": {
     "newPrice": 13000,
@@ -3403,6 +3516,12 @@
     "skip": true,
     "note": "Blueair D26i 二合一清淨除濕機 $10,500 = 105% momo 最低新品 $9,999. 新品還比這便宜"
   },
+  "1437431358": {
+    "newPrice": 1590,
+    "secondhand": 800,
+    "note": "雙人成行It Takes Two 公司貨$1.49K-1.69K二手$700-900。$750=47%新品 熱門合作遊戲 Switch例外手動",
+    "source": "2026-05-15"
+  },
   "1437432667": {
     "skip": true,
     "note": "王琳凱風尚志26年3月 A+B封面套裝+自拍小卡+拍立得 K-pop雜誌周邊非需求"
@@ -3569,6 +3688,13 @@
     "newPrice": 6890,
     "secondhand": null,
     "note": "AirPods Pro 2 $2,300「低價出」= 33% PChome $6,890. 標題短缺成色資訊, 比之前 $2,000 USB-C 在保(=29%好貨)略高"
+  },
+  "1437476280": {
+    "newPrice": 1100,
+    "secondhand": 700,
+    "note": "胡鬧廚房全都好吃 公司貨$1K-1.2K二手$500-800。$720=103%二手中位偏高 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1437476551": {
     "skip": true,
@@ -3795,9 +3921,11 @@
     "note": "壽山石芙蓉石羅漢印章 錢厓落款 $4,500 happygo5354 古玩"
   },
   "1437526709": {
-    "newPrice": 9390,
+    "newPrice": null,
     "secondhand": null,
-    "note": "Panasonic F-Y18PN 9L除濕機 99成新 $6,000 = 64% Panasonic官方 $9,390 / 79% 飛比最低 $7,606. 入門機新品差距小, 二手無保固CP不突出"
+    "note": "Panasonic F-Y18PN 9公升除濕機 sanling2333 之前已seen SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1437527267": {
     "skip": true,
@@ -3907,8 +4035,11 @@
     "note": "AirPods 4 ANC 全新未拆封 $5,000 poenhung = 84% PChome $5,990 只省 $990 不算 deal"
   },
   "1437558658": {
-    "skip": true,
-    "note": "日立除濕機 $6,000 catcake10122956 標題缺型號. RD-FJ 入門系列新機 $7,190 二手等同九折非deal, 只有 RD-HG/HS/VC/VJ 中高階(新機$11-23K)才有撿便宜空間. 缺型號等於沒錨點"
+    "newPrice": null,
+    "secondhand": null,
+    "note": "日立除濕機 catcake10122956 標題簡寫無型號 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1437558847": {
     "skip": true,
@@ -3993,6 +4124,13 @@
     "skip": true,
     "note": "Instax mini Evo $5,000 = 74% PChome 公司貨 $6,790, 比之前 $6,300 SKIP 那筆便宜 $1,300, 但二手95新中位 $5-5.5K 也持平, 沒到 deal 門檻"
   },
+  "1437586855": {
+    "newPrice": 1690,
+    "secondhand": 1050,
+    "note": "瑪利歐派對超級巨星 mk.miriam $980=93%二手中位 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1437587477": {
     "skip": true,
     "note": "龍婆Kong 2557 藥師佛 line_0900137361 line商家連續輪佛牌"
@@ -4000,6 +4138,13 @@
   "1437589894": {
     "skip": true,
     "note": "鄧麗君/難忘的 $2,000 kv0976028832658 標題未明黑膠/CD 模糊"
+  },
+  "1437591510": {
+    "newPrice": 1690,
+    "secondhand": 950,
+    "note": "超級瑪利歐派對 公司貨$1,500-1,790二手$800-1,100。$900=95%二手中位 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1437592555": {
     "skip": true,
@@ -4373,6 +4518,19 @@
     "skip": true,
     "note": "Walden T550 木吉他 $3,800 oldyard 樂器非清單"
   },
+  "1437691472": {
+    "newPrice": 1690,
+    "secondhand": 1150,
+    "note": "瑪利歐賽車8豪華版 公司貨$1,500-1,790二手$1K-1.3K。$1,050=91%二手中位無折扣 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1437692608": {
+    "newPrice": 1690,
+    "secondhand": 1050,
+    "note": "瑪利歐奧德賽中文版 公司貨$1.5K-1.79K二手$900-1.2K。$990=59%新品/94%二手中位偏低 Switch例外手動",
+    "source": "2026-05-15"
+  },
   "1437692725": {
     "skip": true,
     "note": "兒童拍立得全新 $650 jjjjiiieee 玩具不是真拍立得"
@@ -4432,6 +4590,13 @@
   "1437706196": {
     "skip": true,
     "note": "Fujitek FT-FN260 8吋空氣循環風扇 幾乎全新 $630. 新品最低 $990(博客來/Yahoo), 二手 $450-990. 只省 $360, 懶得搬就買新"
+  },
+  "1437706822": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「Switch遊戲片」nn_nnn沒寫片名 $1,000 標題模糊 SKIP",
+    "source": "2026-05-15",
+    "skip": true
   },
   "1437715891": {
     "skip": true,
@@ -5659,6 +5824,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1438016836": {
+    "newPrice": 11000,
+    "secondhand": 6000,
+    "note": "LG 12L樂金除濕機 公司貨$10K-12K二手$5K-7K。$8,000=133%二手中位偏高需林口自取 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1438018130": {
     "newPrice": null,
     "secondhand": null,
@@ -5691,6 +5863,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "我的英雄學院最終季唱片I 動漫OST非黑膠 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438021308": {
+    "newPrice": 4000,
+    "secondhand": 2500,
+    "note": "Whirlpool 6L除濕機WDEE06TW 公司貨$3K-4K二手$1.5K-2.5K。兩台$5,000=$2,500/台接近新品價無折扣 SKIP",
     "source": "2026-05-15",
     "skip": true
   },
@@ -5764,6 +5943,13 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1438037978": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「相機未側不退」$5,000 a52168標題太隨便 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
   "1438041242": {
     "newPrice": null,
     "secondhand": null,
@@ -5816,6 +6002,76 @@
     "newPrice": null,
     "secondhand": null,
     "note": "魔魔小舖泰國佛牌古巴磐石紅銅版 joewu1019商家批量 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438058159": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "浪LIVE絕版紀念娃娃 直播平台周邊非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438059457": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "GRAPE GA-M1木吉他 樂器非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438059630": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LEGO 21329 Fender Stratocaster二合一樂高吉他($2,999)，樂高玩具非音響/Rose目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438070763": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Hiby M300+Cayin RU7+DDHiFi TC09S 隨身播放器DAC套裝 非Rose目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438071572": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "早期美金硬幣 古錢幣非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438071967": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "複製裱框賈冕荷花工筆水墨畫 古玩非目標 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438072545": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Frank Ocean/Kendrick/Daft Punk/Mac Miller/JOJI 黑膠合集$10,300 maisonmartinemargiela 7張名盤平均$1,470/張 賣家批量 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438073539": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「客訂」chen970526 客製訂單看不出商品 SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438074069": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple AirPods Pro $2,000 xvs7hcrypp仿冒模式⚠第8次(fastest/MilesLee/beehived/lucien/mystic/boldstar/coolcat/xvs7hcrypp) SKIP",
+    "source": "2026-05-15",
+    "skip": true
+  },
+  "1438074955": {
+    "newPrice": null,
+    "secondhand": 5500,
+    "note": "Nikon D90+AF-P 18-55套機「如新展示機」 kincheer店家用語 D90二手套機$5K-7K中位 SKIP",
     "source": "2026-05-15",
     "skip": true
   }
