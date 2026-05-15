@@ -3163,6 +3163,13 @@
     "skip": true,
     "note": "AirPods 4 ANC 全新未拆 $5,000 carouselml 批量reseller(已加 shops), 比 PChome 蝦皮個人都貴"
   },
+  "1437320845": {
+    "newPrice": 22000,
+    "secondhand": 15500,
+    "note": "ASUS X1502VA i5-13420H 16G/512金 公司貨$19K-25K二手$13K-18K。$15,000=97%二手中位無折扣 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
   "1437320867": {
     "skip": true,
     "note": "Porter cable 工地工作 LED 燈 非家用立燈"
@@ -6583,11 +6590,24 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1438090929": {
+    "newPrice": 11900,
+    "secondhand": null,
+    "note": "Apple Watch S6 40mm GPS電池83% 公司貨原$11,900停產。二手電池差行情$2K-3K。$2,500=21%新品 cats_three666標題具體含電池非仿冒模式 手動",
+    "source": "2026-05-16"
+  },
   "1438094848": {
     "newPrice": 10990,
     "secondhand": 6000,
     "note": "OVO U1智慧投影機 公司貨$9.9K-12.9K二手$4K-7K中位$6K。$5,000=46%新品/83%二手中位偏低",
     "source": "2026-05-16"
+  },
+  "1438095823": {
+    "newPrice": null,
+    "secondhand": 6000,
+    "note": "Sony RX100 M1 2012停產 二手$5K-7K中位$6K。$5,500=92%二手中位無折扣 SKIP",
+    "source": "2026-05-16",
+    "skip": true
   },
   "1438099456": {
     "newPrice": null,
@@ -6620,6 +6640,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "「一刀」tokyo1129連5筆收藏品商家 SKIP",
+    "source": "2026-05-16",
+    "skip": true
+  },
+  "1438101158": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon SD960is(=IXUS 110 IS) CCD 2009 johnson256 正常二手$1.5K-3K。$6,200=200%+抖音炒作貴一倍 SKIP",
     "source": "2026-05-16",
     "skip": true
   },

@@ -68,6 +68,29 @@
       },
       "vsNew": 24,
       "vsSecondhand": 63
+    },
+    {
+      "seller": "cats_three666",
+      "timeAgo": "4 hours ago",
+      "title": "Apple watch s6 gps 40mm 🔋 83%",
+      "price": 2500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438090929/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 00:41",
+      "pid": "1438090929",
+      "verified": {
+        "newPrice": 11900,
+        "secondhand": null,
+        "note": "Apple Watch S6 40mm GPS電池83% 公司貨原$11,900停產。二手電池差行情$2K-3K。$2,500=21%新品 cats_three666標題具體含電池非仿冒模式 手動",
+        "source": "2026-05-16"
+      },
+      "vsNew": 21,
+      "vsSecondhand": null
     }
   ],
   "negotiate": [
@@ -83,7 +106,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 02:41",
+      "listedAt": "05/15 04:41",
       "pid": "1431950776",
       "verified": {
         "newPrice": null,
@@ -96,7 +119,7 @@
     },
     {
       "seller": "ilove8105106993",
-      "timeAgo": "2 days ago",
+      "timeAgo": "3 days ago",
       "title": "Macbook Air 13.6吋 2022 M2版 8G/256G 蘋果 筆電 星光色",
       "price": 16000,
       "condition": "Lightly used",
@@ -106,7 +129,7 @@
       "priceStr": "NT$16,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 02:41",
+      "listedAt": "05/13 04:41",
       "pid": "1437650339",
       "verified": {
         "newPrice": 32900,
@@ -129,7 +152,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 02:41",
+      "listedAt": "05/14 04:41",
       "pid": "1437707149",
       "verified": {
         "newPrice": 14580,
@@ -142,7 +165,7 @@
     },
     {
       "seller": "fish26_bear",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "3 hours ago",
       "title": "OVO U1智慧投影機",
       "price": 5000,
       "condition": "Brand new",
