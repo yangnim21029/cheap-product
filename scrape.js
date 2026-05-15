@@ -36,6 +36,7 @@ const QUERIES = [
   { q: 'insta360', min: 2000, max: 25000, maxDays: 7 },
   { q: '果汁機', min: 500, max: 10000, maxDays: 7 },
   { q: '黑膠', min: 500, max: 8000, maxDays: 7 },
+  { q: 'Switch 遊戲片', min: 500, max: 5000, maxDays: 7 },
   // 無關鍵字瀏覽：雜訊高但偶有冷門品牌好物（SoundSticks 4 等）
   { q: '', min: 5000, max: 10000, maxDays: 1, label: '無關鍵字' },
 ];
