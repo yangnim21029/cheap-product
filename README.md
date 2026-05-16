@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/16 06:41:08 · 累積已看 6252 筆 · 93 位賣家黑名單
+> 2026/5/16 08:40:23 · 累積已看 6252 筆 · 94 位賣家黑名單
 
 **待審：** 好貨 4 ｜ 殺價 4 ｜ 手動 9 ｜ 待查 0
 
@@ -13,9 +13,9 @@
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
 | [apple watch] Apple watch s6 gps 40mm 🔋 83% | **NT$2,500** | 新$11900 | 21% new | Lightly used | 05/16 00:41 | [→](https://tw.carousell.com/p/1438090929/) |
-| [機械鍵盤] Keychron K2 第三代 75% 雙模無線機械鍵盤 透光 白背光 非熱插拔 | **NT$980** | 新$3490 | 28% new | Lightly used | 05/14 06:41 | [→](https://tw.carousell.com/p/1437696730/) |
+| [機械鍵盤] Keychron K2 第三代 75% 雙模無線機械鍵盤 透光 白背光 非熱插拔 | **NT$980** | 新$3490 | 28% new | Lightly used | 05/13 08:40 | [→](https://tw.carousell.com/p/1437696730/) |
 | [相印機] HP sprocket口袋型相印機 免墨水相片印表機 | **NT$950** | 新$3990 | 24% new | Lightly used | 05/16 02:41 | [→](https://tw.carousell.com/p/1438100177/) |
-| [機械鍵盤] 機械鍵盤 Keychron Q2 65% 熱插拔 | **NT$1,500** | 新$3790 | 40% new | Lightly used | 05/15 12:41 | [→](https://tw.carousell.com/p/1437974574/) |
+| [機械鍵盤] 機械鍵盤 Keychron Q2 65% 熱插拔 | **NT$1,500** | 新$3790 | 40% new | Lightly used | 05/15 12:40 | [→](https://tw.carousell.com/p/1437974574/) |
 
 ## 🟡 殺價（4）
 
@@ -23,8 +23,8 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [PS5] Ps5 1218數位版 近全新 很少使用 跟ps4 pro | **NT$10,000** | 新$14580 | 69% new | Lightly used | 05/14 04:41 | [→](https://tw.carousell.com/p/1437707149/) |
-| OVO U1智慧投影機 | **NT$5,000** | 新$10990 | 45% new | Brand new | 05/16 00:41 | [→](https://tw.carousell.com/p/1438094848/) |
+| [PS5] Ps5 1218數位版 近全新 很少使用 跟ps4 pro | **NT$10,000** | 新$14580 | 69% new | Lightly used | 05/14 08:40 | [→](https://tw.carousell.com/p/1437707149/) |
+| [投影機] OVO U1智慧投影機 | **NT$5,000** | 新$10990 | 45% new | Brand new | 05/16 01:40 | [→](https://tw.carousell.com/p/1438094848/) |
 | [筆電] Macbook Air 13.6吋 2022 M2版 8G/256G 蘋果 筆電 星光色 | **NT$16,000** | 新$32900 | 49% new | Lightly used | 05/13 06:41 | [→](https://tw.carousell.com/p/1437650339/) |
 | [筆電] Apple筆電MacBook Pro （15寸, 2018) | **NT$12,500** | 二手$14000 | 89% 二手 | Like new | 05/15 06:41 | [→](https://tw.carousell.com/p/1431950776/) |
 
