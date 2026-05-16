@@ -42,7 +42,7 @@ const QUERIES = [
   { q: '掃地機器人', min: 3000, max: 25000, maxDays: 7 },
   { q: '氣炸鍋', min: 1000, max: 8000, maxDays: 7 },
   { q: '筆電', min: 5000, max: 30000, maxDays: 7 },
-  { q: 'Kindle', min: 1000, max: 5000, maxDays: 7 },
+  // { q: 'Kindle', min: 1000, max: 5000, maxDays: 7 }, // 暫停：連續10輪空 2026-05-16 (Kindle 台灣多人海外直購, Carousell 稀有)
   { q: '電競椅', min: 2000, max: 10000, maxDays: 7 },
   { q: '機械鍵盤', min: 500, max: 5000, maxDays: 7 },
   { q: '美容儀', min: 2000, max: 12000, maxDays: 7 },

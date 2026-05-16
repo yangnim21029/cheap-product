@@ -12,7 +12,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 20:44",
+      "listedAt": "05/14 22:44",
       "pid": "1431994700",
       "verified": {
         "newPrice": 13000,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "jau537125356",
-      "timeAgo": "59 minutes ago",
+      "timeAgo": "5 hours ago",
       "title": "Dyson v10無線吸塵器，可連續運轉63分鐘",
       "price": 3300,
       "condition": "Lightly used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$3,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 17:45",
+      "listedAt": "05/16 17:44",
       "pid": "1438208124",
       "verified": {
         "newPrice": 16000,
@@ -45,12 +45,35 @@
       },
       "vsNew": 21,
       "vsSecondhand": 37
+    },
+    {
+      "seller": "bryan6965",
+      "timeAgo": "3 hours ago",
+      "title": "dyson micro 1.5kg sv21 極輕量吸塵器",
+      "price": 3770,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438227140/",
+      "category": "吸塵器",
+      "maxDays": 7,
+      "priceStr": "NT$3,770",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 19:44",
+      "pid": "1438227140",
+      "verified": {
+        "newPrice": 15000,
+        "secondhand": 8500,
+        "note": "Dyson Micro SV21 1.5kg極輕量 公司貨$14K-16K二手$7K-10K。$3,770=25%新品⭐⚠顯著低於行情(同 jau537125356 V10模式)可能瑕疵/水貨 bryan6965",
+        "source": "2026-05-16"
+      },
+      "vsNew": 25,
+      "vsSecondhand": 44
     }
   ],
   "negotiate": [
     {
       "seller": "randombrogue",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "可議價 ASUS 華碩VG259QMR5A 電競螢幕(25型/FHD/310Hz/0.3ms/IPS)",
       "price": 3500,
       "condition": "Like new",
@@ -83,7 +106,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 20:44",
+      "listedAt": "05/15 22:44",
       "pid": "1437967850",
       "verified": {
         "newPrice": 18000,
@@ -119,7 +142,7 @@
     },
     {
       "seller": "1205_yu",
-      "timeAgo": "41 minutes ago",
+      "timeAgo": "3 hours ago",
       "title": "YAMAN美容儀",
       "price": 6000,
       "condition": "Brand new",
@@ -129,7 +152,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 20:03",
+      "listedAt": "05/16 19:44",
       "pid": "1438234181",
       "verified": {
         "newPrice": 12000,
@@ -142,7 +165,7 @@
     },
     {
       "seller": "meimei.059662",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "JOVS 超秒黑金嫩膚儀",
       "price": 9680,
       "condition": "Like new",
@@ -162,6 +185,30 @@
       },
       "vsNew": 57,
       "vsSecondhand": 88
+    },
+    {
+      "seller": "shih_shih2597",
+      "timeAgo": "4 hours ago",
+      "title": "這是一個 Tokina AT-X PRO 80-200mm F2.8 的鏡頭及其原廠包裝盒。鏡頭型號：Tokina AT-X 828AF PRO，焦距為 80-200mm，具備 F2.8 的恆定大光圈。定位：這是 Tokina 早期著名的專業級鏡頭，以扎實的金屬做工和優良的用料著稱。",
+      "price": 5650,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438224742/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$5,650",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 18:44",
+      "pid": "1438224742",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 6500,
+        "note": "Tokina AT-X Pro 80-200mm F2.8老鏡 二手$5K-8K。$5,650=87%二手中位 shih_shih2597 SKIP",
+        "source": "2026-05-16",
+        "skip": true
+      },
+      "vsNew": null,
+      "vsSecondhand": 87
     }
   ],
   "uncertain": [
@@ -200,7 +247,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 20:44",
+      "listedAt": "05/15 22:44",
       "pid": "1438020581",
       "verified": {
         "newPrice": 4990,
