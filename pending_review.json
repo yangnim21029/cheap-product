@@ -12,7 +12,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 16:45",
+      "listedAt": "05/14 20:44",
       "pid": "1431994700",
       "verified": {
         "newPrice": 13000,
@@ -50,7 +50,7 @@
   "negotiate": [
     {
       "seller": "randombrogue",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "可議價 ASUS 華碩VG259QMR5A 電競螢幕(25型/FHD/310Hz/0.3ms/IPS)",
       "price": 3500,
       "condition": "Like new",
@@ -60,7 +60,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 11:45",
+      "listedAt": "05/16 11:44",
       "pid": "1438132043",
       "verified": {
         "newPrice": 7500,
@@ -83,7 +83,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 16:45",
+      "listedAt": "05/15 20:44",
       "pid": "1437967850",
       "verified": {
         "newPrice": 18000,
@@ -116,6 +116,52 @@
       },
       "vsNew": 56,
       "vsSecondhand": 86
+    },
+    {
+      "seller": "1205_yu",
+      "timeAgo": "41 minutes ago",
+      "title": "YAMAN美容儀",
+      "price": 6000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1438234181/",
+      "category": "美容儀",
+      "maxDays": 7,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 20:03",
+      "pid": "1438234181",
+      "verified": {
+        "newPrice": 12000,
+        "secondhand": 8000,
+        "note": "YA-MAN美容儀(無型號)公司貨$10K-15K二手$6K-10K。$6,000=50%新品/75%二手⭐偏低 1205_yu",
+        "source": "2026-05-16"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 75
+    },
+    {
+      "seller": "meimei.059662",
+      "timeAgo": "4 hours ago",
+      "title": "JOVS 超秒黑金嫩膚儀",
+      "price": 9680,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1426163582/",
+      "category": "美容儀",
+      "maxDays": 7,
+      "priceStr": "NT$9,680",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 16:44",
+      "pid": "1426163582",
+      "verified": {
+        "newPrice": 17000,
+        "secondhand": 11000,
+        "note": "JOVS超秒黑金嫩膚儀 公司貨$15K-20K二手$9K-13K。$9,680=57%新品/88%二手偏低 meimei.059662",
+        "source": "2026-05-16"
+      },
+      "vsNew": 57,
+      "vsSecondhand": 88
     }
   ],
   "uncertain": [
@@ -154,7 +200,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 18:44",
+      "listedAt": "05/15 20:44",
       "pid": "1438020581",
       "verified": {
         "newPrice": 4990,
@@ -182,6 +228,47 @@
       },
       "vsNew": 56,
       "vsSecondhand": 93
+    },
+    {
+      "pid": "1438228814",
+      "title": "Billie Eilish hit me hard and soft 噴漆黑膠 潑濺彩膠 怪奇比莉",
+      "price": 1140,
+      "priceStr": "NT$1,140",
+      "url": "https://tw.carousell.com/p/1438228814/",
+      "seller": "ashleyhung1277",
+      "timeAgo": "1 hour ago",
+      "category": "音樂媒體",
+      "verified": {
+        "newPrice": 1500,
+        "secondhand": null,
+        "note": "Billie Eilish hit me hard and soft 噴漆潑濺彩膠 限量盤約$1K-1.5K。$1,140=76%新品⭐ ashleyhung1277 黑膠例外手動",
+        "source": "2026-05-16"
+      },
+      "vsNew": 76,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "edwina_choi",
+      "timeAgo": "3 hours ago",
+      "title": "Byredo Fleur Fantôme 叢花魅影 居家香氛噴霧",
+      "price": 2000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438205838/",
+      "category": "香氛",
+      "maxDays": 7,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 17:44",
+      "pid": "1438205838",
+      "verified": {
+        "newPrice": 4500,
+        "secondhand": null,
+        "note": "Byredo Fleur Fantôme叢花魅影居家香氛噴霧 公司貨$4K-5K。$2,000=44%新品⭐ edwina_choi 香氛例外手動",
+        "source": "2026-05-16"
+      },
+      "vsNew": 44,
+      "vsSecondhand": null
     }
   ]
 }
