@@ -1,51 +1,36 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/16 12:42:36 · 累積已看 6252 筆 · 94 位賣家黑名單
+> 2026/5/16 14:52:11 · 累積已看 6815 筆 · 98 位賣家黑名單
 
-**待審：** 好貨 4 ｜ 殺價 5 ｜ 手動 11 ｜ 待查 0
+**待審：** 好貨 1 ｜ 殺價 3 ｜ 手動 1 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
-## 🟢 好貨（4）
+## 🟢 好貨（1）
 
 > 通過自動門檻，可直接買
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [apple watch] Apple watch s6 gps 40mm 🔋 83% | **NT$2,500** | 新$11900 | 21% new | Lightly used | 05/16 00:40 | [→](https://tw.carousell.com/p/1438090929/) |
-| [機械鍵盤] Keychron K2 第三代 75% 雙模無線機械鍵盤 透光 白背光 非熱插拔 | **NT$980** | 新$3490 | 28% new | Lightly used | 05/13 12:42 | [→](https://tw.carousell.com/p/1437696730/) |
-| [相印機] HP sprocket口袋型相印機 免墨水相片印表機 | **NT$950** | 新$3990 | 24% new | Lightly used | 05/16 02:42 | [→](https://tw.carousell.com/p/1438100177/) |
-| [機械鍵盤] 機械鍵盤 Keychron Q2 65% 熱插拔 | **NT$1,500** | 新$3790 | 40% new | Lightly used | 05/15 12:42 | [→](https://tw.carousell.com/p/1437974574/) |
+| [螢幕] Zowie XL2731K 165Hz DyAc 27吋專業電競螢幕 | **NT$3,500** | 新$13000 | 27% new | Lightly used | 05/14 14:52 | [→](https://tw.carousell.com/p/1431994700/) |
 
-## 🟡 殺價（5）
+## 🟡 殺價（3）
 
 > 價格已合理但還能再殺，看你殺得到嗎
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [insta360] Insta360X3 | **NT$6,500** | 新$13900 | 47% new | Like new | 05/16 10:42 | [→](https://tw.carousell.com/p/1438124228/) |
-| [筆電] Macbook Air 13.6吋 2022 M2版 8G/256G 蘋果 筆電 星光色 | **NT$15,000** | 新$32900 | 46% new | Lightly used | 05/13 12:42 | [→](https://tw.carousell.com/p/1437650339/) |
-| [PS5] Ps5 1218數位版 近全新 很少使用 跟ps4 pro | **NT$10,000** | 新$14580 | 69% new | Lightly used | 05/13 12:42 | [→](https://tw.carousell.com/p/1437707149/) |
-| [投影機] （全新）（未拆封）OVO U1智慧投影機 | **NT$5,000** | 新$10990 | 45% new | Brand new | 05/16 01:42 | [→](https://tw.carousell.com/p/1438094848/) |
-| [筆電] Apple筆電MacBook Pro （15寸, 2018) | **NT$12,500** | 二手$14000 | 89% 二手 | Like new | 05/14 12:42 | [→](https://tw.carousell.com/p/1431950776/) |
+| [螢幕] 可議價 ASUS 華碩VG259QMR5A 電競螢幕(25型/FHD/310Hz/0.3m | **NT$3,500** | 新$7500 | 47% new | Like new | 05/16 11:52 | [→](https://tw.carousell.com/p/1438132043/) |
+| [螢幕] ASUS華碩ROG STRIX XG32UQ 16:9 32吋UHD/4K電競螢幕 | **NT$8,000** | 新$18000 | 44% new | Like new | 05/15 14:52 | [→](https://tw.carousell.com/p/1437967850/) |
+| [烤箱] VOTO韓國第一 氣炸烤箱 14L | **NT$5,600** | 新$9990 | 56% new | Brand new | 05/12 14:52 | [→](https://tw.carousell.com/p/1437498719/) |
 
-## 🟠 手動判斷（11）
+## 🟠 手動判斷（1）
 
 > 二手樣本不足或邊緣值，手動評估
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [dji] DJI OSMO Mobile8 手機穩定軸 雲台 | **NT$2,500** | 新$4290 | 58% new | Like new | 05/16 09:42 | [→](https://tw.carousell.com/p/1438119701/) |
-| [機械鍵盤] CHERRY 櫻桃 MX2.0S 三模無線機械鍵盤 | **NT$1,195** | 新$2790 | 43% new | undefined | undefined | [→](https://tw.carousell.com/p/1420578017/) |
-| [美容儀] ZIIP美容儀 | **NT$8,500** | 新$16000 | 53% new | undefined | undefined | [→](https://tw.carousell.com/p/1437844424/) |
-| [果汁機] 卡爾果汁機 | **NT$500** | 新$1500 | 33% new | undefined | undefined | [→](https://tw.carousell.com/p/1438142632/) |
-| [黑膠] To the moon and back 致敬坂本龍一 雙黑膠 | **NT$1,200** | 新$1500 | 80% new | undefined | undefined | [→](https://tw.carousell.com/p/1438080723/) |
-| [機械鍵盤] Knewkey Rymek 復古機械鍵盤｜Cherry MX 茶軸｜近全新｜藍牙/USB  | **NT$2,400** | 新$4500 | 53% new | undefined | undefined | [→](https://tw.carousell.com/p/1438004366/) |
-| [黑膠] 落日飛車 Bossa nova 黑膠 近全新 小傷 | **NT$900** | 新$1200 | 75% new | undefined | undefined | [→](https://tw.carousell.com/p/1438079893/) |
-| [黑膠] 藍色恐懼 Perfect Blue 今敏 黑膠 | **NT$1,500** | 新$2000 | 75% new | undefined | undefined | [→](https://tw.carousell.com/p/1438078717/) |
-| [美容儀] #全新 Medicube Age-R Booster Pro Mini plus美容儀 | **NT$2,400** | 新$3490 | 69% new | undefined | undefined | [→](https://tw.carousell.com/p/1437036600/) |
-| [黑膠] 落日飛車 金桔希子 黑膠 有傷 | **NT$850** | 新$1200 | 71% new | undefined | undefined | [→](https://tw.carousell.com/p/1438081313/) |
-| [黑膠] 落日飛車cassa nova 黑膠 全新小傷 | **NT$1,100** | 新$1300 | 85% new | undefined | undefined | [→](https://tw.carousell.com/p/1438079293/) |
+| [烤箱] *全新* acerpure CHEF KV1 智慧溫控蒸氣烤箱 | **NT$4,500** | 新$9990 | 45% new | Brand new | 05/09 14:52 | [→](https://tw.carousell.com/p/1437002495/) |
 
 
 ---

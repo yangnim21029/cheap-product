@@ -1,5 +1,123 @@
 {
-  "newDeals": [],
-  "negotiate": [],
-  "uncertain": []
+  "newDeals": [
+    {
+      "seller": "nhnthvx7ns",
+      "timeAgo": "2 days ago",
+      "title": "Zowie XL2731K 165Hz DyAc 27吋專業電競螢幕",
+      "price": 3500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1431994700/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/14 14:52",
+      "pid": "1431994700",
+      "verified": {
+        "newPrice": 13000,
+        "secondhand": 6000,
+        "note": "Zowie XL2731K 27吋專業電競螢幕 165Hz DyAc 公司貨$13K二手$5K-7K。$3,500=27%新品⭐顯著低於行情",
+        "source": "2026-05-16"
+      },
+      "vsNew": 27,
+      "vsSecondhand": 58
+    }
+  ],
+  "negotiate": [
+    {
+      "seller": "randombrogue",
+      "timeAgo": "3 hours ago",
+      "title": "可議價 ASUS 華碩VG259QMR5A 電競螢幕(25型/FHD/310Hz/0.3ms/IPS)",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438132043/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 11:52",
+      "pid": "1438132043",
+      "verified": {
+        "newPrice": 7500,
+        "secondhand": 4500,
+        "note": "ASUS VG259QMR5A 25吋FHD 310Hz IPS電競螢幕 公司貨$7K-8K二手$4K-5K。$3,500=47%新品/78%二手偏低⭐",
+        "source": "2026-05-16"
+      },
+      "vsNew": 47,
+      "vsSecondhand": 78
+    },
+    {
+      "seller": "joyce501",
+      "timeAgo": "1 day ago",
+      "title": "ASUS華碩ROG STRIX XG32UQ 16:9 32吋UHD/4K電競螢幕",
+      "price": 8000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1437967850/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 14:52",
+      "pid": "1437967850",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 10000,
+        "note": "ASUS ROG STRIX XG32UQ 32吋4K 16:9 電競螢幕 公司貨$18K-22K二手$8K-12K。$8,000=44%新品/80%二手偏低 joyce501",
+        "source": "2026-05-16"
+      },
+      "vsNew": 44,
+      "vsSecondhand": 80
+    },
+    {
+      "seller": "doradora0829",
+      "timeAgo": "4 days ago",
+      "title": "VOTO韓國第一 氣炸烤箱 14L",
+      "price": 5600,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437498719/",
+      "category": "烤箱",
+      "maxDays": 7,
+      "priceStr": "NT$5,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/12 14:52",
+      "pid": "1437498719",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 6500,
+        "note": "VOTO韓國氣炸烤箱14L 公司貨$9,990二手$6K-7K。$5,600=56%新品/86%二手偏低 doradora0829",
+        "source": "2026-05-16"
+      },
+      "vsNew": 56,
+      "vsSecondhand": 86
+    }
+  ],
+  "uncertain": [
+    {
+      "seller": "paul7342002",
+      "timeAgo": "7 days ago",
+      "title": "*全新* acerpure CHEF KV1 智慧溫控蒸氣烤箱",
+      "price": 4500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437002495/",
+      "category": "烤箱",
+      "maxDays": 7,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/09 14:52",
+      "pid": "1437002495",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": null,
+        "note": "acerpure CHEF KV1智慧溫控蒸氣烤箱 公司貨$9,990全新$4,500=45%新品⭐ paul7342002",
+        "source": "2026-05-16"
+      },
+      "vsNew": 45,
+      "vsSecondhand": null
+    }
+  ]
 }
