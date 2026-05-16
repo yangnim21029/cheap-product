@@ -40,6 +40,7 @@ const CURRENT_QUERIES = [
   'dji', 'insta360', '果汁機', '黑膠', 'Switch 遊戲片',
   'PS5', 'Steam Deck', '掃地機器人', '氣炸鍋',
   '筆電', 'Kindle', '電競椅', '機械鍵盤', '美容儀', '吸塵器',
+  'iPad', '螢幕', '三腳架', '烤箱', '行動電源', '瑜珈墊', '香氛', 'Refa',
 ];
 const CURRENT_CATEGORIES = [
   '家具居家', '美妝保養', '精品', '手機平板', '家電影音', '音響耳機',
