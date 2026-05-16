@@ -1,5 +1,94 @@
 {
   "newDeals": [],
-  "negotiate": [],
-  "uncertain": []
+  "negotiate": [
+    {
+      "seller": "farewellt64866",
+      "timeAgo": "8 minutes ago",
+      "title": "Lenovo Thinkbook 13sg2 ITL i5-1135G7 商務筆電",
+      "price": 6000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438280686/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/17 00:35",
+      "pid": "1438280686",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 8500,
+        "note": "Lenovo Thinkbook 13sg2 i5-1135G7商務 已停產二手$7K-10K。$6,000=71%二手低於行情⭐ farewellt64866",
+        "source": "2026-05-17"
+      },
+      "vsNew": null,
+      "vsSecondhand": 71
+    },
+    {
+      "seller": "f5aarko",
+      "timeAgo": "1 hour ago",
+      "title": "Sony wh-1000xm5",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438271763/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 23:43",
+      "pid": "1438271763",
+      "verified": {
+        "newPrice": 11900,
+        "secondhand": 5500,
+        "note": "Sony WH-1000XM5 公司貨$11,900二手$5K-6K。$4,500=38%新品/82%二手偏低⭐(同 patrol 79 newhihi12 同價)",
+        "source": "2026-05-17"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 82
+    }
+  ],
+  "uncertain": [
+    {
+      "pid": "1438269967",
+      "title": "Aphex twin-selected ambient works85-92[LP]",
+      "price": 900,
+      "priceStr": "NT$900",
+      "url": "https://tw.carousell.com/p/1438269967/",
+      "seller": "krisktaker_",
+      "timeAgo": "1 hour ago",
+      "category": "音樂媒體",
+      "verified": {
+        "newPrice": 1500,
+        "secondhand": null,
+        "note": "Aphex Twin Selected Ambient Works 85-92 LP 經典IDM新品$1.5K-2K。$900=60%新品⭐ krisktaker_ 黑膠例外手動",
+        "source": "2026-05-17"
+      },
+      "vsNew": 60,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "a_tian96",
+      "timeAgo": "1 hour ago",
+      "title": "Fosi im4",
+      "price": 2200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438270282/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 23:43",
+      "pid": "1438270282",
+      "verified": {
+        "newPrice": 5500,
+        "secondhand": null,
+        "note": "Fosi IM4入耳式IEM 公司貨$5K-6K。$2,200=40%新品⭐ a_tian96 手動",
+        "source": "2026-05-17"
+      },
+      "vsNew": 40,
+      "vsSecondhand": null
+    }
+  ]
 }
