@@ -12,7 +12,7 @@
       "priceStr": "NT$980",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 08:40",
+      "listedAt": "05/13 10:40",
       "pid": "1437696730",
       "verified": {
         "newPrice": 3490,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "kokonatree",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "機械鍵盤 Keychron Q2 65% 熱插拔",
       "price": 1500,
       "condition": "Lightly used",
@@ -48,7 +48,7 @@
     },
     {
       "seller": "leila0317",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "HP sprocket口袋型相印機 免墨水相片印表機",
       "price": 950,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 02:41",
+      "listedAt": "05/16 02:40",
       "pid": "1438100177",
       "verified": {
         "newPrice": 3990,
@@ -71,7 +71,7 @@
     },
     {
       "seller": "cats_three666",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Apple watch s6 gps 40mm 🔋 83%",
       "price": 2500,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 00:41",
+      "listedAt": "05/16 00:40",
       "pid": "1438090929",
       "verified": {
         "newPrice": 11900,
@@ -96,7 +96,7 @@
   "negotiate": [
     {
       "seller": "cyuan117",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "Apple筆電MacBook Pro （15寸, 2018)",
       "price": 12500,
       "condition": "Like new",
@@ -106,7 +106,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 06:41",
+      "listedAt": "05/14 10:40",
       "pid": "1431950776",
       "verified": {
         "newPrice": null,
@@ -129,7 +129,7 @@
       "priceStr": "NT$16,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/13 06:41",
+      "listedAt": "05/13 10:40",
       "pid": "1437650339",
       "verified": {
         "newPrice": 32900,
@@ -142,7 +142,7 @@
     },
     {
       "seller": "noblefox.7aab3a",
-      "timeAgo": "2 days ago",
+      "timeAgo": "3 days ago",
       "title": "Ps5 1218數位版 近全新 很少使用 跟ps4 pro",
       "price": 10000,
       "condition": "Lightly used",
@@ -152,7 +152,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 08:40",
+      "listedAt": "05/13 10:40",
       "pid": "1437707149",
       "verified": {
         "newPrice": 14580,
@@ -165,7 +165,7 @@
     },
     {
       "seller": "fish26_bear",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "OVO U1智慧投影機",
       "price": 5000,
       "condition": "Brand new",
@@ -185,6 +185,29 @@
       },
       "vsNew": 45,
       "vsSecondhand": 83
+    },
+    {
+      "seller": "fastturtle-5999",
+      "timeAgo": "5 minutes ago",
+      "title": "Insta360X3",
+      "price": 6500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438124228/",
+      "category": "insta360",
+      "maxDays": 7,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 10:35",
+      "pid": "1438124228",
+      "verified": {
+        "newPrice": 13900,
+        "secondhand": 8500,
+        "note": "Insta360 X3 公司貨$13K-15K(X4/X5上市降價中)二手$6.8K-14K中位$8.5K。$6,500=47%新品/76%二手低於行情 fastturtle-5999",
+        "source": "2026-05-16"
+      },
+      "vsNew": 47,
+      "vsSecondhand": 76
     }
   ],
   "uncertain": [
@@ -349,6 +372,29 @@
       },
       "vsNew": 69,
       "vsSecondhand": 120
+    },
+    {
+      "seller": "jamiequeen69793",
+      "timeAgo": "41 minutes ago",
+      "title": "DJI OSMO Mobile8 手機穩定軸 雲台",
+      "price": 2500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438119701/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 09:59",
+      "pid": "1438119701",
+      "verified": {
+        "newPrice": 4290,
+        "secondhand": null,
+        "note": "DJI Osmo Mobile 8 手機穩定軸 公司貨$4,290-4,990。$2,500=58%新品 jamiequeen69793 手動",
+        "source": "2026-05-16"
+      },
+      "vsNew": 58,
+      "vsSecondhand": null
     }
   ]
 }
