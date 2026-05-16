@@ -22,6 +22,29 @@
       },
       "vsNew": 27,
       "vsSecondhand": 58
+    },
+    {
+      "seller": "jau537125356",
+      "timeAgo": "59 minutes ago",
+      "title": "Dyson v10無線吸塵器，可連續運轉63分鐘",
+      "price": 3300,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438208124/",
+      "category": "吸塵器",
+      "maxDays": 7,
+      "priceStr": "NT$3,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/16 17:45",
+      "pid": "1438208124",
+      "verified": {
+        "newPrice": 16000,
+        "secondhand": 9000,
+        "note": "Dyson V10無線吸塵器 公司貨$16K-20K二手$8K-12K。$3,300=21%新品⭐⚠顯著低於行情可能瑕疵/水貨/仿冒 jau537125356只賣1筆",
+        "source": "2026-05-16"
+      },
+      "vsNew": 21,
+      "vsSecondhand": 37
     }
   ],
   "negotiate": [
@@ -83,7 +106,7 @@
       "priceStr": "NT$5,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/12 14:52",
+      "listedAt": "05/12 18:44",
       "pid": "1437498719",
       "verified": {
         "newPrice": 9990,
@@ -108,7 +131,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/09 14:52",
+      "listedAt": "05/09 18:44",
       "pid": "1437002495",
       "verified": {
         "newPrice": 9990,
@@ -121,7 +144,7 @@
     },
     {
       "seller": "nobert59",
-      "timeAgo": "24 hours ago",
+      "timeAgo": "1 day ago",
       "title": "ANKER 165W 自帶伸縮線 25000mAh行動電源 (智慧數顯螢幕) 黑灰色 型號A1695",
       "price": 2200,
       "condition": "Brand new",
@@ -131,7 +154,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 16:45",
+      "listedAt": "05/15 18:44",
       "pid": "1438020581",
       "verified": {
         "newPrice": 4990,
@@ -141,6 +164,24 @@
       },
       "vsNew": 44,
       "vsSecondhand": null
+    },
+    {
+      "pid": "1438202748",
+      "title": "AT-LP70X 全自動皮帶驅動式黑膠唱盤機（保固中)",
+      "price": 5600,
+      "priceStr": "NT$5,600",
+      "url": "https://tw.carousell.com/p/1438202748/",
+      "seller": "bybsmrxkny",
+      "timeAgo": "1 hour ago",
+      "category": "黑膠",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 6000,
+        "note": "Audio-Technica AT-LP70X全自動皮帶黑膠唱盤公司貨$9,990二手$5K-7K。$5,600=56%新品/93%二手偏低⭐保固中 bybsmrxkny 黑膠例外手動",
+        "source": "2026-05-16"
+      },
+      "vsNew": 56,
+      "vsSecondhand": 93
     }
   ]
 }
