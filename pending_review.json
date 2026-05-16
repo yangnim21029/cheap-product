@@ -12,7 +12,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/14 14:52",
+      "listedAt": "05/14 16:45",
       "pid": "1431994700",
       "verified": {
         "newPrice": 13000,
@@ -27,7 +27,7 @@
   "negotiate": [
     {
       "seller": "randombrogue",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "可議價 ASUS 華碩VG259QMR5A 電競螢幕(25型/FHD/310Hz/0.3ms/IPS)",
       "price": 3500,
       "condition": "Like new",
@@ -37,7 +37,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 11:52",
+      "listedAt": "05/16 11:45",
       "pid": "1438132043",
       "verified": {
         "newPrice": 7500,
@@ -60,7 +60,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/15 14:52",
+      "listedAt": "05/15 16:45",
       "pid": "1437967850",
       "verified": {
         "newPrice": 18000,
@@ -117,6 +117,29 @@
         "source": "2026-05-16"
       },
       "vsNew": 45,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "nobert59",
+      "timeAgo": "24 hours ago",
+      "title": "ANKER 165W 自帶伸縮線 25000mAh行動電源 (智慧數顯螢幕) 黑灰色 型號A1695",
+      "price": 2200,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1438020581/",
+      "category": "行動電源",
+      "maxDays": 7,
+      "priceStr": "NT$2,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/15 16:45",
+      "pid": "1438020581",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": null,
+        "note": "Anker 165W 25000mAh A1695 自帶伸縮線數顯 公司貨$4,990-5,490。$2,200=44%新品⭐ nobert59 手動",
+        "source": "2026-05-16"
+      },
+      "vsNew": 44,
       "vsSecondhand": null
     }
   ]
