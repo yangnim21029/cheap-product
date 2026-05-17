@@ -1,5 +1,52 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "iamixc56878808",
+      "timeAgo": "5 hours ago",
+      "title": "3M日本除濕輪科技9.5L雙效空氣清淨除濕機 FD-A90W(可清淨/除濕/乾衣)",
+      "price": 4600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438342710/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$4,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/17 13:14",
+      "pid": "1438342710",
+      "verified": {
+        "newPrice": 14000,
+        "secondhand": 8500,
+        "note": "3M FD-A90W日本除濕輪9.5L雙效空氣清淨除濕機(可清淨/除濕/乾衣) 公司貨$13K-15K二手$7K-10K。$4,600=33%新品⭐顯著低於行情 iamixc56878808",
+        "source": "2026-05-17"
+      },
+      "vsNew": 33,
+      "vsSecondhand": 54
+    },
+    {
+      "seller": "jacinta.su",
+      "timeAgo": "6 hours ago",
+      "title": "3M日本除濕輪科技9.5L雙效空氣清淨除濕機 FD-A90W(可清淨/除濕/乾衣)",
+      "price": 4900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438329721/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$4,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/17 12:14",
+      "pid": "1438329721",
+      "verified": {
+        "newPrice": 14000,
+        "secondhand": 8500,
+        "note": "3M FD-A90W同款 公司貨$13K-15K。$4,900=35%新品⭐ jacinta.su (本輪兩筆同款不同賣家)",
+        "source": "2026-05-17"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 58
+    }
+  ],
   "negotiate": [
     {
       "seller": "farewellt64866",
@@ -26,7 +73,7 @@
     },
     {
       "seller": "f5aarko",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "19 hours ago",
       "title": "Sony wh-1000xm5",
       "price": 4500,
       "condition": "Lightly used",
@@ -36,7 +83,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 23:43",
+      "listedAt": "05/16 23:14",
       "pid": "1438271763",
       "verified": {
         "newPrice": 11900,
@@ -69,7 +116,7 @@
     },
     {
       "seller": "a_tian96",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "19 hours ago",
       "title": "Fosi im4",
       "price": 2200,
       "condition": "Like new",
@@ -79,7 +126,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 23:43",
+      "listedAt": "05/16 23:14",
       "pid": "1438270282",
       "verified": {
         "newPrice": 5500,
