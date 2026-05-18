@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "iamixc56878808",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "1 day ago",
       "title": "3M日本除濕輪科技9.5L雙效空氣清淨除濕機 FD-A90W(可清淨/除濕/乾衣)",
       "price": 4600,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$4,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/17 13:14",
+      "listedAt": "05/17 14:40",
       "pid": "1438342710",
       "verified": {
         "newPrice": 14000,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "jacinta.su",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "1 day ago",
       "title": "3M日本除濕輪科技9.5L雙效空氣清淨除濕機 FD-A90W(可清淨/除濕/乾衣)",
       "price": 4900,
       "condition": "Lightly used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$4,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/17 12:14",
+      "listedAt": "05/17 14:40",
       "pid": "1438329721",
       "verified": {
         "newPrice": 14000,
@@ -73,7 +73,7 @@
     },
     {
       "seller": "f5aarko",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "2 days ago",
       "title": "Sony wh-1000xm5",
       "price": 4500,
       "condition": "Lightly used",
@@ -83,7 +83,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 23:14",
+      "listedAt": "05/16 14:40",
       "pid": "1438271763",
       "verified": {
         "newPrice": 11900,
@@ -116,7 +116,7 @@
     },
     {
       "seller": "a_tian96",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "2 days ago",
       "title": "Fosi im4",
       "price": 2200,
       "condition": "Like new",
@@ -126,7 +126,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/16 23:14",
+      "listedAt": "05/16 14:40",
       "pid": "1438270282",
       "verified": {
         "newPrice": 5500,
@@ -135,6 +135,150 @@
         "source": "2026-05-17"
       },
       "vsNew": 40,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1431231430",
+      "title": "switch 遊戲片",
+      "price": 600,
+      "priceStr": "NT$600",
+      "category": "Switch 遊戲片",
+      "seller": "rareowl.3d6f5f",
+      "url": "https://tw.carousell.com/p/1431231430/",
+      "timeAgo": "15 hours ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "Switch 遊戲片 $600 rareowl.3d6f5f 明示關注類別邊緣值放手動",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1438412625",
+      "title": "孫燕姿台北場黑膠唱片",
+      "price": 3300,
+      "priceStr": "NT$3,300",
+      "category": "黑膠",
+      "seller": "rose1390kimo-13994",
+      "url": "https://tw.carousell.com/p/1438412625/",
+      "timeAgo": "20 hours ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "孫燕姿台北場黑膠 $3300 明示關注類別放手動",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1438474473",
+      "title": "medicube Age-R Ussera 膠原蛋白生長美容儀 RF射頻電波超音波",
+      "price": 3000,
+      "priceStr": "NT$3,000",
+      "category": "美容儀",
+      "seller": "kunglung",
+      "url": "https://tw.carousell.com/p/1438474473/",
+      "timeAgo": "15 hours ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "medicube Age-R Ussera 美容儀 $3000 公司貨 $7-9K 確認真品要查 profile",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1438452876",
+      "title": "Tripollar STOP Vx Gold2 2代 金箔凝膠 童顏機 美容儀",
+      "price": 5000,
+      "priceStr": "NT$5,000",
+      "category": "美容儀",
+      "seller": "chicmonday",
+      "url": "https://tw.carousell.com/p/1438452876/",
+      "timeAgo": "17 hours ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "Tripollar STOP Vx Gold2 美容儀 $5000 公司貨 $20K+ 真品要查",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1438557030",
+      "title": "iPad Pro 11 M2 , 128gb WiFi",
+      "price": 15000,
+      "priceStr": "NT$15,000",
+      "category": "iPad",
+      "seller": "luca-p86",
+      "url": "https://tw.carousell.com/p/1438557030/",
+      "timeAgo": "3 minutes ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "iPad Pro 11 M2 128G WiFi $15K 新品 $25.9K = 58% 中等手動",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1438471576",
+      "title": "【Soundcore】AeroClip 開放式藍牙耳夾耳機 A3388 開放式耳夾 耳夾耳機 耳夾式",
+      "price": 2250,
+      "priceStr": "NT$2,250",
+      "category": "音響耳機",
+      "seller": "truedragon_8caae8",
+      "url": "https://tw.carousell.com/p/1438471576/",
+      "timeAgo": "15 hours ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "Soundcore AeroClip A3388 開放式耳夾 $2250 新品 $3490 = 64% 手動",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1438430682",
+      "title": "Pocket3 全新 全能套裝",
+      "price": 15500,
+      "priceStr": "NT$15,500",
+      "category": "相機攝影",
+      "seller": "leo_fun",
+      "url": "https://tw.carousell.com/p/1438430682/",
+      "timeAgo": "19 hours ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "DJI Pocket 3 全新全能套裝 $15.5K 公司貨 $19.99K (套裝差價) = 77% 手動",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "pid": "1438488842",
+      "title": "孫燕姿演唱會大巨蛋限定黑膠",
+      "price": 3200,
+      "priceStr": "NT$3,200",
+      "category": "黑膠",
+      "seller": "lydia567",
+      "url": "https://tw.carousell.com/p/1438488842/",
+      "timeAgo": "12 hours ago",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "孫燕姿大巨蛋限定黑膠 $3200 lydia567 明示關注類別放手動",
+        "source": "manual_inject"
+      },
+      "vsNew": null,
       "vsSecondhand": null
     }
   ]
