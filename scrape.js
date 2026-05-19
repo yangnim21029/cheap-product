@@ -75,6 +75,10 @@ const CATEGORIES = [
   { slug: 'photography-6', name: '相機攝影', min: 5000, max: 30000, maxDays: 7 },
   { slug: 'collectibles-memorabilia-9', name: '收藏品', min: 1000, max: 10000, maxDays: 7 },
   { slug: 'music-media-14', name: '音樂媒體', min: 2000, max: 15000, maxDays: 7 },
+  // 2026-05-19 Rose 確認加 3 個分類 (gaming/sports/computers)
+  { slug: 'video-gaming-1189', name: '電玩主機', min: 2000, max: 20000, maxDays: 7 },
+  { slug: 'sports-equipment-10', name: '運動戶外', min: 2000, max: 10000, maxDays: 7 },
+  { slug: 'computers-tech-1094', name: '電腦科技', min: 3000, max: 20000, maxDays: 7 },
 ];
 
 // === 頁面抓取 JS ===
