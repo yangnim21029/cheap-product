@@ -1,5 +1,398 @@
 {
-  "newDeals": [],
-  "negotiate": [],
-  "uncertain": []
+  "newDeals": [
+    {
+      "seller": "ty985200000",
+      "timeAgo": "19 hours ago",
+      "title": "wellcome 好吉康VX1-plus電動揚升跑步機",
+      "price": 7999,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438682117/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$7,999",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/19 02:50",
+      "pid": "1438682117",
+      "verified": {
+        "newPrice": 27000,
+        "secondhand": 12000,
+        "note": "wellcome VX1-plus 電動揚升跑步機 公司貨 $25-30K 二手 $10-15K。$7,999 = 新品 30% ⭐ ty985200000 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 30,
+      "vsSecondhand": 67
+    },
+    {
+      "seller": "fevermatehome",
+      "timeAgo": "13 hours ago",
+      "title": "34吋 LG 34GL750 超寬 電競顯示器 螢幕21:9 144hz 2.5k g-sync",
+      "price": 3999,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438697796/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,999",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/19 08:50",
+      "pid": "1438697796",
+      "verified": {
+        "newPrice": 14900,
+        "secondhand": 5000,
+        "note": "LG 34GL750-B 34\" 21:9 144Hz 2K G-Sync 公司貨 $14,900 (停產) 二手 $4-6K。$3,999 = 新品 27% ⭐⭐ fevermatehome 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 27,
+      "vsSecondhand": 80
+    }
+  ],
+  "negotiate": [
+    {
+      "seller": "ade1113",
+      "timeAgo": "1 day ago",
+      "title": "原廠SWITCH紅藍主機(盒裝完整)",
+      "price": 4299,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438570368/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$4,299",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/18 21:50",
+      "pid": "1438570368",
+      "verified": {
+        "newPrice": 9490,
+        "secondhand": 5500,
+        "note": "Nintendo Switch 紅藍主機 (一代) 盒裝完整 公司貨 $9,490 二手 $4-6K。$4,299 = 新品 45% 二手中位 ⭐ade1113 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 45,
+      "vsSecondhand": 78
+    },
+    {
+      "seller": "bridge526",
+      "timeAgo": "1 day ago",
+      "title": "MSR FreeLite 單人帳 0.9kg 極輕量",
+      "price": 6300,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438598431/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$6,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/18 21:50",
+      "pid": "1438598431",
+      "verified": {
+        "newPrice": 10500,
+        "secondhand": 7000,
+        "note": "MSR FreeLite 1P 單人帳 0.9kg 極輕量 公司貨 $9-12K 二手 $6-8K。$6,300 = 新品 60% bridge526 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 60,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "joe50015",
+      "timeAgo": "2 days ago",
+      "title": "bryton 750se",
+      "price": 4000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438417814/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/17 21:50",
+      "pid": "1438417814",
+      "verified": {
+        "newPrice": 7990,
+        "secondhand": 4500,
+        "note": "Bryton Rider 750 SE GPS 自行車碼錶 公司貨 $7,990 二手 $4-5K。$4,000 = 新品 50% joe50015 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "miaoo33",
+      "timeAgo": "10 hours ago",
+      "title": "TUF Gaming VG32VQ1B 32吋曲面電競螢幕",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1432958288/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/19 11:50",
+      "pid": "1432958288",
+      "verified": {
+        "newPrice": 8990,
+        "secondhand": 5000,
+        "note": "ASUS TUF Gaming VG32VQ1B 32\" 曲面 165Hz 公司貨 $8,990 二手 $4.5-6K。$4,500 = 新品 50% miaoo33 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 90
+    }
+  ],
+  "uncertain": [
+    {
+      "pid": "1438823668",
+      "title": "Apple iPad Air m3 128g 紫色，全新拆封開通，保固到2027年4月，完整盒裝，要買要快喔^_^",
+      "price": 15000,
+      "priceStr": "NT$15,000",
+      "category": "iPad",
+      "seller": "freeshark_dfe9e8",
+      "url": "https://tw.carousell.com/p/1438823668/",
+      "timeAgo": "41 minutes ago",
+      "verified": {
+        "newPrice": 18900,
+        "secondhand": 14500,
+        "note": "iPad Air M3 128G 紫 全新拆封保固到 2027.04 公司貨 $18,900。$15,000 = 新品 79% ⭐保固完整 freeshark_dfe9e8 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 79,
+      "vsSecondhand": 103
+    },
+    {
+      "pid": "1438754136",
+      "title": "iPad Pro M4 11吋 256G 太空灰",
+      "price": 22000,
+      "priceStr": "NT$22,000",
+      "category": "iPad",
+      "seller": "freepenguin.340016",
+      "url": "https://tw.carousell.com/p/1438754136/",
+      "timeAgo": "7 hours ago",
+      "verified": {
+        "newPrice": 32900,
+        "secondhand": 22000,
+        "note": "iPad Pro M4 11\" 256G 太空灰 公司貨 $32,900 二手 $22-26K。$22,000 = 新品 67% 二手中下緣 freepenguin.340016 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 67,
+      "vsSecondhand": 100
+    },
+    {
+      "pid": "1438708030",
+      "title": "IPad 11吋 wifi 128G 藍色 (A16)",
+      "price": 9000,
+      "priceStr": "NT$9,000",
+      "category": "iPad",
+      "seller": "fengdi9626",
+      "url": "https://tw.carousell.com/p/1438708030/",
+      "timeAgo": "11 hours ago",
+      "verified": {
+        "newPrice": 11990,
+        "secondhand": 9500,
+        "note": "iPad 11 (A16) 128G 藍色 公司貨 $11,990 二手 $9-11K。$9,000 = 新品 75% 二手中位 (與之前 rex0914 黃 $9,000 同款不同色) fengdi9626 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 75,
+      "vsSecondhand": 95
+    },
+    {
+      "pid": "1432952962",
+      "title": "Sennheiser 森海塞爾IE200入耳式高音質耳機",
+      "price": 2850,
+      "priceStr": "NT$2,850",
+      "category": "音響耳機",
+      "seller": "hantsi",
+      "url": "https://tw.carousell.com/p/1432952962/",
+      "timeAgo": "1 hour ago",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": 2500,
+        "note": "Sennheiser IE 200 入耳式 HiFi 公司貨 $4,990 二手 $2-3K。$2,850 = 新品 57% 二手中位 hantsi 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 57,
+      "vsSecondhand": 114
+    },
+    {
+      "pid": "1438732522",
+      "title": "soundcore AeroFit Pro 氣傳導開放式真無線藍芽耳機(驚艷舒適 大開耳界)",
+      "price": 3000,
+      "priceStr": "NT$3,000",
+      "category": "音響耳機",
+      "seller": "7654890",
+      "url": "https://tw.carousell.com/p/1438732522/",
+      "timeAgo": "9 hours ago",
+      "verified": {
+        "newPrice": 5490,
+        "secondhand": 3000,
+        "note": "Soundcore AeroFit Pro 氣傳導開放式真無線 公司貨 $5,490 二手 $2.5-3.5K。$3,000 = 新品 55% 二手中位 7654890 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 55,
+      "vsSecondhand": 100
+    },
+    {
+      "pid": "1438575606",
+      "title": "近全新💕 Harman/Kardon Aura Studio 藍芽喇叭 黑",
+      "price": 8200,
+      "priceStr": "NT$8,200",
+      "category": "喇叭",
+      "seller": "dora266",
+      "url": "https://tw.carousell.com/p/1438575606/",
+      "timeAgo": "1 day ago",
+      "verified": {
+        "newPrice": 12990,
+        "secondhand": 7500,
+        "note": "Harman/Kardon Aura Studio 透明圓頂藍牙喇叭 公司貨 $12,990 二手 $6-9K。$8,200 = 新品 63% 二手中位 dora266 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 109
+    },
+    {
+      "pid": "1438570368",
+      "title": "原廠SWITCH紅藍主機(盒裝完整)",
+      "price": 4299,
+      "priceStr": "NT$4,299",
+      "category": "電玩主機",
+      "seller": "ade1113",
+      "url": "https://tw.carousell.com/p/1438570368/",
+      "timeAgo": "1 day ago",
+      "verified": {
+        "newPrice": 9490,
+        "secondhand": 5500,
+        "note": "Nintendo Switch 紅藍主機 (一代) 盒裝完整 公司貨 $9,490 二手 $4-6K。$4,299 = 新品 45% 二手中位 ⭐ade1113 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 45,
+      "vsSecondhand": 78
+    },
+    {
+      "pid": "1438643119",
+      "title": "【免運9.9成新】PlayStation Portal™ 遙控遊玩機贈鐵拳8遊戲中文版遊戲 - 午夜黑/台灣公司貨/Ps/掌上型",
+      "price": 6999,
+      "priceStr": "NT$6,999",
+      "category": "電玩主機",
+      "seller": "sushi111576244",
+      "url": "https://tw.carousell.com/p/1438643119/",
+      "timeAgo": "24 hours ago",
+      "verified": {
+        "newPrice": 6990,
+        "secondhand": 6000,
+        "note": "PlayStation Portal 遙控遊玩機+鐵拳8 公司貨 $6,990 二手 $5.5-6.5K。$6,999 = 新品價但含鐵拳8遊戲 ($1K+) sushi 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 100,
+      "vsSecondhand": 117
+    },
+    {
+      "pid": "1438697796",
+      "title": "34吋 LG 34GL750 超寬 電競顯示器 螢幕21:9 144hz 2.5k g-sync",
+      "price": 3999,
+      "priceStr": "NT$3,999",
+      "category": "電腦科技",
+      "seller": "fevermatehome",
+      "url": "https://tw.carousell.com/p/1438697796/",
+      "timeAgo": "13 hours ago",
+      "verified": {
+        "newPrice": 14900,
+        "secondhand": 5000,
+        "note": "LG 34GL750-B 34\" 21:9 144Hz 2K G-Sync 公司貨 $14,900 (停產) 二手 $4-6K。$3,999 = 新品 27% ⭐⭐ fevermatehome 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 27,
+      "vsSecondhand": 80
+    },
+    {
+      "pid": "1438746562",
+      "title": "【出售】BenQ EX2710Q HDR400電競螢幕（27型/ 2K/165hz/1ms/IPS）",
+      "price": 4200,
+      "priceStr": "NT$4,200",
+      "category": "電腦科技",
+      "seller": "tw806",
+      "url": "https://tw.carousell.com/p/1438746562/",
+      "timeAgo": "8 hours ago",
+      "verified": {
+        "newPrice": 7990,
+        "secondhand": 4500,
+        "note": "BenQ EX2710Q 27\" 2K 165Hz HDR400 IPS 公司貨 $7,990 二手 $4-5K。$4,200 = 新品 53% 二手中位 tw806 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 93
+    },
+    {
+      "pid": "1432958288",
+      "title": "TUF Gaming VG32VQ1B 32吋曲面電競螢幕",
+      "price": 4500,
+      "priceStr": "NT$4,500",
+      "category": "電腦科技",
+      "seller": "miaoo33",
+      "url": "https://tw.carousell.com/p/1432958288/",
+      "timeAgo": "10 hours ago",
+      "verified": {
+        "newPrice": 8990,
+        "secondhand": 5000,
+        "note": "ASUS TUF Gaming VG32VQ1B 32\" 曲面 165Hz 公司貨 $8,990 二手 $4.5-6K。$4,500 = 新品 50% miaoo33 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 90
+    },
+    {
+      "pid": "1438682117",
+      "title": "wellcome 好吉康VX1-plus電動揚升跑步機",
+      "price": 7999,
+      "priceStr": "NT$7,999",
+      "category": "運動戶外",
+      "seller": "ty985200000",
+      "url": "https://tw.carousell.com/p/1438682117/",
+      "timeAgo": "19 hours ago",
+      "verified": {
+        "newPrice": 27000,
+        "secondhand": 12000,
+        "note": "wellcome VX1-plus 電動揚升跑步機 公司貨 $25-30K 二手 $10-15K。$7,999 = 新品 30% ⭐ ty985200000 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 30,
+      "vsSecondhand": 67
+    },
+    {
+      "pid": "1438598431",
+      "title": "MSR FreeLite 單人帳 0.9kg 極輕量",
+      "price": 6300,
+      "priceStr": "NT$6,300",
+      "category": "運動戶外",
+      "seller": "bridge526",
+      "url": "https://tw.carousell.com/p/1438598431/",
+      "timeAgo": "1 day ago",
+      "verified": {
+        "newPrice": 10500,
+        "secondhand": 7000,
+        "note": "MSR FreeLite 1P 單人帳 0.9kg 極輕量 公司貨 $9-12K 二手 $6-8K。$6,300 = 新品 60% bridge526 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 60,
+      "vsSecondhand": 90
+    },
+    {
+      "pid": "1438417814",
+      "title": "bryton 750se",
+      "price": 4000,
+      "priceStr": "NT$4,000",
+      "category": "運動戶外",
+      "seller": "joe50015",
+      "url": "https://tw.carousell.com/p/1438417814/",
+      "timeAgo": "2 days ago",
+      "verified": {
+        "newPrice": 7990,
+        "secondhand": 4500,
+        "note": "Bryton Rider 750 SE GPS 自行車碼錶 公司貨 $7,990 二手 $4-5K。$4,000 = 新品 50% joe50015 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 89
+    }
+  ]
 }
