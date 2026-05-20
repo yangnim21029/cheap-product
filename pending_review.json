@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "ty985200000",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "2 days ago",
       "title": "wellcome 好吉康VX1-plus電動揚升跑步機",
       "price": 7999,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$7,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/19 02:50",
+      "listedAt": "05/18 18:51",
       "pid": "1438682117",
       "verified": {
         "newPrice": 27000,
@@ -50,7 +50,7 @@
   "negotiate": [
     {
       "seller": "ade1113",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "原廠SWITCH紅藍主機(盒裝完整)",
       "price": 4299,
       "condition": "Lightly used",
@@ -60,7 +60,7 @@
       "priceStr": "NT$4,299",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/18 21:50",
+      "listedAt": "05/18 18:51",
       "pid": "1438570368",
       "verified": {
         "newPrice": 9490,
@@ -138,6 +138,98 @@
         "source": "manual_inject_web"
       },
       "vsNew": 50,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "ade1113",
+      "timeAgo": "7 hours ago",
+      "title": "SWITCH灰色電力加強版主機",
+      "price": 4699,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438907686/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$4,699",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/20 11:51",
+      "pid": "1438907686",
+      "verified": {
+        "newPrice": 9790,
+        "secondhand": 5500,
+        "note": "SWITCH 灰電力加強版 (二代非 OLED) 公司貨 $9,790 二手 $4.5-6K。$4,699 = 新品 48% 二手中位 ade1113 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 85
+    },
+    {
+      "seller": "mario3",
+      "timeAgo": "3 hours ago",
+      "title": "Mammut 長毛象Trion Spine 50L 登山包",
+      "price": 6500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438950526/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/20 15:51",
+      "pid": "1438950526",
+      "verified": {
+        "newPrice": 12000,
+        "secondhand": 7500,
+        "note": "Mammut Trion Spine 50L 登山包 公司貨 $11-13K 二手 $7-9K。$6,500 = 新品 54% 二手 87% ⭐ mario3 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 54,
+      "vsSecondhand": 87
+    },
+    {
+      "seller": "wayne.p.w.huang",
+      "timeAgo": "8 hours ago",
+      "title": "Benq MA270U 27 吋 4K 螢幕",
+      "price": 8000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438894737/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/20 10:51",
+      "pid": "1438894737",
+      "verified": {
+        "newPrice": 14990,
+        "secondhand": 9000,
+        "note": "BenQ MA270U 27\" 4K 公司貨 $14,990 二手 $8-10K。$8,000 = 新品 53% 二手中位 ⭐ wayne.p.w.huang 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "smarttim3508726",
+      "timeAgo": "20 hours ago",
+      "title": "Switch oled",
+      "price": 5200,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1427408218/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$5,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/19 22:51",
+      "pid": "1427408218",
+      "verified": {
+        "newPrice": 9790,
+        "secondhand": 5800,
+        "note": "Nintendo Switch OLED 公司貨 $9,790 二手 $5-7K。$5,200 = 新品 53% 二手 90% ⭐⭐ smarttim3508726 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 53,
       "vsSecondhand": 90
     }
   ],
@@ -251,24 +343,6 @@
       "vsSecondhand": 109
     },
     {
-      "pid": "1438570368",
-      "title": "原廠SWITCH紅藍主機(盒裝完整)",
-      "price": 4299,
-      "priceStr": "NT$4,299",
-      "category": "電玩主機",
-      "seller": "ade1113",
-      "url": "https://tw.carousell.com/p/1438570368/",
-      "timeAgo": "1 day ago",
-      "verified": {
-        "newPrice": 9490,
-        "secondhand": 5500,
-        "note": "Nintendo Switch 紅藍主機 (一代) 盒裝完整 公司貨 $9,490 二手 $4-6K。$4,299 = 新品 45% 二手中位 ⭐ade1113 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 45,
-      "vsSecondhand": 78
-    },
-    {
       "pid": "1438643119",
       "title": "【免運9.9成新】PlayStation Portal™ 遙控遊玩機贈鐵拳8遊戲中文版遊戲 - 午夜黑/台灣公司貨/Ps/掌上型",
       "price": 6999,
@@ -285,24 +359,6 @@
       },
       "vsNew": 100,
       "vsSecondhand": 117
-    },
-    {
-      "pid": "1438697796",
-      "title": "34吋 LG 34GL750 超寬 電競顯示器 螢幕21:9 144hz 2.5k g-sync",
-      "price": 3999,
-      "priceStr": "NT$3,999",
-      "category": "電腦科技",
-      "seller": "fevermatehome",
-      "url": "https://tw.carousell.com/p/1438697796/",
-      "timeAgo": "13 hours ago",
-      "verified": {
-        "newPrice": 14900,
-        "secondhand": 5000,
-        "note": "LG 34GL750-B 34\" 21:9 144Hz 2K G-Sync 公司貨 $14,900 (停產) 二手 $4-6K。$3,999 = 新品 27% ⭐⭐ fevermatehome 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 27,
-      "vsSecondhand": 80
     },
     {
       "pid": "1438746562",
@@ -323,76 +379,257 @@
       "vsSecondhand": 93
     },
     {
-      "pid": "1432958288",
-      "title": "TUF Gaming VG32VQ1B 32吋曲面電競螢幕",
+      "pid": "1438975750",
+      "title": "Switch oled",
+      "price": 5700,
+      "priceStr": "NT$5,700",
+      "category": "電玩主機",
+      "seller": "nn0926223372",
+      "url": "https://tw.carousell.com/p/1438975750/",
+      "timeAgo": "1 hour ago",
+      "verified": {
+        "newPrice": 9790,
+        "secondhand": 5800,
+        "note": "Nintendo Switch OLED 公司貨 $9,790 二手 $5-7K。$5,700 = 新品 58% 二手中位 ⭐ nn0926223372 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 98
+    },
+    {
+      "pid": "1438884721",
+      "title": "Switch light 粉色",
+      "price": 3300,
+      "priceStr": "NT$3,300",
+      "category": "電玩主機",
+      "seller": "rareowl.3d6f5f",
+      "url": "https://tw.carousell.com/p/1438884721/",
+      "timeAgo": "10 hours ago",
+      "verified": {
+        "newPrice": 5690,
+        "secondhand": 3500,
+        "note": "Switch Lite 粉色 公司貨 $5,690 二手 $3-4K。$3,300 = 新品 58% 二手中下緣 ⭐ rareowl.3d6f5f (Rose 明示關注) 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 94
+    },
+    {
+      "pid": "1438968525",
+      "title": "【門市現貨】聯想 Lenovo ThinkVision P27QD-40 27\" 吋顯示器 螢幕 64B3GAR2TW",
+      "price": 9950,
+      "priceStr": "NT$9,950",
+      "category": "電腦科技",
+      "seller": "suntop168",
+      "url": "https://tw.carousell.com/p/1438968525/",
+      "timeAgo": "2 hours ago",
+      "verified": {
+        "newPrice": 11990,
+        "secondhand": 9000,
+        "note": "Lenovo ThinkVision P27QD-40 27\" 2K HDR400 公司貨 $11,990 二手 $8-10K。$9,950 = 新品 83% 二手中位 (門市現貨) suntop168 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 83,
+      "vsSecondhand": 111
+    },
+    {
+      "pid": "1438857519",
+      "title": "含 Touch ID 和數字鍵盤的巧控鍵盤，適用於配備 Apple 晶片的 Mac 機型 (USB–C) - 中文 (注音) - 黑色按鍵",
       "price": 4500,
       "priceStr": "NT$4,500",
       "category": "電腦科技",
-      "seller": "miaoo33",
-      "url": "https://tw.carousell.com/p/1432958288/",
-      "timeAgo": "10 hours ago",
-      "verified": {
-        "newPrice": 8990,
-        "secondhand": 5000,
-        "note": "ASUS TUF Gaming VG32VQ1B 32\" 曲面 165Hz 公司貨 $8,990 二手 $4.5-6K。$4,500 = 新品 50% miaoo33 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 50,
-      "vsSecondhand": 90
-    },
-    {
-      "pid": "1438682117",
-      "title": "wellcome 好吉康VX1-plus電動揚升跑步機",
-      "price": 7999,
-      "priceStr": "NT$7,999",
-      "category": "運動戶外",
-      "seller": "ty985200000",
-      "url": "https://tw.carousell.com/p/1438682117/",
+      "seller": "quickhawk-f2b8",
+      "url": "https://tw.carousell.com/p/1438857519/",
       "timeAgo": "19 hours ago",
       "verified": {
-        "newPrice": 27000,
-        "secondhand": 12000,
-        "note": "wellcome VX1-plus 電動揚升跑步機 公司貨 $25-30K 二手 $10-15K。$7,999 = 新品 30% ⭐ ty985200000 手動",
+        "newPrice": 5790,
+        "secondhand": 3500,
+        "note": "Apple 巧控鍵盤 含 Touch ID + 數字鍵盤 USB-C 黑色 公司貨 $5,790 二手 $3-4K。$4,500 = 新品 78% 二手中位 quickhawk-f2b8 手動",
         "source": "manual_inject_web"
       },
-      "vsNew": 30,
-      "vsSecondhand": 67
+      "vsNew": 78,
+      "vsSecondhand": 129
     },
     {
-      "pid": "1438598431",
-      "title": "MSR FreeLite 單人帳 0.9kg 極輕量",
-      "price": 6300,
-      "priceStr": "NT$6,300",
-      "category": "運動戶外",
-      "seller": "bridge526",
-      "url": "https://tw.carousell.com/p/1438598431/",
-      "timeAgo": "1 day ago",
+      "pid": "1438855617",
+      "title": "apple trackpad 觸控板usbc版 保固2027/5/8 購買證明",
+      "price": 3300,
+      "priceStr": "NT$3,300",
+      "category": "電腦科技",
+      "seller": "16010charile",
+      "url": "https://tw.carousell.com/p/1438855617/",
+      "timeAgo": "19 hours ago",
       "verified": {
-        "newPrice": 10500,
-        "secondhand": 7000,
-        "note": "MSR FreeLite 1P 單人帳 0.9kg 極輕量 公司貨 $9-12K 二手 $6-8K。$6,300 = 新品 60% bridge526 手動",
+        "newPrice": 4290,
+        "secondhand": 3000,
+        "note": "Apple Trackpad USB-C 黑 保固 2027/5/8 公司貨 $4,290 二手 $2.5-3.5K。$3,300 = 新品 77% 二手中位 16010charile 手動",
         "source": "manual_inject_web"
       },
-      "vsNew": 60,
-      "vsSecondhand": 90
+      "vsNew": 77,
+      "vsSecondhand": 110
     },
     {
-      "pid": "1438417814",
-      "title": "bryton 750se",
-      "price": 4000,
-      "priceStr": "NT$4,000",
-      "category": "運動戶外",
-      "seller": "joe50015",
-      "url": "https://tw.carousell.com/p/1438417814/",
-      "timeAgo": "2 days ago",
+      "pid": "1438855451",
+      "title": "mac mini m4 16/256 過保 盒裝 4khdmi線",
+      "price": 18500,
+      "priceStr": "NT$18,500",
+      "category": "電腦科技",
+      "seller": "16010charile",
+      "url": "https://tw.carousell.com/p/1438855451/",
+      "timeAgo": "19 hours ago",
       "verified": {
-        "newPrice": 7990,
+        "newPrice": 19900,
+        "secondhand": 16000,
+        "note": "Mac mini M4 16/256 過保 盒裝 + 4K HDMI 公司貨 $19,900 二手 $15-17K。$18,500 = 新品 93% ⚠ 過保剛過貴 16010charile 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 93,
+      "vsSecondhand": 116
+    },
+    {
+      "pid": "1438978991",
+      "title": "Logitech G羅技G pro x2 superstrike無線滑鼠",
+      "price": 4990,
+      "priceStr": "NT$4,990",
+      "category": "電腦科技",
+      "seller": "betty10_09",
+      "url": "https://tw.carousell.com/p/1438978991/",
+      "timeAgo": "53 minutes ago",
+      "verified": {
+        "newPrice": 6290,
+        "secondhand": 4000,
+        "note": "Logitech G Pro X Superstrike 無線滑鼠 公司貨 $6,290 二手 $3-4.5K。$4,990 = 新品 79% 二手偏高 betty10_09 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 79,
+      "vsSecondhand": 125
+    },
+    {
+      "pid": "1438957819",
+      "title": "~騎車趣~VINCITA Sightseer 4.0 Travel Set 旅行袋 附輪攜車袋 Brompton 攜車袋",
+      "price": 7000,
+      "priceStr": "NT$7,000",
+      "category": "運動戶外",
+      "seller": "6668bike",
+      "url": "https://tw.carousell.com/p/1438957819/",
+      "timeAgo": "3 hours ago",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 6000,
+        "note": "VINCITA Sightseer 4.0 旅行袋 + 攜車袋 Brompton 折疊車適用 公司貨 $9-11K 二手 $5-7K。$7,000 = 新品 70% 二手中位 6668bike 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 70,
+      "vsSecondhand": 117
+    },
+    {
+      "pid": "1438877780",
+      "title": "Joroto YT20 可折疊室內單槓/雙槓/重訓架",
+      "price": 4500,
+      "priceStr": "NT$4,500",
+      "category": "運動戶外",
+      "seller": "dorabigemon",
+      "url": "https://tw.carousell.com/p/1438877780/",
+      "timeAgo": "12 hours ago",
+      "verified": {
+        "newPrice": 8990,
         "secondhand": 4500,
-        "note": "Bryton Rider 750 SE GPS 自行車碼錶 公司貨 $7,990 二手 $4-5K。$4,000 = 新品 50% joe50015 手動",
+        "note": "Joroto YT20 可折疊室內單槓雙槓重訓架 公司貨 $8,990 二手 $4-5.5K。$4,500 = 新品 50% 二手中位 dorabigemon 手動",
         "source": "manual_inject_web"
       },
       "vsNew": 50,
-      "vsSecondhand": 89
+      "vsSecondhand": 100
+    },
+    {
+      "pid": "1438879627",
+      "title": "Apple AirPods 4 ANC 主動降噪｜支援Apple AI｜全新｜保固中 公司貨",
+      "price": 4690,
+      "priceStr": "NT$4,690",
+      "category": "音響耳機",
+      "seller": "barret.liu",
+      "url": "https://tw.carousell.com/p/1438879627/",
+      "timeAgo": "11 hours ago",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": 4000,
+        "note": "Apple AirPods 4 ANC 主動降噪 全新公司貨保固中 $5,990。$4,690 = 新品 78% 全新有保固 barret.liu 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 78,
+      "vsSecondhand": 117
+    },
+    {
+      "pid": "1438967636",
+      "title": "Fiio JM21 耳機播放器 (hiby moondrop水月雨 AK if)",
+      "price": 4000,
+      "priceStr": "NT$4,000",
+      "category": "音響耳機",
+      "seller": "bubble822ww",
+      "url": "https://tw.carousell.com/p/1438967636/",
+      "timeAgo": "2 hours ago",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": 3500,
+        "note": "Fiio JM21 耳機播放器 公司貨 $4,990 二手 $3-4K。$4,000 = 新品 80% 二手中位 bubble822ww 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 80,
+      "vsSecondhand": 114
+    },
+    {
+      "pid": "1438752113",
+      "title": "全新 HomePod mini",
+      "price": 2600,
+      "priceStr": "NT$2,600",
+      "category": "音響耳機",
+      "seller": "wei0806",
+      "url": "https://tw.carousell.com/p/1438752113/",
+      "timeAgo": "1 day ago",
+      "verified": {
+        "newPrice": 2990,
+        "secondhand": 2200,
+        "note": "HomePod mini 全新 (黑/未開) 公司貨 $2,990 二手 $2-2.5K。$2,600 = 新品 87% 全新 wei0806 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 87,
+      "vsSecondhand": 118
+    },
+    {
+      "pid": "1438831892",
+      "title": "irocks K103R 三模 藍芽 機械鍵盤 熱插拔 薰衣紫 靜音奶茶軸",
+      "price": 1500,
+      "priceStr": "NT$1,500",
+      "category": "機械鍵盤",
+      "seller": "davidhuang09981",
+      "url": "https://tw.carousell.com/p/1438831892/",
+      "timeAgo": "21 hours ago",
+      "verified": {
+        "newPrice": 2890,
+        "secondhand": 1800,
+        "note": "irocks K103R 三模藍芽機械鍵盤 熱插拔 薰衣紫 靜音奶茶軸 公司貨 $2,890 二手 $1.5-2K。$1,500 = 新品 52% 二手中下緣 ⭐ davidhuang09981 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 52,
+      "vsSecondhand": 83
+    },
+    {
+      "pid": "1427408218",
+      "seller": "smarttim3508726",
+      "timeAgo": "20 hours ago",
+      "title": "Switch oled",
+      "price": "NT$5,200",
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1427408218/",
+      "category": "電玩主機",
+      "priceStr": "NT$5,200",
+      "verified": {
+        "newPrice": 9790,
+        "secondhand": 5800,
+        "note": "Nintendo Switch OLED 公司貨 $9,790 二手 $5-7K。$5,200 = 新品 53% 二手 90% ⭐⭐ smarttim3508726 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
     }
   ]
 }
