@@ -299,8 +299,9 @@ const SKIP_RATIO = 0.3;
   fs.writeFileSync('raw_results.json', JSON.stringify(all, null, 2));
   console.log(`已寫入 raw_results.json`);
 
-  // === Query 效果報告 ===
-  const deadQueries = Object.entries(stats).filter(([, s]) => s.zeroStreak >= 3);
+  // === Query 效果報告（只 warn 還在 QUERIES 內的；已註解掉的不再吵）===
+  const activeQs = new Set(QUERIES.map(q => q.q));
+  const deadQueries = Object.entries(stats).filter(([q, s]) => s.zeroStreak >= 3 && activeQs.has(q));
   if (deadQueries.length > 0) {
     console.log(`\n⚠ 建議暫停的 queries（連續 3+ 輪 0 筆 3 天內商品）：`);
     deadQueries.forEach(([q, s]) => {
