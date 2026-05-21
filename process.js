@@ -201,10 +201,24 @@ pending.uncertain = mergePending(pending.uncertain || [], uncertain);
 fs.writeFileSync(PENDING_FILE, JSON.stringify(pending, null, 2));
 
 // 用 pending 替換 newDeals/negotiate/uncertain 給後續輸出（README/HTML 顯示完整清單）
-const sortByDisc = (a, b) => (a.vsSecondhand || a.vsNew || 999) - (b.vsSecondhand || b.vsNew || 999);
-const allNewDeals = [...pending.newDeals].sort(sortByDisc);
-const allNegotiate = [...pending.negotiate].sort(sortByDisc);
-const allUncertain = [...pending.uncertain].sort(sortByDisc);
+// Sort by recency (new first). Rose 2026-05-21
+const timeAgoToMinutes = (ta) => {
+  if (!ta) return 999999;
+  const m = ta.match(/(\d+)\s*(minute|hour|day|month|year)/);
+  if (!m) return ta.includes('just now') ? 0 : (ta.includes('yesterday') ? 1440 : 999999);
+  const n = parseInt(m[1]);
+  const unit = m[2];
+  if (unit === 'minute') return n;
+  if (unit === 'hour') return n * 60;
+  if (unit === 'day') return n * 1440;
+  if (unit === 'month') return n * 43200;
+  if (unit === 'year') return n * 525600;
+  return 999999;
+};
+const sortByRecent = (a, b) => timeAgoToMinutes(a.timeAgo) - timeAgoToMinutes(b.timeAgo);
+const allNewDeals = [...pending.newDeals].sort(sortByRecent);
+const allNegotiate = [...pending.negotiate].sort(sortByRecent);
+const allUncertain = [...pending.uncertain].sort(sortByRecent);
 
 // (sorting handled via allNewDeals/allNegotiate/allUncertain above)
 
