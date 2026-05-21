@@ -23,9 +23,8 @@ const QUERIES = [
   // { q: '咖啡機', min: 1000, max: 10000, maxDays: 5 }, // 暫停 2026-05-03
   { q: '拍立得', min: 500, max: 5000, maxDays: 5 },
   { q: '相印機', min: 500, max: 5000, maxDays: 7 },
-  // 2026-05-19 Rose 問 Meta Quest 2 $4K 之前 VR query 連 9 輪空 換用品牌名重啟
-  { q: 'Meta Quest', min: 1000, max: 10000, maxDays: 7 },
-  { q: 'Oculus', min: 1000, max: 10000, maxDays: 7 },
+  // { q: 'Meta Quest', min: 1000, max: 10000, maxDays: 7 }, // 暫停：連續 3 輪空 2026-05-21 (台灣 Carousell 真的沒貨, video-gaming-1189 分類有抓到偶現)
+  // { q: 'Oculus', min: 1000, max: 10000, maxDays: 7 }, // 暫停：連續 3 輪空 2026-05-21
   { q: '露營', min: 2000, max: 10000, maxDays: 7 },
   { q: '地毯', min: 1000, max: 8000, maxDays: 7 },
   { q: '優格機', min: 500, max: 3000, maxDays: 7 },
