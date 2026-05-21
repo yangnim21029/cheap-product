@@ -996,6 +996,12 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1423965032": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: Lenovo V15-IIL 文書筆電(i7-1065G7/8G/256G SS sun0825",
+    "source": "manual_skip"
+  },
   "1424040451": {
     "skip": true,
     "note": "百靈果汁機 $1,260 標題缺型號"
@@ -3082,6 +3088,12 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1431882304": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 華碩文書筆電 qwe48712320",
+    "source": "manual_skip"
+  },
   "1431885843": {
     "newPrice": null,
     "secondhand": null,
@@ -3781,6 +3793,12 @@
     "note": "PS5 北區 3C工作室 收購 Switch2、PS5 主機、 遊戲片 收購回收 NT$9,999 gordon740124768 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1433273827": {
+    "newPrice": 13990,
+    "secondhand": 11000,
+    "note": "Bambu Lab A1 + AMS Lite 拓竹 3D 列印機 公司貨 $13,990 (含 AMS Lite) 二手 $10-12K。$13,000 = 新品 93% 偏高 arduinolab98161 手動",
+    "source": "manual_inject_web"
   },
   "1433280668": {
     "newPrice": null,
@@ -5544,6 +5562,12 @@
     "secondhand": null,
     "note": "Sudio K2 Pro PChome$3,800。$3,000=79%, 折21%太小",
     "source": "web search 2026-05-06"
+  },
+  "1436267354": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 韓國演員丁一宇包包收納包 likemistar",
+    "source": "manual_skip"
   },
   "1436267425": {
     "skip": true,
@@ -16964,6 +16988,12 @@
     "note": "Patrol 99 SKIP: 【9成新含盒】新版 Scoot & Ride COOL Highwaykick  somethingcooltw",
     "source": "manual_skip"
   },
+  "1438746261": {
+    "newPrice": 28990,
+    "secondhand": 18000,
+    "note": "HP Victus Gaming 15 i7-13700H 16G RTX 公司貨 $26-30K 二手 $16-20K。$21,000 = 新品 72% 二手中位偏高 clevercat.a13949 手動",
+    "source": "manual_inject_web"
+  },
   "1438746562": {
     "newPrice": 7990,
     "secondhand": 4500,
@@ -18067,6 +18097,12 @@
     "secondhand": null,
     "note": "Patrol 100 SKIP: 【現貨/預購】AIREO Cyclone 16mm 匹克球拍 碳纖維高旋轉認證拍 wesluxurygoods",
     "source": "manual_skip"
+  },
+  "1438913412": {
+    "newPrice": 32900,
+    "secondhand": 22000,
+    "note": "iPad Pro 11\" M4 (2024) 公司貨 $32,900 二手 $22-26K。$24,000 = 新品 73% 二手中下緣 silverdolphi 手動",
+    "source": "manual_inject_web"
   },
   "1438914603": {
     "newPrice": null,
@@ -19562,6 +19598,12 @@
     "note": "Patrol 103 SKIP: Veelah V8-D kupa3737",
     "source": "manual_skip"
   },
+  "1439128162": {
+    "newPrice": 8500,
+    "secondhand": 5000,
+    "note": "Medicube AGE-R Booster Pro 全新附蓋 公司貨 $8,500-9,949 二手 $4-6K。$5,200 = 新品 61% 二手中位 全新 ⭐ sofia_tw 手動",
+    "source": "manual_inject_web"
+  },
   "1439128708": {
     "newPrice": 14990,
     "secondhand": 6000,
@@ -19614,6 +19656,12 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 103 SKIP: Fragment Design × Pokémon Thunderbolt Pr hush_resell",
+    "source": "manual_skip"
+  },
+  "1439137336": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 二手功率150w行動電源 可插一般的插頭剛買沒多久 best98y",
     "source": "manual_skip"
   },
   "1439137795": {
@@ -19670,6 +19718,12 @@
     "note": "Patrol 103 SKIP: 2021 紐埃「哈利波特 Chibi® 系列」佛地魔 1盎司彩色精鑄銀幣 22183",
     "source": "manual_skip"
   },
+  "1439140256": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: no discount鋁合金迪卡儂10速油壓碟煞避震腳踏車桃園自取10 spee james2624",
+    "source": "manual_skip"
+  },
   "1439141049": {
     "newPrice": null,
     "secondhand": null,
@@ -19688,6 +19742,12 @@
     "note": "Patrol 103 SKIP: ~騎車趣~VINCITA豬鼻子專用 前袋 前貨架包 Brompton前置物袋 相 6668bike",
     "source": "manual_skip"
   },
+  "1439143620": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: NewJeans | Hanni 盤出 kk4401",
+    "source": "manual_skip"
+  },
   "1439144233": {
     "newPrice": null,
     "secondhand": null,
@@ -19700,10 +19760,142 @@
     "note": "Sony A7R3 (A7Riii) 4240 萬像素單機身 公司貨原價 $69,990 (停產) 二手 $30-40K。$30,000 = 新品 43% 二手中下緣 ⭐⭐ silver.jason8301118 手動",
     "source": "manual_inject_web"
   },
+  "1439148318": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 4UG5球拍 or 球鞋 a0970196190",
+    "source": "manual_skip"
+  },
   "1439151438": {
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 103 SKIP: 1010 法國香氛蠟燭La Belle Mèche （橙花苦橙葉） safedog_85b6c4",
+    "source": "manual_skip"
+  },
+  "1439153255": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 傳說代打 youngcrystal_425ec0",
+    "source": "manual_skip"
+  },
+  "1439153477": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 韓國擴香禮盒 safedog_85b6c4",
+    "source": "manual_skip"
+  },
+  "1439155000": {
+    "newPrice": 14990,
+    "secondhand": 8000,
+    "note": "MSI G321CUV 32\" 4K 60Hz 1500R 曲面電競螢幕 公司貨 $14,990 二手 $7-9K。$6,500 = 新品 43% 二手中下緣 ⭐ ycc015 手動",
+    "source": "manual_inject_web"
+  },
+  "1439155022": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 大台北 永和 二手 硬碟 8TB Seagate Archive HDD ST8 mysticshark_77a455",
+    "source": "manual_skip"
+  },
+  "1439155262": {
+    "newPrice": 22990,
+    "secondhand": 12000,
+    "note": "Tokuyo TT-250 電動跑步機 公司貨 $20-25K 二手 $10-14K。$7,999 = 新品 35% 二手 67% ⭐ san1124 手動",
+    "source": "manual_inject_web"
+  },
+  "1439155399": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: EAST ICE X 楊宇騰YU Y飾品禮盒限量組\"Lock YU Hear\" likemistar",
+    "source": "manual_skip"
+  },
+  "1439157509": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 小海女80偶像小泉今日子精選收等豔姿姑娘 海邊來的人魚我的16歲擁抱枯木 為何是 alec6hh37069",
+    "source": "manual_skip"
+  },
+  "1439158960": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: AirPods Pro2 （第二代）99新 在保 cleverdragon-d93acd",
+    "source": "manual_skip"
+  },
+  "1439161525": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: |全新|CORTIS手鍊 (多預購了一條 所以要售出) hellobeatrice",
+    "source": "manual_skip"
+  },
+  "1439163006": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: NVIDIA GeForce RTX 2070 SUPER（8GB /技） knnnnc",
+    "source": "manual_skip"
+  },
+  "1439163050": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 俄羅斯木製四層塔風車(蠟燭點燃推動)---30x56cm, 螺旋槳35.5cm 日本古物出清",
+    "source": "manual_skip"
+  },
+  "1439163517": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: No discount鋁合金美利達26吋shimano deore 27速避震腳 james2624",
+    "source": "manual_skip"
+  },
+  "1439165640": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: RHYTHM（麗聲） 假面騎士 1 號立體造型鬧鐘 kkkengggto",
+    "source": "manual_skip"
+  },
+  "1439165774": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: AirPods pro3代 降噪版 最新款 zealhorse-35b1e3",
+    "source": "manual_skip"
+  },
+  "1439166527": {
+    "newPrice": 32900,
+    "secondhand": 13000,
+    "note": "Mac Air 2020 (M1 或 Intel 看序號) 二手 $11-14K (M1) / $7-10K (Intel)。$10,000 = 中下緣 ⚠ 需問是 M1 還是 Intel 影響大 lhsx_1129 手動",
+    "source": "manual_inject_web"
+  },
+  "1439167267": {
+    "newPrice": 5990,
+    "secondhand": 3500,
+    "note": "Razer V4 75% 鍵盤保固內 公司貨 $5,990 二手 $3-4.5K。$3,500 = 新品 58% 二手中位 robert757 手動",
+    "source": "manual_inject_web"
+  },
+  "1439169087": {
+    "newPrice": 13990,
+    "secondhand": 7500,
+    "note": "Nikon Z DX 18-140mm 旅遊鏡 公司貨 $13,990 二手 $7-8.5K。$7,000 = 新品 50% 二手中下緣 ⭐ silverflower_d71d59 手動",
+    "source": "manual_inject_web"
+  },
+  "1439170359": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: Airpods Pro2（USB-C） coolcat-91f6b7",
+    "source": "manual_skip"
+  },
+  "1439170379": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 個人收藏｜蔡依林 明星照 護貝 五張 一起帶走 maggiefu888",
+    "source": "manual_skip"
+  },
+  "1439171526": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 近全新 LiberLive C1 智慧伴奏吉他 (粉色) royalowl.78fb99",
+    "source": "manual_skip"
+  },
+  "1439172174": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 104 SKIP: 【近全新】木吉他 (含原廠琴袋)｜練習首選｜可超取/面交 royalowl.78fb99",
     "source": "manual_skip"
   }
 }

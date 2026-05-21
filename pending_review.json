@@ -91,6 +91,52 @@
       },
       "vsNew": 28,
       "vsSecondhand": 63
+    },
+    {
+      "seller": "san1124",
+      "timeAgo": "2 hours ago",
+      "title": "tokuyo 跑步機 型號tt 250",
+      "price": 7999,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439155262/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$7,999",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/21 16:53",
+      "pid": "1439155262",
+      "verified": {
+        "newPrice": 22990,
+        "secondhand": 12000,
+        "note": "Tokuyo TT-250 電動跑步機 公司貨 $20-25K 二手 $10-14K。$7,999 = 新品 35% 二手 67% ⭐ san1124 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 67
+    },
+    {
+      "seller": "lhsx_1129",
+      "timeAgo": "50 minutes ago",
+      "title": "Mac Air 2020",
+      "price": 10000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439166527/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/21 18:03",
+      "pid": "1439166527",
+      "verified": {
+        "newPrice": 32900,
+        "secondhand": 13000,
+        "note": "Mac Air 2020 (M1 或 Intel 看序號) 二手 $11-14K (M1) / $7-10K (Intel)。$10,000 = 中下緣 ⚠ 需問是 M1 還是 Intel 影響大 lhsx_1129 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 30,
+      "vsSecondhand": 77
     }
   ],
   "negotiate": [
@@ -198,7 +244,7 @@
       "priceStr": "NT$4,699",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 16:55",
+      "listedAt": "05/20 18:53",
       "pid": "1438907686",
       "verified": {
         "newPrice": 9790,
@@ -221,7 +267,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 16:55",
+      "listedAt": "05/20 18:53",
       "pid": "1438950526",
       "verified": {
         "newPrice": 12000,
@@ -267,7 +313,7 @@
       "priceStr": "NT$5,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/19 16:55",
+      "listedAt": "05/19 18:53",
       "pid": "1427408218",
       "verified": {
         "newPrice": 9790,
@@ -280,17 +326,17 @@
     },
     {
       "seller": "alex.is0506",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "MSI MAG 275UPD E14 平面電競螢幕 (27型/4K/HDR/144Hz/1ms/IPS/HDMI)",
       "price": 4800,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1439082627/",
-      "category": "螢幕",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$4,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 10:55",
+      "listedAt": "05/21 09:53",
       "pid": "1439082627",
       "verified": {
         "newPrice": 10990,
@@ -303,7 +349,7 @@
     },
     {
       "seller": "parker5265",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "Snow Peak Land Station 天幕帳 L (TP-820)",
       "price": 5999,
       "condition": "Lightly used",
@@ -313,7 +359,7 @@
       "priceStr": "NT$5,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 23:55",
+      "listedAt": "05/20 23:53",
       "pid": "1433144410",
       "verified": {
         "newPrice": 13500,
@@ -326,7 +372,7 @@
     },
     {
       "seller": "qwt49970608",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "Rog ally z1 extreme 512g 電競掌機",
       "price": 10500,
       "condition": "Lightly used",
@@ -336,7 +382,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 23:55",
+      "listedAt": "05/20 23:53",
       "pid": "1439040900",
       "verified": {
         "newPrice": 24990,
@@ -349,7 +395,7 @@
     },
     {
       "seller": "yang136",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "medicube AGE-R Booster Pro-黑 張員瑛美容儀",
       "price": 4500,
       "condition": "Lightly used",
@@ -359,7 +405,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 11:36",
+      "listedAt": "05/21 10:53",
       "pid": "1439089554",
       "verified": {
         "newPrice": 8500,
@@ -372,17 +418,17 @@
     },
     {
       "seller": "jesanyuan",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "MSI MAG281URF 27.9吋 4K IPS 平面電競螢幕",
       "price": 6000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439112988/",
-      "category": "螢幕",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 13:55",
+      "listedAt": "05/21 12:53",
       "pid": "1439112988",
       "verified": {
         "newPrice": 15990,
@@ -395,17 +441,17 @@
     },
     {
       "seller": "ayame2506",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "AOC CQ32G3SE 32吋曲面電競螢幕(32 /QHD/HDR/165Hz/1ms/VA)",
       "price": 3000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439097452/",
-      "category": "螢幕",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 11:55",
+      "listedAt": "05/21 11:53",
       "pid": "1439097452",
       "verified": {
         "newPrice": 6990,
@@ -418,7 +464,7 @@
     },
     {
       "seller": "silver.jason8301118",
-      "timeAgo": "31 minutes ago",
+      "timeAgo": "3 hours ago",
       "title": "Sony A7R3 (A7Riii) 單機身 4240萬像素",
       "price": 30000,
       "condition": "Lightly used",
@@ -428,7 +474,7 @@
       "priceStr": "NT$30,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 16:24",
+      "listedAt": "05/21 15:53",
       "pid": "1439147018",
       "verified": {
         "newPrice": 69990,
@@ -438,6 +484,29 @@
       },
       "vsNew": 43,
       "vsSecondhand": 86
+    },
+    {
+      "seller": "ycc015",
+      "timeAgo": "2 hours ago",
+      "title": "MSI G321CUV 4K60HZ 1500R電競曲面螢幕",
+      "price": 6500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439155000/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/21 16:53",
+      "pid": "1439155000",
+      "verified": {
+        "newPrice": 14990,
+        "secondhand": 8000,
+        "note": "MSI G321CUV 32\" 4K 60Hz 1500R 曲面電競螢幕 公司貨 $14,990 二手 $7-9K。$6,500 = 新品 43% 二手中下緣 ⭐ ycc015 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 43,
+      "vsSecondhand": 81
     }
   ],
   "uncertain": [
@@ -1430,26 +1499,6 @@
       "vsSecondhand": 130
     },
     {
-      "seller": "silver.jason8301118",
-      "timeAgo": "31 minutes ago",
-      "title": "Sony A7R3 (A7Riii) 單機身 4240萬像素",
-      "price": 30000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439147018/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "pid": "1439147018",
-      "priceStr": "NT$30,000",
-      "verified": {
-        "newPrice": 69990,
-        "secondhand": 35000,
-        "note": "Sony A7R3 (A7Riii) 4240 萬像素單機身 公司貨原價 $69,990 (停產) 二手 $30-40K。$30,000 = 新品 43% 二手中下緣 ⭐⭐ silver.jason8301118 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 43,
-      "vsSecondhand": 86
-    },
-    {
       "seller": "mattpraing",
       "timeAgo": "20 hours ago",
       "title": "MILA ML-X 外調式手搖磨豆機",
@@ -1468,6 +1517,126 @@
       },
       "vsNew": 71,
       "vsSecondhand": 125
+    },
+    {
+      "seller": "robert757",
+      "timeAgo": "46 minutes ago",
+      "title": "雷蛇RAZER v4 75% 鍵盤 保固內",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439167267/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439167267",
+      "priceStr": "NT$3,500",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": 3500,
+        "note": "Razer V4 75% 鍵盤保固內 公司貨 $5,990 二手 $3-4.5K。$3,500 = 新品 58% 二手中位 robert757 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "arduinolab98161",
+      "timeAgo": "2 hours ago",
+      "title": "Bambu A1 + AMS Lite 拓竹",
+      "price": 13000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1433273827/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1433273827",
+      "priceStr": "NT$13,000",
+      "verified": {
+        "newPrice": 13990,
+        "secondhand": 11000,
+        "note": "Bambu Lab A1 + AMS Lite 拓竹 3D 列印機 公司貨 $13,990 (含 AMS Lite) 二手 $10-12K。$13,000 = 新品 93% 偏高 arduinolab98161 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 93,
+      "vsSecondhand": 118
+    },
+    {
+      "seller": "clevercat.a13949",
+      "timeAgo": "2 days ago",
+      "title": "Victus Gaming 15, 13th Gen Intel(R) Core(TM) i7-13700H, RAM 16GB, NVIDIA GeForce RTX 4050 Laptop GPU",
+      "price": 21000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1438746261/",
+      "category": "筆電",
+      "maxDays": 7,
+      "pid": "1438746261",
+      "priceStr": "NT$21,000",
+      "verified": {
+        "newPrice": 28990,
+        "secondhand": 18000,
+        "note": "HP Victus Gaming 15 i7-13700H 16G RTX 公司貨 $26-30K 二手 $16-20K。$21,000 = 新品 72% 二手中位偏高 clevercat.a13949 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 72,
+      "vsSecondhand": 117
+    },
+    {
+      "seller": "silverdolphi",
+      "timeAgo": "1 day ago",
+      "title": "ipad pro 11吋 m4",
+      "price": 24000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1438913412/",
+      "category": "iPad",
+      "maxDays": 7,
+      "pid": "1438913412",
+      "priceStr": "NT$24,000",
+      "verified": {
+        "newPrice": 32900,
+        "secondhand": 22000,
+        "note": "iPad Pro 11\" M4 (2024) 公司貨 $32,900 二手 $22-26K。$24,000 = 新品 73% 二手中下緣 silverdolphi 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 73,
+      "vsSecondhand": 109
+    },
+    {
+      "seller": "sofia_tw",
+      "timeAgo": "4 hours ago",
+      "title": "全新Medicube Booster Pro美容儀（附蓋子）",
+      "price": 5200,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439128162/",
+      "category": "美容儀",
+      "maxDays": 7,
+      "pid": "1439128162",
+      "priceStr": "NT$5,200",
+      "verified": {
+        "newPrice": 8500,
+        "secondhand": 5000,
+        "note": "Medicube AGE-R Booster Pro 全新附蓋 公司貨 $8,500-9,949 二手 $4-6K。$5,200 = 新品 61% 二手中位 全新 ⭐ sofia_tw 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 61,
+      "vsSecondhand": 104
+    },
+    {
+      "seller": "silverflower_d71d59",
+      "timeAgo": "32 minutes ago",
+      "title": "Nikon Z DX 18-140mm 旅遊鏡",
+      "price": 7000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439169087/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "pid": "1439169087",
+      "priceStr": "NT$7,000",
+      "verified": {
+        "newPrice": 13990,
+        "secondhand": 7500,
+        "note": "Nikon Z DX 18-140mm 旅遊鏡 公司貨 $13,990 二手 $7-8.5K。$7,000 = 新品 50% 二手中下緣 ⭐ silverflower_d71d59 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 93
     }
   ]
 }
