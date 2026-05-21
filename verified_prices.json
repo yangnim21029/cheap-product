@@ -1008,6 +1008,12 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1423942919": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 110 SKIP: 祖馬龍香氛165ml英國梨與小蒼蘭 newlion-b57cdd",
+    "source": "manual_skip"
+  },
   "1423965032": {
     "newPrice": null,
     "secondhand": null,
@@ -20444,10 +20450,52 @@
     "note": "Patrol 109 SKIP: BIGBANG 2016年曆 （權志龍 姜大聲 崔勝鉉 東永裴 李勝利 ycuuz_",
     "source": "manual_skip"
   },
+  "1439242670": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 110 SKIP: CRKT SQUID XM 折刀 secondhand3c",
+    "source": "manual_skip"
+  },
   "1439242861": {
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 109 SKIP: COLD STEEL ENGAGE 3” secondhand3c",
+    "source": "manual_skip"
+  },
+  "1439245509": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 110 SKIP: 轉賣ear official 訂製香氛噴霧｜Toki 時 mellow_mellow",
+    "source": "manual_skip"
+  },
+  "1439246251": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 110 SKIP: 早期天然晶簇原皮水晶擺飾(1組優惠$1800)勿誠勿擾感恩🙏 1965thomas",
+    "source": "manual_skip"
+  },
+  "1439246420": {
+    "newPrice": 9990,
+    "secondhand": 4000,
+    "note": "Bose QuietComfort 35 II 深藍色限量款 (QC35 II 簡寫 QQ3.5) 公司貨 $9,990 (已停產) 二手 $3-4.5K。$3,500 = 新品 35% 二手中位 ⭐ mobistor 手動",
+    "source": "manual_inject_web"
+  },
+  "1439247586": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 110 SKIP: 偶像男女歌手五片600保證原版 kv0976028832658",
+    "source": "manual_skip"
+  },
+  "1439247731": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 110 SKIP: 早期CD55張合售 w6347",
+    "source": "manual_skip"
+  },
+  "1439248052": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 110 SKIP: 早期西洋CD14張合售 w6347",
     "source": "manual_skip"
   }
 }
