@@ -216,6 +216,15 @@ const timeAgoToMinutes = (ta) => {
   return 999999;
 };
 const sortByRecent = (a, b) => timeAgoToMinutes(a.timeAgo) - timeAgoToMinutes(b.timeAgo);
+// Backfill listedAt + condition. Warn loudly if timeAgo missing — that's a manual-inject bug.
+const validateAndBackfill = (arr, name) => arr.forEach(d => {
+  if (!d.timeAgo) console.warn(`⚠ ${name} pid=${d.pid} 缺 timeAgo — 手動 inject 漏帶, 從 raw_results 反查補`);
+  if (!d.listedAt) d.listedAt = timeAgoToTimestamp(d.timeAgo);
+  if (!d.condition) d.condition = 'Unknown';
+});
+validateAndBackfill(pending.newDeals, 'newDeals');
+validateAndBackfill(pending.negotiate, 'negotiate');
+validateAndBackfill(pending.uncertain, 'uncertain');
 const allNewDeals = [...pending.newDeals].sort(sortByRecent);
 const allNegotiate = [...pending.negotiate].sort(sortByRecent);
 const allUncertain = [...pending.uncertain].sort(sortByRecent);
