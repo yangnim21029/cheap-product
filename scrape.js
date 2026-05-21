@@ -27,7 +27,7 @@ const QUERIES = [
   // { q: 'Oculus', min: 1000, max: 10000, maxDays: 7 }, // 暫停：連續 3 輪空 2026-05-21
   { q: '露營', min: 2000, max: 10000, maxDays: 7 },
   { q: '地毯', min: 1000, max: 8000, maxDays: 7 },
-  { q: '優格機', min: 500, max: 3000, maxDays: 7 },
+  // { q: '優格機', min: 500, max: 3000, maxDays: 7 }, // 暫停：連續 3 輪空 2026-05-21 (上次有貨 5/20)
   // { q: 'fujifilm', min: 5000, max: 30000, maxDays: 7 }, // 改用 photography-6 分類 2026-05-08
   // { q: '相機機身', min: 5000, max: 30000, maxDays: 7 }, // 改用 photography-6 分類 2026-05-08
   { q: '磨豆機', min: 1500, max: 15000, maxDays: 7 },

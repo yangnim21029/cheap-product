@@ -58,7 +58,7 @@
       "priceStr": "NT$2,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 14:30",
+      "listedAt": "05/20 14:36",
       "pid": "1438885955",
       "verified": {
         "newPrice": 5500,
@@ -175,7 +175,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/19 14:30",
+      "listedAt": "05/19 16:55",
       "pid": "1432958288",
       "verified": {
         "newPrice": 8990,
@@ -198,7 +198,7 @@
       "priceStr": "NT$4,699",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 14:30",
+      "listedAt": "05/20 16:55",
       "pid": "1438907686",
       "verified": {
         "newPrice": 9790,
@@ -211,7 +211,7 @@
     },
     {
       "seller": "mario3",
-      "timeAgo": "23 hours ago",
+      "timeAgo": "1 day ago",
       "title": "Mammut 長毛象Trion Spine 50L 登山包",
       "price": 6500,
       "condition": "Like new",
@@ -221,7 +221,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 15:30",
+      "listedAt": "05/20 16:55",
       "pid": "1438950526",
       "verified": {
         "newPrice": 12000,
@@ -267,7 +267,7 @@
       "priceStr": "NT$5,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/19 14:30",
+      "listedAt": "05/19 16:55",
       "pid": "1427408218",
       "verified": {
         "newPrice": 9790,
@@ -280,7 +280,7 @@
     },
     {
       "seller": "alex.is0506",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "MSI MAG 275UPD E14 平面電競螢幕 (27型/4K/HDR/144Hz/1ms/IPS/HDMI)",
       "price": 4800,
       "condition": "Like new",
@@ -290,7 +290,7 @@
       "priceStr": "NT$4,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 10:30",
+      "listedAt": "05/21 10:55",
       "pid": "1439082627",
       "verified": {
         "newPrice": 10990,
@@ -303,7 +303,7 @@
     },
     {
       "seller": "parker5265",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Snow Peak Land Station 天幕帳 L (TP-820)",
       "price": 5999,
       "condition": "Lightly used",
@@ -313,7 +313,7 @@
       "priceStr": "NT$5,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 23:30",
+      "listedAt": "05/20 23:55",
       "pid": "1433144410",
       "verified": {
         "newPrice": 13500,
@@ -326,7 +326,7 @@
     },
     {
       "seller": "qwt49970608",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Rog ally z1 extreme 512g 電競掌機",
       "price": 10500,
       "condition": "Lightly used",
@@ -336,7 +336,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/20 23:30",
+      "listedAt": "05/20 23:55",
       "pid": "1439040900",
       "verified": {
         "newPrice": 24990,
@@ -359,7 +359,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 11:30",
+      "listedAt": "05/21 11:36",
       "pid": "1439089554",
       "verified": {
         "newPrice": 8500,
@@ -372,7 +372,7 @@
     },
     {
       "seller": "jesanyuan",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "3 hours ago",
       "title": "MSI MAG281URF 27.9吋 4K IPS 平面電競螢幕",
       "price": 6000,
       "condition": "Lightly used",
@@ -382,7 +382,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 13:30",
+      "listedAt": "05/21 13:55",
       "pid": "1439112988",
       "verified": {
         "newPrice": 15990,
@@ -395,7 +395,7 @@
     },
     {
       "seller": "ayame2506",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "AOC CQ32G3SE 32吋曲面電競螢幕(32 /QHD/HDR/165Hz/1ms/VA)",
       "price": 3000,
       "condition": "Lightly used",
@@ -405,7 +405,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/21 11:30",
+      "listedAt": "05/21 11:55",
       "pid": "1439097452",
       "verified": {
         "newPrice": 6990,
@@ -415,6 +415,29 @@
       },
       "vsNew": 43,
       "vsSecondhand": 75
+    },
+    {
+      "seller": "silver.jason8301118",
+      "timeAgo": "31 minutes ago",
+      "title": "Sony A7R3 (A7Riii) 單機身 4240萬像素",
+      "price": 30000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439147018/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$30,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/21 16:24",
+      "pid": "1439147018",
+      "verified": {
+        "newPrice": 69990,
+        "secondhand": 35000,
+        "note": "Sony A7R3 (A7Riii) 4240 萬像素單機身 公司貨原價 $69,990 (停產) 二手 $30-40K。$30,000 = 新品 43% 二手中下緣 ⭐⭐ silver.jason8301118 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 43,
+      "vsSecondhand": 86
     }
   ],
   "uncertain": [
@@ -1245,6 +1268,206 @@
       },
       "vsNew": 71,
       "vsSecondhand": 106
+    },
+    {
+      "seller": "hsiaochuan90797",
+      "timeAgo": "1 hour ago",
+      "title": "【知音影音】英國 Mordaunt-Short CS-1 書架式/衛星喇叭揚聲器含可調角度吊架",
+      "price": 9000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439136689/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "pid": "1439136689",
+      "priceStr": "NT$9,000",
+      "verified": {
+        "newPrice": 17990,
+        "secondhand": 9000,
+        "note": "Mordaunt-Short CS-1 書架式衛星喇叭+可調吊架 公司貨 $15-18K (停產) 二手 $8-10K。$9,000 = 新品 50% 二手中位 (英國品牌 hi-fi 收藏級) hsiaochuan90797 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "asdf09267599272",
+      "timeAgo": "1 hour ago",
+      "title": "Marshall Stockwell II 藍牙喇叭 (古銅黑/藍牙音響/無線/馬歇爾音響) 全新未拆封 保固一年",
+      "price": 6500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439133060/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "pid": "1439133060",
+      "priceStr": "NT$6,500",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 6500,
+        "note": "Marshall Stockwell II 藍牙喇叭古銅黑全新未拆封保固一年 公司貨 $9,990 二手 $5-7K。$6,500 = 新品 65% 二手 100% (這賣家 1 筆 ⚠Marshall 仿冒重災區 一定要驗保固卡序號) asdf09267599272 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 65,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "noway8888",
+      "timeAgo": "2 hours ago",
+      "title": "Bowers & Wilkins B&W T7 藍芽喇叭 藍芽音響 藍芽揚聲器",
+      "price": 7200,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439128708/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "pid": "1439128708",
+      "priceStr": "NT$7,200",
+      "verified": {
+        "newPrice": 14990,
+        "secondhand": 6000,
+        "note": "B&W T7 藍芽喇叭 已停產 公司貨原價 $14,990 二手 $5-7K。$7,200 = 新品 48% 二手中位 noway8888 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 120
+    },
+    {
+      "seller": "rotibanana",
+      "timeAgo": "2 hours ago",
+      "title": "Six Zero Coral Lightweight 匹克球拍 全新",
+      "price": 6800,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439125829/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1439125829",
+      "priceStr": "NT$6,800",
+      "verified": {
+        "newPrice": 8990,
+        "secondhand": 6000,
+        "note": "Six Zero Coral Lightweight 匹克球拍全新 公司貨 $8-9K 二手 $5-7K。$6,800 = 新品 76% 二手中位偏高 全新 rotibanana 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 76,
+      "vsSecondhand": 113
+    },
+    {
+      "seller": "nash_011024",
+      "timeAgo": "3 hours ago",
+      "title": "HITACHI 日立 RD-22FJ 11L 一級能效除濕機（全新未拆）",
+      "price": 8490,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439115883/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "pid": "1439115883",
+      "priceStr": "NT$8,490",
+      "verified": {
+        "newPrice": 13990,
+        "secondhand": 9000,
+        "note": "Hitachi RD-22FJ 11L 一級能效除濕機 全新未拆 公司貨 $13,990 二手 $9-10K。$8,490 = 新品 61% (同賣家 nash_011024 之前 PID 1439076105 已 inject — 是 re-upload 還是新貨待查) 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 61,
+      "vsSecondhand": 94
+    },
+    {
+      "seller": "clevercat.d4969d",
+      "timeAgo": "1 hour ago",
+      "title": "【出售】Apple iPad Air 11吋 M3 128GB Wi-Fi太空灰",
+      "price": 16800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439139724/",
+      "category": "iPad",
+      "maxDays": 7,
+      "pid": "1439139724",
+      "priceStr": "NT$16,800",
+      "verified": {
+        "newPrice": 18900,
+        "secondhand": 15000,
+        "note": "Apple iPad Air 11\" M3 128G WiFi 太空灰 公司貨 $18,900 二手 $14-16K。$16,800 = 新品 89% 二手中位偏高 clevercat.d4969d 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 89,
+      "vsSecondhand": 112
+    },
+    {
+      "seller": "gracechuchu0113",
+      "timeAgo": "4 hours ago",
+      "title": "Apple 第二代iPad The Pro 11吋（含巧控鍵盤+Apple pencil）降價促銷",
+      "price": 16900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1433312960/",
+      "category": "iPad",
+      "maxDays": 7,
+      "pid": "1433312960",
+      "priceStr": "NT$16,900",
+      "verified": {
+        "newPrice": 25900,
+        "secondhand": 16000,
+        "note": "iPad Pro 11\" 二代 + 巧控鍵盤 + Apple Pencil 降價 (2020 老款) 公司貨原價 $25,900 (含配件) 二手 $14-18K。$16,900 = 含配件中下緣 gracechuchu0113 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 65,
+      "vsSecondhand": 106
+    },
+    {
+      "seller": "join618",
+      "timeAgo": "2 hours ago",
+      "title": "Ps5 光碟版雙手把",
+      "price": 13000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439125568/",
+      "category": "PS5",
+      "maxDays": 7,
+      "pid": "1439125568",
+      "priceStr": "NT$13,000",
+      "verified": {
+        "newPrice": 15990,
+        "secondhand": 10000,
+        "note": "PS5 光碟版雙手把 公司貨 $15,990 二手 $9-11K。$13,000 = 新品 81% 二手中位偏高 join618 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 81,
+      "vsSecondhand": 130
+    },
+    {
+      "seller": "silver.jason8301118",
+      "timeAgo": "31 minutes ago",
+      "title": "Sony A7R3 (A7Riii) 單機身 4240萬像素",
+      "price": 30000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439147018/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "pid": "1439147018",
+      "priceStr": "NT$30,000",
+      "verified": {
+        "newPrice": 69990,
+        "secondhand": 35000,
+        "note": "Sony A7R3 (A7Riii) 4240 萬像素單機身 公司貨原價 $69,990 (停產) 二手 $30-40K。$30,000 = 新品 43% 二手中下緣 ⭐⭐ silver.jason8301118 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 43,
+      "vsSecondhand": 86
+    },
+    {
+      "seller": "mattpraing",
+      "timeAgo": "20 hours ago",
+      "title": "MILA ML-X 外調式手搖磨豆機",
+      "price": 2500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439012102/",
+      "category": "磨豆機",
+      "maxDays": 7,
+      "pid": "1439012102",
+      "priceStr": "NT$2,500",
+      "verified": {
+        "newPrice": 3500,
+        "secondhand": 2000,
+        "note": "MILA ML-X 外調式手搖磨豆機 公司貨 $3,500 二手 $1.5-2.5K。$2,500 = 新品 71% 二手中位偏高 mattpraing 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 71,
+      "vsSecondhand": 125
     }
   ]
 }
