@@ -57,6 +57,9 @@ const QUERIES = [
   { q: '瑜珈墊', min: 500, max: 5000, maxDays: 7 },
   { q: '香氛', min: 500, max: 6000, maxDays: 7 },
   { q: 'Refa', min: 1000, max: 8000, maxDays: 7 },
+  // 2026-05-23 Rose 詢問 手機播電影 HDMI 那種 (USB-C/Lightning to HDMI 轉接器/線)
+  { q: 'USB-C HDMI', min: 200, max: 3000, maxDays: 7 },
+  { q: '手機 HDMI', min: 200, max: 3000, maxDays: 7 },
   // { q: '游泳耳機', min: 500, max: 8000, maxDays: 7 }, // 暫停：連續 4 輪空 2026-05-21 (台灣 Carousell 太冷門, Shokz OpenSwim 沒人賣)
   // 無關鍵字瀏覽：雜訊高但偶有冷門品牌好物（SoundSticks 4 等）
   { q: '', min: 5000, max: 10000, maxDays: 1, label: '無關鍵字' },

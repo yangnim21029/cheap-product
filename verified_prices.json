@@ -20606,6 +20606,12 @@
     "note": "Patrol 111 SKIP: 張紹涵四片1500 kv0976028832658",
     "source": "manual_skip"
   },
+  "1439250377": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: ENERGEA 磁吸支架握把行動電源 coolriver.604ada",
+    "source": "manual_skip"
+  },
   "1439253503": {
     "newPrice": null,
     "secondhand": null,
@@ -20676,6 +20682,12 @@
     "newPrice": 39990,
     "secondhand": 23000,
     "note": "Sony FE PZ 16-35mm f/4 G 公司貨 $39,990 二手 $20-25K。$22,000 = 新品 55% 二手中位 ⭐ leo.912 手動",
+    "source": "manual_inject_web"
+  },
+  "1439263245": {
+    "newPrice": 1690,
+    "secondhand": 1000,
+    "note": "Anker A1664 超薄磁吸行動電源 10000mAh Qi2 30W 粉色 公司貨 $1,690 二手 $900-1.3K。$1,400 = 新品 83% 二手中位偏高 wisewater 手動",
     "source": "manual_inject_web"
   },
   "1439264177": {
@@ -21152,6 +21164,12 @@
     "note": "AGV K1S Rossi Winter Test 2017 雪屋限量彩繪全罩安全帽 公司貨 $12,000 (限量已停產) 二手 $5-7K。$6,000 = 新品 50% 二手中位 esohuang7426198 手動",
     "source": "manual_inject_web"
   },
+  "1439334156": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: Giaretti 電子式控溫手沖壺 hrnnnfang",
+    "source": "manual_skip"
+  },
   "1439334630": {
     "newPrice": null,
     "secondhand": null,
@@ -21506,6 +21524,18 @@
     "note": "Tamron A046SF (50-400mm Sony FE/Nikon Z) 公司貨 $35,000 二手 $15-19K。$11,000 = 新品 31% 二手中下緣 ⭐⭐ ericahsu1 手動",
     "source": "manual_inject_web"
   },
+  "1439377930": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: Time more 咖啡手沖壺 (304不鏽鋼) mattpraing",
+    "source": "manual_skip"
+  },
+  "1439377931": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: 16 pro 128 換過螢幕 zoooooe",
+    "source": "manual_skip"
+  },
   "1439377945": {
     "newPrice": null,
     "secondhand": null,
@@ -21552,6 +21582,54 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 113 SKIP: 穿著Prada的惡魔2 環球爆米花桶 11191002",
+    "source": "manual_skip"
+  },
+  "1439391545": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: Aesop book (絕版品） wuwu.779",
+    "source": "manual_skip"
+  },
+  "1439391642": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: Marshall mg10 _iaswn",
+    "source": "manual_skip"
+  },
+  "1439391818": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: Zutomayo 真夜中 永遠是深夜有多好 台北演唱會周邊 生薑二代全新 gsr6883342",
+    "source": "manual_skip"
+  },
+  "1439392091": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: Nux mg300 效果器 _iaswn",
+    "source": "manual_skip"
+  },
+  "1439395535": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: 西藏天然綠松石108棵 tseng888",
+    "source": "manual_skip"
+  },
+  "1439395864": {
+    "newPrice": 2380,
+    "secondhand": 1200,
+    "note": "Switch 健身環 + 健身環大冒險遊戲 + 綁手臂 公司貨組 $2,380 二手 $1-1.5K。$900 = 新品 38% 二手中下緣 ⭐ howaboutyouuu 手動 (Rose 明示 Switch 關注)",
+    "source": "manual_inject_web"
+  },
+  "1439400669": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: shu uemura 植村秀曺薇娟小卡 (G)i-dle小卡 ish41382280979",
+    "source": "manual_skip"
+  },
+  "1439401426": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 114 SKIP: Fujifilm xt2+Ttartisan 27mm f2.8富士相機 yuyuuyyyyy",
     "source": "manual_skip"
   }
 }
