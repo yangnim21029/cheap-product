@@ -35,7 +35,7 @@
       "priceStr": "NT$13,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 20:16",
+      "listedAt": "05/22 20:54",
       "pid": "1439364542",
       "verified": {
         "newPrice": 54900,
@@ -58,7 +58,7 @@
       "priceStr": "NT$4,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 20:16",
+      "listedAt": "05/22 20:54",
       "pid": "1439365061",
       "verified": {
         "newPrice": 14990,
@@ -83,7 +83,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 17:16",
+      "listedAt": "05/22 17:54",
       "pid": "1439337635",
       "verified": {
         "newPrice": 13990,
@@ -101,12 +101,12 @@
       "price": 4280,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439265925/",
-      "category": "音響耳機",
+      "category": "喇叭",
       "maxDays": 3,
       "priceStr": "NT$4,280",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 10:16",
+      "listedAt": "05/22 10:54",
       "pid": "1439265925",
       "verified": {
         "newPrice": 9990,
@@ -119,17 +119,17 @@
     },
     {
       "seller": "guojason",
-      "timeAgo": "21 minutes ago",
+      "timeAgo": "55 minutes ago",
       "title": "Olympus 12-40mm f2.8 pro 1代 公司貨 m43",
       "price": 10000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439377995/",
-      "category": "相機攝影",
-      "maxDays": 3,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 21:55",
+      "listedAt": "05/22 21:59",
       "pid": "1439377995",
       "verified": {
         "newPrice": 30000,
@@ -142,7 +142,7 @@
     },
     {
       "seller": "a09102686923361",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "switch 動森主機 + 良值手把 + 瑪利歐巨星派對 + 寶可夢紫",
       "price": 6000,
       "condition": "Like new",
@@ -152,7 +152,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 19:16",
+      "listedAt": "05/22 18:54",
       "pid": "1439353207",
       "verified": {
         "newPrice": 13000,
@@ -162,6 +162,75 @@
       },
       "vsNew": 46,
       "vsSecondhand": 86
+    },
+    {
+      "seller": "dannytech",
+      "timeAgo": "4 hours ago",
+      "title": "Huawei SoundX 帝瓦雷藍芽喇叭",
+      "price": 5688,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439347894/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$5,688",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/22 18:54",
+      "pid": "1439347894",
+      "verified": {
+        "newPrice": 14990,
+        "secondhand": 7000,
+        "note": "Huawei SoundX 帝瓦雷藍芽喇叭 公司貨 $14,990 二手 $6-8K。$5,688 = 新品 38% 二手中下緣 ⭐⭐ dannytech 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 81
+    },
+    {
+      "seller": "mina520530",
+      "timeAgo": "8 hours ago",
+      "title": "Apple iPad 11 (A16) Wi-Fi 128GB 銀色（保固內）",
+      "price": 6900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439305112/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$6,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/22 14:54",
+      "pid": "1439305112",
+      "verified": {
+        "newPrice": 11990,
+        "secondhand": 9000,
+        "note": "iPad 11 (A16) WiFi 128G 銀色 保固內 公司貨 $11,990 二手 $8.5-10K。$6,900 = 新品 58% 二手中下緣 ⭐⭐ mina520530 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 77
+    },
+    {
+      "seller": "willis_chen",
+      "timeAgo": "37 minutes ago",
+      "title": "LG 27GX790A-B OLED 27吋 1440p 480hz",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439382018/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$15,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/22 22:17",
+      "pid": "1439382018",
+      "verified": {
+        "newPrice": 35990,
+        "secondhand": 18000,
+        "note": "LG 27GX790A-B OLED 27\" 1440p 480Hz UltraGear 公司貨 $35,990 (頂級電競) 二手 $16-22K。$15,000 = 新品 42% 二手中下緣 ⭐⭐ willis_chen 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 42,
+      "vsSecondhand": 83
     }
   ],
   "uncertain": [
@@ -404,6 +473,206 @@
       },
       "vsNew": 60,
       "vsSecondhand": 120
+    },
+    {
+      "seller": "willis_chen",
+      "timeAgo": "37 minutes ago",
+      "title": "LG 27GX790A-B OLED 27吋 1440p 480hz",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439382018/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439382018",
+      "priceStr": "NT$15,000",
+      "verified": {
+        "newPrice": 35990,
+        "secondhand": 18000,
+        "note": "LG 27GX790A-B OLED 27\" 1440p 480Hz UltraGear 公司貨 $35,990 (頂級電競) 二手 $16-22K。$15,000 = 新品 42% 二手中下緣 ⭐⭐ willis_chen 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 42,
+      "vsSecondhand": 83
+    },
+    {
+      "seller": "fiercestar-9e3b",
+      "timeAgo": "33 minutes ago",
+      "title": "WD HC570 22TB",
+      "price": 11000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439382702/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439382702",
+      "priceStr": "NT$11,000",
+      "verified": {
+        "newPrice": 14990,
+        "secondhand": 9500,
+        "note": "WD HC570 Ultrastar 22TB 企業級硬碟 公司貨 $14-16K 二手 $9-11K。$11,000 = 新品 73% 二手中位偏高 fiercestar 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 73,
+      "vsSecondhand": 116
+    },
+    {
+      "seller": "dannytech",
+      "timeAgo": "4 hours ago",
+      "title": "Huawei SoundX 帝瓦雷藍芽喇叭",
+      "price": 5688,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439347894/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "pid": "1439347894",
+      "priceStr": "NT$5,688",
+      "verified": {
+        "newPrice": 14990,
+        "secondhand": 7000,
+        "note": "Huawei SoundX 帝瓦雷藍芽喇叭 公司貨 $14,990 二手 $6-8K。$5,688 = 新品 38% 二手中下緣 ⭐⭐ dannytech 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 81
+    },
+    {
+      "seller": "super6041506008",
+      "timeAgo": "6 hours ago",
+      "title": "DJI RS3 mini 三軸穩定器 穩定器 大疆三軸穩定器",
+      "price": 4600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439327625/",
+      "category": "dji",
+      "maxDays": 7,
+      "pid": "1439327625",
+      "priceStr": "NT$4,600",
+      "verified": {
+        "newPrice": 9900,
+        "secondhand": 5000,
+        "note": "DJI RS3 Mini 三軸穩定器 公司貨 $9,900 二手 $4.5-6K。$4,600 = 新品 46% 二手中位 ⭐ super6041506008 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 46,
+      "vsSecondhand": 92
+    },
+    {
+      "seller": "jayddddddde",
+      "timeAgo": "5 hours ago",
+      "title": "ible Airvida 小艾寶 穿戴式空氣清淨機 M1 50cm",
+      "price": 2300,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439341371/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "pid": "1439341371",
+      "priceStr": "NT$2,300",
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": 2200,
+        "note": "ible Airvida M1 穿戴式空氣清淨機 50cm 公司貨 $3,990 二手 $2-2.5K。$2,300 = 新品 58% 二手中位 ⭐ jayddddddde 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 105
+    },
+    {
+      "seller": "mina520530",
+      "timeAgo": "8 hours ago",
+      "title": "Apple iPad 11 (A16) Wi-Fi 128GB 銀色（保固內）",
+      "price": 6900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439305112/",
+      "category": "iPad",
+      "maxDays": 7,
+      "pid": "1439305112",
+      "priceStr": "NT$6,900",
+      "verified": {
+        "newPrice": 11990,
+        "secondhand": 9000,
+        "note": "iPad 11 (A16) WiFi 128G 銀色 保固內 公司貨 $11,990 二手 $8.5-10K。$6,900 = 新品 58% 二手中下緣 ⭐⭐ mina520530 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 77
+    },
+    {
+      "seller": "yushiu1001",
+      "timeAgo": "6 hours ago",
+      "title": "【漂亮福利機】板橋實體店面 二手機 原廠保內 Apple iPad 11 (2025) Wi-Fi 128GB #S0570",
+      "price": 9200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439325480/",
+      "category": "iPad",
+      "maxDays": 7,
+      "pid": "1439325480",
+      "priceStr": "NT$9,200",
+      "verified": {
+        "newPrice": 11990,
+        "secondhand": 9000,
+        "note": "iPad 11 (2025) WiFi 128G 漂亮福利機 板橋實體店保固內 公司貨 $11,990。$9,200 = 新品 77% 二手中位偏高 yushiu1001 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 77,
+      "vsSecondhand": 102
+    },
+    {
+      "seller": "sin_chih",
+      "timeAgo": "3 hours ago",
+      "title": "【炘馳通訊】Apple iPad Air 7 M3 WiFi 128GB 白色 二手平板 中古機 信用卡分期 舊機折抵",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439353881/",
+      "category": "iPad",
+      "maxDays": 7,
+      "pid": "1439353881",
+      "priceStr": "NT$15,000",
+      "verified": {
+        "newPrice": 20900,
+        "secondhand": 14500,
+        "note": "iPad Air 7 M3 WiFi 128G 白 二手 (炘馳通訊 信用卡分期/舊機折抵) 公司貨 $20,900 二手 $14-17K。$15,000 = 新品 72% 二手中位 sin_chih 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 72,
+      "vsSecondhand": 103
+    },
+    {
+      "seller": "kyaykyay",
+      "timeAgo": "10 hours ago",
+      "title": "Cortis 迷二黑膠全新未拆！！",
+      "price": 920,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439287133/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "pid": "1439287133",
+      "priceStr": "NT$920",
+      "verified": {
+        "newPrice": 1500,
+        "secondhand": 1000,
+        "note": "Cortis 迷二黑膠全新未拆 公司貨 $1,500 二手 $800-1.2K。$920 = 新品 61% 二手中位 kyaykyay 手動黑膠例外",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 61,
+      "vsSecondhand": 92
+    },
+    {
+      "seller": "chun77_",
+      "timeAgo": "2 hours ago",
+      "title": "二手▪️ Apple Watch SE3-40mm午夜黑",
+      "price": 4999,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439370365/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "pid": "1439370365",
+      "priceStr": "NT$4,999",
+      "verified": {
+        "newPrice": 7290,
+        "secondhand": 4500,
+        "note": "Apple Watch SE 3 40mm 午夜黑 二手 公司貨 $7,290 二手 $4-5K。$4,999 = 新品 69% 二手中位 chun77_ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 69,
+      "vsSecondhand": 111
     }
   ]
 }
