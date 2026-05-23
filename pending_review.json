@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "second.hand.sell",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
       "price": 20900,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:17",
+      "listedAt": "05/23 21:58",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -35,7 +35,7 @@
       "priceStr": "NT$7,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:17",
+      "listedAt": "05/23 23:58",
       "pid": "1439577641",
       "verified": {
         "newPrice": 23900,
@@ -58,7 +58,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 00:17",
+      "listedAt": "05/24 00:58",
       "pid": "1439587240",
       "verified": {
         "newPrice": 21900,
@@ -71,7 +71,7 @@
     },
     {
       "seller": "lcjen",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "華碩十代機i3-10105/16G記憶體/480G SSD",
       "price": 5566,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$5,566",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:17",
+      "listedAt": "05/23 22:58",
       "pid": "1439574601",
       "verified": {
         "newPrice": 13000,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "you2bepremium",
-      "timeAgo": "10 minutes ago",
+      "timeAgo": "51 minutes ago",
       "title": "華碩 ASUS ROG Strix 電競筆電 (i7-9750H / 16G / GTX 1650 / 2TB)",
       "price": 10000,
       "condition": "Like new",
@@ -119,7 +119,7 @@
   "negotiate": [
     {
       "seller": "yukiovo.",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
@@ -129,7 +129,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:17",
+      "listedAt": "05/23 20:58",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -152,7 +152,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:17",
+      "listedAt": "05/23 20:58",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -175,7 +175,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:17",
+      "listedAt": "05/23 21:58",
       "pid": "1433610087",
       "verified": {
         "newPrice": 12200,
@@ -188,7 +188,7 @@
     },
     {
       "seller": "lin03xo",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
       "price": 6000,
       "condition": "Like new",
@@ -198,7 +198,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:17",
+      "listedAt": "05/23 21:58",
       "pid": "1439562184",
       "verified": {
         "newPrice": null,
@@ -211,7 +211,7 @@
     },
     {
       "seller": "whus123",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡",
       "price": 6400,
       "condition": "Lightly used",
@@ -221,7 +221,7 @@
       "priceStr": "NT$6,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:17",
+      "listedAt": "05/23 21:58",
       "pid": "1428028256",
       "verified": {
         "newPrice": null,
@@ -234,17 +234,17 @@
     },
     {
       "seller": "kevn0324",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "MacBook Air M1 2020 8GB",
       "price": 9000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439583247/",
-      "category": "電腦科技",
-      "maxDays": 3,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 00:17",
+      "listedAt": "05/23 23:58",
       "pid": "1439583247",
       "verified": {
         "newPrice": 22000,
@@ -254,6 +254,29 @@
       },
       "vsNew": 41,
       "vsSecondhand": 75
+    },
+    {
+      "seller": "cheng3315",
+      "timeAgo": "23 minutes ago",
+      "title": "Dji mic",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439596980/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 02:35",
+      "pid": "1439596980",
+      "verified": {
+        "newPrice": 7790,
+        "secondhand": 4500,
+        "note": "DJI Mic 標題未指代數/套組,系列價差大(Mini ~$1K, Mic 1 一發 $3-4K, Mic 1 雙發+盒 $4.5-5.5K, Mic 2 $5-7K)。$3,500 = 78% (若為 Mic 1 雙發) 或 ~100% (若為一發)。⭐ 手動看實物/盒裝/型號",
+        "source": "2026-05-24"
+      },
+      "vsNew": 45,
+      "vsSecondhand": 78
     }
   ],
   "uncertain": [
@@ -436,6 +459,26 @@
       },
       "vsNew": 71,
       "vsSecondhand": 103
+    },
+    {
+      "seller": "cheng3315",
+      "timeAgo": "23 minutes ago",
+      "title": "Dji mic",
+      "price": 3500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439596980/",
+      "category": "dji",
+      "maxDays": 3,
+      "pid": "1439596980",
+      "priceStr": "NT$3,500",
+      "verified": {
+        "newPrice": 7790,
+        "secondhand": 4500,
+        "note": "DJI Mic 標題未指代數/套組,系列價差大(Mini ~$1K, Mic 1 一發 $3-4K, Mic 1 雙發+盒 $4.5-5.5K, Mic 2 $5-7K)。$3,500 = 78% (若為 Mic 1 雙發) 或 ~100% (若為一發)。⭐ 手動看實物/盒裝/型號",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 45,
+      "vsSecondhand": 78
     }
   ]
 }
