@@ -548,6 +548,13 @@
     "source": "web search 2026-05-11",
     "skip": true
   },
+  "1419350313": {
+    "newPrice": 3500,
+    "secondhand": 2500,
+    "note": "DDR4 3200 16GBx2 全新 $1,999-3,500 二手 ~$2,500。$6,500 遠超新品",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1419553624": {
     "newPrice": 2200,
     "secondhand": null,
@@ -579,6 +586,13 @@
     "secondhand": null,
     "note": "Frigidaire 倍效空氣清淨機(2-6坪桌上型) PChome$4,990。$600=12%超低可能舊機/壞機需驗",
     "source": "web search 2026-05-06"
+  },
+  "1419777450": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "VANA 灣月香氛暖燈 NT$700 freelion.d9a643 香氛批量 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1419878073": {
     "newPrice": null,
@@ -879,6 +893,13 @@
     "note": "Patrol 100 SKIP: 暴走兄弟-Tamiya 田宮軌道車 19404 疾速斧頭 日製（盒裝漫畫版 dabby08040804",
     "source": "manual_skip"
   },
+  "1422152391": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "龍普魯自身 figurine NT$4,000 johnjt 收藏品 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1422163894": {
     "newPrice": null,
     "secondhand": null,
@@ -927,6 +948,13 @@
     "secondhand": null,
     "note": "三腳架 【近全新】Selens 桌面迷你三腳架 SE-Tmini 萬 NT$1,200 入門腳架二手價合理無顯著折扣 SKIP",
     "source": "2026-05-16",
+    "skip": true
+  },
+  "1422368128": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "孫燕姿 My Story Your Song CD NT$7,000 pigshop579 CD SKIP",
+    "source": "2026-05-23",
     "skip": true
   },
   "1422497017": {
@@ -1581,6 +1609,13 @@
     "secondhand": null,
     "note": "香氛 JO MALONE 香氛蠟燭 200g NT$1,400 香水/蠟燭/精油類SK<$2K門檻 SKIP",
     "source": "2026-05-16",
+    "skip": true
+  },
+  "1426407975": {
+    "newPrice": 5999,
+    "secondhand": 3000,
+    "note": "雲米 VSO2602 26L 蒸氣烘烤爐 新品 $4,999-6,999 二手 $2,500-3,500。$3,680 = 新品 61% / 二手 123% 高於二手行情",
+    "source": "2026-05-23",
     "skip": true
   },
   "1426428111": {
@@ -3774,6 +3809,13 @@
     "secondhand": null,
     "note": "Patrol 100 SKIP: DJI Osmo Pocket 3 三軸運動相機 ycc_04",
     "source": "manual_skip"
+  },
+  "1433122511": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Zmoji 雙向延長線 NT$500 raymond_tu 雜物 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1433137073": {
     "newPrice": null,
@@ -17198,6 +17240,13 @@
     "note": "Patrol 99 SKIP: 迪卡儂兒童腳踏車～便宜賣 truelion.8cb35d",
     "source": "manual_skip"
   },
+  "1438757442": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 2 USB-C NT$1,900 grandavillet — 公司貨新品 $7,490 二手 $4-5K，$1,900 = 25% 高度疑似仿品 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1438758523": {
     "newPrice": null,
     "secondhand": null,
@@ -17528,6 +17577,13 @@
     "note": "Patrol 99 SKIP: 迪士尼 小飛象 Dumbo 黑膠 LP Disney 有聲書 早期 e1333",
     "source": "manual_skip"
   },
+  "1438820504": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple 30W A2164 NT$850 sp1123 配件 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1438821032": {
     "newPrice": null,
     "secondhand": null,
@@ -17767,6 +17823,20 @@
     "secondhand": null,
     "note": "Patrol 101 SKIP: Snoopy 行動電源10000mAh /PD 快充20W /支援magsafe minniewe",
     "source": "manual_skip"
+  },
+  "1438849178": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple 140W USB-C 電源 NT$2,000 youjump 配件中位 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1438849658": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "USB-C→MagSafe 3 線 2M 銀 NT$1,200 youjump 線材 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1438849924": {
     "newPrice": null,
@@ -18212,6 +18282,13 @@
     "note": "SWITCH 灰電力加強版 (二代非 OLED) 公司貨 $9,790 二手 $4.5-6K。$4,699 = 新品 48% 二手中位 ade1113 手動",
     "source": "manual_inject_web"
   },
+  "1438907959": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Magic Mouse USB-C NT$1,600 chichi_mochi 配件 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1438908802": {
     "newPrice": null,
     "secondhand": null,
@@ -18427,6 +18504,13 @@
     "secondhand": null,
     "note": "Patrol 100 SKIP: 好音悅 半銀圈 David Garrett Markovich 貝多芬 第5號小 788abc",
     "source": "manual_skip"
+  },
+  "1438950180": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Anker 7合1 Hub NT$1,000 epicwater.055d0b 配件 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1438950526": {
     "newPrice": 12000,
@@ -19165,6 +19249,13 @@
     "secondhand": null,
     "note": "Patrol 101 SKIP: EVISU × Razer 官方聯名限定｜BlackWidow V3 TKL 鍵 j6xul659457",
     "source": "manual_skip"
+  },
+  "1439056696": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple 30W USB-C 充電器 NT$800 jasminelee0413 配件 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439057472": {
     "newPrice": null,
@@ -20342,6 +20433,20 @@
     "note": "Bose SoundLink Around-Ear Wireless Headphones II 公司貨 $10,990 (停產) 二手 $4-5.5K。$4,500 = 新品 41% 二手中位 ⭐ dadachen1 手動",
     "source": "manual_inject_web"
   },
+  "1439214354": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Pencil (USB-C) NT$1,800 abc9009200 二手中位 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439215281": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Anker Prime 240W USB-C 線 NT$650 clalalalalaa 線材 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439215533": {
     "newPrice": 6500,
     "secondhand": 4000,
@@ -20630,6 +20735,13 @@
     "note": "Patrol 112 SKIP: 高級收藏卡冊 23-24嘉年華 - 收藏卡冊 日文 航海王卡牌對戰週邊 OPCG max_chen88",
     "source": "manual_skip"
   },
+  "1439254612": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "七寸九 香氛禮盒 NT$990 chunyaaa 香水已搞定 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439256749": {
     "newPrice": null,
     "secondhand": null,
@@ -20677,6 +20789,13 @@
     "secondhand": null,
     "note": "Patrol 112 SKIP: SEVENTEEN Miniteen 聖誕襪子大娃 勳 Ppyopuli Woo freeowl_b56d44",
     "source": "manual_skip"
+  },
+  "1439261523": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Pleuvoir 香氛噴霧 NT$1,500 jingxijingmi 香水已搞定 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439262800": {
     "newPrice": 39990,
@@ -20834,6 +20953,13 @@
     "note": "Patrol 112 SKIP: Nintendo Switch 電力加強版 yumi135512",
     "source": "manual_skip"
   },
+  "1439292589": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Thunderbolt 3→2 轉接器 NT$600 epicdeer_db9f2a 配件 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439296608": {
     "newPrice": null,
     "secondhand": null,
@@ -20851,6 +20977,13 @@
     "secondhand": null,
     "note": "Patrol 112 SKIP: 早期國外原民手工木雕 - 大型木雕貓咪擺飾#01（歷史/文化/文獻/鄉村/木雕/ ultrancku",
     "source": "manual_skip"
+  },
+  "1439299284": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "白噪音機+香氛機 NT$515 ok029 雜物無型號 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439300981": {
     "newPrice": null,
@@ -21116,6 +21249,13 @@
     "note": "DJI RS3 Mini 三軸穩定器 公司貨 $9,900 二手 $4.5-6K。$4,600 = 新品 46% 二手中位 ⭐ super6041506008 手動",
     "source": "manual_inject_web"
   },
+  "1439329379": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Jo Malone 藍風鈴 NT$800 daisy_selection 香水已搞定 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439329778": {
     "newPrice": null,
     "secondhand": null,
@@ -21230,6 +21370,13 @@
     "note": "Patrol 112 SKIP: 華碩 ASUS X515JP 15吋 i5-1035G1 12G 250G SS offee",
     "source": "manual_skip"
   },
+  "1439339322": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "essensorie 滾珠精油 NT$1,299 lanlantseng 香水已搞定 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439339587": {
     "newPrice": null,
     "secondhand": null,
@@ -21325,6 +21472,13 @@
     "secondhand": null,
     "note": "Patrol 112 SKIP: JBL 8吋主動重低音二手 qq858585",
     "source": "manual_skip"
+  },
+  "1439350186": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Dior 香氛鑰匙圈 NT$690 doris520 配件 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439352052": {
     "newPrice": null,
@@ -21464,6 +21618,13 @@
     "note": "Patrol 112 SKIP: 飛利浦喇叭-TAB4308 qaz0979520173",
     "source": "manual_skip"
   },
+  "1439369742": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Miss Dior 花漾迪奧 NT$2,700 relative_loss 香水已搞定 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439370344": {
     "newPrice": null,
     "secondhand": null,
@@ -21548,6 +21709,13 @@
     "note": "Olympus M.Zuiko 12-40mm f/2.8 PRO 一代 m43 公司貨 $30,000 二手 $11-15K。$10,000 = 新品 33% 二手中下緣 ⭐⭐ guojason 手動",
     "source": "manual_inject_web"
   },
+  "1439379050": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "L'Occitane 香氛組 NT$600 claire199768665 香水已搞定 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439380089": {
     "newPrice": null,
     "secondhand": null,
@@ -21572,6 +21740,13 @@
     "note": "Patrol 113 SKIP: 遊戲掌機 ex7294kc36",
     "source": "manual_skip"
   },
+  "1439385472": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "BBC EARTH 戶外上衣 NT$2,500 truefalcon_92a09e 服飾 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439385506": {
     "newPrice": null,
     "secondhand": null,
@@ -21583,6 +21758,13 @@
     "secondhand": null,
     "note": "Patrol 113 SKIP: 穿著Prada的惡魔2 環球爆米花桶 11191002",
     "source": "manual_skip"
+  },
+  "1439390864": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "紫水晶洞 NT$5,800 linxiaomei63813 水晶 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439391545": {
     "newPrice": null,
@@ -21614,11 +21796,31 @@
     "note": "Patrol 114 SKIP: 西藏天然綠松石108棵 tseng888",
     "source": "manual_skip"
   },
+  "1439395810": {
+    "newPrice": null,
+    "secondhand": 7000,
+    "note": "NEC LaVie 14吋 R5-5500U 16GB 日本製，日本中古 ~JPY 34,800 (~NT$7K)。$6,000 = 86% ⭐ 手動 (日製加分)",
+    "source": "2026-05-23"
+  },
   "1439395864": {
     "newPrice": 2380,
     "secondhand": 1200,
     "note": "Switch 健身環 + 健身環大冒險遊戲 + 綁手臂 公司貨組 $2,380 二手 $1-1.5K。$900 = 新品 38% 二手中下緣 ⭐ howaboutyouuu 手動 (Rose 明示 Switch 關注)",
     "source": "manual_inject_web"
+  },
+  "1439399394": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Liforme 瑜珈墊 NT$8,000 poppy168 瑜珈用品 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439400489": {
+    "newPrice": 3650,
+    "secondhand": 4500,
+    "note": "Fujifilm Instax Wide 300 新品公司貨僅 $3,650 (相機王)，二手 $3,000-6,000。$9,500 遠高於新品價",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439400669": {
     "newPrice": null,
@@ -21631,5 +21833,437 @@
     "secondhand": null,
     "note": "Patrol 114 SKIP: Fujifilm xt2+Ttartisan 27mm f2.8富士相機 yuyuuyyyyy",
     "source": "manual_skip"
+  },
+  "1439406012": {
+    "newPrice": 19900,
+    "secondhand": 15500,
+    "note": "iPad Air M3 11吋 (假設 128G) 新品 $19,900 二手 $15,000-17,000。$14,000 = 新品 70% / 二手 90% ⭐ 手動殺價空間",
+    "source": "2026-05-23"
+  },
+  "1439408241": {
+    "newPrice": null,
+    "secondhand": 12000,
+    "note": "MSI RTX 3080 Ti SUPRIM X 12G 二手 $11K-12.5K。$15,000 = 125% 保固內也偏高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439408563": {
+    "newPrice": 15750,
+    "secondhand": 14000,
+    "note": "PS5 Slim 12型光碟版 新品 $15,750 二手 $13K-15K。$10,980 = 二手 78% ⭐⭐ 殺價",
+    "source": "2026-05-23"
+  },
+  "1439411697": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SBD 比賽連身衣 NT$2,880 vivi209998 運動服飾 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439411726": {
+    "newPrice": null,
+    "secondhand": 7000,
+    "note": "Casio EX-10 F1.8 翻轉自拍機，BigGo 二手 $6,500-8,000。$5,500 = 二手 79% ⭐⭐ 殺價 (附二手包七日)",
+    "source": "2026-05-23"
+  },
+  "1439411853": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "標題僅「遊戲主機」太模糊，無法估值；$5,500 ⭐ 手動親看規格",
+    "source": "2026-05-23"
+  },
+  "1439412366": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "魯夫最後賞 NT$1,800 h884jfsfty 一番賞 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439414269": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "小提琴 NT$11,999 twohand676 樂器 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439414336": {
+    "newPrice": 9500,
+    "secondhand": 8000,
+    "note": "ASUS DUAL RTX 4060 8G 二手 $7,400-8,500，新品 $9-9.5K。$10,000 超過二手中位 125%",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439416807": {
+    "newPrice": null,
+    "secondhand": 3200,
+    "note": "ASUS ROG STRIX Z390-H 二手 $2,630-3,690 中位 $3,200。$3,000 = 94% ⭐⭐ 殺價",
+    "source": "2026-05-23"
+  },
+  "1439417340": {
+    "newPrice": 10290,
+    "secondhand": 9000,
+    "note": "Seagate IronWolf Pro 10TB ST10000NT001 PChome $10,290。$7,000 全新 = 68% ⭐⭐⭐ 好貨",
+    "source": "2026-05-23"
+  },
+  "1439417828": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "Canon IXUS 95 IS 2009年 CCD，Carousell listing $2,980。CCD 熱潮中位 $3,000-4,000。$5,000 = 143% 偏高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439417880": {
+    "newPrice": null,
+    "secondhand": 4800,
+    "note": "Canon IXUS 185 (2017年) Ruten $2,990-5,500，中位 $4,500-5,000。$5,500 = 115% 略高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439417901": {
+    "newPrice": null,
+    "secondhand": 3700,
+    "note": "Canon IXUS 860 IS 2007年 8MP CCD，Carousell listing $3,380。CCD 熱潮中位 $3,000-4,500。$5,500 = 149% 偏高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439418115": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "遊戲王 超框包 NT$3,200 dk087 卡牌 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439419142": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "KERASTASE 黑鑽護髮油 NT$1,280 shopppp___ 美髮非3C SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439420795": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "俏色貓眼碧璽手珠 NT$3,500 mimi55888 玉飾 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439420896": {
+    "newPrice": 9990,
+    "secondhand": 3500,
+    "note": "Honeywell HPA-300APTW 新品 $9,990 二手 $3,000-5,000。$800 = 新品 8% / 二手 23% ⭐⭐⭐ 好貨",
+    "source": "2026-05-23"
+  },
+  "1439421744": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "日本佛具黑檀木供物台 NT$3,800 tooaa10319 宗教 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439422644": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "霹靂 DVD 20套 NT$1,800 andy43463 DVD SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439425443": {
+    "newPrice": null,
+    "secondhand": 22000,
+    "note": "MSI GE66 龍盾 (10代i7+RTX 20/30系) 2020-2021，二手 $20K-30K。$8,800 異常便宜疑老款/有狀況 ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439426473": {
+    "newPrice": 59980,
+    "secondhand": 30000,
+    "note": "Sony a7m3 機身二手台灣 $28,000-32,000 (Yahoo $32,000、Carousell $28,000)。$26,000 = 二手 87% ⭐ 手動 (需看快門數)",
+    "source": "2026-05-23"
+  },
+  "1439427290": {
+    "newPrice": 62000,
+    "secondhand": 33000,
+    "note": "Sony FE 16-35 GM 一代二手 Taiwan 中位 $32,000-37,000 (Yahoo $37,300、青蘋果 $33,000)。$25,000 = 二手 76% ⭐⭐ 殺價 (確認是 GM 一代非 f4)",
+    "source": "2026-05-23"
+  },
+  "1439427404": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Polaroid 偏光太陽眼鏡 NT$1,880 shihhuachi12185 太陽眼鏡非相機 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439429169": {
+    "newPrice": 6490,
+    "secondhand": 4500,
+    "note": "PLAUD NotePin 新品 ~$5,490-6,490 + 旋轉手機盒。$4,500 含手機盒約原價 70% ⭐⭐ 殺價",
+    "source": "2026-05-23"
+  },
+  "1439430995": {
+    "newPrice": null,
+    "secondhand": 7500,
+    "note": "Minolta X-700 含三鏡套組 Yahoo 中位 $6,000-9,000，單機 $3,890-4,500。$15,888 = 二手 210% 除非稀有 MD 鏡組否則偏高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439431355": {
+    "newPrice": null,
+    "secondhand": 15000,
+    "note": "MacBook Pro 2020 13吋 二手 $13K-25K (Intel/M1 差距大)。標題沒講晶片，$10K 偏低可能是 Intel 基礎版 ⭐ 手動親看",
+    "source": "2026-05-23"
+  },
+  "1439433420": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "磁場行動電源 NT$599 8688056 無品牌雜訊 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439435297": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "德國玻璃貓咪糖果罐 NT$2,300 jewelry_cat 古物 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439435823": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "紀念幣 NT$1,200 kim19890226 紀念幣 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439438083": {
+    "newPrice": 900,
+    "secondhand": 500,
+    "note": "Momax 1-Power Vital 10000mAh 新品 ~$700-1,000 二手 $400-600。$1,000 = 新品 111% / 二手 200% 高於新品",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439438471": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "邊佑錫 Sumeer Letter NT$1,100 bobochiang37875 idol周邊 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439441907": {
+    "newPrice": 5490,
+    "secondhand": 4800,
+    "note": "AirPods 4 ANC 全新未拆 新品 ~$5,490 二手全新封 $4,500-4,800。$4,600 = 新品 84% / 二手 96% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439443656": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "APOTHEKE 衣櫥香氛吊牌 NT$500 p6cxkmtqvx89621 配件批量 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439451574": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Diptyque Orphéon 聖誕版 NT$5,000 marumybe 香水已搞定批量 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439452833": {
+    "newPrice": 7999,
+    "secondhand": null,
+    "note": "ASUS E510KA N4500 4G 蝦皮神腦 $7,999 / Yahoo $9,999。$8,500 高於蝦皮新品價",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439453259": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "STEREO PLAYER SYSTEM 黑膠唱機標題無品牌型號、無壓克力蓋、依現況售出不退，無法估行情。Rose 想收黑膠例外 ⭐ 手動評估實品",
+    "source": "2026-05-23"
+  },
+  "1439453531": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "老和闐脂級青璧玉神獸 NT$2,860 a0968331932 玉 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439454832": {
+    "newPrice": 12990,
+    "secondhand": 8000,
+    "note": "GoPro Hero 11 Black 已停產，Taiwan 二手中位 $7,000-9,000。$8,500 = 二手 106% 行情上緣 ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439455418": {
+    "newPrice": null,
+    "secondhand": 5000,
+    "note": "i5-11400 + B560/H510 + 風扇 套裝二手 ~$5,000。$3,500 = 70% ⭐⭐⭐ 好貨 (壓測過)",
+    "source": "2026-05-23"
+  },
+  "1439455506": {
+    "newPrice": null,
+    "secondhand": 10000,
+    "note": "Surface Go 3 LTE 64GB 二手 $8K-20K 中位 ~$10K。$4,300 = 二手 43% ⭐⭐⭐ 好貨 (注意確認規格/瑕疵)",
+    "source": "2026-05-23"
+  },
+  "1439456448": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "邊佑錫2025年曆禮盒 NT$1,500 bobochiang37875 idol周邊 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439458064": {
+    "newPrice": 7690,
+    "secondhand": 4200,
+    "note": "Fitwell 三鍛鍊全能機 原價 $7,690，Carousell 同款 9 成新 $4,200。$4,000 = 二手 95% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439459119": {
+    "newPrice": 4190,
+    "secondhand": 2800,
+    "note": "Sony INZONE H5 新品 $4,190 二手估 $2,800。$3,000 = 新品 72% / 二手 107% ⭐⭐ 殺價",
+    "source": "2026-05-23"
+  },
+  "1439459610": {
+    "newPrice": 10200,
+    "secondhand": 9000,
+    "note": "iPad A16 128G WiFi 全新 PChome $10,200 / Apple $11,900 二手全新封 ~$9,000-9,500。$9,500 = 新品 93% / 二手 106% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439462129": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple 96W USB-C 充電器 NT$1,220 oliver163 配件中位 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439463764": {
+    "newPrice": 2000,
+    "secondhand": 1500,
+    "note": "美光 MX500 1TB 新品 $1,800-2,200 二手中位 $1,500。$3,000 高於新品",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439463920": {
+    "newPrice": 7110,
+    "secondhand": 5000,
+    "note": "SHARP DW-P6HT-H 6L 除濕機 新品 $7,110 二手 $4,500-5,500。$5,500 = 新品 77% / 二手 110% 接近新品價",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439464180": {
+    "newPrice": 5990,
+    "secondhand": 5000,
+    "note": "Samsung Tab A11+ WiFi 6G/128G 全新僅拆封 新品 $5,990 (PChome) 二手全新封 ~$5,000。$5,300 = 新品 88% / 二手 106% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439464482": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "古董吉祥珠虎珠 NT$2,980 rain54389 玉珠 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439465446": {
+    "newPrice": 9800,
+    "secondhand": 2500,
+    "note": "IRLAND 24速雙碟平把小徑車 新品 $9,799-10,800，PTT 二手示例 $2,200。$2,840 = 二手 114% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439465856": {
+    "newPrice": null,
+    "secondhand": 9500,
+    "note": "iPad Air 3 256G 螢幕中央亮斑 (停產) 二手正常 $7,200-12,380 中位 ~$9,500。$4,500 = 二手 47% 帶瑕疵 ⭐ 手動評估亮斑",
+    "source": "2026-05-23"
+  },
+  "1439467383": {
+    "newPrice": 23500,
+    "secondhand": 20000,
+    "note": "Bambu Lab P2S 台灣公司貨 $23,500 海外版 ~$20-22K。全新僅拆封 $16,500 = 海外版 82% ⭐⭐ 殺價",
+    "source": "2026-05-23"
+  },
+  "1439467601": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "3D列印機無型號無法驗證行情。$3,000 ≥ $2K ⭐ 手動親看",
+    "source": "2026-05-23"
+  },
+  "1439469106": {
+    "newPrice": 5990,
+    "secondhand": 4000,
+    "note": "Sony SRS-LS1 LinkBuds Speaker 新品 $5,390-5,990 二手 ~$3,500-4,500。$3,750 = 新品 63% / 二手 94% ⭐ 手動殺價",
+    "source": "2026-05-23"
+  },
+  "1439469947": {
+    "newPrice": null,
+    "secondhand": 3200,
+    "note": "GTX 1660 (非 Super) 6G 二手 $2,700-4,000，中位 ~$3,200。$3,400 = 106% 中位",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439470193": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 遊戲片標題模糊未指定片名，$850 < $2K 手動門檻",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439470214": {
+    "newPrice": null,
+    "secondhand": 9000,
+    "note": "華碩 ET2311IUTH 23吋 AIO (2013停產 Win8 era) 二手 $4,600-12,500 中位 ~$9,000。$3,000 = 二手 33% 但老機器 ⭐ 手動評估規格年代",
+    "source": "2026-05-23"
+  },
+  "1439470367": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "i7-9700 二手散U 蝦皮/PTT 中位 $3,500。$4,400 = 126% 偏貴",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439472816": {
+    "newPrice": 1480,
+    "secondhand": 400,
+    "note": "三洋 500ml 隨行果汁機 新品 $1,480 二手 $300-500。$550 = 新品 37% / 二手 138% 低價雜訊",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439473080": {
+    "newPrice": null,
+    "secondhand": 2400,
+    "note": "Switch 四合一實體片 單片 $600-1,000，四片 $2,400-3,200。$3,200 = 100-130% ⭐ 手動 (Rose 關注 Switch 親看片名)",
+    "source": "2026-05-23"
+  },
+  "1439475832": {
+    "newPrice": 3500,
+    "secondhand": 1800,
+    "note": "Google Nest Hub 第2代 新品 $1,881-3,990 二手 ~$1,600-1,800。$2,388 = 新品 68% / 二手 133% 高於二手行情",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439475870": {
+    "newPrice": 1490,
+    "secondhand": 1000,
+    "note": "Anker A1665 Nano 磁吸 5000mAh 新品 $1,390-1,490 二手 $900-1,100。$1,150 = 新品 77% / 二手 115% 接近新品價",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439476459": {
+    "newPrice": 10500,
+    "secondhand": 6000,
+    "note": "BOSE QC45 耳罩降噪 新品 $10,500 二手 $5,600-6,500。$4,280 = 新品 41% / 二手 71% ⭐⭐⭐ 好貨",
+    "source": "2026-05-23"
+  },
+  "1439479718": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "UNION ARENA 鏈鋸人卡 NT$3,200 dk087 卡牌 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439480230": {
+    "newPrice": null,
+    "secondhand": 2200,
+    "note": "德國品牌 16吋兒童滑步車 (可能 PUKY) 二手 $1,800-2,700。$2,000 = 91% ⭐ 手動",
+    "source": "2026-05-23"
   }
 }

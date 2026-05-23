@@ -25,7 +25,7 @@
     },
     {
       "seller": "safeshark.df23f7",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "【二手精品】Nikon AF-S 24-70mm f/2.8G ED(榮泰公司貨)",
       "price": 13800,
       "condition": "Lightly used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$13,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 20:53",
+      "listedAt": "05/22 20:45",
       "pid": "1439364542",
       "verified": {
         "newPrice": 54900,
@@ -48,7 +48,7 @@
     },
     {
       "seller": "kany9",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "全新聯想 thinkpad 40B0 TB4 hub 雷電4 工作站 工作塢 專業 usb hub 40B00135",
       "price": 4900,
       "condition": "Brand new",
@@ -58,7 +58,7 @@
       "priceStr": "NT$4,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 20:53",
+      "listedAt": "05/22 20:45",
       "pid": "1439365061",
       "verified": {
         "newPrice": 14990,
@@ -68,12 +68,196 @@
       },
       "vsNew": 33,
       "vsSecondhand": 70
+    },
+    {
+      "seller": "cooldolphin_9151de",
+      "timeAgo": "6 hours ago",
+      "title": "美國HoneyWell AP300空氣清淨機 二手（很大台）",
+      "price": 800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439420896/",
+      "category": "空氣清淨機",
+      "maxDays": 3,
+      "priceStr": "NT$800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 08:45",
+      "pid": "1439420896",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 3500,
+        "note": "Honeywell HPA-300APTW 新品 $9,990 二手 $3,000-5,000。$800 = 新品 8% / 二手 23% ⭐⭐⭐ 好貨",
+        "source": "2026-05-23"
+      },
+      "vsNew": 8,
+      "vsSecondhand": 23
+    },
+    {
+      "seller": "kicoma722",
+      "timeAgo": "47 minutes ago",
+      "title": "《All-in-One主機》華碩ET2311IUTH，SSD 480GB；RAM 8GB；23吋觸控螢幕；WiFi",
+      "price": 3000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439470214/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 13:58",
+      "pid": "1439470214",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 9000,
+        "note": "華碩 ET2311IUTH 23吋 AIO (2013停產 Win8 era) 二手 $4,600-12,500 中位 ~$9,000。$3,000 = 二手 33% 但老機器 ⭐ 手動評估規格年代",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 33
+    },
+    {
+      "seller": "goldenearth.c257b6",
+      "timeAgo": "1 hour ago",
+      "title": "iPad Air 3 256G 螢幕中央亮斑如圖",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439465856/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 13:45",
+      "pid": "1439465856",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 9500,
+        "note": "iPad Air 3 256G 螢幕中央亮斑 (停產) 二手正常 $7,200-12,380 中位 ~$9,500。$4,500 = 二手 47% 帶瑕疵 ⭐ 手動評估亮斑",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 47
+    },
+    {
+      "seller": "960817.dedos",
+      "timeAgo": "1 hour ago",
+      "title": "（便宜賣）IRLAND 24 速雙碟平把小徑車",
+      "price": 2840,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439465446/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$2,840",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 13:45",
+      "pid": "1439465446",
+      "verified": {
+        "newPrice": 9800,
+        "secondhand": 2500,
+        "note": "IRLAND 24速雙碟平把小徑車 新品 $9,799-10,800，PTT 二手示例 $2,200。$2,840 = 二手 114% ⭐ 手動",
+        "source": "2026-05-23"
+      },
+      "vsNew": 29,
+      "vsSecondhand": 114
+    },
+    {
+      "seller": "dylan616",
+      "timeAgo": "2 hours ago",
+      "title": "平板電腦 10.5’ / Intel Core / 64GB / 4GB / Surface Go 3 LTE / 可安裝實體SIM卡",
+      "price": 4300,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439455506/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 12:45",
+      "pid": "1439455506",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 10000,
+        "note": "Surface Go 3 LTE 64GB 二手 $8K-20K 中位 ~$10K。$4,300 = 二手 43% ⭐⭐⭐ 好貨 (注意確認規格/瑕疵)",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 43
+    },
+    {
+      "seller": "bill19",
+      "timeAgo": "2 hours ago",
+      "title": "不議價 11代 i5-11400 LGA1200 含原廠風扇有壓力測試和跑分 B560 H510【無取貨付款不面交】使用中 還有",
+      "price": 3500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439455418/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 12:45",
+      "pid": "1439455418",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5000,
+        "note": "i5-11400 + B560/H510 + 風扇 套裝二手 ~$5,000。$3,500 = 70% ⭐⭐⭐ 好貨 (壓測過)",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 70
+    },
+    {
+      "seller": "kevinkang",
+      "timeAgo": "5 hours ago",
+      "title": "MacBook Pro 2020（13吋）",
+      "price": 10000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439431355/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 09:45",
+      "pid": "1439431355",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 15000,
+        "note": "MacBook Pro 2020 13吋 二手 $13K-25K (Intel/M1 差距大)。標題沒講晶片，$10K 偏低可能是 Intel 基礎版 ⭐ 手動親看",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 67
+    },
+    {
+      "seller": "twohand676",
+      "timeAgo": "6 hours ago",
+      "title": "MSI GE66 宇宙龍盾",
+      "price": 8800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439425443/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$8,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 08:45",
+      "pid": "1439425443",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 22000,
+        "note": "MSI GE66 龍盾 (10代i7+RTX 20/30系) 2020-2021，二手 $20K-30K。$8,800 異常便宜疑老款/有狀況 ⭐ 手動",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 40
     }
   ],
   "negotiate": [
     {
       "seller": "questionis",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "21 hours ago",
       "title": "Harman Kardon Aura3 搬家出清",
       "price": 5000,
       "condition": "Lightly used",
@@ -83,7 +267,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 17:53",
+      "listedAt": "05/22 17:45",
       "pid": "1439337635",
       "verified": {
         "newPrice": 13990,
@@ -96,7 +280,7 @@
     },
     {
       "seller": "buma0706",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "1 day ago",
       "title": "IKEA 絕版品WIFI喇叭 #SONOS IKEA [SYMFONISK] wifi喇叭燈座加燈罩黑色 近九成新 少使用",
       "price": 4280,
       "condition": "Lightly used",
@@ -106,7 +290,7 @@
       "priceStr": "NT$4,280",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 10:53",
+      "listedAt": "05/22 14:45",
       "pid": "1439265925",
       "verified": {
         "newPrice": 9990,
@@ -119,17 +303,17 @@
     },
     {
       "seller": "guojason",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Olympus 12-40mm f2.8 pro 1代 公司貨 m43",
       "price": 10000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439377995/",
-      "category": "",
-      "maxDays": 1,
+      "category": "相機攝影",
+      "maxDays": 3,
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 21:53",
+      "listedAt": "05/22 21:45",
       "pid": "1439377995",
       "verified": {
         "newPrice": 30000,
@@ -142,7 +326,7 @@
     },
     {
       "seller": "a09102686923361",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "switch 動森主機 + 良值手把 + 瑪利歐巨星派對 + 寶可夢紫",
       "price": 6000,
       "condition": "Like new",
@@ -152,7 +336,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 18:53",
+      "listedAt": "05/22 19:45",
       "pid": "1439353207",
       "verified": {
         "newPrice": 13000,
@@ -188,7 +372,7 @@
     },
     {
       "seller": "mina520530",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "Apple iPad 11 (A16) Wi-Fi 128GB 銀色（保固內）",
       "price": 6900,
       "condition": "Lightly used",
@@ -198,7 +382,7 @@
       "priceStr": "NT$6,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 14:54",
+      "listedAt": "05/22 14:45",
       "pid": "1439305112",
       "verified": {
         "newPrice": 11990,
@@ -211,7 +395,7 @@
     },
     {
       "seller": "willis_chen",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "LG 27GX790A-B OLED 27吋 1440p 480hz",
       "price": 15000,
       "condition": "Lightly used",
@@ -221,7 +405,7 @@
       "priceStr": "NT$15,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/22 21:53",
+      "listedAt": "05/22 22:45",
       "pid": "1439382018",
       "verified": {
         "newPrice": 35990,
@@ -231,6 +415,213 @@
       },
       "vsNew": 42,
       "vsSecondhand": 83
+    },
+    {
+      "seller": "wl_chongshem",
+      "timeAgo": "12 hours ago",
+      "title": "PS5主機光碟機版本 12型主機",
+      "price": 10980,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439408563/",
+      "category": "PS5",
+      "maxDays": 7,
+      "priceStr": "NT$10,980",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 02:45",
+      "pid": "1439408563",
+      "verified": {
+        "newPrice": 15750,
+        "secondhand": 14000,
+        "note": "PS5 Slim 12型光碟版 新品 $15,750 二手 $13K-15K。$10,980 = 二手 78% ⭐⭐ 殺價",
+        "source": "2026-05-23"
+      },
+      "vsNew": 70,
+      "vsSecondhand": 78
+    },
+    {
+      "seller": "xi.cut_1999",
+      "timeAgo": "13 hours ago",
+      "title": "ipad air m3 11吋",
+      "price": 14000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439406012/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$14,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 01:45",
+      "pid": "1439406012",
+      "verified": {
+        "newPrice": 19900,
+        "secondhand": 15500,
+        "note": "iPad Air M3 11吋 (假設 128G) 新品 $19,900 二手 $15,000-17,000。$14,000 = 新品 70% / 二手 90% ⭐ 手動殺價空間",
+        "source": "2026-05-23"
+      },
+      "vsNew": 70,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "cristina1107",
+      "timeAgo": "19 minutes ago",
+      "title": "BOSE QuietComfort 45 耳罩式藍牙耳機",
+      "price": 4280,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439476459/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,280",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 14:26",
+      "pid": "1439476459",
+      "verified": {
+        "newPrice": 10500,
+        "secondhand": 6000,
+        "note": "BOSE QC45 耳罩降噪 新品 $10,500 二手 $5,600-6,500。$4,280 = 新品 41% / 二手 71% ⭐⭐⭐ 好貨",
+        "source": "2026-05-23"
+      },
+      "vsNew": 41,
+      "vsSecondhand": 71
+    },
+    {
+      "seller": "bigshow04000",
+      "timeAgo": "5 hours ago",
+      "title": "Sony 16-35mm GM鏡頭",
+      "price": 25000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439427290/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$25,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 09:45",
+      "pid": "1439427290",
+      "verified": {
+        "newPrice": 62000,
+        "secondhand": 33000,
+        "note": "Sony FE 16-35 GM 一代二手 Taiwan 中位 $32,000-37,000 (Yahoo $37,300、青蘋果 $33,000)。$25,000 = 二手 76% ⭐⭐ 殺價 (確認是 GM 一代非 f4)",
+        "source": "2026-05-23"
+      },
+      "vsNew": 40,
+      "vsSecondhand": 76
+    },
+    {
+      "seller": "bigshow04000",
+      "timeAgo": "5 hours ago",
+      "title": "Sony a73 a7m3",
+      "price": 26000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439426473/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$26,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 09:45",
+      "pid": "1439426473",
+      "verified": {
+        "newPrice": 59980,
+        "secondhand": 30000,
+        "note": "Sony a7m3 機身二手台灣 $28,000-32,000 (Yahoo $32,000、Carousell $28,000)。$26,000 = 二手 87% ⭐ 手動 (需看快門數)",
+        "source": "2026-05-23"
+      },
+      "vsNew": 43,
+      "vsSecondhand": 87
+    },
+    {
+      "seller": "asdfgood",
+      "timeAgo": "11 hours ago",
+      "title": "casio ex10 相機 二手包七日 愛寶買賣 另定casio ex100",
+      "price": 5500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439411726/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$5,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 03:45",
+      "pid": "1439411726",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7000,
+        "note": "Casio EX-10 F1.8 翻轉自拍機，BigGo 二手 $6,500-8,000。$5,500 = 二手 79% ⭐⭐ 殺價 (附二手包七日)",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 79
+    },
+    {
+      "seller": "jay.dai138",
+      "timeAgo": "1 hour ago",
+      "title": "【Bambu Lab】拓竹 P2S 3D列印機 單機 全新僅拆封 僅原廠測試校準時數 海外版,可無線連接電腦app列印",
+      "price": 16500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439467383/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$16,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 13:45",
+      "pid": "1439467383",
+      "verified": {
+        "newPrice": 23500,
+        "secondhand": 20000,
+        "note": "Bambu Lab P2S 台灣公司貨 $23,500 海外版 ~$20-22K。全新僅拆封 $16,500 = 海外版 82% ⭐⭐ 殺價",
+        "source": "2026-05-23"
+      },
+      "vsNew": 70,
+      "vsSecondhand": 83
+    },
+    {
+      "seller": "safeshark.df23f7",
+      "timeAgo": "8 hours ago",
+      "title": "全新 Seagate 那斯狼 IronWolf Pro 10TB NAS 專用硬碟",
+      "price": 7000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439417340/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$7,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 06:45",
+      "pid": "1439417340",
+      "verified": {
+        "newPrice": 10290,
+        "secondhand": 9000,
+        "note": "Seagate IronWolf Pro 10TB ST10000NT001 PChome $10,290。$7,000 全新 = 68% ⭐⭐⭐ 好貨",
+        "source": "2026-05-23"
+      },
+      "vsNew": 68,
+      "vsSecondhand": 78
+    },
+    {
+      "seller": "redmaple0w0",
+      "timeAgo": "15 hours ago",
+      "title": "nec 14吋 日本製 r5-5500u 16gb 筆記型電腦 mis最愛 輕薄筆記型電腦 rj45網路口",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439395810/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/22 23:45",
+      "pid": "1439395810",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7000,
+        "note": "NEC LaVie 14吋 R5-5500U 16GB 日本製，日本中古 ~JPY 34,800 (~NT$7K)。$6,000 = 86% ⭐ 手動 (日製加分)",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 86
     }
   ],
   "uncertain": [
@@ -475,26 +866,6 @@
       "vsSecondhand": 120
     },
     {
-      "seller": "willis_chen",
-      "timeAgo": "37 minutes ago",
-      "title": "LG 27GX790A-B OLED 27吋 1440p 480hz",
-      "price": 15000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439382018/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439382018",
-      "priceStr": "NT$15,000",
-      "verified": {
-        "newPrice": 35990,
-        "secondhand": 18000,
-        "note": "LG 27GX790A-B OLED 27\" 1440p 480Hz UltraGear 公司貨 $35,990 (頂級電競) 二手 $16-22K。$15,000 = 新品 42% 二手中下緣 ⭐⭐ willis_chen 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 42,
-      "vsSecondhand": 83
-    },
-    {
       "seller": "fiercestar-9e3b",
       "timeAgo": "33 minutes ago",
       "title": "WD HC570 22TB",
@@ -513,26 +884,6 @@
       },
       "vsNew": 73,
       "vsSecondhand": 116
-    },
-    {
-      "seller": "dannytech",
-      "timeAgo": "4 hours ago",
-      "title": "Huawei SoundX 帝瓦雷藍芽喇叭",
-      "price": 5688,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439347894/",
-      "category": "喇叭",
-      "maxDays": 3,
-      "pid": "1439347894",
-      "priceStr": "NT$5,688",
-      "verified": {
-        "newPrice": 14990,
-        "secondhand": 7000,
-        "note": "Huawei SoundX 帝瓦雷藍芽喇叭 公司貨 $14,990 二手 $6-8K。$5,688 = 新品 38% 二手中下緣 ⭐⭐ dannytech 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 38,
-      "vsSecondhand": 81
     },
     {
       "seller": "super6041506008",
@@ -573,26 +924,6 @@
       },
       "vsNew": 58,
       "vsSecondhand": 105
-    },
-    {
-      "seller": "mina520530",
-      "timeAgo": "8 hours ago",
-      "title": "Apple iPad 11 (A16) Wi-Fi 128GB 銀色（保固內）",
-      "price": 6900,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439305112/",
-      "category": "iPad",
-      "maxDays": 7,
-      "pid": "1439305112",
-      "priceStr": "NT$6,900",
-      "verified": {
-        "newPrice": 11990,
-        "secondhand": 9000,
-        "note": "iPad 11 (A16) WiFi 128G 銀色 保固內 公司貨 $11,990 二手 $8.5-10K。$6,900 = 新品 58% 二手中下緣 ⭐⭐ mina520530 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 58,
-      "vsSecondhand": 77
     },
     {
       "seller": "yushiu1001",
@@ -713,6 +1044,226 @@
       },
       "vsNew": 83,
       "vsSecondhand": 140
+    },
+    {
+      "seller": "jason1106288173",
+      "timeAgo": "1 hour ago",
+      "title": "全新品僅拆封檢查 Samsung 三星 Galaxy Tab A11+ WiFi 6G／128G 平板",
+      "price": 5300,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439464180/",
+      "category": "iPad",
+      "maxDays": 3,
+      "pid": "1439464180",
+      "priceStr": "NT$5,300",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": 5000,
+        "note": "Samsung Tab A11+ WiFi 6G/128G 全新僅拆封 新品 $5,990 (PChome) 二手全新封 ~$5,000。$5,300 = 新品 88% / 二手 106% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 88,
+      "vsSecondhand": 106
+    },
+    {
+      "seller": "jmss2021",
+      "timeAgo": "2 hours ago",
+      "title": "📱 現貨各一台✨ 全新品 iPad A16 WiFi版 128G 銀/藍色 👉 高雄市區可面交📱",
+      "price": 9500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439459610/",
+      "category": "iPad",
+      "maxDays": 3,
+      "pid": "1439459610",
+      "priceStr": "NT$9,500",
+      "verified": {
+        "newPrice": 10200,
+        "secondhand": 9000,
+        "note": "iPad A16 128G WiFi 全新 PChome $10,200 / Apple $11,900 二手全新封 ~$9,000-9,500。$9,500 = 新品 93% / 二手 106% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 93,
+      "vsSecondhand": 106
+    },
+    {
+      "seller": "cybershotdsc",
+      "timeAgo": "60 minutes ago",
+      "title": "Sony SRS-LS1 LinkBuds Speaker Wireless Bluetooth Speaker 新力 索尼 可攜式無線藍芽喇叭.音箱.揚聲器",
+      "price": 3750,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439469106/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439469106",
+      "priceStr": "NT$3,750",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": 4000,
+        "note": "Sony SRS-LS1 LinkBuds Speaker 新品 $5,390-5,990 二手 ~$3,500-4,500。$3,750 = 新品 63% / 二手 94% ⭐ 手動殺價",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 94
+    },
+    {
+      "seller": "eggxxx__",
+      "timeAgo": "4 hours ago",
+      "title": "《全新未拆》AirPods 4 主動降噪版",
+      "price": 4600,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439441907/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439441907",
+      "priceStr": "NT$4,600",
+      "verified": {
+        "newPrice": 5490,
+        "secondhand": 4800,
+        "note": "AirPods 4 ANC 全新未拆 新品 ~$5,490 二手全新封 $4,500-4,800。$4,600 = 新品 84% / 二手 96% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 84,
+      "vsSecondhand": 96
+    },
+    {
+      "seller": "steven791125",
+      "timeAgo": "2 hours ago",
+      "title": "Gopro 11 black",
+      "price": 8500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439454832/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "pid": "1439454832",
+      "priceStr": "NT$8,500",
+      "verified": {
+        "newPrice": 12990,
+        "secondhand": 8000,
+        "note": "GoPro Hero 11 Black 已停產，Taiwan 二手中位 $7,000-9,000。$8,500 = 二手 106% 行情上緣 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 65,
+      "vsSecondhand": 106
+    },
+    {
+      "seller": "safetree-611b82",
+      "timeAgo": "2 hours ago",
+      "title": "STEREO PLAER SYSTEM黑膠唱機無壓克力蓋依現況賣售出不退",
+      "price": 3500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439453259/",
+      "category": "黑膠",
+      "maxDays": 3,
+      "pid": "1439453259",
+      "priceStr": "NT$3,500",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "STEREO PLAYER SYSTEM 黑膠唱機標題無品牌型號、無壓克力蓋、依現況售出不退，無法估行情。Rose 想收黑膠例外 ⭐ 手動評估實品",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "bsnn9zgdzc53783",
+      "timeAgo": "1 hour ago",
+      "title": "3D列印機",
+      "price": 3000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439467601/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439467601",
+      "priceStr": "NT$3,000",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "3D列印機無型號無法驗證行情。$3,000 ≥ $2K ⭐ 手動親看",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "boldlion.128920",
+      "timeAgo": "11 hours ago",
+      "title": "遊戲主機",
+      "price": 5500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439411853/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439411853",
+      "priceStr": "NT$5,500",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "標題僅「遊戲主機」太模糊，無法估值；$5,500 ⭐ 手動親看規格",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "cristina1107",
+      "timeAgo": "40 minutes ago",
+      "title": "NS Switch 四合一實體片",
+      "price": 3200,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439473080/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439473080",
+      "priceStr": "NT$3,200",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 2400,
+        "note": "Switch 四合一實體片 單片 $600-1,000，四片 $2,400-3,200。$3,200 = 100-130% ⭐ 手動 (Rose 關注 Switch 親看片名)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": 133
+    },
+    {
+      "seller": "fastcrystal.982451",
+      "timeAgo": "2 minutes ago",
+      "title": "9成新德國品牌16吋兒童滑步車",
+      "price": 2000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439480230/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1439480230",
+      "priceStr": "NT$2,000",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 2200,
+        "note": "德國品牌 16吋兒童滑步車 (可能 PUKY) 二手 $1,800-2,700。$2,000 = 91% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": 91
+    },
+    {
+      "seller": "chiusheng",
+      "timeAgo": "2 hours ago",
+      "title": "Fitwell 三訓練全能機",
+      "price": 4000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439458064/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1439458064",
+      "priceStr": "NT$4,000",
+      "verified": {
+        "newPrice": 7690,
+        "secondhand": 4200,
+        "note": "Fitwell 三鍛鍊全能機 原價 $7,690，Carousell 同款 9 成新 $4,200。$4,000 = 二手 95% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 52,
+      "vsSecondhand": 95
     }
   ]
 }

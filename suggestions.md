@@ -128,3 +128,29 @@ raw 848 筆 / 候選 36，本輪掃 raw 雜訊看到的非清單訊號：
 - 下次遇到符合模式的賣家直接加 shops，不送 subagent 浪費 token
 
 ---
+
+## 2026-05-23 14:45 觀察（patrol — Switch/CCD 訊號 + GoPro/Snow Peak 浮現）
+
+### auto_query_suggest 命中
+- **gopro** 2 筆（Hero 11 black $8,500 + $8,000）— 同款相鄰價位連兩筆，型號明確，已停產二手中位 $7-9K，建議加 query：`gopro`，min $3K max $12K
+- **snow peak** 2 筆（休閒椅30 卡其 $4,180 全新 + $3,780）— 同款連兩筆，可能是同賣家清貨；露營戶外戰場熱度上升，但 Rose 不一定追，**先放 suggestions 別動 QUERIES**
+- **oakley** 2 筆太陽眼鏡（Sutro lite + twenty XX FMJ $4,999/$7,500）— 太陽眼鏡 SKIP 過很多，與 Rose 興趣低；marketing × luxury 軸的話 Rose 想收的是 Hermès/VW 那種非運動款，oakley 不上
+- **apple airpods** 2 筆 — 已被音響耳機分類頁覆蓋，不獨立查
+- **國際牌** 3 筆 — 都是雜訊（美容儀/分離冷氣/吹風機），品類分散，不加 query
+
+### Switch 訊號累積
+- 本輪手動冒出三筆 Switch 相關：四合一遊戲片 $3,200 / 動森限定主機組 $6,000 / Switch 2 Pro 手把 $2,500 / 健身環 $900。Rose 明示 Switch 關注，但個別片+配件主要靠 raw_results 自然抓到，不必獨立 query
+- **可考慮**：加 `Switch 主機` query（min $5K max $15K）抓出 Switch OLED / Switch 2 主機本體，目前是靠「電玩主機」分類頁
+
+### CCD 復古相機警告（連四輪都偏高）
+- 本輪四筆 Canon ixus 860/185/95 + Casio EX10 全部 105-149% 偏高
+- CCD 熱潮已 plateau，賣家定價跟漲，**沒折扣空間**。建議：之後 Canon ixus / Olympus mju / Casio EX 系列 raw_results 出現直接列「警示 CCD 熱潮高定價」，subagent 也不用一一查
+- 例外：型號未知或標題只說「CCD 相機」可能撿漏，仍走手動
+
+### 黑膠音響類首筆出現
+- STEREO PLAYER SYSTEM 黑膠唱機 $3,500（無型號 + 無壓克力蓋 + 依現況不退）— 已標手動。Rose 想收黑膠的話這種狀況品要實體看
+- 純黑膠類 query（如 `黑膠唱機` / `turntable`）暫無 baseline，**等下輪再看 1-2 筆才決定加不加**
+
+### 賣家觀察
+- **johnson256** 一次上 3 筆 Canon ixus CCD 全偏高 → 批量轉售嫌疑，下輪如再出現整批標 SKIP 不查
+- **bigshow04000** 一次上 2 筆 Sony 高階（a7m3 $26K + 16-35GM $25K），定價跟二手中下緣接近，個人賣家機率高，先觀察一輪
