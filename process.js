@@ -221,11 +221,52 @@ const validateAndBackfill = (arr, name) => arr.forEach(d => {
 validateAndBackfill(pending.newDeals, 'newDeals');
 validateAndBackfill(pending.negotiate, 'negotiate');
 validateAndBackfill(pending.uncertain, 'uncertain');
+// === Cap per category（同品類超過 N 筆,後段 mark seen 放棄）===
+// 防電腦科技/iPad/相機等品類佔比過高灌爆 README
+// 權威控制：query 詞 → Carousell 主類別 (同義詞合併計算 cap)
+const CATEGORY_AUTHORITY = {
+  'PS5': '電玩主機',
+  'Steam Deck': '電玩主機',
+  'Switch 遊戲片': '電玩主機',
+};
+const normalizeCat = c => CATEGORY_AUTHORITY[c] || c || '其他';
+
+const CAP_PER_CATEGORY = 5;
+const capByCategory = (items, label) => {
+  const byCat = {};
+  items.forEach(d => {
+    (byCat[normalizeCat(d.category)] = byCat[normalizeCat(d.category)] || []).push(d);
+  });
+  const kept = [], dropped = [];
+  for (const arr of Object.values(byCat)) {
+    // 排序：越便宜（vsSecondhand 越低）越前面，null 用 vsNew 退化，再 null 視作行情
+    arr.sort((a, b) => (a.vsSecondhand ?? a.vsNew ?? 999) - (b.vsSecondhand ?? b.vsNew ?? 999));
+    kept.push(...arr.slice(0, CAP_PER_CATEGORY));
+    dropped.push(...arr.slice(CAP_PER_CATEGORY));
+  }
+  if (dropped.length) console.log(`  ${label}: cap ${CAP_PER_CATEGORY}/cat → mark seen ${dropped.length} 筆`);
+  return { kept, dropped };
+};
+
+console.log('\n=== Cap per category ===');
+const capNew = capByCategory(pending.newDeals, '好貨');
+const capNeg = capByCategory(pending.negotiate, '殺價');
+const capUnc = capByCategory(pending.uncertain, '手動');
+const cappedDropPids = [...capNew.dropped, ...capNeg.dropped, ...capUnc.dropped].map(d => d.pid);
+if (cappedDropPids.length) {
+  pending.newDeals = capNew.kept;
+  pending.negotiate = capNeg.kept;
+  pending.uncertain = capUnc.kept;
+  const seenArr = JSON.parse(fs.readFileSync(SEEN_FILE, 'utf8'));
+  cappedDropPids.forEach(p => { if (!seenArr.includes(p)) seenArr.push(p); });
+  fs.writeFileSync(SEEN_FILE, JSON.stringify(seenArr, null, 2));
+  fs.writeFileSync(PENDING_FILE, JSON.stringify(pending, null, 2));
+  console.log(`  總計移除 ${cappedDropPids.length} 筆, seen_ids → ${seenArr.length}`);
+}
+
 const allNewDeals = [...pending.newDeals].sort(sortByRecent);
 const allNegotiate = [...pending.negotiate].sort(sortByRecent);
 const allUncertain = [...pending.uncertain].sort(sortByRecent);
-
-// (sorting handled via allNewDeals/allNegotiate/allUncertain above)
 
 // === 輸出報告 ===
 const recentCount = [...new Set(raw.filter(i => isRecent(i.timeAgo, i.maxDays || 3)).map(i => i.url))].length;
