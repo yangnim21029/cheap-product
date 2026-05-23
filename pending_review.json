@@ -1,9 +1,33 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "second.hand.sell",
+      "timeAgo": "24 minutes ago",
+      "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
+      "price": 20900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439561518/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$20,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 21:54",
+      "pid": "1439561518",
+      "verified": {
+        "newPrice": 48500,
+        "secondhand": 35000,
+        "note": "LAOWA FFS 15mm f4.5 移軸紅圈 新品 $48,500 二手中位 $32K-38K。$20,900 = 二手 60% ⭐⭐⭐ 好貨 (但 second.hand.sell 賣家+w-dreamer 須驗真偽)",
+        "source": "2026-05-23"
+      },
+      "vsNew": 43,
+      "vsSecondhand": 60
+    }
+  ],
   "negotiate": [
     {
       "seller": "yukiovo.",
-      "timeAgo": "49 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
@@ -13,7 +37,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:57",
+      "listedAt": "05/23 21:18",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -26,7 +50,7 @@
     },
     {
       "seller": "ivankuo.tw",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "EVGA RTX 3080 FTW3",
       "price": 9800,
       "condition": "Lightly used",
@@ -36,7 +60,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:46",
+      "listedAt": "05/23 20:18",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -128,6 +152,26 @@
       },
       "vsNew": null,
       "vsSecondhand": 89
+    },
+    {
+      "seller": "SuperBuyMan",
+      "timeAgo": "9 minutes ago",
+      "title": "SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭",
+      "price": 2300,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439563940/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439563940",
+      "priceStr": "NT$2,300",
+      "verified": {
+        "newPrice": 2300,
+        "secondhand": 2400,
+        "note": "SONY SRS-NB10 頸掛 新品 $3,350-3,990 二手 $2,200-2,500。$2,300 = 96% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 100,
+      "vsSecondhand": 96
     }
   ]
 }
