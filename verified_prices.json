@@ -21950,8 +21950,9 @@
   "1439420896": {
     "newPrice": 9990,
     "secondhand": 3500,
-    "note": "Honeywell HPA-300APTW 新品 $9,990 二手 $3,000-5,000。$800 = 新品 8% / 二手 23% ⭐⭐⭐ 好貨",
-    "source": "2026-05-23"
+    "note": "HoneyWell AP300 $800 cooldolphin_9151de — Rose 看賣場無評價,低價值用戶 SKIP (已加 sellers.overpriced)",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439421744": {
     "newPrice": null,

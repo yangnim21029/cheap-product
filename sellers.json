@@ -601,7 +601,7 @@
     ]
   },
   "overpriced": {
-    "_comment": "定價偏高/賣不動，排除。Bumped=付費置頂但賣不掉",
+    "_comment": "定價偏高/賣不動/低價值用戶（無評價），排除",
     "accounts": [
       {
         "id": "maxwilliam",
@@ -609,6 +609,11 @@
         "reviews": 201,
         "joined": "5m13d",
         "note": "Bose全線Bumped賣不動,330單但音響類定價高於市場"
+      },
+      {
+        "id": "cooldolphin_9151de",
+        "reviews": 0,
+        "note": "Rose 2026-05-23 看賣場無評價無歷史,低價值用戶排除(HoneyWell AP300 $800 不接)"
       }
     ]
   },
