@@ -4227,6 +4227,13 @@
     "note": "iPad Air 5 (M1) 64G 二手中位 $10K-12K。$8,500 = 77% ⭐⭐ 殺價",
     "source": "2026-05-23"
   },
+  "1433741466": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "張國榮 鍾情 2004 港版 3CD NT$800 t670410555 樂媒 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1433801453": {
     "newPrice": null,
     "secondhand": null,
@@ -6788,6 +6795,13 @@
     "secondhand": 3000,
     "note": "Marshall Emberton II 二代藍牙喇叭 公司貨$6,490 / 二手中位$3,000。$3,200=49%/107% 比二手略貴 SKIP",
     "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1436789351": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "周治平 96 年演唱會紀實 CD NT$600 t670410555 樂媒 SKIP",
+    "source": "2026-05-23",
     "skip": true
   },
   "1436790778": {
@@ -23040,10 +23054,24 @@
     "note": "Switch 電力加強版+健身環+收納包 新機組合 $7,580 二手 $6.5-7K。$8,280 高於二手 ⭐ 手動 (Rose 關注 Switch 邊緣值)",
     "source": "2026-05-23"
   },
+  "1439566554": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Cuisinart 9L 氣炸烤箱 (型號未明) 新品 $8,990 二手 $1,900-2,800。$3,400 = 148% 高於行情 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1439570781": {
     "newPrice": null,
     "secondhand": null,
     "note": "張學友 Wake Up Dreaming 限量盒裝 BD NT$1,980 carrie98 <$2K 樂媒 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439572165": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SK Hynix DDR5 5600 16GB SO-DIMM 新品蝦皮 $4,650-5,500 二手 $3,800。$4,800 接近新品價 SKIP",
     "source": "2026-05-23",
     "skip": true
   }

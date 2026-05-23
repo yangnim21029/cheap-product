@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/23 22:48:56 · 累積已看 9786 筆 · 110 位賣家黑名單
+> 2026/5/23 23:18:20 · 累積已看 9790 筆 · 110 位賣家黑名單
 
 **待審：** 好貨 1 ｜ 殺價 5 ｜ 手動 8 ｜ 待查 0
 
@@ -20,11 +20,11 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [電腦科技] MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡 | **NT$6,400** | 二手$7500 | 85% 二手 | Lightly used | 05/23 22:20 | [→](https://tw.carousell.com/p/1428028256/) |
-| [電玩主機] 二手 Switch 1代主機 白色 64g、健身環大冒險 | **NT$6,000** | 二手$6700 | 90% 二手 | Like new | 05/23 21:55 | [→](https://tw.carousell.com/p/1439562184/) |
-| [相機攝影] Leica Sofort2 拍立得相機 | **NT$9,500** | 新$12200 | 78% new | Like new | 05/23 21:48 | [→](https://tw.carousell.com/p/1433610087/) |
-| [電腦科技] RAKKA80 | **NT$8,000** | 新$12800 | 63% new | Like new | 05/23 20:48 | [→](https://tw.carousell.com/p/1439551386/) |
-| [電腦科技] EVGA RTX 3080 FTW3 | **NT$9,800** | 二手$11000 | 89% 二手 | Lightly used | 05/23 20:48 | [→](https://tw.carousell.com/p/1439549257/) |
+| MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡 | **NT$6,400** | 二手$7500 | 85% 二手 | Lightly used | 05/23 22:28 | [→](https://tw.carousell.com/p/1428028256/) |
+| 二手 Switch 1代主機 白色 64g、健身環大冒險 | **NT$6,000** | 二手$6700 | 90% 二手 | Like new | 05/23 22:18 | [→](https://tw.carousell.com/p/1439562184/) |
+| [電腦科技] RAKKA80 | **NT$8,000** | 新$12800 | 63% new | Like new | 05/23 21:18 | [→](https://tw.carousell.com/p/1439551386/) |
+| Leica Sofort2 拍立得相機 | **NT$9,500** | 新$12200 | 78% new | Like new | 05/23 21:18 | [→](https://tw.carousell.com/p/1433610087/) |
+| [電腦科技] EVGA RTX 3080 FTW3 | **NT$9,800** | 二手$11000 | 89% 二手 | Lightly used | 05/23 20:18 | [→](https://tw.carousell.com/p/1439549257/) |
 
 ## 🟠 手動判斷（8）
 
@@ -32,14 +32,14 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [音響耳機] SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭 | **NT$2,300** | 新$2300 | 100% new | Unknown | 05/23 22:39 | [→](https://tw.carousell.com/p/1439563940/) |
-| [電腦科技] Seasonic 海韻 Focus GX-1000 | **NT$3,800** | 新$5290 | 72% new | Unknown | 05/23 22:32 | [→](https://tw.carousell.com/p/1439549728/) |
-| [電腦科技] EVGA RTX 3080 FTW3 | **NT$9,800** | 二手$11000 | 89% 二手 | Unknown | 05/23 22:30 | [→](https://tw.carousell.com/p/1439549257/) |
-| [筆電] ASUS FX507VV4 15.6吋2K電競筆電 (i9-13900H/RTX4060/ | **NT$30,000** | 新$38000 | 79% new | Unknown | 05/23 22:23 | [→](https://tw.carousell.com/p/1433670660/) |
-| [電玩主機] Switch灰黑電力加強版(含健身環、隨行收納防震包) | **NT$8,280** | 新$7580 | 109% new | Unknown | 05/23 22:20 | [→](https://tw.carousell.com/p/1439566426/) |
-| [運動戶外] 捷安特自行車 | **NT$7,800** | ? | ? | Unknown | 05/23 22:19 | [→](https://tw.carousell.com/p/1433639554/) |
-| [電玩主機] 二手 Switch 1代主機 白色 64g、健身環大冒險 | **NT$6,000** | 二手$6700 | 90% 二手 | Unknown | 05/23 21:55 | [→](https://tw.carousell.com/p/1439562184/) |
-| [相機攝影] Leica Sofort2 拍立得相機 | **NT$9,500** | 新$12200 | 78% new | Unknown | 05/23 21:48 | [→](https://tw.carousell.com/p/1433610087/) |
+| [音響耳機] SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭 | **NT$2,300** | 新$2300 | 100% new | Unknown | 05/23 23:09 | [→](https://tw.carousell.com/p/1439563940/) |
+| [電腦科技] Seasonic 海韻 Focus GX-1000 | **NT$3,800** | 新$5290 | 72% new | Unknown | 05/23 23:02 | [→](https://tw.carousell.com/p/1439549728/) |
+| [電腦科技] EVGA RTX 3080 FTW3 | **NT$9,800** | 二手$11000 | 89% 二手 | Unknown | 05/23 23:00 | [→](https://tw.carousell.com/p/1439549257/) |
+| [筆電] ASUS FX507VV4 15.6吋2K電競筆電 (i9-13900H/RTX4060/ | **NT$30,000** | 新$38000 | 79% new | Unknown | 05/23 22:53 | [→](https://tw.carousell.com/p/1433670660/) |
+| [電玩主機] Switch灰黑電力加強版(含健身環、隨行收納防震包) | **NT$8,280** | 新$7580 | 109% new | Unknown | 05/23 22:50 | [→](https://tw.carousell.com/p/1439566426/) |
+| [運動戶外] 捷安特自行車 | **NT$7,800** | ? | ? | Unknown | 05/23 22:49 | [→](https://tw.carousell.com/p/1433639554/) |
+| [電玩主機] 二手 Switch 1代主機 白色 64g、健身環大冒險 | **NT$6,000** | 二手$6700 | 90% 二手 | Unknown | 05/23 22:25 | [→](https://tw.carousell.com/p/1439562184/) |
+| [相機攝影] Leica Sofort2 拍立得相機 | **NT$9,500** | 新$12200 | 78% new | Unknown | 05/23 22:18 | [→](https://tw.carousell.com/p/1433610087/) |
 
 
 ---
