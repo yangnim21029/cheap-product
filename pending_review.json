@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "second.hand.sell",
-      "timeAgo": "24 minutes ago",
+      "timeAgo": "55 minutes ago",
       "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
       "price": 20900,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:54",
+      "listedAt": "05/23 21:53",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -27,17 +27,17 @@
   "negotiate": [
     {
       "seller": "yukiovo.",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1439551386/",
-      "category": "",
-      "maxDays": 1,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:18",
+      "listedAt": "05/23 20:48",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -55,12 +55,12 @@
       "price": 9800,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439549257/",
-      "category": "",
-      "maxDays": 1,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:18",
+      "listedAt": "05/23 20:48",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -70,6 +70,75 @@
       },
       "vsNew": null,
       "vsSecondhand": 89
+    },
+    {
+      "seller": "sota919",
+      "timeAgo": "1 hour ago",
+      "title": "Leica Sofort2 拍立得相機",
+      "price": 9500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1433610087/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$9,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 21:48",
+      "pid": "1433610087",
+      "verified": {
+        "newPrice": 12200,
+        "secondhand": 10500,
+        "note": "Leica Sofort 2 新機 $12,200-13,380 二手 $10K-11K (高端 Leica 保值)。$9,500 = 90% ⭐ 手動",
+        "source": "2026-05-23"
+      },
+      "vsNew": 78,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "lin03xo",
+      "timeAgo": "53 minutes ago",
+      "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
+      "price": 6000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439562184/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 21:55",
+      "pid": "1439562184",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 6700,
+        "note": "Switch 一代 64G+健身環 二手組合 $5,500+$1,200=$6,700。$6,000 = 90% ⭐ 手動 (Rose 關注 Switch)",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "whus123",
+      "timeAgo": "28 minutes ago",
+      "title": "MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡",
+      "price": 6400,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1428028256/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$6,400",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 22:20",
+      "pid": "1428028256",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7500,
+        "note": "MSI RTX 3060 Ti GAMING Z TRIO 二手 $6,600-7,990 中位 $7,500。$6,400 = 85% ⭐⭐ 殺價",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 85
     }
   ],
   "uncertain": [
@@ -172,6 +241,66 @@
       },
       "vsNew": 100,
       "vsSecondhand": 96
+    },
+    {
+      "seller": "sota919",
+      "timeAgo": "1 hour ago",
+      "title": "Leica Sofort2 拍立得相機",
+      "price": 9500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1433610087/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "pid": "1433610087",
+      "priceStr": "NT$9,500",
+      "verified": {
+        "newPrice": 12200,
+        "secondhand": 10500,
+        "note": "Leica Sofort 2 新機 $12,200-13,380 二手 $10K-11K (高端 Leica 保值)。$9,500 = 90% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 78,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "daphane12",
+      "timeAgo": "28 minutes ago",
+      "title": "Switch灰黑電力加強版(含健身環、隨行收納防震包)",
+      "price": 8280,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439566426/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439566426",
+      "priceStr": "NT$8,280",
+      "verified": {
+        "newPrice": 7580,
+        "secondhand": 7000,
+        "note": "Switch 電力加強版+健身環+收納包 新機組合 $7,580 二手 $6.5-7K。$8,280 高於二手 ⭐ 手動 (Rose 關注 Switch 邊緣值)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 109,
+      "vsSecondhand": 118
+    },
+    {
+      "seller": "lin03xo",
+      "timeAgo": "53 minutes ago",
+      "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
+      "price": 6000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439562184/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439562184",
+      "priceStr": "NT$6,000",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 6700,
+        "note": "Switch 一代 64G+健身環 二手組合 $5,500+$1,200=$6,700。$6,000 = 90% ⭐ 手動 (Rose 關注 Switch)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": 90
     }
   ]
 }

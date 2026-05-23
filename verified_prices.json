@@ -1013,6 +1013,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1422696167": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "和服無尾熊收藏娃娃 NT$2,000 pnjryfc 收藏品 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1423165919": {
     "newPrice": null,
     "secondhand": null,
@@ -2120,6 +2127,12 @@
     "note": "手沖 【全新轉賣】精品手沖咖啡壺組 NT$1,900 入門中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1428028256": {
+    "newPrice": null,
+    "secondhand": 7500,
+    "note": "MSI RTX 3060 Ti GAMING Z TRIO 二手 $6,600-7,990 中位 $7,500。$6,400 = 85% ⭐⭐ 殺價",
+    "source": "2026-05-23"
   },
   "1428036654": {
     "newPrice": null,
@@ -4146,6 +4159,19 @@
     "secondhand": null,
     "note": "美容儀 5/17-5/22韓國代購 張員瑛美容儀 Medicube AGE-R Boos NT$6,000 rute520 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
+    "skip": true
+  },
+  "1433610087": {
+    "newPrice": 12200,
+    "secondhand": 10500,
+    "note": "Leica Sofort 2 新機 $12,200-13,380 二手 $10K-11K (高端 Leica 保值)。$9,500 = 90% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1433633114": {
+    "newPrice": 3500,
+    "secondhand": 1800,
+    "note": "Marc by Marc Jacobs 筆電包 新品 $3,499-3,780 二手 $1,500-2,200。$3,200 接近新品價, marketing×luxury 軸但 CP 差",
+    "source": "2026-05-23",
     "skip": true
   },
   "1433639554": {
@@ -6533,6 +6559,13 @@
     "secondhand": null,
     "note": "Arturia KeyLab Essential MK3 49鍵 MIDI 鍵盤 新品$8,190-8,800 中位$8,500。$5,000=59%, 二手樣本不足",
     "source": "web search 2026-05-08"
+  },
+  "1436676079": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "乃木坂46 真夏全國 2017 FINAL 東京巨蛋 BD NT$2,500 junjun 樂媒 SKIP",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1436683504": {
     "skip": true,
@@ -22947,6 +22980,12 @@
     "note": "LAOWA FFS 15mm f4.5 移軸紅圈 新品 $48,500 二手中位 $32K-38K。$20,900 = 二手 60% ⭐⭐⭐ 好貨 (但 second.hand.sell 賣家+w-dreamer 須驗真偽)",
     "source": "2026-05-23"
   },
+  "1439562184": {
+    "newPrice": null,
+    "secondhand": 6700,
+    "note": "Switch 一代 64G+健身環 二手組合 $5,500+$1,200=$6,700。$6,000 = 90% ⭐ 手動 (Rose 關注 Switch)",
+    "source": "2026-05-23"
+  },
   "1439563108": {
     "newPrice": 2000,
     "secondhand": 1700,
@@ -22959,6 +22998,13 @@
     "secondhand": 2400,
     "note": "SONY SRS-NB10 頸掛 新品 $3,350-3,990 二手 $2,200-2,500。$2,300 = 96% ⭐ 手動",
     "source": "2026-05-23"
+  },
+  "1439564478": {
+    "newPrice": null,
+    "secondhand": 6300,
+    "note": "G.Skill 幻光戟 32GB DDR4-3200 二手 $6,200-6,400。$7,000 高於二手 + ling_store 店家",
+    "source": "2026-05-23",
+    "skip": true
   },
   "1439564854": {
     "newPrice": 22000,
@@ -22978,6 +23024,26 @@
     "newPrice": 3500,
     "secondhand": 1800,
     "note": "PRO STEALTH 142mm 座墊 新品 $3,500-5,500 二手 $1,500-2,000。$2,400 = 133% 偏高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439566031": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "one-meter 無線真空隨行果汁機 NT$680 sun10507 <$2K 雜訊 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439566426": {
+    "newPrice": 7580,
+    "secondhand": 7000,
+    "note": "Switch 電力加強版+健身環+收納包 新機組合 $7,580 二手 $6.5-7K。$8,280 高於二手 ⭐ 手動 (Rose 關注 Switch 邊緣值)",
+    "source": "2026-05-23"
+  },
+  "1439570781": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "張學友 Wake Up Dreaming 限量盒裝 BD NT$1,980 carrie98 <$2K 樂媒 SKIP",
     "source": "2026-05-23",
     "skip": true
   }
