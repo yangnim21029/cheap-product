@@ -3766,6 +3766,13 @@
     "note": "Patrol 101 SKIP: Logitech 羅技 G913 TKL RGB無線機械式鍵盤 miaoo33",
     "source": "manual_skip"
   },
+  "1433017299": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "特倫斯 V50 電鋼琴 NT$8,500 silentdeer 樂器 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1433020706": {
     "newPrice": null,
     "secondhand": null,
@@ -4226,6 +4233,13 @@
     "secondhand": null,
     "note": "烤箱 台灣三洋SK-35TC電烤箱 NT$2,300 入門/中位無顯著折扣 SKIP",
     "source": "2026-05-16",
+    "skip": true
+  },
+  "1433725210": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Fujifilm Mini 9 拍立得全新 NT$1,500 cynthia___yu — Mini 9 舊款 2018 <$2K SKIP",
+    "source": "2026-05-24",
     "skip": true
   },
   "1433727519": {
@@ -23110,6 +23124,12 @@
     "source": "2026-05-23",
     "skip": true
   },
+  "1439574601": {
+    "newPrice": 13000,
+    "secondhand": 8000,
+    "note": "華碩十代 i3-10105/16G/480G SSD 二手桌機 $7K-9K。$5,566 = 70% ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
   "1439577641": {
     "newPrice": 23900,
     "secondhand": 13000,
@@ -23134,6 +23154,19 @@
     "newPrice": 18590,
     "secondhand": 17000,
     "note": "DJI Pocket 4 全能套裝 2026-04-16 上市僅 5 週,新品官方 $18,590 含 $2,250 購物金。$18,500 = 99.5% 新品價, 無 CP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439583247": {
+    "newPrice": 22000,
+    "secondhand": 12000,
+    "note": "MacBook Air M1 2020 8GB Carousell 二手 $11K-13K。$9,000 = 75% ⭐⭐ 殺價",
+    "source": "2026-05-24"
+  },
+  "1439583523": {
+    "newPrice": 2000,
+    "secondhand": 1000,
+    "note": "ins 風植物圖案地毯 新品大 $1.8-2.5K 二手 $800-1.2K。$2,300 比新品還貴",
     "source": "2026-05-24",
     "skip": true
   },
