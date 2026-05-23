@@ -174,6 +174,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1395755028": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "虎爺洞 NT$5,000 changyunzh18217 宗教文物 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1396464730": {
     "newPrice": null,
     "secondhand": null,
@@ -4134,6 +4141,12 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1433639554": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "捷安特自行車(無型號) Giant 二手範圍 $3.5K-15K+ 同款 <3 筆。$7,800 ≥$2K ⭐ 手動",
+    "source": "2026-05-23"
+  },
   "1433658024": {
     "newPrice": null,
     "secondhand": null,
@@ -4141,11 +4154,31 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1433670660": {
+    "newPrice": 38000,
+    "secondhand": 30000,
+    "note": "ASUS FX507VV4 i9-13900H/RTX4060/16G/512G 二手 $28K-32K。$30,000 = 97% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1433683181": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "GD 展覽周邊地墊 NT$1,130 chung_pocky idol 周邊 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1433691327": {
     "newPrice": null,
     "secondhand": null,
     "note": "除濕機 【莎普羅】吊隱式除濕機 SAP-D36LAR(110V)原價三萬多 NT$12,000 wwwww903190 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
+    "skip": true
+  },
+  "1433707329": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PSA 9 鑑定卡 船長皮卡丘 NT$1,050 deyoushoppingmall 卡牌 SKIP",
+    "source": "2026-05-23",
     "skip": true
   },
   "1433715162": {
@@ -18085,6 +18118,13 @@
     "note": "Patrol 100 SKIP: 金口河水晶 金口河 水晶 擺飾 絕礦 稀有 hungmao_miao",
     "source": "manual_skip"
   },
+  "1438882969": {
+    "newPrice": 3100,
+    "secondhand": 1750,
+    "note": "日立除濕機(無型號) 二手中位 $1,500-2,000。$3,100 = 178% 偏高",
+    "source": "2026-05-23",
+    "skip": true
+  },
   "1438883146": {
     "newPrice": null,
     "secondhand": null,
@@ -22769,6 +22809,80 @@
     "newPrice": 3180,
     "secondhand": 2000,
     "note": "泰達 Pro 隨身椅 新品 $3,180 二手中位 $2,000。$2,500 = 125%",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439546081": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Logitech G413 機械鍵盤 (無外盒) NT$999 sqhy_0606 <$2K 二手中位 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439547113": {
+    "newPrice": 3200,
+    "secondhand": 3000,
+    "note": "Glorious Model D3 Wireless 新品 $99.99 USD ($3,200) 台版 $3,090-3,500。$3,500 ≥ 新品價",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439548127": {
+    "newPrice": null,
+    "secondhand": 1300,
+    "note": "Dahon 老貂二手 $560-2,100 中位 $1,300。$3,000 = 230% 收藏溢價也太高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439548576": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "雜貨組合 手電筒+排插+行動電源+大黃蜂 NT$620 johnnybegood <$2K 雜訊 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439549257": {
+    "newPrice": null,
+    "secondhand": 11000,
+    "note": "EVGA RTX 3080 FTW3 二手 $8K-12.3K 中位 $11,000。$9,800 = 89% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439549728": {
+    "newPrice": 5290,
+    "secondhand": 3800,
+    "note": "Seasonic Focus GX-1000 1000W 80+ Gold 全模組 新品 $5,090-5,490 二手 $3.5-4.2K。$3,800 ≈ 100% ⭐ 手動",
+    "source": "2026-05-23"
+  },
+  "1439549825": {
+    "newPrice": null,
+    "secondhand": 2500,
+    "note": "伊萊克斯無線吸塵器(無型號) 二手 $2,000-3,500 中位 $2,500。$3,200 = 128% 偏高",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439550103": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Diptyque 花漾巴黎 PARIS EN FLEUR 香氛蠟燭 NT$2,400 chi77580 香水已搞定 SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439550270": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SHARP PW-AC890 日文電子辭典 NT$3,000 ago567 — 電子辭典非螢幕 niche SKIP",
+    "source": "2026-05-23",
+    "skip": true
+  },
+  "1439551386": {
+    "newPrice": 12800,
+    "secondhand": 9500,
+    "note": "RAKKA80 (mech keyboard) 新品 ~$399 USD ($12,800) 二手 $9K-10K。$8,000 = 84% ⭐⭐ 殺價",
+    "source": "2026-05-23"
+  },
+  "1439552079": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Diptyque 千葉玫瑰 Centifolia 香氛蠟燭 NT$2,400 chi77580 香水已搞定 SKIP",
     "source": "2026-05-23",
     "skip": true
   }

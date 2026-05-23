@@ -1,5 +1,133 @@
 {
   "newDeals": [],
-  "negotiate": [],
-  "uncertain": []
+  "negotiate": [
+    {
+      "seller": "yukiovo.",
+      "timeAgo": "28 minutes ago",
+      "title": "RAKKA80",
+      "price": 8000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439551386/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 20:49",
+      "pid": "1439551386",
+      "verified": {
+        "newPrice": 12800,
+        "secondhand": 9500,
+        "note": "RAKKA80 (mech keyboard) 新品 ~$399 USD ($12,800) 二手 $9K-10K。$8,000 = 84% ⭐⭐ 殺價",
+        "source": "2026-05-23"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 84
+    },
+    {
+      "seller": "ivankuo.tw",
+      "timeAgo": "40 minutes ago",
+      "title": "EVGA RTX 3080 FTW3",
+      "price": 9800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439549257/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$9,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 20:37",
+      "pid": "1439549257",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 11000,
+        "note": "EVGA RTX 3080 FTW3 二手 $8K-12.3K 中位 $11,000。$9,800 = 89% ⭐ 手動",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 89
+    }
+  ],
+  "uncertain": [
+    {
+      "seller": "yansyu2921",
+      "timeAgo": "25 minutes ago",
+      "title": "ASUS FX507VV4 15.6吋2K電競筆電 (i9-13900H/RTX4060/16G/512GB",
+      "price": 30000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1433670660/",
+      "category": "筆電",
+      "maxDays": 3,
+      "pid": "1433670660",
+      "priceStr": "NT$30,000",
+      "verified": {
+        "newPrice": 38000,
+        "secondhand": 30000,
+        "note": "ASUS FX507VV4 i9-13900H/RTX4060/16G/512G 二手 $28K-32K。$30,000 = 97% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 79,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "angel540810",
+      "timeAgo": "29 minutes ago",
+      "title": "捷安特自行車",
+      "price": 7800,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1433639554/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1433639554",
+      "priceStr": "NT$7,800",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "捷安特自行車(無型號) Giant 二手範圍 $3.5K-15K+ 同款 <3 筆。$7,800 ≥$2K ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "ivankuo.tw",
+      "timeAgo": "16 minutes ago",
+      "title": "Seasonic 海韻 Focus GX-1000",
+      "price": 3800,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439549728/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439549728",
+      "priceStr": "NT$3,800",
+      "verified": {
+        "newPrice": 5290,
+        "secondhand": 3800,
+        "note": "Seasonic Focus GX-1000 1000W 80+ Gold 全模組 新品 $5,090-5,490 二手 $3.5-4.2K。$3,800 ≈ 100% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 72,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "ivankuo.tw",
+      "timeAgo": "18 minutes ago",
+      "title": "EVGA RTX 3080 FTW3",
+      "price": 9800,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439549257/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439549257",
+      "priceStr": "NT$9,800",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 11000,
+        "note": "EVGA RTX 3080 FTW3 二手 $8K-12.3K 中位 $11,000。$9,800 = 89% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": 89
+    }
+  ]
 }

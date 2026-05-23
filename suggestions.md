@@ -174,3 +174,22 @@ raw 848 筆 / 候選 36，本輪掃 raw 雜訊看到的非清單訊號：
 ### CCD 相機警告再確認
 - 本輪 Samsung MV900F $13,000（2012 古董 $500-1.5K 行情）— 完全離譜定價
 - 規則生效：CCD/老相機定價跟漲已成常態，subagent 不用一一驗
+
+## 2026-05-23 21:20 觀察（patrol 118+119 合併 — cap 5/cat + 權威控制首跑）
+
+### 系統升級驗證
+- process.js 加 `capByCategory` (top 5 per cat, vsSecondhand 升序) + `CATEGORY_AUTHORITY` map (PS5/Switch遊戲片/Steam Deck → 電玩主機)
+- 本輪量小無觸發 cap，等下次 ≥5 筆品類時才會看到 mark seen 訊息
+
+### 本輪量小但訊號清
+- **patrol 118**: 12 筆 need_verify → 4 manual (ASUS FX507 電競筆電/捷安特vague/Seasonic 1000W 電源/EVGA RTX 3080) + 1 殺價 (RAKKA80 客制鍵盤 $8K 84%) + 7 skip
+- **patrol 119**: 5 筆全雜訊 (Diptyque 蠟燭×2 + GD/PSA/虎爺洞)
+
+### auto_query_suggest 累積
+- **gopro 連 3 輪命中** (Hero 8/11×2) — 強烈訊號，可加 query: `gopro` min $5K max $15K (排除 Hero 7 以下)
+- **伊萊克斯 連 2 輪** — 無型號掛單居多，先觀察一輪
+- **snow peak** 重複出現相同 listing 兩輪 → 沒人接，可能定價高，不加 query
+
+### 客制鍵盤類首現
+- RAKKA80 / Glorious Model D3 滑鼠 / Logitech G413 機械鍵盤 同輪出現 — 客制周邊小社群活躍
+- 可考慮加 `客制鍵盤` 或 `mechanical keyboard` query，但 Rose 沒明示興趣，先觀察
