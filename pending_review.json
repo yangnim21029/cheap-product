@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "second.hand.sell",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
       "price": 20900,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:17",
+      "listedAt": "05/23 21:47",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "cutegirl0618",
-      "timeAgo": "32 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "SAMSUNG FREESTYLE 2微型智慧投影機 （TOYOTA交車贈品 ） 原價9000元 特價7900元",
       "price": 7900,
       "condition": "Brand new",
@@ -35,7 +35,7 @@
       "priceStr": "NT$7,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:45",
+      "listedAt": "05/23 23:47",
       "pid": "1439577641",
       "verified": {
         "newPrice": 23900,
@@ -45,12 +45,35 @@
       },
       "vsNew": 33,
       "vsSecondhand": 61
+    },
+    {
+      "seller": "kehogken",
+      "timeAgo": "11 minutes ago",
+      "title": "ACER K50-20-575N 15.6吋i5筆記型電腦i5-6200U 940MX 8G/128G SSD + 1T HDD",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439587240/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 00:36",
+      "pid": "1439587240",
+      "verified": {
+        "newPrice": 21900,
+        "secondhand": 4500,
+        "note": "Acer K50-20 2016 年機 i5-6200U/940MX/8G/128SSD+1T (Win11 不支援) ruten/yahoo 二手 $3,500-5,000。$3,500 = 78% 二手中位 ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": 16,
+      "vsSecondhand": 78
     }
   ],
   "negotiate": [
     {
       "seller": "yukiovo.",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
@@ -60,7 +83,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:17",
+      "listedAt": "05/23 20:47",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -83,7 +106,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:17",
+      "listedAt": "05/23 20:47",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -106,7 +129,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:17",
+      "listedAt": "05/23 21:47",
       "pid": "1433610087",
       "verified": {
         "newPrice": 12200,
@@ -119,7 +142,7 @@
     },
     {
       "seller": "lin03xo",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
       "price": 6000,
       "condition": "Like new",
@@ -129,7 +152,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:17",
+      "listedAt": "05/23 21:47",
       "pid": "1439562184",
       "verified": {
         "newPrice": null,
@@ -152,7 +175,7 @@
       "priceStr": "NT$6,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:17",
+      "listedAt": "05/23 22:47",
       "pid": "1428028256",
       "verified": {
         "newPrice": null,
