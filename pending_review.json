@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "second.hand.sell",
-      "timeAgo": "55 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
       "price": 20900,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:53",
+      "listedAt": "05/23 21:47",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -22,12 +22,35 @@
       },
       "vsNew": 43,
       "vsSecondhand": 60
+    },
+    {
+      "seller": "cutegirl0618",
+      "timeAgo": "1 minute ago",
+      "title": "SAMSUNG FREESTYLE 2微型智慧投影機 （TOYOTA交車贈品 ） 原價9000元 特價7900元",
+      "price": 7900,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439577641/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$7,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 23:46",
+      "pid": "1439577641",
+      "verified": {
+        "newPrice": 23900,
+        "secondhand": 13000,
+        "note": "Samsung Freestyle 2 微投 (Toyota 交車贈無個人保固) 新品 PChome $23,900 二手中位 $13K。$7,900 = 新品 33% / 二手 61% ⭐⭐⭐ 好貨 含立架體驗",
+        "source": "2026-05-23"
+      },
+      "vsNew": 33,
+      "vsSecondhand": 61
     }
   ],
   "negotiate": [
     {
       "seller": "yukiovo.",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
@@ -37,7 +60,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:18",
+      "listedAt": "05/23 20:47",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -60,7 +83,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:18",
+      "listedAt": "05/23 20:47",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -78,12 +101,12 @@
       "price": 9500,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1433610087/",
-      "category": "",
-      "maxDays": 1,
+      "category": "相機攝影",
+      "maxDays": 3,
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:18",
+      "listedAt": "05/23 21:47",
       "pid": "1433610087",
       "verified": {
         "newPrice": 12200,
@@ -96,7 +119,7 @@
     },
     {
       "seller": "lin03xo",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
       "price": 6000,
       "condition": "Like new",
@@ -106,7 +129,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:18",
+      "listedAt": "05/23 21:47",
       "pid": "1439562184",
       "verified": {
         "newPrice": null,
@@ -119,7 +142,7 @@
     },
     {
       "seller": "whus123",
-      "timeAgo": "50 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡",
       "price": 6400,
       "condition": "Lightly used",
@@ -129,7 +152,7 @@
       "priceStr": "NT$6,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:28",
+      "listedAt": "05/23 22:47",
       "pid": "1428028256",
       "verified": {
         "newPrice": null,
