@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "second.hand.sell",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
       "price": 20900,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:58",
+      "listedAt": "05/23 22:03",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -48,7 +48,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "ACER K50-20-575N 15.6吋i5筆記型電腦i5-6200U 940MX 8G/128G SSD + 1T HDD",
       "price": 3500,
       "condition": "Like new",
@@ -58,7 +58,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 00:58",
+      "listedAt": "05/24 01:03",
       "pid": "1439587240",
       "verified": {
         "newPrice": 21900,
@@ -71,7 +71,7 @@
     },
     {
       "seller": "lcjen",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "華碩十代機i3-10105/16G記憶體/480G SSD",
       "price": 5566,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$5,566",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:58",
+      "listedAt": "05/23 23:03",
       "pid": "1439574601",
       "verified": {
         "newPrice": 13000,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "you2bepremium",
-      "timeAgo": "51 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "華碩 ASUS ROG Strix 電競筆電 (i7-9750H / 16G / GTX 1650 / 2TB)",
       "price": 10000,
       "condition": "Like new",
@@ -104,7 +104,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 02:07",
+      "listedAt": "05/24 02:03",
       "pid": "1439595273",
       "verified": {
         "newPrice": null,
@@ -114,12 +114,35 @@
       },
       "vsNew": null,
       "vsSecondhand": 38
+    },
+    {
+      "seller": "you2bepremium",
+      "timeAgo": "18 minutes ago",
+      "title": "ASUS X560UD 15.6吋筆電｜已升級16G記憶體/雙硬碟(256G SSD+500G)｜GTX 1050",
+      "price": 6000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439599913/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 03:45",
+      "pid": "1439599913",
+      "verified": {
+        "newPrice": 28000,
+        "secondhand": 8000,
+        "note": "ASUS X560UD 7代 i7+GTX 1050 已停產 8 年, 二手 $7-9K。$6,000 = 75% ⭐ 手動 (you2bepremium 同賣家上輪賣 ROG Strix 留意來源)",
+        "source": "2026-05-24"
+      },
+      "vsNew": 21,
+      "vsSecondhand": 75
     }
   ],
   "negotiate": [
     {
       "seller": "yukiovo.",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
@@ -129,7 +152,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:58",
+      "listedAt": "05/23 21:03",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -142,7 +165,7 @@
     },
     {
       "seller": "ivankuo.tw",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "EVGA RTX 3080 FTW3",
       "price": 9800,
       "condition": "Lightly used",
@@ -152,7 +175,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:58",
+      "listedAt": "05/23 21:03",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -165,7 +188,7 @@
     },
     {
       "seller": "sota919",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "Leica Sofort2 拍立得相機",
       "price": 9500,
       "condition": "Like new",
@@ -175,7 +198,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:58",
+      "listedAt": "05/23 21:03",
       "pid": "1433610087",
       "verified": {
         "newPrice": 12200,
@@ -188,7 +211,7 @@
     },
     {
       "seller": "lin03xo",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
       "price": 6000,
       "condition": "Like new",
@@ -198,7 +221,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:58",
+      "listedAt": "05/23 22:03",
       "pid": "1439562184",
       "verified": {
         "newPrice": null,
@@ -211,7 +234,7 @@
     },
     {
       "seller": "whus123",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡",
       "price": 6400,
       "condition": "Lightly used",
@@ -221,7 +244,7 @@
       "priceStr": "NT$6,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:58",
+      "listedAt": "05/23 22:03",
       "pid": "1428028256",
       "verified": {
         "newPrice": null,
@@ -234,17 +257,17 @@
     },
     {
       "seller": "kevn0324",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "MacBook Air M1 2020 8GB",
       "price": 9000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439583247/",
-      "category": "",
-      "maxDays": 1,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:58",
+      "listedAt": "05/24 00:03",
       "pid": "1439583247",
       "verified": {
         "newPrice": 22000,
@@ -257,7 +280,7 @@
     },
     {
       "seller": "cheng3315",
-      "timeAgo": "23 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Dji mic",
       "price": 3500,
       "condition": "Like new",
@@ -267,7 +290,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 02:35",
+      "listedAt": "05/24 03:03",
       "pid": "1439596980",
       "verified": {
         "newPrice": 7790,
@@ -277,6 +300,52 @@
       },
       "vsNew": 45,
       "vsSecondhand": 78
+    },
+    {
+      "seller": "nontoxicglue",
+      "timeAgo": "48 minutes ago",
+      "title": "Whirlpool 惠爾浦 除濕機10.5公斤 WDEE20AW 二手 近新",
+      "price": 4000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439598279/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 03:15",
+      "pid": "1439598279",
+      "verified": {
+        "newPrice": 11900,
+        "secondhand": 5500,
+        "note": "Whirlpool WDEE20AW 10.5kg 新品 $11,900 二手 $5-6K。$4,000 = 73% ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": 34,
+      "vsSecondhand": 73
+    },
+    {
+      "seller": "buy888",
+      "timeAgo": "35 minutes ago",
+      "title": "PS4近全新#26吃土季",
+      "price": 3464,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439600270/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$3,464",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 03:28",
+      "pid": "1439600270",
+      "verified": {
+        "newPrice": 9780,
+        "secondhand": 4500,
+        "note": "PS4 Slim 1TB 二手 $4-5K 中位 $4.5K。$3,464 = 77% ⭐ 手動 (標題沒講容量/版本)",
+        "source": "2026-05-24"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 77
     }
   ],
   "uncertain": [
@@ -341,26 +410,6 @@
       "vsSecondhand": 100
     },
     {
-      "seller": "ivankuo.tw",
-      "timeAgo": "18 minutes ago",
-      "title": "EVGA RTX 3080 FTW3",
-      "price": 9800,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439549257/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439549257",
-      "priceStr": "NT$9,800",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 11000,
-        "note": "EVGA RTX 3080 FTW3 二手 $8K-12.3K 中位 $11,000。$9,800 = 89% ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": null,
-      "vsSecondhand": 89
-    },
-    {
       "seller": "SuperBuyMan",
       "timeAgo": "9 minutes ago",
       "title": "SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭",
@@ -379,26 +428,6 @@
       },
       "vsNew": 100,
       "vsSecondhand": 96
-    },
-    {
-      "seller": "sota919",
-      "timeAgo": "1 hour ago",
-      "title": "Leica Sofort2 拍立得相機",
-      "price": 9500,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1433610087/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "pid": "1433610087",
-      "priceStr": "NT$9,500",
-      "verified": {
-        "newPrice": 12200,
-        "secondhand": 10500,
-        "note": "Leica Sofort 2 新機 $12,200-13,380 二手 $10K-11K (高端 Leica 保值)。$9,500 = 90% ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 78,
-      "vsSecondhand": 90
     },
     {
       "seller": "daphane12",
@@ -421,26 +450,6 @@
       "vsSecondhand": 118
     },
     {
-      "seller": "lin03xo",
-      "timeAgo": "53 minutes ago",
-      "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
-      "price": 6000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439562184/",
-      "category": "電玩主機",
-      "maxDays": 3,
-      "pid": "1439562184",
-      "priceStr": "NT$6,000",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 6700,
-        "note": "Switch 一代 64G+健身環 二手組合 $5,500+$1,200=$6,700。$6,000 = 90% ⭐ 手動 (Rose 關注 Switch)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": null,
-      "vsSecondhand": 90
-    },
-    {
       "seller": "twohand676",
       "timeAgo": "11 minutes ago",
       "title": "AirPods 4 無降噪版本全新",
@@ -459,26 +468,6 @@
       },
       "vsNew": 71,
       "vsSecondhand": 103
-    },
-    {
-      "seller": "cheng3315",
-      "timeAgo": "23 minutes ago",
-      "title": "Dji mic",
-      "price": 3500,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439596980/",
-      "category": "dji",
-      "maxDays": 3,
-      "pid": "1439596980",
-      "priceStr": "NT$3,500",
-      "verified": {
-        "newPrice": 7790,
-        "secondhand": 4500,
-        "note": "DJI Mic 標題未指代數/套組,系列價差大(Mini ~$1K, Mic 1 一發 $3-4K, Mic 1 雙發+盒 $4.5-5.5K, Mic 2 $5-7K)。$3,500 = 78% (若為 Mic 1 雙發) 或 ~100% (若為一發)。⭐ 手動看實物/盒裝/型號",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 45,
-      "vsSecondhand": 78
     }
   ]
 }
