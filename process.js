@@ -201,21 +201,17 @@ pending.uncertain = mergePending(pending.uncertain || [], uncertain);
 fs.writeFileSync(PENDING_FILE, JSON.stringify(pending, null, 2));
 
 // 用 pending 替換 newDeals/negotiate/uncertain 給後續輸出（README/HTML 顯示完整清單）
-// Sort by recency (new first). Rose 2026-05-21
-const timeAgoToMinutes = (ta) => {
-  if (!ta) return 999999;
-  const m = ta.match(/(\d+)\s*(minute|hour|day|month|year)/);
-  if (!m) return ta.includes('just now') ? 0 : (ta.includes('yesterday') ? 1440 : 999999);
-  const n = parseInt(m[1]);
-  const unit = m[2];
-  if (unit === 'minute') return n;
-  if (unit === 'hour') return n * 60;
-  if (unit === 'day') return n * 1440;
-  if (unit === 'month') return n * 43200;
-  if (unit === 'year') return n * 525600;
-  return 999999;
+// Sort by listedAt (absolute timestamp) — 不能用 timeAgo 因為 pending 累積後 timeAgo 不會更新會錯亂
+const parseListedAt = (s) => {
+  if (!s) return 0;
+  const m = s.match(/(\d+)\/(\d+)\s+(\d+):(\d+)/);
+  if (!m) return 0;
+  const now = new Date();
+  const d = new Date(now.getFullYear(), parseInt(m[1]) - 1, parseInt(m[2]), parseInt(m[3]), parseInt(m[4]));
+  if (d > now) d.setFullYear(now.getFullYear() - 1); // 跨年保險
+  return d.getTime();
 };
-const sortByRecent = (a, b) => timeAgoToMinutes(a.timeAgo) - timeAgoToMinutes(b.timeAgo);
+const sortByRecent = (a, b) => parseListedAt(b.listedAt) - parseListedAt(a.listedAt);
 // Backfill listedAt + condition. Warn loudly if timeAgo missing — that's a manual-inject bug.
 const validateAndBackfill = (arr, name) => arr.forEach(d => {
   if (!d.timeAgo) console.warn(`⚠ ${name} pid=${d.pid} 缺 timeAgo — 手動 inject 漏帶, 從 raw_results 反查補`);
