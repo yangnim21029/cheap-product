@@ -1034,6 +1034,20 @@
     "source": "2026-05-23",
     "skip": true
   },
+  "1422744137": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "m.craftsman Charry 2合1 充電手機掛繩 USB-C NT$590 nicebuy2015 <$2K 配件 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1422766046": {
+    "newPrice": 6499,
+    "secondhand": 5000,
+    "note": "DJI Neo 單機新品 $4,490 暢飛套未激活 $9,500 二手單機 $3-5K。$10,000 高於全新單機 (除非暢飛套+多電池)",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1422872222": {
     "newPrice": 9999,
     "secondhand": 7500,
@@ -4358,6 +4372,19 @@
     "secondhand": null,
     "note": "鐵三角 ATH-WS33BT 型號不存在（官方無此編號，可能混淆 WS33X 有線/WS330BT 無線）, ⚠ 仿品或標錯 SKIP",
     "source": "web search 2026-05-08",
+    "skip": true
+  },
+  "1433803748": {
+    "newPrice": 3500,
+    "secondhand": 2000,
+    "note": "諾威滑步車 (品牌資訊不明確) 一般兒童滑步車新品 $2-8K 二手 $1-3K。$4,000 偏高 ⭐ 手動 (需確認品牌型號)",
+    "source": "2026-05-24"
+  },
+  "1433805199": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Anker Nano II 65W GaN PD NT$880 luckypp.2ndhand <$2K 配件 SKIP",
+    "source": "2026-05-24",
     "skip": true
   },
   "1433836801": {
@@ -24597,6 +24624,13 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439744127": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "搖曳露營 ensky 透卡套組 32 張 NT$2,220 yytt0505k 卡牌 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439744295": {
     "newPrice": null,
     "secondhand": null,
@@ -24765,5 +24799,37 @@
     "secondhand": 2800,
     "note": "PLAUD NotePin 僅膠囊無配件 全套二手 $3-3.5K 純膠囊 $2.5-3K。$2,700 = 96% ⭐ 手動",
     "source": "2026-05-24"
+  },
+  "1439759745": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "復古藍白瓷殖民風格豎琴女性雕像 NT$2,000 a09082350327522 古玩 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439760810": {
+    "newPrice": 17400,
+    "secondhand": 10000,
+    "note": "Prodipe TDC5 同軸監聽喇叭單顆 新品 $17,400 二手 $9-11K。$8,900 = 51% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
+  "1439763351": {
+    "newPrice": 19989,
+    "secondhand": 17500,
+    "note": "PS5 Slim CFI-2018A01 全新未拆 PChome $19,989 全新封二手 $17-18K。$17,000 = 85% ⭐ 手動 (剛卡邊緣需驗賣家)",
+    "source": "2026-05-24"
+  },
+  "1439764681": {
+    "newPrice": 5990,
+    "secondhand": 4500,
+    "note": "AirPods 4 ANC 原廠公司貨已拆封無使用 新品 $5,990 二手 $4.2-4.8K。$3,650 = 61% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
+  "1439765458": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ZOA 絨毛吊飾 DAISY NT$1,400 angelwu168 <$2K idol 吊飾 SKIP",
+    "source": "2026-05-24",
+    "skip": true
   }
 }
