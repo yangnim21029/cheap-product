@@ -2176,6 +2176,12 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1428240501": {
+    "newPrice": 6880,
+    "secondhand": 5500,
+    "note": "WINDSWAVES 韓國充氣行軍床 momo $6,880。$5,500 = 80% 殺價",
+    "source": "2026-05-24"
+  },
   "1428241018": {
     "newPrice": null,
     "secondhand": null,
@@ -24147,6 +24153,13 @@
     "note": "Boox Note Air5 C 「改」全配 新品 $15,980 (含皮套組 $18,760) PTT 二手中位 $12K。$15,000 = 二手 125% / 新品 94% / 全配版 80%。⭐ 手動 (需問改機項目+全配內容+保固)",
     "source": "2026-05-24"
   },
+  "1439701696": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "抗敏 HEPA 負離子空清 GTC-AO360 NT$800 alver118 雜牌 <$2K SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439703386": {
     "newPrice": null,
     "secondhand": null,
@@ -24158,6 +24171,58 @@
     "newPrice": null,
     "secondhand": null,
     "note": "PS4 黑暗靈魂 1+2+3 限量鐵盒版合輯 NT$5,990 syg1104 PS4 老遊戲收藏 User 不追 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439706617": {
+    "newPrice": 4500,
+    "secondhand": 13700,
+    "note": "LG G8 ThinQ G820 (2019 旗艦) 二手合理 $3-6K。$13,700 是新機級報價 嚴重過高",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439706969": {
+    "newPrice": 7990,
+    "secondhand": 4000,
+    "note": "Sony PS-LX310BT 無線藍牙黑膠唱盤 官網 $7,990。$4,000 = 50% 新品 好貨 (User 想收黑膠入門款價位合理)",
+    "source": "2026-05-24"
+  },
+  "1439707005": {
+    "newPrice": 15000,
+    "secondhand": 13000,
+    "note": "Ricoh GRD4 (停產 CCD 王者) 蝦皮/Yahoo 二手店價 $15-15.5K。$13,000 = 87% 二手 手動",
+    "source": "2026-05-24"
+  },
+  "1439707290": {
+    "newPrice": 13690,
+    "secondhand": 11500,
+    "note": "DJI Pocket 3 Creator Combo PChome 新品 $13,690 (原 $15,990). $11,500 = 84% 殺價, DJI Care 至 2027/01 加分",
+    "source": "2026-05-24"
+  },
+  "1439708790": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PUMA Deck 運動後背包 NT$600 rareocean (誤標瑜珈墊 query) <$2K 服飾配件 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439710725": {
+    "newPrice": 3800,
+    "secondhand": 3200,
+    "note": "輝葉舞動機 HY-803 新品 $3-4.5K 中位 $3.8K。$3,200 = 84% 但 ginstore_593 店家不算個人 deal 手動",
+    "source": "2026-05-24"
+  },
+  "1439711197": {
+    "newPrice": 1790,
+    "secondhand": 2200,
+    "note": "Pokémon Go Plus+ 官方 $1,790 缺貨被炒高。$2,200 = 123% MSRP 偏高",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439711656": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "電 Bass 貝斯 NT$2,900 goldenmountain 樂器 SKIP",
     "source": "2026-05-24",
     "skip": true
   }
