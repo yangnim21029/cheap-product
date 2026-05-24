@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "second.hand.sell",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
       "price": 20900,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:03",
+      "listedAt": "05/23 21:46",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -48,7 +48,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "ACER K50-20-575N 15.6吋i5筆記型電腦i5-6200U 940MX 8G/128G SSD + 1T HDD",
       "price": 3500,
       "condition": "Like new",
@@ -58,7 +58,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 01:03",
+      "listedAt": "05/24 00:46",
       "pid": "1439587240",
       "verified": {
         "newPrice": 21900,
@@ -71,7 +71,7 @@
     },
     {
       "seller": "lcjen",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "華碩十代機i3-10105/16G記憶體/480G SSD",
       "price": 5566,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$5,566",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:03",
+      "listedAt": "05/23 22:46",
       "pid": "1439574601",
       "verified": {
         "newPrice": 13000,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "you2bepremium",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "華碩 ASUS ROG Strix 電競筆電 (i7-9750H / 16G / GTX 1650 / 2TB)",
       "price": 10000,
       "condition": "Like new",
@@ -104,7 +104,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 02:03",
+      "listedAt": "05/24 01:46",
       "pid": "1439595273",
       "verified": {
         "newPrice": null,
@@ -117,7 +117,7 @@
     },
     {
       "seller": "you2bepremium",
-      "timeAgo": "18 minutes ago",
+      "timeAgo": "7 hours ago",
       "title": "ASUS X560UD 15.6吋筆電｜已升級16G記憶體/雙硬碟(256G SSD+500G)｜GTX 1050",
       "price": 6000,
       "condition": "Like new",
@@ -127,7 +127,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 03:45",
+      "listedAt": "05/24 03:46",
       "pid": "1439599913",
       "verified": {
         "newPrice": 28000,
@@ -137,12 +137,81 @@
       },
       "vsNew": 21,
       "vsSecondhand": 75
+    },
+    {
+      "seller": "3c_phone_meow",
+      "timeAgo": "3 hours ago",
+      "title": "32吋技嘉螢幕🌟 超新無傷保固還有兩年多",
+      "price": 5500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1433771425/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$5,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 07:46",
+      "pid": "1433771425",
+      "verified": {
+        "newPrice": 16800,
+        "secondhand": 9500,
+        "note": "技嘉 32吋 4K (M32U 等級) 新機 $16,800 保固 2 年多近期購入 二手 $9-10K。$5,500 = 58% ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": 33,
+      "vsSecondhand": 58
+    },
+    {
+      "seller": "yt2817",
+      "timeAgo": "8 minutes ago",
+      "title": "富士Fujifilm XT2 + 27mm F2.8 餅乾鏡",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439621402/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$15,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 10:38",
+      "pid": "1439621402",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 22000,
+        "note": "Fujifilm X-T2 body 二手 $13-17.5K + XF 27mm $7.5K 組合 $22K。$15,000 = 68% ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": null,
+      "vsSecondhand": 68
+    },
+    {
+      "seller": "nihanhan",
+      "timeAgo": "1 hour ago",
+      "title": "GoPro 10",
+      "price": 5260,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439612783/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$5,260",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 09:46",
+      "pid": "1439612783",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 9000,
+        "note": "GoPro 10 二手 $7.3-13K 中位 $9K。$5,260 = 58% ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": null,
+      "vsSecondhand": 58
     }
   ],
   "negotiate": [
     {
       "seller": "yukiovo.",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
@@ -152,7 +221,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:03",
+      "listedAt": "05/23 20:46",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -165,7 +234,7 @@
     },
     {
       "seller": "ivankuo.tw",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "EVGA RTX 3080 FTW3",
       "price": 9800,
       "condition": "Lightly used",
@@ -175,7 +244,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:03",
+      "listedAt": "05/23 20:46",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -188,7 +257,7 @@
     },
     {
       "seller": "sota919",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Leica Sofort2 拍立得相機",
       "price": 9500,
       "condition": "Like new",
@@ -198,7 +267,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:03",
+      "listedAt": "05/23 21:46",
       "pid": "1433610087",
       "verified": {
         "newPrice": 12200,
@@ -211,7 +280,7 @@
     },
     {
       "seller": "lin03xo",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
       "price": 6000,
       "condition": "Like new",
@@ -221,7 +290,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:03",
+      "listedAt": "05/23 21:46",
       "pid": "1439562184",
       "verified": {
         "newPrice": null,
@@ -234,7 +303,7 @@
     },
     {
       "seller": "whus123",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡",
       "price": 6400,
       "condition": "Lightly used",
@@ -244,7 +313,7 @@
       "priceStr": "NT$6,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:03",
+      "listedAt": "05/23 22:46",
       "pid": "1428028256",
       "verified": {
         "newPrice": null,
@@ -257,7 +326,7 @@
     },
     {
       "seller": "kevn0324",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "MacBook Air M1 2020 8GB",
       "price": 9000,
       "condition": "Lightly used",
@@ -267,7 +336,7 @@
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 00:03",
+      "listedAt": "05/23 23:46",
       "pid": "1439583247",
       "verified": {
         "newPrice": 22000,
@@ -280,7 +349,7 @@
     },
     {
       "seller": "cheng3315",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "8 hours ago",
       "title": "Dji mic",
       "price": 3500,
       "condition": "Like new",
@@ -290,7 +359,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 03:03",
+      "listedAt": "05/24 02:46",
       "pid": "1439596980",
       "verified": {
         "newPrice": 7790,
@@ -326,17 +395,17 @@
     },
     {
       "seller": "buy888",
-      "timeAgo": "35 minutes ago",
-      "title": "PS4近全新#26吃土季",
-      "price": 3464,
+      "timeAgo": "7 hours ago",
+      "title": "PS4近全新 面交3000",
+      "price": 3364,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1439600270/",
       "category": "電玩主機",
       "maxDays": 3,
-      "priceStr": "NT$3,464",
+      "priceStr": "NT$3,364",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 03:28",
+      "listedAt": "05/24 03:46",
       "pid": "1439600270",
       "verified": {
         "newPrice": 9780,
@@ -344,8 +413,77 @@
         "note": "PS4 Slim 1TB 二手 $4-5K 中位 $4.5K。$3,464 = 77% ⭐ 手動 (標題沒講容量/版本)",
         "source": "2026-05-24"
       },
-      "vsNew": 35,
-      "vsSecondhand": 77
+      "vsNew": 34,
+      "vsSecondhand": 75
+    },
+    {
+      "seller": "youngstorm.f96630",
+      "timeAgo": "54 minutes ago",
+      "title": "iPad air5 二手 +Apple Pencil 2",
+      "price": 10500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439614975/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$10,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 09:52",
+      "pid": "1439614975",
+      "verified": {
+        "newPrice": 21900,
+        "secondhand": 13000,
+        "note": "iPad Air 5 M1 64G + Pencil 2 組合二手 ~$13K。$10,500 = 81% ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 81
+    },
+    {
+      "seller": "cleverearth-a22f",
+      "timeAgo": "2 hours ago",
+      "title": "Apple iPad mini 7 (A17 pro)",
+      "price": 11800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439609004/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$11,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 08:46",
+      "pid": "1439609004",
+      "verified": {
+        "newPrice": 16900,
+        "secondhand": 13500,
+        "note": "iPad mini 7 (A17 Pro) 128G 新機 $16,900 二手 $13-14K。$11,800 = 87% ⭐ 手動",
+        "source": "2026-05-24"
+      },
+      "vsNew": 70,
+      "vsSecondhand": 87
+    },
+    {
+      "seller": "rqgbn8tz4r33459",
+      "timeAgo": "31 minutes ago",
+      "title": "Switch 電力加強版灰色 Switch pro 魔物獵人版",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439618557/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 10:15",
+      "pid": "1439618557",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7000,
+        "note": "Switch 電力加強版灰色 + Switch Pro 魔物獵人版手把 二手合計 $6.5-7.5K。$5,000 = 71% ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": null,
+      "vsSecondhand": 71
     }
   ],
   "uncertain": [
@@ -468,6 +606,106 @@
       },
       "vsNew": 71,
       "vsSecondhand": 103
+    },
+    {
+      "seller": "huskiii",
+      "timeAgo": "56 minutes ago",
+      "title": "全新 ViewSonic 優派 VA2932-MHD 廣視角螢幕(29型/2560x1080/HDMI/DP/喇叭/IPS)",
+      "price": 4500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439614791/",
+      "category": "螢幕",
+      "maxDays": 3,
+      "pid": "1439614791",
+      "priceStr": "NT$4,500",
+      "verified": {
+        "newPrice": 5000,
+        "secondhand": 4500,
+        "note": "ViewSonic VA2932-MHD 29吋全新 新機 $4,988-5,488。$4,500 比新機便宜 10% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 90,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "yunyan87",
+      "timeAgo": "2 hours ago",
+      "title": "GIGABYTE 技嘉AORUS FO32U2P 32 型 QD-OLED 真4K電競螢幕",
+      "price": 20000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439611653/",
+      "category": "螢幕",
+      "maxDays": 3,
+      "pid": "1439611653",
+      "priceStr": "NT$20,000",
+      "verified": {
+        "newPrice": 34900,
+        "secondhand": 22000,
+        "note": "AORUS FO32U2P 32吋 QD-OLED 真4K 新機 $34,900 二手 ~$22K。$20,000 = 91% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 57,
+      "vsSecondhand": 91
+    },
+    {
+      "seller": "uueeuuee",
+      "timeAgo": "16 minutes ago",
+      "title": "［聲霸］SHARP夏普 藍牙家庭劇院揚聲器系統 HT-SBW115",
+      "price": 2500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439620344/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439620344",
+      "priceStr": "NT$2,500",
+      "verified": {
+        "newPrice": 4000,
+        "secondhand": 2200,
+        "note": "SHARP HT-SBW115 聲霸 新品 $4,000 二手 $2,000-2,500。$2,500 = 100% 中位 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 114
+    },
+    {
+      "seller": "huangevan21",
+      "timeAgo": "21 minutes ago",
+      "title": "Switch (動森）含配備",
+      "price": 5000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439620082/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439620082",
+      "priceStr": "NT$5,000",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5000,
+        "note": "Switch 動森特仕版含配備 二手 ~$5,000。$5,000 = 100% ⭐ 手動 (Rose 關注)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "3c_phone_meow",
+      "timeAgo": "3 hours ago",
+      "title": "asus華碩文書機筆電出清",
+      "price": 3000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1431891399/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1431891399",
+      "priceStr": "NT$3,000",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "ASUS 文書筆電型號不明 3c_phone_meow 個人或店家?$3,000 接近殘值底, ⭐ 手動 (需問規格)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
     }
   ]
 }
