@@ -2189,6 +2189,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1428245242": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 火影忍者疾風傳三部曲 NT$700 mysticdolphin <$2K 單片 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1428279210": {
     "newPrice": null,
     "secondhand": null,
@@ -24327,6 +24334,12 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439720546": {
+    "newPrice": 13900,
+    "secondhand": 8500,
+    "note": "Medicube AGE-R Booster Pro 美樂蒂限定版 官網新品 $13,900 Dcard 標準版二手 $4.5K, 限定版保值較佳。$10,500 = 76% 新品 ⭐⭐ 殺價",
+    "source": "2026-05-24"
+  },
   "1439720594": {
     "newPrice": null,
     "secondhand": null,
@@ -24375,6 +24388,40 @@
     "newPrice": 18900,
     "secondhand": 14000,
     "note": "Insta360 X5 標準版 2025 旗艦 新品 $18,900-20,148 二手 $13-15.3K。$12,000 = 63% 新品 ⭐⭐⭐ 好貨 (需確認保固)",
+    "source": "2026-05-24"
+  },
+  "1439729612": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "白玉瓷茶壺 NT$2,800 a09082350327522 古玩茶器 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439730052": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ABRSM Grade 3 樂譜 NT$750 yaoyaomarket <$2K SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439730249": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ABRSM 英國皇家 Piano Exam Pieces 2025-2026 Grade 1 NT$650 yaoyaomarket <$2K 樂譜 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439730621": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "doTERRA 熏香機/香氛機 NT$750 qqhsunn 香水已搞定+<$2K SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439731538": {
+    "newPrice": 17000,
+    "secondhand": 6000,
+    "note": "Vitamix VM0109 Total Nutrition Center (停產) 二手 $5-8K 中位 $6K。$5,500 = 92% 但有灰塵久未用扣分 ⭐⭐ 殺價",
     "source": "2026-05-24"
   }
 }
