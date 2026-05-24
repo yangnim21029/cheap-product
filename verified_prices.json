@@ -2169,6 +2169,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1428228046": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "美男系列 敘法利耶套裝書+大徽章+壓克力立牌 NT$2,980 torchic6119 男性向 idol 周邊 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1428233732": {
     "newPrice": null,
     "secondhand": null,
@@ -2195,6 +2202,12 @@
     "note": "Switch 火影忍者疾風傳三部曲 NT$700 mysticdolphin <$2K 單片 SKIP",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1428250405": {
+    "newPrice": 15000,
+    "secondhand": 7500,
+    "note": "ASUS ROG STRIX Z790-E DDR5 (初代非 II) 新品 $15-15.9K 二手 $7.5K。$6,500 = 87% 接近行情 ⭐ 手動",
+    "source": "2026-05-24"
   },
   "1428279210": {
     "newPrice": null,
@@ -7063,6 +7076,12 @@
     "note": "Apple Watch S5 40mm GPS 已停產6年, 台灣回收商已不收。$2,600 略高於海外 Swappa $2,300 行情, 樣本不足 SKIP",
     "source": "web search 2026-05-10",
     "skip": true
+  },
+  "1436875022": {
+    "newPrice": 5000,
+    "secondhand": 3800,
+    "note": "APAL 5G USB 行動網卡 蝦皮新品 $5K 二手 $3.8K。$3,500 = 92% 略低於二手 ⭐ 手動",
+    "source": "2026-05-24"
   },
   "1436877725": {
     "newPrice": 5000,
@@ -23087,6 +23106,13 @@
     "source": "2026-05-23",
     "skip": true
   },
+  "1439563385": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Aqive 氣機科技 撓定 (淨化/氣場/穩定情緒) NT$3,750 book1323cc 偽科學玄學 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439563940": {
     "newPrice": 2300,
     "secondhand": 2400,
@@ -24423,5 +24449,12 @@
     "secondhand": 6000,
     "note": "Vitamix VM0109 Total Nutrition Center (停產) 二手 $5-8K 中位 $6K。$5,500 = 92% 但有灰塵久未用扣分 ⭐⭐ 殺價",
     "source": "2026-05-24"
+  },
+  "1439734494": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "海尼根電話亭店頭物 NT$4,000 cycstore17 古董裝飾 SKIP",
+    "source": "2026-05-24",
+    "skip": true
   }
 }
