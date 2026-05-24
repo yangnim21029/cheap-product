@@ -25278,5 +25278,31 @@
     "note": "récolte RSR-1 Delicat 電烤箱 新品 $2,480-2,990。$2,800 已等於或高於新品價",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439798552": {
+    "newPrice": 13500,
+    "secondhand": 11000,
+    "note": "Switch 2 主機 官價 $13-15K 二手 $10-12K。$4,620 = 42% 嚴重低於行情 ⚠ 疑仿冒/盜竊/詐騙, Rose 關注但風險過高 ⭐ 手動親驗",
+    "source": "2026-05-25"
+  },
+  "1439798613": {
+    "newPrice": 5500,
+    "secondhand": 3800,
+    "note": "New Nintendo 3DS XL (2017 停產) 二手中位 $3.5-4K。$3,000 = 78% ⭐⭐ 殺價",
+    "source": "2026-05-25"
+  },
+  "1439799064": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "西藏早期三線天珠 422 NT$1,500 a20186251 <$2K 天珠 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439799084": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "西藏早期三線天珠 423 NT$1,500 a20186251 <$2K 天珠 SKIP",
+    "source": "2026-05-25",
+    "skip": true
   }
 }
