@@ -24052,10 +24052,71 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439690941": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 二手遊戲片可議 NT$800 1020220 <$2K SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439691194": {
     "newPrice": null,
     "secondhand": null,
     "note": "G7th 移調夾 NT$690 wen36 <$2K 樂器配件 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439691748": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ZMI QB826G 紫米 20 號行動電源 100W PD NT$1,200 mysticwolf <$2K SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439693423": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "BTS ARIRANG T-Shirt NT$1,500 meow878 <$2K Kpop SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439694883": {
+    "newPrice": null,
+    "secondhand": 17000,
+    "note": "i9-9900K + RTX 2070 8G + 16G + 500G M.2 + 650W 金牌整機 二手 $15-18K。$16,000 = 94% ⭐ 手動 (需檢視整機/保固)",
+    "source": "2026-05-24"
+  },
+  "1439695975": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MacBook Pro 標題完全無規格/無年份, 型號不明 NT$18,000 紅旗 ⭐ 手動需問規格",
+    "source": "2026-05-24"
+  },
+  "1439696210": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 2 NT$2,300 cinruchenn — 官價 $7,490 二手 $4-5K, $2,300 = 50% 太低高度疑仿 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439697577": {
+    "newPrice": 4500,
+    "secondhand": 3500,
+    "note": "G.Skill 幻光戟 DDR4-3200 64GB Kit 原價屋新品 $3,990-4,790。$10,500 = 233% 新品價",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439699530": {
+    "newPrice": 4000,
+    "secondhand": 3000,
+    "note": "Kingston FURY Impact DDR5-5600 32GB Kit 台灣新品 $3.5-4.5K。$12,000 = 300% 新品價, 極不合理",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439699958": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "威肯 KW-128 電子鋼琴 NT$1,888 513168shop <$2K 樂器 SKIP",
     "source": "2026-05-24",
     "skip": true
   }
