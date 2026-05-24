@@ -4414,6 +4414,12 @@
     "note": "NZXT C1200 1200W 金牌全模組 新品 $7-7.99K 二手 $5.5K。$4,500 = 60% 新品 ⭐⭐⭐ 好貨",
     "source": "2026-05-24"
   },
+  "1433896470": {
+    "newPrice": null,
+    "secondhand": 4000,
+    "note": "TAMRON FOTOVIX 是底片轉影片 processor 非顯微鏡, 國際二手 US$42-250(~NT$1.3-7.5K)。標題模糊+套組內容不明 ⭐ 手動",
+    "source": "2026-05-24"
+  },
   "1433912250": {
     "newPrice": null,
     "secondhand": null,
@@ -24807,16 +24813,49 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439760280": {
+    "newPrice": 11000,
+    "secondhand": 6500,
+    "note": "Meta Quest 2 64G (停產) BigGo 二手 $5.9-11K 中位 $6-7K。$6,700 ≈ 100% ⭐ 手動 (檢查電池/面罩磨損+原盒加分)",
+    "source": "2026-05-24"
+  },
   "1439760810": {
     "newPrice": 17400,
     "secondhand": 10000,
     "note": "Prodipe TDC5 同軸監聽喇叭單顆 新品 $17,400 二手 $9-11K。$8,900 = 51% 新品 ⭐⭐⭐ 好貨",
     "source": "2026-05-24"
   },
+  "1439762511": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Dior J'adore 香氛香膏 3.2g NT$2,380 love998 香水已搞定 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439763164": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "A-Lin 罪惡感 親筆簽名宣傳 CD NT$7,000 shopping147258 CD+簽名 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439763351": {
     "newPrice": 19989,
     "secondhand": 17500,
     "note": "PS5 Slim CFI-2018A01 全新未拆 PChome $19,989 全新封二手 $17-18K。$17,000 = 85% ⭐ 手動 (剛卡邊緣需驗賣家)",
+    "source": "2026-05-24"
+  },
+  "1439764316": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Nike Alpha Fly 跑鞋 NT$7,000 ivyjonesdaisiyyy 跑鞋 User 無此興趣 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439764384": {
+    "newPrice": 5480,
+    "secondhand": 3700,
+    "note": "Fellow Stagg EKG 600ml 新品 $5,480 二手 $3.3-3.8K。$4,000 = 75% ⭐⭐ 殺價",
     "source": "2026-05-24"
   },
   "1439764681": {
@@ -24829,6 +24868,57 @@
     "newPrice": null,
     "secondhand": null,
     "note": "ZOA 絨毛吊飾 DAISY NT$1,400 angelwu168 <$2K idol 吊飾 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439766466": {
+    "newPrice": 35000,
+    "secondhand": 23000,
+    "note": "MacBook Air 15 M2 (年份/規格未指明) 二手 $19.9-28K 中位 $23K。$19,000 = 83% ⭐ 手動 (需問規格)",
+    "source": "2026-05-24"
+  },
+  "1439766984": {
+    "newPrice": 12000,
+    "secondhand": 8000,
+    "note": "GoPro 10 台灣二手 $6-12.5K 中位 $8K。$5,500 = 69% ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
+  "1439767334": {
+    "newPrice": 1700,
+    "secondhand": 1500,
+    "note": "Favero Assioma PRO MX pedal body (踏板腳座無軸心) 官方零件 US$49-55 (~NT$1.5-1.8K)。$2,500 高於全新價",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439767855": {
+    "newPrice": 56900,
+    "secondhand": 18000,
+    "note": "Fujifilm X-H1 機身 DCFever HK$4.3-4.9K (~NT$17.2-19.6K)。$16,000 = 89% ⭐ 手動 (同賣家 XF 23mm 可整套談)",
+    "source": "2026-05-24"
+  },
+  "1439768310": {
+    "newPrice": 17000,
+    "secondhand": 10000,
+    "note": "Fujifilm XF 23mm f2 R WR 台灣二手 Yahoo $8,500 (橙市) DCFever HK$1.6-2K(~NT$6.4-8K)。$7,500 已低於 TW 最低 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
+  "1439769620": {
+    "newPrice": 25000,
+    "secondhand": 10000,
+    "note": "Felt Verza Cruz 通勤公路車 新車 $22-28K 二手中位 $10K。$5,500 遠低於行情 ⭐⭐⭐ 好貨 (hsin 店家但價低)",
+    "source": "2026-05-24"
+  },
+  "1439770667": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "2026 WBC 大谷翔平平行卡 + 日本隊普卡 NT$5,500 ddhacky 卡牌 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439770891": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Lollar Special Strat Pickups Bridge 拾音器 NT$2,500 woopamishop 樂器配件 SKIP",
     "source": "2026-05-24",
     "skip": true
   }

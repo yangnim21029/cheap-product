@@ -12,7 +12,7 @@
       "priceStr": "NT$15,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 11:49",
+      "listedAt": "05/24 12:18",
       "pid": "1439635288",
       "verified": {
         "newPrice": 40000,
@@ -25,7 +25,7 @@
     },
     {
       "seller": "nihanhan",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "GoPro 10",
       "price": 5260,
       "condition": "Lightly used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$5,260",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 09:49",
+      "listedAt": "05/24 09:18",
       "pid": "1439612783",
       "verified": {
         "newPrice": null,
@@ -58,7 +58,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:49",
+      "listedAt": "05/23 23:18",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -71,7 +71,7 @@
     },
     {
       "seller": "yt2817",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "富士Fujifilm XT2 + 27mm F2.8 餅乾鏡",
       "price": 15000,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$15,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 10:49",
+      "listedAt": "05/24 10:18",
       "pid": "1439621402",
       "verified": {
         "newPrice": null,
@@ -93,8 +93,31 @@
       "vsSecondhand": 68
     },
     {
+      "seller": "danielchen9212",
+      "timeAgo": "21 minutes ago",
+      "title": "富士 Fujifilm X-H1 機身",
+      "price": 16000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439767855/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$16,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 22:57",
+      "pid": "1439767855",
+      "verified": {
+        "newPrice": 56900,
+        "secondhand": 18000,
+        "note": "Fujifilm X-H1 機身 DCFever HK$4.3-4.9K (~NT$17.2-19.6K)。$16,000 = 89% ⭐ 手動 (同賣家 XF 23mm 可整套談)",
+        "source": "2026-05-24"
+      },
+      "vsNew": 28,
+      "vsSecondhand": 89
+    },
+    {
       "seller": "cutegirl0618",
-      "timeAgo": "23 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "SAMSUNG FREESTYLE 2微型智慧投影機 （TOYOTA交車贈品 ） 原價9000元 特價7900元",
       "price": 7900,
       "condition": "Brand new",
@@ -104,7 +127,7 @@
       "priceStr": "NT$7,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:49",
+      "listedAt": "05/23 23:18",
       "pid": "1439577641",
       "verified": {
         "newPrice": 23900,
@@ -140,7 +163,7 @@
     },
     {
       "seller": "you2bepremium",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "ASUS X560UD 15.6吋筆電｜已升級16G記憶體/雙硬碟(256G SSD+500G)｜GTX 1050",
       "price": 6000,
       "condition": "Like new",
@@ -150,7 +173,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 03:49",
+      "listedAt": "05/24 03:18",
       "pid": "1439599913",
       "verified": {
         "newPrice": 28000,
@@ -168,12 +191,12 @@
       "price": 5500,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1433771425/",
-      "category": "電腦科技",
-      "maxDays": 3,
+      "category": "螢幕",
+      "maxDays": 7,
       "priceStr": "NT$5,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 07:49",
+      "listedAt": "05/24 08:18",
       "pid": "1433771425",
       "verified": {
         "newPrice": 16800,
@@ -191,12 +214,12 @@
       "price": 3200,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439668868/",
-      "category": "電玩主機",
-      "maxDays": 3,
+      "category": "螢幕",
+      "maxDays": 7,
       "priceStr": "NT$3,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 14:49",
+      "listedAt": "05/24 15:18",
       "pid": "1439668868",
       "verified": {
         "newPrice": null,
@@ -209,7 +232,7 @@
     },
     {
       "seller": "twohand676",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Asus zenbook 14",
       "price": 6800,
       "condition": "Lightly used",
@@ -219,7 +242,7 @@
       "priceStr": "NT$6,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 20:49",
+      "listedAt": "05/24 20:18",
       "pid": "1439738528",
       "verified": {
         "newPrice": null,
@@ -232,7 +255,7 @@
     },
     {
       "seller": "rakutan_901011",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "技嘉windforce OC 3X RTX 2070 super顯卡",
       "price": 4300,
       "condition": "Lightly used",
@@ -242,7 +265,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:49",
+      "listedAt": "05/24 12:18",
       "pid": "1439640920",
       "verified": {
         "newPrice": 15000,
@@ -254,8 +277,31 @@
       "vsSecondhand": 66
     },
     {
+      "seller": "boldbird_7efc19",
+      "timeAgo": "28 minutes ago",
+      "title": "gopro10",
+      "price": 5500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439766984/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$5,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 22:50",
+      "pid": "1439766984",
+      "verified": {
+        "newPrice": 12000,
+        "secondhand": 8000,
+        "note": "GoPro 10 台灣二手 $6-12.5K 中位 $8K。$5,500 = 69% ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": 46,
+      "vsSecondhand": 69
+    },
+    {
       "seller": "lcjen",
-      "timeAgo": "24 hours ago",
+      "timeAgo": "1 day ago",
       "title": "華碩十代機i3-10105/16G記憶體/480G SSD",
       "price": 5566,
       "condition": "Lightly used",
@@ -265,7 +311,7 @@
       "priceStr": "NT$5,566",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:49",
+      "listedAt": "05/23 23:18",
       "pid": "1439574601",
       "verified": {
         "newPrice": 13000,
@@ -288,7 +334,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:49",
+      "listedAt": "05/24 14:18",
       "pid": "1439658804",
       "verified": {
         "newPrice": 13990,
@@ -301,17 +347,17 @@
     },
     {
       "seller": "j_083",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Marshall藍芽音響",
       "price": 2400,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1439638769/",
-      "category": "音響",
-      "maxDays": 5,
+      "category": "音響耳機",
+      "maxDays": 3,
       "priceStr": "NT$2,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:49",
+      "listedAt": "05/24 12:18",
       "pid": "1439638769",
       "verified": {
         "newPrice": 4500,
@@ -334,7 +380,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 11:49",
+      "listedAt": "05/24 12:18",
       "pid": "1439634537",
       "verified": {
         "newPrice": 7490,
@@ -347,7 +393,7 @@
     },
     {
       "seller": "royalkirito1007",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "Apple Watch S7 Nike 45全配無故障 最便宜",
       "price": 3000,
       "condition": "Like new",
@@ -357,7 +403,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 14:49",
+      "listedAt": "05/24 14:18",
       "pid": "1439662860",
       "verified": {
         "newPrice": null,
@@ -380,7 +426,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 18:49",
+      "listedAt": "05/24 19:18",
       "pid": "1439720784",
       "verified": {
         "newPrice": 15000,
@@ -392,8 +438,31 @@
       "vsSecondhand": 50
     },
     {
+      "seller": "hsin20047059420",
+      "timeAgo": "15 minutes ago",
+      "title": "白色 Felt Verza Cruz 自行車 現況出售",
+      "price": 5500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439769620/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$5,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 23:03",
+      "pid": "1439769620",
+      "verified": {
+        "newPrice": 25000,
+        "secondhand": 10000,
+        "note": "Felt Verza Cruz 通勤公路車 新車 $22-28K 二手中位 $10K。$5,500 遠低於行情 ⭐⭐⭐ 好貨 (hsin 店家但價低)",
+        "source": "2026-05-24"
+      },
+      "vsNew": 22,
+      "vsSecondhand": 55
+    },
+    {
       "seller": "laiyomin",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "匹克球拍 Everyday Social Gran Class 110",
       "price": 2500,
       "condition": "Lightly used",
@@ -403,7 +472,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 21:49",
+      "listedAt": "05/24 21:18",
       "pid": "1436812967",
       "verified": {
         "newPrice": 8000,
@@ -416,7 +485,7 @@
     },
     {
       "seller": "wukuenyan",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "踏覓4單位IGT桌(含燈架+底部掛網)",
       "price": 2700,
       "condition": "Like new",
@@ -426,7 +495,7 @@
       "priceStr": "NT$2,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:49",
+      "listedAt": "05/24 13:18",
       "pid": "1439653915",
       "verified": {
         "newPrice": 4000,
@@ -449,7 +518,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 18:49",
+      "listedAt": "05/24 19:18",
       "pid": "1439721616",
       "verified": {
         "newPrice": 25000,
@@ -472,7 +541,7 @@
       "priceStr": "NT$9,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 20:49",
+      "listedAt": "05/24 21:18",
       "pid": "1439744674",
       "verified": {
         "newPrice": 22990,
@@ -485,7 +554,7 @@
     },
     {
       "seller": "july88888",
-      "timeAgo": "54 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "IK Multimedia iLoud Micro Monitor 監聽喇叭",
       "price": 6500,
       "condition": "Lightly used",
@@ -495,7 +564,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 21:55",
+      "listedAt": "05/24 22:18",
       "pid": "1439750964",
       "verified": {
         "newPrice": 14000,
@@ -543,7 +612,7 @@
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:49",
+      "listedAt": "05/24 00:18",
       "pid": "1439583247",
       "verified": {
         "newPrice": 22000,
@@ -556,7 +625,7 @@
     },
     {
       "seller": "swiftriver_f2e71c",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "全新 NZXT C1200 電源供應器（黑色）",
       "price": 4500,
       "condition": "Brand new",
@@ -566,7 +635,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 21:49",
+      "listedAt": "05/24 21:18",
       "pid": "1433884059",
       "verified": {
         "newPrice": 7500,
@@ -576,6 +645,29 @@
       },
       "vsNew": 60,
       "vsSecondhand": 82
+    },
+    {
+      "seller": "james26480521",
+      "timeAgo": "31 minutes ago",
+      "title": "MacBook Air 15' 太空灰",
+      "price": 19000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439766466/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$19,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 22:47",
+      "pid": "1439766466",
+      "verified": {
+        "newPrice": 35000,
+        "secondhand": 23000,
+        "note": "MacBook Air 15 M2 (年份/規格未指明) 二手 $19.9-28K 中位 $23K。$19,000 = 83% ⭐ 手動 (需問規格)",
+        "source": "2026-05-24"
+      },
+      "vsNew": 54,
+      "vsSecondhand": 83
     },
     {
       "seller": "yukiovo.",
@@ -624,29 +716,6 @@
       "vsSecondhand": 85
     },
     {
-      "seller": "missgeorgelee",
-      "timeAgo": "4 hours ago",
-      "title": "Garmin Instinct Crossover 藍色原廠智慧手錶",
-      "price": 9000,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439722409/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$9,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/24 18:49",
-      "pid": "1439722409",
-      "verified": {
-        "newPrice": 16900,
-        "secondhand": 10500,
-        "note": "Garmin Instinct Crossover 標準版藍色 新品 $16,900 二手 $9-12K。$9,000 = 53% 新品 ⭐⭐⭐ 好貨 (混合指針/數位)",
-        "source": "2026-05-24"
-      },
-      "vsNew": 53,
-      "vsSecondhand": 86
-    },
-    {
       "seller": "uueeuuee",
       "timeAgo": "11 hours ago",
       "title": "ASUSVivobook S15 15.6吋2K螢幕 AMD R7-8845H/780M/16G/1TB 輕薄筆電",
@@ -658,7 +727,7 @@
       "priceStr": "NT$16,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 11:49",
+      "listedAt": "05/24 12:18",
       "pid": "1439631846",
       "verified": {
         "newPrice": 32000,
@@ -670,8 +739,31 @@
       "vsSecondhand": 80
     },
     {
+      "seller": "danielchen9212",
+      "timeAgo": "19 minutes ago",
+      "title": "富士 Fujifilm XF23mm f2 WR",
+      "price": 7500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439768310/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$7,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 22:59",
+      "pid": "1439768310",
+      "verified": {
+        "newPrice": 17000,
+        "secondhand": 10000,
+        "note": "Fujifilm XF 23mm f2 R WR 台灣二手 Yahoo $8,500 (橙市) DCFever HK$1.6-2K(~NT$6.4-8K)。$7,500 已低於 TW 最低 ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": 44,
+      "vsSecondhand": 75
+    },
+    {
       "seller": "ccy_shop",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Pocket3 全能套組",
       "price": 12000,
       "condition": "Like new",
@@ -681,7 +773,7 @@
       "priceStr": "NT$12,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 21:49",
+      "listedAt": "05/24 21:18",
       "pid": "1439749113",
       "verified": {
         "newPrice": 21900,
@@ -694,7 +786,7 @@
     },
     {
       "seller": "wukuenyan",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Sony A72 (不含鏡頭)",
       "price": 11500,
       "condition": "Lightly used",
@@ -704,7 +796,7 @@
       "priceStr": "NT$11,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:49",
+      "listedAt": "05/24 13:18",
       "pid": "1439655056",
       "verified": {
         "newPrice": 35000,
@@ -727,7 +819,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:49",
+      "listedAt": "05/24 14:18",
       "pid": "1439655431",
       "verified": {
         "newPrice": 22000,
@@ -750,7 +842,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:49",
+      "listedAt": "05/23 23:18",
       "pid": "1433610087",
       "verified": {
         "newPrice": 12200,
@@ -763,7 +855,7 @@
     },
     {
       "seller": "513ka",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Insta360 X5全景運動相機",
       "price": 12000,
       "condition": "Brand new",
@@ -773,7 +865,7 @@
       "priceStr": "NT$12,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 19:49",
+      "listedAt": "05/24 19:18",
       "pid": "1439723113",
       "verified": {
         "newPrice": 18900,
@@ -796,7 +888,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 09:49",
+      "listedAt": "05/24 10:18",
       "pid": "1439618557",
       "verified": {
         "newPrice": null,
@@ -809,7 +901,7 @@
     },
     {
       "seller": "buy888",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "PS4近全新 面交3000",
       "price": 3364,
       "condition": "Like new",
@@ -819,7 +911,7 @@
       "priceStr": "NT$3,364",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 03:49",
+      "listedAt": "05/24 03:18",
       "pid": "1439600270",
       "verified": {
         "newPrice": 9780,
@@ -878,14 +970,14 @@
     },
     {
       "seller": "nontoxicglue",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "Whirlpool 惠爾浦 除濕機10.5公斤 WDEE20AW 二手 近新",
-      "price": 4000,
+      "price": 3900,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439598279/",
       "category": "除濕機",
       "maxDays": 7,
-      "priceStr": "NT$4,000",
+      "priceStr": "NT$3,900",
       "isReseller": false,
       "sellerNote": "",
       "listedAt": "05/24 03:18",
@@ -896,8 +988,8 @@
         "note": "Whirlpool WDEE20AW 10.5kg 新品 $11,900 二手 $5-6K。$4,000 = 73% ⭐⭐ 殺價",
         "source": "2026-05-24"
       },
-      "vsNew": 34,
-      "vsSecondhand": 73
+      "vsNew": 33,
+      "vsSecondhand": 71
     },
     {
       "seller": "leeyoyoaex",
@@ -911,7 +1003,7 @@
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 20:49",
+      "listedAt": "05/24 21:18",
       "pid": "1439740035",
       "verified": {
         "newPrice": 18900,
@@ -934,7 +1026,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 09:49",
+      "listedAt": "05/24 10:18",
       "pid": "1439614975",
       "verified": {
         "newPrice": 21900,
@@ -957,7 +1049,7 @@
       "priceStr": "NT$9,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 15:49",
+      "listedAt": "05/24 16:18",
       "pid": "1439682968",
       "verified": {
         "newPrice": 18900,
@@ -970,7 +1062,7 @@
     },
     {
       "seller": "cleverearth-a22f",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "Apple iPad mini 7 (A17 pro)",
       "price": 11800,
       "condition": "Like new",
@@ -980,7 +1072,7 @@
       "priceStr": "NT$11,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 08:49",
+      "listedAt": "05/24 08:18",
       "pid": "1439609004",
       "verified": {
         "newPrice": 16900,
@@ -1003,7 +1095,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 14:49",
+      "listedAt": "05/24 15:18",
       "pid": "1439670984",
       "verified": {
         "newPrice": null,
@@ -1026,7 +1118,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 10:49",
+      "listedAt": "05/24 11:18",
       "pid": "1439621775",
       "verified": {
         "newPrice": 7990,
@@ -1038,8 +1130,31 @@
       "vsSecondhand": 83
     },
     {
+      "seller": "fastmoon.37ee2e",
+      "timeAgo": "38 minutes ago",
+      "title": "Prodipe TDC5 同軸監聽喇叭- 錄音 混音 MIDI",
+      "price": 8900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439760810/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$8,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 22:40",
+      "pid": "1439760810",
+      "verified": {
+        "newPrice": 17400,
+        "secondhand": 10000,
+        "note": "Prodipe TDC5 同軸監聽喇叭單顆 新品 $17,400 二手 $9-11K。$8,900 = 51% 新品 ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": 51,
+      "vsSecondhand": 89
+    },
+    {
       "seller": "liooooou",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Apple Watch se2 44mm 星光色",
       "price": 4500,
       "condition": "Lightly used",
@@ -1049,7 +1164,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:49",
+      "listedAt": "05/24 12:18",
       "pid": "1439639948",
       "verified": {
         "newPrice": 7150,
@@ -1072,7 +1187,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:49",
+      "listedAt": "05/24 14:18",
       "pid": "1439660557",
       "verified": {
         "newPrice": 18000,
@@ -1095,7 +1210,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:49",
+      "listedAt": "05/24 14:18",
       "pid": "1439660826",
       "verified": {
         "newPrice": 14900,
@@ -1108,7 +1223,7 @@
     },
     {
       "seller": "qzvqypnxr6",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Giant momentum iRide 7000RD 運動通勤公路車 二手GIANT公路車 中古捷安特公路車",
       "price": 5000,
       "condition": "Lightly used",
@@ -1118,7 +1233,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 17:49",
+      "listedAt": "05/24 17:18",
       "pid": "1430698935",
       "verified": {
         "newPrice": 10260,
@@ -1131,7 +1246,7 @@
     },
     {
       "seller": "audreybluemoon",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Audient iD14 MK1 專業錄音介面 (第一代）",
       "price": 3500,
       "condition": "Like new",
@@ -1141,7 +1256,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 18:49",
+      "listedAt": "05/24 18:18",
       "pid": "1439713658",
       "verified": {
         "newPrice": 10500,
@@ -1154,7 +1269,7 @@
     },
     {
       "seller": "brytot",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "OpenFit 2+ T921 開放式藍牙耳機",
       "price": 3500,
       "condition": "Lightly used",
@@ -1164,7 +1279,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 21:49",
+      "listedAt": "05/24 21:18",
       "pid": "1433801409",
       "verified": {
         "newPrice": 5990,
@@ -1176,31 +1291,8 @@
       "vsSecondhand": 78
     },
     {
-      "seller": "fastmoon.37ee2e",
-      "timeAgo": "9 minutes ago",
-      "title": "Prodipe TDC5 同軸監聽喇叭- 錄音 混音 MIDI",
-      "price": 8900,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439760810/",
-      "category": "喇叭",
-      "maxDays": 3,
-      "priceStr": "NT$8,900",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/24 22:40",
-      "pid": "1439760810",
-      "verified": {
-        "newPrice": 17400,
-        "secondhand": 10000,
-        "note": "Prodipe TDC5 同軸監聽喇叭單顆 新品 $17,400 二手 $9-11K。$8,900 = 51% 新品 ⭐⭐⭐ 好貨",
-        "source": "2026-05-24"
-      },
-      "vsNew": 51,
-      "vsSecondhand": 89
-    },
-    {
       "seller": "Tuchman",
-      "timeAgo": "6 minutes ago",
+      "timeAgo": "36 minutes ago",
       "title": "Apple AirPods 4 主動式降噪款｜原廠公司貨｜已拆封無使用過",
       "price": 3650,
       "condition": "Brand new",
@@ -1210,7 +1302,7 @@
       "priceStr": "NT$3,650",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 22:43",
+      "listedAt": "05/24 22:42",
       "pid": "1439764681",
       "verified": {
         "newPrice": 5990,
@@ -1308,6 +1400,27 @@
       "listedAt": "05/24 19:07"
     },
     {
+      "seller": "momocake",
+      "timeAgo": "26 minutes ago",
+      "title": "諾威滑步車",
+      "price": 4000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1433803748/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1433803748",
+      "priceStr": "NT$4,000",
+      "verified": {
+        "newPrice": 3500,
+        "secondhand": 2000,
+        "note": "諾威滑步車 (品牌資訊不明確) 一般兒童滑步車新品 $2-8K 二手 $1-3K。$4,000 偏高 ⭐ 手動 (需確認品牌型號)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 114,
+      "vsSecondhand": 200,
+      "listedAt": "05/24 22:52"
+    },
+    {
       "seller": "twohand676",
       "timeAgo": "42 minutes ago",
       "title": "Asus zenbook 14",
@@ -1327,6 +1440,27 @@
       "vsNew": null,
       "vsSecondhand": 57,
       "listedAt": "05/24 20:36"
+    },
+    {
+      "seller": "james26480521",
+      "timeAgo": "31 minutes ago",
+      "title": "MacBook Air 15' 太空灰",
+      "price": 19000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439766466/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439766466",
+      "priceStr": "NT$19,000",
+      "verified": {
+        "newPrice": 35000,
+        "secondhand": 23000,
+        "note": "MacBook Air 15 M2 (年份/規格未指明) 二手 $19.9-28K 中位 $23K。$19,000 = 83% ⭐ 手動 (需問規格)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 54,
+      "vsSecondhand": 83,
+      "listedAt": "05/24 22:47"
     },
     {
       "seller": "timmsn",
@@ -1518,6 +1652,48 @@
       "listedAt": "05/24 16:42"
     },
     {
+      "seller": "jenniejisoo",
+      "timeAgo": "2 minutes ago",
+      "title": "PS5 全新的 CFI-2018 A01 Slim 光碟",
+      "price": 17000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439763351/",
+      "category": "PS5",
+      "maxDays": 3,
+      "pid": "1439763351",
+      "priceStr": "NT$17,000",
+      "verified": {
+        "newPrice": 19989,
+        "secondhand": 17500,
+        "note": "PS5 Slim CFI-2018A01 全新未拆 PChome $19,989 全新封二手 $17-18K。$17,000 = 85% ⭐ 手動 (剛卡邊緣需驗賣家)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 85,
+      "vsSecondhand": 97,
+      "listedAt": "05/24 23:16"
+    },
+    {
+      "seller": "hades73",
+      "timeAgo": "58 minutes ago",
+      "title": "有盒 Meta oculus quest 2 64g vr 一體機 二手",
+      "price": 6700,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439760280/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439760280",
+      "priceStr": "NT$6,700",
+      "verified": {
+        "newPrice": 11000,
+        "secondhand": 6500,
+        "note": "Meta Quest 2 64G (停產) BigGo 二手 $5.9-11K 中位 $6-7K。$6,700 ≈ 100% ⭐ 手動 (檢查電池/面罩磨損+原盒加分)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 61,
+      "vsSecondhand": 103,
+      "listedAt": "05/24 22:20"
+    },
+    {
       "seller": "daphane12",
       "timeAgo": "28 minutes ago",
       "title": "Switch灰黑電力加強版(含健身環、隨行收納防震包)",
@@ -1644,6 +1820,27 @@
       "listedAt": "05/24 14:46"
     },
     {
+      "seller": "danielchen9212",
+      "timeAgo": "21 minutes ago",
+      "title": "富士 Fujifilm X-H1 機身",
+      "price": 16000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439767855/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "pid": "1439767855",
+      "priceStr": "NT$16,000",
+      "verified": {
+        "newPrice": 56900,
+        "secondhand": 18000,
+        "note": "Fujifilm X-H1 機身 DCFever HK$4.3-4.9K (~NT$17.2-19.6K)。$16,000 = 89% ⭐ 手動 (同賣家 XF 23mm 可整套談)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 28,
+      "vsSecondhand": 89,
+      "listedAt": "05/24 22:57"
+    },
+    {
       "seller": "johnson256",
       "timeAgo": "2 hours ago",
       "title": "Canon powershot G9 ccd相機",
@@ -1747,46 +1944,6 @@
       "vsNew": 43,
       "vsSecondhand": 67,
       "listedAt": "05/24 21:15"
-    },
-    {
-      "seller": "jenniejisoo",
-      "timeAgo": "2 minutes ago",
-      "title": "PS5 全新的 CFI-2018 A01 Slim 光碟",
-      "price": 17000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439763351/",
-      "category": "PS5",
-      "maxDays": 3,
-      "pid": "1439763351",
-      "priceStr": "NT$17,000",
-      "verified": {
-        "newPrice": 19989,
-        "secondhand": 17500,
-        "note": "PS5 Slim CFI-2018A01 全新未拆 PChome $19,989 全新封二手 $17-18K。$17,000 = 85% ⭐ 手動 (剛卡邊緣需驗賣家)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 85,
-      "vsSecondhand": 97
-    },
-    {
-      "seller": "momocake",
-      "timeAgo": "26 minutes ago",
-      "title": "諾威滑步車",
-      "price": 4000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1433803748/",
-      "category": "運動戶外",
-      "maxDays": 3,
-      "pid": "1433803748",
-      "priceStr": "NT$4,000",
-      "verified": {
-        "newPrice": 3500,
-        "secondhand": 2000,
-        "note": "諾威滑步車 (品牌資訊不明確) 一般兒童滑步車新品 $2-8K 二手 $1-3K。$4,000 偏高 ⭐ 手動 (需確認品牌型號)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 114,
-      "vsSecondhand": 200
     }
   ]
 }
