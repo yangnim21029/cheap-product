@@ -2725,6 +2725,12 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1430698935": {
+    "newPrice": 10260,
+    "secondhand": 5800,
+    "note": "GIANT Momentum iRide 7000RD 新車 $10,260 二手 $5-6.8K 中位 $5.8K。$5,000 = 86% ⭐ 手動",
+    "source": "2026-05-24"
+  },
   "1430719566": {
     "newPrice": null,
     "secondhand": null,
@@ -24160,6 +24166,12 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439701724": {
+    "newPrice": 9200,
+    "secondhand": 4500,
+    "note": "烘王 HW-9988 烤箱 新品 $9,200 原廠出清 $4,500 二手中位 $4.5K。$4,200 = 46% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
   "1439703386": {
     "newPrice": null,
     "secondhand": null,
@@ -24199,6 +24211,13 @@
     "note": "DJI Pocket 3 Creator Combo PChome 新品 $13,690 (原 $15,990). $11,500 = 84% 殺價, DJI Care 至 2027/01 加分",
     "source": "2026-05-24"
   },
+  "1439708250": {
+    "newPrice": 7990,
+    "secondhand": 4000,
+    "note": "Joker 傑克牌 16吋袋鼠車 新車 $7,980 二手 $3-5K。$6,000 = 150% 二手 接近新車價",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439708790": {
     "newPrice": null,
     "secondhand": null,
@@ -24211,6 +24230,13 @@
     "secondhand": 3200,
     "note": "輝葉舞動機 HY-803 新品 $3-4.5K 中位 $3.8K。$3,200 = 84% 但 ginstore_593 店家不算個人 deal 手動",
     "source": "2026-05-24"
+  },
+  "1439711182": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 魔界戰記 5 NT$750 syg1104 <$2K 單片 SKIP",
+    "source": "2026-05-24",
+    "skip": true
   },
   "1439711197": {
     "newPrice": 1790,
@@ -24239,6 +24265,19 @@
     "note": "Audient iD14 MK1 (停產) MK2 新機 $9.6-13K MK1 二手 $4-5K 中位 $4.5K。$3,500 = 78% ⭐⭐ 殺價",
     "source": "2026-05-24"
   },
+  "1439713749": {
+    "newPrice": 20000,
+    "secondhand": 11000,
+    "note": "BMC TeamMachine ICS 一體把手 新品 EUR 587 (~$20K) 二手 $10-12K。$9,999 = 91% ⭐ 手動",
+    "source": "2026-05-24"
+  },
+  "1439713898": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 密特羅德 銀河戰士 生存恐懼 NT$750 syg1104 <$2K 單片 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439714899": {
     "newPrice": null,
     "secondhand": null,
@@ -24250,6 +24289,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "BTS Arirang T-shirt + CD Box Set NT$1,500 mochimaru_alien <$2K Kpop SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439716494": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Mac Pro Wheels Kit 滾輪 NT$11,800 igi_lo_3c 配件 (User 沒 Mac Pro) SKIP",
     "source": "2026-05-24",
     "skip": true
   },
@@ -24266,5 +24312,69 @@
     "note": "realme 14 Pro 5G 256G 店家板橋實體保固 1 月 螢幕微烙印 新機 $8,490 二手 $5.5-6.5K。$7,000 = 121% 二手 (店家價無甜頭)",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1439718808": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Teenage Engineering PO-33 取樣合成器 NT$3,000 leolemon 樂器 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439720423": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Fender 高階電吉他 NT$18,500 mu2789 樂器 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439720594": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PTCG 火焰鳥 NT$2,600 hw10250523 卡牌 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439720784": {
+    "newPrice": 15000,
+    "secondhand": 6000,
+    "note": "輝葉跑步機型號不明 新車 $12.9-22.8K 二手中位 $6K。$3,000 = 50% 但型號未知 ⭐ 手動",
+    "source": "2026-05-24"
+  },
+  "1439721026": {
+    "newPrice": 12900,
+    "secondhand": 7000,
+    "note": "Dyson SV18 Digital Slim 新品 $12,900 二手 $5-8K。$6,700 = 52% 新品 / 96% 二手中位 ⭐⭐⭐ 好貨 (cycstore 店家但價已低於行情)",
+    "source": "2026-05-24"
+  },
+  "1439721586": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PTCG 達克萊伊+月亮伊布 HR NT$6,300 hw10250523 卡牌 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439721616": {
+    "newPrice": 25000,
+    "secondhand": 14000,
+    "note": "GIANT Liv Thrive 1 白色女車 新車 $23.8-26.8K 二手平把 $13-15K。$9,500 = 68% 二手中位 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
+  "1439721704": {
+    "newPrice": 8490,
+    "secondhand": 7000,
+    "note": "DJI 無「Nano」產品線, 可能是 Neo (PChome 單機 $8,490/Combo $13K)。$7,700 對 Neo 單機 91%/Combo 59%。產品身份不明 ⭐ 手動 (需確認型號+內容物)",
+    "source": "2026-05-24"
+  },
+  "1439722409": {
+    "newPrice": 16900,
+    "secondhand": 10500,
+    "note": "Garmin Instinct Crossover 標準版藍色 新品 $16,900 二手 $9-12K。$9,000 = 53% 新品 ⭐⭐⭐ 好貨 (混合指針/數位)",
+    "source": "2026-05-24"
+  },
+  "1439723113": {
+    "newPrice": 18900,
+    "secondhand": 14000,
+    "note": "Insta360 X5 標準版 2025 旗艦 新品 $18,900-20,148 二手 $13-15.3K。$12,000 = 63% 新品 ⭐⭐⭐ 好貨 (需確認保固)",
+    "source": "2026-05-24"
   }
 }
