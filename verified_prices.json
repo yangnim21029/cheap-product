@@ -25344,5 +25344,12 @@
     "secondhand": 7000,
     "note": "技嘉 RX 6600 XT 九成新自用 二手中位 $7K。$5,000 = 71% ⭐⭐ 殺價",
     "source": "2026-05-25"
+  },
+  "1439804142": {
+    "newPrice": 30900,
+    "secondhand": 25000,
+    "note": "M4 iPad Pro 11 5th Gen 256G WiFi 太空黑 官價 $30,900。$15,500 = 50% 嚴重低於行情 ⚠ brightshark 詐騙賣家 (上輪 PS5 也是 46% 行情) SKIP",
+    "source": "2026-05-25",
+    "skip": true
   }
 }
