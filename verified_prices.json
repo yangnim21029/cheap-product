@@ -4481,6 +4481,13 @@
     "note": "Keychron K2HE/K2H-Q1磁軸白色特仕版 公司貨$5K-7K二手$4K-5K。$4,500=75%新品⭐ mugi62832978 機械鍵盤手動",
     "source": "2026-05-16"
   },
+  "1433939339": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "藍色小精靈 滑板 8.0 NT$2,300 3mteeth 滑板 User 無此興趣 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1433950522": {
     "newPrice": 89900,
     "secondhand": 35000,
@@ -25075,6 +25082,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439778758": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Barry 曠課王 賽亞人的驕傲 mixtape NT$5,555 sssss498 樂媒 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439779352": {
     "newPrice": null,
     "secondhand": null,
@@ -25114,6 +25128,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "瘦子 E.SO Yella Smells Good 簽名 mixtape NT$20,000 sssss498 樂媒 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439782232": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon IXUS 240 HS 復古觸控卡片 NT$9,500 kilabom CCD 老款偏高 SKIP",
     "source": "2026-05-25",
     "skip": true
   },
@@ -25236,5 +25257,26 @@
     "secondhand": 6000,
     "note": "Switch OLED 二手 $5.5-6.5K。$6,500 = 108% 二手上緣 ⭐ 手動 (Rose 關注可議價)",
     "source": "2026-05-25"
+  },
+  "1439793706": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "3M FA-M13 空清 NT$1,000 lessin168 <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439796012": {
+    "newPrice": 2880,
+    "secondhand": 1600,
+    "note": "鍋寶 AF-1290W 氣炸烤箱 新品 momo/Yahoo $2.88-3.09K (非定價 $11,980) 二手 $1.6K。$2,000 = 125% 二手, <$2K 門檻",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439796100": {
+    "newPrice": 2480,
+    "secondhand": 1500,
+    "note": "récolte RSR-1 Delicat 電烤箱 新品 $2,480-2,990。$2,800 已等於或高於新品價",
+    "source": "2026-05-25",
+    "skip": true
   }
 }
