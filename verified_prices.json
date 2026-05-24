@@ -23576,10 +23576,56 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439625994": {
+    "newPrice": 7900,
+    "secondhand": 4500,
+    "note": "Apple Watch SE 代數不明 SE2 GPS 二手 $4-5K。$4,500 = 100% ⭐ 手動 (代數/尺寸/網路版本未知)",
+    "source": "2026-05-24"
+  },
   "1439627019": {
     "newPrice": 5990,
     "secondhand": 5500,
     "note": "ASUS TUF B850M-PLUS WiFi6E 全新未拆 新品 $5,500-6,590。$5,300 = 96% 新品 ⭐ 手動",
     "source": "2026-05-24"
+  },
+  "1439628007": {
+    "newPrice": 6490,
+    "secondhand": 3500,
+    "note": "GravaStar 型號不明 Mars Pro 新 $6,490 Venus 新 $2,792。$3,500 ≥$2K ⭐ 手動 (需問型號)",
+    "source": "2026-05-24"
+  },
+  "1439629555": {
+    "newPrice": 11900,
+    "secondhand": 8750,
+    "note": "iPad A16 128G WiFi 二手 $8-9.5K。$9,250 = 106% 偏高 (容量不明)",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439630278": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「正版」AirPods Pro 3 NT$3,000 fastest112233 — Pro 3 新品 $6-7K, $3,000 低於 50% 高度仿品嫌疑 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439631846": {
+    "newPrice": 32000,
+    "secondhand": 20000,
+    "note": "ASUS Vivobook S15 M5506 R7-8845H/16G/1TB OLED 新品 $32-36K 二手 $18-22K。$16,000 = 80% ⭐⭐ 殺價",
+    "source": "2026-05-24"
+  },
+  "1439632802": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "翡翠雕刻千手觀音吊墜 NT$2,800 mei0314837215 玉器 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439633185": {
+    "newPrice": 1900,
+    "secondhand": 1500,
+    "note": "GIGASTONE DDR4 3200 32GB kit 新品 $1,699-2,049。$4,500 = 237% 嚴重高估",
+    "source": "2026-05-24",
+    "skip": true
   }
 }
