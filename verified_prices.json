@@ -23739,6 +23739,19 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439645030": {
+    "newPrice": null,
+    "secondhand": 6500,
+    "note": "Canon G9 2007 高階 CCD 旗艦 二手 $5-8K 復古+收藏級。$6,000 = 92% ⭐ 手動 (須看成色/快門)",
+    "source": "2026-05-24"
+  },
+  "1439646411": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "黑壇入尺三敬茶座 NT$6,500 grandstone 中式收藏 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439647825": {
     "newPrice": null,
     "secondhand": null,
@@ -23759,6 +23772,12 @@
     "note": "Jellycat 花生吊飾 NT$1,500 3jinstore <$2K 玩偶 SKIP",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1439653915": {
+    "newPrice": 4000,
+    "secondhand": 4000,
+    "note": "踏覓 4 單位 IGT 桌含燈架+掛網 同級新品 $3.5-4.5K。$2,700 = 68% ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
   },
   "1439653996": {
     "newPrice": null,
@@ -23850,6 +23869,53 @@
     "newPrice": 14900,
     "secondhand": 9000,
     "note": "Ninebot F25 九號電動滑板車 新品 $14,900 二手 $8-10K。$7,500 = 83% 二手 / 50% 新品 ⭐⭐ 殺價",
+    "source": "2026-05-24"
+  },
+  "1439662860": {
+    "newPrice": null,
+    "secondhand": 7800,
+    "note": "Apple Watch S7 Nike 45mm 全配 蝦皮二手 $7.3-8.5K。$3,000 = 38% 二手 ⭐⭐⭐ 好貨 (價格過低警惕來源/狀況)",
+    "source": "2026-05-24"
+  },
+  "1439664601": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "安全帽(無品牌型號) NT$2,500 leejudy 標題不全 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439664699": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "銀霞 秋詩篇篇電影原聲帶 NT$500 wixuehbficd <$2K CD SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439664709": {
+    "newPrice": null,
+    "secondhand": 8500,
+    "note": "Nikon D5300+18-105 套機二手 $7-10K 中位 $8.5K。$12,000 = 141% 偏高",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439664730": {
+    "newPrice": 19000,
+    "secondhand": 14500,
+    "note": "Steam Deck OLED 512G 二手 $14-15K。$18,000 = 124% 遠高於二手接近新品",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439665442": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "DELL 65W USB-C 充電器 NT$500 k5566k5566283499 <$2K 配件 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439666534": {
+    "newPrice": 19989,
+    "secondhand": 17989,
+    "note": "PS5 5/1 起新品光碟版 $19,989 / 數位版 $17,989。全新未拆 $17,500 = 88% 光碟版 ≈ 數位版新價 ⭐ 手動",
     "source": "2026-05-24"
   }
 }
