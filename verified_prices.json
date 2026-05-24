@@ -23334,6 +23334,13 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439609827": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "CHIMEI 奇美空氣清淨機(無型號) NT$800 nglychee <$2K 雜訊 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439610745": {
     "newPrice": null,
     "secondhand": null,
@@ -23535,11 +23542,44 @@
     "note": "Fujifilm X-T2 body 二手 $13-17.5K + XF 27mm $7.5K 組合 $22K。$15,000 = 68% ⭐⭐⭐ 好貨",
     "source": "2026-05-24"
   },
+  "1439621775": {
+    "newPrice": 7990,
+    "secondhand": 4200,
+    "note": "Samsung Galaxy Tab A7 T500 10.4吋 二手 $4K-4.8K 中位 $4.2K。$3,500 = 83% ⭐⭐ 殺價",
+    "source": "2026-05-24"
+  },
   "1439622532": {
     "newPrice": 13990,
     "secondhand": 11500,
     "note": "MOZA R5 雙踏板 新品 $13,990 (mitte3c $12,800) 二手 $11K-12K。$12,800 ≈ 新品價 111%",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1439623498": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "六弦百貨店系列漫畫 NT$500 newwater-d51f <$2K 樂媒 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439624436": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "工業風攝影燈(無型號) NT$2,300 a19785f 棚拍燈 niche SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439625079": {
+    "newPrice": 31900,
+    "secondhand": 15500,
+    "note": "MacBook Air M1 2021 512G 二手 $14K-17K 中位 $15.5K (MacLove/蝦皮)。$18,900 = 122% 偏高",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439627019": {
+    "newPrice": 5990,
+    "secondhand": 5500,
+    "note": "ASUS TUF B850M-PLUS WiFi6E 全新未拆 新品 $5,500-6,590。$5,300 = 96% 新品 ⭐ 手動",
+    "source": "2026-05-24"
   }
 }
