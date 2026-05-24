@@ -4387,6 +4387,12 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1433805356": {
+    "newPrice": 8500,
+    "secondhand": 4000,
+    "note": "Bose QC20 (停產主動降噪入耳) 台灣二手 $3-6K 中位 $4K。$2,000 = 50% 二手 8.7成新 ⭐⭐⭐ 好貨",
+    "source": "2026-05-25"
+  },
   "1433836801": {
     "newPrice": null,
     "secondhand": null,
@@ -24974,6 +24980,13 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439776615": {
+    "newPrice": 2489,
+    "secondhand": 1500,
+    "note": "Insta360 自行車尾部支架組 新品 $2,489 二手 $1.5K。$2,000 = 133% 二手",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439776689": {
     "newPrice": 12880,
     "secondhand": 7000,
@@ -24992,5 +25005,67 @@
     "secondhand": 4500,
     "note": "二手臥推椅 + 40kg PVC 啞鈴×2 套組 二手估 $4.5K (椅 $1.5-2.5K + 啞鈴對 $1.5-2K)。$4,000 = 89% ⭐ 手動 (面交確認重量)",
     "source": "2026-05-24"
+  },
+  "1439777992": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "和田玉黃口料帶糖手鐲 NT$2,200 jadeselect 玉器 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439778022": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "福夢二代 NT$2,000 eddie9704112461 籤詩/玄學 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439778066": {
+    "newPrice": 50000,
+    "secondhand": 35000,
+    "note": "Fujifilm X-T3 機身二手 $24-42K (中位 $30K) + XF27/35 餅乾鏡 ~$5K 合計 $35K。$25,000 = 71% ⭐ 手動 (鏡頭規格不明)",
+    "source": "2026-05-25"
+  },
+  "1439778370": {
+    "newPrice": 2880,
+    "secondhand": 2388,
+    "note": "Google Nest Audio 已驗多次 $2,388 = 133% 二手 skip 判定維持",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439778406": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Barry 曠課王 Almost Famous EP NT$2,500 sssss498 樂媒 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439779352": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "瘦子 E.SO 冒險王 mixtape (重複) NT$20,000 sssss498 樂媒 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439779997": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "瘦子 E.SO 冒險王 mixtape NT$20,000 sssss498 樂媒 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439781020": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Starr Chen 陳星翰 Wellcome to the next level NT$6,666 sssss498 樂媒 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439781034": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "GD G-Dragon 泰國粉絲見面會黑膠造型卡組 NT$1,200 peterhk3855 idol 周邊 SKIP",
+    "source": "2026-05-25",
+    "skip": true
   }
 }
