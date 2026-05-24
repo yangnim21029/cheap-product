@@ -4408,6 +4408,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1433880394": {
+    "newPrice": 3690,
+    "secondhand": 2500,
+    "note": "THOMSON TM-SAT25 16L 復古氣炸烤箱 新品 PChome/Yahoo $3,690 二手 $2.2-2.8K。$3,000 = 120% 二手 / 81% 新品 偏高",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1433884059": {
     "newPrice": 7500,
     "secondhand": 5500,
@@ -4439,6 +4446,12 @@
     "secondhand": 4500,
     "note": "Keychron K2HE/K2H-Q1磁軸白色特仕版 公司貨$5K-7K二手$4K-5K。$4,500=75%新品⭐ mugi62832978 機械鍵盤手動",
     "source": "2026-05-16"
+  },
+  "1433950522": {
+    "newPrice": 89900,
+    "secondhand": 35000,
+    "note": "ASUS ROG G733ZM i9-12900H/RTX3060/32G/1TB (2022) 二手中位 $35K。$29,000 = 83% ⭐⭐ 殺價",
+    "source": "2026-05-24"
   },
   "1433975529": {
     "newPrice": null,
@@ -24858,6 +24871,12 @@
     "note": "Fellow Stagg EKG 600ml 新品 $5,480 二手 $3.3-3.8K。$4,000 = 75% ⭐⭐ 殺價",
     "source": "2026-05-24"
   },
+  "1439764524": {
+    "newPrice": 9999,
+    "secondhand": 5000,
+    "note": "Jmoon 極萌大熨斗 M12 微電流美容儀 官方現價 $9,999 (原 $20,099)。$5,000 = 50% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
   "1439764681": {
     "newPrice": 5990,
     "secondhand": 4500,
@@ -24921,5 +24940,57 @@
     "note": "Lollar Special Strat Pickups Bridge 拾音器 NT$2,500 woopamishop 樂器配件 SKIP",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1439772569": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "張國榮 一切隨風 10 首經典 CD 合輯 NT$800 t670410555 <$2K CD SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439773641": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Casio Casiotone CT-S200 電子琴紅 NT$3,200 wwj8275 樂器 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439774039": {
+    "newPrice": 8500,
+    "secondhand": 8200,
+    "note": "Medicube 張員媖代言美容儀型號未指明 (Booster Pro ~$8.5K / Ultra Tune 40.68 更貴) 未拆封。$8,200 ⭐ 手動 (需確認型號)",
+    "source": "2026-05-24"
+  },
+  "1439774311": {
+    "newPrice": 15000,
+    "secondhand": 13500,
+    "note": "Insta360 X5 標準版 (2026/1 減稅後 $14.9-15K) 今天拆封用一次。$13,500 = 90% ⭐ 手動 (上輪 $12,000=63% 才算好貨)",
+    "source": "2026-05-24"
+  },
+  "1439775964": {
+    "newPrice": 6900,
+    "secondhand": 3650,
+    "note": "Bose SoundLink Mini II 二手 $3.5-3.8K。$3,800 = 104% 二手上緣無議價空間",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439776689": {
+    "newPrice": 12880,
+    "secondhand": 7000,
+    "note": "Wacom One 12 (2nd Gen) DTC121 新品 $12,880 二手 $6.5-8K。$6,500 = 93% ⭐ 手動 (確認筆況/盒裝/保固)",
+    "source": "2026-05-24"
+  },
+  "1439776737": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "KING GNU THE GREATEST UNKNOWN 亞洲巡迴特別版 NT$500 lillian2426 <$2K CD SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439776824": {
+    "newPrice": 8000,
+    "secondhand": 4500,
+    "note": "二手臥推椅 + 40kg PVC 啞鈴×2 套組 二手估 $4.5K (椅 $1.5-2.5K + 啞鈴對 $1.5-2K)。$4,000 = 89% ⭐ 手動 (面交確認重量)",
+    "source": "2026-05-24"
   }
 }
