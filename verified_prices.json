@@ -2216,6 +2216,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1428244068": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 寶可夢劍 NT$950 mysticdolphin <$2K 單片 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1428245242": {
     "newPrice": null,
     "secondhand": null,
@@ -4385,6 +4392,13 @@
     "secondhand": null,
     "note": "空氣清淨機 Dyson Pure Hot+Cool™ 三合一涼暖空氣清淨機 濾芯 全新 正版 NT$2,000 bunshichi7tawara 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
+    "skip": true
+  },
+  "1433919791": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "沉香小擺件 NT$2,400 jerrywei 古玩 SKIP",
+    "source": "2026-05-24",
     "skip": true
   },
   "1433920719": {
@@ -24643,6 +24657,18 @@
     "note": "DJI Pocket 3 全能套組 二手中位 $15-17K (Dcard 近全新 $19,500) ccy_shop 店家。$12,000 = 77% ⭐⭐ 殺價",
     "source": "2026-05-24"
   },
+  "1439749187": {
+    "newPrice": 9300,
+    "secondhand": 6500,
+    "note": "Leofoto LS-225CEX 快拆水平半球碗碳纖三腳架 新品 $9,300 二手 $6-7K。$4,500 = 69% 二手 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
+  "1439750964": {
+    "newPrice": 14000,
+    "secondhand": 12000,
+    "note": "IK Multimedia iLoud Micro Monitor 一對 新品 $13.8-16K 二手一對 $12-14K (PTT 單顆 $6-8.8K)。$6,500 一對遠低於行情 ⭐⭐⭐ 好貨",
+    "source": "2026-05-24"
+  },
   "1439751208": {
     "newPrice": null,
     "secondhand": null,
@@ -24664,10 +24690,24 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439752628": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 兄弟齊航 全新未拆 NT$850 swiftwind <$2K 單片 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439752895": {
     "newPrice": null,
     "secondhand": null,
     "note": "翁立友男人傷簽名 CD NT$680 applellllla <$2K SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439752955": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPhone 14 拆機原廠螢幕 NT$7,000 poi90088 DIY 修件 SKIP",
     "source": "2026-05-24",
     "skip": true
   },
@@ -24684,5 +24724,46 @@
     "note": "Cube 26吋女款 24 速 Shimano 二手 $3-4.5K。$5,500 高於二手 hsin 店家批貨",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1439753548": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "勝利羽球拍只拆封 NT$2,500 zhoub33813086 羽球 User 無此興趣 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439753755": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "復古牛仔男孩塑像 NT$2,000 a09082350327522 古玩 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439755211": {
+    "newPrice": 22000,
+    "secondhand": 16000,
+    "note": "Samsung Tab S11 12G/256G WiFi + 原廠皮套 8 個月新機 PChome 新品 $20,300。$20,000 ≈ 新品價, 二手應 $15-17K, $20K = 125% 過高",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439755753": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "維多利亞藍白瓷男性塑像 NT$2,000 a09082350327522 古玩 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439757067": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "手繪瓷男孩與兔子人偶 NT$2,000 a09082350327522 古玩 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439757694": {
+    "newPrice": 5490,
+    "secondhand": 2800,
+    "note": "PLAUD NotePin 僅膠囊無配件 全套二手 $3-3.5K 純膠囊 $2.5-3K。$2,700 = 96% ⭐ 手動",
+    "source": "2026-05-24"
   }
 }
