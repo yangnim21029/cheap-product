@@ -21694,6 +21694,13 @@
     "note": "Patrol 112 SKIP: steam controller joker7627",
     "source": "manual_skip"
   },
+  "1439358778": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Magic Mouse USB-C 全新 NT$1,500 shawn5050 <$2K 配件 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439359238": {
     "newPrice": null,
     "secondhand": null,
@@ -23625,6 +23632,25 @@
     "newPrice": 1900,
     "secondhand": 1500,
     "note": "GIGASTONE DDR4 3200 32GB kit 新品 $1,699-2,049。$4,500 = 237% 嚴重高估",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439634537": {
+    "newPrice": 7490,
+    "secondhand": 5500,
+    "note": "AirPods Pro 3 (2026 新品) 官價 $7,490 通路 $6,090-6,790 二手稀少估 $5.5K。$3,800 = 51% 官價 / 69% 二手, 「在保」是真品訊號但 2026 新品掉到 51% 警惕仿品 ⭐ 手動",
+    "source": "2026-05-24"
+  },
+  "1439635288": {
+    "newPrice": 40000,
+    "secondhand": 38000,
+    "note": "Canon EF 200mm f/2.8L II USM + EF-EOS R 轉接環 二手 $35.9-38.6K, 組合中位 $38K。$15,000 = 39% 二手中位 ⭐⭐⭐ 好貨 (價格異常低需確認鏡況/真偽)",
+    "source": "2026-05-24"
+  },
+  "1439638614": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "金牌得主周邊 NT$9,999 010203_ idol/明星周邊 SKIP",
     "source": "2026-05-24",
     "skip": true
   }
