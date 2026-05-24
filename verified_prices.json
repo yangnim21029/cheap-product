@@ -23543,6 +23543,13 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439621244": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "迷宮飯 Navy 地毯/掛毯 NT$1,500 junjungoodshop <$2K 動漫周邊 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
   "1439621402": {
     "newPrice": null,
     "secondhand": 22000,
@@ -23653,5 +23660,42 @@
     "note": "金牌得主周邊 NT$9,999 010203_ idol/明星周邊 SKIP",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1439638769": {
+    "newPrice": 4500,
+    "secondhand": 3700,
+    "note": "Marshall 藍芽音響型號不明 Emberton/Willen 入門款二手 $3.5-3.9K。$2,400 = 65% 二手 但無型號無法確認 + 12m 老 listing ⭐ 手動",
+    "source": "2026-05-24"
+  },
+  "1439639948": {
+    "newPrice": 7150,
+    "secondhand": 5500,
+    "note": "Apple Watch SE2 44mm 星光色 GPS 新品 $7,150 二手 $4.6-7.7K 中位 $5.5K。$4,500 = 82% ⭐⭐ 殺價",
+    "source": "2026-05-24"
+  },
+  "1439640593": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "六順民藝銅雕中型銅爐 NT$1,200 ace010101 <$2K 古玩 SKIP",
+    "source": "2026-05-24",
+    "skip": true
+  },
+  "1439640920": {
+    "newPrice": 15000,
+    "secondhand": 6500,
+    "note": "技嘉 RTX 2070 Super Windforce 3X (5 年舊卡) 二手 $6-7.3K。$4,300 = 66% 看似 good, 但有礦卡風險+同賣家清貨 ⭐ 手動",
+    "source": "2026-05-24"
+  },
+  "1439642317": {
+    "newPrice": 12450,
+    "secondhand": 11000,
+    "note": "AMD Ryzen 7 9700X 代理盒裝新品 $12,450 全新未拆。$10,600 = 85% 新品 ⭐ 手動 (rakutan 連兩件全新 像店家清貨)",
+    "source": "2026-05-24"
+  },
+  "1439643692": {
+    "newPrice": 12800,
+    "secondhand": 7500,
+    "note": "OGAWA OG-2179M 全能溫熱氣壓按摩椅墊 官特 $12,800 二手 $7-8K。$6,888 = 92% ⭐ 手動 (按摩家電貶值快)",
+    "source": "2026-05-24"
   }
 }

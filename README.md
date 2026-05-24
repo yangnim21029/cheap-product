@@ -1,70 +1,74 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/24 12:19:10 · 累積已看 9847 筆 · 110 位賣家黑名單
+> 2026/5/24 12:45:56 · 累積已看 9850 筆 · 110 位賣家黑名單
 
-**待審：** 好貨 11 ｜ 殺價 14 ｜ 手動 14 ｜ 待查 0
+**待審：** 好貨 13 ｜ 殺價 15 ｜ 手動 15 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
-## 🟢 好貨（11）
+## 🟢 好貨（13）
 
 > 通過自動門檻，可直接買
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [相機攝影] EF-200mmF2.8 USM EF-EOS R 轉接環 | **NT$15,000** | 新$40000 | 38% new | Lightly used | 05/24 12:00 | [→](https://tw.carousell.com/p/1439635288/) |
-| [音響耳機] AirPodsPro3代在保 | **NT$3,800** | 新$7490 | 51% new | Like new | 05/24 11:57 | [→](https://tw.carousell.com/p/1439634537/) |
-| [相機攝影] 富士Fujifilm XT2 + 27mm F2.8 餅乾鏡 | **NT$15,000** | 二手$22000 | 68% 二手 | Lightly used | 05/24 10:19 | [→](https://tw.carousell.com/p/1439621402/) |
-| [相機攝影] GoPro 10 | **NT$5,260** | 二手$9000 | 58% 二手 | Lightly used | 05/24 09:19 | [→](https://tw.carousell.com/p/1439612783/) |
-| [螢幕] 32吋技嘉螢幕🌟 超新無傷保固還有兩年多 | **NT$5,500** | 新$16800 | 33% new | Like new | 05/24 08:19 | [→](https://tw.carousell.com/p/1433771425/) |
-| [筆電] ASUS X560UD 15.6吋筆電｜已升級16G記憶體/雙硬碟(256G SSD+50 | **NT$6,000** | 新$28000 | 21% new | Like new | 05/24 03:19 | [→](https://tw.carousell.com/p/1439599913/) |
-| [筆電] 華碩 ASUS ROG Strix 電競筆電 (i7-9750H / 16G / GTX  | **NT$10,000** | 二手$26000 | 38% 二手 | Like new | 05/24 02:19 | [→](https://tw.carousell.com/p/1439595273/) |
-| [電腦科技] ACER K50-20-575N 15.6吋i5筆記型電腦i5-6200U 940MX 8 | **NT$3,500** | 新$21900 | 16% new | Like new | 05/24 00:19 | [→](https://tw.carousell.com/p/1439587240/) |
+| [音響] Marshall藍芽音響 | **NT$2,400** | 新$4500 | 53% new | Like new | 05/24 12:33 | [→](https://tw.carousell.com/p/1439638769/) |
+| [電腦科技] 技嘉windforce OC 3X RTX 2070 super顯卡 | **NT$4,300** | 新$15000 | 29% new | Lightly used | 05/24 12:27 | [→](https://tw.carousell.com/p/1439640920/) |
+| [相機攝影] EF-200mmF2.8 USM EF-EOS R 轉接環 | **NT$15,000** | 新$40000 | 38% new | Lightly used | 05/24 11:59 | [→](https://tw.carousell.com/p/1439635288/) |
+| [音響耳機] AirPodsPro3代在保 | **NT$3,800** | 新$7490 | 51% new | Like new | 05/24 11:55 | [→](https://tw.carousell.com/p/1439634537/) |
+| [相機攝影] 富士Fujifilm XT2 + 27mm F2.8 餅乾鏡 | **NT$15,000** | 二手$22000 | 68% 二手 | Lightly used | 05/24 10:45 | [→](https://tw.carousell.com/p/1439621402/) |
+| [相機攝影] GoPro 10 | **NT$5,260** | 二手$9000 | 58% 二手 | Lightly used | 05/24 09:45 | [→](https://tw.carousell.com/p/1439612783/) |
+| [螢幕] 32吋技嘉螢幕🌟 超新無傷保固還有兩年多 | **NT$5,500** | 新$16800 | 33% new | Like new | 05/24 07:45 | [→](https://tw.carousell.com/p/1433771425/) |
+| [筆電] ASUS X560UD 15.6吋筆電｜已升級16G記憶體/雙硬碟(256G SSD+50 | **NT$6,000** | 新$28000 | 21% new | Like new | 05/24 03:45 | [→](https://tw.carousell.com/p/1439599913/) |
+| [筆電] 華碩 ASUS ROG Strix 電競筆電 (i7-9750H / 16G / GTX  | **NT$10,000** | 二手$26000 | 38% 二手 | Like new | 05/24 01:45 | [→](https://tw.carousell.com/p/1439595273/) |
+| [電腦科技] ACER K50-20-575N 15.6吋i5筆記型電腦i5-6200U 940MX 8 | **NT$3,500** | 新$21900 | 16% new | Like new | 05/24 00:45 | [→](https://tw.carousell.com/p/1439587240/) |
 | [投影機] SAMSUNG FREESTYLE 2微型智慧投影機 （TOYOTA交車贈品 ） 原價90 | **NT$7,900** | 新$23900 | 33% new | Brand new | 05/23 23:48 | [→](https://tw.carousell.com/p/1439577641/) |
-| [電腦科技] 華碩十代機i3-10105/16G記憶體/480G SSD | **NT$5,566** | 新$13000 | 43% new | Lightly used | 05/23 23:19 | [→](https://tw.carousell.com/p/1439574601/) |
-| [相機攝影] 老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer | **NT$20,900** | 新$48500 | 43% new | Lightly used | 05/23 22:19 | [→](https://tw.carousell.com/p/1439561518/) |
+| [電腦科技] 華碩十代機i3-10105/16G記憶體/480G SSD | **NT$5,566** | 新$13000 | 43% new | Lightly used | 05/23 22:45 | [→](https://tw.carousell.com/p/1439574601/) |
+| [相機攝影] 老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer | **NT$20,900** | 新$48500 | 43% new | Lightly used | 05/23 21:45 | [→](https://tw.carousell.com/p/1439561518/) |
 
-## 🟡 殺價（14）
+## 🟡 殺價（15）
 
 > 價格已合理但還能再殺，看你殺得到嗎
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [筆電] ASUSVivobook S15 15.6吋2K螢幕 AMD R7-8845H/780M/ | **NT$16,000** | 新$32000 | 50% new | Like new | 05/24 11:52 | [→](https://tw.carousell.com/p/1439631846/) |
+| [apple watch] Apple Watch se2 44mm 星光色 | **NT$4,500** | 新$7150 | 63% new | Lightly used | 05/24 12:41 | [→](https://tw.carousell.com/p/1439639948/) |
+| [筆電] ASUSVivobook S15 15.6吋2K螢幕 AMD R7-8845H/780M/ | **NT$16,000** | 新$32000 | 50% new | Like new | 05/24 11:50 | [→](https://tw.carousell.com/p/1439631846/) |
 | [喇叭] SAMSUNG Galaxy Tab A7 T500 10.4吋平板 四顆喇叭 | **NT$3,500** | 新$7990 | 44% new | Lightly used | 05/24 10:56 | [→](https://tw.carousell.com/p/1439621775/) |
-| [iPad] iPad air5 二手 +Apple Pencil 2 | **NT$10,500** | 新$21900 | 48% new | Like new | 05/24 10:19 | [→](https://tw.carousell.com/p/1439614975/) |
-| Switch 電力加強版灰色 Switch pro 魔物獵人版 | **NT$5,000** | 二手$7000 | 71% 二手 | Lightly used | 05/24 10:19 | [→](https://tw.carousell.com/p/1439618557/) |
-| [iPad] Apple iPad mini 7 (A17 pro) | **NT$11,800** | 新$16900 | 70% new | Like new | 05/24 08:19 | [→](https://tw.carousell.com/p/1439609004/) |
-| [除濕機] Whirlpool 惠爾浦 除濕機10.5公斤 WDEE20AW 二手 近新 | **NT$4,000** | 新$11900 | 34% new | Lightly used | 05/24 03:19 | [→](https://tw.carousell.com/p/1439598279/) |
-| [電玩主機] PS4近全新 面交3000 | **NT$3,364** | 新$9780 | 34% new | Like new | 05/24 03:19 | [→](https://tw.carousell.com/p/1439600270/) |
-| [dji] Dji mic | **NT$3,500** | 新$7790 | 45% new | Like new | 05/24 02:18 | [→](https://tw.carousell.com/p/1439596980/) |
-| [電腦科技] MacBook Air M1 2020 8GB | **NT$9,000** | 新$22000 | 41% new | Lightly used | 05/24 00:19 | [→](https://tw.carousell.com/p/1439583247/) |
-| [電玩主機] 二手 Switch 1代主機 白色 64g、健身環大冒險 | **NT$5,300** | 二手$6700 | 79% 二手 | Like new | 05/23 22:19 | [→](https://tw.carousell.com/p/1439562184/) |
-| [電腦科技] MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡 | **NT$6,400** | 二手$7500 | 85% 二手 | Lightly used | 05/23 22:19 | [→](https://tw.carousell.com/p/1428028256/) |
-| [電腦科技] RAKKA80 | **NT$8,000** | 新$12800 | 63% new | Like new | 05/23 21:19 | [→](https://tw.carousell.com/p/1439551386/) |
-| [相機攝影] Leica Sofort2 拍立得相機 | **NT$9,500** | 新$12200 | 78% new | Like new | 05/23 21:19 | [→](https://tw.carousell.com/p/1433610087/) |
-| [電腦科技] EVGA RTX 3080 FTW3 | **NT$9,800** | 二手$11000 | 89% 二手 | Lightly used | 05/23 20:19 | [→](https://tw.carousell.com/p/1439549257/) |
+| Switch 電力加強版灰色 Switch pro 魔物獵人版 | **NT$5,000** | 二手$7000 | 71% 二手 | Lightly used | 05/24 10:45 | [→](https://tw.carousell.com/p/1439618557/) |
+| [iPad] iPad air5 二手 +Apple Pencil 2 | **NT$10,500** | 新$21900 | 48% new | Like new | 05/24 09:45 | [→](https://tw.carousell.com/p/1439614975/) |
+| [iPad] Apple iPad mini 7 (A17 pro) | **NT$11,800** | 新$16900 | 70% new | Like new | 05/24 08:45 | [→](https://tw.carousell.com/p/1439609004/) |
+| [電玩主機] PS4近全新 面交3000 | **NT$3,364** | 新$9780 | 34% new | Like new | 05/24 03:45 | [→](https://tw.carousell.com/p/1439600270/) |
+| [dji] Dji mic | **NT$3,500** | 新$7790 | 45% new | Like new | 05/24 02:45 | [→](https://tw.carousell.com/p/1439596980/) |
+| [除濕機] Whirlpool 惠爾浦 除濕機10.5公斤 WDEE20AW 二手 近新 | **NT$4,000** | 新$11900 | 34% new | Lightly used | 05/24 02:45 | [→](https://tw.carousell.com/p/1439598279/) |
+| [電腦科技] MacBook Air M1 2020 8GB | **NT$9,000** | 新$22000 | 41% new | Lightly used | 05/23 23:45 | [→](https://tw.carousell.com/p/1439583247/) |
+| [電腦科技] MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡 | **NT$6,400** | 二手$7500 | 85% 二手 | Lightly used | 05/23 22:45 | [→](https://tw.carousell.com/p/1428028256/) |
+| [相機攝影] Leica Sofort2 拍立得相機 | **NT$9,500** | 新$12200 | 78% new | Like new | 05/23 21:45 | [→](https://tw.carousell.com/p/1433610087/) |
+| [電玩主機] 二手 Switch 1代主機 白色 64g、健身環大冒險 | **NT$5,300** | 二手$6700 | 79% 二手 | Like new | 05/23 21:45 | [→](https://tw.carousell.com/p/1439562184/) |
+| [電腦科技] RAKKA80 | **NT$8,000** | 新$12800 | 63% new | Like new | 05/23 20:45 | [→](https://tw.carousell.com/p/1439551386/) |
+| [電腦科技] EVGA RTX 3080 FTW3 | **NT$9,800** | 二手$11000 | 89% 二手 | Lightly used | 05/23 20:45 | [→](https://tw.carousell.com/p/1439549257/) |
 
-## 🟠 手動判斷（14）
+## 🟠 手動判斷（15）
 
 > 二手樣本不足或邊緣值，手動評估
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [電腦科技] 華碩主機板 B850 TUF GAMING B850M-PLUS Wifi6e（AMD C | **NT$5,300** | 新$5990 | 88% new | Unknown | 05/24 12:11 | [→](https://tw.carousell.com/p/1439627019/) |
-| [音響耳機] SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭 | **NT$2,300** | 新$2300 | 100% new | Unknown | 05/24 12:10 | [→](https://tw.carousell.com/p/1439563940/) |
-| [音響耳機] AirPods 4 無降噪版本全新 | **NT$3,200** | 新$4490 | 71% new | Unknown | 05/24 12:08 | [→](https://tw.carousell.com/p/1439590091/) |
-| [電腦科技] Seasonic 海韻 Focus GX-1000 | **NT$3,800** | 新$5290 | 72% new | Unknown | 05/24 12:03 | [→](https://tw.carousell.com/p/1439549728/) |
-| [音響耳機] ［聲霸］SHARP夏普 藍牙家庭劇院揚聲器系統 HT-SBW115 | **NT$2,500** | 新$4000 | 63% new | Unknown | 05/24 12:03 | [→](https://tw.carousell.com/p/1439620344/) |
-| [電腦科技] Switch (動森）含配備 | **NT$5,000** | 二手$5000 | 100% 二手 | Unknown | 05/24 11:58 | [→](https://tw.carousell.com/p/1439620082/) |
-| [apple watch] Apple Watch SE | **NT$4,500** | 新$7900 | 57% new | Unknown | 05/24 11:55 | [→](https://tw.carousell.com/p/1439625994/) |
-| [筆電] ASUS FX507VV4 15.6吋2K電競筆電 (i9-13900H/RTX4060/ | **NT$30,000** | 新$38000 | 79% new | Unknown | 05/24 11:54 | [→](https://tw.carousell.com/p/1433670660/) |
-| [電玩主機] Switch灰黑電力加強版(含健身環、隨行收納防震包) | **NT$8,280** | 新$7580 | 109% new | Unknown | 05/24 11:51 | [→](https://tw.carousell.com/p/1439566426/) |
-| [運動戶外] 捷安特自行車 | **NT$7,800** | ? | ? | Unknown | 05/24 11:50 | [→](https://tw.carousell.com/p/1433639554/) |
-| [音響耳機] Gravastar 重力星 藍牙音箱 | **NT$3,500** | 新$6490 | 54% new | Unknown | 05/24 11:50 | [→](https://tw.carousell.com/p/1439628007/) |
-| [螢幕] 全新 ViewSonic 優派 VA2932-MHD 廣視角螢幕(29型/2560x108 | **NT$4,500** | 新$5000 | 90% new | Unknown | 05/24 11:23 | [→](https://tw.carousell.com/p/1439614791/) |
-| [螢幕] GIGABYTE 技嘉AORUS FO32U2P 32 型 QD-OLED 真4K電競螢幕 | **NT$20,000** | 新$34900 | 57% new | Unknown | 05/24 10:19 | [→](https://tw.carousell.com/p/1439611653/) |
-| [電腦科技] asus華碩文書機筆電出清 | **NT$3,000** | ? | ? | Unknown | 05/24 09:19 | [→](https://tw.carousell.com/p/1431891399/) |
+| [運動戶外] 保固內～【OGAWA】全能溫熱氣壓按摩椅墊 OG-2179M│按摩椅墊、升降滾輪、高矮適用 | **NT$6,888** | 新$12800 | 54% new | Unknown | 05/24 12:43 | [→](https://tw.carousell.com/p/1439643692/) |
+| [電腦科技] 華碩主機板 B850 TUF GAMING B850M-PLUS Wifi6e（AMD C | **NT$5,300** | 新$5990 | 88% new | Unknown | 05/24 12:37 | [→](https://tw.carousell.com/p/1439627019/) |
+| [音響耳機] SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭 | **NT$2,300** | 新$2300 | 100% new | Unknown | 05/24 12:36 | [→](https://tw.carousell.com/p/1439563940/) |
+| [電腦科技] AMD Ryzen 7 9700X CPU全新未拆封 | **NT$10,600** | 新$12450 | 85% new | Unknown | 05/24 12:34 | [→](https://tw.carousell.com/p/1439642317/) |
+| [音響耳機] AirPods 4 無降噪版本全新 | **NT$3,200** | 新$4490 | 71% new | Unknown | 05/24 12:34 | [→](https://tw.carousell.com/p/1439590091/) |
+| [電腦科技] Seasonic 海韻 Focus GX-1000 | **NT$3,800** | 新$5290 | 72% new | Unknown | 05/24 12:29 | [→](https://tw.carousell.com/p/1439549728/) |
+| [音響耳機] ［聲霸］SHARP夏普 藍牙家庭劇院揚聲器系統 HT-SBW115 | **NT$2,500** | 新$4000 | 63% new | Unknown | 05/24 12:29 | [→](https://tw.carousell.com/p/1439620344/) |
+| [電腦科技] Switch (動森）含配備 | **NT$5,000** | 二手$5000 | 100% 二手 | Unknown | 05/24 12:24 | [→](https://tw.carousell.com/p/1439620082/) |
+| [apple watch] Apple Watch SE | **NT$4,500** | 新$7900 | 57% new | Unknown | 05/24 12:21 | [→](https://tw.carousell.com/p/1439625994/) |
+| [筆電] ASUS FX507VV4 15.6吋2K電競筆電 (i9-13900H/RTX4060/ | **NT$30,000** | 新$38000 | 79% new | Unknown | 05/24 12:20 | [→](https://tw.carousell.com/p/1433670660/) |
+| [電玩主機] Switch灰黑電力加強版(含健身環、隨行收納防震包) | **NT$8,280** | 新$7580 | 109% new | Unknown | 05/24 12:17 | [→](https://tw.carousell.com/p/1439566426/) |
+| [運動戶外] 捷安特自行車 | **NT$7,800** | ? | ? | Unknown | 05/24 12:16 | [→](https://tw.carousell.com/p/1433639554/) |
+| [音響耳機] Gravastar 重力星 藍牙音箱 | **NT$3,500** | 新$6490 | 54% new | Unknown | 05/24 12:16 | [→](https://tw.carousell.com/p/1439628007/) |
+| [螢幕] 全新 ViewSonic 優派 VA2932-MHD 廣視角螢幕(29型/2560x108 | **NT$4,500** | 新$5000 | 90% new | Unknown | 05/24 11:49 | [→](https://tw.carousell.com/p/1439614791/) |
+| [螢幕] GIGABYTE 技嘉AORUS FO32U2P 32 型 QD-OLED 真4K電競螢幕 | **NT$20,000** | 新$34900 | 57% new | Unknown | 05/24 10:45 | [→](https://tw.carousell.com/p/1439611653/) |
 
 
 ---

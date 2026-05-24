@@ -1,8 +1,54 @@
 {
   "newDeals": [
     {
+      "seller": "kupa3737",
+      "timeAgo": "46 minutes ago",
+      "title": "EF-200mmF2.8 USM EF-EOS R 轉接環",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439635288/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$15,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 11:59",
+      "pid": "1439635288",
+      "verified": {
+        "newPrice": 40000,
+        "secondhand": 38000,
+        "note": "Canon EF 200mm f/2.8L II USM + EF-EOS R 轉接環 二手 $35.9-38.6K, 組合中位 $38K。$15,000 = 39% 二手中位 ⭐⭐⭐ 好貨 (價格異常低需確認鏡況/真偽)",
+        "source": "2026-05-24"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 39
+    },
+    {
+      "seller": "nihanhan",
+      "timeAgo": "3 hours ago",
+      "title": "GoPro 10",
+      "price": 5260,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439612783/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$5,260",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 09:45",
+      "pid": "1439612783",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 9000,
+        "note": "GoPro 10 二手 $7.3-13K 中位 $9K。$5,260 = 58% ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": null,
+      "vsSecondhand": 58
+    },
+    {
       "seller": "second.hand.sell",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "老蛙移軸ffs 15mm f4.5 紅圈 w-dreamer",
       "price": 20900,
       "condition": "Lightly used",
@@ -12,7 +58,7 @@
       "priceStr": "NT$20,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 22:19",
+      "listedAt": "05/23 21:45",
       "pid": "1439561518",
       "verified": {
         "newPrice": 48500,
@@ -22,6 +68,29 @@
       },
       "vsNew": 43,
       "vsSecondhand": 60
+    },
+    {
+      "seller": "yt2817",
+      "timeAgo": "2 hours ago",
+      "title": "富士Fujifilm XT2 + 27mm F2.8 餅乾鏡",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439621402/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$15,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 10:45",
+      "pid": "1439621402",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 22000,
+        "note": "Fujifilm X-T2 body 二手 $13-17.5K + XF 27mm $7.5K 組合 $22K。$15,000 = 68% ⭐⭐⭐ 好貨",
+        "source": "2026-05-24"
+      },
+      "vsNew": null,
+      "vsSecondhand": 68
     },
     {
       "seller": "cutegirl0618",
@@ -47,31 +116,31 @@
       "vsSecondhand": 61
     },
     {
-      "seller": "kehogken",
-      "timeAgo": "12 hours ago",
-      "title": "ACER K50-20-575N 15.6吋i5筆記型電腦i5-6200U 940MX 8G/128G SSD + 1T HDD",
-      "price": 3500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439587240/",
+      "seller": "rakutan_901011",
+      "timeAgo": "18 minutes ago",
+      "title": "技嘉windforce OC 3X RTX 2070 super顯卡",
+      "price": 4300,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439640920/",
       "category": "電腦科技",
       "maxDays": 3,
-      "priceStr": "NT$3,500",
+      "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 00:19",
-      "pid": "1439587240",
+      "listedAt": "05/24 12:27",
+      "pid": "1439640920",
       "verified": {
-        "newPrice": 21900,
-        "secondhand": 4500,
-        "note": "Acer K50-20 2016 年機 i5-6200U/940MX/8G/128SSD+1T (Win11 不支援) ruten/yahoo 二手 $3,500-5,000。$3,500 = 78% 二手中位 ⭐⭐ 殺價",
+        "newPrice": 15000,
+        "secondhand": 6500,
+        "note": "技嘉 RTX 2070 Super Windforce 3X (5 年舊卡) 二手 $6-7.3K。$4,300 = 66% 看似 good, 但有礦卡風險+同賣家清貨 ⭐ 手動",
         "source": "2026-05-24"
       },
-      "vsNew": 16,
-      "vsSecondhand": 78
+      "vsNew": 29,
+      "vsSecondhand": 66
     },
     {
       "seller": "lcjen",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "華碩十代機i3-10105/16G記憶體/480G SSD",
       "price": 5566,
       "condition": "Lightly used",
@@ -81,7 +150,7 @@
       "priceStr": "NT$5,566",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 23:19",
+      "listedAt": "05/23 22:45",
       "pid": "1439574601",
       "verified": {
         "newPrice": 13000,
@@ -93,8 +162,31 @@
       "vsSecondhand": 70
     },
     {
+      "seller": "kehogken",
+      "timeAgo": "12 hours ago",
+      "title": "ACER K50-20-575N 15.6吋i5筆記型電腦i5-6200U 940MX 8G/128G SSD + 1T HDD",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439587240/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 00:45",
+      "pid": "1439587240",
+      "verified": {
+        "newPrice": 21900,
+        "secondhand": 4500,
+        "note": "Acer K50-20 2016 年機 i5-6200U/940MX/8G/128SSD+1T (Win11 不支援) ruten/yahoo 二手 $3,500-5,000。$3,500 = 78% 二手中位 ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": 16,
+      "vsSecondhand": 78
+    },
+    {
       "seller": "you2bepremium",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "華碩 ASUS ROG Strix 電競筆電 (i7-9750H / 16G / GTX 1650 / 2TB)",
       "price": 10000,
       "condition": "Like new",
@@ -104,7 +196,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 02:19",
+      "listedAt": "05/24 01:45",
       "pid": "1439595273",
       "verified": {
         "newPrice": null,
@@ -127,7 +219,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 03:19",
+      "listedAt": "05/24 03:45",
       "pid": "1439599913",
       "verified": {
         "newPrice": 28000,
@@ -140,7 +232,7 @@
     },
     {
       "seller": "3c_phone_meow",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "32吋技嘉螢幕🌟 超新無傷保固還有兩年多",
       "price": 5500,
       "condition": "Like new",
@@ -150,7 +242,7 @@
       "priceStr": "NT$5,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 08:19",
+      "listedAt": "05/24 07:45",
       "pid": "1433771425",
       "verified": {
         "newPrice": 16800,
@@ -162,54 +254,8 @@
       "vsSecondhand": 58
     },
     {
-      "seller": "yt2817",
-      "timeAgo": "2 hours ago",
-      "title": "富士Fujifilm XT2 + 27mm F2.8 餅乾鏡",
-      "price": 15000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439621402/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "priceStr": "NT$15,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/24 10:19",
-      "pid": "1439621402",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 22000,
-        "note": "Fujifilm X-T2 body 二手 $13-17.5K + XF 27mm $7.5K 組合 $22K。$15,000 = 68% ⭐⭐⭐ 好貨",
-        "source": "2026-05-24"
-      },
-      "vsNew": null,
-      "vsSecondhand": 68
-    },
-    {
-      "seller": "nihanhan",
-      "timeAgo": "3 hours ago",
-      "title": "GoPro 10",
-      "price": 5260,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439612783/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "priceStr": "NT$5,260",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/24 09:19",
-      "pid": "1439612783",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 9000,
-        "note": "GoPro 10 二手 $7.3-13K 中位 $9K。$5,260 = 58% ⭐⭐⭐ 好貨",
-        "source": "2026-05-24"
-      },
-      "vsNew": null,
-      "vsSecondhand": 58
-    },
-    {
       "seller": "calmstone_8a4c24",
-      "timeAgo": "22 minutes ago",
+      "timeAgo": "50 minutes ago",
       "title": "AirPodsPro3代在保",
       "price": 3800,
       "condition": "Like new",
@@ -219,7 +265,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 11:57",
+      "listedAt": "05/24 11:55",
       "pid": "1439634537",
       "verified": {
         "newPrice": 7490,
@@ -231,33 +277,56 @@
       "vsSecondhand": 69
     },
     {
-      "seller": "kupa3737",
-      "timeAgo": "19 minutes ago",
-      "title": "EF-200mmF2.8 USM EF-EOS R 轉接環",
-      "price": 15000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439635288/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "priceStr": "NT$15,000",
+      "seller": "j_083",
+      "timeAgo": "12 minutes ago",
+      "title": "Marshall藍芽音響",
+      "price": 2400,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439638769/",
+      "category": "音響",
+      "maxDays": 5,
+      "priceStr": "NT$2,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:00",
-      "pid": "1439635288",
+      "listedAt": "05/24 12:33",
+      "pid": "1439638769",
       "verified": {
-        "newPrice": 40000,
-        "secondhand": 38000,
-        "note": "Canon EF 200mm f/2.8L II USM + EF-EOS R 轉接環 二手 $35.9-38.6K, 組合中位 $38K。$15,000 = 39% 二手中位 ⭐⭐⭐ 好貨 (價格異常低需確認鏡況/真偽)",
+        "newPrice": 4500,
+        "secondhand": 3700,
+        "note": "Marshall 藍芽音響型號不明 Emberton/Willen 入門款二手 $3.5-3.9K。$2,400 = 65% 二手 但無型號無法確認 + 12m 老 listing ⭐ 手動",
         "source": "2026-05-24"
       },
-      "vsNew": 38,
-      "vsSecondhand": 39
+      "vsNew": 53,
+      "vsSecondhand": 65
     }
   ],
   "negotiate": [
     {
+      "seller": "kevn0324",
+      "timeAgo": "13 hours ago",
+      "title": "MacBook Air M1 2020 8GB",
+      "price": 9000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439583247/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$9,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 23:45",
+      "pid": "1439583247",
+      "verified": {
+        "newPrice": 22000,
+        "secondhand": 12000,
+        "note": "MacBook Air M1 2020 8GB Carousell 二手 $11K-13K。$9,000 = 75% ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": 41,
+      "vsSecondhand": 75
+    },
+    {
       "seller": "yukiovo.",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "RAKKA80",
       "price": 8000,
       "condition": "Like new",
@@ -267,7 +336,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:19",
+      "listedAt": "05/23 20:45",
       "pid": "1439551386",
       "verified": {
         "newPrice": 12800,
@@ -277,6 +346,29 @@
       },
       "vsNew": 63,
       "vsSecondhand": 84
+    },
+    {
+      "seller": "whus123",
+      "timeAgo": "14 hours ago",
+      "title": "MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡",
+      "price": 6400,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1428028256/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$6,400",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 22:45",
+      "pid": "1428028256",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7500,
+        "note": "MSI RTX 3060 Ti GAMING Z TRIO 二手 $6,600-7,990 中位 $7,500。$6,400 = 85% ⭐⭐ 殺價",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 85
     },
     {
       "seller": "ivankuo.tw",
@@ -290,7 +382,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 20:19",
+      "listedAt": "05/23 20:45",
       "pid": "1439549257",
       "verified": {
         "newPrice": null,
@@ -313,7 +405,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/23 21:19",
+      "listedAt": "05/23 21:45",
       "pid": "1433610087",
       "verified": {
         "newPrice": 12200,
@@ -323,121 +415,6 @@
       },
       "vsNew": 78,
       "vsSecondhand": 90
-    },
-    {
-      "seller": "lin03xo",
-      "timeAgo": "14 hours ago",
-      "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
-      "price": 5300,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439562184/",
-      "category": "電玩主機",
-      "maxDays": 3,
-      "priceStr": "NT$5,300",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/23 22:19",
-      "pid": "1439562184",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 6700,
-        "note": "Switch 一代 64G+健身環 二手組合 $5,500+$1,200=$6,700。$6,000 = 90% ⭐ 手動 (Rose 關注 Switch)",
-        "source": "2026-05-23"
-      },
-      "vsNew": null,
-      "vsSecondhand": 79
-    },
-    {
-      "seller": "whus123",
-      "timeAgo": "14 hours ago",
-      "title": "MSI RTX 3060TI GAMING Z TRIO 8G LHR 3060 顯示卡",
-      "price": 6400,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1428028256/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$6,400",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/23 22:19",
-      "pid": "1428028256",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 7500,
-        "note": "MSI RTX 3060 Ti GAMING Z TRIO 二手 $6,600-7,990 中位 $7,500。$6,400 = 85% ⭐⭐ 殺價",
-        "source": "2026-05-23"
-      },
-      "vsNew": null,
-      "vsSecondhand": 85
-    },
-    {
-      "seller": "kevn0324",
-      "timeAgo": "12 hours ago",
-      "title": "MacBook Air M1 2020 8GB",
-      "price": 9000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439583247/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$9,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/24 00:19",
-      "pid": "1439583247",
-      "verified": {
-        "newPrice": 22000,
-        "secondhand": 12000,
-        "note": "MacBook Air M1 2020 8GB Carousell 二手 $11K-13K。$9,000 = 75% ⭐⭐ 殺價",
-        "source": "2026-05-24"
-      },
-      "vsNew": 41,
-      "vsSecondhand": 75
-    },
-    {
-      "seller": "cheng3315",
-      "timeAgo": "9 hours ago",
-      "title": "Dji mic",
-      "price": 3500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439596980/",
-      "category": "dji",
-      "maxDays": 7,
-      "priceStr": "NT$3,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/24 02:18",
-      "pid": "1439596980",
-      "verified": {
-        "newPrice": 7790,
-        "secondhand": 4500,
-        "note": "DJI Mic 標題未指代數/套組,系列價差大(Mini ~$1K, Mic 1 一發 $3-4K, Mic 1 雙發+盒 $4.5-5.5K, Mic 2 $5-7K)。$3,500 = 78% (若為 Mic 1 雙發) 或 ~100% (若為一發)。⭐ 手動看實物/盒裝/型號",
-        "source": "2026-05-24"
-      },
-      "vsNew": 45,
-      "vsSecondhand": 78
-    },
-    {
-      "seller": "nontoxicglue",
-      "timeAgo": "9 hours ago",
-      "title": "Whirlpool 惠爾浦 除濕機10.5公斤 WDEE20AW 二手 近新",
-      "price": 4000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439598279/",
-      "category": "除濕機",
-      "maxDays": 7,
-      "priceStr": "NT$4,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/24 03:19",
-      "pid": "1439598279",
-      "verified": {
-        "newPrice": 11900,
-        "secondhand": 5500,
-        "note": "Whirlpool WDEE20AW 10.5kg 新品 $11,900 二手 $5-6K。$4,000 = 73% ⭐⭐ 殺價",
-        "source": "2026-05-24"
-      },
-      "vsNew": 34,
-      "vsSecondhand": 73
     },
     {
       "seller": "buy888",
@@ -451,7 +428,7 @@
       "priceStr": "NT$3,364",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 03:19",
+      "listedAt": "05/24 03:45",
       "pid": "1439600270",
       "verified": {
         "newPrice": 9780,
@@ -463,8 +440,77 @@
       "vsSecondhand": 75
     },
     {
+      "seller": "lin03xo",
+      "timeAgo": "15 hours ago",
+      "title": "二手 Switch 1代主機 白色 64g、健身環大冒險",
+      "price": 5300,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439562184/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$5,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/23 21:45",
+      "pid": "1439562184",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 6700,
+        "note": "Switch 一代 64G+健身環 二手組合 $5,500+$1,200=$6,700。$6,000 = 90% ⭐ 手動 (Rose 關注 Switch)",
+        "source": "2026-05-23"
+      },
+      "vsNew": null,
+      "vsSecondhand": 79
+    },
+    {
+      "seller": "cheng3315",
+      "timeAgo": "10 hours ago",
+      "title": "Dji mic",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439596980/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 02:45",
+      "pid": "1439596980",
+      "verified": {
+        "newPrice": 7790,
+        "secondhand": 4500,
+        "note": "DJI Mic 標題未指代數/套組,系列價差大(Mini ~$1K, Mic 1 一發 $3-4K, Mic 1 雙發+盒 $4.5-5.5K, Mic 2 $5-7K)。$3,500 = 78% (若為 Mic 1 雙發) 或 ~100% (若為一發)。⭐ 手動看實物/盒裝/型號",
+        "source": "2026-05-24"
+      },
+      "vsNew": 45,
+      "vsSecondhand": 78
+    },
+    {
+      "seller": "nontoxicglue",
+      "timeAgo": "10 hours ago",
+      "title": "Whirlpool 惠爾浦 除濕機10.5公斤 WDEE20AW 二手 近新",
+      "price": 4000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439598279/",
+      "category": "除濕機",
+      "maxDays": 7,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 02:45",
+      "pid": "1439598279",
+      "verified": {
+        "newPrice": 11900,
+        "secondhand": 5500,
+        "note": "Whirlpool WDEE20AW 10.5kg 新品 $11,900 二手 $5-6K。$4,000 = 73% ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": 34,
+      "vsSecondhand": 73
+    },
+    {
       "seller": "youngstorm.f96630",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "iPad air5 二手 +Apple Pencil 2",
       "price": 10500,
       "condition": "Like new",
@@ -474,7 +520,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 10:19",
+      "listedAt": "05/24 09:45",
       "pid": "1439614975",
       "verified": {
         "newPrice": 21900,
@@ -497,7 +543,7 @@
       "priceStr": "NT$11,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 08:19",
+      "listedAt": "05/24 08:45",
       "pid": "1439609004",
       "verified": {
         "newPrice": 16900,
@@ -520,7 +566,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 10:19",
+      "listedAt": "05/24 10:45",
       "pid": "1439618557",
       "verified": {
         "newPrice": null,
@@ -556,7 +602,7 @@
     },
     {
       "seller": "uueeuuee",
-      "timeAgo": "27 minutes ago",
+      "timeAgo": "55 minutes ago",
       "title": "ASUSVivobook S15 15.6吋2K螢幕 AMD R7-8845H/780M/16G/1TB 輕薄筆電",
       "price": 16000,
       "condition": "Like new",
@@ -566,7 +612,7 @@
       "priceStr": "NT$16,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 11:52",
+      "listedAt": "05/24 11:50",
       "pid": "1439631846",
       "verified": {
         "newPrice": 32000,
@@ -576,6 +622,29 @@
       },
       "vsNew": 50,
       "vsSecondhand": 80
+    },
+    {
+      "seller": "liooooou",
+      "timeAgo": "4 minutes ago",
+      "title": "Apple Watch se2 44mm 星光色",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439639948/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 12:41",
+      "pid": "1439639948",
+      "verified": {
+        "newPrice": 7150,
+        "secondhand": 5500,
+        "note": "Apple Watch SE2 44mm 星光色 GPS 新品 $7,150 二手 $4.6-7.7K 中位 $5.5K。$4,500 = 82% ⭐⭐ 殺價",
+        "source": "2026-05-24"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 82
     }
   ],
   "uncertain": [
@@ -597,7 +666,29 @@
         "source": "manual_inject_web"
       },
       "vsNew": 79,
-      "vsSecondhand": 100
+      "vsSecondhand": 100,
+      "listedAt": "05/24 12:20"
+    },
+    {
+      "seller": "ima413",
+      "timeAgo": "2 minutes ago",
+      "title": "保固內～【OGAWA】全能溫熱氣壓按摩椅墊 OG-2179M│按摩椅墊、升降滾輪、高矮適用、按摩器 、送禮、禮物",
+      "price": 6888,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439643692/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1439643692",
+      "priceStr": "NT$6,888",
+      "verified": {
+        "newPrice": 12800,
+        "secondhand": 7500,
+        "note": "OGAWA OG-2179M 全能溫熱氣壓按摩椅墊 官特 $12,800 二手 $7-8K。$6,888 = 92% ⭐ 手動 (按摩家電貶值快)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 54,
+      "vsSecondhand": 92,
+      "listedAt": "05/24 12:43"
     },
     {
       "seller": "angel540810",
@@ -617,187 +708,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": null,
-      "vsSecondhand": null
-    },
-    {
-      "seller": "ivankuo.tw",
-      "timeAgo": "16 minutes ago",
-      "title": "Seasonic 海韻 Focus GX-1000",
-      "price": 3800,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439549728/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439549728",
-      "priceStr": "NT$3,800",
-      "verified": {
-        "newPrice": 5290,
-        "secondhand": 3800,
-        "note": "Seasonic Focus GX-1000 1000W 80+ Gold 全模組 新品 $5,090-5,490 二手 $3.5-4.2K。$3,800 ≈ 100% ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 72,
-      "vsSecondhand": 100
-    },
-    {
-      "seller": "SuperBuyMan",
-      "timeAgo": "9 minutes ago",
-      "title": "SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭",
-      "price": 2300,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439563940/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "pid": "1439563940",
-      "priceStr": "NT$2,300",
-      "verified": {
-        "newPrice": 2300,
-        "secondhand": 2400,
-        "note": "SONY SRS-NB10 頸掛 新品 $3,350-3,990 二手 $2,200-2,500。$2,300 = 96% ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 100,
-      "vsSecondhand": 96
-    },
-    {
-      "seller": "daphane12",
-      "timeAgo": "28 minutes ago",
-      "title": "Switch灰黑電力加強版(含健身環、隨行收納防震包)",
-      "price": 8280,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439566426/",
-      "category": "電玩主機",
-      "maxDays": 3,
-      "pid": "1439566426",
-      "priceStr": "NT$8,280",
-      "verified": {
-        "newPrice": 7580,
-        "secondhand": 7000,
-        "note": "Switch 電力加強版+健身環+收納包 新機組合 $7,580 二手 $6.5-7K。$8,280 高於二手 ⭐ 手動 (Rose 關注 Switch 邊緣值)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 109,
-      "vsSecondhand": 118
-    },
-    {
-      "seller": "twohand676",
-      "timeAgo": "11 minutes ago",
-      "title": "AirPods 4 無降噪版本全新",
-      "price": 3200,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439590091/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "pid": "1439590091",
-      "priceStr": "NT$3,200",
-      "verified": {
-        "newPrice": 4490,
-        "secondhand": 3100,
-        "note": "AirPods 4 一般版 官價 $4,490 PTT 全新未拆 $3,000-3,260。$3,200 = 二手 103% / 新品 71% ⭐ 手動 (twohand676 名字像批貨需查 profile 防仿)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 71,
-      "vsSecondhand": 103
-    },
-    {
-      "seller": "huskiii",
-      "timeAgo": "56 minutes ago",
-      "title": "全新 ViewSonic 優派 VA2932-MHD 廣視角螢幕(29型/2560x1080/HDMI/DP/喇叭/IPS)",
-      "price": 4500,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439614791/",
-      "category": "螢幕",
-      "maxDays": 3,
-      "pid": "1439614791",
-      "priceStr": "NT$4,500",
-      "verified": {
-        "newPrice": 5000,
-        "secondhand": 4500,
-        "note": "ViewSonic VA2932-MHD 29吋全新 新機 $4,988-5,488。$4,500 比新機便宜 10% ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 90,
-      "vsSecondhand": 100
-    },
-    {
-      "seller": "yunyan87",
-      "timeAgo": "2 hours ago",
-      "title": "GIGABYTE 技嘉AORUS FO32U2P 32 型 QD-OLED 真4K電競螢幕",
-      "price": 20000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439611653/",
-      "category": "螢幕",
-      "maxDays": 3,
-      "pid": "1439611653",
-      "priceStr": "NT$20,000",
-      "verified": {
-        "newPrice": 34900,
-        "secondhand": 22000,
-        "note": "AORUS FO32U2P 32吋 QD-OLED 真4K 新機 $34,900 二手 ~$22K。$20,000 = 91% ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 57,
-      "vsSecondhand": 91
-    },
-    {
-      "seller": "uueeuuee",
-      "timeAgo": "16 minutes ago",
-      "title": "［聲霸］SHARP夏普 藍牙家庭劇院揚聲器系統 HT-SBW115",
-      "price": 2500,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439620344/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "pid": "1439620344",
-      "priceStr": "NT$2,500",
-      "verified": {
-        "newPrice": 4000,
-        "secondhand": 2200,
-        "note": "SHARP HT-SBW115 聲霸 新品 $4,000 二手 $2,000-2,500。$2,500 = 100% 中位 ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 63,
-      "vsSecondhand": 114
-    },
-    {
-      "seller": "huangevan21",
-      "timeAgo": "21 minutes ago",
-      "title": "Switch (動森）含配備",
-      "price": 5000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439620082/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439620082",
-      "priceStr": "NT$5,000",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 5000,
-        "note": "Switch 動森特仕版含配備 二手 ~$5,000。$5,000 = 100% ⭐ 手動 (Rose 關注)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": null,
-      "vsSecondhand": 100
-    },
-    {
-      "seller": "3c_phone_meow",
-      "timeAgo": "3 hours ago",
-      "title": "asus華碩文書機筆電出清",
-      "price": 3000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1431891399/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1431891399",
-      "priceStr": "NT$3,000",
-      "verified": {
-        "newPrice": null,
-        "secondhand": null,
-        "note": "ASUS 文書筆電型號不明 3c_phone_meow 個人或店家?$3,000 接近殘值底, ⭐ 手動 (需問規格)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": null,
-      "vsSecondhand": null
+      "vsSecondhand": null,
+      "listedAt": "05/24 12:16"
     },
     {
       "seller": "rakutan_901011",
@@ -817,27 +729,92 @@
         "source": "manual_inject_web"
       },
       "vsNew": 88,
-      "vsSecondhand": 96
+      "vsSecondhand": 96,
+      "listedAt": "05/24 12:37"
     },
     {
-      "seller": "yt2817",
-      "timeAgo": "24 minutes ago",
-      "title": "Apple Watch SE",
-      "price": 4500,
+      "seller": "rakutan_901011",
+      "timeAgo": "11 minutes ago",
+      "title": "AMD Ryzen 7 9700X CPU全新未拆封",
+      "price": 10600,
       "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439625994/",
-      "category": "apple watch",
+      "url": "https://tw.carousell.com/p/1439642317/",
+      "category": "電腦科技",
       "maxDays": 3,
-      "pid": "1439625994",
-      "priceStr": "NT$4,500",
+      "pid": "1439642317",
+      "priceStr": "NT$10,600",
       "verified": {
-        "newPrice": 7900,
-        "secondhand": 4500,
-        "note": "Apple Watch SE 代數不明 SE2 GPS 二手 $4-5K。$4,500 = 100% ⭐ 手動 (代數/尺寸/網路版本未知)",
+        "newPrice": 12450,
+        "secondhand": 11000,
+        "note": "AMD Ryzen 7 9700X 代理盒裝新品 $12,450 全新未拆。$10,600 = 85% 新品 ⭐ 手動 (rakutan 連兩件全新 像店家清貨)",
         "source": "manual_inject_web"
       },
-      "vsNew": 57,
-      "vsSecondhand": 100
+      "vsNew": 85,
+      "vsSecondhand": 96,
+      "listedAt": "05/24 12:34"
+    },
+    {
+      "seller": "ivankuo.tw",
+      "timeAgo": "16 minutes ago",
+      "title": "Seasonic 海韻 Focus GX-1000",
+      "price": 3800,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439549728/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439549728",
+      "priceStr": "NT$3,800",
+      "verified": {
+        "newPrice": 5290,
+        "secondhand": 3800,
+        "note": "Seasonic Focus GX-1000 1000W 80+ Gold 全模組 新品 $5,090-5,490 二手 $3.5-4.2K。$3,800 ≈ 100% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 72,
+      "vsSecondhand": 100,
+      "listedAt": "05/24 12:29"
+    },
+    {
+      "seller": "huangevan21",
+      "timeAgo": "21 minutes ago",
+      "title": "Switch (動森）含配備",
+      "price": 5000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439620082/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439620082",
+      "priceStr": "NT$5,000",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5000,
+        "note": "Switch 動森特仕版含配備 二手 ~$5,000。$5,000 = 100% ⭐ 手動 (Rose 關注)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": 100,
+      "listedAt": "05/24 12:24"
+    },
+    {
+      "seller": "SuperBuyMan",
+      "timeAgo": "9 minutes ago",
+      "title": "SONY SRS-NB10 頸掛式藍牙耳機 頸掛式藍牙喇叭",
+      "price": 2300,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439563940/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439563940",
+      "priceStr": "NT$2,300",
+      "verified": {
+        "newPrice": 2300,
+        "secondhand": 2400,
+        "note": "SONY SRS-NB10 頸掛 新品 $3,350-3,990 二手 $2,200-2,500。$2,300 = 96% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 100,
+      "vsSecondhand": 96,
+      "listedAt": "05/24 12:36"
     },
     {
       "seller": "cyccc99",
@@ -857,7 +834,134 @@
         "source": "manual_inject_web"
       },
       "vsNew": 54,
-      "vsSecondhand": 100
+      "vsSecondhand": 100,
+      "listedAt": "05/24 12:16"
+    },
+    {
+      "seller": "twohand676",
+      "timeAgo": "11 minutes ago",
+      "title": "AirPods 4 無降噪版本全新",
+      "price": 3200,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439590091/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439590091",
+      "priceStr": "NT$3,200",
+      "verified": {
+        "newPrice": 4490,
+        "secondhand": 3100,
+        "note": "AirPods 4 一般版 官價 $4,490 PTT 全新未拆 $3,000-3,260。$3,200 = 二手 103% / 新品 71% ⭐ 手動 (twohand676 名字像批貨需查 profile 防仿)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 71,
+      "vsSecondhand": 103,
+      "listedAt": "05/24 12:34"
+    },
+    {
+      "seller": "uueeuuee",
+      "timeAgo": "16 minutes ago",
+      "title": "［聲霸］SHARP夏普 藍牙家庭劇院揚聲器系統 HT-SBW115",
+      "price": 2500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439620344/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439620344",
+      "priceStr": "NT$2,500",
+      "verified": {
+        "newPrice": 4000,
+        "secondhand": 2200,
+        "note": "SHARP HT-SBW115 聲霸 新品 $4,000 二手 $2,000-2,500。$2,500 = 100% 中位 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 114,
+      "listedAt": "05/24 12:29"
+    },
+    {
+      "seller": "daphane12",
+      "timeAgo": "28 minutes ago",
+      "title": "Switch灰黑電力加強版(含健身環、隨行收納防震包)",
+      "price": 8280,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439566426/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439566426",
+      "priceStr": "NT$8,280",
+      "verified": {
+        "newPrice": 7580,
+        "secondhand": 7000,
+        "note": "Switch 電力加強版+健身環+收納包 新機組合 $7,580 二手 $6.5-7K。$8,280 高於二手 ⭐ 手動 (Rose 關注 Switch 邊緣值)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 109,
+      "vsSecondhand": 118,
+      "listedAt": "05/24 12:17"
+    },
+    {
+      "seller": "yunyan87",
+      "timeAgo": "2 hours ago",
+      "title": "GIGABYTE 技嘉AORUS FO32U2P 32 型 QD-OLED 真4K電競螢幕",
+      "price": 20000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439611653/",
+      "category": "螢幕",
+      "maxDays": 3,
+      "pid": "1439611653",
+      "priceStr": "NT$20,000",
+      "verified": {
+        "newPrice": 34900,
+        "secondhand": 22000,
+        "note": "AORUS FO32U2P 32吋 QD-OLED 真4K 新機 $34,900 二手 ~$22K。$20,000 = 91% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 57,
+      "vsSecondhand": 91,
+      "listedAt": "05/24 10:45"
+    },
+    {
+      "seller": "huskiii",
+      "timeAgo": "56 minutes ago",
+      "title": "全新 ViewSonic 優派 VA2932-MHD 廣視角螢幕(29型/2560x1080/HDMI/DP/喇叭/IPS)",
+      "price": 4500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439614791/",
+      "category": "螢幕",
+      "maxDays": 3,
+      "pid": "1439614791",
+      "priceStr": "NT$4,500",
+      "verified": {
+        "newPrice": 5000,
+        "secondhand": 4500,
+        "note": "ViewSonic VA2932-MHD 29吋全新 新機 $4,988-5,488。$4,500 比新機便宜 10% ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 90,
+      "vsSecondhand": 100,
+      "listedAt": "05/24 11:49"
+    },
+    {
+      "seller": "yt2817",
+      "timeAgo": "24 minutes ago",
+      "title": "Apple Watch SE",
+      "price": 4500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439625994/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "pid": "1439625994",
+      "priceStr": "NT$4,500",
+      "verified": {
+        "newPrice": 7900,
+        "secondhand": 4500,
+        "note": "Apple Watch SE 代數不明 SE2 GPS 二手 $4-5K。$4,500 = 100% ⭐ 手動 (代數/尺寸/網路版本未知)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 57,
+      "vsSecondhand": 100,
+      "listedAt": "05/24 12:21"
     }
   ]
 }
