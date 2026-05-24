@@ -24982,6 +24982,13 @@
     "source": "2026-05-24",
     "skip": true
   },
+  "1439773064": {
+    "newPrice": null,
+    "secondhand": 2500,
+    "note": "Sony DSC-HX200V (2012 停產 30x 類單) 二手 $1.5-3K。$6,600 = 264% 嚴重高估",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439773641": {
     "newPrice": null,
     "secondhand": null,
@@ -25181,6 +25188,53 @@
     "newPrice": 3500,
     "secondhand": 3350,
     "note": "ATUNAS 鈦套鍋 2 組合計新品 $3-4K。$3,350 = 96% ⭐ 手動 (確認規格)",
+    "source": "2026-05-25"
+  },
+  "1439788245": {
+    "newPrice": 8500,
+    "secondhand": 4500,
+    "note": "Marshall Acton II 黑 新品 $8.5K 二手 $3.5-5.5K。$5,000 = 111% 二手上緣 ⭐ 手動 (值得議價)",
+    "source": "2026-05-25"
+  },
+  "1439789479": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 霍格華茲的傳承 NT$600 h9618 <$2K 單片 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439790350": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "露營燈行動電源 NT$500 fang00_ <$2K 雜訊 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439792335": {
+    "newPrice": 5400,
+    "secondhand": 3500,
+    "note": "Intel i5-12400 新品 $5-5.5K 二手 $3-4K。$4,500 = 129% 二手中位",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439792557": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon HG-100TBR 三腳架手把全新 NT$2,000 rockrose9206668 配件 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439792804": {
+    "newPrice": 29900,
+    "secondhand": 20000,
+    "note": "iPad Pro M2 11吋 128G WiFi 第四代 二手中位 $19-22K。$23,000 = 115% 略高於二手上緣",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439793408": {
+    "newPrice": 10480,
+    "secondhand": 6000,
+    "note": "Switch OLED 二手 $5.5-6.5K。$6,500 = 108% 二手上緣 ⭐ 手動 (Rose 關注可議價)",
     "source": "2026-05-25"
   }
 }
