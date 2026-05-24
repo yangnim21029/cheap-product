@@ -999,6 +999,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1422596192": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HERAN 禾聯 HAP-150Z1 小餅乾 UV 空清 全新未拆 NT$1,700 Drake.L <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1422598076": {
     "newPrice": 1700,
     "secondhand": 800,
@@ -2208,6 +2215,13 @@
     "secondhand": null,
     "note": "手沖 全新未用 SMART.Z 頂級雞翅木 咖啡 手沖壺 特殊壺嘴 設計 玄鐵黑350ML NT$1,620 入門中位/雜訊 SKIP",
     "source": "2026-05-16",
+    "skip": true
+  },
+  "1428225525": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Momax 1-Power Vital+ 10000mAh 30W NT$960 houseofpretty <$2K SKIP",
+    "source": "2026-05-25",
     "skip": true
   },
   "1428228046": {
@@ -25116,5 +25130,43 @@
     "note": "中森明菜早期 DVD 兩張 NT$1,750 ayhitrns5k <$2K 樂媒 SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439784172": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "OTTO x Hello Kitty 料理機/果汁機 NT$820 purecrystalbe28ak <$2K 雜訊 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439784655": {
+    "newPrice": 5800,
+    "secondhand": 3200,
+    "note": "Panasonic F-Y12EM 6L 除濕機租屋款 新品 $5.4-6.4K。$3,200 = 55% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-25"
+  },
+  "1439785826": {
+    "newPrice": 6200,
+    "secondhand": 3800,
+    "note": "Shokz OpenDots ONE (2025 新款開放式耳掛) 新品 $5,990-6,490。$3,800 = 61% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-25"
+  },
+  "1439787184": {
+    "newPrice": 2900,
+    "secondhand": 4280,
+    "note": "PSP 3007 改機 8G+4G 二手 $2-3.8K。$4,280 = 148% 過貴",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439787204": {
+    "newPrice": 6500,
+    "secondhand": 4500,
+    "note": "17.3吋 i5/8G/120G+1TB 電競筆電型號未指明。$4,500 = 69% ⭐ 手動 (需確認型號年份)",
+    "source": "2026-05-25"
+  },
+  "1439787589": {
+    "newPrice": 3500,
+    "secondhand": 3350,
+    "note": "ATUNAS 鈦套鍋 2 組合計新品 $3-4K。$3,350 = 96% ⭐ 手動 (確認規格)",
+    "source": "2026-05-25"
   }
 }
