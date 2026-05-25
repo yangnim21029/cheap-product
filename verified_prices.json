@@ -26650,6 +26650,20 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439957856": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LAPO WT-08CL 行動電源 NT$580 avvivvi (重複) <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439958061": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LAPO WT-08TC 行動電源 NT$580 avvivvi <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439958086": {
     "newPrice": 6490,
     "secondhand": 3200,
@@ -26685,6 +26699,33 @@
     "newPrice": null,
     "secondhand": null,
     "note": "鄉城唱片台語 VCD 7入 NT$580 lin852582 <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439962497": {
+    "newPrice": 2200,
+    "secondhand": 1500,
+    "note": "KZM 雙人露營椅 新品 $1,580-2,880 主流 $1,880-2,200 二手 $1.4-1.6K。$2,000 等同新品價",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439962513": {
+    "newPrice": 16490,
+    "secondhand": 13600,
+    "note": "Zowie XL2546X+ 24.1\" 280Hz DyAc+ 近全新 新品 $16,490 二手中位 $13-14K。$12,000 = 88% 二手 ⭐ 手動 (台南自取)",
+    "source": "2026-05-25"
+  },
+  "1439964638": {
+    "newPrice": 4500,
+    "secondhand": 3400,
+    "note": "AMD Ryzen 5 7500F 新品 MPK $3,990-4,890 二手 $3.2-3.6K。$3,500 ≈ 100% 二手只省 $500",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439965558": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "環球首選伴唱 VCD 5入 NT$580 lin852582 <$2K SKIP",
     "source": "2026-05-25",
     "skip": true
   }
