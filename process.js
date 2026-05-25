@@ -122,11 +122,50 @@ let seenHistory = [];
 try { seenHistory = JSON.parse(fs.readFileSync(SEEN_FILE, 'utf8')); } catch {}
 const seenSet = new Set(seenHistory);
 
+// === 同型號重複降權: title keyword 累積 ≥5 次 → 本輪最多顯示 1 筆 ===
+// Rose 2026-05-25: 「看過多次代表沒需求或行情普遍偏高, 減少出現率」
+let titleFreq = {};
+try { titleFreq = JSON.parse(fs.readFileSync('seen_title_freq.json', 'utf8')); } catch {}
+const TITLE_KEYWORD_PATTERNS = [
+  /iPhone\s*(\d{1,2}(?:\s*Pro(?:\s*Max)?|\s*mini|\s*Plus)?)/i,
+  /iPad\s*(Pro|Air|mini)?\s*(\d{1,2})?/i,
+  /AirPods\s*(Pro\s*\d?|Max|\d)/i,
+  /MacBook\s*(Air|Pro)\s*(M[1-4]|2020|202[1-6])?/i,
+  /Apple\s*Watch\s*(SE\d?|S\d+|Ultra\d?)/i,
+  /Switch\s*(OLED|Lite|2)?/i,
+  /New\s*3DS\s*XL/i,
+  /Sony\s*(a7\s*m?\d|a\d{2,3})/i, /PS\s*[45](\s*Slim|\s*Pro)?/i,
+  /WH-?\d{4}/i, /RTX\s*\d{4}(?:\s*Ti|\s*Super)?/i,
+  /GTX\s*\d{4}(?:\s*Ti|\s*Super)?/i, /RX\s*\d{4}(?:\s*XT)?/i,
+  /Fujifilm\s*X-?[ETH]\d/i, /Canon\s*(EOS\s*R\d?|IXUS\s*\d+|G\d+\s*X?)/i,
+  /Nikon\s*(Z\s*\d|D\d{3,4})/i, /GoPro\s*(Hero\s*)?\d{1,2}/i,
+  /Insta360\s*(X\d|Ace|GO\s*\d)/i,
+  /DJI\s*(Pocket\s*\d|Osmo|Mini\s*\d|Neo|RS\s*\d|RoboMaster)/i,
+  /Marshall\s*(Acton|Stockwell|Emberton|Willen|Minor)\s*(I+|\d)?/i,
+  /BOSE\s*(QC|QuietComfort|SoundLink)\s*(\d+|Mini\s*\d|Ultra)?/i,
+  /Shokz\s*(OpenFit|OpenRun|OpenDots)\s*(Pro|ONE|\d)?/i,
+  /Dyson\s*(SV\d+|V\d+|HD\d+)/i, /Instax\s*(Mini|Wide|Square)?\s*(EVO|\d{1,3})?/i,
+  /Leica\s*Sofort/i, /Galaxy\s*(Tab\s*[SA]\d+\+?|S\d{1,2})/i,
+];
+const titleKeywords = (title) => {
+  const keys = new Set();
+  for (const re of TITLE_KEYWORD_PATTERNS) {
+    const m = (title || '').match(re);
+    if (m) keys.add(m[0].toLowerCase().replace(/\s+/g, ' ').trim());
+  }
+  return [...keys];
+};
+const SEEN_KEYWORD_THRESHOLD = 5;
+const isOversaturatedKeyword = (title) =>
+  titleKeywords(title).some(k => (titleFreq[k] || 0) >= SEEN_KEYWORD_THRESHOLD);
+
 // === 主流程：基本篩選出候選清單 ===
 const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
 const seen = new Set();
 const candidates = []; // 通過基本篩選的候選
 let skippedDup = 0;
+let skippedOversat = 0;
+const keywordRoundCount = {}; // 本輪 keyword 出現次數 (oversaturated 的 keyword 同輪只留 1 筆)
 
 raw.forEach(item => {
   if (!isRecent(item.timeAgo, item.maxDays || 3)) return;
@@ -142,11 +181,21 @@ raw.forEach(item => {
   const isSeen = pid && seenSet.has(pid);
   if (isSeen) { skippedDup++; return; }
 
+  // 同型號降權: oversaturated keyword 本輪最多 1 筆
+  const kws = titleKeywords(item.title);
+  const overSatKey = kws.find(k => (titleFreq[k] || 0) >= SEEN_KEYWORD_THRESHOLD);
+  if (overSatKey) {
+    if ((keywordRoundCount[overSatKey] || 0) >= 1) { skippedOversat++; return; }
+    keywordRoundCount[overSatKey] = (keywordRoundCount[overSatKey] || 0) + 1;
+  }
+
   const isReseller = RESELLERS.has(item.seller);
   const sellerNote = isReseller ? resellerNotes[item.seller] || '批量賣家' : '';
   const listedAt = timeAgoToTimestamp(item.timeAgo);
   candidates.push({ ...item, price, priceStr: item.price, isReseller, sellerNote, listedAt, pid });
 });
+
+if (skippedOversat > 0) console.log(`同型號降權跳過: ${skippedOversat} 筆 (keyword freq ≥${SEEN_KEYWORD_THRESHOLD} 本輪最多 1)`);
 
 // === 讀取已驗證的價格（由 subagent 寫入）===
 const VERIFIED_FILE = 'verified_prices.json';
