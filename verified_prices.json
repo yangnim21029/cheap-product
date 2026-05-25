@@ -4585,6 +4585,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434017369": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "1928 大典賜饌素燒片口酒壺 NT$2,999 khuankhuan 古玩 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1434022639": {
     "newPrice": null,
     "secondhand": null,
@@ -26515,6 +26522,12 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439946761": {
+    "newPrice": 8200,
+    "secondhand": 4500,
+    "note": "Medicube AGE-R Booster Pro 黑 新品 $8,200 二手 $4,500。$4,000 = 89% 二手 ⭐ 手動 (上輪 $8,200 也是 manual, 現在價更低)",
+    "source": "2026-05-25"
+  },
   "1439947467": {
     "newPrice": 2788,
     "secondhand": 2500,
@@ -26538,6 +26551,68 @@
     "newPrice": null,
     "secondhand": null,
     "note": "CD 三張一起售 NT$2,500 fortune8886 樂媒模糊 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439951537": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "鯉魚童子紫砂壺 NT$1,250 mei0314837215 <$2K 茶器 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439952506": {
+    "newPrice": 28000,
+    "secondhand": 14500,
+    "note": "ASUS TUF A17 FA706 PTT 二手 $14-15K。$17,800 = 123% 偏高",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439952748": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「傳說對決」 NT$20,000 willy709 vague 標題不全 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439953949": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Gecko K17M 拇指琴 NT$999 clover_sell <$2K 樂器 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439954151": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "寶麗金 VCD 卡啦 OK 13 入 NT$990 lin852582 <$2K 樂媒 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439954181": {
+    "newPrice": 4290,
+    "secondhand": 3000,
+    "note": "Apple Pencil Pro 原價 $4,290 二手 A $2.8-3.2K。$3,500 = 117% 偏高",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439954431": {
+    "newPrice": 4410,
+    "secondhand": 3500,
+    "note": "TRIMUI 復古遊戲掌機 Smart Pro 新 $4,410 / Brick $6,790 二手估 $3.5K。$2,500 = 71% 二手 ⭐⭐ 殺價",
+    "source": "2026-05-25"
+  },
+  "1439955824": {
+    "newPrice": 2800,
+    "secondhand": 1800,
+    "note": "G.Skill 幻光戟 DDR4-3600 16G EOL 二手 $1.5-2K。$3,500 = 194% 嚴重高估",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439956367": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "IU 7、8 期會員禮 NT$1,500 yenn_n <$2K Kpop SKIP",
     "source": "2026-05-25",
     "skip": true
   }
