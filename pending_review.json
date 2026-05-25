@@ -81,7 +81,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -91,6 +91,29 @@
       },
       "vsNew": 35,
       "vsSecondhand": 42
+    },
+    {
+      "seller": "hhhh5333",
+      "timeAgo": "1 hour ago",
+      "title": "Marshall Emberton II 二手（Amazon購入）",
+      "price": 2000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439958086/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 23:18",
+      "pid": "1439958086",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 3200,
+        "note": "Marshall Emberton II 二手 Amazon 購入 新品 $6,490 (限時 $4,999) 二手 $3-3.5K。$2,000 = 31% new / 62% 二手 ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 31,
+      "vsSecondhand": 63
     },
     {
       "seller": "hijerry99",
@@ -104,7 +127,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:48",
+      "listedAt": "05/25 16:18",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -117,7 +140,7 @@
     },
     {
       "seller": "luffy0276",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "SAMSUNG 三星第2代 The Freestyle 微型智 慧投影機",
       "price": 6200,
       "condition": "Like new",
@@ -127,7 +150,7 @@
       "priceStr": "NT$6,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:19",
+      "listedAt": "05/25 20:18",
       "pid": "1439924628",
       "verified": {
         "newPrice": 28900,
@@ -140,7 +163,7 @@
     },
     {
       "seller": "unisunp",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "Epson EB-530 超短焦投影機{附贈二件投影伺服器}",
       "price": 2950,
       "condition": "Lightly used",
@@ -150,7 +173,7 @@
       "priceStr": "NT$2,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:19",
+      "listedAt": "05/25 16:18",
       "pid": "1439881257",
       "verified": {
         "newPrice": 18000,
@@ -163,7 +186,7 @@
     },
     {
       "seller": "nobody_aka",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "AMD R9 3900 12核24緒 CPU Ryzen 9 ( 非 R9 3900X)",
       "price": 4200,
       "condition": "Like new",
@@ -173,7 +196,7 @@
       "priceStr": "NT$4,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439931141",
       "verified": {
         "newPrice": 12000,
@@ -183,6 +206,29 @@
       },
       "vsNew": 35,
       "vsSecondhand": 60
+    },
+    {
+      "seller": "clean700ml",
+      "timeAgo": "1 hour ago",
+      "title": "14吋*獨顯筆電 / SSD 512GB / RAM 16GB / i5-1135G7 / MateBook B5 / 類macbook",
+      "price": 7900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439959852/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$7,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 23:18",
+      "pid": "1439959852",
+      "verified": {
+        "newPrice": 25000,
+        "secondhand": 13000,
+        "note": "HUAWEI MateBook B5 i5-1135G7/16G/512G 獨顯商用 海外 i7 $37K, i5 二手陸貨 ¥2,960 (~$13K)。$7,900 = 60% 二手 ⭐⭐⭐ 好貨 (注意台灣保固/Win 商務需驗)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 32,
+      "vsSecondhand": 61
     },
     {
       "seller": "usedto34",
@@ -196,7 +242,7 @@
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 18:48",
+      "listedAt": "05/25 19:18",
       "pid": "1439917208",
       "verified": {
         "newPrice": 30000,
@@ -209,7 +255,7 @@
     },
     {
       "seller": "you2bepremium",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "HP EliteBook 840 G7 14吋商務筆電 (i7-10610U/32G/1TB SSD)",
       "price": 11500,
       "condition": "Like new",
@@ -219,7 +265,7 @@
       "priceStr": "NT$11,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 21:48",
+      "listedAt": "05/25 21:18",
       "pid": "1439938580",
       "verified": {
         "newPrice": 45000,
@@ -242,7 +288,7 @@
       "priceStr": "NT$2,550",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439924833",
       "verified": {
         "newPrice": 2480,
@@ -301,7 +347,7 @@
     },
     {
       "seller": "erick1980000",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Ecovacs DEEBOT T30 pro 耗材給滿",
       "price": 6000,
       "condition": "Lightly used",
@@ -311,7 +357,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 22:48",
+      "listedAt": "05/25 22:18",
       "pid": "1439951523",
       "verified": {
         "newPrice": 17999,
@@ -321,55 +367,32 @@
       },
       "vsNew": 33,
       "vsSecondhand": 46
-    },
-    {
-      "seller": "clean700ml",
-      "timeAgo": "31 minutes ago",
-      "title": "14吋*獨顯筆電 / SSD 512GB / RAM 16GB / i5-1135G7 / MateBook B5 / 類macbook",
-      "price": 7900,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439959852/",
-      "category": "筆電",
-      "maxDays": 7,
-      "priceStr": "NT$7,900",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 23:17",
-      "pid": "1439959852",
-      "verified": {
-        "newPrice": 25000,
-        "secondhand": 13000,
-        "note": "HUAWEI MateBook B5 i5-1135G7/16G/512G 獨顯商用 海外 i7 $37K, i5 二手陸貨 ¥2,960 (~$13K)。$7,900 = 60% 二手 ⭐⭐⭐ 好貨 (注意台灣保固/Win 商務需驗)",
-        "source": "2026-05-25"
-      },
-      "vsNew": 32,
-      "vsSecondhand": 61
-    },
-    {
-      "seller": "hhhh5333",
-      "timeAgo": "51 minutes ago",
-      "title": "Marshall Emberton II 二手（Amazon購入）",
-      "price": 2000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439958086/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "priceStr": "NT$2,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 22:57",
-      "pid": "1439958086",
-      "verified": {
-        "newPrice": 6490,
-        "secondhand": 3200,
-        "note": "Marshall Emberton II 二手 Amazon 購入 新品 $6,490 (限時 $4,999) 二手 $3-3.5K。$2,000 = 31% new / 62% 二手 ⭐⭐⭐ 好貨",
-        "source": "2026-05-25"
-      },
-      "vsNew": 31,
-      "vsSecondhand": 63
     }
   ],
   "negotiate": [
+    {
+      "seller": "ting1126_",
+      "timeAgo": "2 hours ago",
+      "title": "DARTSLIVE HOME 飛鏢機 + 頂天立地",
+      "price": 6000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439949024/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 22:18",
+      "pid": "1439949024",
+      "verified": {
+        "newPrice": 11000,
+        "secondhand": 8500,
+        "note": "DARTSLIVE HOME 飛鏢機 $6,880 + 頂天立地架 $3.9-4.5K 全新合計 $11K。$6,000 = 55% 新品 ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 55,
+      "vsSecondhand": 71
+    },
     {
       "seller": "swifttiger_20997b",
       "timeAgo": "4 hours ago",
@@ -382,7 +405,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439926094",
       "verified": {
         "newPrice": 6980,
@@ -428,7 +451,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:48",
+      "listedAt": "05/25 21:18",
       "pid": "1439937763",
       "verified": {
         "newPrice": 7000,
@@ -440,8 +463,31 @@
       "vsSecondhand": 89
     },
     {
+      "seller": "you2bepremium",
+      "timeAgo": "5 minutes ago",
+      "title": "ASUS TUF Gaming F17 電競筆電 (i7-12700H/16G/RTX3050/512G SSD/17吋)",
+      "price": 19000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439969773/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$19,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 00:13",
+      "pid": "1439969773",
+      "verified": {
+        "newPrice": 26000,
+        "secondhand": 25500,
+        "note": "ASUS TUF F17 i7-12700H/16G/RTX3050/512G 二手 $25,519 新品 $24.8-28K。$19,000 = 74% 二手 ⭐ 手動 (you2bepremium 連續批量需查信譽)",
+        "source": "2026-05-26"
+      },
+      "vsNew": 73,
+      "vsSecondhand": 75
+    },
+    {
       "seller": "epicwater.055d0b",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Lenovo Thinkbook 16p G2 (16G/512G、r7-5800H+RTX3060)",
       "price": 14500,
       "condition": "Like new",
@@ -451,7 +497,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 19:18",
       "pid": "1439920828",
       "verified": {
         "newPrice": 40000,
@@ -464,7 +510,7 @@
     },
     {
       "seller": "qwer26610122",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "出清！伊萊克斯空氣清淨機",
       "price": 5990,
       "condition": "Like new",
@@ -474,7 +520,7 @@
       "priceStr": "NT$5,990",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 18:48",
+      "listedAt": "05/25 18:18",
       "pid": "1439914291",
       "verified": {
         "newPrice": 6999,
@@ -497,7 +543,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -515,12 +561,12 @@
       "price": 4700,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1439906733/",
-      "category": "機械鍵盤",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 17:48",
+      "listedAt": "05/25 18:18",
       "pid": "1439906733",
       "verified": {
         "newPrice": 5990,
@@ -555,98 +601,6 @@
       "vsSecondhand": 76
     },
     {
-      "seller": "boss10111",
-      "timeAgo": "4 hours ago",
-      "title": "Edifier Stax Spirit S3 耳罩式耳機 藍芽耳機",
-      "price": 3500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439928248/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "priceStr": "NT$3,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 19:48",
-      "pid": "1439928248",
-      "verified": {
-        "newPrice": 9990,
-        "secondhand": 4200,
-        "note": "Edifier Stax Spirit S3 平面振膜耳機 新品 $9,990 二手 $4.2K。$3,500 = 83% 二手 ⭐⭐ 殺價",
-        "source": "2026-05-25"
-      },
-      "vsNew": 35,
-      "vsSecondhand": 83
-    },
-    {
-      "seller": "twohand676",
-      "timeAgo": "4 hours ago",
-      "title": "Marshall Emberton iii",
-      "price": 4000,
-      "condition": "Brand new",
-      "url": "https://tw.carousell.com/p/1439924518/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "priceStr": "NT$4,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 19:48",
-      "pid": "1439924518",
-      "verified": {
-        "newPrice": 6490,
-        "secondhand": 4700,
-        "note": "Marshall Emberton iii 新品 $6,490 二手 $4.5-5K。$4,000 = 85% 中位 ⭐⭐ 殺價 (比上輪 $5,999 跌價)",
-        "source": "2026-05-25"
-      },
-      "vsNew": 62,
-      "vsSecondhand": 85
-    },
-    {
-      "seller": "boss10111",
-      "timeAgo": "3 hours ago",
-      "title": "Turtle Beach Stealth 700 Gen 3 耳罩式耳機 耳麥",
-      "price": 4000,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439932501/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "priceStr": "NT$4,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 20:48",
-      "pid": "1439932501",
-      "verified": {
-        "newPrice": 6490,
-        "secondhand": 4700,
-        "note": "Turtle Beach Stealth 700 Gen 3 新品 PChome $6,490 二手 $4.5-5K。$4,000 = 85% 二手 ⭐ 手動",
-        "source": "2026-05-25"
-      },
-      "vsNew": 62,
-      "vsSecondhand": 85
-    },
-    {
-      "seller": "no.61",
-      "timeAgo": "3 hours ago",
-      "title": "Bose Companion 5 (C5) 多媒體電腦喇叭 5.1虛擬環繞",
-      "price": 7500,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439935711/",
-      "category": "喇叭",
-      "maxDays": 3,
-      "priceStr": "NT$7,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 20:48",
-      "pid": "1439935711",
-      "verified": {
-        "newPrice": 18000,
-        "secondhand": 8500,
-        "note": "Bose Companion 5 (已停產經典) 二手 $5.5-12K 中位 $8.5K。$7,500 = 88% 二手中位 ⭐ 手動",
-        "source": "2026-05-25"
-      },
-      "vsNew": 42,
-      "vsSecondhand": 88
-    },
-    {
       "seller": "tingwen_wenting",
       "timeAgo": "3 hours ago",
       "title": "Switch一代/大全配/附原廠盒",
@@ -670,27 +624,96 @@
       "vsSecondhand": 80
     },
     {
-      "seller": "ting1126_",
-      "timeAgo": "2 hours ago",
-      "title": "DARTSLIVE HOME 飛鏢機 + 頂天立地",
-      "price": 6000,
+      "seller": "boss10111",
+      "timeAgo": "4 hours ago",
+      "title": "Edifier Stax Spirit S3 耳罩式耳機 藍芽耳機",
+      "price": 3500,
       "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439949024/",
-      "category": "",
-      "maxDays": 1,
-      "priceStr": "NT$6,000",
+      "url": "https://tw.carousell.com/p/1439928248/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 21:48",
-      "pid": "1439949024",
+      "listedAt": "05/25 20:18",
+      "pid": "1439928248",
       "verified": {
-        "newPrice": 11000,
-        "secondhand": 8500,
-        "note": "DARTSLIVE HOME 飛鏢機 $6,880 + 頂天立地架 $3.9-4.5K 全新合計 $11K。$6,000 = 55% 新品 ⭐⭐⭐ 好貨",
+        "newPrice": 9990,
+        "secondhand": 4200,
+        "note": "Edifier Stax Spirit S3 平面振膜耳機 新品 $9,990 二手 $4.2K。$3,500 = 83% 二手 ⭐⭐ 殺價",
         "source": "2026-05-25"
       },
-      "vsNew": 55,
-      "vsSecondhand": 71
+      "vsNew": 35,
+      "vsSecondhand": 83
+    },
+    {
+      "seller": "twohand676",
+      "timeAgo": "4 hours ago",
+      "title": "Marshall Emberton iii",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439924518/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 20:18",
+      "pid": "1439924518",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 4700,
+        "note": "Marshall Emberton iii 新品 $6,490 二手 $4.5-5K。$4,000 = 85% 中位 ⭐⭐ 殺價 (比上輪 $5,999 跌價)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 85
+    },
+    {
+      "seller": "boss10111",
+      "timeAgo": "4 hours ago",
+      "title": "Turtle Beach Stealth 700 Gen 3 耳罩式耳機 耳麥",
+      "price": 4000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439932501/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 20:18",
+      "pid": "1439932501",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 4700,
+        "note": "Turtle Beach Stealth 700 Gen 3 新品 PChome $6,490 二手 $4.5-5K。$4,000 = 85% 二手 ⭐ 手動",
+        "source": "2026-05-25"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 85
+    },
+    {
+      "seller": "no.61",
+      "timeAgo": "3 hours ago",
+      "title": "Bose Companion 5 (C5) 多媒體電腦喇叭 5.1虛擬環繞",
+      "price": 7500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439935711/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$7,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 21:18",
+      "pid": "1439935711",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 8500,
+        "note": "Bose Companion 5 (已停產經典) 二手 $5.5-12K 中位 $8.5K。$7,500 = 88% 二手中位 ⭐ 手動",
+        "source": "2026-05-25"
+      },
+      "vsNew": 42,
+      "vsSecondhand": 88
     },
     {
       "seller": "zhen1221",
@@ -704,7 +727,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 21:48",
+      "listedAt": "05/25 22:18",
       "pid": "1439946761",
       "verified": {
         "newPrice": 8200,
@@ -717,7 +740,7 @@
     },
     {
       "seller": "mightydeer-e4f6",
-      "timeAgo": "17 minutes ago",
+      "timeAgo": "48 minutes ago",
       "title": "Zowie x2546x+ 24.1英寸 280hz 有DyAc 二手近全新 想換螢幕了故售出 限台南自取",
       "price": 12000,
       "condition": "Like new",
@@ -727,7 +750,7 @@
       "priceStr": "NT$12,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 23:31",
+      "listedAt": "05/25 23:30",
       "pid": "1439962513",
       "verified": {
         "newPrice": 16490,
@@ -825,6 +848,27 @@
       "listedAt": "05/25 17:53"
     },
     {
+      "seller": "you2bepremium",
+      "timeAgo": "5 minutes ago",
+      "title": "ASUS TUF Gaming F17 電競筆電 (i7-12700H/16G/RTX3050/512G SSD/17吋)",
+      "price": 19000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439969773/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439969773",
+      "priceStr": "NT$19,000",
+      "verified": {
+        "newPrice": 26000,
+        "secondhand": 25500,
+        "note": "ASUS TUF F17 i7-12700H/16G/RTX3050/512G 二手 $25,519 新品 $24.8-28K。$19,000 = 74% 二手 ⭐ 手動 (you2bepremium 連續批量需查信譽)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 73,
+      "vsSecondhand": 75,
+      "listedAt": "05/26 00:13"
+    },
+    {
       "seller": "yanggyee",
       "timeAgo": "27 minutes ago",
       "title": "SUNMI 商用 POS 機＋錢櫃",
@@ -844,6 +888,27 @@
       "vsNew": 36,
       "vsSecondhand": 88,
       "listedAt": "05/25 16:55"
+    },
+    {
+      "seller": "f131627840",
+      "timeAgo": "11 minutes ago",
+      "title": "​[保內] BenQ EX3210U 32吋 144hz 4K IPS 電競螢幕",
+      "price": 11500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439969003/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439969003",
+      "priceStr": "NT$11,500",
+      "verified": {
+        "newPrice": 13888,
+        "secondhand": 12500,
+        "note": "BenQ EX3210U 32吋 144Hz 4K IPS 電競螢幕 保內 新品折後 $13,888 二手 $11-13K。$11,500 = 92% 二手 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 83,
+      "vsSecondhand": 92,
+      "listedAt": "05/26 00:07"
     },
     {
       "seller": "you2bepremium",
@@ -886,48 +951,6 @@
       "vsNew": 85,
       "vsSecondhand": 100,
       "listedAt": "05/25 17:07"
-    },
-    {
-      "seller": "qwer26610122",
-      "timeAgo": "2 minutes ago",
-      "title": "出清！伊萊克斯空氣清淨機",
-      "price": 6999,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439914291/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439914291",
-      "priceStr": "NT$6,999",
-      "verified": {
-        "newPrice": 6999,
-        "secondhand": 6999,
-        "note": "Electrolux 空清出清(型號不明) 新品 $1.2-17.9K 跨度大。$6,999 中段 ⭐ 手動 (需確認 PA91/Flow A3/A4 等)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 100,
-      "vsSecondhand": 100,
-      "listedAt": "05/25 18:46"
-    },
-    {
-      "seller": "siegfried3999",
-      "timeAgo": "16 minutes ago",
-      "title": "Mac mini M4 16GB+256GB",
-      "price": 18000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439894778/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439894778",
-      "priceStr": "NT$18,000",
-      "verified": {
-        "newPrice": 19900,
-        "secondhand": 17000,
-        "note": "Mac mini M4 16GB+256GB (同款另一筆) 新品 $19,900。$18,000 = 90% ⭐ 手動 (對比 $17K 那筆貴 $1K)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 90,
-      "vsSecondhand": 106,
-      "listedAt": "05/25 17:06"
     },
     {
       "seller": "gentlegem_de2511",
@@ -1119,6 +1142,27 @@
       "listedAt": "05/25 17:18"
     },
     {
+      "seller": "jj3536",
+      "timeAgo": "13 minutes ago",
+      "title": "【Yaber】黑豹聲臨投影機 U12 黑 (1080P/1000ANSI流明/杜比音效)",
+      "price": 7800,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439940204/",
+      "category": "投影機",
+      "maxDays": 3,
+      "pid": "1439940204",
+      "priceStr": "NT$7,800",
+      "verified": {
+        "newPrice": 12800,
+        "secondhand": 8000,
+        "note": "Yaber U12 1080p 1000ANSI 中國中價投影 新機 $12,800 二手 $7-8K。$7,800 = 97% 二手 ⭐ 手動 (看實機/附件)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 61,
+      "vsSecondhand": 98,
+      "listedAt": "05/26 00:05"
+    },
+    {
       "seller": "unisunp",
       "timeAgo": "32 minutes ago",
       "title": "Epson EB-530 超短焦投影機{附贈二件投影伺服器}",
@@ -1203,6 +1247,27 @@
       "listedAt": "05/25 18:47"
     },
     {
+      "seller": "x768032006",
+      "timeAgo": "19 minutes ago",
+      "title": "「超新」白色R50超美 送相機包",
+      "price": 17900,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439958436/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "pid": "1439958436",
+      "priceStr": "NT$17,900",
+      "verified": {
+        "newPrice": 20805,
+        "secondhand": 17000,
+        "note": "Canon EOS R50 黑單機身新 $20,805-21,900, 白色版實為 R50V (Kit $30K)。$17,900 = 86% 新品 ⭐ 手動 (確認是 R50 還是 R50V + 含包)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 86,
+      "vsSecondhand": 105,
+      "listedAt": "05/25 23:59"
+    },
+    {
       "seller": "myukie0913",
       "timeAgo": "28 minutes ago",
       "title": "Canon 佳能 Powershot sx740 hs 相機 全新",
@@ -1224,26 +1289,6 @@
       "listedAt": "05/25 20:50"
     },
     {
-      "seller": "jj3536",
-      "timeAgo": "13 minutes ago",
-      "title": "【Yaber】黑豹聲臨投影機 U12 黑 (1080P/1000ANSI流明/杜比音效)",
-      "price": 7800,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439940204/",
-      "category": "投影機",
-      "maxDays": 3,
-      "pid": "1439940204",
-      "priceStr": "NT$7,800",
-      "verified": {
-        "newPrice": 12800,
-        "secondhand": 8000,
-        "note": "Yaber U12 1080p 1000ANSI 中國中價投影 新機 $12,800 二手 $7-8K。$7,800 = 97% 二手 ⭐ 手動 (看實機/附件)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 61,
-      "vsSecondhand": 98
-    },
-    {
       "seller": "a6528690",
       "timeAgo": "29 minutes ago",
       "title": "田馥甄 渺小 紅膠",
@@ -1261,7 +1306,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": 673,
-      "vsSecondhand": 133
+      "vsSecondhand": 133,
+      "listedAt": "05/25 23:49"
     },
     {
       "seller": "zhen1221",
@@ -1281,27 +1327,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": 49,
-      "vsSecondhand": 89
-    },
-    {
-      "seller": "x768032006",
-      "timeAgo": "19 minutes ago",
-      "title": "「超新」白色R50超美 送相機包",
-      "price": 17900,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439958436/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "pid": "1439958436",
-      "priceStr": "NT$17,900",
-      "verified": {
-        "newPrice": 20805,
-        "secondhand": 17000,
-        "note": "Canon EOS R50 黑單機身新 $20,805-21,900, 白色版實為 R50V (Kit $30K)。$17,900 = 86% 新品 ⭐ 手動 (確認是 R50 還是 R50V + 含包)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 86,
-      "vsSecondhand": 105
+      "vsSecondhand": 89,
+      "listedAt": "05/25 23:32"
     },
     {
       "seller": "mightydeer-e4f6",
@@ -1321,7 +1348,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": 73,
-      "vsSecondhand": 88
+      "vsSecondhand": 88,
+      "listedAt": "05/26 00:01"
     }
   ]
 }

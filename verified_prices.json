@@ -26535,6 +26535,13 @@
     "note": "Medicube AGE-R Booster Pro 黑 新品 $8,200 二手 $4,500。$4,000 = 89% 二手 ⭐ 手動 (上輪 $8,200 也是 manual, 現在價更低)",
     "source": "2026-05-25"
   },
+  "1439946787": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Miller Harris 香氛旅行組 NT$2,999 helloallyally 香水已搞定 SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
   "1439947467": {
     "newPrice": 2788,
     "secondhand": 2500,
@@ -26620,6 +26627,13 @@
     "secondhand": null,
     "note": "Fujifilm Mini 7 寶藍拍立得 NT$1,250 atchiu Mini 7 老款 <$2K SKIP",
     "source": "2026-05-25",
+    "skip": true
+  },
+  "1439955728": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "潘海利根貿易之旅科摩羅香氛蠟燭 NT$1,600 abby018c <$2K 香水 SKIP",
+    "source": "2026-05-26",
     "skip": true
   },
   "1439955824": {
@@ -26728,5 +26742,31 @@
     "note": "環球首選伴唱 VCD 5入 NT$580 lin852582 <$2K SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439966907": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "卡林巴琴 17 音 C 調 NT$1,300 qwebnm999 <$2K 樂器 SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
+  "1439966920": {
+    "newPrice": 8000,
+    "secondhand": 6000,
+    "note": "田馥甄渺小紅膠 LP (重新上架 a6528690) $8,000 = 133% 已多次驗高 SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
+  "1439969003": {
+    "newPrice": 13888,
+    "secondhand": 12500,
+    "note": "BenQ EX3210U 32吋 144Hz 4K IPS 電競螢幕 保內 新品折後 $13,888 二手 $11-13K。$11,500 = 92% 二手 ⭐ 手動",
+    "source": "2026-05-26"
+  },
+  "1439969773": {
+    "newPrice": 26000,
+    "secondhand": 25500,
+    "note": "ASUS TUF F17 i7-12700H/16G/RTX3050/512G 二手 $25,519 新品 $24.8-28K。$19,000 = 74% 二手 ⭐ 手動 (you2bepremium 連續批量需查信譽)",
+    "source": "2026-05-26"
   }
 }
