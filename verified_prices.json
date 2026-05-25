@@ -2334,6 +2334,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1428387365": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "李聖傑絕對癡心親簽 CD NT$1,000 lynn.chen.coca <$2K CD SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1428395160": {
     "newPrice": 15000,
     "secondhand": 2200,
@@ -4583,6 +4590,13 @@
     "secondhand": null,
     "note": "空氣清淨機 空氣清淨機二手很少用 NT$1,500 ggjhrds 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
+    "skip": true
+  },
+  "1434112138": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PTCG 繁中噴火龍 V SSR NT$3,250 deyoushoppingmall 卡牌 SKIP",
+    "source": "2026-05-25",
     "skip": true
   },
   "1434112599": {
@@ -26433,5 +26447,45 @@
     "secondhand": 5500,
     "note": "SONY PS4 Pro 1TB+手把+5 片遊戲 二手主機 $4.5-5.5K + 遊戲 $1-1.5K。$3,500 = 60% 合理價 ⭐⭐⭐ 好貨",
     "source": "2026-05-25"
+  },
+  "1439940204": {
+    "newPrice": 12800,
+    "secondhand": 8000,
+    "note": "Yaber U12 1080p 1000ANSI 中國中價投影 新機 $12,800 二手 $7-8K。$7,800 = 97% 二手 ⭐ 手動 (看實機/附件)",
+    "source": "2026-05-25"
+  },
+  "1439940334": {
+    "newPrice": 1188,
+    "secondhand": 6000,
+    "note": "田馥甄 渺小 胭紅彩膠 LP (五大唱片絕版限量) 原價 $1,188 HK Carousell 4 隻組 ~$6K/單。$8,000 = 133% 略高 但 Rose 黑膠收藏 ⭐ 手動議價",
+    "source": "2026-05-25"
+  },
+  "1439941293": {
+    "newPrice": 12900,
+    "secondhand": 3500,
+    "note": "ASUS X507MA N4100 文書機 阿忠電腦店家 $4,500 二手 $3.5K。$4,300 = 123% w0913921921 連續批量 ASUS 老機",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439941302": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TWICE 絕版演唱會糖果棒風扇 NT$1,000 coer000 <$2K Kpop SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439943195": {
+    "newPrice": 2200,
+    "secondhand": 1500,
+    "note": "Snow Peak GT-120 GP 折疊瓦斯噴燈 官方新品 $2,200 二手 $1.4-1.6K。$2,280 比官方還貴",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439945570": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "老銀手鐲 17g NT$1,000 00320 <$2K 銀飾 SKIP",
+    "source": "2026-05-25",
+    "skip": true
   }
 }
