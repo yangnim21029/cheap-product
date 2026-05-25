@@ -71,7 +71,7 @@
     },
     {
       "seller": "ycc015",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Yamaha SR-C20A 聲霸",
       "price": 2500,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:18",
+      "listedAt": "05/25 13:47",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "hijerry99",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭",
       "price": 5900,
       "condition": "Lightly used",
@@ -104,7 +104,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:18",
+      "listedAt": "05/25 15:47",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -117,7 +117,7 @@
     },
     {
       "seller": "unisunp",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Epson EB-530 超短焦投影機{附贈二件投影伺服器}",
       "price": 2950,
       "condition": "Lightly used",
@@ -127,7 +127,7 @@
       "priceStr": "NT$2,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:18",
+      "listedAt": "05/25 15:47",
       "pid": "1439881257",
       "verified": {
         "newPrice": 18000,
@@ -137,6 +137,29 @@
       },
       "vsNew": 16,
       "vsSecondhand": 118
+    },
+    {
+      "seller": "usedto34",
+      "timeAgo": "33 minutes ago",
+      "title": "HP Pavilion Gaming 15 電競筆電 (i7-9750H / 8G / GTX 1650 / 144Hz)",
+      "price": 9000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439917208/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$9,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 19:14",
+      "pid": "1439917208",
+      "verified": {
+        "newPrice": 30000,
+        "secondhand": 12000,
+        "note": "HP Pavilion Gaming 15 i7-9750H/GTX1650/144Hz (2019 6 年) 二手中位 $12K。$9,000 = 75% ⭐⭐ 殺價",
+        "source": "2026-05-25"
+      },
+      "vsNew": 30,
+      "vsSecondhand": 75
     }
   ],
   "negotiate": [
@@ -152,7 +175,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:18",
+      "listedAt": "05/25 13:47",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -165,7 +188,7 @@
     },
     {
       "seller": "yanggyee",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "SUNMI 商用 POS 機＋錢櫃",
       "price": 7000,
       "condition": "Like new",
@@ -175,7 +198,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:18",
+      "listedAt": "05/25 13:47",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -188,7 +211,7 @@
     },
     {
       "seller": "wz1023",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤",
       "price": 4700,
       "condition": "Brand new",
@@ -198,7 +221,7 @@
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 18:18",
+      "listedAt": "05/25 17:47",
       "pid": "1439906733",
       "verified": {
         "newPrice": 5990,
@@ -211,7 +234,7 @@
     },
     {
       "seller": "qwer26610122",
-      "timeAgo": "24 minutes ago",
+      "timeAgo": "54 minutes ago",
       "title": "出清！伊萊克斯空氣清淨機",
       "price": 5990,
       "condition": "Like new",
@@ -221,7 +244,7 @@
       "priceStr": "NT$5,990",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 18:54",
+      "listedAt": "05/25 18:53",
       "pid": "1439914291",
       "verified": {
         "newPrice": 6999,
@@ -231,6 +254,52 @@
       },
       "vsNew": 86,
       "vsSecondhand": 86
+    },
+    {
+      "seller": "luffy0276",
+      "timeAgo": "1 minute ago",
+      "title": "MSI微星 Claw A1M-027TW Ultra 5 512G",
+      "price": 7600,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439924158/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$7,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 19:46",
+      "pid": "1439924158",
+      "verified": {
+        "newPrice": 15500,
+        "secondhand": 10000,
+        "note": "MSI Claw A1M-027TW Ultra 5 135H/512G (2024 新 PC 掌機) 新品 $15-18K 二手 $10K。$7,600 = 76% ⭐⭐ 殺價",
+        "source": "2026-05-25"
+      },
+      "vsNew": 49,
+      "vsSecondhand": 76
+    },
+    {
+      "seller": "epicwater.055d0b",
+      "timeAgo": "23 minutes ago",
+      "title": "Lenovo Thinkbook 16p G2 (16G/512G、r7-5800H+RTX3060)",
+      "price": 14500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439920828/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$14,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 19:24",
+      "pid": "1439920828",
+      "verified": {
+        "newPrice": 40000,
+        "secondhand": 19000,
+        "note": "Lenovo ThinkBook 16p G2 R7-5800H/16G/512G/RTX 3060 (2021) 二手 $18-20K。$14,500 = 76% ⭐⭐ 殺價",
+        "source": "2026-05-25"
+      },
+      "vsNew": 36,
+      "vsSecondhand": 76
     }
   ],
   "uncertain": [

@@ -2334,6 +2334,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1428395160": {
+    "newPrice": 15000,
+    "secondhand": 2200,
+    "note": "商用電腦 i5-6500 雙硬碟 (2015 10 年舊) 商務中位 $1.7-3.5K。$3,000 = 136% 偏高",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1428413491": {
     "newPrice": null,
     "secondhand": null,
@@ -26234,11 +26241,29 @@
     "note": "Canon SX740 HS 公司貨新品 PChome $13,880 二手 $9K。$12,000 = 86% 新品 (若真全新) / 133% 二手 ⭐ 手動",
     "source": "2026-05-25"
   },
+  "1439917208": {
+    "newPrice": 30000,
+    "secondhand": 12000,
+    "note": "HP Pavilion Gaming 15 i7-9750H/GTX1650/144Hz (2019 6 年) 二手中位 $12K。$9,000 = 75% ⭐⭐ 殺價",
+    "source": "2026-05-25"
+  },
   "1439919391": {
     "newPrice": 7490,
     "secondhand": 5500,
     "note": "N95 中國品牌 mini PC + 雙螢幕 (MOREFINE M8 等級) 新品 $7,490 二手 $5.5K。$6,800 = 124% 接近全新底價",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439920828": {
+    "newPrice": 40000,
+    "secondhand": 19000,
+    "note": "Lenovo ThinkBook 16p G2 R7-5800H/16G/512G/RTX 3060 (2021) 二手 $18-20K。$14,500 = 76% ⭐⭐ 殺價",
+    "source": "2026-05-25"
+  },
+  "1439924158": {
+    "newPrice": 15500,
+    "secondhand": 10000,
+    "note": "MSI Claw A1M-027TW Ultra 5 135H/512G (2024 新 PC 掌機) 新品 $15-18K 二手 $10K。$7,600 = 76% ⭐⭐ 殺價",
+    "source": "2026-05-25"
   }
 }
