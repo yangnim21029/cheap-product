@@ -3813,6 +3813,13 @@
     "note": "ASUS TUF Gaming VG32VQ1B 32\" 曲面 165Hz 公司貨 $8,990 二手 $4.5-6K。$4,500 = 新品 50% miaoo33 手動",
     "source": "manual_inject_web"
   },
+  "1432971160": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "犬夜叉錄影帶 NT$1,500 silverrabbit <$2K 舊媒體 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1432971878": {
     "newPrice": null,
     "secondhand": null,
@@ -4480,6 +4487,13 @@
     "secondhand": null,
     "note": "空氣清淨機 Dyson Pure Hot+Cool™ 三合一涼暖空氣清淨機 濾芯 全新 正版 NT$2,000 bunshichi7tawara 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
+    "skip": true
+  },
+  "1433919042": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "沉香吊墜 NT$1,688 jerrywei <$2K 玉石 SKIP",
+    "source": "2026-05-25",
     "skip": true
   },
   "1433919791": {
@@ -16581,6 +16595,13 @@
     "note": "Driver 德川手沖套組雜牌 SKIP",
     "source": "manual_skip"
   },
+  "1438556693": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "迪卡儂 5mm 瑜珈墊 NT$800 adai0725 <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1438557030": {
     "newPrice": 27900,
     "secondhand": 15500,
@@ -25530,12 +25551,24 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439817574": {
+    "newPrice": 8880,
+    "secondhand": 6150,
+    "note": "(同款重複 listing 同賣家) 同上分析 ⭐ 手動",
+    "source": "2026-05-25"
+  },
   "1439817804": {
     "newPrice": null,
     "secondhand": null,
     "note": "小米超薄行動電源 NT$600 kiwdng <$2K SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439817806": {
+    "newPrice": 8880,
+    "secondhand": 6150,
+    "note": "ASUS Dual RTX 3050 O6G 免插電 + 海韻 550W 半模組 保固到 2028/9 新品合 $8,880 二手合 $6-6.3K。$5,500 = 89% ⭐ 手動 (PSU 保固加分)",
+    "source": "2026-05-25"
   },
   "1439818536": {
     "newPrice": null,
@@ -25572,6 +25605,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439823082": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "L'OCCITANE 紓壓枕巾香氛噴霧 NT$500 miguchu <$2K 香水 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439823127": {
     "newPrice": 22000,
     "secondhand": 11000,
@@ -25585,10 +25625,45 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439826125": {
+    "newPrice": 13200,
+    "secondhand": 5400,
+    "note": "Crucial DDR4-3200 8GBx6 新品 $13,200 二手單條 $700-900 (6 條中位 $4.8-5.4K)。$7,200 = 141% 偏高即使終保",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439826764": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "復古黑膠風手作 CD 播放器+藍牙喇叭 MUJI 風 NT$1,600 davidchen1200102 <$2K 山寨 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439826784": {
     "newPrice": 4800,
     "secondhand": 4500,
     "note": "Kingston DDR4 2400+2666 規格不明套裝 2025-2026 DRAM 大漲。$4,800 規格不明 ⭐ 手動 (確認容量/支數)",
     "source": "2026-05-25"
+  },
+  "1439828520": {
+    "newPrice": 2000,
+    "secondhand": 1600,
+    "note": "NV3 1TB Gen4 SSD 新品低點 $1,788-2,100 (PCDIY/順發) 二手中位 $1.5-1.7K。$4,300 遠超新品價",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439829316": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon IXUS 860 (CCD 老款) NT$6,500 hkd7qpmttj62738 — 上輪同款 $5,500 已 SKIP, 本次更高 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439829395": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 聖劍傳說 3 NT$500 leo198 <$2K 單片 SKIP",
+    "source": "2026-05-25",
+    "skip": true
   }
 }
