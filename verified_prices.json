@@ -1075,6 +1075,13 @@
     "note": "GOOVIS Lite HL01 3D 頭戴顯示器 新品 $9,999 二手 $7-8K。$6,800 = 91% ⭐ 手動",
     "source": "2026-05-24"
   },
+  "1422979883": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "寶麗來 600 型 one step 拍立得 NT$1,400 raretree <$2K 拍立得 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1423165919": {
     "newPrice": null,
     "secondhand": null,
@@ -26373,11 +26380,24 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439929419": {
+    "newPrice": 9780,
+    "secondhand": 6250,
+    "note": "Switch 一代大全配+原廠盒 Carousell TW $6-6.5K Dcard $6.5K。$5,000 = 80% 二手中位 ⭐⭐ 殺價 (Rose 關注)",
+    "source": "2026-05-25"
+  },
   "1439929920": {
     "newPrice": 12000,
     "secondhand": 8000,
     "note": "Panasonic F-Y24GX 12L 一級能效 nanoeX 除濕機 新品 $12K 二手 $8K。$4,999 = 62% 二手 ⭐⭐⭐ 好貨",
     "source": "2026-05-25"
+  },
+  "1439930200": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "利比亞黃金隕石原礦 NT$6,180 miracle.crystal77 隕石收藏 SKIP",
+    "source": "2026-05-25",
+    "skip": true
   },
   "1439931141": {
     "newPrice": 12000,
@@ -26485,6 +26505,39 @@
     "newPrice": null,
     "secondhand": null,
     "note": "老銀手鐲 17g NT$1,000 00320 <$2K 銀飾 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439946692": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "NEIGHBORHOOD x asimocrafts 折疊工兵鏟全新 NT$8,800 pistachioliu 露營潮牌聯名 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439947467": {
+    "newPrice": 2788,
+    "secondhand": 2500,
+    "note": "Acer Aopen 16PM1Q J 16吋可攜螢幕 官方特價 $2,788 (原 $5,999) 蝦皮 $3,190。$2,200 = 79% 特價 / 88% ⭐⭐ 殺價",
+    "source": "2026-05-25"
+  },
+  "1439948910": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "八成新羽毛球拍+球袋 NT$2,500 bugatti10572035 羽球 User 無此興趣 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439949024": {
+    "newPrice": 11000,
+    "secondhand": 8500,
+    "note": "DARTSLIVE HOME 飛鏢機 $6,880 + 頂天立地架 $3.9-4.5K 全新合計 $11K。$6,000 = 55% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-25"
+  },
+  "1439949758": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "CD 三張一起售 NT$2,500 fortune8886 樂媒模糊 SKIP",
     "source": "2026-05-25",
     "skip": true
   }
