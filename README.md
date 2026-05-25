@@ -1,45 +1,52 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/25 19:47:32 · 累積已看 10688 筆 · 110 位賣家黑名單
+> 2026/5/25 20:19:04 · 累積已看 10695 筆 · 110 位賣家黑名單
 
-**待審：** 好貨 7 ｜ 殺價 6 ｜ 手動 18 ｜ 待查 0
+**待審：** 好貨 9 ｜ 殺價 9 ｜ 手動 20 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
-## 🟢 好貨（7）
+## 🟢 好貨（9）
 
 > 通過自動門檻，可直接買
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [筆電] HP Pavilion Gaming 15 電競筆電 (i7-9750H / 8G / G | **NT$9,000** | 新$30000 | 30% new | Lightly used | 05/25 19:14 | [→](https://tw.carousell.com/p/1439917208/) |
-| [喇叭] Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭 | **NT$5,900** | 新$11990 | 49% new | Lightly used | 05/25 15:47 | [→](https://tw.carousell.com/p/1439877171/) |
-| [投影機] Epson EB-530 超短焦投影機{附贈二件投影伺服器} | **NT$2,950** | 新$18000 | 16% new | Lightly used | 05/25 15:47 | [→](https://tw.carousell.com/p/1439881257/) |
+| [投影機] SAMSUNG 三星第2代 The Freestyle 微型智 慧投影機 | **NT$6,200** | 新$28900 | 21% new | Like new | 05/25 20:08 | [→](https://tw.carousell.com/p/1439924628/) |
+| [電玩主機] SONY 索尼 PS5 DualSense 30 週年紀念 原廠無線控制器 CFI-ZCT | **NT$2,550** | 新$2480 | 103% new | Brand new | 05/25 19:51 | [→](https://tw.carousell.com/p/1439924833/) |
+| HP Pavilion Gaming 15 電競筆電 (i7-9750H / 8G / G | **NT$9,000** | 新$30000 | 30% new | Lightly used | 05/25 19:19 | [→](https://tw.carousell.com/p/1439917208/) |
+| [喇叭] Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭 | **NT$5,900** | 新$11990 | 49% new | Lightly used | 05/25 16:19 | [→](https://tw.carousell.com/p/1439877171/) |
+| [投影機] Epson EB-530 超短焦投影機{附贈二件投影伺服器} | **NT$2,950** | 新$18000 | 16% new | Lightly used | 05/25 16:19 | [→](https://tw.carousell.com/p/1439881257/) |
 | [運動戶外] Jetblack VOLT EMS V2 - Direct Drive Smart 超靜音 | **NT$6,000** | 新$18000 | 33% new | Lightly used | 05/25 14:52 | [→](https://tw.carousell.com/p/1439865463/) |
-| [dji] DjI magic mini | **NT$3,800** | 新$7999 | 48% new | Lightly used | 05/25 14:18 | [→](https://tw.carousell.com/p/1439854653/) |
-| [音響耳機] Yamaha SR-C20A 聲霸 | **NT$2,500** | 新$7199 | 35% new | Lightly used | 05/25 13:47 | [→](https://tw.carousell.com/p/1439858716/) |
+| [dji] DjI magic mini | **NT$3,800** | 新$7999 | 48% new | Lightly used | 05/25 14:19 | [→](https://tw.carousell.com/p/1439854653/) |
+| [音響耳機] Yamaha SR-C20A 聲霸 | **NT$2,500** | 新$7199 | 35% new | Lightly used | 05/25 14:19 | [→](https://tw.carousell.com/p/1439858716/) |
 | [運動戶外] Vivobarefoot MOTUS 女赤足鞋 39 | **NT$2,000** | 新$6880 | 29% new | Brand new | 05/25 13:23 | [→](https://tw.carousell.com/p/1439851671/) |
 
-## 🟡 殺價（6）
+## 🟡 殺價（9）
 
 > 價格已合理但還能再殺，看你殺得到嗎
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
+| [音響耳機] Edifier Stax Spirit S3 | **NT$3,500** | 新$9990 | 35% new | Like new | 05/25 20:14 | [→](https://tw.carousell.com/p/1439928248/) |
+| [運動戶外] 全新未拆 OSIM uZap Tummy 小腹機 OS-9230 塑腹震動按摩帶（附原廠盒 | **NT$4,500** | 新$6980 | 64% new | Brand new | 05/25 19:58 | [→](https://tw.carousell.com/p/1439926094/) |
+| [音響耳機] Marshall Emberton iii | **NT$4,000** | 新$6490 | 62% new | Brand new | 05/25 19:52 | [→](https://tw.carousell.com/p/1439924518/) |
 | [電玩主機] MSI微星 Claw A1M-027TW Ultra 5 512G | **NT$7,600** | 新$15500 | 49% new | Like new | 05/25 19:46 | [→](https://tw.carousell.com/p/1439924158/) |
-| [電腦科技] Lenovo Thinkbook 16p G2 (16G/512G、r7-5800H+RT | **NT$14,500** | 新$40000 | 36% new | Like new | 05/25 19:24 | [→](https://tw.carousell.com/p/1439920828/) |
-| 出清！伊萊克斯空氣清淨機 | **NT$5,990** | 新$6999 | 86% new | Like new | 05/25 18:53 | [→](https://tw.carousell.com/p/1439914291/) |
-| [機械鍵盤] 台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤 | **NT$4,700** | 新$5990 | 78% new | Brand new | 05/25 17:47 | [→](https://tw.carousell.com/p/1439906733/) |
+| [電腦科技] Lenovo Thinkbook 16p G2 (16G/512G、r7-5800H+RT | **NT$14,500** | 新$40000 | 36% new | Like new | 05/25 19:25 | [→](https://tw.carousell.com/p/1439920828/) |
+| 出清！伊萊克斯空氣清淨機 | **NT$5,990** | 新$6999 | 86% new | Like new | 05/25 19:19 | [→](https://tw.carousell.com/p/1439914291/) |
+| [機械鍵盤] 台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤 | **NT$4,700** | 新$5990 | 78% new | Brand new | 05/25 18:19 | [→](https://tw.carousell.com/p/1439906733/) |
+| [電腦科技] SUNMI 商用 POS 機＋錢櫃 | **NT$7,000** | 新$19500 | 36% new | Like new | 05/25 14:19 | [→](https://tw.carousell.com/p/1439854993/) |
 | [運動戶外] Giant Defy 3 公路車 尺寸S | **NT$9,500** | 新$15000 | 63% new | Lightly used | 05/25 13:47 | [→](https://tw.carousell.com/p/1439849388/) |
-| [電腦科技] SUNMI 商用 POS 機＋錢櫃 | **NT$7,000** | 新$19500 | 36% new | Like new | 05/25 13:47 | [→](https://tw.carousell.com/p/1439854993/) |
 
-## 🟠 手動判斷（18）
+## 🟠 手動判斷（20）
 
 > 二手樣本不足或邊緣值，手動評估
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [相機攝影] Canon 佳能 Powershot sx740 hs 相機 全新 | **NT$12,000** | 新$13880 | 86% new | Unknown | 05/25 19:19 | [→](https://tw.carousell.com/p/1439914300/) |
+| [運動戶外] 全新未拆 OSIM uZap Tummy 小腹機 OS-9230 塑腹震動按摩帶（附原廠盒 | **NT$4,500** | 新$6980 | 64% new | Unknown | 05/25 19:58 | [→](https://tw.carousell.com/p/1439926094/) |
+| [相機攝影] Canon 佳能 Powershot sx740 hs 相機 全新 | **NT$12,000** | 新$13880 | 86% new | Unknown | 05/25 19:51 | [→](https://tw.carousell.com/p/1439914300/) |
+| [電玩主機] SONY 索尼 PS5 DualSense 30 週年紀念 原廠無線控制器 CFI-ZCT | **NT$2,550** | 新$2480 | 103% new | Unknown | 05/25 19:51 | [→](https://tw.carousell.com/p/1439924833/) |
 | [機械鍵盤] 台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤 | **NT$4,700** | 新$5990 | 78% new | Unknown | 05/25 18:47 | [→](https://tw.carousell.com/p/1439906733/) |
 | [電腦科技] 出清！伊萊克斯空氣清淨機 | **NT$6,999** | 新$6999 | 100% new | Unknown | 05/25 18:46 | [→](https://tw.carousell.com/p/1439914291/) |
 | [音響耳機] 全新！ AirPods 4 主動式降噪款 | **NT$4,800** | 新$5990 | 80% new | Unknown | 05/25 17:53 | [→](https://tw.carousell.com/p/1439892230/) |
