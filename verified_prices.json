@@ -25703,5 +25703,44 @@
     "secondhand": 10000,
     "note": "GIGABYTE RTX 5060 OC 8G 2025 新卡 PChome 全新 $11,090-12,090 (標準 OC Low Profile) Gaming OC $14,590 二手估 $9.8-10.5K。$11,000 = 95% 新品 ⭐ 手動 (確認版本)",
     "source": "2026-05-25"
+  },
+  "1439843990": {
+    "newPrice": 2840,
+    "secondhand": 2000,
+    "note": "HUB&DYNE 20吋 7 速兒童登山車 全新 $2,620-3,060。$2,500 = 88% 全新 沒便宜到",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439845002": {
+    "newPrice": 6490,
+    "secondhand": 5200,
+    "note": "ROG Falchion Ace HFX 磁軸 PBT 無注音 全新台灣 $6,490 平輸二手 $5-5.5K。$4,200 = 81% 二手 ⭐⭐ 殺價",
+    "source": "2026-05-25"
+  },
+  "1439845102": {
+    "newPrice": 19990,
+    "secondhand": 12000,
+    "note": "DJI Pocket 3 主機 $8-10.5K 全能套組 $11.5-13K。$15,000 = 125% 過高即便當全能套組",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439845549": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "翡翠如意鎖吊件 NT$2,500 mei0314837215 玉器 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439846000": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "Apple iMac G3 1998 Bondi Blue 復古收藏(非實用機) 收藏市場 $2-10K+ 視完整度。$3,500 落在合理區間 ⭐ 手動 (符合復古興趣)",
+    "source": "2026-05-25"
+  },
+  "1439846108": {
+    "newPrice": 21900,
+    "secondhand": 16000,
+    "note": "iPad mini 6 256G LTE 二手 $15-17K 中位 $16K (PTT 64G LTE $14K, 256G WiFi $14.8K)。$13,000 = 81% ⭐⭐ 殺價",
+    "source": "2026-05-25"
   }
 }
