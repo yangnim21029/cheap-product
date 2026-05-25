@@ -1,6 +1,29 @@
 {
   "newDeals": [
     {
+      "seller": "kchang12750030",
+      "timeAgo": "1 hour ago",
+      "title": "Jetblack VOLT EMS V2 - Direct Drive Smart 超靜音直軀式智能騎行台",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439865463/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 14:52",
+      "pid": "1439865463",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 12000,
+        "note": "Jetblack VOLT EMS V2 直軀式智能騎行台 新品 HK$3,999-5,300 (~NT$16-22K)。$6,000 = 33% 新品 ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 33,
+      "vsSecondhand": 50
+    },
+    {
       "seller": "judy9956",
       "timeAgo": "2 hours ago",
       "title": "Vivobarefoot MOTUS 女赤足鞋 39",
@@ -70,31 +93,8 @@
       "vsSecondhand": 42
     },
     {
-      "seller": "kchang12750030",
-      "timeAgo": "1 hour ago",
-      "title": "Jetblack VOLT EMS V2 - Direct Drive Smart 超靜音直軀式智能騎行台",
-      "price": 6000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439865463/",
-      "category": "運動戶外",
-      "maxDays": 3,
-      "priceStr": "NT$6,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 14:52",
-      "pid": "1439865463",
-      "verified": {
-        "newPrice": 18000,
-        "secondhand": 12000,
-        "note": "Jetblack VOLT EMS V2 直軀式智能騎行台 新品 HK$3,999-5,300 (~NT$16-22K)。$6,000 = 33% 新品 ⭐⭐⭐ 好貨",
-        "source": "2026-05-25"
-      },
-      "vsNew": 33,
-      "vsSecondhand": 50
-    },
-    {
       "seller": "hijerry99",
-      "timeAgo": "51 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭",
       "price": 5900,
       "condition": "Lightly used",
@@ -104,7 +104,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:56",
+      "listedAt": "05/25 16:22",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -117,7 +117,7 @@
     },
     {
       "seller": "unisunp",
-      "timeAgo": "32 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Epson EB-530 超短焦投影機{附贈二件投影伺服器}",
       "price": 2950,
       "condition": "Lightly used",
@@ -127,7 +127,7 @@
       "priceStr": "NT$2,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:15",
+      "listedAt": "05/25 16:22",
       "pid": "1439881257",
       "verified": {
         "newPrice": 18000,
@@ -142,7 +142,7 @@
   "negotiate": [
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Giant Defy 3 公路車 尺寸S",
       "price": 9500,
       "condition": "Lightly used",
@@ -152,7 +152,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:47",
+      "listedAt": "05/25 13:22",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -175,7 +175,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:47",
+      "listedAt": "05/25 14:22",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -206,47 +206,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": 88,
-      "vsSecondhand": 100
-    },
-    {
-      "seller": "silverwolf-9af8",
-      "timeAgo": "20 minutes ago",
-      "title": "U1-R",
-      "price": 4888,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439850606/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439850606",
-      "priceStr": "NT$4,888",
-      "verified": {
-        "newPrice": null,
-        "secondhand": null,
-        "note": "U1-R 型號不明 搜尋無對應產品 NT$4,888 ⭐ 手動 (需問實機)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": null,
-      "vsSecondhand": null
-    },
-    {
-      "seller": "gentlegem_de2511",
-      "timeAgo": "14 minutes ago",
-      "title": "DjI magic mini",
-      "price": 3800,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439854653/",
-      "category": "dji",
-      "maxDays": 3,
-      "pid": "1439854653",
-      "priceStr": "NT$3,800",
-      "verified": {
-        "newPrice": 7999,
-        "secondhand": 7250,
-        "note": "DJI Mini 系列機型不明 (賣家寫 Magic mini 筆誤) 入門 Mini Drone 二手 $4-5K, Mini 2 SE $7-7.5K, Mini 4 Pro $15K+。$3,800 = Mini 2 SE 52% 若是入門 Drone 則偏高 ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 48,
-      "vsSecondhand": 52
+      "vsSecondhand": 100,
+      "listedAt": "05/25 16:28"
     },
     {
       "seller": "yanggyee",
@@ -266,67 +227,71 @@
         "source": "manual_inject_web"
       },
       "vsNew": 36,
-      "vsSecondhand": 88
+      "vsSecondhand": 88,
+      "listedAt": "05/25 16:55"
     },
     {
-      "seller": "luckyearth-9de3",
-      "timeAgo": "7 minutes ago",
-      "title": "PS4",
-      "price": 3000,
+      "seller": "siegfried3999",
+      "timeAgo": "15 minutes ago",
+      "title": "Mac mini M4 16GB+256GB",
+      "price": 17000,
       "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439864458/",
-      "category": "電玩主機",
+      "url": "https://tw.carousell.com/p/1439895025/",
+      "category": "電腦科技",
       "maxDays": 3,
-      "pid": "1439864458",
-      "priceStr": "NT$3,000",
+      "pid": "1439895025",
+      "priceStr": "NT$17,000",
       "verified": {
-        "newPrice": 7980,
-        "secondhand": 3000,
-        "note": "PS4 規格未指明 Slim 500G 二手 $2.5-3.5K。$3,000 = 100% 中位 ⭐ 手動 (同賣家兩台主機疑商家)",
+        "newPrice": 19900,
+        "secondhand": 17000,
+        "note": "Mac mini M4 16GB+256GB 新品官價 $19,900。$17,000 = 85% ⭐ 手動 (subagent overload)",
         "source": "manual_inject_web"
       },
-      "vsNew": 38,
-      "vsSecondhand": 100
+      "vsNew": 85,
+      "vsSecondhand": 100,
+      "listedAt": "05/25 17:07"
     },
     {
-      "seller": "luckyearth-9de3",
-      "timeAgo": "10 minutes ago",
-      "title": "Switch",
-      "price": 4000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439863993/",
-      "category": "電玩主機",
-      "maxDays": 3,
-      "pid": "1439863993",
-      "priceStr": "NT$4,000",
-      "verified": {
-        "newPrice": 9780,
-        "secondhand": 4000,
-        "note": "Switch 一般版二手中位 $3.7-4.5K。$4,000 = 100% ⭐ 手動 (Rose 關注但規格未指明)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 41,
-      "vsSecondhand": 100
-    },
-    {
-      "seller": "habo0206",
+      "seller": "siegfried3999",
       "timeAgo": "16 minutes ago",
-      "title": "KZM露營燈",
-      "price": 2000,
+      "title": "Mac mini M4 16GB+256GB",
+      "price": 18000,
       "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439869649/",
-      "category": "運動戶外",
+      "url": "https://tw.carousell.com/p/1439894778/",
+      "category": "電腦科技",
       "maxDays": 3,
-      "pid": "1439869649",
-      "priceStr": "NT$2,000",
+      "pid": "1439894778",
+      "priceStr": "NT$18,000",
+      "verified": {
+        "newPrice": 19900,
+        "secondhand": 17000,
+        "note": "Mac mini M4 16GB+256GB (同款另一筆) 新品 $19,900。$18,000 = 90% ⭐ 手動 (對比 $17K 那筆貴 $1K)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 90,
+      "vsSecondhand": 106,
+      "listedAt": "05/25 17:06"
+    },
+    {
+      "seller": "silverwolf-9af8",
+      "timeAgo": "20 minutes ago",
+      "title": "U1-R",
+      "price": 4888,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439850606/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439850606",
+      "priceStr": "NT$4,888",
       "verified": {
         "newPrice": null,
         "secondhand": null,
-        "note": "KZM 露營燈 (型號不明) NT$2,000 habo0206 — subagent overload 未驗, KZM 韓國露營品牌, 等 Rose 親看",
+        "note": "U1-R 型號不明 搜尋無對應產品 NT$4,888 ⭐ 手動 (需問實機)",
         "source": "manual_inject_web"
       },
       "vsNew": null,
-      "vsSecondhand": null
+      "vsSecondhand": null,
+      "listedAt": "05/25 17:02"
     },
     {
       "seller": "rockaero1873",
@@ -346,47 +311,113 @@
         "source": "manual_inject_web"
       },
       "vsNew": null,
-      "vsSecondhand": null
+      "vsSecondhand": null,
+      "listedAt": "05/25 17:19"
     },
     {
-      "seller": "qwt49970608",
-      "timeAgo": "9 minutes ago",
-      "title": "lenovo ideapad輕遊戲機（I5-8250u/8g/128ssd+1tb/mx150)",
-      "price": 5500,
+      "seller": "gentlegem_de2511",
+      "timeAgo": "14 minutes ago",
+      "title": "DjI magic mini",
+      "price": 3800,
       "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439871463/",
-      "category": "電腦科技",
+      "url": "https://tw.carousell.com/p/1439854653/",
+      "category": "dji",
       "maxDays": 3,
-      "pid": "1439871463",
-      "priceStr": "NT$5,500",
+      "pid": "1439854653",
+      "priceStr": "NT$3,800",
+      "verified": {
+        "newPrice": 7999,
+        "secondhand": 7250,
+        "note": "DJI Mini 系列機型不明 (賣家寫 Magic mini 筆誤) 入門 Mini Drone 二手 $4-5K, Mini 2 SE $7-7.5K, Mini 4 Pro $15K+。$3,800 = Mini 2 SE 52% 若是入門 Drone 則偏高 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 52,
+      "listedAt": "05/25 17:08"
+    },
+    {
+      "seller": "luckyearth-9de3",
+      "timeAgo": "7 minutes ago",
+      "title": "PS4",
+      "price": 3000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439864458/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439864458",
+      "priceStr": "NT$3,000",
+      "verified": {
+        "newPrice": 7980,
+        "secondhand": 3000,
+        "note": "PS4 規格未指明 Slim 500G 二手 $2.5-3.5K。$3,000 = 100% 中位 ⭐ 手動 (同賣家兩台主機疑商家)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 100,
+      "listedAt": "05/25 17:15"
+    },
+    {
+      "seller": "luckyearth-9de3",
+      "timeAgo": "10 minutes ago",
+      "title": "Switch",
+      "price": 4000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439863993/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439863993",
+      "priceStr": "NT$4,000",
+      "verified": {
+        "newPrice": 9780,
+        "secondhand": 4000,
+        "note": "Switch 一般版二手中位 $3.7-4.5K。$4,000 = 100% ⭐ 手動 (Rose 關注但規格未指明)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 41,
+      "vsSecondhand": 100,
+      "listedAt": "05/25 17:12"
+    },
+    {
+      "seller": "siegfried3999",
+      "timeAgo": "16 minutes ago",
+      "title": "台版 Nintendo Switch 2 馬力歐賽車同捆版",
+      "price": 15000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439894529/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439894529",
+      "priceStr": "NT$15,000",
+      "verified": {
+        "newPrice": 16000,
+        "secondhand": 14000,
+        "note": "台版 Switch 2 + 馬車 8 同捆版 官價 $15-16K (含馬車 8)。$15,000 ≈ 94% 官價 ⭐ 手動 (Rose 關注, subagent overload)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 94,
+      "vsSecondhand": 107,
+      "listedAt": "05/25 17:06"
+    },
+    {
+      "seller": "habo0206",
+      "timeAgo": "16 minutes ago",
+      "title": "KZM露營燈",
+      "price": 2000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439869649/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1439869649",
+      "priceStr": "NT$2,000",
       "verified": {
         "newPrice": null,
         "secondhand": null,
-        "note": "Lenovo IdeaPad i5-8250U/8G/128SSD+1TB/MX150 (2018 老筆電) NT$5,500 qwt49970608 — subagent overload 未驗, 規格已 8 年, 等 Rose 親看",
+        "note": "KZM 露營燈 (型號不明) NT$2,000 habo0206 — subagent overload 未驗, KZM 韓國露營品牌, 等 Rose 親看",
         "source": "manual_inject_web"
       },
       "vsNew": null,
-      "vsSecondhand": null
-    },
-    {
-      "seller": "qwt49970608",
-      "timeAgo": "11 minutes ago",
-      "title": "Avita liber v 14吋輕薄文書筆電（I5-10210u/8g/512ssd)",
-      "price": 6500,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439876937/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439876937",
-      "priceStr": "NT$6,500",
-      "verified": {
-        "newPrice": null,
-        "secondhand": null,
-        "note": "Avita Liber V 14 吋 i5-10210U/8G/512SSD (2019-2020 機型) NT$6,500 qwt49970608 — subagent overload 未驗, qwt 同賣家上輪 Lenovo IdeaPad 也 manual, 等 Rose 親看",
-        "source": "manual_inject_web"
-      },
-      "vsNew": null,
-      "vsSecondhand": null
+      "vsSecondhand": null,
+      "listedAt": "05/25 17:06"
     },
     {
       "seller": "johnny64",
@@ -406,7 +437,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": 100,
-      "vsSecondhand": 144
+      "vsSecondhand": 144,
+      "listedAt": "05/25 17:18"
     },
     {
       "seller": "unisunp",
@@ -426,7 +458,29 @@
         "source": "manual_inject_web"
       },
       "vsNew": 16,
-      "vsSecondhand": 118
+      "vsSecondhand": 118,
+      "listedAt": "05/25 16:50"
+    },
+    {
+      "seller": "dingdingo",
+      "timeAgo": "29 minutes ago",
+      "title": "萬播 WANBO T2 MAX NEW 投影機",
+      "price": 4000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439888168/",
+      "category": "投影機",
+      "maxDays": 3,
+      "pid": "1439888168",
+      "priceStr": "NT$4,000",
+      "verified": {
+        "newPrice": 5500,
+        "secondhand": 3000,
+        "note": "WANBO T2 Max New 1080p 便攜投影機 新品 $5-6K 二手 $3K。$4,000 ≈ 73% 新品 / 133% 二手 ⭐ 手動 (subagent overload, 略估)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 73,
+      "vsSecondhand": 133,
+      "listedAt": "05/25 16:53"
     },
     {
       "seller": "justin94825",
@@ -446,7 +500,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": 37,
-      "vsSecondhand": 129
+      "vsSecondhand": 129,
+      "listedAt": "05/25 17:00"
     }
   ]
 }

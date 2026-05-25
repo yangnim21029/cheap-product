@@ -26061,10 +26061,62 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439888168": {
+    "newPrice": 5500,
+    "secondhand": 3000,
+    "note": "WANBO T2 Max New 1080p 便攜投影機 新品 $5-6K 二手 $3K。$4,000 ≈ 73% 新品 / 133% 二手 ⭐ 手動 (subagent overload, 略估)",
+    "source": "2026-05-25"
+  },
   "1439888826": {
     "newPrice": 34999,
     "secondhand": 12000,
     "note": "HP Pavilion Gaming 15-ec0083ax R7-3750H/GTX 1660Ti/16G/512G (2020 6 年舊) 二手 $10-13K。$14,500 高於行情上緣",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439891919": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "中國古代青銅三足爵杯 NT$1,980 k09224562221990 <$2K 古玩 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439893092": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Yamaha 吉他 NT$3,000 thomashuan34782 樂器 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439893386": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Le Couvent des Minimes 隨身瓶香氛禮盒 10mlx5 NT$800 eyaha <$2K 香水 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439894529": {
+    "newPrice": 16000,
+    "secondhand": 14000,
+    "note": "台版 Switch 2 + 馬車 8 同捆版 官價 $15-16K (含馬車 8)。$15,000 ≈ 94% 官價 ⭐ 手動 (Rose 關注, subagent overload)",
+    "source": "2026-05-25"
+  },
+  "1439894778": {
+    "newPrice": 19900,
+    "secondhand": 17000,
+    "note": "Mac mini M4 16GB+256GB (同款另一筆) 新品 $19,900。$18,000 = 90% ⭐ 手動 (對比 $17K 那筆貴 $1K)",
+    "source": "2026-05-25"
+  },
+  "1439895025": {
+    "newPrice": 19900,
+    "secondhand": 17000,
+    "note": "Mac mini M4 16GB+256GB 新品官價 $19,900。$17,000 = 85% ⭐ 手動 (subagent overload)",
+    "source": "2026-05-25"
+  },
+  "1439895526": {
+    "newPrice": 39900,
+    "secondhand": 11000,
+    "note": "ASUS ROG G731GT i7-9750H/16G/256+1TB/GTX 1650 (2019 老電競 7 年) 二手 $10-12K。$12,500 ≈ 113% 偏高 (qwt 連續上老筆電)",
     "source": "2026-05-25",
     "skip": true
   }
