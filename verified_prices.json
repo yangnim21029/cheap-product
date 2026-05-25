@@ -7618,6 +7618,13 @@
     "note": "Canon EOS M6 Mark II 已停產 二手中位$21,000。$13,500=64% 二手 → 好貨檻 (≤70%二手), ⚠ EOS M 卡口已棄用注意零件支援",
     "source": "web search 2026-05-11"
   },
+  "1437006403": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AmazingCre 立式支架高爾夫球包 NT$10,000 livegem 高爾夫 User 無此興趣 SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
   "1437028402": {
     "newPrice": 18900,
     "secondhand": null,
@@ -26581,6 +26588,12 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439952378": {
+    "newPrice": 8829,
+    "secondhand": 6000,
+    "note": "EVERGOODS CIVIC Panel Loader 16L 後背包 台灣 The Baggery $7,687-8,829 二手 $5.5-6.5K。$5,800 = 97% ⭐ 手動",
+    "source": "2026-05-26"
+  },
   "1439952506": {
     "newPrice": 28000,
     "secondhand": 14500,
@@ -26768,5 +26781,46 @@
     "secondhand": 25500,
     "note": "ASUS TUF F17 i7-12700H/16G/RTX3050/512G 二手 $25,519 新品 $24.8-28K。$19,000 = 74% 二手 ⭐ 手動 (you2bepremium 連續批量需查信譽)",
     "source": "2026-05-26"
+  },
+  "1439970895": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "蒙古自治區成立 40 週年 1 元 NT$1,000 00320 <$2K 紀念幣 SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
+  "1439971772": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "伍佰 愛上別人是快樂的事 CD NT$700 vintage80shop <$2K CD SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
+  "1439971989": {
+    "newPrice": 24800,
+    "secondhand": 5500,
+    "note": "Bose Wave Music System (III/IV) 8.7成新 含 CD/收音機 蝦皮二手 $4.9-8K 中位 $5.5K。$3,500 = 64% 二手 ⭐⭐⭐ 好貨",
+    "source": "2026-05-26"
+  },
+  "1439972042": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "王傑 一番傑作黃金版 CD NT$1,200 vintage80shop <$2K CD SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
+  "1439972312": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "王傑 一番傑作 CD NT$750 vintage80shop <$2K CD SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
+  "1439972425": {
+    "newPrice": 5499,
+    "secondhand": 2300,
+    "note": "Razer Basilisk V3 Pro 白 + 無線充電 蝦皮新品 $3,690 二手 $2-2.5K。$3,500 高過新品折扣價",
+    "source": "2026-05-26",
+    "skip": true
   }
 }
