@@ -2196,11 +2196,25 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1428053854": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Yamaha NP-11 piaggero 電子鋼琴 61 鍵二手 NT$4,999 guarduin 樂器 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1428074438": {
     "newPrice": null,
     "secondhand": null,
     "note": "香氛 DIPTYQUE聖日耳曼大道34號香氛蠟燭 NT$2,499 香水/蠟燭/精油類SK<$2K門檻 SKIP",
     "source": "2026-05-16",
+    "skip": true
+  },
+  "1428119313": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Native Instruments Maschine 故障品 NT$998 guarduin <$2K 樂器+故障 SKIP",
+    "source": "2026-05-25",
     "skip": true
   },
   "1428210269": {
@@ -25379,6 +25393,19 @@
     "note": "Switch Lite 黃色 全新台灣公司貨 標籤 新機 $6,380 二手中位 $3.5K。$4,200 = 新品 66% / 二手 120% 衝突 ⭐ 手動 (疑拆封/久放/仿冒, 驗賣家評價+盒況)",
     "source": "2026-05-25"
   },
+  "1439807263": {
+    "newPrice": 8000,
+    "secondhand": 5500,
+    "note": "Crucial Ballistix Sport LT DDR4-3200 32G (16Gx2) 終身保固 二手 $5-6K。$8,000 已超過新品行情高點即使含終保",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439807382": {
+    "newPrice": 5500,
+    "secondhand": 9000,
+    "note": "MSI RTX 2070 Super VENTUS GP OC BigGo 在售 $10.5-12.7K 過往成交 $4.9-8K 中位 $9K。$5,500 = 61% 二手 ⭐⭐⭐ 好貨 (2070S 仍可 1440p)",
+    "source": "2026-05-25"
+  },
   "1439807418": {
     "newPrice": null,
     "secondhand": null,
@@ -25549,6 +25576,19 @@
     "newPrice": 22000,
     "secondhand": 11000,
     "note": "Lenovo LOQ RTX 3050 電競筆電 二手中位 $10-12K。$10,000 = 91% ⭐ 手動 (型號規格不明)",
+    "source": "2026-05-25"
+  },
+  "1439825599": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "鳳飛飛 祝你幸福 CD NT$1,000 wixuehbficd <$2K CD SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439826784": {
+    "newPrice": 4800,
+    "secondhand": 4500,
+    "note": "Kingston DDR4 2400+2666 規格不明套裝 2025-2026 DRAM 大漲。$4,800 規格不明 ⭐ 手動 (確認容量/支數)",
     "source": "2026-05-25"
   }
 }
