@@ -58,7 +58,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439854653",
       "verified": {
         "newPrice": 7999,
@@ -81,7 +81,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -104,7 +104,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 22:48",
+      "listedAt": "05/25 23:18",
       "pid": "1439958086",
       "verified": {
         "newPrice": 6490,
@@ -117,7 +117,7 @@
     },
     {
       "seller": "dand1334",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "BOSE Wave music system 8.7成新",
       "price": 3500,
       "condition": "Lightly used",
@@ -127,7 +127,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 00:48",
+      "listedAt": "05/26 00:18",
       "pid": "1439971989",
       "verified": {
         "newPrice": 24800,
@@ -150,7 +150,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:48",
+      "listedAt": "05/25 16:18",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -173,7 +173,7 @@
       "priceStr": "NT$6,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439924628",
       "verified": {
         "newPrice": 28900,
@@ -196,7 +196,7 @@
       "priceStr": "NT$2,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:48",
+      "listedAt": "05/25 16:18",
       "pid": "1439881257",
       "verified": {
         "newPrice": 18000,
@@ -209,7 +209,7 @@
     },
     {
       "seller": "nobody_aka",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "AMD R9 3900 12核24緒 CPU Ryzen 9 ( 非 R9 3900X)",
       "price": 4200,
       "condition": "Like new",
@@ -219,7 +219,7 @@
       "priceStr": "NT$4,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439931141",
       "verified": {
         "newPrice": 12000,
@@ -231,18 +231,64 @@
       "vsSecondhand": 60
     },
     {
+      "seller": "clean700ml",
+      "timeAgo": "3 hours ago",
+      "title": "14吋*獨顯筆電 / SSD 512GB / RAM 16GB / i5-1135G7 / MateBook B5 / 類macbook",
+      "price": 7900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439959852/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$7,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 23:18",
+      "pid": "1439959852",
+      "verified": {
+        "newPrice": 25000,
+        "secondhand": 13000,
+        "note": "HUAWEI MateBook B5 i5-1135G7/16G/512G 獨顯商用 海外 i7 $37K, i5 二手陸貨 ¥2,960 (~$13K)。$7,900 = 60% 二手 ⭐⭐⭐ 好貨 (注意台灣保固/Win 商務需驗)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 32,
+      "vsSecondhand": 61
+    },
+    {
+      "seller": "valles",
+      "timeAgo": "6 minutes ago",
+      "title": "Asus X415E I5 1135G7 獨顯 MX330 16G ram 512G ssd intel 筆電",
+      "price": 7890,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439980784/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$7,890",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 02:12",
+      "pid": "1439980784",
+      "verified": {
+        "newPrice": 25000,
+        "secondhand": 12000,
+        "note": "ASUS X415E/EP i5-1135G7+MX330/16G/512G (2021 5 年) 二手 $10-13K。$7,890 = 66% 二手 ⭐⭐⭐ 好貨",
+        "source": "2026-05-26"
+      },
+      "vsNew": 32,
+      "vsSecondhand": 66
+    },
+    {
       "seller": "usedto34",
       "timeAgo": "7 hours ago",
       "title": "HP Pavilion Gaming 15 電競筆電 (i7-9750H / 8G / GTX 1650 / 144Hz)",
       "price": 9000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439917208/",
-      "category": "筆電",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 18:48",
+      "listedAt": "05/25 19:18",
       "pid": "1439917208",
       "verified": {
         "newPrice": 30000,
@@ -254,50 +300,27 @@
       "vsSecondhand": 75
     },
     {
-      "seller": "you2bepremium",
-      "timeAgo": "5 hours ago",
-      "title": "HP EliteBook 840 G7 14吋商務筆電 (i7-10610U/32G/1TB SSD)",
-      "price": 11500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439938580/",
-      "category": "筆電",
-      "maxDays": 7,
-      "priceStr": "NT$11,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 20:48",
-      "pid": "1439938580",
-      "verified": {
-        "newPrice": 45000,
-        "secondhand": 12000,
-        "note": "HP EliteBook 840 G7 i7-10610U/32G/1TB 商務 二手 $10-13K。$11,500 = 96% 二手中位 ⭐ 手動 (確認電池循環/外觀)",
-        "source": "2026-05-25"
-      },
-      "vsNew": 26,
-      "vsSecondhand": 96
-    },
-    {
-      "seller": "clean700ml",
-      "timeAgo": "3 hours ago",
-      "title": "14吋*獨顯筆電 / SSD 512GB / RAM 16GB / i5-1135G7 / MateBook B5 / 類macbook",
-      "price": 7900,
+      "seller": "pochan19818888",
+      "timeAgo": "15 minutes ago",
+      "title": "MacBook Pro 2020年13时 512G SSD 16G記憶體 TB款 A2251 =12800",
+      "price": 12800,
       "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1439959852/",
-      "category": "筆電",
-      "maxDays": 7,
-      "priceStr": "NT$7,900",
+      "url": "https://tw.carousell.com/p/1439980205/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$12,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 22:48",
-      "pid": "1439959852",
+      "listedAt": "05/26 02:03",
+      "pid": "1439980205",
       "verified": {
-        "newPrice": 25000,
-        "secondhand": 13000,
-        "note": "HUAWEI MateBook B5 i5-1135G7/16G/512G 獨顯商用 海外 i7 $37K, i5 二手陸貨 ¥2,960 (~$13K)。$7,900 = 60% 二手 ⭐⭐⭐ 好貨 (注意台灣保固/Win 商務需驗)",
-        "source": "2026-05-25"
+        "newPrice": 56900,
+        "secondhand": 16000,
+        "note": "MacBook Pro 2020 13\" i7-1068NG7 四雷電/16G/512G (Intel 末代) 二手 $15-17K。$12,800 = 80% 二手 ⭐⭐ 殺價",
+        "source": "2026-05-26"
       },
-      "vsNew": 32,
-      "vsSecondhand": 61
+      "vsNew": 22,
+      "vsSecondhand": 80
     },
     {
       "seller": "akito_jr",
@@ -311,7 +334,7 @@
       "priceStr": "NT$2,550",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439924833",
       "verified": {
         "newPrice": 2480,
@@ -370,7 +393,7 @@
     },
     {
       "seller": "erick1980000",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Ecovacs DEEBOT T30 pro 耗材給滿",
       "price": 6000,
       "condition": "Lightly used",
@@ -380,7 +403,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 22:48",
+      "listedAt": "05/25 22:18",
       "pid": "1439951523",
       "verified": {
         "newPrice": 17999,
@@ -405,7 +428,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 21:48",
+      "listedAt": "05/25 22:18",
       "pid": "1439949024",
       "verified": {
         "newPrice": 11000,
@@ -428,7 +451,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439926094",
       "verified": {
         "newPrice": 6980,
@@ -474,7 +497,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:48",
+      "listedAt": "05/25 21:18",
       "pid": "1439937763",
       "verified": {
         "newPrice": 7000,
@@ -487,17 +510,17 @@
     },
     {
       "seller": "you2bepremium",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "ASUS TUF Gaming F17 電競筆電 (i7-12700H/16G/RTX3050/512G SSD/17吋)",
       "price": 19000,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1439969773/",
-      "category": "筆電",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 00:48",
+      "listedAt": "05/26 00:18",
       "pid": "1439969773",
       "verified": {
         "newPrice": 26000,
@@ -510,7 +533,7 @@
     },
     {
       "seller": "epicwater.055d0b",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "Lenovo Thinkbook 16p G2 (16G/512G、r7-5800H+RTX3060)",
       "price": 14500,
       "condition": "Like new",
@@ -520,7 +543,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 19:18",
       "pid": "1439920828",
       "verified": {
         "newPrice": 40000,
@@ -543,7 +566,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -552,6 +575,29 @@
         "source": "2026-05-25"
       },
       "vsNew": 36,
+      "vsSecondhand": 88
+    },
+    {
+      "seller": "mightydeer-e4f6",
+      "timeAgo": "3 hours ago",
+      "title": "Zowie x2546x+ 24.1英寸 280hz 有DyAc 二手近全新 想換螢幕了故售出 限台南自取",
+      "price": 12000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439962513/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$12,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 23:18",
+      "pid": "1439962513",
+      "verified": {
+        "newPrice": 16490,
+        "secondhand": 13600,
+        "note": "Zowie XL2546X+ 24.1\" 280Hz DyAc+ 近全新 新品 $16,490 二手中位 $13-14K。$12,000 = 88% 二手 ⭐ 手動 (台南自取)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 73,
       "vsSecondhand": 88
     },
     {
@@ -566,7 +612,7 @@
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 17:48",
+      "listedAt": "05/25 18:18",
       "pid": "1439906733",
       "verified": {
         "newPrice": 5990,
@@ -624,6 +670,29 @@
       "vsSecondhand": 80
     },
     {
+      "seller": "yuki16899",
+      "timeAgo": "3 hours ago",
+      "title": "switch一代/大全配/附原廠盒",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439960284/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 23:18",
+      "pid": "1439960284",
+      "verified": {
+        "newPrice": 9780,
+        "secondhand": 6250,
+        "note": "Switch 一代大全配+原廠盒 (同 patrol 203 同款 $5,000 = 80% 二手 $6.25K) ⭐⭐ 殺價",
+        "source": "2026-05-26"
+      },
+      "vsNew": 51,
+      "vsSecondhand": 80
+    },
+    {
       "seller": "boss10111",
       "timeAgo": "6 hours ago",
       "title": "Edifier Stax Spirit S3 耳罩式耳機 藍芽耳機",
@@ -635,7 +704,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439928248",
       "verified": {
         "newPrice": 9990,
@@ -658,7 +727,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439924518",
       "verified": {
         "newPrice": 6490,
@@ -671,7 +740,7 @@
     },
     {
       "seller": "boss10111",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Turtle Beach Stealth 700 Gen 3 耳罩式耳機 耳麥",
       "price": 4000,
       "condition": "Like new",
@@ -681,7 +750,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:48",
+      "listedAt": "05/25 20:18",
       "pid": "1439932501",
       "verified": {
         "newPrice": 6490,
@@ -704,7 +773,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:48",
+      "listedAt": "05/25 21:18",
       "pid": "1439935711",
       "verified": {
         "newPrice": 18000,
@@ -737,29 +806,6 @@
       },
       "vsNew": 49,
       "vsSecondhand": 89
-    },
-    {
-      "seller": "mightydeer-e4f6",
-      "timeAgo": "2 hours ago",
-      "title": "Zowie x2546x+ 24.1英寸 280hz 有DyAc 二手近全新 想換螢幕了故售出 限台南自取",
-      "price": 12000,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439962513/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$12,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 23:48",
-      "pid": "1439962513",
-      "verified": {
-        "newPrice": 16490,
-        "secondhand": 13600,
-        "note": "Zowie XL2546X+ 24.1\" 280Hz DyAc+ 近全新 新品 $16,490 二手中位 $13-14K。$12,000 = 88% 二手 ⭐ 手動 (台南自取)",
-        "source": "2026-05-25"
-      },
-      "vsNew": 73,
-      "vsSecondhand": 88
     }
   ],
   "uncertain": [
