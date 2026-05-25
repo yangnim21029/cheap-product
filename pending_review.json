@@ -25,7 +25,7 @@
     },
     {
       "seller": "gentlegem_de2511",
-      "timeAgo": "14 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "DjI magic mini",
       "price": 3800,
       "condition": "Lightly used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:04",
+      "listedAt": "05/25 14:22",
       "pid": "1439854653",
       "verified": {
         "newPrice": 7999,
@@ -58,7 +58,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:52",
+      "listedAt": "05/25 14:22",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -91,12 +91,35 @@
       },
       "vsNew": 33,
       "vsSecondhand": 50
+    },
+    {
+      "seller": "hijerry99",
+      "timeAgo": "21 minutes ago",
+      "title": "Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭",
+      "price": 5900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439877171/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$5,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 16:01",
+      "pid": "1439877171",
+      "verified": {
+        "newPrice": 11990,
+        "secondhand": 8500,
+        "note": "Harman Kardon SoundSticks 4 水母藍牙喇叭 全新 $10,990-12,990 二手中位估 $8.5K (取上區間)。$5,900 = 69% 二手 / 49% 新品 ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 49,
+      "vsSecondhand": 69
     }
   ],
   "negotiate": [
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Giant Defy 3 公路車 尺寸S",
       "price": 9500,
       "condition": "Lightly used",
@@ -106,7 +129,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:52",
+      "listedAt": "05/25 13:22",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -129,7 +152,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:52",
+      "listedAt": "05/25 14:22",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -341,6 +364,26 @@
       },
       "vsNew": null,
       "vsSecondhand": null
+    },
+    {
+      "seller": "johnny64",
+      "timeAgo": "4 minutes ago",
+      "title": "台北賣BOES 4.2 SERIES II 喇叭",
+      "price": 6500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439880773/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "pid": "1439880773",
+      "priceStr": "NT$6,500",
+      "verified": {
+        "newPrice": 6500,
+        "secondhand": 4500,
+        "note": "BOES 4.2 Series II 喇叭 — BOES 冷門/不明品牌(非 Bose) 公定價/行情查無。$6,500 對未知品牌偏高 ⭐ 手動 (驗真偽)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 100,
+      "vsSecondhand": 144
     }
   ]
 }

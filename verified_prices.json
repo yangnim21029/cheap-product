@@ -25914,6 +25914,13 @@
     "note": "KZM 露營燈 (型號不明) NT$2,000 habo0206 — subagent overload 未驗, KZM 韓國露營品牌, 等 Rose 親看",
     "source": "2026-05-25"
   },
+  "1439870915": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Zara x Jo Malone Energy Vibe 香水 NT$800 fucoffforeigners <$2K 香水 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439871234": {
     "newPrice": null,
     "secondhand": null,
@@ -25959,5 +25966,52 @@
     "secondhand": null,
     "note": "Avita Liber V 14 吋 i5-10210U/8G/512SSD (2019-2020 機型) NT$6,500 qwt49970608 — subagent overload 未驗, qwt 同賣家上輪 Lenovo IdeaPad 也 manual, 等 Rose 親看",
     "source": "2026-05-25"
+  },
+  "1439877171": {
+    "newPrice": 11990,
+    "secondhand": 8500,
+    "note": "Harman Kardon SoundSticks 4 水母藍牙喇叭 全新 $10,990-12,990 二手中位估 $8.5K (取上區間)。$5,900 = 69% 二手 / 49% 新品 ⭐⭐⭐ 好貨",
+    "source": "2026-05-25"
+  },
+  "1439878368": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "3M FA-M13 空清 NT$1,000 lessin168 已多次驗 <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439879587": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SuperJunior 日巡包包官週邊 NT$1,500 freerabbit.d34514 <$2K Kpop SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439880248": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MacBook Pro 13 M1 8G/256G NT$12,000 snowstudio_apple_shop — 賣家名含 apple_shop 店家定價 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439880773": {
+    "newPrice": 6500,
+    "secondhand": 4500,
+    "note": "BOES 4.2 Series II 喇叭 — BOES 冷門/不明品牌(非 Bose) 公定價/行情查無。$6,500 對未知品牌偏高 ⭐ 手動 (驗真偽)",
+    "source": "2026-05-25"
+  },
+  "1439881142": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "烏克麗麗 NT$1,200 268888 <$2K 樂器 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439881527": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Day6 官方手燈 NT$1,000 wbcp76 <$2K Kpop SKIP",
+    "source": "2026-05-25",
+    "skip": true
   }
 }
