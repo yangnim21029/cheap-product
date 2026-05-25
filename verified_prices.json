@@ -26161,6 +26161,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439900841": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Driver 輕巧戶外手沖咖啡便攜組 NT$2,299 cunyi_1688 niche 雜牌 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439900895": {
     "newPrice": null,
     "secondhand": null,
@@ -26174,5 +26181,18 @@
     "note": "hoi 日京山風香氛賦活洗髮露 500ml 標 NT$400,500 odeliagarden 異常標價 SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439901769": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MOZTECH 墨子萬能行動電源 Pro 10000mAh NT$950 miumiu.25 <$2K 行充 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439906733": {
+    "newPrice": 5990,
+    "secondhand": 5200,
+    "note": "Logitech G915 X LightSpeed 旗艦無線薄型機械鍵盤全新 PChome 新品 $5,990 二手全新未拆估 $5,200。$4,700 = 78% 新品 / 90% 二手 ⭐ 手動",
+    "source": "2026-05-25"
   }
 }

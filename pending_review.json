@@ -48,7 +48,7 @@
     },
     {
       "seller": "gentlegem_de2511",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "DjI magic mini",
       "price": 3800,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:22",
+      "listedAt": "05/25 14:17",
       "pid": "1439854653",
       "verified": {
         "newPrice": 7999,
@@ -81,7 +81,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:46",
+      "listedAt": "05/25 14:17",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -104,7 +104,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:46",
+      "listedAt": "05/25 16:17",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -142,7 +142,7 @@
   "negotiate": [
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Giant Defy 3 公路車 尺寸S",
       "price": 9500,
       "condition": "Lightly used",
@@ -152,7 +152,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:46",
+      "listedAt": "05/25 13:17",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -175,7 +175,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:46",
+      "listedAt": "05/25 14:17",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -185,6 +185,29 @@
       },
       "vsNew": 36,
       "vsSecondhand": 88
+    },
+    {
+      "seller": "wz1023",
+      "timeAgo": "1 minute ago",
+      "title": "台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤",
+      "price": 4700,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439906733/",
+      "category": "機械鍵盤",
+      "maxDays": 7,
+      "priceStr": "NT$4,700",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 18:16",
+      "pid": "1439906733",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": 5200,
+        "note": "Logitech G915 X LightSpeed 旗艦無線薄型機械鍵盤全新 PChome 新品 $5,990 二手全新未拆估 $5,200。$4,700 = 78% 新品 / 90% 二手 ⭐ 手動",
+        "source": "2026-05-25"
+      },
+      "vsNew": 78,
+      "vsSecondhand": 90
     }
   ],
   "uncertain": [
@@ -522,6 +545,26 @@
       },
       "vsNew": 80,
       "vsSecondhand": 113
+    },
+    {
+      "seller": "wz1023",
+      "timeAgo": "1 minute ago",
+      "title": "台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤",
+      "price": 4700,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439906733/",
+      "category": "機械鍵盤",
+      "maxDays": 3,
+      "pid": "1439906733",
+      "priceStr": "NT$4,700",
+      "verified": {
+        "newPrice": 5990,
+        "secondhand": 5200,
+        "note": "Logitech G915 X LightSpeed 旗艦無線薄型機械鍵盤全新 PChome 新品 $5,990 二手全新未拆估 $5,200。$4,700 = 78% 新品 / 90% 二手 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 78,
+      "vsSecondhand": 90
     }
   ]
 }
