@@ -58,7 +58,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439854653",
       "verified": {
         "newPrice": 7999,
@@ -81,7 +81,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "hijerry99",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭",
       "price": 5900,
       "condition": "Lightly used",
@@ -104,7 +104,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:17",
+      "listedAt": "05/25 16:18",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -127,7 +127,7 @@
       "priceStr": "NT$2,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:48",
+      "listedAt": "05/25 16:18",
       "pid": "1439881257",
       "verified": {
         "newPrice": 18000,
@@ -142,7 +142,7 @@
   "negotiate": [
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Giant Defy 3 公路車 尺寸S",
       "price": 9500,
       "condition": "Lightly used",
@@ -152,7 +152,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 13:18",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -175,7 +175,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -188,17 +188,17 @@
     },
     {
       "seller": "wz1023",
-      "timeAgo": "44 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤",
       "price": 4700,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1439906733/",
-      "category": "電腦科技",
-      "maxDays": 3,
+      "category": "機械鍵盤",
+      "maxDays": 7,
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 18:04",
+      "listedAt": "05/25 18:18",
       "pid": "1439906733",
       "verified": {
         "newPrice": 5990,
@@ -208,6 +208,29 @@
       },
       "vsNew": 78,
       "vsSecondhand": 90
+    },
+    {
+      "seller": "qwer26610122",
+      "timeAgo": "24 minutes ago",
+      "title": "出清！伊萊克斯空氣清淨機",
+      "price": 5990,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439914291/",
+      "category": "",
+      "maxDays": 1,
+      "priceStr": "NT$5,990",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 18:54",
+      "pid": "1439914291",
+      "verified": {
+        "newPrice": 6999,
+        "secondhand": 6999,
+        "note": "Electrolux 空清出清(型號不明) 新品 $1.2-17.9K 跨度大。$6,999 中段 ⭐ 手動 (需確認 PA91/Flow A3/A4 等)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 86,
+      "vsSecondhand": 86
     }
   ],
   "uncertain": [
@@ -567,6 +590,26 @@
       "vsNew": 78,
       "vsSecondhand": 90,
       "listedAt": "05/25 18:47"
+    },
+    {
+      "seller": "myukie0913",
+      "timeAgo": "28 minutes ago",
+      "title": "Canon 佳能 Powershot sx740 hs 相機 全新",
+      "price": 12000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439914300/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "pid": "1439914300",
+      "priceStr": "NT$12,000",
+      "verified": {
+        "newPrice": 13880,
+        "secondhand": 9000,
+        "note": "Canon SX740 HS 公司貨新品 PChome $13,880 二手 $9K。$12,000 = 86% 新品 (若真全新) / 133% 二手 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 86,
+      "vsSecondhand": 133
     }
   ]
 }

@@ -26133,6 +26133,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439896139": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "note": "Samsung NX1000 (2012 14年老入門微單) 二手 $2.5-4K。$9,000 = 257% 嚴重超行情",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439896875": {
     "newPrice": null,
     "secondhand": null,
@@ -26208,10 +26215,30 @@
     "note": "iPad Pro 12.9 第 6 代 (M2) 128G WiFi 銀 二手中位 $22-25K (BigGo $21.5K 起 Carousell $25K)。$22,000 = 94% 二手中位偏低 ⭐⭐⭐ 好貨",
     "source": "2026-05-25"
   },
+  "1439914189": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "芭比假日 2010 稀有款 NT$2,200 ddddooooo98 玩具收藏 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439914291": {
     "newPrice": 6999,
     "secondhand": 6999,
     "note": "Electrolux 空清出清(型號不明) 新品 $1.2-17.9K 跨度大。$6,999 中段 ⭐ 手動 (需確認 PA91/Flow A3/A4 等)",
     "source": "2026-05-25"
+  },
+  "1439914300": {
+    "newPrice": 13880,
+    "secondhand": 9000,
+    "note": "Canon SX740 HS 公司貨新品 PChome $13,880 二手 $9K。$12,000 = 86% 新品 (若真全新) / 133% 二手 ⭐ 手動",
+    "source": "2026-05-25"
+  },
+  "1439919391": {
+    "newPrice": 7490,
+    "secondhand": 5500,
+    "note": "N95 中國品牌 mini PC + 雙螢幕 (MOREFINE M8 等級) 新品 $7,490 二手 $5.5K。$6,800 = 124% 接近全新底價",
+    "source": "2026-05-25",
+    "skip": true
   }
 }

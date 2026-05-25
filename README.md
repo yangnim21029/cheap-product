@@ -1,8 +1,8 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/25 18:48:05 · 累積已看 10684 筆 · 110 位賣家黑名單
+> 2026/5/25 19:18:15 · 累積已看 10687 筆 · 110 位賣家黑名單
 
-**待審：** 好貨 6 ｜ 殺價 3 ｜ 手動 17 ｜ 待查 0
+**待審：** 好貨 6 ｜ 殺價 4 ｜ 手動 18 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
@@ -12,29 +12,31 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [喇叭] Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭 | **NT$5,900** | 新$11990 | 49% new | Lightly used | 05/25 16:17 | [→](https://tw.carousell.com/p/1439877171/) |
-| [投影機] Epson EB-530 超短焦投影機{附贈二件投影伺服器} | **NT$2,950** | 新$18000 | 16% new | Lightly used | 05/25 15:48 | [→](https://tw.carousell.com/p/1439881257/) |
+| [喇叭] Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭 | **NT$5,900** | 新$11990 | 49% new | Lightly used | 05/25 16:18 | [→](https://tw.carousell.com/p/1439877171/) |
+| [投影機] Epson EB-530 超短焦投影機{附贈二件投影伺服器} | **NT$2,950** | 新$18000 | 16% new | Lightly used | 05/25 16:18 | [→](https://tw.carousell.com/p/1439881257/) |
 | [運動戶外] Jetblack VOLT EMS V2 - Direct Drive Smart 超靜音 | **NT$6,000** | 新$18000 | 33% new | Lightly used | 05/25 14:52 | [→](https://tw.carousell.com/p/1439865463/) |
-| [dji] DjI magic mini | **NT$3,800** | 新$7999 | 48% new | Lightly used | 05/25 13:48 | [→](https://tw.carousell.com/p/1439854653/) |
-| [音響耳機] Yamaha SR-C20A 聲霸 | **NT$2,500** | 新$7199 | 35% new | Lightly used | 05/25 13:48 | [→](https://tw.carousell.com/p/1439858716/) |
+| [dji] DjI magic mini | **NT$3,800** | 新$7999 | 48% new | Lightly used | 05/25 14:18 | [→](https://tw.carousell.com/p/1439854653/) |
+| [音響耳機] Yamaha SR-C20A 聲霸 | **NT$2,500** | 新$7199 | 35% new | Lightly used | 05/25 14:18 | [→](https://tw.carousell.com/p/1439858716/) |
 | [運動戶外] Vivobarefoot MOTUS 女赤足鞋 39 | **NT$2,000** | 新$6880 | 29% new | Brand new | 05/25 13:23 | [→](https://tw.carousell.com/p/1439851671/) |
 
-## 🟡 殺價（3）
+## 🟡 殺價（4）
 
 > 價格已合理但還能再殺，看你殺得到嗎
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [電腦科技] 台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤 | **NT$4,700** | 新$5990 | 78% new | Brand new | 05/25 18:04 | [→](https://tw.carousell.com/p/1439906733/) |
-| [運動戶外] Giant Defy 3 公路車 尺寸S | **NT$9,500** | 新$15000 | 63% new | Lightly used | 05/25 13:48 | [→](https://tw.carousell.com/p/1439849388/) |
-| [電腦科技] SUNMI 商用 POS 機＋錢櫃 | **NT$7,000** | 新$19500 | 36% new | Like new | 05/25 13:48 | [→](https://tw.carousell.com/p/1439854993/) |
+| 出清！伊萊克斯空氣清淨機 | **NT$5,990** | 新$6999 | 86% new | Like new | 05/25 18:54 | [→](https://tw.carousell.com/p/1439914291/) |
+| [機械鍵盤] 台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤 | **NT$4,700** | 新$5990 | 78% new | Brand new | 05/25 18:18 | [→](https://tw.carousell.com/p/1439906733/) |
+| [電腦科技] SUNMI 商用 POS 機＋錢櫃 | **NT$7,000** | 新$19500 | 36% new | Like new | 05/25 14:18 | [→](https://tw.carousell.com/p/1439854993/) |
+| [運動戶外] Giant Defy 3 公路車 尺寸S | **NT$9,500** | 新$15000 | 63% new | Lightly used | 05/25 13:18 | [→](https://tw.carousell.com/p/1439849388/) |
 
-## 🟠 手動判斷（17）
+## 🟠 手動判斷（18）
 
 > 二手樣本不足或邊緣值，手動評估
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
+| [相機攝影] Canon 佳能 Powershot sx740 hs 相機 全新 | **NT$12,000** | 新$13880 | 86% new | Unknown | 05/25 18:50 | [→](https://tw.carousell.com/p/1439914300/) |
 | [機械鍵盤] 台中可面交全新 羅技 G915 X LightSpeed 旗艦無線薄型機械鍵盤 | **NT$4,700** | 新$5990 | 78% new | Unknown | 05/25 18:47 | [→](https://tw.carousell.com/p/1439906733/) |
 | [電腦科技] 出清！伊萊克斯空氣清淨機 | **NT$6,999** | 新$6999 | 100% new | Unknown | 05/25 18:46 | [→](https://tw.carousell.com/p/1439914291/) |
 | [音響耳機] 全新！ AirPods 4 主動式降噪款 | **NT$4,800** | 新$5990 | 80% new | Unknown | 05/25 17:53 | [→](https://tw.carousell.com/p/1439892230/) |
