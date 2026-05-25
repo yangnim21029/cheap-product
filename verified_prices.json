@@ -4571,6 +4571,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434022639": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "崖柏木關公雕像 NT$1,788 mark717210 <$2K 木雕 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1434052967": {
     "newPrice": null,
     "secondhand": null,
@@ -26344,5 +26351,30 @@
     "note": "民國 35 年伍圓老台幣 3 張 NT$1,200 tinaviggo <$2K 紀念幣 SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439929204": {
+    "newPrice": 17000,
+    "secondhand": 11000,
+    "note": "Sony RX100 m3 第三代 (2014 經典口袋) 蝦皮二手 $9.5-13.5K 中位 $11K。$13,500 = 122% 偏高",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439929920": {
+    "newPrice": 12000,
+    "secondhand": 8000,
+    "note": "Panasonic F-Y24GX 12L 一級能效 nanoeX 除濕機 新品 $12K 二手 $8K。$4,999 = 62% 二手 ⭐⭐⭐ 好貨",
+    "source": "2026-05-25"
+  },
+  "1439931141": {
+    "newPrice": 12000,
+    "secondhand": 7000,
+    "note": "AMD Ryzen 9 3900 OEM 12C24T (非 X) 二手 $5.9-9.4K 中位 $7K。$4,200 = 60% 二手 ⭐⭐⭐ 好貨",
+    "source": "2026-05-25"
+  },
+  "1439932501": {
+    "newPrice": 6490,
+    "secondhand": 4700,
+    "note": "Turtle Beach Stealth 700 Gen 3 新品 PChome $6,490 二手 $4.5-5K。$4,000 = 85% 二手 ⭐ 手動",
+    "source": "2026-05-25"
   }
 }
