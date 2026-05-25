@@ -33,6 +33,8 @@ const QUERIES = [
   { q: '磨豆機', min: 1500, max: 15000, maxDays: 7 },
   { q: '手沖', min: 500, max: 5000, maxDays: 7 },
   { q: '除濕機', min: 3000, max: 20000, maxDays: 7 },
+  { q: '22L 除濕機', min: 4000, max: 25000, maxDays: 7 }, // Rose 想找 22L 大坪數 2026-05-25
+  { q: '18L 除濕機', min: 4000, max: 20000, maxDays: 7 }, // Rose 想找 18L 大坪數 2026-05-25
   { q: 'dji', min: 2000, max: 25000, maxDays: 7 },
   { q: 'insta360', min: 2000, max: 25000, maxDays: 7 },
   { q: '果汁機', min: 500, max: 10000, maxDays: 7 },
