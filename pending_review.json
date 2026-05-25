@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "judy9956",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Vivobarefoot MOTUS 女赤足鞋 39",
       "price": 2000,
       "condition": "Brand new",
@@ -12,7 +12,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:47",
+      "listedAt": "05/25 13:23",
       "pid": "1439851671",
       "verified": {
         "newPrice": 6880,
@@ -71,17 +71,17 @@
     },
     {
       "seller": "kchang12750030",
-      "timeAgo": "3 minutes ago",
+      "timeAgo": "28 minutes ago",
       "title": "Jetblack VOLT EMS V2 - Direct Drive Smart 超靜音直軀式智能騎行台",
       "price": 6000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439865463/",
-      "category": "運動戶外",
-      "maxDays": 3,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:44",
+      "listedAt": "05/25 14:55",
       "pid": "1439865463",
       "verified": {
         "newPrice": 18000,
@@ -96,17 +96,17 @@
   "negotiate": [
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Giant Defy 3 公路車 尺寸S",
       "price": 9500,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439849388/",
-      "category": "",
-      "maxDays": 1,
+      "category": "運動戶外",
+      "maxDays": 3,
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:47",
+      "listedAt": "05/25 13:23",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -119,7 +119,7 @@
     },
     {
       "seller": "yanggyee",
-      "timeAgo": "50 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "SUNMI 商用 POS 機＋錢櫃",
       "price": 7000,
       "condition": "Like new",
@@ -129,7 +129,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:57",
+      "listedAt": "05/25 14:23",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -261,6 +261,66 @@
       },
       "vsNew": 41,
       "vsSecondhand": 100
+    },
+    {
+      "seller": "habo0206",
+      "timeAgo": "16 minutes ago",
+      "title": "KZM露營燈",
+      "price": 2000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439869649/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1439869649",
+      "priceStr": "NT$2,000",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "KZM 露營燈 (型號不明) NT$2,000 habo0206 — subagent overload 未驗, KZM 韓國露營品牌, 等 Rose 親看",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "rockaero1873",
+      "timeAgo": "3 minutes ago",
+      "title": "筆電記憶體 DDR4 16GB*2",
+      "price": 4100,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439872786/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439872786",
+      "priceStr": "NT$4,100",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "筆電 DDR4 16GBx2 (廠牌型號未指明) NT$4,100 rockaero1873 — subagent overload 未驗, 2025-2026 DRAM 大漲行情, 等 Rose 親看",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "qwt49970608",
+      "timeAgo": "9 minutes ago",
+      "title": "lenovo ideapad輕遊戲機（I5-8250u/8g/128ssd+1tb/mx150)",
+      "price": 5500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439871463/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439871463",
+      "priceStr": "NT$5,500",
+      "verified": {
+        "newPrice": null,
+        "secondhand": null,
+        "note": "Lenovo IdeaPad i5-8250U/8G/128SSD+1TB/MX150 (2018 老筆電) NT$5,500 qwt49970608 — subagent overload 未驗, 規格已 8 年, 等 Rose 親看",
+        "source": "manual_inject_web"
+      },
+      "vsNew": null,
+      "vsSecondhand": null
     }
   ]
 }
