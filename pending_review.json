@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "judy9956",
-      "timeAgo": "44 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Vivobarefoot MOTUS 女赤足鞋 39",
       "price": 2000,
       "condition": "Brand new",
@@ -12,7 +12,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:34",
+      "listedAt": "05/25 13:47",
       "pid": "1439851671",
       "verified": {
         "newPrice": 6880,
@@ -48,7 +48,7 @@
     },
     {
       "seller": "ycc015",
-      "timeAgo": "4 minutes ago",
+      "timeAgo": "34 minutes ago",
       "title": "Yamaha SR-C20A 聲霸",
       "price": 2500,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:14",
+      "listedAt": "05/25 14:13",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -68,22 +68,45 @@
       },
       "vsNew": 35,
       "vsSecondhand": 42
+    },
+    {
+      "seller": "kchang12750030",
+      "timeAgo": "3 minutes ago",
+      "title": "Jetblack VOLT EMS V2 - Direct Drive Smart 超靜音直軀式智能騎行台",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439865463/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 14:44",
+      "pid": "1439865463",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 12000,
+        "note": "Jetblack VOLT EMS V2 直軀式智能騎行台 新品 HK$3,999-5,300 (~NT$16-22K)。$6,000 = 33% 新品 ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 33,
+      "vsSecondhand": 50
     }
   ],
   "negotiate": [
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "57 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Giant Defy 3 公路車 尺寸S",
       "price": 9500,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1439849388/",
-      "category": "運動戶外",
-      "maxDays": 3,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:21",
+      "listedAt": "05/25 13:47",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -96,17 +119,17 @@
     },
     {
       "seller": "yanggyee",
-      "timeAgo": "27 minutes ago",
+      "timeAgo": "50 minutes ago",
       "title": "SUNMI 商用 POS 機＋錢櫃",
       "price": 7000,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1439854993/",
-      "category": "電腦科技",
-      "maxDays": 3,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:51",
+      "listedAt": "05/25 13:57",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -198,6 +221,46 @@
       },
       "vsNew": 36,
       "vsSecondhand": 88
+    },
+    {
+      "seller": "luckyearth-9de3",
+      "timeAgo": "7 minutes ago",
+      "title": "PS4",
+      "price": 3000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439864458/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439864458",
+      "priceStr": "NT$3,000",
+      "verified": {
+        "newPrice": 7980,
+        "secondhand": 3000,
+        "note": "PS4 規格未指明 Slim 500G 二手 $2.5-3.5K。$3,000 = 100% 中位 ⭐ 手動 (同賣家兩台主機疑商家)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 100
+    },
+    {
+      "seller": "luckyearth-9de3",
+      "timeAgo": "10 minutes ago",
+      "title": "Switch",
+      "price": 4000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439863993/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439863993",
+      "priceStr": "NT$4,000",
+      "verified": {
+        "newPrice": 9780,
+        "secondhand": 4000,
+        "note": "Switch 一般版二手中位 $3.7-4.5K。$4,000 = 100% ⭐ 手動 (Rose 關注但規格未指明)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 41,
+      "vsSecondhand": 100
     }
   ]
 }
