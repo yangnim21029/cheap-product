@@ -81,7 +81,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -104,7 +104,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:48",
+      "listedAt": "05/25 16:18",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -114,6 +114,29 @@
       },
       "vsNew": 49,
       "vsSecondhand": 69
+    },
+    {
+      "seller": "luffy0276",
+      "timeAgo": "1 hour ago",
+      "title": "SAMSUNG 三星第2代 The Freestyle 微型智 慧投影機",
+      "price": 6200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439924628/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$6,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 20:18",
+      "pid": "1439924628",
+      "verified": {
+        "newPrice": 28900,
+        "secondhand": 18000,
+        "note": "Samsung Freestyle 2 微投 二手蝦皮 $14.2-22K 中位 $18K。$6,200 = 35% 二手 ⭐⭐⭐ 好貨 (比上輪 Toyota 贈品 $7,900 更便宜)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 21,
+      "vsSecondhand": 34
     },
     {
       "seller": "unisunp",
@@ -127,7 +150,7 @@
       "priceStr": "NT$2,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 15:48",
+      "listedAt": "05/25 16:18",
       "pid": "1439881257",
       "verified": {
         "newPrice": 18000,
@@ -137,6 +160,29 @@
       },
       "vsNew": 16,
       "vsSecondhand": 118
+    },
+    {
+      "seller": "nobody_aka",
+      "timeAgo": "51 minutes ago",
+      "title": "AMD R9 3900 12核24緒 CPU Ryzen 9 ( 非 R9 3900X)",
+      "price": 4200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439931141/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 20:27",
+      "pid": "1439931141",
+      "verified": {
+        "newPrice": 12000,
+        "secondhand": 7000,
+        "note": "AMD Ryzen 9 3900 OEM 12C24T (非 X) 二手 $5.9-9.4K 中位 $7K。$4,200 = 60% 二手 ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 60
     },
     {
       "seller": "usedto34",
@@ -150,7 +196,7 @@
       "priceStr": "NT$9,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 18:48",
+      "listedAt": "05/25 19:18",
       "pid": "1439917208",
       "verified": {
         "newPrice": 30000,
@@ -162,31 +208,31 @@
       "vsSecondhand": 75
     },
     {
-      "seller": "luffy0276",
-      "timeAgo": "40 minutes ago",
-      "title": "SAMSUNG 三星第2代 The Freestyle 微型智 慧投影機",
-      "price": 6200,
+      "seller": "you2bepremium",
+      "timeAgo": "10 minutes ago",
+      "title": "HP EliteBook 840 G7 14吋商務筆電 (i7-10610U/32G/1TB SSD)",
+      "price": 11500,
       "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439924628/",
-      "category": "投影機",
-      "maxDays": 5,
-      "priceStr": "NT$6,200",
+      "url": "https://tw.carousell.com/p/1439938580/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$11,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:08",
-      "pid": "1439924628",
+      "listedAt": "05/25 21:08",
+      "pid": "1439938580",
       "verified": {
-        "newPrice": 28900,
-        "secondhand": 18000,
-        "note": "Samsung Freestyle 2 微投 二手蝦皮 $14.2-22K 中位 $18K。$6,200 = 35% 二手 ⭐⭐⭐ 好貨 (比上輪 Toyota 贈品 $7,900 更便宜)",
+        "newPrice": 45000,
+        "secondhand": 12000,
+        "note": "HP EliteBook 840 G7 i7-10610U/32G/1TB 商務 二手 $10-13K。$11,500 = 96% 二手中位 ⭐ 手動 (確認電池循環/外觀)",
         "source": "2026-05-25"
       },
-      "vsNew": 21,
-      "vsSecondhand": 34
+      "vsNew": 26,
+      "vsSecondhand": 96
     },
     {
       "seller": "akito_jr",
-      "timeAgo": "57 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "SONY 索尼 PS5 DualSense 30 週年紀念 原廠無線控制器 CFI-ZCT1G",
       "price": 2550,
       "condition": "Brand new",
@@ -196,7 +242,7 @@
       "priceStr": "NT$2,550",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:51",
+      "listedAt": "05/25 20:18",
       "pid": "1439924833",
       "verified": {
         "newPrice": 2480,
@@ -206,6 +252,29 @@
       },
       "vsNew": 103,
       "vsSecondhand": 57
+    },
+    {
+      "seller": "welly62677736",
+      "timeAgo": "3 minutes ago",
+      "title": "SONY PS4 PRO 主機+手把+5片遊戲",
+      "price": 3500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439939485/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 21:15",
+      "pid": "1439939485",
+      "verified": {
+        "newPrice": 13880,
+        "secondhand": 5500,
+        "note": "SONY PS4 Pro 1TB+手把+5 片遊戲 二手主機 $4.5-5.5K + 遊戲 $1-1.5K。$3,500 = 60% 合理價 ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 25,
+      "vsSecondhand": 64
     },
     {
       "seller": "zxc794622",
@@ -229,32 +298,32 @@
       },
       "vsNew": 42,
       "vsSecondhand": 62
-    },
-    {
-      "seller": "nobody_aka",
-      "timeAgo": "22 minutes ago",
-      "title": "AMD R9 3900 12核24緒 CPU Ryzen 9 ( 非 R9 3900X)",
-      "price": 4200,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439931141/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$4,200",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 20:26",
-      "pid": "1439931141",
-      "verified": {
-        "newPrice": 12000,
-        "secondhand": 7000,
-        "note": "AMD Ryzen 9 3900 OEM 12C24T (非 X) 二手 $5.9-9.4K 中位 $7K。$4,200 = 60% 二手 ⭐⭐⭐ 好貨",
-        "source": "2026-05-25"
-      },
-      "vsNew": 35,
-      "vsSecondhand": 60
     }
   ],
   "negotiate": [
+    {
+      "seller": "swifttiger_20997b",
+      "timeAgo": "1 hour ago",
+      "title": "全新未拆 OSIM uZap Tummy 小腹機 OS-9230 塑腹震動按摩帶（附原廠盒裝）⁠",
+      "price": 4500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439926094/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 20:18",
+      "pid": "1439926094",
+      "verified": {
+        "newPrice": 6980,
+        "secondhand": 5500,
+        "note": "OSIM uZap Tummy OS-9230 全新未拆 momo $2.68-6.98K。$4,500 = 82% 典型新品 ⭐ 手動 (邊緣確認盒裝)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 82
+    },
     {
       "seller": "Poseidon_Nomad",
       "timeAgo": "6 hours ago",
@@ -279,6 +348,75 @@
       "vsSecondhand": 86
     },
     {
+      "seller": "quickwhale_554e2e",
+      "timeAgo": "14 minutes ago",
+      "title": "Prologo SCRATCH M5 Nack 碳弓",
+      "price": 4000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439937763/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 21:04",
+      "pid": "1439937763",
+      "verified": {
+        "newPrice": 7000,
+        "secondhand": 4500,
+        "note": "Prologo Scratch M5 Nack 碳弓座墊 新品 $6.8-7.5K (鈦弓 $5.8K)。$4,000 = 57% 新品 / 88% 二手 ⭐⭐ 殺價",
+        "source": "2026-05-25"
+      },
+      "vsNew": 57,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "epicwater.055d0b",
+      "timeAgo": "2 hours ago",
+      "title": "Lenovo Thinkbook 16p G2 (16G/512G、r7-5800H+RTX3060)",
+      "price": 14500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439920828/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$14,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 19:18",
+      "pid": "1439920828",
+      "verified": {
+        "newPrice": 40000,
+        "secondhand": 19000,
+        "note": "Lenovo ThinkBook 16p G2 R7-5800H/16G/512G/RTX 3060 (2021) 二手 $18-20K。$14,500 = 76% ⭐⭐ 殺價",
+        "source": "2026-05-25"
+      },
+      "vsNew": 36,
+      "vsSecondhand": 76
+    },
+    {
+      "seller": "qwer26610122",
+      "timeAgo": "3 hours ago",
+      "title": "出清！伊萊克斯空氣清淨機",
+      "price": 5990,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439914291/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$5,990",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 18:18",
+      "pid": "1439914291",
+      "verified": {
+        "newPrice": 6999,
+        "secondhand": 6999,
+        "note": "Electrolux 空清出清(型號不明) 新品 $1.2-17.9K 跨度大。$6,999 中段 ⭐ 手動 (需確認 PA91/Flow A3/A4 等)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 86,
+      "vsSecondhand": 86
+    },
+    {
       "seller": "yanggyee",
       "timeAgo": "7 hours ago",
       "title": "SUNMI 商用 POS 機＋錢櫃",
@@ -290,7 +428,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:48",
+      "listedAt": "05/25 14:18",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -313,7 +451,7 @@
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 17:48",
+      "listedAt": "05/25 18:18",
       "pid": "1439906733",
       "verified": {
         "newPrice": 5990,
@@ -323,29 +461,6 @@
       },
       "vsNew": 78,
       "vsSecondhand": 90
-    },
-    {
-      "seller": "qwer26610122",
-      "timeAgo": "2 hours ago",
-      "title": "出清！伊萊克斯空氣清淨機",
-      "price": 5990,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439914291/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$5,990",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 18:48",
-      "pid": "1439914291",
-      "verified": {
-        "newPrice": 6999,
-        "secondhand": 6999,
-        "note": "Electrolux 空清出清(型號不明) 新品 $1.2-17.9K 跨度大。$6,999 中段 ⭐ 手動 (需確認 PA91/Flow A3/A4 等)",
-        "source": "2026-05-25"
-      },
-      "vsNew": 86,
-      "vsSecondhand": 86
     },
     {
       "seller": "luffy0276",
@@ -371,31 +486,8 @@
       "vsSecondhand": 76
     },
     {
-      "seller": "epicwater.055d0b",
-      "timeAgo": "1 hour ago",
-      "title": "Lenovo Thinkbook 16p G2 (16G/512G、r7-5800H+RTX3060)",
-      "price": 14500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1439920828/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$14,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 19:48",
-      "pid": "1439920828",
-      "verified": {
-        "newPrice": 40000,
-        "secondhand": 19000,
-        "note": "Lenovo ThinkBook 16p G2 R7-5800H/16G/512G/RTX 3060 (2021) 二手 $18-20K。$14,500 = 76% ⭐⭐ 殺價",
-        "source": "2026-05-25"
-      },
-      "vsNew": 36,
-      "vsSecondhand": 76
-    },
-    {
       "seller": "boss10111",
-      "timeAgo": "35 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Edifier Stax Spirit S3 耳罩式耳機 藍芽耳機",
       "price": 3500,
       "condition": "Like new",
@@ -405,7 +497,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 20:13",
+      "listedAt": "05/25 20:18",
       "pid": "1439928248",
       "verified": {
         "newPrice": 9990,
@@ -418,7 +510,7 @@
     },
     {
       "seller": "twohand676",
-      "timeAgo": "57 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Marshall Emberton iii",
       "price": 4000,
       "condition": "Brand new",
@@ -428,7 +520,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 19:51",
+      "listedAt": "05/25 20:18",
       "pid": "1439924518",
       "verified": {
         "newPrice": 6490,
@@ -440,31 +532,8 @@
       "vsSecondhand": 85
     },
     {
-      "seller": "swifttiger_20997b",
-      "timeAgo": "51 minutes ago",
-      "title": "全新未拆 OSIM uZap Tummy 小腹機 OS-9230 塑腹震動按摩帶（附原廠盒裝）⁠",
-      "price": 4500,
-      "condition": "Brand new",
-      "url": "https://tw.carousell.com/p/1439926094/",
-      "category": "運動戶外",
-      "maxDays": 3,
-      "priceStr": "NT$4,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/25 19:57",
-      "pid": "1439926094",
-      "verified": {
-        "newPrice": 6980,
-        "secondhand": 5500,
-        "note": "OSIM uZap Tummy OS-9230 全新未拆 momo $2.68-6.98K。$4,500 = 82% 典型新品 ⭐ 手動 (邊緣確認盒裝)",
-        "source": "2026-05-25"
-      },
-      "vsNew": 64,
-      "vsSecondhand": 82
-    },
-    {
       "seller": "boss10111",
-      "timeAgo": "10 minutes ago",
+      "timeAgo": "40 minutes ago",
       "title": "Turtle Beach Stealth 700 Gen 3 耳罩式耳機 耳麥",
       "price": 4000,
       "condition": "Like new",
@@ -484,9 +553,53 @@
       },
       "vsNew": 62,
       "vsSecondhand": 85
+    },
+    {
+      "seller": "no.61",
+      "timeAgo": "8 minutes ago",
+      "title": "Bose Companion 5 (C5) 多媒體電腦喇叭 5.1虛擬環繞",
+      "price": 7500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439935711/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$7,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 21:10",
+      "pid": "1439935711",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 8500,
+        "note": "Bose Companion 5 (已停產經典) 二手 $5.5-12K 中位 $8.5K。$7,500 = 88% 二手中位 ⭐ 手動",
+        "source": "2026-05-25"
+      },
+      "vsNew": 42,
+      "vsSecondhand": 88
     }
   ],
   "uncertain": [
+    {
+      "seller": "boss10111",
+      "timeAgo": "10 minutes ago",
+      "title": "Turtle Beach Stealth 700 Gen 3 耳罩式耳機 耳麥",
+      "price": 4000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439932501/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439932501",
+      "priceStr": "NT$4,000",
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 4700,
+        "note": "Turtle Beach Stealth 700 Gen 3 新品 PChome $6,490 二手 $4.5-5K。$4,000 = 85% 二手 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 85,
+      "listedAt": "05/25 21:08"
+    },
     {
       "seller": "yn.ccc",
       "timeAgo": "54 minutes ago",
@@ -507,6 +620,27 @@
       "vsNew": 88,
       "vsSecondhand": 100,
       "listedAt": "05/25 16:28"
+    },
+    {
+      "seller": "ming_xxx",
+      "timeAgo": "26 minutes ago",
+      "title": "Apple原廠AirPods4 全新",
+      "price": 3500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439935084/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "pid": "1439935084",
+      "priceStr": "NT$3,500",
+      "verified": {
+        "newPrice": 4290,
+        "secondhand": 3200,
+        "note": "AirPods 4 全新 (版本不明) 無降噪台灣官 $4,290。$3,500 = 82% (無降噪) / 58% (降噪疑仿) ⭐ 手動 (確認版本+序號)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 82,
+      "vsSecondhand": 109,
+      "listedAt": "05/25 20:52"
     },
     {
       "seller": "lovenico888",
@@ -549,6 +683,27 @@
       "vsNew": 36,
       "vsSecondhand": 88,
       "listedAt": "05/25 16:55"
+    },
+    {
+      "seller": "you2bepremium",
+      "timeAgo": "10 minutes ago",
+      "title": "HP EliteBook 840 G7 14吋商務筆電 (i7-10610U/32G/1TB SSD)",
+      "price": 11500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439938580/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439938580",
+      "priceStr": "NT$11,500",
+      "verified": {
+        "newPrice": 45000,
+        "secondhand": 12000,
+        "note": "HP EliteBook 840 G7 i7-10610U/32G/1TB 商務 二手 $10-13K。$11,500 = 96% 二手中位 ⭐ 手動 (確認電池循環/外觀)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 26,
+      "vsSecondhand": 96,
+      "listedAt": "05/25 21:08"
     },
     {
       "seller": "siegfried3999",
@@ -614,27 +769,6 @@
       "listedAt": "05/25 17:06"
     },
     {
-      "seller": "silverwolf-9af8",
-      "timeAgo": "20 minutes ago",
-      "title": "U1-R",
-      "price": 4888,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439850606/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "pid": "1439850606",
-      "priceStr": "NT$4,888",
-      "verified": {
-        "newPrice": null,
-        "secondhand": null,
-        "note": "U1-R 型號不明 搜尋無對應產品 NT$4,888 ⭐ 手動 (需問實機)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": null,
-      "vsSecondhand": null,
-      "listedAt": "05/25 17:02"
-    },
-    {
       "seller": "gentlegem_de2511",
       "timeAgo": "14 minutes ago",
       "title": "DjI magic mini",
@@ -654,6 +788,27 @@
       "vsNew": 48,
       "vsSecondhand": 52,
       "listedAt": "05/25 17:08"
+    },
+    {
+      "seller": "akito_jr",
+      "timeAgo": "28 minutes ago",
+      "title": "SONY 索尼 PS5 DualSense 30 週年紀念 原廠無線控制器 CFI-ZCT1G",
+      "price": 2550,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439924833/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "pid": "1439924833",
+      "priceStr": "NT$2,550",
+      "verified": {
+        "newPrice": 2480,
+        "secondhand": 4500,
+        "note": "DualSense 30 週年絕版限量 二級市場 $4-5K。$2,550 = 57% ≥$2K ⭐ 手動 (確認真偽絕版品)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 103,
+      "vsSecondhand": 57,
+      "listedAt": "05/25 20:50"
     },
     {
       "seller": "luckyearth-9de3",
@@ -719,6 +874,27 @@
       "listedAt": "05/25 17:06"
     },
     {
+      "seller": "swifttiger_20997b",
+      "timeAgo": "21 minutes ago",
+      "title": "全新未拆 OSIM uZap Tummy 小腹機 OS-9230 塑腹震動按摩帶（附原廠盒裝）⁠",
+      "price": 4500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439926094/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "pid": "1439926094",
+      "priceStr": "NT$4,500",
+      "verified": {
+        "newPrice": 6980,
+        "secondhand": 5500,
+        "note": "OSIM uZap Tummy OS-9230 全新未拆 momo $2.68-6.98K。$4,500 = 82% 典型新品 ⭐ 手動 (邊緣確認盒裝)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 82,
+      "listedAt": "05/25 20:57"
+    },
+    {
       "seller": "habo0206",
       "timeAgo": "16 minutes ago",
       "title": "KZM露營燈",
@@ -738,6 +914,27 @@
       "vsNew": null,
       "vsSecondhand": null,
       "listedAt": "05/25 17:06"
+    },
+    {
+      "seller": "no.61",
+      "timeAgo": "8 minutes ago",
+      "title": "Bose Companion 5 (C5) 多媒體電腦喇叭 5.1虛擬環繞",
+      "price": 7500,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439935711/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "pid": "1439935711",
+      "priceStr": "NT$7,500",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 8500,
+        "note": "Bose Companion 5 (已停產經典) 二手 $5.5-12K 中位 $8.5K。$7,500 = 88% 二手中位 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 42,
+      "vsSecondhand": 88,
+      "listedAt": "05/25 21:10"
     },
     {
       "seller": "johnny64",
@@ -862,67 +1059,8 @@
         "source": "manual_inject_web"
       },
       "vsNew": 86,
-      "vsSecondhand": 133
-    },
-    {
-      "seller": "akito_jr",
-      "timeAgo": "28 minutes ago",
-      "title": "SONY 索尼 PS5 DualSense 30 週年紀念 原廠無線控制器 CFI-ZCT1G",
-      "price": 2550,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439924833/",
-      "category": "電玩主機",
-      "maxDays": 3,
-      "pid": "1439924833",
-      "priceStr": "NT$2,550",
-      "verified": {
-        "newPrice": 2480,
-        "secondhand": 4500,
-        "note": "DualSense 30 週年絕版限量 二級市場 $4-5K。$2,550 = 57% ≥$2K ⭐ 手動 (確認真偽絕版品)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 103,
-      "vsSecondhand": 57
-    },
-    {
-      "seller": "swifttiger_20997b",
-      "timeAgo": "21 minutes ago",
-      "title": "全新未拆 OSIM uZap Tummy 小腹機 OS-9230 塑腹震動按摩帶（附原廠盒裝）⁠",
-      "price": 4500,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439926094/",
-      "category": "運動戶外",
-      "maxDays": 3,
-      "pid": "1439926094",
-      "priceStr": "NT$4,500",
-      "verified": {
-        "newPrice": 6980,
-        "secondhand": 5500,
-        "note": "OSIM uZap Tummy OS-9230 全新未拆 momo $2.68-6.98K。$4,500 = 82% 典型新品 ⭐ 手動 (邊緣確認盒裝)",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 64,
-      "vsSecondhand": 82
-    },
-    {
-      "seller": "boss10111",
-      "timeAgo": "10 minutes ago",
-      "title": "Turtle Beach Stealth 700 Gen 3 耳罩式耳機 耳麥",
-      "price": 4000,
-      "condition": "Unknown",
-      "url": "https://tw.carousell.com/p/1439932501/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "pid": "1439932501",
-      "priceStr": "NT$4,000",
-      "verified": {
-        "newPrice": 6490,
-        "secondhand": 4700,
-        "note": "Turtle Beach Stealth 700 Gen 3 新品 PChome $6,490 二手 $4.5-5K。$4,000 = 85% 二手 ⭐ 手動",
-        "source": "manual_inject_web"
-      },
-      "vsNew": 62,
-      "vsSecondhand": 85
+      "vsSecondhand": 133,
+      "listedAt": "05/25 20:50"
     }
   ]
 }
