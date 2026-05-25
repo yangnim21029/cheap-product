@@ -17509,6 +17509,13 @@
     "note": "Patrol 99 SKIP: 三星原廠 20,000mAh 45W 快充行動電源 (有購買證明) 可換物 achu7878",
     "source": "manual_skip"
   },
+  "1438728672": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Itfit 磁吸 10000mAh 行充 NT$500 janlulu6 <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1438732522": {
     "newPrice": 5490,
     "secondhand": 3000,
@@ -25973,6 +25980,13 @@
     "note": "Harman Kardon SoundSticks 4 水母藍牙喇叭 全新 $10,990-12,990 二手中位估 $8.5K (取上區間)。$5,900 = 69% 二手 / 49% 新品 ⭐⭐⭐ 好貨",
     "source": "2026-05-25"
   },
+  "1439878347": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "IRIS OHYAMA PCF-HD15 6 吋循環扇 NT$690 summer_makeup_always <$2K SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
   "1439878368": {
     "newPrice": null,
     "secondhand": null,
@@ -26007,10 +26021,50 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439881257": {
+    "newPrice": 18000,
+    "secondhand": 2500,
+    "note": "Epson EB-530 2014 停產短焦商教機 二手 $1.8-3.5K 中位 $2.5K。$2,950 ≈ 98% 中位 ⭐ 手動 (確認燈時)",
+    "source": "2026-05-25"
+  },
   "1439881527": {
     "newPrice": null,
     "secondhand": null,
     "note": "Day6 官方手燈 NT$1,000 wbcp76 <$2K Kpop SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439882618": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Fujifilm Mini 12 拍立得 NT$3,800 coer000 — 已多次驗過二手 $2.2K $3,800 = 173% 偏高 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439884912": {
+    "newPrice": 29900,
+    "secondhand": 8500,
+    "note": "iPad Pro 12.9 64G 太空灰 9 成新 代數不明 (1-3 代差異大: 1代 $5-7K, 2代 $7-9K, 3代 $10-13K)。$11,000 僅符合 3 代行情 ⭐ 手動 (確認代數)",
+    "source": "2026-05-25"
+  },
+  "1439885287": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "雅詩蘭黛雋永工藝漫舞櫻花淡香精 40ml NT$850 1999___ <$2K 香水 SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439885844": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Nmixx 吳海嫄小卡 NT$1,100 wbcp76 <$2K Kpop SKIP",
+    "source": "2026-05-25",
+    "skip": true
+  },
+  "1439888826": {
+    "newPrice": 34999,
+    "secondhand": 12000,
+    "note": "HP Pavilion Gaming 15-ec0083ax R7-3750H/GTX 1660Ti/16G/512G (2020 6 年舊) 二手 $10-13K。$14,500 高於行情上緣",
     "source": "2026-05-25",
     "skip": true
   }

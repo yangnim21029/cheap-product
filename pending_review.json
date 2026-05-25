@@ -48,7 +48,7 @@
     },
     {
       "seller": "ycc015",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Yamaha SR-C20A 聲霸",
       "price": 2500,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:22",
+      "listedAt": "05/25 13:47",
       "pid": "1439858716",
       "verified": {
         "newPrice": 7199,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "hijerry99",
-      "timeAgo": "21 minutes ago",
+      "timeAgo": "51 minutes ago",
       "title": "Harman Kardon 哈曼卡頓SoundSticks 4 水母藍牙喇叭",
       "price": 5900,
       "condition": "Lightly used",
@@ -104,7 +104,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:01",
+      "listedAt": "05/25 15:56",
       "pid": "1439877171",
       "verified": {
         "newPrice": 11990,
@@ -114,6 +114,29 @@
       },
       "vsNew": 49,
       "vsSecondhand": 69
+    },
+    {
+      "seller": "unisunp",
+      "timeAgo": "32 minutes ago",
+      "title": "Epson EB-530 超短焦投影機{附贈二件投影伺服器}",
+      "price": 2950,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439881257/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$2,950",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 16:15",
+      "pid": "1439881257",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 2500,
+        "note": "Epson EB-530 2014 停產短焦商教機 二手 $1.8-3.5K 中位 $2.5K。$2,950 ≈ 98% 中位 ⭐ 手動 (確認燈時)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 16,
+      "vsSecondhand": 118
     }
   ],
   "negotiate": [
@@ -129,7 +152,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:22",
+      "listedAt": "05/25 13:47",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -142,7 +165,7 @@
     },
     {
       "seller": "yanggyee",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "SUNMI 商用 POS 機＋錢櫃",
       "price": 7000,
       "condition": "Like new",
@@ -152,7 +175,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 14:22",
+      "listedAt": "05/25 13:47",
       "pid": "1439854993",
       "verified": {
         "newPrice": 19500,
@@ -384,6 +407,46 @@
       },
       "vsNew": 100,
       "vsSecondhand": 144
+    },
+    {
+      "seller": "unisunp",
+      "timeAgo": "32 minutes ago",
+      "title": "Epson EB-530 超短焦投影機{附贈二件投影伺服器}",
+      "price": 2950,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439881257/",
+      "category": "投影機",
+      "maxDays": 3,
+      "pid": "1439881257",
+      "priceStr": "NT$2,950",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 2500,
+        "note": "Epson EB-530 2014 停產短焦商教機 二手 $1.8-3.5K 中位 $2.5K。$2,950 ≈ 98% 中位 ⭐ 手動 (確認燈時)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 16,
+      "vsSecondhand": 118
+    },
+    {
+      "seller": "justin94825",
+      "timeAgo": "22 minutes ago",
+      "title": "iPad Pro 12.9 64g 太空灰 9成新 南部可面交寄送幫送 美術館工作室",
+      "price": 11000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439884912/",
+      "category": "iPad",
+      "maxDays": 3,
+      "pid": "1439884912",
+      "priceStr": "NT$11,000",
+      "verified": {
+        "newPrice": 29900,
+        "secondhand": 8500,
+        "note": "iPad Pro 12.9 64G 太空灰 9 成新 代數不明 (1-3 代差異大: 1代 $5-7K, 2代 $7-9K, 3代 $10-13K)。$11,000 僅符合 3 代行情 ⭐ 手動 (確認代數)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 37,
+      "vsSecondhand": 129
     }
   ]
 }
