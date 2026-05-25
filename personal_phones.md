@@ -1,40 +1,43 @@
 # 個人賣家手機/平板
 
-> 更新時間 2026/05/25 13:48 · 共 63 筆 (從 138 筆手機相關剔除店家/批量/高頻賣家)
+> 更新時間 2026/05/25 14:18 · 共 64 筆 (從 138 筆手機相關剔除店家/批量/高頻賣家)
 
 **過濾規則：** 排除 sellers.shops + overpriced + resellers + 本輪 ≥5 筆同賣家 + 名字含 shop/3c/通訊/實體 etc.
 
 | 品項 | 價格 | 賣家 (本輪筆數) | 上架 |  |
 |------|------|------|------|--|
-| [運動戶外] Vivobarefoot MOTUS 女赤足鞋 39 | **NT$2,000** | judy9956  | 14 minutes ago | [→](https://tw.carousell.com/p/1439851671/) |
-| [iPad] ipad mini6 lte 256G | **NT$13,000** | rockdragon  | 36 minutes ago | [→](https://tw.carousell.com/p/1439846108/) |
-| [手機平板] 💰 【小花手錶】💰 庫存新品APPLE WATCH S6 40mm 銀現貨供應 保固安心！ | **NT$4,500** | 800.tw (2) | 43 minutes ago | [→](https://tw.carousell.com/p/1439845961/) |
-| [手機平板] 手機掛片（套出） | **NT$3,600** | newone0801  | 46 minutes ago | [→](https://tw.carousell.com/p/1439845347/) |
-| [手機平板] iPhone 13 Pro 天鋒藍 256G，臉部辨識故障 | **NT$3,000** | tgtst0926403741  | 1 hour ago | [→](https://tw.carousell.com/p/1439838096/) |
-| [手機平板] iPhone 12 pro 256g | **NT$5,000** | yuan0622  | 3 hours ago | [→](https://tw.carousell.com/p/1439820237/) |
-| [手機平板] Amazon Kindle 電子書閱讀器｜近全新｜正常使用 | **NT$2,380** | micrayber58338  | 5 hours ago | [→](https://tw.carousell.com/p/1439808436/) |
-| [手機平板] vivo Y29s 5G (6G/128G) 6.74吋 防水 8核心 Android智慧型手機-青 | **NT$4,200** | chou6321  | 7 hours ago | [→](https://tw.carousell.com/p/1439802891/) |
+| [手機平板] 陸版vivo x90，，8g+256g | **NT$3,500** | hms60815  | 16 minutes ago | [→](https://tw.carousell.com/p/1439856188/) |
+| [手機平板] Samsung Galaxy S21 5G 8/256G 灰 | **NT$4,500** | evanyoo (2) | 21 minutes ago | [→](https://tw.carousell.com/p/1439855142/) |
+| [手機平板] iPhone SE2 128G 黑 | **NT$4,000** | evanyoo (2) | 29 minutes ago | [→](https://tw.carousell.com/p/1439853671/) |
+| [運動戶外] Vivobarefoot MOTUS 女赤足鞋 39 | **NT$2,000** | judy9956  | 44 minutes ago | [→](https://tw.carousell.com/p/1439851671/) |
+| [iPad] ipad mini6 lte 256G | **NT$13,000** | rockdragon  | 1 hour ago | [→](https://tw.carousell.com/p/1439846108/) |
+| [手機平板] 💰 【小花手錶】💰 庫存新品APPLE WATCH S6 40mm 銀現貨供應 保固安心！ | **NT$4,500** | 800.tw (2) | 1 hour ago | [→](https://tw.carousell.com/p/1439845961/) |
+| [手機平板] 手機掛片（套出） | **NT$3,600** | newone0801  | 1 hour ago | [→](https://tw.carousell.com/p/1439845347/) |
+| [手機平板] iPhone 13 Pro 天鋒藍 256G，臉部辨識故障 | **NT$3,000** | tgtst0926403741  | 2 hours ago | [→](https://tw.carousell.com/p/1439838096/) |
+| [手機平板] Amazon Kindle 電子書閱讀器｜近全新｜正常使用 | **NT$2,380** | micrayber58338  | 6 hours ago | [→](https://tw.carousell.com/p/1439808436/) |
+| [手機平板] vivo Y29s 5G (6G/128G) 6.74吋 防水 8核心 Android智慧型手機-青 | **NT$4,200** | chou6321  | 8 hours ago | [→](https://tw.carousell.com/p/1439802891/) |
 | [手機平板] Apple watch s6 40mm GPS (整修品）全新 | **NT$4,200** | starck225  | 11 hours ago | [→](https://tw.carousell.com/p/1436835290/) |
-| [手機平板] Asus ZenFone 6 8G/256G | **NT$3,500** | booona7575  | 11 hours ago | [→](https://tw.carousell.com/p/1439795193/) |
 | [iPad] (近全新100%🔋 )APPLE iPad Pro M2 11”128G WIFI A2759 第 | **NT$23,000** | catts1254  | 12 hours ago | [→](https://tw.carousell.com/p/1439792804/) |
+| [手機平板] Asus ZenFone 6 8G/256G | **NT$3,500** | booona7575  | 12 hours ago | [→](https://tw.carousell.com/p/1439795193/) |
 | [手機平板] AirPods4 | **NT$4,500** | favoritetoro104  | 12 hours ago | [→](https://tw.carousell.com/p/1439792374/) |
 | [手機平板] Samsung Galaxy Tab A (8.4) | **NT$4,500** | quickeagle.774de3  | 13 hours ago | [→](https://tw.carousell.com/p/1436445751/) |
 | [手機平板] I 16pro max Iron Man MagSafe 防摔立架手機殼 | **NT$2,450** | h9907035278966  | 13 hours ago | [→](https://tw.carousell.com/p/1439786351/) |
-| [手機平板] 黑鯊 Black Shark 5 Pro 二手 | **NT$5,000** | laienlaiez132  | 13 hours ago | [→](https://tw.carousell.com/p/1439783129/) |
+| [手機平板] 黑鯊 Black Shark 5 Pro 二手 | **NT$5,000** | laienlaiez132  | 14 hours ago | [→](https://tw.carousell.com/p/1439783129/) |
 | [USB-C HDMI] iPhone 60W USB-C 充電連接線 (1 公尺) | **NT$240** | nnnnlin  | 15 hours ago | [→](https://tw.carousell.com/p/1439769067/) |
 | [螢幕] Samsung Galaxy Tab S11 11吋螢幕薄霧灰 WiFi / 12G / 256G（ | **NT$20,000** | ethanchu0515  | 16 hours ago | [→](https://tw.carousell.com/p/1439755211/) |
 | [螢幕] 📱 iPhone 14 128G🔋 85%❗️ 更換原廠拆機螢幕 | **NT$7,000** | poi90088  | 16 hours ago | [→](https://tw.carousell.com/p/1439752955/) |
 | [iPad] 💰 【小花平板】💰 全新未拆ipad A16 128G (WiFi) 二手機｜現貨供應 保固安心 | **NT$9,999** | 800.tw (2) | 17 hours ago | [→](https://tw.carousell.com/p/1439744674/) |
 | [iPad] iPad mini7 金 128g | **NT$9,000** | leeyoyoaex  | 17 hours ago | [→](https://tw.carousell.com/p/1439740035/) |
-| [螢幕] 【螢幕微烙印】板橋實體店面 二手機 保固1個月 realme 14 Pro 5G 256GB #26 | **NT$7,000** | yushiu1001 (2) | 19 hours ago | [→](https://tw.carousell.com/p/1439716698/) |
+| [螢幕] 【螢幕微烙印】板橋實體店面 二手機 保固1個月 realme 14 Pro 5G 256GB #26 | **NT$7,000** | yushiu1001 (2) | 20 hours ago | [→](https://tw.carousell.com/p/1439716698/) |
 | [iPad] iPad air5 64 WiFi 黑 | **NT$9,300** | hyw_0104  | 22 hours ago | [→](https://tw.carousell.com/p/1439682968/) |
 | [iPad] iPad Air 5 64g WiFi 版 灰色 | **NT$8,800** | judyku_0411 (2) | 23 hours ago | [→](https://tw.carousell.com/p/1439670984/) |
+| [筆電] ASUSVivobook S15 15.6吋2K螢幕 AMD R7-8845H/780M/16G/1 | **NT$16,000** | uueeuuee (2) | 1 day ago | [→](https://tw.carousell.com/p/1439631846/) |
 | [iPad] iPad a16 二手 | **NT$9,250** | youngstorm.f96630 (2) | 1 day ago | [→](https://tw.carousell.com/p/1439629555/) |
 | [iPad] 原廠延長保固18個月 iPad mini 7 256G WiFi 太空灰 電池100% | **NT$16,500** | janes_900855  | 1 day ago | [→](https://tw.carousell.com/p/1439621770/) |
 | [iPad] iPad air5 二手 +Apple Pencil 2 | **NT$10,500** | youngstorm.f96630 (2) | 1 day ago | [→](https://tw.carousell.com/p/1439614975/) |
 | [iPad] Apple iPad mini 7 (A17 pro) | **NT$11,800** | cleverearth-a22f  | 1 day ago | [→](https://tw.carousell.com/p/1439609004/) |
 | [iPad] iPad A16 128G 銀色 無傷 保固內 電池健康度100% | **NT$8,500** | rankn_cc  | 1 day ago | [→](https://tw.carousell.com/p/1439601718/) |
-| [螢幕] ASUSVivobook S15 15.6吋2K螢幕 AMD R7-8845H/780M/16G/1 | **NT$16,000** | uueeuuee  | 1 day ago | [→](https://tw.carousell.com/p/1439631846/) |
+| [螢幕] ASUSVivobook S15 15.6吋2K螢幕 AMD R7-8845H/780M/16G/1 | **NT$16,000** | uueeuuee (2) | 1 day ago | [→](https://tw.carousell.com/p/1439631846/) |
 | [螢幕] 【螢幕小小刮甜價入手】iPhone 14 Pro 256GB 金色 6.1吋 蘋果 實體經營 二手機 | **NT$14,000** | chineming30  | 1 day ago | [→](https://tw.carousell.com/p/1439618215/) |
 | [iPad] iPad Air 5 | **NT$8,500** | howie823  | 2 days ago | [→](https://tw.carousell.com/p/1433727519/) |
 | [iPad] iPad 10 256g WiFi版 銀白色 電池健康度99% | **NT$8,000** | judyku_0411 (2) | 2 days ago | [→](https://tw.carousell.com/p/1439532482/) |
@@ -61,11 +64,9 @@
 | [USB-C HDMI] 原廠 Apple 30W USB-C 電源轉接器 Mac Iphone Ipad 快充 充電器 變壓 | **NT$800** | jasminelee0413 (2) | 4 days ago | [→](https://tw.carousell.com/p/1439056696/) |
 | [apple watch] iBRIDGE 15W極速三合一無線充電器(IBW006) 適用(iPhone、Airpods Pr | **NT$1,200** | stargirlstar (2) | 13 days ago | [→](https://tw.carousell.com/p/1437531877/) |
 | [apple watch] 三合一 磁吸無線充電器 手機快充 (適用iPhone、Apple Watch、AirPods 耳機) | **NT$1,650** | stargirlstar (2) | 13 days ago | [→](https://tw.carousell.com/p/1437531343/) |
-| [掃地機器人] 【狀況佳少用 含盒子】Xiaomi 小米 掃地機器人 掃拖機器人 2 Pro 白色 雷射導航掃拖機 | **NT$3,600** | somethingcooltw  | 13 days ago | [→](https://tw.carousell.com/p/1437471111/) |
 | [三腳架] 手機自拍桿，能夾手機能磁吸，多用途穩固三腳架，一壓即開，apple iphone 12~17 可直接 | **NT$580** | happy.jclin  | 20 days ago | [→](https://tw.carousell.com/p/1436195051/) |
+| [空氣清淨機] 小米Xiaomi 空氣淨化器 4 Lite(原廠公司貨/一年保固/聯強代理/米家APP/清淨機/AC | **NT$1,500** | swiftwhale_d640cc  | 1 month ago | [→](https://tw.carousell.com/p/1433244406/) |
+| [投影機] Xiaomi 小米居家電影院 L1 smart projector | **NT$3,999** | messymessy010  | 1 month ago | [→](https://tw.carousell.com/p/1416731186/) |
 | [空氣循環扇] 附帶遙控。無轉向。無調速。風速高可吹距離8到10米。改機過的小米Xiaomi 米家智慧空氣循環扇 | **NT$1,000** | t09087892194238  | 9 months ago | [→](https://tw.carousell.com/p/1387389246/) |
 | [磨豆機] castify iphone17 pro 手機殼 貓咪磨豆 全新 | **NT$1,880** | nini03090218  | 1 month ago | [→](https://tw.carousell.com/p/1431569395/) |
-| [掃地機器人] 【近全新】Xiaomi 掃拖機器人 2 Pro（MJST1SHW）｜使用不到2次｜附原盒 | **NT$6,900** | greenwood732  | 3 months ago | [→](https://tw.carousell.com/p/1425824732/) |
-| [手機 HDMI] IPHONE手機螢幕轉換器 轉接頭 電視 投影機 視頻轉換器 音源 HDMI轉換器 適用蘋果 適配器 | **NT$229** | ary1019 (3) | 2 years ago | [→](https://tw.carousell.com/p/1282679026/) |
-| [手機 HDMI] IPHONE手機螢幕轉換器 同屏線 手機轉電視 電視 Lightning連螢幕 HDMI同步分享 筆 | **NT$229** | ary1019 (3) | 2 years ago | [→](https://tw.carousell.com/p/1282676121/) |
-| [手機 HDMI] IPHONE手機螢幕轉換器 支援4k 高清轉接器 電視轉螢幕顯示 HDMI轉VGA 螢幕轉接頭 投影 | **NT$229** | ary1019 (3) | 2 years ago | [→](https://tw.carousell.com/p/1282676040/) |
+| [Steam Deck] 台北3C 回收工作室 IPHONE手機、三星、小米、SONY手機 回收、 SWITCH2 主機 遊戲 | **NT$9,999** | gordon740124768  | 1 month ago | [→](https://tw.carousell.com/p/1433767259/) |

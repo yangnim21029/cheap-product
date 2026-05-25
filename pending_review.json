@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "judy9956",
-      "timeAgo": "14 minutes ago",
+      "timeAgo": "44 minutes ago",
       "title": "Vivobarefoot MOTUS 女赤足鞋 39",
       "price": 2000,
       "condition": "Brand new",
@@ -12,7 +12,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:33",
+      "listedAt": "05/25 13:34",
       "pid": "1439851671",
       "verified": {
         "newPrice": 6880,
@@ -22,12 +22,58 @@
       },
       "vsNew": 29,
       "vsSecondhand": 100
+    },
+    {
+      "seller": "gentlegem_de2511",
+      "timeAgo": "14 minutes ago",
+      "title": "DjI magic mini",
+      "price": 3800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439854653/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$3,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 14:04",
+      "pid": "1439854653",
+      "verified": {
+        "newPrice": 7999,
+        "secondhand": 7250,
+        "note": "DJI Mini 系列機型不明 (賣家寫 Magic mini 筆誤) 入門 Mini Drone 二手 $4-5K, Mini 2 SE $7-7.5K, Mini 4 Pro $15K+。$3,800 = Mini 2 SE 52% 若是入門 Drone 則偏高 ⭐ 手動",
+        "source": "2026-05-25"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 52
+    },
+    {
+      "seller": "ycc015",
+      "timeAgo": "4 minutes ago",
+      "title": "Yamaha SR-C20A 聲霸",
+      "price": 2500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439858716/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 14:14",
+      "pid": "1439858716",
+      "verified": {
+        "newPrice": 7199,
+        "secondhand": 6000,
+        "note": "Yamaha SR-C20A 聲霸 新品 $7,199-7,500 二手中位 $6K。$2,500 = 二手 42% ⭐⭐⭐ 好貨",
+        "source": "2026-05-25"
+      },
+      "vsNew": 35,
+      "vsSecondhand": 42
     }
   ],
   "negotiate": [
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "27 minutes ago",
+      "timeAgo": "57 minutes ago",
       "title": "Giant Defy 3 公路車 尺寸S",
       "price": 9500,
       "condition": "Lightly used",
@@ -37,7 +83,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 13:20",
+      "listedAt": "05/25 13:21",
       "pid": "1439849388",
       "verified": {
         "newPrice": 15000,
@@ -47,6 +93,29 @@
       },
       "vsNew": 63,
       "vsSecondhand": 86
+    },
+    {
+      "seller": "yanggyee",
+      "timeAgo": "27 minutes ago",
+      "title": "SUNMI 商用 POS 機＋錢櫃",
+      "price": 7000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439854993/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$7,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 13:51",
+      "pid": "1439854993",
+      "verified": {
+        "newPrice": 19500,
+        "secondhand": 8000,
+        "note": "SUNMI POS T2 新品 $19,500 二手 $4-7K +錢櫃整套 $8K。$7,000 = 87% ⭐ 手動 (商用設備需確認型號/世代/磨損)",
+        "source": "2026-05-25"
+      },
+      "vsNew": 36,
+      "vsSecondhand": 88
     }
   ],
   "uncertain": [
@@ -89,6 +158,46 @@
       },
       "vsNew": null,
       "vsSecondhand": null
+    },
+    {
+      "seller": "gentlegem_de2511",
+      "timeAgo": "14 minutes ago",
+      "title": "DjI magic mini",
+      "price": 3800,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439854653/",
+      "category": "dji",
+      "maxDays": 3,
+      "pid": "1439854653",
+      "priceStr": "NT$3,800",
+      "verified": {
+        "newPrice": 7999,
+        "secondhand": 7250,
+        "note": "DJI Mini 系列機型不明 (賣家寫 Magic mini 筆誤) 入門 Mini Drone 二手 $4-5K, Mini 2 SE $7-7.5K, Mini 4 Pro $15K+。$3,800 = Mini 2 SE 52% 若是入門 Drone 則偏高 ⭐ 手動",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 52
+    },
+    {
+      "seller": "yanggyee",
+      "timeAgo": "27 minutes ago",
+      "title": "SUNMI 商用 POS 機＋錢櫃",
+      "price": 7000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1439854993/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "pid": "1439854993",
+      "priceStr": "NT$7,000",
+      "verified": {
+        "newPrice": 19500,
+        "secondhand": 8000,
+        "note": "SUNMI POS T2 新品 $19,500 二手 $4-7K +錢櫃整套 $8K。$7,000 = 87% ⭐ 手動 (商用設備需確認型號/世代/磨損)",
+        "source": "manual_inject_web"
+      },
+      "vsNew": 36,
+      "vsSecondhand": 88
     }
   ]
 }
