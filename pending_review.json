@@ -1,5 +1,29 @@
 {
-  "newDeals": [],
+  "newDeals": [
+    {
+      "seller": "sbkleon",
+      "timeAgo": "23 minutes ago",
+      "title": "FANATEC CLUBSPORT FORMULA V2.5 X",
+      "price": 10500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1439999254/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$10,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 09:25",
+      "pid": "1439999254",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 22000,
+        "secondhand": 15000,
+        "note": "Fanatec ClubSport Formula V2.5 X (rim only) 二手NT$13-15K, base 另計, NT$10,500 = 70% 二手 / 48% 新品"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 70
+    }
+  ],
   "negotiate": [],
   "uncertain": []
 }
