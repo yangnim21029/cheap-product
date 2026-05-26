@@ -1,8 +1,8 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/27 01:53:23 · 累積已看 11384 筆 · 111 位賣家黑名單
+> 2026/5/27 01:53:43 · 累積已看 11386 筆 · 111 位賣家黑名單
 
-**待審：** 好貨 8 ｜ 殺價 25 ｜ 手動 0 ｜ 待查 2
+**待審：** 好貨 8 ｜ 殺價 25 ｜ 手動 0 ｜ 待查 1
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
@@ -53,12 +53,11 @@
 | [智慧手錶] Samsung galaxy watch 8 classic | **NT$8,300** | 新$13990 | 59% new | Like new | 05/25 01:53 | [→](https://tw.carousell.com/p/1439724750/) |
 | [智慧手錶] Apple Watch Ultra 2 49mm 鈦金屬(GPS+行動網路）A2986🔋 | **NT$14,500** | 新$22990 | 63% new | Like new | 05/25 01:53 | [→](https://tw.carousell.com/p/1439691901/) |
 
-<details><summary>⏳ 待查價 2 筆（subagent 還沒跑完）</summary>
+<details><summary>⏳ 待查價 1 筆（subagent 還沒跑完）</summary>
 
 | 品項 | 價格 | 上架 |  |
 |------|------|------|--|
-| [音響耳機] AirPods 4 無降噪版本全新 | NT$3,700 | 05/26 22:53 | [→](https://tw.carousell.com/p/1440148647/) |
-| [電玩主機] PS5主機 SLIM數位版 1TB容量 2018B | NT$14,980 | 05/26 19:53 | [→](https://tw.carousell.com/p/1440109492/) |
+| [音響耳機] Apple airpods 4主動式降噪耳機 全新未拆 | NT$4,580 | 05/26 22:53 | [→](https://tw.carousell.com/p/1440144398/) |
 
 </details>
 

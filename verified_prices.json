@@ -28352,6 +28352,13 @@
     "secondhand": null,
     "note": "patrol 243 batch SKIP (niche/重複賣家/leak/持平/< $3K)"
   },
+  "1440109492": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 14990,
+    "secondhand": null,
+    "note": "PS5 SLIM 數位版 1TB 2018B NT$14,980 = 100% 新品持平 SKIP"
+  },
   "1440111449": {
     "source": "2026-05-27",
     "skip": true,
@@ -28646,6 +28653,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "patrol 243 batch SKIP (niche/重複賣家/leak/持平/< $3K)"
+  },
+  "1440148647": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods 4 無降噪全新 NT$3,700 wearables-cat leak SKIP"
   },
   "1440151171": {
     "source": "2026-05-27",
