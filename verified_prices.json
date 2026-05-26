@@ -17406,6 +17406,13 @@
     "note": "wellcome VX1-plus 電動揚升跑步機 公司貨 $25-30K 二手 $10-15K。$7,999 = 新品 30% ⭐ ty985200000 手動",
     "source": "manual_inject_web"
   },
+  "1438686935": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Xiaomi Buds 5 + 送行充 NT$2,000 bundle 80% 新品持平 SKIP"
+  },
   "1438687278": {
     "newPrice": null,
     "secondhand": null,
@@ -27495,5 +27502,19 @@
     "newPrice": 2290,
     "secondhand": 1700,
     "note": "CMF Watch Pro 2 NT$2,000 = 87% 新品/118% 二手 持平 SKIP"
+  },
+  "1440013256": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Marshall Emberton III NT$4,500 = 82% 新品 / 113% 二手持平 SKIP"
+  },
+  "1440016810": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HUMAN666 TOY 僅拆擺 NT$3,000 niche 玩具行情不穩 SKIP"
   }
 }
