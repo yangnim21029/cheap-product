@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "pid": "1440100991",
+    "title": "iPad 第9代",
+    "price": 8000,
+    "priceStr": "NT$8,000",
+    "category": "iPad",
+    "seller": "saferiver_a89eb3",
+    "url": "https://tw.carousell.com/p/1440100991/",
+    "timeAgo": "8 hours ago"
+  },
+  {
+    "pid": "1440086724",
+    "title": "Switch 動森版",
+    "price": 3500,
+    "priceStr": "NT$3,500",
+    "category": "電玩主機",
+    "seller": "hikarious_sekai",
+    "url": "https://tw.carousell.com/p/1440086724/",
+    "timeAgo": "9 hours ago"
+  }
+]
