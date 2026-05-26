@@ -43,6 +43,29 @@
       "condition": "全新",
       "watchlist": true,
       "listedAt": "2019/05/29 03:52"
+    },
+    {
+      "seller": "bryan6965",
+      "timeAgo": "1 hour ago",
+      "title": "2025製dyson micro 1.5 sv33極輕量吸塵器",
+      "price": 5900,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440188662/",
+      "category": "吸塵器",
+      "maxDays": 7,
+      "priceStr": "NT$5,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 06:48",
+      "pid": "1440188662",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 13490,
+        "secondhand": 8500,
+        "note": "Dyson Micro 1.5 SV33 極輕量 2025 製 NT$5,900 = 44% 新品 / 69% 二手 (好貨)"
+      },
+      "vsNew": 44,
+      "vsSecondhand": 69
     }
   ],
   "negotiate": [
@@ -70,7 +93,7 @@
     },
     {
       "seller": "mysticdog_f3f4a7",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Ipad Air 六代 m2 11吋",
       "price": 12000,
       "condition": "Lightly used",
@@ -80,7 +103,7 @@
       "priceStr": "NT$12,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/27 04:18",
+      "listedAt": "05/27 03:48",
       "pid": "1440182401",
       "verified": {
         "source": "2026-05-27",
