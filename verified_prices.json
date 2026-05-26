@@ -27181,5 +27181,32 @@
     "note": "早期銅雕五骨金剛杵 NT$1,500 royalpenguin <$2K 古銅雕 SKIP",
     "source": "2026-05-26",
     "skip": true
+  },
+  "1439998670": {
+    "source": "2026-05-26",
+    "skip": true,
+    "note": "銅雕招財貔貅 NT$1,000 royalpenguin <$2K 古銅雕 SKIP",
+    "newPrice": null,
+    "secondhand": null
+  },
+  "1439999254": {
+    "source": "2026-05-26",
+    "newPrice": 22000,
+    "secondhand": 14000,
+    "note": "Fanatec ClubSport Formula V2.5 X 方向盤本體 75% 二手 / 48% 新品 (rim only, base 另計)"
+  },
+  "1439999796": {
+    "source": "2026-05-26",
+    "skip": true,
+    "note": "白銅/藏銀八卦招財龍龜 NT$1,500 royalpenguin <$2K 古銅雕 SKIP",
+    "newPrice": null,
+    "secondhand": null
+  },
+  "1440001810": {
+    "source": "2026-05-26",
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ROG Wifi 分享器 NT$8,000 賣家未列型號, 中階 router 8K 合理但無法判定, 手動",
+    "manual": true
   }
 }
