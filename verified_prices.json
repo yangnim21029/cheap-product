@@ -4592,6 +4592,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434009913": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Honma Golf Tour World 高爾夫球袋 NT$3,000 Alice 高爾夫 User 無此興趣 SKIP",
+    "source": "2026-05-26",
+    "skip": true
+  },
   "1434017369": {
     "newPrice": null,
     "secondhand": null,
@@ -27067,5 +27074,30 @@
     "secondhand": 3500,
     "note": "Yamaha AG-03 原版混音器 二手 $2.5-4.5K 中位 $3.5K。$3,300 = 94% 中位 ⭐ 手動",
     "source": "2026-05-26"
+  },
+  "1439993069": {
+    "newPrice": 7000,
+    "secondhand": 4500,
+    "note": "Kingston DDR4-3200 32G (16Gx2) DRAM 漲價潮二手 $4-5.5K。$4,000 = 89% 中位 ⭐ 手動",
+    "source": "2026-05-26"
+  },
+  "1439993146": {
+    "newPrice": 35000,
+    "secondhand": 6500,
+    "note": "Acer Aspire VX 15 VX5-591G (2017 7代 i5/i7+GTX 1050) 二手 $5-8K 中位 $6.5K。$3,800 = 58% ⭐⭐⭐ 好貨 (9 年老機注意電池/散熱)",
+    "source": "2026-05-26"
+  },
+  "1439993177": {
+    "newPrice": 5500,
+    "secondhand": 2900,
+    "note": "Kingston DDR4-2400 32G (16Gx2) DRAM 大漲後二手 $2.8-3.2K。$3,000 = 103% 中位 ⭐ 手動",
+    "source": "2026-05-26"
+  },
+  "1439993384": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Pokemon Go 異色伊布狩獵帳號台南背卡 NT$3,500 woofwoof 遊戲帳號 SKIP",
+    "source": "2026-05-26",
+    "skip": true
   }
 }
