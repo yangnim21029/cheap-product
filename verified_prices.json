@@ -27442,11 +27442,58 @@
     "secondhand": null,
     "note": "早期功學社吉他 NT$500 老件 SKIP"
   },
+  "1440007788": {
+    "source": "2026-05-26",
+    "newPrice": 1890,
+    "secondhand": 1300,
+    "note": "Logitech POP KEYS 魅力桃 NT$1,100 = 58% 新品 / 85% 二手 (殺價邊界)"
+  },
   "1440008346": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": 5200,
     "secondhand": 4500,
     "note": "Bambu AMS HT NT$4,200 = 81% 新品偏貴 SKIP"
+  },
+  "1440008827": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SKN 青龍 4.0 Ultra 漪/瑰夏拿鐵軸 NT$1,200 大陸品牌台灣不流通 SKIP"
+  },
+  "1440009620": {
+    "source": "2026-05-26",
+    "newPrice": 1290,
+    "secondhand": 900,
+    "note": "iWALK SWITCH 5500mAh LPS003 NT$720 = 56% 新品 / 80% 二手"
+  },
+  "1440009622": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "無線行動電源 type C NT$600 無品牌 SKIP"
+  },
+  "1440011168": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 3900,
+    "note": "PS3 COD 13 片 NT$3,999 = NT$307/片 持平 SKIP"
+  },
+  "1440012690": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "早期象牌軟膠 唐老鴨叔叔 NT$4,000 古玩行情不穩 SKIP"
+  },
+  "1440012897": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": 2290,
+    "secondhand": 1700,
+    "note": "CMF Watch Pro 2 NT$2,000 = 87% 新品/118% 二手 持平 SKIP"
   }
 }

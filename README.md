@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/26 10:48:04 · 累積已看 11224 筆 · 110 位賣家黑名單
+> 2026/5/26 11:11:13 · 累積已看 11229 筆 · 110 位賣家黑名單
 
 **待審：** 好貨 3 ｜ 殺價 3 ｜ 手動 0 ｜ 待查 0
 
@@ -12,9 +12,9 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [行動電源] 質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電  | **NT$500** | 新$1990 | 25% new | Lightly used | 05/26 10:26 | [→](https://tw.carousell.com/p/1440005066/) |
-| [音樂媒體] 二手 Yamaha 三葉 木吉他 F-310 附贈琴袋 限面交 | **NT$2,000** | 新$4490 | 45% new | Well used | 05/26 09:56 | [→](https://tw.carousell.com/p/1440002267/) |
-| [電玩主機] FANATEC CLUBSPORT FORMULA V2.5 X | **NT$10,500** | 新$22000 | 48% new | Lightly used | 05/26 09:48 | [→](https://tw.carousell.com/p/1439999254/) |
+| [行動電源] 質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電  | **NT$500** | 新$1990 | 25% new | Lightly used | 05/26 10:22 | [→](https://tw.carousell.com/p/1440005066/) |
+| [音樂媒體] 二手 Yamaha 三葉 木吉他 F-310 附贈琴袋 限面交 | **NT$2,000** | 新$4490 | 45% new | Well used | 05/26 10:11 | [→](https://tw.carousell.com/p/1440002267/) |
+| [電玩主機] FANATEC CLUBSPORT FORMULA V2.5 X | **NT$10,500** | 新$22000 | 48% new | Lightly used | 05/26 09:11 | [→](https://tw.carousell.com/p/1439999254/) |
 
 ## 🟡 殺價（3）
 
@@ -22,9 +22,9 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [智慧手錶] 『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE | **NT$8,800** | 新$11000 | 80% new | Brand new | 05/25 16:48 | [→](https://tw.carousell.com/p/1439889552/) |
-| [智慧手錶] Samsung galaxy watch 8 classic | **NT$8,300** | 新$13990 | 59% new | Like new | 05/24 10:48 | [→](https://tw.carousell.com/p/1439724750/) |
-| [智慧手錶] Apple Watch Ultra 2 49mm 鈦金屬(GPS+行動網路）A2986🔋 | **NT$14,500** | 新$22990 | 63% new | Like new | 05/24 10:48 | [→](https://tw.carousell.com/p/1439691901/) |
+| [智慧手錶] 『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE | **NT$8,800** | 新$11000 | 80% new | Brand new | 05/25 16:11 | [→](https://tw.carousell.com/p/1439889552/) |
+| [智慧手錶] Samsung galaxy watch 8 classic | **NT$8,300** | 新$13990 | 59% new | Like new | 05/24 11:11 | [→](https://tw.carousell.com/p/1439724750/) |
+| [智慧手錶] Apple Watch Ultra 2 49mm 鈦金屬(GPS+行動網路）A2986🔋 | **NT$14,500** | 新$22990 | 63% new | Like new | 05/24 11:11 | [→](https://tw.carousell.com/p/1439691901/) |
 
 
 ---
