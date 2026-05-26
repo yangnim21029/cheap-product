@@ -2376,6 +2376,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1428548756": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ZETT 訂製硬式手套 NT$5,000 不熟領域 SKIP"
+  },
   "1428561995": {
     "newPrice": null,
     "secondhand": null,
@@ -4654,6 +4661,19 @@
     "note": "侏羅紀公園 刮鬍泡胚胎罐 收藏品非 Rose 需求 SKIP",
     "source": "manual 2026-05-11",
     "skip": true
+  },
+  "1434184978": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Speedplay 棒棒糖卡踏 NT$2,000 不熟領域 SKIP"
+  },
+  "1434186925": {
+    "source": "2026-05-26",
+    "newPrice": 5190,
+    "secondhand": 4300,
+    "note": "AMD Ryzen 5 8500G 全新送風扇 NT$3,999 = 77% 新品 (殺價, 砍$3.6K才好貨)"
   },
   "1434215909": {
     "newPrice": null,
@@ -27516,5 +27536,31 @@
     "newPrice": null,
     "secondhand": null,
     "note": "HUMAN666 TOY 僅拆擺 NT$3,000 niche 玩具行情不穩 SKIP"
+  },
+  "1440017086": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple USB-C 多埠轉接器 NT$1,800 持平 SKIP"
+  },
+  "1440020695": {
+    "source": "2026-05-26",
+    "newPrice": 12470,
+    "secondhand": 10500,
+    "note": "ASUS DUAL RTX 5060 8GB OC 全新 NT$10,300 = 83% 新品 (殺價, 砍到$9K才算好貨)"
+  },
+  "1440020956": {
+    "source": "2026-05-26",
+    "newPrice": 7900,
+    "secondhand": 5500,
+    "note": "AMD Ryzen 7 5700X Tray 全新 NT$4,300 = 54% 散裝新品 / 78% 二手 (注意: Tray無保 vs PChome盒裝$5.5K三年保)"
+  },
+  "1440021459": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch Lite 灰色二手 NT$3,000 持平 SKIP"
   }
 }

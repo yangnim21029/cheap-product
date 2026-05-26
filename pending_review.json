@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sbkleon",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "FANATEC CLUBSPORT FORMULA V2.5 X",
       "price": 10500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:35",
+      "listedAt": "05/26 09:03",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -35,7 +35,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:35",
+      "listedAt": "05/26 10:03",
       "pid": "1440002267",
       "verified": {
         "newPrice": 4490,
@@ -83,7 +83,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 11:35",
+      "listedAt": "05/24 12:03",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -106,7 +106,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 11:35",
+      "listedAt": "05/24 12:03",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -129,7 +129,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:35",
+      "listedAt": "05/25 17:03",
       "pid": "1439889552",
       "verified": {
         "source": "2026-05-26",
@@ -139,6 +139,29 @@
       },
       "vsNew": 80,
       "vsSecondhand": 88
+    },
+    {
+      "seller": "ajsnsnj",
+      "timeAgo": "11 minutes ago",
+      "title": "【售】AMD Ryzen 7 5700X Tray版 全新未使用",
+      "price": 4300,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1440020956/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 11:52",
+      "pid": "1440020956",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 7900,
+        "secondhand": 5500,
+        "note": "AMD Ryzen 7 5700X Tray 全新 NT$4,300 = 54% 散裝新品 / 78% 二手 (注意: Tray無保 vs PChome盒裝$5.5K三年保)"
+      },
+      "vsNew": 54,
+      "vsSecondhand": 78
     }
   ],
   "uncertain": []
