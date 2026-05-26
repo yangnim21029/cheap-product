@@ -27799,11 +27799,31 @@
     "secondhand": null,
     "note": "台灣肖楠烏木手珠 NT$1,000 niche 手作 SKIP"
   },
+  "1440045648": {
+    "source": "2026-05-26",
+    "newPrice": 9990,
+    "secondhand": 9000,
+    "note": "DIKE HLE701 便攜移動式空調 2024 製 NT$8,000 = 80% 新品 / 89% 二手 (殺價)"
+  },
   "1440045775": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "1997 汪寅仙紫砂作品集精裝版 NT$1,500 古董書 niche SKIP"
+  },
+  "1440045917": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "IRIS PCF-MKM15 循環扇 白 NT$990 = 55% 新品 < $2K SKIP"
+  },
+  "1440049750": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "寶麗來 Polaroid 手機印相機 NT$3,000 型號未列 (Hi-Print? Lab?) SKIP"
   }
 }
