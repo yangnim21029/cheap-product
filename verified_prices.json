@@ -27208,5 +27208,32 @@
     "secondhand": null,
     "note": "ROG Wifi 分享器 NT$8,000 賣家未列型號, 中階 router 8K 合理但無法判定, 手動",
     "manual": true
+  },
+  "1440002267": {
+    "newPrice": 4490,
+    "secondhand": 3000,
+    "note": "Yamaha F-310 木吉他 入門款, NT$2,000 = 67% 二手 / 45% 新品 (好貨)",
+    "source": "2026-05-26"
+  },
+  "1440002659": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "小方糖 10000mAh 雙線 NT$530 平價品牌新品~$500-800 持平 SKIP"
+  },
+  "1440002970": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "KINYO 8in1 小方糖行動電源 NT$1,000 momo新品~$799-999, 高於行情 SKIP"
+  },
+  "1440003849": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "德國製二手喇叭一對 NT$2,000 賣家未列型號/品牌, 無法判 SKIP"
   }
 }

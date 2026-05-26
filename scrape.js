@@ -4,8 +4,8 @@ const fs = require('fs');
 // === 搜尋關鍵字 ===
 // maxDays: 最大可接受上架天數（預設 3）
 const QUERIES = [
-  { q: 'apple watch', min: 1000, max: 5000, maxDays: 3 },
-  // { q: 'Samsung Galaxy Watch', min: 1000, max: 5000 }, // 暫停：連續4輪空 2026-05-02
+  { q: 'apple watch', min: 1000, max: 5000, maxDays: 3 }, // Apple 高頻日更, 保留
+  // 2026-05-26 User: 走分類比 query 準, Android 智慧手錶改 wearables-smart-watches-6436 sub-cat sweep
   // { q: 'Vivienne Westwood', min: 500, max: 5000 }, // 暫停 2026-05-02
   { q: '空氣清淨機', min: 500, max: 3000, maxDays: 3 },
   { q: '投影機', min: 2000, max: 10000, maxDays: 5 },
@@ -82,6 +82,8 @@ const CATEGORIES = [
   { slug: 'video-gaming-1189', name: '電玩主機', min: 2000, max: 20000, maxDays: 7 },
   { slug: 'sports-equipment-10', name: '運動戶外', min: 2000, max: 10000, maxDays: 7 },
   { slug: 'computers-tech-1094', name: '電腦科技', min: 3000, max: 20000, maxDays: 7 },
+  // 2026-05-26 智慧手錶 sub-cat (含 Apple/Galaxy/Garmin/Xiaomi/Huawei/Fitbit/Fossil/TicWatch/Pixel)
+  { slug: 'mobile-phones-gadgets-1091/wearables-smart-watches-6436', name: '智慧手錶', min: 1500, max: 15000, maxDays: 7 },
 ];
 
 // === 頁面抓取 JS ===
