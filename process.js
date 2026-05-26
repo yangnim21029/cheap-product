@@ -101,15 +101,32 @@ const parsePrice = p => parseInt((p || '').replace(/[^0-9]/g, '')) || 0;
 function timeAgoToTimestamp(timeAgo) {
   const now = new Date();
   if (!timeAgo) return '';
-  const m = timeAgo.match(/(\d+)\s*(minute|hour|day)/);
+  // 英文: minute/hour/day/week/month/year ago
+  const m = timeAgo.match(/(\d+)\s*(minute|hour|day|week|month|year)/i);
   if (m) {
     const n = parseInt(m[1]);
-    const unit = m[2];
+    const unit = m[2].toLowerCase();
     if (unit === 'minute') now.setMinutes(now.getMinutes() - n);
     else if (unit === 'hour') now.setHours(now.getHours() - n);
     else if (unit === 'day') now.setDate(now.getDate() - n);
+    else if (unit === 'week') now.setDate(now.getDate() - n * 7);
+    else if (unit === 'month') now.setMonth(now.getMonth() - n);
+    else if (unit === 'year') now.setFullYear(now.getFullYear() - n);
   } else if (timeAgo.includes('yesterday')) {
     now.setDate(now.getDate() - 1);
+  } else {
+    // 中文: X 分鐘/小時/天/個禮拜/個月/年 前
+    const zh = timeAgo.match(/(\d+)\s*(分鐘|小時|天|個禮拜|個月|年)\s*前/);
+    if (zh) {
+      const n = parseInt(zh[1]);
+      const u = zh[2];
+      if (u === '分鐘') now.setMinutes(now.getMinutes() - n);
+      else if (u === '小時') now.setHours(now.getHours() - n);
+      else if (u === '天') now.setDate(now.getDate() - n);
+      else if (u === '個禮拜') now.setDate(now.getDate() - n * 7);
+      else if (u === '個月') now.setMonth(now.getMonth() - n);
+      else if (u === '年') now.setFullYear(now.getFullYear() - n);
+    }
   }
   return now.toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false, month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
 }
