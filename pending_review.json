@@ -829,6 +829,29 @@
       },
       "vsNew": 57,
       "vsSecondhand": 80
+    },
+    {
+      "seller": "sin_chih",
+      "timeAgo": "9 hours ago",
+      "title": "【炘馳通訊】Apple iPad 10 64G WIFI (2022) 黃色 二手平板 信用卡分期 舊機折抵",
+      "price": 6500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440089949/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 17:48",
+      "pid": "1440089949",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10500,
+        "secondhand": 7500,
+        "note": "iPad 10 64G WiFi 黃 (2022) 商家二手 NT$6,500 = 62% 新 / 87% 二手 (殺價)"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 87
     }
   ],
   "uncertain": []

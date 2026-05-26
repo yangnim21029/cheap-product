@@ -1,8 +1,8 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/27 02:48:30 · 累積已看 11405 筆 · 111 位賣家黑名單
+> 2026/5/27 02:48:58 · 累積已看 11407 筆 · 111 位賣家黑名單
 
-**待審：** 好貨 8 ｜ 殺價 28 ｜ 手動 0 ｜ 待查 2
+**待審：** 好貨 8 ｜ 殺價 29 ｜ 手動 0 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
@@ -21,7 +21,7 @@
 | [行動電源] 質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電  | **NT$500** | 新$1990 | 25% new | Lightly used | 05/26 10:18 | [→](https://tw.carousell.com/p/1440005066/) |
 | [電玩主機] FANATEC CLUBSPORT FORMULA V2.5 X | **NT$10,500** | 新$22000 | 48% new | Lightly used | 05/26 09:48 | [→](https://tw.carousell.com/p/1439999254/) |
 
-## 🟡 殺價（28）
+## 🟡 殺價（29）
 
 > 價格已合理但還能再殺，看你殺得到嗎
 
@@ -39,6 +39,7 @@
 | [iPad] Apple iPad Air M2晶片 13吋 128G WIFI版 Touch ID 蘋 | **NT$17,580** | 新$28900 | 61% new | Like new | 05/26 18:48 | [→](https://tw.carousell.com/p/1440102884/) |
 | [智慧手錶] Apple Watch S10 46mm GPS 午夜黑 100% | **NT$8,300** | 新$12500 | 66% new | Lightly used | 05/26 17:48 | [→](https://tw.carousell.com/p/1440089112/) |
 | [iPad] 【炘馳通訊】 iPad AIR 6 WI-FI 256G 13寸 白色 二手機 中古機 信 | **NT$19,000** | 新$31400 | 61% new | Lightly used | 05/26 17:48 | [→](https://tw.carousell.com/p/1440090118/) |
+| [iPad] 【炘馳通訊】Apple iPad 10 64G WIFI (2022) 黃色 二手平板 信 | **NT$6,500** | 新$10500 | 62% new | Lightly used | 05/26 17:48 | [→](https://tw.carousell.com/p/1440089949/) |
 | [音響耳機] Beats Studio3 Wireless十週年耳罩式耳機 | **NT$4,300** | 新$12000 | 36% new | Brand new | 05/26 15:48 | [→](https://tw.carousell.com/p/1440069854/) |
 | [露營] DIKE HLE701 便攜多功能移動式空調｜2024年製｜移動冷氣／露營／除濕／送風 | **NT$8,000** | 新$9990 | 80% new | Like new | 05/26 14:48 | [→](https://tw.carousell.com/p/1440045648/) |
 | [相機攝影] Canon EOS RP+24-105 IS STM | **NT$25,000** | 新$50000 | 50% new | Lightly used | 05/26 14:48 | [→](https://tw.carousell.com/p/1440057080/) |
@@ -55,15 +56,6 @@
 | [智慧手錶] 『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE | **NT$8,800** | 新$11000 | 80% new | Brand new | 05/26 02:48 | [→](https://tw.carousell.com/p/1439889552/) |
 | [智慧手錶] Samsung galaxy watch 8 classic | **NT$8,300** | 新$13990 | 59% new | Like new | 05/25 02:48 | [→](https://tw.carousell.com/p/1439724750/) |
 | [智慧手錶] Apple Watch Ultra 2 49mm 鈦金屬(GPS+行動網路）A2986🔋 | **NT$14,500** | 新$22990 | 63% new | Like new | 05/25 02:48 | [→](https://tw.carousell.com/p/1439691901/) |
-
-<details><summary>⏳ 待查價 2 筆（subagent 還沒跑完）</summary>
-
-| 品項 | 價格 | 上架 |  |
-|------|------|------|--|
-| [iPad] iPad 第9代 | NT$8,000 | 05/26 18:48 | [→](https://tw.carousell.com/p/1440100991/) |
-| [電玩主機] Switch 動森版 | NT$3,500 | 05/26 17:48 | [→](https://tw.carousell.com/p/1440086724/) |
-
-</details>
 
 
 ---

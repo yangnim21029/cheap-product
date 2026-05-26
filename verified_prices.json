@@ -28231,6 +28231,13 @@
     "secondhand": null,
     "note": "SAMSUNG Galaxy Watch 7 44mm BT NT$5,000 持平 SKIP"
   },
+  "1440086724": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 4000,
+    "note": "Switch 動森版 NT$3,500 = 老一代 + 動森限定盒 持平 SKIP"
+  },
   "1440087400": {
     "source": "2026-05-27",
     "skip": true,
@@ -28281,8 +28288,8 @@
   "1440089949": {
     "source": "2026-05-27",
     "newPrice": 10500,
-    "secondhand": 7000,
-    "note": "iPad 10 64G WiFi 黃 (2022) 二手 (sin_chih 商家) NT$6,500 = 62% 新 / 93% 二手 (好貨/邊界)"
+    "secondhand": 7500,
+    "note": "iPad 10 64G WiFi 黃 (2022) 商家二手 NT$6,500 = 62% 新 / 87% 二手 (殺價)"
   },
   "1440090118": {
     "source": "2026-05-27",
@@ -28338,6 +28345,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "patrol 243 batch SKIP (niche/重複賣家/leak/持平/< $3K)"
+  },
+  "1440100991": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad 第 9 代 NT$8,000 容量未列 (64G ~$6K / 256G ~$10K) SKIP"
   },
   "1440102058": {
     "source": "2026-05-27",
