@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sbkleon",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "FANATEC CLUBSPORT FORMULA V2.5 X",
       "price": 10500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 18:17",
+      "listedAt": "05/26 09:53",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -48,7 +48,7 @@
     },
     {
       "seller": "portas",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電 行動電源 8+ note8",
       "price": 500,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 19:17",
+      "listedAt": "05/26 10:53",
       "pid": "1440005066",
       "verified": {
         "source": "2026-05-26",
@@ -94,7 +94,7 @@
     },
     {
       "seller": "riceball.on.a.sesame",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "iWALK SWITCH 切換式行動電源 5500mAh（型號 LPS003）",
       "price": 600,
       "condition": "",
@@ -104,7 +104,7 @@
       "priceStr": "NT$600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 19:17",
+      "listedAt": "05/26 10:53",
       "pid": "1440009620",
       "verified": {
         "source": "2026-05-26",
@@ -140,7 +140,7 @@
     },
     {
       "seller": "eriklee5566",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Garmin InReach Mini 2衛星電話",
       "price": 7000,
       "condition": "Like new",
@@ -150,7 +150,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 23:17",
+      "listedAt": "05/26 14:53",
       "pid": "1440054506",
       "verified": {
         "source": "2026-05-26",
@@ -160,6 +160,29 @@
       },
       "vsNew": 54,
       "vsSecondhand": 70
+    },
+    {
+      "seller": "silverriver_15d010",
+      "timeAgo": "4 hours ago",
+      "title": "Denon Perl pro",
+      "price": 3750,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440131664/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,750",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 21:53",
+      "pid": "1440131664",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 9880,
+        "secondhand": 5500,
+        "note": "Denon PerL Pro 真無線 ANC NT$3,750 = 38% 新 / 68% 二手 (好貨)"
+      },
+      "vsNew": 38,
+      "vsSecondhand": 68
     }
   ],
   "negotiate": [
@@ -175,7 +198,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 01:17",
+      "listedAt": "05/25 01:53",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -198,7 +221,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 01:17",
+      "listedAt": "05/25 01:53",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -221,7 +244,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 01:17",
+      "listedAt": "05/26 01:53",
       "pid": "1439889552",
       "verified": {
         "source": "2026-05-26",
@@ -234,7 +257,7 @@
     },
     {
       "seller": "ajsnsnj",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "【售】AMD Ryzen 7 5700X Tray版 全新未使用",
       "price": 4300,
       "condition": "Brand new",
@@ -244,7 +267,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 20:17",
+      "listedAt": "05/26 11:53",
       "pid": "1440020956",
       "verified": {
         "source": "2026-05-26",
@@ -257,7 +280,7 @@
     },
     {
       "seller": "ajsnsnj",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "ASUS DUAL RTX 5060 8GB GDDR7 OC 全新",
       "price": 10300,
       "condition": "Brand new",
@@ -267,7 +290,7 @@
       "priceStr": "NT$10,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 20:17",
+      "listedAt": "05/26 11:53",
       "pid": "1440020695",
       "verified": {
         "source": "2026-05-26",
@@ -280,7 +303,7 @@
     },
     {
       "seller": "keenlion_535eb7",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "AMD Ryzen 5 8500G 3.5GHz 六核心 中央處理器 送原廠風扇",
       "price": 3999,
       "condition": "Lightly used",
@@ -290,7 +313,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 20:17",
+      "listedAt": "05/26 11:53",
       "pid": "1434186925",
       "verified": {
         "source": "2026-05-26",
@@ -326,7 +349,7 @@
     },
     {
       "seller": "brightdog.d38b34",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "sony INZONE H5",
       "price": 3000,
       "condition": "Brand new",
@@ -336,7 +359,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 21:17",
+      "listedAt": "05/26 12:53",
       "pid": "1440030799",
       "verified": {
         "source": "2026-05-26",
@@ -395,17 +418,17 @@
     },
     {
       "seller": "letallout",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "well-come 好吉康 AXEFIT 漫遊者３平板電動跑步機(99%免安裝/輕薄好收/超慢跑/健走/慢跑機/1-14KM)",
       "price": 7500,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1428534591/",
-      "category": "iPad",
-      "maxDays": 7,
+      "category": "運動戶外",
+      "maxDays": 3,
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 22:17",
+      "listedAt": "05/26 12:53",
       "pid": "1428534591",
       "verified": {
         "source": "2026-05-26",
@@ -441,7 +464,7 @@
     },
     {
       "seller": "grand.taitaitai",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Fujifilm XF 23mm f2 鏡頭",
       "price": 7500,
       "condition": "Like new",
@@ -451,7 +474,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 22:17",
+      "listedAt": "05/26 13:53",
       "pid": "1440045930",
       "verified": {
         "source": "2026-05-26",
@@ -464,7 +487,7 @@
     },
     {
       "seller": "sota919",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Leica Visoflex 18767 電子取景器",
       "price": 8500,
       "condition": "Lightly used",
@@ -474,7 +497,7 @@
       "priceStr": "NT$8,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 22:17",
+      "listedAt": "05/26 13:53",
       "pid": "1440043067",
       "verified": {
         "source": "2026-05-26",
@@ -487,7 +510,7 @@
     },
     {
       "seller": "tnt17_",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "羅技g29方向盤模擬器組含排檔桿",
       "price": 6500,
       "condition": "Like new",
@@ -497,7 +520,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 22:17",
+      "listedAt": "05/26 13:53",
       "pid": "1440044430",
       "verified": {
         "source": "2026-05-26",
@@ -510,7 +533,7 @@
     },
     {
       "seller": "aa0936966243191",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "ZANE ARTS 晴空帳ZEKU-M",
       "price": 8600,
       "condition": "Lightly used",
@@ -520,7 +543,7 @@
       "priceStr": "NT$8,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 22:17",
+      "listedAt": "05/26 13:53",
       "pid": "1440039562",
       "verified": {
         "source": "2026-05-26",
@@ -533,7 +556,7 @@
     },
     {
       "seller": "marcolin128",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Canon EOS RP+24-105 IS STM",
       "price": 25000,
       "condition": "Lightly used",
@@ -543,7 +566,7 @@
       "priceStr": "NT$25,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 23:17",
+      "listedAt": "05/26 14:53",
       "pid": "1440057080",
       "verified": {
         "source": "2026-05-26",
@@ -556,7 +579,7 @@
     },
     {
       "seller": "ostinas",
-      "timeAgo": "39 minutes ago",
+      "timeAgo": "10 hours ago",
       "title": "Beats Studio3 Wireless十週年耳罩式耳機",
       "price": 4300,
       "condition": "Brand new",
@@ -566,7 +589,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/27 00:38",
+      "listedAt": "05/26 15:53",
       "pid": "1440069854",
       "verified": {
         "source": "2026-05-26",
@@ -576,6 +599,167 @@
       },
       "vsNew": 36,
       "vsSecondhand": 72
+    },
+    {
+      "seller": "leeran22",
+      "timeAgo": "7 hours ago",
+      "title": "Marshall Acton III 三代 藍牙音響｜夜幕藍",
+      "price": 7000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440102702/",
+      "category": "音響",
+      "maxDays": 5,
+      "priceStr": "NT$7,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 18:53",
+      "pid": "1440102702",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10900,
+        "secondhand": 8500,
+        "note": "Marshall Acton III 夜幕藍 NT$7,000 = 64% 新 / 82% 二手 (殺價)"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 82
+    },
+    {
+      "seller": "a0919456-cindy",
+      "timeAgo": "5 hours ago",
+      "title": "Dyson Digital Slim Fluffy SV18 無線吸塵器 附充電座 功能正常",
+      "price": 10000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440116960/",
+      "category": "吸塵器",
+      "maxDays": 7,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 20:53",
+      "pid": "1440116960",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 15900,
+        "secondhand": 12000,
+        "note": "Dyson Digital Slim Fluffy SV18 無線吸塵器 NT$10,000 = 63% 新 / 83% 二手 (殺價)"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 83
+    },
+    {
+      "seller": "hhreb.aay",
+      "timeAgo": "3 hours ago",
+      "title": "Fujifilm XF 35mm F2 R 富士 fuji fujifilm",
+      "price": 7000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440146164/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$7,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 22:53",
+      "pid": "1440146164",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 13480,
+        "secondhand": 8500,
+        "note": "Fuji XF 35mm F2 R WR NT$7,000 = 52% 新 / 82% 二手 (殺價, 經典標焦)"
+      },
+      "vsNew": 52,
+      "vsSecondhand": 82
+    },
+    {
+      "seller": "fitzfrei",
+      "timeAgo": "5 hours ago",
+      "title": "DJI 大疆 RS4 Mini Combo + 手機夾 + 2 年 Care",
+      "price": 9800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1428508421/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$9,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 20:53",
+      "pid": "1428508421",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 15390,
+        "secondhand": 11500,
+        "note": "DJI RS4 Mini Combo + 手機夾 + 2 年 Care NT$9,800 = 64% 新 / 85% 二手 (好貨)"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 85
+    },
+    {
+      "seller": "goldendolphin_3fed83",
+      "timeAgo": "4 hours ago",
+      "title": "TP-Link WiFi 7 BE17000 三頻 10G 真 Mesh 無線路由器Deco BE77 (雙入組)",
+      "price": 12000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440138832/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$12,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 21:53",
+      "pid": "1440138832",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 15999,
+        "secondhand": 13500,
+        "note": "TP-Link Deco BE77 WiFi 7 雙入 NT$12,000 = 75% 新 / 89% 二手 (殺價)"
+      },
+      "vsNew": 75,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "jason7411",
+      "timeAgo": "3 hours ago",
+      "title": "Apple WATCH s10 46mm GPS 黑色",
+      "price": 8000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440141352/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 22:53",
+      "pid": "1440141352",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 12500,
+        "secondhand": 10000,
+        "note": "Apple Watch S10 46mm GPS 黑 NT$8,000 = 64% 新 / 80% 二手 (殺價)"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 80
+    },
+    {
+      "seller": "quby3c",
+      "timeAgo": "8 hours ago",
+      "title": "Apple Watch S10 46mm GPS 午夜黑 100%",
+      "price": 8300,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440089112/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$8,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 17:53",
+      "pid": "1440089112",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 12500,
+        "secondhand": 10000,
+        "note": "Apple Watch S10 46mm GPS 午夜黑 100%電池 NT$8,300 = 66% 新 / 83% 二手 (殺價, 100%電池可驗)"
+      },
+      "vsNew": 66,
+      "vsSecondhand": 83
     }
   ],
   "uncertain": []
