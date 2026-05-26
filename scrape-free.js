@@ -4,6 +4,15 @@
 
 const { chromium } = require('playwright');
 const fs = require('fs');
+const lock = require('./chromium-lock');
+lock.acquire('scrape-free.js');
+
+const UA_POOL = [
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+];
+const UA = UA_POOL[Math.floor(Math.random() * UA_POOL.length)];
 
 const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
 const URL = 'https://tw.carousell.com/categories/free-items-2158/';
@@ -27,7 +36,7 @@ const URL = 'https://tw.carousell.com/categories/free-items-2158/';
   } catch {}
 
   const ctx = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+    userAgent: UA,
     locale: 'zh-TW',
     viewport: { width: 1440, height: 900 },
   });

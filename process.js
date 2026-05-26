@@ -128,7 +128,11 @@ function timeAgoToTimestamp(timeAgo) {
       else if (u === '年') now.setFullYear(now.getFullYear() - n);
     }
   }
-  return now.toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false, month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
+  // 跨年: 超過 6 個月加 year 標籤, 一眼看出死貨
+  const monthsAgo = (Date.now() - now.getTime()) / (1000 * 86400 * 30);
+  const opts = { timeZone: 'Asia/Taipei', hour12: false, month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' };
+  if (monthsAgo > 6) opts.year = 'numeric';
+  return now.toLocaleString('zh-TW', opts);
 }
 
 const escPipe = s => (s || '').replace(/\|/g, '/');

@@ -1,5 +1,31 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
+const lock = require('./chromium-lock');
+lock.acquire('scrape.js');
+
+// UA rotation 池
+const UA_POOL = [
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+];
+const UA = UA_POOL[Math.floor(Math.random() * UA_POOL.length)];
+
+// Retry helper
+async function withRetry(fn, label, attempts = 3) {
+  for (let i = 0; i < attempts; i++) {
+    try { return await fn(); }
+    catch (e) {
+      const code = e?.response?.status || e?.code || '';
+      const transient = /500|429|timeout|ERR_NETWORK|net::|ECONNRESET/i.test(`${code} ${e.message}`);
+      if (i === attempts - 1 || !transient) throw e;
+      const wait = 2000 * (i + 1);
+      console.warn(`[retry] ${label} attempt ${i+1}/${attempts} 失敗 (${e.message?.slice(0,60)}), wait ${wait}ms`);
+      await new Promise(r => setTimeout(r, wait));
+    }
+  }
+}
 
 // === 搜尋關鍵字 ===
 // maxDays: 最大可接受上架天數（預設 3）
@@ -151,7 +177,7 @@ const SKIP_RATIO = 0.3;
   } catch(e) { console.log('  無 cookies.json 或格式錯誤:', e.message?.slice(0,60)); }
 
   const ctx = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36'
+    userAgent: UA
   });
   if (cookies.length) await ctx.addCookies(cookies);
 
@@ -176,7 +202,7 @@ const SKIP_RATIO = 0.3;
     console.log(`[${ts()}] [${i+1}/${QUERIES.length}] 搜尋: "${q}" ($${min}-$${max})`);
     console.log(`  URL: ${url}`);
     try {
-      await page.goto(url, { waitUntil: 'load', timeout: 20000 });
+      await withRetry(() => page.goto(url, { waitUntil: 'load', timeout: 20000 }), `goto ${url.slice(0,60)}`);
       await delay(5000);
 
       const pageTitle = await page.title();
@@ -240,7 +266,7 @@ const SKIP_RATIO = 0.3;
     console.log(`[${ts()}] [${i+1}/${CATEGORIES.length}] 分類: ${name}`);
     console.log(`  URL: ${url}`);
     try {
-      await page.goto(url, { waitUntil: 'load', timeout: 20000 });
+      await withRetry(() => page.goto(url, { waitUntil: 'load', timeout: 20000 }), `goto ${url.slice(0,60)}`);
       await delay(5000);
 
       const pageTitle = await page.title();
