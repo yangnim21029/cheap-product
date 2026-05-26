@@ -1,4 +1,10 @@
 {
+  "225210929": {
+    "source": "2026-05-27",
+    "newPrice": 10990,
+    "secondhand": 9000,
+    "note": "KEF Muo 星際藍 NT$6,300 = 57% 新 / 70% 二手 (好貨邊界, Muo 已停產 2024)"
+  },
   "251498395": {
     "newPrice": null,
     "secondhand": null,
@@ -111,6 +117,12 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1341316048": {
+    "source": "2026-05-27",
+    "newPrice": 10990,
+    "secondhand": 8500,
+    "note": "Bose SoundLink Revolve+ 台灣公司貨 NT$7,500 = 68% 新 / 88% 二手 (殺價)"
+  },
   "1346332055": {
     "newPrice": null,
     "secondhand": null,
@@ -152,6 +164,12 @@
     "note": "Refa 【日本🇯🇵 ReFa】ReFa CARAT RAY FACE 面部滾輪 美容 NT$1,590 ami0019 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1381417060": {
+    "source": "2026-05-27",
+    "newPrice": 8990,
+    "secondhand": 6000,
+    "note": "Vifa City 檸檬綠 全新未拆 NT$4,500 = 50% 新 / 75% 二手 (好貨)"
   },
   "1385252512": {
     "newPrice": null,
@@ -3587,6 +3605,13 @@
     "note": "手沖 Tittot 琉園手沖咖啡壺組 NT$500 入門中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1432160388": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 75000,
+    "secondhand": 35000,
+    "note": "Devialet Phantom II 95dB 含盒+提包 NT$32,000 = 43% 新 / 91% 二手 (manual: 估值最高款但二手價持平, 需檢電池/SAM/雙人提)"
   },
   "1432163610": {
     "newPrice": null,
