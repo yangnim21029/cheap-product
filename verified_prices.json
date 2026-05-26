@@ -4227,6 +4227,13 @@
     "note": "Kendrick Lamar GNX 全新黑膠未拆 公司貨 $1,500 二手 $800-1.2K。$900 = 新品 60% 二手中下緣 imajuststayinmylane 手動黑膠例外",
     "source": "manual_inject_web"
   },
+  "1433296779": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "「收」Costco Kirkland 鐵桿 looking-for 不是 sell SKIP"
+  },
   "1433300470": {
     "newPrice": null,
     "secondhand": null,
@@ -27904,12 +27911,26 @@
     "secondhand": 30000,
     "note": "Canon EOS RP + RF 24-105 IS STM kit NT$25,000 = 50% 新 / 83% 二手 (殺價, 入門全幅 + kit 鏡)"
   },
+  "1440057996": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TUSA Paragon WWA + SP170 (divingbird 第 4 次重複) SKIP"
+  },
   "1440060762": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "真珠美人魚中文原聲帶絕版 NT$6,500 niche 收藏 SKIP"
+  },
+  "1440061156": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad A16 (2025) 128GB 藍 NT$8,900 = 85% 新品 SKIP"
   },
   "1440061627": {
     "source": "2026-05-26",
@@ -27918,11 +27939,46 @@
     "secondhand": null,
     "note": "TUSA Paragon M2001SQB WA + SP170 NT$6,200 重複款 SKIP"
   },
+  "1440061974": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "老珍藏天然花蓮玉石墨玉手鐲 NT$1,588 niche 玉石 SKIP"
+  },
   "1440062082": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Prince Cream Remixes CD NT$1,500 < $2K niche SKIP"
+  },
+  "1440062137": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AudioQuest Type 5 鍍銀喇叭線 2.5m NT$9,500 niche HiFi 線材持平 SKIP"
+  },
+  "1440062375": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods 4 ANC 在保 NT$2,600 wearables-cat leak < $3K SKIP"
+  },
+  "1440065592": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods 4 ANC 全新 NT$4,000 wearables-cat leak SKIP"
+  },
+  "1440067423": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "老珍藏白兔毛水晶手鐲 NT$1,888 niche 水晶 SKIP"
   }
 }
