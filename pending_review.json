@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sbkleon",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "FANATEC CLUBSPORT FORMULA V2.5 X",
       "price": 10500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:48",
+      "listedAt": "05/26 09:14",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -35,7 +35,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:48",
+      "listedAt": "05/26 10:14",
       "pid": "1440002267",
       "verified": {
         "newPrice": 4490,
@@ -48,7 +48,7 @@
     },
     {
       "seller": "portas",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電 行動電源 8+ note8",
       "price": 500,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 10:48",
+      "listedAt": "05/26 10:14",
       "pid": "1440005066",
       "verified": {
         "source": "2026-05-26",
@@ -71,7 +71,7 @@
     },
     {
       "seller": "darksky05547190",
-      "timeAgo": "16 minutes ago",
+      "timeAgo": "41 minutes ago",
       "title": "Harman Kardon SoundSticks 4 藍牙2.1聲道多媒體水母喇叭-黑色",
       "price": 8000,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:32",
+      "listedAt": "05/26 13:33",
       "pid": "1440035620",
       "verified": {
         "source": "2026-05-26",
@@ -91,6 +91,52 @@
       },
       "vsNew": 67,
       "vsSecondhand": 67
+    },
+    {
+      "seller": "riceball.on.a.sesame",
+      "timeAgo": "3 hours ago",
+      "title": "iWALK SWITCH 切換式行動電源 5500mAh（型號 LPS003）",
+      "price": 600,
+      "condition": "",
+      "url": "https://tw.carousell.com/p/1440009620/",
+      "category": "行動電源",
+      "maxDays": 7,
+      "priceStr": "NT$600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 11:14",
+      "pid": "1440009620",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 1290,
+        "secondhand": 900,
+        "note": "iWALK SWITCH 5500mAh LPS003 NT$720 = 56% 新品 / 80% 二手"
+      },
+      "vsNew": 47,
+      "vsSecondhand": 67
+    },
+    {
+      "seller": "sean211",
+      "timeAgo": "17 minutes ago",
+      "title": "羅技g27方向盤全套，含方向盤，踏板，及排檔桿（不議）#地平線6#方向盤",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1434199906/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 13:57",
+      "pid": "1434199906",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": null,
+        "secondhand": 7000,
+        "note": "羅技 G27 方向盤全套 (含踏板/排檔桿) NT$4,500 = 64% 二手 (好貨, 但 G27 已停產 10 年壽命堪憂)"
+      },
+      "vsNew": null,
+      "vsSecondhand": 64
     }
   ],
   "negotiate": [
@@ -106,7 +152,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:48",
+      "listedAt": "05/24 14:14",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -129,7 +175,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 13:48",
+      "listedAt": "05/24 14:14",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -142,7 +188,7 @@
     },
     {
       "seller": "tripleaservice",
-      "timeAgo": "21 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE",
       "price": 8800,
       "condition": "Brand new",
@@ -152,7 +198,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:48",
+      "listedAt": "05/25 16:14",
       "pid": "1439889552",
       "verified": {
         "source": "2026-05-26",
@@ -175,7 +221,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:48",
+      "listedAt": "05/26 12:14",
       "pid": "1440020956",
       "verified": {
         "source": "2026-05-26",
@@ -198,7 +244,7 @@
       "priceStr": "NT$10,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:48",
+      "listedAt": "05/26 12:14",
       "pid": "1440020695",
       "verified": {
         "source": "2026-05-26",
@@ -221,7 +267,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:48",
+      "listedAt": "05/26 12:14",
       "pid": "1434186925",
       "verified": {
         "source": "2026-05-26",
@@ -257,7 +303,7 @@
     },
     {
       "seller": "brightdog.d38b34",
-      "timeAgo": "58 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "sony INZONE H5",
       "price": 3000,
       "condition": "Brand new",
@@ -267,7 +313,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 12:50",
+      "listedAt": "05/26 13:14",
       "pid": "1440030799",
       "verified": {
         "source": "2026-05-26",
@@ -280,7 +326,7 @@
     },
     {
       "seller": "Poseidon_Nomad",
-      "timeAgo": "50 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "Giant SCR1 藍色公路車 尺寸S",
       "price": 8000,
       "condition": "Lightly used",
@@ -290,7 +336,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 12:58",
+      "listedAt": "05/26 13:14",
       "pid": "1440031491",
       "verified": {
         "source": "2026-05-26",
@@ -313,7 +359,7 @@
       "priceStr": "NT$8,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 10:48",
+      "listedAt": "05/26 11:14",
       "pid": "1440010420",
       "verified": {
         "source": "2026-05-26",
@@ -326,17 +372,17 @@
     },
     {
       "seller": "letallout",
-      "timeAgo": "30 minutes ago",
+      "timeAgo": "59 minutes ago",
       "title": "well-come 好吉康 AXEFIT 漫遊者３平板電動跑步機(99%免安裝/輕薄好收/超慢跑/健走/慢跑機/1-14KM)",
       "price": 7500,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1428534591/",
-      "category": "iPad",
-      "maxDays": 7,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:18",
+      "listedAt": "05/26 13:15",
       "pid": "1428534591",
       "verified": {
         "source": "2026-05-26",
