@@ -6,6 +6,9 @@ const fs = require('fs');
 const QUERIES = [
   { q: 'apple watch', min: 1000, max: 5000, maxDays: 3 }, // Apple 高頻日更, 保留
   // 2026-05-26 User: 走分類比 query 準, Android 智慧手錶改 wearables-smart-watches-6436 sub-cat sweep
+  // 2026-05-26 User: 行李箱要 Rimowa 等級, Carousell 無行李箱獨立 sub-cat → 走品牌 query
+  { q: 'Rimowa', min: 5000, max: 35000, maxDays: 7 }, // min 5K 過濾過夜包/空盒週邊
+  { q: 'Tumi', min: 5000, max: 20000, maxDays: 7 }, // min 5K 過濾後背包/斜背包
   // { q: 'Vivienne Westwood', min: 500, max: 5000 }, // 暫停 2026-05-02
   { q: '空氣清淨機', min: 500, max: 3000, maxDays: 3 },
   { q: '投影機', min: 2000, max: 10000, maxDays: 5 },
