@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:03",
+      "listedAt": "05/26 09:04",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -35,7 +35,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 10:03",
+      "listedAt": "05/26 10:04",
       "pid": "1440002267",
       "verified": {
         "newPrice": 4490,
@@ -83,7 +83,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:03",
+      "listedAt": "05/24 12:04",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -106,7 +106,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:03",
+      "listedAt": "05/24 12:04",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -129,7 +129,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 17:03",
+      "listedAt": "05/25 17:04",
       "pid": "1439889552",
       "verified": {
         "source": "2026-05-26",
@@ -152,7 +152,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:52",
+      "listedAt": "05/26 11:53",
       "pid": "1440020956",
       "verified": {
         "source": "2026-05-26",
@@ -162,6 +162,52 @@
       },
       "vsNew": 54,
       "vsSecondhand": 78
+    },
+    {
+      "seller": "ajsnsnj",
+      "timeAgo": "12 minutes ago",
+      "title": "ASUS DUAL RTX 5060 8GB GDDR7 OC 全新",
+      "price": 10300,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1440020695/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$10,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 11:52",
+      "pid": "1440020695",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 12470,
+        "secondhand": 11500,
+        "note": "ASUS DUAL RTX 5060 8GB OC 全新 NT$10,300 = 83% 新品 / 90% 二手 (殺價邊界, 砍到$9K才算好貨)"
+      },
+      "vsNew": 83,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "keenlion_535eb7",
+      "timeAgo": "13 minutes ago",
+      "title": "AMD Ryzen 5 8500G 3.5GHz 六核心 中央處理器 送原廠風扇",
+      "price": 3999,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1434186925/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,999",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 11:51",
+      "pid": "1434186925",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 5190,
+        "secondhand": 4500,
+        "note": "AMD Ryzen 5 8500G 全新送風扇 NT$3,999 = 77% 新品 / 89% 二手 (殺價, 砍$3.6K才好貨)"
+      },
+      "vsNew": 77,
+      "vsSecondhand": 89
     }
   ],
   "uncertain": []
