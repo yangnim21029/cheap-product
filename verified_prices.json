@@ -4688,6 +4688,13 @@
     "source": "manual 2026-05-11",
     "skip": true
   },
+  "1434184886": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Speedplay 棒棒糖卡踏 NT$2,000 同賣家 w1230 重複款 SKIP"
+  },
   "1434184978": {
     "source": "2026-05-26",
     "skip": true,
@@ -27883,5 +27890,39 @@
     "newPrice": 12900,
     "secondhand": 10000,
     "note": "Garmin inReach Mini 2 衛星通訊器 NT$7,000 = 54% 新 / 70% 二手 (好貨邊界)"
+  },
+  "1440056306": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "JBL FLIP 6 全新 NT$2,000 = 61% 新 / 95% 二手 < $3K SKIP"
+  },
+  "1440057080": {
+    "source": "2026-05-26",
+    "newPrice": 50000,
+    "secondhand": 30000,
+    "note": "Canon EOS RP + RF 24-105 IS STM kit NT$25,000 = 50% 新 / 83% 二手 (殺價, 入門全幅 + kit 鏡)"
+  },
+  "1440060762": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "真珠美人魚中文原聲帶絕版 NT$6,500 niche 收藏 SKIP"
+  },
+  "1440061627": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TUSA Paragon M2001SQB WA + SP170 NT$6,200 重複款 SKIP"
+  },
+  "1440062082": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Prince Cream Remixes CD NT$1,500 < $2K niche SKIP"
   }
 }
