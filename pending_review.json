@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:22",
+      "listedAt": "05/26 09:23",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -81,7 +81,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:22",
+      "listedAt": "05/26 13:23",
       "pid": "1440035620",
       "verified": {
         "source": "2026-05-26",
@@ -150,7 +150,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 15:22",
+      "listedAt": "05/26 15:23",
       "pid": "1440054506",
       "verified": {
         "source": "2026-05-26",
@@ -173,7 +173,7 @@
       "priceStr": "NT$3,750",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 21:22",
+      "listedAt": "05/26 21:23",
       "pid": "1440131664",
       "verified": {
         "source": "2026-05-27",
@@ -194,7 +194,13 @@
       "url": "https://tw.carousell.com/p/1381417060/",
       "vsNew": 50,
       "vsSecondhand": 75,
-      "note": "高階藍牙喇叭 watchlist"
+      "note": "高階藍牙喇叭 watchlist",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 8990,
+        "secondhand": 6000,
+        "note": "Vifa City 檸檬綠 全新未拆 NT$4,500 = 50% 新 / 75% 二手 (好貨)"
+      }
     },
     {
       "pid": "225210929",
@@ -206,7 +212,13 @@
       "url": "https://tw.carousell.com/p/225210929/",
       "vsNew": 57,
       "vsSecondhand": 70,
-      "note": "高階藍牙喇叭 watchlist, Muo 已停產 2024"
+      "note": "高階藍牙喇叭 watchlist, Muo 已停產 2024",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10990,
+        "secondhand": 9000,
+        "note": "KEF Muo 星際藍 NT$6,300 = 57% 新 / 70% 二手 (好貨邊界, Muo 已停產 2024)"
+      }
     }
   ],
   "negotiate": [
@@ -222,7 +234,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 03:22",
+      "listedAt": "05/25 03:23",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -245,7 +257,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 03:22",
+      "listedAt": "05/25 03:23",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -268,7 +280,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 03:22",
+      "listedAt": "05/26 03:23",
       "pid": "1439889552",
       "verified": {
         "source": "2026-05-26",
@@ -291,7 +303,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 12:22",
+      "listedAt": "05/26 12:23",
       "pid": "1440020956",
       "verified": {
         "source": "2026-05-26",
@@ -314,7 +326,7 @@
       "priceStr": "NT$10,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 12:22",
+      "listedAt": "05/26 12:23",
       "pid": "1440020695",
       "verified": {
         "source": "2026-05-26",
@@ -337,7 +349,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 12:22",
+      "listedAt": "05/26 12:23",
       "pid": "1434186925",
       "verified": {
         "source": "2026-05-26",
@@ -360,7 +372,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:22",
+      "listedAt": "05/26 11:23",
       "pid": "1440015883",
       "verified": {
         "source": "2026-05-26",
@@ -383,7 +395,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:22",
+      "listedAt": "05/26 13:23",
       "pid": "1440030799",
       "verified": {
         "source": "2026-05-26",
@@ -452,7 +464,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:22",
+      "listedAt": "05/26 13:23",
       "pid": "1428534591",
       "verified": {
         "source": "2026-05-26",
@@ -498,7 +510,7 @@
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 14:22",
+      "listedAt": "05/26 14:23",
       "pid": "1440045930",
       "verified": {
         "source": "2026-05-26",
@@ -521,7 +533,7 @@
       "priceStr": "NT$8,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 14:22",
+      "listedAt": "05/26 14:23",
       "pid": "1440043067",
       "verified": {
         "source": "2026-05-26",
@@ -544,7 +556,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 14:22",
+      "listedAt": "05/26 14:23",
       "pid": "1440044430",
       "verified": {
         "source": "2026-05-26",
@@ -567,7 +579,7 @@
       "priceStr": "NT$8,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:22",
+      "listedAt": "05/26 13:23",
       "pid": "1440039562",
       "verified": {
         "source": "2026-05-26",
@@ -590,7 +602,7 @@
       "priceStr": "NT$25,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 15:22",
+      "listedAt": "05/26 15:23",
       "pid": "1440057080",
       "verified": {
         "source": "2026-05-26",
@@ -613,7 +625,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 16:22",
+      "listedAt": "05/26 16:23",
       "pid": "1440069854",
       "verified": {
         "source": "2026-05-26",
@@ -636,7 +648,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 19:22",
+      "listedAt": "05/26 19:23",
       "pid": "1440102702",
       "verified": {
         "source": "2026-05-27",
@@ -682,7 +694,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 23:22",
+      "listedAt": "05/26 23:23",
       "pid": "1440146164",
       "verified": {
         "source": "2026-05-27",
@@ -705,7 +717,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 21:22",
+      "listedAt": "05/26 21:23",
       "pid": "1428508421",
       "verified": {
         "source": "2026-05-27",
@@ -728,7 +740,7 @@
       "priceStr": "NT$12,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 22:22",
+      "listedAt": "05/26 22:23",
       "pid": "1440138832",
       "verified": {
         "source": "2026-05-27",
@@ -751,7 +763,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 22:22",
+      "listedAt": "05/26 22:23",
       "pid": "1440141352",
       "verified": {
         "source": "2026-05-27",
@@ -774,7 +786,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 17:22",
+      "listedAt": "05/26 17:23",
       "pid": "1440089112",
       "verified": {
         "source": "2026-05-27",
@@ -797,7 +809,7 @@
       "priceStr": "NT$17,580",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 19:22",
+      "listedAt": "05/26 19:23",
       "pid": "1440102884",
       "verified": {
         "source": "2026-05-27",
@@ -820,7 +832,7 @@
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 18:22",
+      "listedAt": "05/26 18:23",
       "pid": "1440090118",
       "verified": {
         "source": "2026-05-27",
@@ -843,7 +855,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/27 02:22",
+      "listedAt": "05/27 02:23",
       "pid": "1440173807",
       "verified": {
         "source": "2026-05-27",
@@ -866,7 +878,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 18:22",
+      "listedAt": "05/26 18:23",
       "pid": "1440089949",
       "verified": {
         "source": "2026-05-27",
@@ -887,7 +899,13 @@
       "url": "https://tw.carousell.com/p/1341316048/",
       "vsNew": 68,
       "vsSecondhand": 88,
-      "note": "高階藍牙喇叭 watchlist"
+      "note": "高階藍牙喇叭 watchlist",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10990,
+        "secondhand": 8500,
+        "note": "Bose SoundLink Revolve+ 台灣公司貨 NT$7,500 = 68% 新 / 88% 二手 (殺價)"
+      }
     }
   ],
   "uncertain": []
