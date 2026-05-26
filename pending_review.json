@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:47",
+      "listedAt": "05/26 09:48",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -35,7 +35,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:55",
+      "listedAt": "05/26 09:56",
       "pid": "1440002267",
       "verified": {
         "newPrice": 4490,
@@ -58,7 +58,7 @@
       "priceStr": "NT$500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 10:25",
+      "listedAt": "05/26 10:26",
       "pid": "1440005066",
       "verified": {
         "source": "2026-05-26",
@@ -83,7 +83,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 10:47",
+      "listedAt": "05/24 10:48",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -106,7 +106,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 10:47",
+      "listedAt": "05/24 10:48",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -116,6 +116,29 @@
       },
       "vsNew": 63,
       "vsSecondhand": 85
+    },
+    {
+      "seller": "tripleaservice",
+      "timeAgo": "18 hours ago",
+      "title": "『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE",
+      "price": 8800,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1439889552/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$8,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/25 16:48",
+      "pid": "1439889552",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 11000,
+        "secondhand": 10000,
+        "note": "AW SE3 40mm LTE 全新未拆 NT$8,800 = 77% 新品 / 88% 二手 (殺價band)"
+      },
+      "vsNew": 80,
+      "vsSecondhand": 88
     }
   ],
   "uncertain": []
