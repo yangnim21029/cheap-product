@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sbkleon",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "FANATEC CLUBSPORT FORMULA V2.5 X",
       "price": 10500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:39",
+      "listedAt": "05/26 09:07",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -35,7 +35,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:39",
+      "listedAt": "05/26 10:07",
       "pid": "1440002267",
       "verified": {
         "newPrice": 4490,
@@ -48,7 +48,7 @@
     },
     {
       "seller": "portas",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電 行動電源 8+ note8",
       "price": 500,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 10:39",
+      "listedAt": "05/26 10:07",
       "pid": "1440005066",
       "verified": {
         "source": "2026-05-26",
@@ -71,17 +71,17 @@
     },
     {
       "seller": "darksky05547190",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Harman Kardon SoundSticks 4 藍牙2.1聲道多媒體水母喇叭-黑色",
       "price": 8000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1440035620/",
-      "category": "",
-      "maxDays": 1,
+      "category": "喇叭",
+      "maxDays": 3,
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:39",
+      "listedAt": "05/26 13:07",
       "pid": "1440035620",
       "verified": {
         "source": "2026-05-26",
@@ -104,7 +104,7 @@
       "priceStr": "NT$600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 10:39",
+      "listedAt": "05/26 11:07",
       "pid": "1440009620",
       "verified": {
         "source": "2026-05-26",
@@ -117,7 +117,7 @@
     },
     {
       "seller": "sean211",
-      "timeAgo": "42 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "羅技g27方向盤全套，含方向盤，踏板，及排檔桿（不議）#地平線6#方向盤",
       "price": 4500,
       "condition": "Lightly used",
@@ -127,7 +127,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:57",
+      "listedAt": "05/26 14:07",
       "pid": "1434199906",
       "verified": {
         "source": "2026-05-26",
@@ -137,6 +137,29 @@
       },
       "vsNew": null,
       "vsSecondhand": 64
+    },
+    {
+      "seller": "eriklee5566",
+      "timeAgo": "11 minutes ago",
+      "title": "Garmin InReach Mini 2衛星電話",
+      "price": 7000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440054506/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$7,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 14:56",
+      "pid": "1440054506",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 12900,
+        "secondhand": 10000,
+        "note": "Garmin inReach Mini 2 衛星通訊器 NT$7,000 = 54% 新 / 70% 二手 (好貨邊界)"
+      },
+      "vsNew": 54,
+      "vsSecondhand": 70
     }
   ],
   "negotiate": [
@@ -152,7 +175,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 14:39",
+      "listedAt": "05/24 15:07",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -175,7 +198,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 14:39",
+      "listedAt": "05/24 15:07",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -188,7 +211,7 @@
     },
     {
       "seller": "tripleaservice",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "23 hours ago",
       "title": "『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE",
       "price": 8800,
       "condition": "Brand new",
@@ -198,7 +221,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:39",
+      "listedAt": "05/25 16:07",
       "pid": "1439889552",
       "verified": {
         "source": "2026-05-26",
@@ -221,7 +244,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:39",
+      "listedAt": "05/26 12:07",
       "pid": "1440020956",
       "verified": {
         "source": "2026-05-26",
@@ -244,7 +267,7 @@
       "priceStr": "NT$10,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:39",
+      "listedAt": "05/26 12:07",
       "pid": "1440020695",
       "verified": {
         "source": "2026-05-26",
@@ -267,7 +290,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:39",
+      "listedAt": "05/26 12:07",
       "pid": "1434186925",
       "verified": {
         "source": "2026-05-26",
@@ -313,7 +336,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 12:39",
+      "listedAt": "05/26 13:07",
       "pid": "1440030799",
       "verified": {
         "source": "2026-05-26",
@@ -336,7 +359,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 12:39",
+      "listedAt": "05/26 13:07",
       "pid": "1440031491",
       "verified": {
         "source": "2026-05-26",
@@ -359,7 +382,7 @@
       "priceStr": "NT$8,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 10:39",
+      "listedAt": "05/26 11:07",
       "pid": "1440010420",
       "verified": {
         "source": "2026-05-26",
@@ -372,17 +395,17 @@
     },
     {
       "seller": "letallout",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "well-come 好吉康 AXEFIT 漫遊者３平板電動跑步機(99%免安裝/輕薄好收/超慢跑/健走/慢跑機/1-14KM)",
       "price": 7500,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1428534591/",
-      "category": "iPad",
-      "maxDays": 7,
+      "category": "運動戶外",
+      "maxDays": 3,
       "priceStr": "NT$7,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 13:39",
+      "listedAt": "05/26 13:07",
       "pid": "1428534591",
       "verified": {
         "source": "2026-05-26",
@@ -395,7 +418,7 @@
     },
     {
       "seller": "blairberry",
-      "timeAgo": "13 minutes ago",
+      "timeAgo": "39 minutes ago",
       "title": "DIKE HLE701 便攜多功能移動式空調｜2024年製｜移動冷氣／露營／除濕／送風",
       "price": 8000,
       "condition": "Like new",
@@ -405,7 +428,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 14:26",
+      "listedAt": "05/26 14:28",
       "pid": "1440045648",
       "verified": {
         "source": "2026-05-26",
@@ -415,6 +438,98 @@
       },
       "vsNew": 80,
       "vsSecondhand": 89
+    },
+    {
+      "seller": "grand.taitaitai",
+      "timeAgo": "52 minutes ago",
+      "title": "Fujifilm XF 23mm f2 鏡頭",
+      "price": 7500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440045930/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$7,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 14:15",
+      "pid": "1440045930",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 14200,
+        "secondhand": 10000,
+        "note": "Fuji XF 23mm f/2 R WR NT$7,500 = 53% 新 / 75% 二手 (殺價)"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 75
+    },
+    {
+      "seller": "sota919",
+      "timeAgo": "1 hour ago",
+      "title": "Leica Visoflex 18767 電子取景器",
+      "price": 8500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440043067/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$8,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 14:07",
+      "pid": "1440043067",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 15000,
+        "secondhand": 11000,
+        "note": "Leica Visoflex 18767 EVF (舊型) NT$8,500 = 57% 新 / 77% 二手 (殺價, 二手量少流動慢)"
+      },
+      "vsNew": 57,
+      "vsSecondhand": 77
+    },
+    {
+      "seller": "tnt17_",
+      "timeAgo": "1 hour ago",
+      "title": "羅技g29方向盤模擬器組含排檔桿",
+      "price": 6500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440044430/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 14:07",
+      "pid": "1440044430",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 12500,
+        "secondhand": 8450,
+        "note": "羅技 G29 全套含排檔桿 NT$6,500 = 52% 新 / 77% 二手 (殺價, G29 比 G27 強)"
+      },
+      "vsNew": 52,
+      "vsSecondhand": 77
+    },
+    {
+      "seller": "aa0936966243191",
+      "timeAgo": "1 hour ago",
+      "title": "ZANE ARTS 晴空帳ZEKU-M",
+      "price": 8600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440039562/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$8,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 14:07",
+      "pid": "1440039562",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 17500,
+        "secondhand": 12000,
+        "note": "ZANE ARTS 晴空帳 ZEKU-M PS-003 NT$8,600 = 49% 新 / 72% 二手 (好貨)"
+      },
+      "vsNew": 49,
+      "vsSecondhand": 72
     }
   ],
   "uncertain": []

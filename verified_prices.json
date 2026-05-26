@@ -2150,6 +2150,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1427733666": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": 7290,
+    "secondhand": 5500,
+    "note": "Wooting 60HE v1 (停產) NT$6,700 = 92% 新 / 122% 二手 太貴 SKIP"
+  },
   "1427737699": {
     "newPrice": null,
     "secondhand": null,
@@ -27778,6 +27785,13 @@
     "secondhand": null,
     "note": "ikbc Typeman W210 青軸 NT$900 < $2K 不熟手感 SKIP"
   },
+  "1440038881": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": 10399,
+    "secondhand": 5250,
+    "note": "instax mini Evo 黑 NT$5,550 = 106% 二手 高於行情 SKIP"
+  },
   "1440039148": {
     "source": "2026-05-26",
     "skip": true,
@@ -27785,12 +27799,37 @@
     "secondhand": null,
     "note": "2021 統一獅超人力霸王球帽 NT$2,480 niche 棒球周邊 < $3K SKIP"
   },
+  "1440039562": {
+    "source": "2026-05-26",
+    "newPrice": 17500,
+    "secondhand": 12000,
+    "note": "ZANE ARTS 晴空帳 ZEKU-M PS-003 NT$8,600 = 49% 新 / 72% 二手 (好貨)"
+  },
+  "1440039957": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "荊溪南孟臣朱泥壺反水溪 NT$7,800 niche 茶壺收藏 SKIP"
+  },
   "1440041888": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Coleman 行動廚房桌 CM-7591JM000 NT$2,000 < $3K 持平 SKIP"
+  },
+  "1440043067": {
+    "source": "2026-05-26",
+    "newPrice": 15000,
+    "secondhand": 11000,
+    "note": "Leica Visoflex 18767 EVF (舊型) NT$8,500 = 57% 新 / 77% 二手 (殺價, 二手量少流動慢)"
+  },
+  "1440044430": {
+    "source": "2026-05-26",
+    "newPrice": 12500,
+    "secondhand": 8450,
+    "note": "羅技 G29 全套含排檔桿 NT$6,500 = 52% 新 / 77% 二手 (殺價, G29 比 G27 強)"
   },
   "1440044484": {
     "source": "2026-05-26",
@@ -27819,11 +27858,30 @@
     "secondhand": null,
     "note": "IRIS PCF-MKM15 循環扇 白 NT$990 = 55% 新品 < $2K SKIP"
   },
+  "1440045930": {
+    "source": "2026-05-26",
+    "newPrice": 14200,
+    "secondhand": 10000,
+    "note": "Fuji XF 23mm f/2 R WR NT$7,500 = 53% 新 / 75% 二手 (殺價)"
+  },
   "1440049750": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "寶麗來 Polaroid 手機印相機 NT$3,000 型號未列 (Hi-Print? Lab?) SKIP"
+  },
+  "1440053374": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TUSA Paragon M2001SQW EOA + SP170 全新展示 NT$6,200 持平 (前輪已 SKIP 同款) SKIP"
+  },
+  "1440054506": {
+    "source": "2026-05-26",
+    "newPrice": 12900,
+    "secondhand": 10000,
+    "note": "Garmin inReach Mini 2 衛星通訊器 NT$7,000 = 54% 新 / 70% 二手 (好貨邊界)"
   }
 }
