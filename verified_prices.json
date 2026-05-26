@@ -1109,6 +1109,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1423233178": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "OPPO Watch S 星耀銀 NT$5,700 持平 SKIP"
+  },
   "1423320902": {
     "newPrice": null,
     "secondhand": null,
@@ -8562,6 +8569,13 @@
   "1437303054": {
     "skip": true,
     "note": "高雄世運5/30 門票 非需求"
+  },
+  "1437303798": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "NITORI OC707 椅 NT$6,500 = 72% 新品持平 SKIP"
   },
   "1437305798": {
     "skip": true,
@@ -17879,6 +17893,13 @@
     "note": "Patrol 99 SKIP: 華碩 STEAM 寶寶情緒教養留聲機 音樂故事機 peiyao798",
     "source": "manual_skip"
   },
+  "1438780653": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TUMI 工作旅行兩用包 NT$6,600 不是箱 SKIP"
+  },
   "1438780924": {
     "newPrice": null,
     "secondhand": null,
@@ -18752,6 +18773,13 @@
     "secondhand": null,
     "note": "Patrol 100 SKIP: ASUS ROG Strix X570I Gaming ITX 主機板 a1921353694110",
     "source": "manual_skip"
+  },
+  "1438897312": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Tumi 後背包 NT$5,000 不是行李箱 SKIP"
   },
   "1438898084": {
     "newPrice": null,
@@ -26544,6 +26572,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1439928957": {
+    "source": "2026-05-26",
+    "newPrice": 30000,
+    "secondhand": 13000,
+    "skip": true,
+    "note": "TUMI 經典黑色四輪可擴展商務 NT$8,600 型號未列 (Alpha Bravo? Alpha 3?), 仿冒風險高需驗序號/拉鍊/標籤後再判, SKIP 等問完賣家再回來"
+  },
   "1439929204": {
     "newPrice": 17000,
     "secondhand": 11000,
@@ -27489,6 +27524,13 @@
     "secondhand": null,
     "note": "SKN 青龍 4.0 Ultra 漪/瑰夏拿鐵軸 NT$1,200 大陸品牌台灣不流通 SKIP"
   },
+  "1440009570": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sigma 30mm f1.4 DC HSM Art Canon NT$6,500 持平 manual SKIP"
+  },
   "1440009620": {
     "source": "2026-05-26",
     "newPrice": 1290,
@@ -27502,12 +27544,25 @@
     "secondhand": null,
     "note": "無線行動電源 type C NT$600 無品牌 SKIP"
   },
+  "1440010420": {
+    "source": "2026-05-26",
+    "newPrice": 12500,
+    "secondhand": 9000,
+    "note": "Yamaha Seqtrak 一體式音樂工作站 美版近全新 NT$8,500 = 68% 新品 (好貨, 缺台灣保固)"
+  },
   "1440011168": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": null,
     "secondhand": 3900,
     "note": "PS3 COD 13 片 NT$3,999 = NT$307/片 持平 SKIP"
+  },
+  "1440011631": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Samsung SSD 970 EVO Plus M2 NT$6,000 容量未列 SKIP"
   },
   "1440012690": {
     "source": "2026-05-26",
@@ -27529,6 +27584,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Marshall Emberton III NT$4,500 = 82% 新品 / 113% 二手持平 SKIP"
+  },
+  "1440015797": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "VeelaH V1 民謠吉他 NT$8,000 持平 SKIP"
   },
   "1440015883": {
     "source": "2026-05-26",
@@ -27569,11 +27631,65 @@
     "secondhand": null,
     "note": "Switch Lite 灰色二手 NT$3,000 持平 SKIP"
   },
+  "1440025187": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "電腦雜貨店 i7-10700 NT$5,600 商家持平 SKIP"
+  },
   "1440026089": {
     "source": "2026-05-26",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "FGO 巴比倫尼亞豹之神棒 Cosplay 道具 NT$3,900 niche 行情不穩 SKIP"
+  },
+  "1440027325": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "電腦雜貨店 RTX 2060S NT$4,800 商家二手持平 SKIP"
+  },
+  "1440027475": {
+    "source": "2026-05-26",
+    "newPrice": 14500,
+    "secondhand": 11500,
+    "skip": true,
+    "note": "Sigma 18-50mm f/2.8 DC DN NT$10,000 卡口未列 (Sony E/Canon RF/Nikon Z/Fuji X/L 二手價差大), 須先問賣家 SKIP"
+  },
+  "1440029908": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "傻瓜通訊 MacBook Pro 2020 M1 NT$17,600 商家持平 SKIP"
+  },
+  "1440030799": {
+    "source": "2026-05-26",
+    "newPrice": 5990,
+    "secondhand": 3500,
+    "note": "Sony INZONE H5 電競耳機 NT$3,000 = 50% 新品 / 86% 二手 (殺價)"
+  },
+  "1440031284": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "捷克羅姆 sar PSA10 NT$10,000 niche 鑑定卡 SKIP"
+  },
+  "1440031491": {
+    "source": "2026-05-26",
+    "newPrice": 23790,
+    "secondhand": 11000,
+    "note": "Giant SCR1 公路車 S NT$8,000 = 34% 新 / 73% 二手 (殺價, SCR1 停產被 SCR2 取代, 砍 $7K 才好)"
+  },
+  "1440031529": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "藝喵 NT$8,000 niche 收藏 SKIP"
   }
 }

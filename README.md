@@ -1,8 +1,8 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/26 12:28:35 · 累積已看 11237 筆 · 110 位賣家黑名單
+> 2026/5/26 12:58:25 · 累積已看 11251 筆 · 110 位賣家黑名單
 
-**待審：** 好貨 3 ｜ 殺價 7 ｜ 手動 0 ｜ 待查 0
+**待審：** 好貨 3 ｜ 殺價 9 ｜ 手動 0 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
@@ -13,22 +13,24 @@
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
 | [行動電源] 質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電  | **NT$500** | 新$1990 | 25% new | Lightly used | 05/26 10:28 | [→](https://tw.carousell.com/p/1440005066/) |
-| [電玩主機] FANATEC CLUBSPORT FORMULA V2.5 X | **NT$10,500** | 新$22000 | 48% new | Lightly used | 05/26 09:28 | [→](https://tw.carousell.com/p/1439999254/) |
-| [音樂媒體] 二手 Yamaha 三葉 木吉他 F-310 附贈琴袋 限面交 | **NT$2,000** | 新$4490 | 45% new | Well used | 05/26 09:28 | [→](https://tw.carousell.com/p/1440002267/) |
+| [音樂媒體] 二手 Yamaha 三葉 木吉他 F-310 附贈琴袋 限面交 | **NT$2,000** | 新$4490 | 45% new | Well used | 05/26 09:58 | [→](https://tw.carousell.com/p/1440002267/) |
+| [電玩主機] FANATEC CLUBSPORT FORMULA V2.5 X | **NT$10,500** | 新$22000 | 48% new | Lightly used | 05/26 08:58 | [→](https://tw.carousell.com/p/1439999254/) |
 
-## 🟡 殺價（7）
+## 🟡 殺價（9）
 
 > 價格已合理但還能再殺，看你殺得到嗎
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [電腦科技] 【售】AMD Ryzen 7 5700X Tray版 全新未使用 | **NT$4,300** | 新$7900 | 54% new | Brand new | 05/26 11:51 | [→](https://tw.carousell.com/p/1440020956/) |
-| [電腦科技] ASUS DUAL RTX 5060 8GB GDDR7 OC 全新 | **NT$10,300** | 新$12470 | 83% new | Brand new | 05/26 11:49 | [→](https://tw.carousell.com/p/1440020695/) |
-| [電腦科技] AMD Ryzen 5 8500G 3.5GHz 六核心 中央處理器 送原廠風扇 | **NT$3,999** | 新$5190 | 77% new | Lightly used | 05/26 11:49 | [→](https://tw.carousell.com/p/1434186925/) |
-| [iPad] iPad Air 5 藍色+Eip鍵盤 | **NT$10,000** | 新$19900 | 50% new | Lightly used | 05/26 11:33 | [→](https://tw.carousell.com/p/1440015883/) |
-| [智慧手錶] 『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE | **NT$8,800** | 新$11000 | 80% new | Brand new | 05/25 16:28 | [→](https://tw.carousell.com/p/1439889552/) |
-| [智慧手錶] Samsung galaxy watch 8 classic | **NT$8,300** | 新$13990 | 59% new | Like new | 05/24 12:28 | [→](https://tw.carousell.com/p/1439724750/) |
-| [智慧手錶] Apple Watch Ultra 2 49mm 鈦金屬(GPS+行動網路）A2986🔋 | **NT$14,500** | 新$22990 | 63% new | Like new | 05/24 12:28 | [→](https://tw.carousell.com/p/1439691901/) |
+| [音響耳機] sony INZONE H5 | **NT$3,000** | 新$5990 | 50% new | Brand new | 05/26 12:53 | [→](https://tw.carousell.com/p/1440030799/) |
+| [運動戶外] Giant SCR1 藍色公路車 尺寸S | **NT$8,000** | 新$23790 | 34% new | Lightly used | 05/26 12:53 | [→](https://tw.carousell.com/p/1440031491/) |
+| [電腦科技] 【售】AMD Ryzen 7 5700X Tray版 全新未使用 | **NT$4,300** | 新$7900 | 54% new | Brand new | 05/26 11:58 | [→](https://tw.carousell.com/p/1440020956/) |
+| [電腦科技] ASUS DUAL RTX 5060 8GB GDDR7 OC 全新 | **NT$10,300** | 新$12470 | 83% new | Brand new | 05/26 11:58 | [→](https://tw.carousell.com/p/1440020695/) |
+| [電腦科技] AMD Ryzen 5 8500G 3.5GHz 六核心 中央處理器 送原廠風扇 | **NT$3,999** | 新$5190 | 77% new | Lightly used | 05/26 11:58 | [→](https://tw.carousell.com/p/1434186925/) |
+| [iPad] iPad Air 5 藍色+Eip鍵盤 | **NT$10,000** | 新$19900 | 50% new | Lightly used | 05/26 11:58 | [→](https://tw.carousell.com/p/1440015883/) |
+| [智慧手錶] 『全新未拆封』Apple Watch SE3 40mm GPS+行動網路LTE | **NT$8,800** | 新$11000 | 80% new | Brand new | 05/25 16:58 | [→](https://tw.carousell.com/p/1439889552/) |
+| [智慧手錶] Samsung galaxy watch 8 classic | **NT$8,300** | 新$13990 | 59% new | Like new | 05/24 12:58 | [→](https://tw.carousell.com/p/1439724750/) |
+| [智慧手錶] Apple Watch Ultra 2 49mm 鈦金屬(GPS+行動網路）A2986🔋 | **NT$14,500** | 新$22990 | 63% new | Like new | 05/24 12:58 | [→](https://tw.carousell.com/p/1439691901/) |
 
 
 ---

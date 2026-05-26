@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sbkleon",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "FANATEC CLUBSPORT FORMULA V2.5 X",
       "price": 10500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:28",
+      "listedAt": "05/26 08:58",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -35,7 +35,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:28",
+      "listedAt": "05/26 09:58",
       "pid": "1440002267",
       "verified": {
         "newPrice": 4490,
@@ -83,7 +83,7 @@
       "priceStr": "NT$8,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:28",
+      "listedAt": "05/24 12:58",
       "pid": "1439724750",
       "verified": {
         "source": "2026-05-26",
@@ -106,7 +106,7 @@
       "priceStr": "NT$14,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/24 12:28",
+      "listedAt": "05/24 12:58",
       "pid": "1439691901",
       "verified": {
         "source": "2026-05-26",
@@ -129,7 +129,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/25 16:28",
+      "listedAt": "05/25 16:58",
       "pid": "1439889552",
       "verified": {
         "source": "2026-05-26",
@@ -142,7 +142,7 @@
     },
     {
       "seller": "ajsnsnj",
-      "timeAgo": "37 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "【售】AMD Ryzen 7 5700X Tray版 全新未使用",
       "price": 4300,
       "condition": "Brand new",
@@ -152,7 +152,7 @@
       "priceStr": "NT$4,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:51",
+      "listedAt": "05/26 11:58",
       "pid": "1440020956",
       "verified": {
         "source": "2026-05-26",
@@ -165,7 +165,7 @@
     },
     {
       "seller": "ajsnsnj",
-      "timeAgo": "39 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "ASUS DUAL RTX 5060 8GB GDDR7 OC 全新",
       "price": 10300,
       "condition": "Brand new",
@@ -175,7 +175,7 @@
       "priceStr": "NT$10,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:49",
+      "listedAt": "05/26 11:58",
       "pid": "1440020695",
       "verified": {
         "source": "2026-05-26",
@@ -188,7 +188,7 @@
     },
     {
       "seller": "keenlion_535eb7",
-      "timeAgo": "39 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "AMD Ryzen 5 8500G 3.5GHz 六核心 中央處理器 送原廠風扇",
       "price": 3999,
       "condition": "Lightly used",
@@ -198,7 +198,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:49",
+      "listedAt": "05/26 11:58",
       "pid": "1434186925",
       "verified": {
         "source": "2026-05-26",
@@ -211,7 +211,7 @@
     },
     {
       "seller": "pollytimmy",
-      "timeAgo": "55 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "iPad Air 5 藍色+Eip鍵盤",
       "price": 10000,
       "condition": "Lightly used",
@@ -221,7 +221,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 11:33",
+      "listedAt": "05/26 11:58",
       "pid": "1440015883",
       "verified": {
         "source": "2026-05-26",
@@ -231,6 +231,52 @@
       },
       "vsNew": 50,
       "vsSecondhand": 83
+    },
+    {
+      "seller": "brightdog.d38b34",
+      "timeAgo": "5 minutes ago",
+      "title": "sony INZONE H5",
+      "price": 3000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1440030799/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 12:53",
+      "pid": "1440030799",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 5990,
+        "secondhand": 3500,
+        "note": "Sony INZONE H5 電競耳機 NT$3,000 = 50% 新品 / 86% 二手 (殺價)"
+      },
+      "vsNew": 50,
+      "vsSecondhand": 86
+    },
+    {
+      "seller": "Poseidon_Nomad",
+      "timeAgo": "5 minutes ago",
+      "title": "Giant SCR1 藍色公路車 尺寸S",
+      "price": 8000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440031491/",
+      "category": "運動戶外",
+      "maxDays": 3,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 12:53",
+      "pid": "1440031491",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 23790,
+        "secondhand": 11000,
+        "note": "Giant SCR1 公路車 S NT$8,000 = 34% 新 / 73% 二手 (殺價, SCR1 停產被 SCR2 取代, 砍 $7K 才好)"
+      },
+      "vsNew": 34,
+      "vsSecondhand": 73
     }
   ],
   "uncertain": []
