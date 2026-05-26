@@ -9,12 +9,11 @@ try { seen = JSON.parse(fs.readFileSync(SEEN_FILE, 'utf8')); } catch {}
 let pending = { newDeals: [], negotiate: [], uncertain: [] };
 try { pending = JSON.parse(fs.readFileSync(PENDING_FILE, 'utf8')); } catch {}
 
-// 從 pending review 收所有 ID
-const pendingIds = [
-  ...(pending.newDeals || []),
-  ...(pending.negotiate || []),
-  ...(pending.uncertain || []),
-].map(d => d.pid).filter(Boolean);
+// watchlist items (timeAgo='(直接掃描)' 或 watchlist:true) 不 mark_seen, 留在 pending
+const isWatchlist = (d) => /直接掃描/.test(d.timeAgo || '') || d.watchlist === true;
+const all = [...(pending.newDeals || []), ...(pending.negotiate || []), ...(pending.uncertain || [])];
+const watchlistItems = all.filter(isWatchlist);
+const pendingIds = all.filter(d => !isWatchlist(d)).map(d => d.pid).filter(Boolean);
 
 // 也收 raw_results 裡的 ID（避免重複出現）
 const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
@@ -23,7 +22,15 @@ const rawIds = raw.map(i => i.url?.match(/\/p\/(\d+)/)?.[1]).filter(Boolean);
 const newSeen = [...new Set([...seen, ...pendingIds, ...rawIds])];
 
 fs.writeFileSync(SEEN_FILE, JSON.stringify(newSeen, null, 2));
-fs.writeFileSync(PENDING_FILE, JSON.stringify({ newDeals: [], negotiate: [], uncertain: [] }, null, 2));
+
+// 重建 pending: 只留 watchlist
+const newPending = { newDeals: [], negotiate: [], uncertain: [] };
+for (const item of watchlistItems) {
+  const bucket = pending.newDeals?.includes(item) ? 'newDeals'
+    : pending.negotiate?.includes(item) ? 'negotiate' : 'uncertain';
+  newPending[bucket].push(item);
+}
+fs.writeFileSync(PENDING_FILE, JSON.stringify(newPending, null, 2));
 
 console.log(`已標記: ${seen.length} → ${newSeen.length}（+${newSeen.length - seen.length} 筆）`);
-console.log(`pending_review 已清空（${pendingIds.length} 筆移至 seen）`);
+console.log(`pending_review: ${pendingIds.length} 筆移至 seen, watchlist 保留 ${watchlistItems.length} 筆`);

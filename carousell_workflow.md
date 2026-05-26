@@ -228,6 +228,50 @@ Rose 觸發巡邏的標準 prompt：
 
 AI 看到「根據 workflow」就要展開 step 1-8，包含 step 6 觀察新方向。每輪都做。
 
+## 20. 雜訊處理規則（2026-05-27 整理）
+
+幾條 ad-hoc 規則累積出來的，要寫死進 process.js 不再每輪手動套：
+
+### (a) Wearables sub-cat leak
+`mobile-phones-gadgets-1091/wearables-smart-watches-6436` 分類本身鬆，AirPods/Powerbeats/Apple Pencil/Polar 心率帶/翻譯眼鏡 會混進來。process.js 該加 negative filter：
+- 標題含 `AirPod`/`AirPods`/`Powerbeats`/`Apple Pencil`/`心率`/`翻譯眼鏡` 但 category 是 `智慧手錶` → 直接 SKIP，不進 need_verify
+
+### (b) 重複賣家連發
+這幾個是已知連發商家（每輪同款 ×3-5）：
+- `divingbird` (TUSA 面鏡組合, ≥4 輪)
+- `rockrose9206668` (Canon CCD 卡片機, ≥3 輪)
+- `pika88pikayahoocom` (卡詩黑鑽香氛 + SSD + RAM, ≥5 件/輪)
+- `kuroko_save` (柯南金簽拍立得 ×5 款)
+- `sin_chih` (炘馳通訊 iPad 商家)
+- `parker5265` (Snow Peak 連發)
+- `yuan712` (英國 Tannoy 老 HiFi)
+
+→ 通通寫進 `sellers.shops`，連發 ≥3 件/輪自動加進；可疑詐騙寫進 `sellers.overpriced`。
+
+### (c) Watchlist items 不該被 mark_seen
+我直接 push 到 pending 的 hi-fi/特殊單品（`timeAgo="(直接掃描)"`）User 還沒實際看 listing。`mark_seen.js` 該 detect 這旗標跳過：
+- 條件：`timeAgo` 含「直接掃描」或 entry 有 `watchlist: true` flag → 不 mark seen，留在 pending 直到 User 明確說「這件不要了」
+
+### (d) process.js render crash on missing `.verified`
+直接 push pending 的 entry 如果沒帶 `.verified`，process.js 跑到 console.log `v.newPrice` 會 TypeError 中斷，README 不更新。修：merge pending 後 backfill `verified` from `verified_prices.json` by pid。
+
+### (e) Price parsing #hashtag bug
+標題含 `#26吃土季` 或 `#10000mah` 之類 hashtag 時，scrape.js 抓 price 可能把 hashtag 後的數字混進去（如 LAPO $11,201,400 = 1400 + #26）。process.js 該加 sanity check：
+- `price > NT$10,000,000` → 直接丟，不進 need_verify
+
+### (f) Cron + /loop 撞期
+30m cron + 40m /loop 永遠對不齊，scrape 跑 8-12 分鐘期間後到觸發會堆 process。建議二選一：
+- 砍 cron (`CronDelete dbd1ff8f`) 留 /loop 自跑
+- 或 cron 拉到 `0 * * * *` 整點每小時一次
+
+### (g) 同 pid 多次 verify secondhand 不一致
+Yamaha Seqtrak（9000→11000）、iPad 10（7000→7500）都因為 secondhand 設太緊沒進 bucket，事後 tune。原則：
+- subagent 估的 `secondhand` 是中位數，但 process.js bucket 用 `vsSecondhand ≤90` 才進殺價，太緊會落地外
+- 規則：subagent 估完取「中位數 + 10%」作 secondhand 設定，給殺價 bucket 留空間
+
+### (h) Sub-cat slug 帶 `/` 的 URL 拼接
+`mobile-phones-gadgets-1091/wearables-smart-watches-6436` 直接帶進 URL builder 工作，但下一步要加 `brand-xxx` facet 時要驗 URL encode 是否穩定（`/brand-garmin/` vs `/brand-garmin`）。
+
 ## 19. 恍然大悟：便宜不是價格低，是低於該低的
 
 一支 $1,500 的 Apple Watch SE1 看起來很便宜——原價 $7,900 的兩折不到。但那是 2020 年的產品，二手行情只有 $2,500，$1,500 其實是六折。六折不是撿漏，是正常交易。

@@ -173,6 +173,9 @@ raw.forEach(item => {
   if (SKIP_CAT.includes(item.category)) return;
   const price = parsePrice(item.price);
   if (price < 500) return;
+  if (price > 10_000_000) return; // hashtag bug: #26 + price 被接合成大數
+  // wearables sub-cat leak (AirPods/Pencil/Polar/翻譯眼鏡)
+  if (item.category === '智慧手錶' && /AirPod|Powerbeats|Apple Pencil|心率|翻譯眼鏡/i.test(item.title)) return;
   if (seen.has(item.url)) return;
   seen.add(item.url);
   if (SKIP.some(w => item.title.includes(w))) return;
@@ -247,6 +250,13 @@ const mergePending = (existing, current) => {
 pending.newDeals = mergePending(pending.newDeals || [], newDeals);
 pending.negotiate = mergePending(pending.negotiate || [], negotiate);
 pending.uncertain = mergePending(pending.uncertain || [], uncertain);
+
+// 直推 pending 的 watchlist items 缺 .verified, 從 verified_prices 補, 避免 render crash
+for (const bucket of ['newDeals', 'negotiate', 'uncertain']) {
+  for (const item of pending[bucket]) {
+    if (!item.verified && verified[item.pid]) item.verified = verified[item.pid];
+  }
+}
 fs.writeFileSync(PENDING_FILE, JSON.stringify(pending, null, 2));
 
 // 用 pending 替換 newDeals/negotiate/uncertain 給後續輸出（README/HTML 顯示完整清單）
