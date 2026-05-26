@@ -1,5 +1,61 @@
 {
-  "newDeals": [],
-  "negotiate": [],
+  "newDeals": [
+    {
+      "pid": "1381417060",
+      "title": "Vifa City 無線藍牙喇叭 檸檬綠 全新未拆",
+      "price": 4500,
+      "category": "喇叭",
+      "seller": "-",
+      "timeAgo": "(直接掃描)",
+      "url": "https://tw.carousell.com/p/1381417060/",
+      "vsNew": 50,
+      "vsSecondhand": 75,
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 8990,
+        "secondhand": 6000,
+        "note": "Vifa City 檸檬綠 全新未拆 NT$4,500 = 50% 新 / 75% 二手 (好貨)"
+      },
+      "note": "高階藍牙喇叭 watchlist"
+    },
+    {
+      "pid": "225210929",
+      "title": "KEF MUO Wireless Speaker 星際藍",
+      "price": 6300,
+      "category": "喇叭",
+      "seller": "-",
+      "timeAgo": "(直接掃描)",
+      "url": "https://tw.carousell.com/p/225210929/",
+      "vsNew": 57,
+      "vsSecondhand": 70,
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10990,
+        "secondhand": 9000,
+        "note": "KEF Muo 星際藍 NT$6,300 = 57% 新 / 70% 二手 (好貨邊界, Muo 已停產 2024)"
+      },
+      "note": "watchlist, Muo 已停產 2024"
+    }
+  ],
+  "negotiate": [
+    {
+      "pid": "1341316048",
+      "title": "Bose SoundLink Revolve+ 台灣公司貨 現貨",
+      "price": 7500,
+      "category": "喇叭",
+      "seller": "-",
+      "timeAgo": "(直接掃描)",
+      "url": "https://tw.carousell.com/p/1341316048/",
+      "vsNew": 68,
+      "vsSecondhand": 88,
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10990,
+        "secondhand": 8500,
+        "note": "Bose SoundLink Revolve+ 台灣公司貨 NT$7,500 = 68% 新 / 88% 二手 (殺價)"
+      },
+      "note": "高階藍牙喇叭 watchlist"
+    }
+  ],
   "uncertain": []
 }
