@@ -4722,6 +4722,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434246054": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LAPO 三代行動電源 NT$11,201,400 price 解析錯 (#26 吃土季 hashtag confused) SKIP"
+  },
   "1434255976": {
     "newPrice": null,
     "secondhand": null,
@@ -27737,5 +27744,18 @@
     "newPrice": 7990,
     "secondhand": 6500,
     "note": "Fujifilm instax mini Evo 粉 NT$7,000 = 88% 新品 (殺價邊界)"
+  },
+  "1440035620": {
+    "source": "2026-05-26",
+    "newPrice": 11990,
+    "secondhand": 12000,
+    "note": "Harman Kardon SoundSticks 4 黑色 NT$8,000 = 67% 新品 / 67% 二手 (好貨, HK 二手 spread 7K-12K)"
+  },
+  "1440039148": {
+    "source": "2026-05-26",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "2021 統一獅超人力霸王球帽 NT$2,480 niche 棒球周邊 < $3K SKIP"
   }
 }
