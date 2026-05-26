@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "sbkleon",
-      "timeAgo": "53 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "FANATEC CLUBSPORT FORMULA V2.5 X",
       "price": 10500,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:23",
+      "listedAt": "05/26 09:47",
       "pid": "1439999254",
       "verified": {
         "source": "2026-05-26",
@@ -25,7 +25,7 @@
     },
     {
       "seller": "amberr_16",
-      "timeAgo": "25 minutes ago",
+      "timeAgo": "52 minutes ago",
       "title": "二手 Yamaha 三葉 木吉他 F-310 附贈琴袋 限面交",
       "price": 2000,
       "condition": "Well used",
@@ -35,7 +35,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/26 09:51",
+      "listedAt": "05/26 09:55",
       "pid": "1440002267",
       "verified": {
         "newPrice": 4490,
@@ -45,8 +45,78 @@
       },
       "vsNew": 45,
       "vsSecondhand": 67
+    },
+    {
+      "seller": "portas",
+      "timeAgo": "22 minutes ago",
+      "title": "質感白 MiPOW Power Cube X3 10000mAh MFi認證 無線 充電 行動電源 8+ note8",
+      "price": 500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440005066/",
+      "category": "行動電源",
+      "maxDays": 7,
+      "priceStr": "NT$500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 10:25",
+      "pid": "1440005066",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 1990,
+        "secondhand": 700,
+        "note": "MiPOW X3 行動電源 NT$500 = 25% 新品"
+      },
+      "vsNew": 25,
+      "vsSecondhand": 71
     }
   ],
-  "negotiate": [],
+  "negotiate": [
+    {
+      "seller": "a_tian96",
+      "timeAgo": "2 days ago",
+      "title": "Samsung galaxy watch 8 classic",
+      "price": 8300,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439724750/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$8,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 10:47",
+      "pid": "1439724750",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 13990,
+        "secondhand": 11000,
+        "note": "Galaxy Watch 8 Classic NT$8,300 = 59% 新品 / 75% 二手"
+      },
+      "vsNew": 59,
+      "vsSecondhand": 75
+    },
+    {
+      "seller": "rc7pm",
+      "timeAgo": "2 days ago",
+      "title": "Apple Watch Ultra 2 49mm 鈦金屬(GPS+行動網路）A2986🔋 100%",
+      "price": 14500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1439691901/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$14,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/24 10:47",
+      "pid": "1439691901",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 22990,
+        "secondhand": 17000,
+        "note": "AW Ultra 2 49mm 鈦 Cell 100%電池 NT$14,500 = 85% 二手邊界"
+      },
+      "vsNew": 63,
+      "vsSecondhand": 85
+    }
+  ],
   "uncertain": []
 }
