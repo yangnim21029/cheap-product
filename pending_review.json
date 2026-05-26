@@ -277,6 +277,29 @@
       },
       "vsNew": 34,
       "vsSecondhand": 73
+    },
+    {
+      "seller": "o__________o__________o",
+      "timeAgo": "2 hours ago",
+      "title": "【出售】近全新 Yamaha Seqtrak 一體式音樂工作站 合成器 取樣機 效果器 VJ（美版，功能完整）",
+      "price": 8500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440010420/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$8,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 10:58",
+      "pid": "1440010420",
+      "verified": {
+        "source": "2026-05-26",
+        "newPrice": 12500,
+        "secondhand": 11000,
+        "note": "Yamaha Seqtrak 美版近全新 NT$8,500 = 68% 新品 / 77% 二手 (殺價, 缺台灣保固)"
+      },
+      "vsNew": 68,
+      "vsSecondhand": 77
     }
   ],
   "uncertain": []
