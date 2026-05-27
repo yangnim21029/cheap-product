@@ -46,7 +46,7 @@
     },
     {
       "seller": "bryan6965",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "2025製dyson micro 1.5 sv33極輕量吸塵器",
       "price": 5900,
       "condition": "Like new",
@@ -89,6 +89,29 @@
       },
       "vsNew": 31,
       "vsSecondhand": 62
+    },
+    {
+      "seller": "lin_tt.",
+      "timeAgo": "31 minutes ago",
+      "title": "【全新現貨】Breville BBL800XL 專業級果汁機 一機搞定",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1440219838/",
+      "category": "果汁機",
+      "maxDays": 7,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 11:26",
+      "pid": "1440219838",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 13800,
+        "secondhand": 6000,
+        "note": "Breville BBL800XL 專業級果汁機 全新現貨 NT$4,000 = 29% 新 / 67% 二手 (好貨, 一機搞定 fire sale)"
+      },
+      "vsNew": 29,
+      "vsSecondhand": 67
     }
   ],
   "negotiate": [
@@ -116,7 +139,7 @@
     },
     {
       "seller": "mysticdog_f3f4a7",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "Ipad Air 六代 m2 11吋",
       "price": 12000,
       "condition": "Lightly used",
@@ -139,7 +162,7 @@
     },
     {
       "seller": "way4142",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Insta360 X5、2電、自拍棒、充電器、保固中",
       "price": 14500,
       "condition": "Like new",
@@ -159,6 +182,29 @@
       },
       "vsNew": 56,
       "vsSecondhand": 81
+    },
+    {
+      "seller": "rrouyunn",
+      "timeAgo": "18 minutes ago",
+      "title": "Prada 水印私藏系列 輕霧依蘭香氛蠟燭+蠟燭蓋",
+      "price": 3000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1434431409/",
+      "category": "香氛",
+      "maxDays": 7,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 11:39",
+      "pid": "1434431409",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 5500,
+        "secondhand": 3500,
+        "note": "Prada 輕霧依蘭香氛蠟燭+蠟燭蓋 NT$3,000 = 55% 新 / 86% 二手 (殺價邊界)"
+      },
+      "vsNew": 55,
+      "vsSecondhand": 86
     }
   ],
   "uncertain": []

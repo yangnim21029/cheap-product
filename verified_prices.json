@@ -5011,10 +5011,23 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434407686": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PHILIPS FunCube 2.0 多合一行充 NT$900 < $2K SKIP"
+  },
   "1434412415": {
     "newPrice": 31500,
     "secondhand": null,
     "note": "Sony FE 24-105mm F4 G $17,000 = 54% 新品 $31,500 / 77% 二手中位 $22,000. ⚠ 鏡頭一定當面驗發霉/入塵/卡口"
+  },
+  "1434431409": {
+    "source": "2026-05-27",
+    "newPrice": 5500,
+    "secondhand": 3500,
+    "note": "Prada 輕霧依蘭香氛蠟燭+蠟燭蓋 NT$3,000 = 55% 新 / 86% 二手 (殺價邊界)"
   },
   "1434441879": {
     "skip": true,
@@ -5038,6 +5051,13 @@
     "note": "露營 北面折疊露營車 NT$4,000 zenowl_5dfe56 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1434463556": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "青春豬頭系列滑鼠墊+掛軸 NT$2,450 < $3K niche SKIP"
   },
   "1434478111": {
     "newPrice": null,
@@ -29180,5 +29200,109 @@
     "newPrice": null,
     "secondhand": null,
     "note": "寶麗金最挑戰歌裸片 10入 NT$890 < $2K niche CD SKIP"
+  },
+  "1440217951": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LE LABO 香氛機 NT$1,200 < $2K SKIP"
+  },
+  "1440219838": {
+    "source": "2026-05-27",
+    "newPrice": 13800,
+    "secondhand": 6000,
+    "note": "Breville BBL800XL 專業級果汁機 全新現貨 NT$4,000 = 29% 新 / 67% 二手 (好貨, 一機搞定 fire sale)"
+  },
+  "1440221550": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 5490,
+    "secondhand": 2500,
+    "note": "Sony WH-CH710N 有無線降噪耳機 NT$4,240 = 77% 新 / 170% 二手 SKIP 賣家標太貴"
+  },
+  "1440221752": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "黃鶯鶯金裝精選 CD 1987 NT$1,680 < $2K alec6hh 連發 SKIP"
+  },
+  "1440221904": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "🚨 詐騙嫌疑: MacBook Neo A18 pro 晶片 = Apple 不存在的產品 (A18 是 iPhone 16 晶片) NT$19,000 SKIP, 賣家 2035evely02223 加入 overpriced/scam"
+  },
+  "1440222332": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "中信兄弟 Channel B 棒球音樂祭聯名球衣 NT$2,580 < $3K niche SKIP"
+  },
+  "1440222485": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "李恕權 20年全精選 2CD NT$1,480 < $2K alec6hh 連發 SKIP"
+  },
+  "1440223949": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "黃大城民歌黃金碟 CD NT$980 < $2K alec6hh 連發 SKIP"
+  },
+  "1440224457": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "寶麗金碟聖國語 VCD 5入 NT$980 < $2K lin852582 連發 SKIP"
+  },
+  "1440224931": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "捷安特變速折疊腳踏車 NT$2,500 < $3K 不熟領域 SKIP"
+  },
+  "1440225219": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "楊貴妃一代佳人之湯 雙簽 CD NT$1,890 < $2K alec6hh CD 連發 SKIP"
+  },
+  "1440225360": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 3 NT$3,200 wearables-leak SKIP"
+  },
+  "1440226462": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 4200,
+    "secondhand": 2800,
+    "note": "Audient EVO 4 USB audio interface 九成新 NT$3,500 = 83% 新 / 125% 二手 持平 SKIP"
+  },
+  "1440226883": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "上華精選 MTV 裸片 5入 NT$750 < $2K lin852582 CD 連發 SKIP"
+  },
+  "1440227347": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "CMF by Nothing Watch Pro 2 NT$1,800 < $2K SKIP"
   }
 }
