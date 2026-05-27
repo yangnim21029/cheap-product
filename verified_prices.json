@@ -2198,6 +2198,13 @@
     "note": "Patrol 102 SKIP: ThinkPad L490 i5-8265U 250G Nvme SSD 14吋 tzour",
     "source": "manual_skip"
   },
+  "1427692039": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Max NT$8,500 (lightning 一代二手中位) 持平 SKIP"
+  },
   "1427702457": {
     "newPrice": null,
     "secondhand": null,
@@ -2270,6 +2277,13 @@
     "note": "音樂媒體 TOP 官方小卡 塔 崔勝賢 BIGBANG NT$300 bigbang818 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1427947285": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Max Lightning 非全新 NT$6,880 = 37% 新但「非全新」狀況差 SKIP"
   },
   "1427981832": {
     "newPrice": null,
@@ -2353,6 +2367,13 @@
     "note": "Human Made x KAWS Duck NT$2,800 bluebao designer toy 收藏 SKIP",
     "source": "2026-05-24",
     "skip": true
+  },
+  "1428219451": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ADAM Q5 5000mAh Qi2 行充 NT$1,000 < $2K SKIP"
   },
   "1428223591": {
     "newPrice": null,
@@ -2537,6 +2558,13 @@
     "note": "瑜珈墊 透膚瑜珈服（有胸墊） NT$500 入門健身墊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1428624601": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "OWEIDA 行充 10000mah NT$999 < $2K SKIP"
   },
   "1428637838": {
     "newPrice": null,
@@ -19808,6 +19836,12 @@
     "note": "Patrol 101 SKIP: Apple HomePod mini 白色｜Siri智慧音響｜附原盒｜功能正常 epicforest-302a",
     "source": "manual_skip"
   },
+  "1439021254": {
+    "source": "2026-05-27",
+    "newPrice": 10990,
+    "secondhand": 7500,
+    "note": "Sony WH-1000XM5 黑 NT$6,500 = 59% 新 / 87% 二手 (殺價)"
+  },
   "1439021505": {
     "newPrice": null,
     "secondhand": null,
@@ -19927,6 +19961,13 @@
     "secondhand": null,
     "note": "Patrol 101 SKIP: 精選品牌的桌機 INTEL I5-11600/32G 無硬碟 maguireyan08957",
     "source": "manual_skip"
+  },
+  "1439033259": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Max NT$9,000 wang_louis 持平 (高於一代二手 NT$8K) SKIP"
   },
   "1439034336": {
     "newPrice": 4290,
@@ -25333,6 +25374,12 @@
     "note": "Leofoto LS-225CEX 快拆水平半球碗碳纖三腳架 新品 $9,300 二手 $6-7K。$4,500 = 69% 二手 ⭐⭐⭐ 好貨",
     "source": "2026-05-24"
   },
+  "1439749732": {
+    "source": "2026-05-27",
+    "newPrice": 18490,
+    "secondhand": 9500,
+    "note": "AirPods Max 一代 Lightning NT$8,000 = 43% 新 / 84% 二手 (殺價, lightning 不支援 USB-C lossless)"
+  },
   "1439750964": {
     "newPrice": 14000,
     "secondhand": 12000,
@@ -25637,6 +25684,12 @@
     "note": "福夢二代 NT$2,000 eddie9704112461 籤詩/玄學 SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1439778033": {
+    "source": "2026-05-27",
+    "newPrice": 12990,
+    "secondhand": 10500,
+    "note": "Sony WH-1000XM6 NT$9,000 = 69% 新 / 86% 二手 (殺價, 最新代)"
   },
   "1439778066": {
     "newPrice": 50000,
@@ -29538,12 +29591,39 @@
     "secondhand": null,
     "note": "DIPTYQUE 蠟燭禮盒 70g×3 NT$2,300 < $3K 持平 SKIP"
   },
+  "1440255273": {
+    "source": "2026-05-27",
+    "newPrice": 11990,
+    "secondhand": 9500,
+    "note": "Samsung Galaxy Watch 7 BT 44mm NT$8,000 = 67% 新 / 84% 二手 (殺價)"
+  },
+  "1440256012": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "IXUS 285 HS Winter 同款 NT$9,000 CCD 老相機 + Winter 抬價持平 SKIP"
+  },
+  "1440258040": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "RC7 卡鞋限定色 NT$5,800 山地車卡鞋 niche 不熟 SKIP"
+  },
   "1440258073": {
     "source": "2026-05-27",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "AirPods 4 代 NT$3,490 wearables-leak SKIP"
+  },
+  "1440258126": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sony a5100 + 16-50mm 套組 NT$7,500 老相機套組不熟 SKIP"
   },
   "1440258235": {
     "source": "2026-05-27",
@@ -29565,6 +29645,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "未定事件簿拍立得 oddfish NT$1,350 < $2K fan goods SKIP"
+  },
+  "1440259517": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PS Portal 極新黑 NT$5,600 = 80% 新 / 102% 二手 持平 SKIP"
   },
   "1440260745": {
     "source": "2026-05-27",
@@ -29660,5 +29747,101 @@
     "newPrice": null,
     "secondhand": null,
     "note": "小米 Redmi Watch 5 NT$2,000 wearables < $3K SKIP"
+  },
+  "1440272110": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "寶蓋白金剛舍利球 NT$1,000 < $2K niche SKIP"
+  },
+  "1440273972": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "FUJIFILM instax mini 41 復古拍立得 NT$2,900 < $3K SKIP"
+  },
+  "1440275481": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad Air M3 11吋 保固到 2027/05 NT$22,000 = 80% 新 / 100% 二手 持平 SKIP"
+  },
+  "1440275813": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS S403FA i5-10210U/8G/512G 14吋 NT$6,800 老 i5 二手持平 SKIP"
+  },
+  "1440277001": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad A16 128G WiFi 拆封未開機 NT$9,280 = 88% 新品持平 SKIP"
+  },
+  "1440277168": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "darkFlash GD108 機械鍵盤 NT$800 < $2K SKIP"
+  },
+  "1440278038": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Wanbo T2 Max 投影機 NT$2,800 < $3K SKIP"
+  },
+  "1440279575": {
+    "source": "2026-05-27",
+    "newPrice": 22900,
+    "secondhand": 18000,
+    "note": "Canon EOS R50 機身 NT$15,000 = 66% 新 / 83% 二手 (殺價)"
+  },
+  "1440279667": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "大日本明治 29 年龍銀 NT$4,700 niche 收藏 SKIP"
+  },
+  "1440279734": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ASUS FX516P i7-11370H RTX 3070 NT$20,000 11 代 H35 老 ROG 筆電持平 SKIP"
+  },
+  "1440282642": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad Air 5 A2588 星光色 NT$9,500 容量未列 SKIP"
+  },
+  "1440283092": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HAnping 黑膠唱機中古 NT$4,500 黑膠唱機 niche 不熟 SKIP"
+  },
+  "1440283232": {
+    "source": "2026-05-27",
+    "newPrice": 14990,
+    "secondhand": 9000,
+    "note": "SAMSUNG M7 4K 32吋 2023 智慧電視螢幕 NT$8,000 = 53% 新 / 89% 二手 (殺價)"
+  },
+  "1440286968": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TP-LINK Archer AXE95 WiFi 6E NT$3,000 manual: 新 NT$4K (75% 新邊界 + 型號舊代) SKIP"
   }
 }
