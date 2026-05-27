@@ -30615,6 +30615,13 @@
     "secondhand": null,
     "note": "Pokemon GO Plus+ 改機 NT$3,400 = 194% 新 (Nintendo TW NT$1,750) 太貴 SKIP"
   },
+  "1440362885": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad 第九代 64G WiFi 銀 NT$6,500 = 64% 新 (iPad 9 新 $10,200) / 92% 二手 持平 SKIP"
+  },
   "1440363178": {
     "source": "2026-05-28",
     "skip": true,
@@ -30634,5 +30641,40 @@
     "newPrice": 11990,
     "secondhand": 8000,
     "note": "Harman Kardon Aura Studio 4 水母 4 代 NT$7,500 = 63% 新 / 94% 二手 (殺價邊界)"
+  },
+  "1440370161": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Cortis 一專歐洲黑膠 imusic NT$1,680 < $2K niche fan goods SKIP"
+  },
+  "1440371946": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "中信兄弟 邊荷律肖像/簽名球+小卡 NT$1,500 < $2K 棒球周邊 SKIP"
+  },
+  "1440371951": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Watch 蘋果綠 NT$1,000 < $2K (sizing/model 全未列, 疑山寨配件) SKIP"
+  },
+  "1440372388": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "BOSS TU-2 地板調音器 NT$1,300 < $2K niche 樂器配件 SKIP"
+  },
+  "1440372557": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Bora BX-20 88鍵藍牙折疊電鋼琴 NT$2,300 < $3K niche 入門電鋼 SKIP"
   }
 }

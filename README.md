@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/28 01:34:26 · 累積已看 12664 筆 · 113 位賣家黑名單
+> 2026/5/28 02:01:18 · 累積已看 12670 筆 · 113 位賣家黑名單
 
 **待審：** 好貨 2 ｜ 殺價 6 ｜ 手動 0 ｜ 待查 0
 
@@ -21,12 +21,12 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [音樂媒體] Ibanez GRX70QA | **NT$3,000** | 新$7000 | 43% new | Well used | 05/28 01:05 | [→](https://tw.carousell.com/p/1434576447/) |
-| [螢幕] TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD | **NT$8,800** | 新$13500 | 65% new | Like new | 05/28 00:34 | [→](https://tw.carousell.com/p/1440360130/) |
-| [相機攝影] 【出售】 DJI Osmo Pocket 3 全能套裝 | **NT$12,000** | 新$22900 | 52% new | Lightly used | 05/28 00:34 | [→](https://tw.carousell.com/p/1440358056/) |
-| [iPad] Apple iPad Air 5 64G WiFi/Apple pencil 2 (95新 | **NT$11,000** | 新$23290 | 47% new | Lightly used | 05/27 23:55 | [→](https://tw.carousell.com/p/1440359737/) |
-| [電玩主機] Ps4 pro 1tb 雙手把 線齊全 附兩片遊戲片 | **NT$4,200** | 新$8000 | 53% new | Lightly used | 05/27 23:34 | [→](https://tw.carousell.com/p/1440354789/) |
+| [音樂媒體] Ibanez GRX70QA | **NT$3,000** | 新$7000 | 43% new | Well used | 05/28 01:01 | [→](https://tw.carousell.com/p/1434576447/) |
+| [iPad] Apple iPad Air 5 64G WiFi/Apple pencil 2 (95新 | **NT$11,000** | 新$23290 | 47% new | Lightly used | 05/28 00:01 | [→](https://tw.carousell.com/p/1440359737/) |
+| [螢幕] TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD | **NT$8,800** | 新$13500 | 65% new | Like new | 05/28 00:01 | [→](https://tw.carousell.com/p/1440360130/) |
+| [dji] 【出售】 DJI Osmo Pocket 3 全能套裝 | **NT$12,000** | 新$22900 | 52% new | Lightly used | 05/28 00:01 | [→](https://tw.carousell.com/p/1440358056/) |
 | [喇叭] Bose SoundLink Revolve+ 台灣公司貨 現貨 | **NT$7,500** | 新$10990 | 68% new | 狀況良好 | 2025/05/27 23:05 | [→](https://tw.carousell.com/p/1341316048/) |
+| [電玩主機] Ps4 pro 1tb 雙手把 線齊全 附兩片遊戲片 | **NT$4,200** | 新$8000 | 53% new | Lightly used | 05/27 23:01 | [→](https://tw.carousell.com/p/1440354789/) |
 
 
 ---
