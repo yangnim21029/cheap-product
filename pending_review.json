@@ -70,7 +70,7 @@
     },
     {
       "seller": "nitata__",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Apple iPad Air 5 64G WiFi/Apple pencil 2 (95新以上)",
       "price": 11000,
       "condition": "Lightly used",
@@ -93,7 +93,7 @@
     },
     {
       "seller": "coolbear_612134",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD (2560x1440), IPS, 170Hz (144Hz 以上), ELMB SYNC, Adaptive-sync,相容 NVIDIA® G-SYNC™, 1ms (MPRT), 130 % sRGB, DisplayHDR™ 400",
       "price": 8800,
       "condition": "Like new",
@@ -116,7 +116,7 @@
     },
     {
       "seller": "panikj",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "【出售】 DJI Osmo Pocket 3 全能套裝",
       "price": 12000,
       "condition": "Lightly used",
@@ -139,7 +139,7 @@
     },
     {
       "seller": "ygjjh08",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Ps4 pro 1tb 雙手把 線齊全 附兩片遊戲片",
       "price": 4200,
       "condition": "Lightly used",
@@ -162,7 +162,7 @@
     },
     {
       "seller": "xuuuiiiiii",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Ibanez GRX70QA",
       "price": 3000,
       "condition": "Well used",
@@ -182,6 +182,52 @@
       },
       "vsNew": 43,
       "vsSecondhand": 75
+    },
+    {
+      "seller": "zhogood",
+      "timeAgo": "55 minutes ago",
+      "title": "marshall stanmore III 馬歇爾 3代 藍芽音響喇叭 白色",
+      "price": 9600,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440378346/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$9,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/28 04:05",
+      "pid": "1440378346",
+      "verified": {
+        "source": "2026-05-28",
+        "newPrice": 14990,
+        "secondhand": 11000,
+        "note": "Marshall Stanmore III 白 NT$9,600 = 64% 新 / 87% 二手 (殺價)"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 87
+    },
+    {
+      "seller": "rozalialin",
+      "timeAgo": "4 hours ago",
+      "title": "三星 Samsung Galaxy Watch 8 44mm LTE版",
+      "price": 8800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440371720/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$8,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/28 01:00",
+      "pid": "1440371720",
+      "verified": {
+        "source": "2026-05-28",
+        "newPrice": 14990,
+        "secondhand": 11000,
+        "note": "Samsung Galaxy Watch 8 44mm LTE 版 NT$8,800 = 59% 新 / 80% 二手 (殺價)"
+      },
+      "vsNew": 59,
+      "vsSecondhand": 80
     }
   ],
   "uncertain": []

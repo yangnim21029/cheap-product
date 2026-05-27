@@ -30664,6 +30664,13 @@
     "secondhand": null,
     "note": "Dell U3223QE 32 4K 60Hz NT$6,500 (coolfish 昨日同款 NT$4,500 標瑕疵, 今加價 44% 但仍低於行情 $13K) 詭異 SKIP 待釐清"
   },
+  "1440364206": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "美光 Ballistix Sport LT DDR4-3200 16G×2 NT$6,200 (32G DDR4 新 $2.5K) 太貴 SKIP"
+  },
   "1440364392": {
     "source": "2026-05-28",
     "newPrice": 11990,
@@ -30676,6 +30683,12 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Cortis 一專歐洲黑膠 imusic NT$1,680 < $2K niche fan goods SKIP"
+  },
+  "1440371720": {
+    "source": "2026-05-28",
+    "newPrice": 14990,
+    "secondhand": 11000,
+    "note": "Samsung Galaxy Watch 8 44mm LTE 版 NT$8,800 = 59% 新 / 80% 二手 (殺價)"
   },
   "1440371946": {
     "source": "2026-05-28",
@@ -30712,11 +30725,44 @@
     "secondhand": null,
     "note": "kuo0168168 SOGO 宗教專櫃任選 NT$1,268 < $2K niche 來路不明 SKIP"
   },
+  "1440378343": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Marshall Acton II NT$5,000 (Acton II 停產, 新 NT$8,990, 二手 $5K) 持平 SKIP"
+  },
+  "1440378346": {
+    "source": "2026-05-28",
+    "newPrice": 14990,
+    "secondhand": 11000,
+    "note": "Marshall Stanmore III 白 NT$9,600 = 64% 新 / 87% 二手 (殺價)"
+  },
+  "1440378771": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "By Kilian 紳士煙語香氛蠟燭 250g NT$2,800 < $3K niche 香氛 SKIP"
+  },
   "1440378779": {
     "source": "2026-05-28",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "La La Land 樂來越愛你 OST CD NT$730 < $2K 已絕版 CD niche SKIP"
+  },
+  "1440378967": {
+    "source": "2026-05-28",
+    "newPrice": 23990,
+    "secondhand": 18000,
+    "note": "PS5 Pro NT$20,000 = 83% 新 / 111% 二手 (持平/殺價邊界, Pro 行情未穩)"
+  },
+  "1440379789": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Lumix GF1 14mm 餅乾鏡 NT$6,850 (GF1 2009 古董機+人像鏡 不熟) SKIP"
   }
 }
