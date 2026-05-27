@@ -5059,6 +5059,13 @@
     "secondhand": null,
     "note": "青春豬頭系列滑鼠墊+掛軸 NT$2,450 < $3K niche SKIP"
   },
+  "1434465178": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad Air 5 NT$10,000 容量未列 SKIP"
+  },
   "1434478111": {
     "newPrice": null,
     "secondhand": null,
@@ -5093,6 +5100,13 @@
     "note": "手沖 全新 Hario V60 不鏽鋼濾杯 02號濾杯 手沖咖啡濾杯 NT$599 入門中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434519943": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TCL 行動 5G 網卡 NT$4,800 型號未列 niche SKIP"
   },
   "1434526242": {
     "newPrice": null,
@@ -29140,6 +29154,13 @@
     "secondhand": null,
     "note": "豔彩雙貔貅咬財碧璽手珠 NT$2,500 niche 玉石手珠 SKIP"
   },
+  "1440200082": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon IXUS 285 HSA NT$8,000 (CCD 老相機 行情高 持平 + rockrose 系列模板) SKIP"
+  },
   "1440201147": {
     "source": "2026-05-27",
     "skip": true,
@@ -29173,6 +29194,18 @@
     "newPrice": null,
     "secondhand": null,
     "note": "YAMAHA NS-E55 環繞喇叭 1996 老型號 NT$2,000 不熟領域 SKIP"
+  },
+  "1440206110": {
+    "source": "2026-05-27",
+    "newPrice": 3800,
+    "secondhand": 2500,
+    "note": "Keychron K3 v2 紅軸矮軸 9 成新 少數派聯名 NT$2,100 = 55% 新 / 84% 二手 (好貨, 矮軸 75% layout)"
+  },
+  "1440208176": {
+    "source": "2026-05-27",
+    "newPrice": 10480,
+    "secondhand": 7500,
+    "note": "Nintendo Switch OLED 白色 8-9 成新 NT$5,500 = 53% 新 / 73% 二手 (好貨)"
   },
   "1440209765": {
     "source": "2026-05-27",
@@ -29284,6 +29317,13 @@
     "secondhand": null,
     "note": "AirPods Pro 3 NT$3,200 wearables-leak SKIP"
   },
+  "1440225629": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "FILCO Majestouch2 HAKUA TKL 茶軸 80% NT$1,800 < $2K SKIP (絕版鍵盤但金額太小)"
+  },
   "1440226462": {
     "source": "2026-05-27",
     "skip": true,
@@ -29304,5 +29344,33 @@
     "newPrice": null,
     "secondhand": null,
     "note": "CMF by Nothing Watch Pro 2 NT$1,800 < $2K SKIP"
+  },
+  "1440227365": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 3 全新未拆 NT$3,800 wearables-leak SKIP"
+  },
+  "1440233181": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "alec6hh 陳小雲苦台語 CD NT$890 < $2K 連發 SKIP"
+  },
+  "1440235511": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "I5-10400F + RTX 3060 Ti 8G 遊戲主機 NT$15,500 整機二手持平 (RTX 3060Ti 二手 NT$6-8K + i5-10400F NT$3K + 板/RAM/PSU/箱 約 NT$5K = $14-16K) SKIP"
+  },
+  "1440237450": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Xbox 無線控制器特別版 NT$3,000 型號未列 + 持平 SKIP"
   }
 }
