@@ -4818,6 +4818,13 @@
     "note": "Keychron K2HE/K2H-Q1磁軸白色特仕版 公司貨$5K-7K二手$4K-5K。$4,500=75%新品⭐ mugi62832978 機械鍵盤手動",
     "source": "2026-05-16"
   },
+  "1433935604": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MacBook Air M1 2020 近全新 NT$16,000 容量未列 (8G/16G) SKIP"
+  },
   "1433939339": {
     "newPrice": null,
     "secondhand": null,
@@ -5213,6 +5220,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434482035": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "sodapopo 蘇打誌3+無美麗單曲 NT$1,580 < $2K 黑名單連發 SKIP"
+  },
   "1434482741": {
     "newPrice": null,
     "secondhand": null,
@@ -5240,6 +5254,13 @@
     "note": "機械鍵盤 羅技Logitech g715 機械鍵盤 雲朵鍵盤手托 護腕墊 雲朵手托 Aur NT$790 wen36 入門/中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434490451": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "sodapopo 蘇打綠小宇宙/十年一刻 NT$680 < $2K 黑名單連發 SKIP"
   },
   "1434495089": {
     "source": "2026-05-27",
@@ -5307,6 +5328,12 @@
     "newPrice": 5000,
     "secondhand": 3500,
     "note": "微星 RX 6600 顯卡 NT$3,850 = 77% 新 / 110% 二手 持平 SKIP"
+  },
+  "1434576447": {
+    "source": "2026-05-28",
+    "newPrice": 7000,
+    "secondhand": 4000,
+    "note": "Ibanez GRX70QA 入門電吉他 NT$3,000 = 43% 新 / 75% 二手 (殺價)"
   },
   "1434594964": {
     "source": "2026-05-28",
@@ -30580,5 +30607,32 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Garmin Venu 2 花崗岩藍 NT$9,999 = 111% 新品太貴 SKIP"
+  },
+  "1440362584": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Pokemon GO Plus+ 改機 NT$3,400 = 194% 新 (Nintendo TW NT$1,750) 太貴 SKIP"
+  },
+  "1440363178": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Hitachi RD-200HG 10公升除濕機 NT$7,500 = 持平/略貴 (10L小機新 $8-10K, 二手 $5-6K) SKIP"
+  },
+  "1440363554": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Dell U3223QE 32 4K 60Hz NT$6,500 (coolfish 昨日同款 NT$4,500 標瑕疵, 今加價 44% 但仍低於行情 $13K) 詭異 SKIP 待釐清"
+  },
+  "1440364392": {
+    "source": "2026-05-28",
+    "newPrice": 11990,
+    "secondhand": 8000,
+    "note": "Harman Kardon Aura Studio 4 水母 4 代 NT$7,500 = 63% 新 / 94% 二手 (殺價邊界)"
   }
 }
