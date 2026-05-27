@@ -15,9 +15,10 @@ const all = [...(pending.newDeals || []), ...(pending.negotiate || []), ...(pend
 const watchlistItems = all.filter(isWatchlist);
 const pendingIds = all.filter(d => !isWatchlist(d)).map(d => d.pid).filter(Boolean);
 
-// 也收 raw_results 裡的 ID（避免重複出現）
+// 也收 raw_results 裡的 ID（避免重複出現）, 排除 watchlist pids
+const watchlistPids = new Set(watchlistItems.map(d => d.pid).filter(Boolean));
 const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
-const rawIds = raw.map(i => i.url?.match(/\/p\/(\d+)/)?.[1]).filter(Boolean);
+const rawIds = raw.map(i => i.url?.match(/\/p\/(\d+)/)?.[1]).filter(Boolean).filter(pid => !watchlistPids.has(pid));
 
 const newSeen = [...new Set([...seen, ...pendingIds, ...rawIds])];
 

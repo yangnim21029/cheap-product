@@ -264,7 +264,8 @@ candidates.forEach(d => {
 const mergePending = (existing, current) => {
   const map = new Map();
   [...existing, ...current].forEach(d => {
-    if (d.pid && !seenSet.has(d.pid)) map.set(d.pid, d);
+    // watchlist 永遠保留 (不受 seen 影響)
+    if (d.pid && (d.watchlist === true || !seenSet.has(d.pid))) map.set(d.pid, d);
   });
   return [...map.values()];
 };

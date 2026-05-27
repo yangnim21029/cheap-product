@@ -21,8 +21,53 @@
       "condition": "全新",
       "watchlist": true,
       "listedAt": "2025/07/31 03:52"
+    },
+    {
+      "pid": "225210929",
+      "title": "KEF MUO Wireless Speaker 星際藍",
+      "price": 6300,
+      "priceStr": "NT$6,300",
+      "category": "喇叭",
+      "seller": "-",
+      "timeAgo": "7 年前 (bump:13天)",
+      "condition": "全新",
+      "watchlist": true,
+      "url": "https://tw.carousell.com/p/225210929/",
+      "vsNew": 57,
+      "vsSecondhand": 70,
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10990,
+        "secondhand": 9000,
+        "note": "KEF Muo 星際藍 NT$6,300 = 57% 新 / 70% 二手 (好貨邊界, Muo 已停產 2024)"
+      },
+      "note": "watchlist, Muo 已停產 2024, 賣家掛 7 年 = 真死貨",
+      "listedAt": "2019/05/29 23:05"
     }
   ],
-  "negotiate": [],
+  "negotiate": [
+    {
+      "pid": "1341316048",
+      "title": "Bose SoundLink Revolve+ 台灣公司貨 現貨",
+      "price": 7500,
+      "priceStr": "NT$7,500",
+      "category": "喇叭",
+      "seller": "-",
+      "timeAgo": "1 年前 (bump:14天)",
+      "condition": "狀況良好",
+      "watchlist": true,
+      "url": "https://tw.carousell.com/p/1341316048/",
+      "vsNew": 68,
+      "vsSecondhand": 88,
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 10990,
+        "secondhand": 8500,
+        "note": "Bose SoundLink Revolve+ 台灣公司貨 NT$7,500 = 68% 新 / 88% 二手 (殺價)"
+      },
+      "note": "watchlist, 賣家掛 1 年 = 死貨可砍",
+      "listedAt": "2025/05/27 23:05"
+    }
+  ],
   "uncertain": []
 }
