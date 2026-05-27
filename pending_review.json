@@ -46,7 +46,7 @@
     },
     {
       "seller": "bryan6965",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "2025製dyson micro 1.5 sv33極輕量吸塵器",
       "price": 5900,
       "condition": "Like new",
@@ -56,7 +56,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/27 06:48",
+      "listedAt": "05/27 06:18",
       "pid": "1440188662",
       "verified": {
         "source": "2026-05-27",
@@ -66,6 +66,29 @@
       },
       "vsNew": 44,
       "vsSecondhand": 69
+    },
+    {
+      "seller": "god87327",
+      "timeAgo": "26 minutes ago",
+      "title": "哈曼卡頓 harman kardon aura studio 3",
+      "price": 2800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440194531/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 07:52",
+      "pid": "1440194531",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 8990,
+        "secondhand": 4500,
+        "note": "Harman Kardon Aura Studio 3 NT$2,800 = 31% 新 / 62% 二手 (好貨, 全玻璃聲學造型)"
+      },
+      "vsNew": 31,
+      "vsSecondhand": 62
     }
   ],
   "negotiate": [
@@ -103,7 +126,7 @@
       "priceStr": "NT$12,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/27 03:48",
+      "listedAt": "05/27 04:18",
       "pid": "1440182401",
       "verified": {
         "source": "2026-05-27",

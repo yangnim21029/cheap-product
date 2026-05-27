@@ -29031,6 +29031,13 @@
     "secondhand": null,
     "note": "中國宜興紫砂壺 NT$3,600 niche 茶具收藏 (無作者/編號) SKIP"
   },
+  "1440188547": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "提樑福瓜紫砂壺 NT$5,000 (molly113558 連發紫砂) niche 茶具 SKIP"
+  },
   "1440188662": {
     "source": "2026-05-27",
     "newPrice": 13490,
@@ -29057,5 +29064,25 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Zutomayo (ずっと真夜中でいいのに) 娃娃 NT$1,100 < $2K fan goods niche SKIP"
+  },
+  "1440194531": {
+    "source": "2026-05-27",
+    "newPrice": 8990,
+    "secondhand": 4500,
+    "note": "Harman Kardon Aura Studio 3 NT$2,800 = 31% 新 / 62% 二手 (好貨, 全玻璃聲學造型)"
+  },
+  "1440195667": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "天然巴西原礦流沙骨幹雙尖水晶 NT$4,200 niche 礦石收藏 SKIP"
+  },
+  "1440196034": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "早期青銅太上老君 NT$1,000 royalpenguin 古銅雕 < $2K SKIP"
   }
 }
