@@ -64,6 +64,23 @@ const QUERIES = [
   { q: '除濕機', min: 3000, max: 20000, maxDays: 7 },
   { q: '22L 除濕機', min: 4000, max: 25000, maxDays: 7 }, // Rose 想找 22L 大坪數 2026-05-25
   { q: '18L 除濕機', min: 4000, max: 20000, maxDays: 7 }, // Rose 想找 18L 大坪數 2026-05-25
+  { q: '20L 除濕機', min: 3000, max: 15000, maxDays: 7 }, // 2026-05-27 補位中段
+  { q: '20公升 除濕機', min: 3000, max: 15000, maxDays: 7 }, // 2026-05-27 中文字
+  // 2026-05-27 高階藍牙喇叭追蹤 (Devialet/Sonos Move/Vifa/KEF/Bose SoundLink)
+  { q: 'Devialet', min: 5000, max: 50000, maxDays: 7 },
+  { q: 'Sonos Move', min: 3000, max: 25000, maxDays: 7 },
+  { q: 'Vifa', min: 2000, max: 15000, maxDays: 7 },
+  { q: 'KEF Muo', min: 2000, max: 15000, maxDays: 7 },
+  { q: 'Bose SoundLink', min: 2000, max: 20000, maxDays: 7 },
+  // 2026-05-27 耳罩耳機 (XM5/XM6/QC Ultra/AirPods Max/HD 系列)
+  { q: 'Sony WH-1000XM', min: 3000, max: 15000, maxDays: 7 },
+  { q: 'Bose QC', min: 2000, max: 15000, maxDays: 7 },
+  { q: 'AirPods Max', min: 5000, max: 20000, maxDays: 7 },
+  { q: 'Sennheiser HD', min: 2000, max: 15000, maxDays: 7 },
+  // 2026-05-27 藍牙喇叭擴充 (JBL + Marshall Heston 聲霸)
+  { q: 'JBL Charge', min: 2000, max: 8000, maxDays: 7 },
+  { q: 'JBL Flip', min: 1500, max: 6000, maxDays: 7 },
+  { q: 'Marshall Heston', min: 5000, max: 25000, maxDays: 7 },
   { q: 'dji', min: 2000, max: 25000, maxDays: 7 },
   { q: 'insta360', min: 2000, max: 25000, maxDays: 7 },
   { q: '果汁機', min: 500, max: 10000, maxDays: 7 },
