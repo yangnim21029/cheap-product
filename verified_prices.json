@@ -1176,6 +1176,13 @@
     "secondhand": null,
     "note": "patrol 243 batch SKIP (niche/重複賣家/leak/持平/< $3K)"
   },
+  "1423261403": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "法藍瓷浮雕蝶戀花咖啡杯碟組 NT$4,100 niche 瓷器 SKIP"
+  },
   "1423320902": {
     "newPrice": null,
     "secondhand": null,
@@ -4989,6 +4996,13 @@
     "note": "三腳架 YUGAM ZB-F488 22吋LED 環形燈 攝影或直播 NT$1,000 入門腳架二手價合理無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434349092": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 3 NT$6,400 wearables-leak SKIP"
   },
   "1434351642": {
     "source": "2026-05-26",
@@ -20683,6 +20697,12 @@
     "note": "Patrol 103 SKIP: 告五人 迷霧之子EP hahahahohoho123",
     "source": "manual_skip"
   },
+  "1439134794": {
+    "source": "2026-05-27",
+    "newPrice": 8000,
+    "secondhand": 5500,
+    "note": "Bose QC 9.9 成新 2025 購入 NT$6,000 manual: 型號未列 (QC25/35/45/Ultra 差價 $5-12K), 假設 QC45 = 75% 新 / 109% 二手 (持平) — 需問型號"
+  },
   "1439135215": {
     "newPrice": null,
     "secondhand": null,
@@ -28927,6 +28947,13 @@
     "secondhand": null,
     "note": "patrol 243 batch SKIP (niche/重複賣家/leak/持平/< $3K)"
   },
+  "1440158248": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ming6212 B&o 型號未列 NT$3,000 重複賣家 SKIP"
+  },
   "1440158410": {
     "source": "2026-05-27",
     "skip": true,
@@ -29275,6 +29302,13 @@
     "secondhand": 6000,
     "note": "Breville BBL800XL 專業級果汁機 全新現貨 NT$4,000 = 29% 新 / 67% 二手 (好貨, 一機搞定 fire sale)"
   },
+  "1440220942": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "RF 75-300mm NT$6,000 (Canon RF 沒 75-300, 可能 EF 卡口標錯) SKIP"
+  },
   "1440221550": {
     "source": "2026-05-27",
     "skip": true,
@@ -29380,6 +29414,13 @@
     "secondhand": null,
     "note": "AirPods Pro 3 全新未拆 NT$3,800 wearables-leak SKIP"
   },
+  "1440229937": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "虎年一克金條塊 NT$10,000 niche 貴金屬 SKIP"
+  },
   "1440232863": {
     "source": "2026-05-27",
     "skip": true,
@@ -29407,6 +29448,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "陳綺貞時間的歌 2CD NT$540 < $2K raveage 重複 SKIP"
+  },
+  "1440236452": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon IXY910 = IXUS860 CCD NT$6,000 CCD 老相機持平 SKIP"
   },
   "1440237450": {
     "source": "2026-05-27",
@@ -29449,11 +29497,168 @@
     "secondhand": null,
     "note": "Olympus E-M10 II + 3 鏡頭 NT$17,000 套組不熟領域 SKIP"
   },
+  "1440246564": {
+    "source": "2026-05-27",
+    "newPrice": 12500,
+    "secondhand": 10500,
+    "note": "Apple Watch S11 46mm 保固到 2026/12 NT$9,500 = 76% 新 / 90% 二手 (殺價邊界, 保固加分)"
+  },
+  "1440247278": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "lululemon 神褲 M 全新 NT$2,100 < $3K niche SKIP"
+  },
   "1440248301": {
     "source": "2026-05-27",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "PS5 Slim Disc 盒裝完整 NT$13,799 = 92% 新品持平 SKIP"
+  },
+  "1440248731": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "復古方格地毯 NT$1,500 < $2K SKIP"
+  },
+  "1440251822": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "老件黃銅觀音神像 NT$2,500 老件 niche SKIP"
+  },
+  "1440251950": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "DIPTYQUE 蠟燭禮盒 70g×3 NT$2,300 < $3K 持平 SKIP"
+  },
+  "1440258073": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods 4 代 NT$3,490 wearables-leak SKIP"
+  },
+  "1440258235": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "未定事件簿書籤 oddfish NT$1,185 < $2K fan goods 連發 SKIP"
+  },
+  "1440258624": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "addct 韓香精佛手柑 NT$880 < $2K SKIP"
+  },
+  "1440258939": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "未定事件簿拍立得 oddfish NT$1,350 < $2K fan goods SKIP"
+  },
+  "1440260745": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Asus ExpertBook B5 型號未列 NT$20,000 SKIP"
+  },
+  "1440261817": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "歌林金曲閩南語唱片 NT$500 < $2K CD SKIP"
+  },
+  "1440262425": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AudioQuest River RCA 訊號線 NT$2,800 < $3K HiFi 線材 niche SKIP"
+  },
+  "1440262630": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Garmin Instinct 旋轉賣家代購 NT$1,500 太低 (新 NT$7K) 詐騙嫌疑 SKIP"
+  },
+  "1440263535": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "琥珀手排海飄珀飛翾 NT$1,950 < $2K niche 玉石 SKIP"
+  },
+  "1440264913": {
+    "source": "2026-05-27",
+    "newPrice": 14490,
+    "secondhand": 13000,
+    "note": "XBOX Series X 1TB NT$11,000 = 76% 新 / 85% 二手 (殺價)"
+  },
+  "1440264977": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "早期收藏小廢包+菸+火柴 NT$1,200 < $2K 早期收藏 SKIP"
+  },
+  "1440265706": {
+    "source": "2026-05-27",
+    "newPrice": 48000,
+    "secondhand": 25000,
+    "note": "Lenovo ThinkPad P14s Gen 2 i7-1165G7/32GB/1TB NT$16,500 = 34% 新 / 66% 二手 (好貨, 商用筆電大規格)"
+  },
+  "1440265850": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "外幣全部 NT$2,340 < $3K niche 收藏 SKIP"
+  },
+  "1440267198": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "東北 Live House 大作戰圍裙 NT$1,500 < $2K niche SKIP"
+  },
+  "1440269272": {
+    "source": "2026-05-27",
+    "newPrice": 22000,
+    "secondhand": 18000,
+    "note": "Sony SEL20F18G FE 20mm f/1.8 G 鏡頭 99 新 NT$16,000 = 73% 新 / 89% 二手 (殺價)"
+  },
+  "1440270936": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 3500,
+    "secondhand": 2200,
+    "note": "Leopold 機械式鍵盤 NT$3,000 型號未列 (FC660/750/900 差價) SKIP 需型號"
+  },
+  "1440271451": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "三室一廳大帳篷 NT$4,800 不熟領域型號未列 SKIP"
+  },
+  "1440271975": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "小米 Redmi Watch 5 NT$2,000 wearables < $3K SKIP"
   }
 }
