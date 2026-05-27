@@ -1183,6 +1183,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1423358958": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TaylorMade M2 (2017) 開球木桿 9.5度 NT$4,950 niche 高爾夫不熟 SKIP"
+  },
   "1423386688": {
     "newPrice": null,
     "secondhand": null,
@@ -2531,6 +2538,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1428669648": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HP LaserJet 黑色原廠碳粉匣 NT$4,500 型號不明 SKIP"
+  },
   "1428674945": {
     "newPrice": null,
     "secondhand": null,
@@ -2846,6 +2860,13 @@
     "secondhand": null,
     "note": "HUAWEI FreeClip 耳夾耳機 公司貨$5,990（特價$4,990）。$2,660=44%/53%，二手樣本不足",
     "source": "web search 2026-05-07"
+  },
+  "1430319270": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "DJI Osmo Mobile 6 全新未拆 NT$3,000 = 55% 新 / 100% 二手 持平 SKIP"
   },
   "1430374129": {
     "newPrice": null,
@@ -29213,6 +29234,13 @@
     "secondhand": 4200,
     "note": "Frank Ocean Blonde 黑膠 NT$5,200 manual: 2022 repress 二手 $3-5K (偏高), 2016 first press $30K+ (大撿). 需看封套有無 Black Friday 貼紙或 XL Records 字樣判定 — User 黑膠 watchlist"
   },
+  "1440210142": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Watch S11 42mm 銀色 NT$10,000 = 87% 新品 持平 SKIP"
+  },
   "1440210252": {
     "source": "2026-05-27",
     "skip": true,
@@ -29352,6 +29380,13 @@
     "secondhand": null,
     "note": "AirPods Pro 3 全新未拆 NT$3,800 wearables-leak SKIP"
   },
+  "1440232863": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PS5 光碟版主機+手柄 NT$7,500 「組件不全」(無 HDMI/電源線) 異常 SKIP"
+  },
   "1440233181": {
     "source": "2026-05-27",
     "skip": true,
@@ -29366,11 +29401,59 @@
     "secondhand": null,
     "note": "I5-10400F + RTX 3060 Ti 8G 遊戲主機 NT$15,500 整機二手持平 (RTX 3060Ti 二手 NT$6-8K + i5-10400F NT$3K + 板/RAM/PSU/箱 約 NT$5K = $14-16K) SKIP"
   },
+  "1440236205": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "陳綺貞時間的歌 2CD NT$540 < $2K raveage 重複 SKIP"
+  },
   "1440237450": {
     "source": "2026-05-27",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Xbox 無線控制器特別版 NT$3,000 型號未列 + 持平 SKIP"
+  },
+  "1440238108": {
+    "source": "2026-05-27",
+    "newPrice": 23290,
+    "secondhand": 14000,
+    "note": "iPad Air 5 64G + Apple Pencil 2 bundle NT$11,000 = 47% 新 / 79% 二手 (好貨, iPad $19,500 + Pencil $3,790 新)"
+  },
+  "1440240521": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Yamaha YFL-211 長笛 NT$10,000 = 40% 新 / 100% 二手 持平 SKIP"
+  },
+  "1440243798": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "CORTIS 日咖預售特典 4 張 NT$1,350 < $2K 應援 niche SKIP"
+  },
+  "1440243950": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "陳綺貞時間的歌 2CD NT$500 < $2K raveage CD 連發 SKIP"
+  },
+  "1440245527": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Olympus E-M10 II + 3 鏡頭 NT$17,000 套組不熟領域 SKIP"
+  },
+  "1440248301": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PS5 Slim Disc 盒裝完整 NT$13,799 = 92% 新品持平 SKIP"
   }
 }
