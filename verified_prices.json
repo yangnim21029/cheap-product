@@ -1190,6 +1190,13 @@
     "secondhand": null,
     "note": "法藍瓷浮雕蝶戀花咖啡杯碟組 NT$4,100 niche 瓷器 SKIP"
   },
+  "1423269276": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "捷安特 Halfway 單臂銀色 20吋折疊 NT$3,900 不熟領域 SKIP"
+  },
   "1423320902": {
     "newPrice": null,
     "secondhand": null,
@@ -4852,6 +4859,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1434112052": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "23吋烏克麗麗近全新 NT$1,900 < $2K SKIP"
+  },
   "1434112138": {
     "newPrice": null,
     "secondhand": null,
@@ -5150,6 +5164,13 @@
     "secondhand": null,
     "note": "iPad Air 5 NT$10,000 容量未列 SKIP"
   },
+  "1434477134": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "蘇打綠春夏秋冬全套+秋冬誌 sodapopo NT$6,480 連發 CD niche SKIP"
+  },
   "1434478111": {
     "newPrice": null,
     "secondhand": null,
@@ -5198,6 +5219,13 @@
     "note": "手沖 全新 Hario V60 不鏽鋼濾杯 02號濾杯 手沖咖啡濾杯 NT$599 入門中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434506468": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "RICK OWENS DRKSHDW Detroit Cut Black Wax 黑膠上蠟 NT$7,350 niche 設計師牛仔 不熟領域 SKIP"
   },
   "1434519943": {
     "source": "2026-05-27",
@@ -30040,6 +30068,13 @@
     "secondhand": null,
     "note": "自行車風衣+車衣 NT$3,000 liketobuy 不熟領域 SKIP"
   },
+  "1440305424": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "BH HA990T 飛輪車 9成新 NT$8,888 niche 健身器材 (家用飛輪二手 $8-15K 持平) SKIP"
+  },
   "1440306355": {
     "source": "2026-05-27",
     "skip": true,
@@ -30053,6 +30088,27 @@
     "newPrice": null,
     "secondhand": null,
     "note": "絕版粉嫩恩採小卡 NT$1,200 < $2K niche SKIP"
+  },
+  "1440310521": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "一盎司銀條 NT$5,500 niche 貴金屬 SKIP"
+  },
+  "1440313246": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "DDR5 5600 C36 16Gx2 NT$9,500 (32G DDR5 新 NT$3,300) = 287% 新 太貴 SKIP"
+  },
+  "1440314950": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 8900,
+    "secondhand": 6500,
+    "note": "Amazfit Balance 2 6sat GPS 離線地圖 保固內 9成新 NT$6,600 = 74% 新 / 102% 二手 持平 SKIP"
   },
   "1440315953": {
     "source": "2026-05-27",
@@ -30073,5 +30129,82 @@
     "newPrice": 7000,
     "secondhand": 5500,
     "note": "撼訊 RX 6650 XT NT$4,600 = 66% 新 / 84% 二手 (殺價, 2022 老顯卡邊界)"
+  },
+  "1440320859": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 6500,
+    "secondhand": 4000,
+    "note": "Medicube AGE-R Booster Pro 美容儀 NT$4,800 = 74% 新 / 120% 二手 持平 SKIP"
+  },
+  "1440320948": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 6000,
+    "note": "Pioneer DDJ-SR DJ 控制器 8 成新 NT$5,000 (DJ-SR 老型號) niche 持平 SKIP"
+  },
+  "1440324944": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "VANA CANDLES 香氛蠟燭+暖燈 北歐圓頂 NT$1,800 < $2K SKIP"
+  },
+  "1440324975": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Gut1 NT$5,400 標題不明 SKIP"
+  },
+  "1440325177": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SABA SA-HT01 復古電烤箱 20L NT$1,200 < $2K SKIP"
+  },
+  "1440325299": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Miss Dior 髮香噴霧 30ml NT$1,800 < $2K niche SKIP"
+  },
+  "1440325489": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "羅技李珠珢聯名滑鼠墊 NT$3,000 < $3K fan goods SKIP"
+  },
+  "1440327036": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 5490,
+    "secondhand": 4000,
+    "note": "AirPods 4 ANC 全新現貨 NT$4,500 wearables-leak SKIP"
+  },
+  "1440327316": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 遊戲片 3 款 NT$2,500 < $3K niche 遊戲片 SKIP"
+  },
+  "1440329570": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Aviator F SERIES 智慧手錶男錶 NT$3,500 niche 不熟領域 SKIP"
+  },
+  "1440330264": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "tuki. 台北場限定毛巾貼紙 NT$2,100 < $3K fan goods SKIP"
   }
 }
