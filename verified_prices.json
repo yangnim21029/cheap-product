@@ -1197,6 +1197,13 @@
     "secondhand": null,
     "note": "捷安特 Halfway 單臂銀色 20吋折疊 NT$3,900 不熟領域 SKIP"
   },
+  "1423269797": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "GPLUS 沖牙機 NT$1,000 < $2K SKIP"
+  },
   "1423320902": {
     "newPrice": null,
     "secondhand": null,
@@ -1217,6 +1224,13 @@
     "note": "空氣清淨機 【Electrolux 伊萊克斯】Pure A9 空氣清淨機專用 HEPA13  NT$1,500 jnes6022532572 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1423420540": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Rick and Morty 傳送槍雨傘 NT$3,400 niche fan goods SKIP"
   },
   "1423581114": {
     "newPrice": null,
@@ -5261,6 +5275,13 @@
     "note": "機械鍵盤 【全新僅拆封】irocks K103R 無線 機械鍵盤 靜音奶茶軸 宇治金時 NT$2,430 chiacha 入門/中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434537879": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "寶可夢烈空座任意扭曲 NT$3,600 niche 收藏 SKIP"
   },
   "1434556658": {
     "skip": true,
@@ -29290,6 +29311,13 @@
     "secondhand": null,
     "note": "吉伊卡哇 餅卡 NT$1,200 < $2K fan goods niche SKIP"
   },
+  "1440190132": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "RF 射頻纖體儀 + 汗蒸毯 NT$2,500 < $3K niche 不熟 SKIP"
+  },
   "1440191086": {
     "source": "2026-05-27",
     "skip": true,
@@ -30214,6 +30242,20 @@
     "secondhand": null,
     "note": "Switch 遊戲片 3 款 NT$2,500 < $3K niche 遊戲片 SKIP"
   },
+  "1440327460": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "飛利浦空氣清淨機全新未拆 NT$2,000 型號未列 SKIP"
+  },
+  "1440327712": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 7500,
+    "note": "Switch 二手公司貨 9成新 + 遊戲片配件 bundle NT$7,500 = 100% 二手持平 SKIP"
+  },
   "1440329570": {
     "source": "2026-05-27",
     "skip": true,
@@ -30291,6 +30333,13 @@
     "secondhand": null,
     "note": "大日本大正 3 年龍銀 tinaviggo NT$4,500 niche 收藏 SKIP"
   },
+  "1440340823": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 5500,
+    "note": "iPad Mini 5 64G WiFi 黑灰 (2019 老款) NT$5,000 持平 SKIP"
+  },
   "1440341038": {
     "source": "2026-05-27",
     "skip": true,
@@ -30304,5 +30353,47 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Rokid 樂奇智慧眼鏡 NT$12,500 niche AR 眼鏡 + 型號未列具體 SKIP"
+  },
+  "1440341831": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "IRLAND 20吋 451 NT$3,500 (折疊單車?) 不熟領域 SKIP"
+  },
+  "1440345973": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 5500,
+    "secondhand": 3500,
+    "note": "海盜船 RM850x 850W 80+Gold 電源供應器 NT$3,500 = 64% 新 / 100% 二手持平 SKIP"
+  },
+  "1440347373": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "牛奶糖色無線藍芽鍵盤 NT$950 < $2K 無品牌 SKIP"
+  },
+  "1440348295": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "紅米 Watch 6 NT$2,500 < $3K wearables 持平 SKIP"
+  },
+  "1440349712": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "EDWIN 全新自動傘 NT$699 < $2K SKIP"
+  },
+  "1440351217": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "小狐狸套組 NT$2,400 < $3K fan goods SKIP"
   }
 }
