@@ -1,8 +1,8 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/27 21:01:16 · 累積已看 12101 筆 · 111 位賣家黑名單
+> 2026/5/27 22:01:16 · 累積已看 12115 筆 · 111 位賣家黑名單
 
-**待審：** 好貨 6 ｜ 殺價 22 ｜ 手動 0 ｜ 待查 1
+**待審：** 好貨 6 ｜ 殺價 22 ｜ 手動 0 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
@@ -12,7 +12,7 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [電腦科技] Lenovo P14S ThinkPad P14s Gen 2 i7-1165G7/32G | **NT$16,500** | 新$48000 | 34% new | Lightly used | 05/27 15:01 | [→](https://tw.carousell.com/p/1440265706/) |
+| [筆電] Lenovo P14S ThinkPad P14s Gen 2 i7-1165G7/32G | **NT$16,500** | 新$48000 | 34% new | Lightly used | 05/27 15:01 | [→](https://tw.carousell.com/p/1440265706/) |
 | [果汁機] 【全新現貨】Breville BBL800XL 專業級果汁機 一機搞定 | **NT$4,000** | 新$13800 | 29% new | Brand new | 05/27 11:01 | [→](https://tw.carousell.com/p/1440219838/) |
 | [音響耳機] 哈曼卡頓 harman kardon aura studio 3 | **NT$2,800** | 新$8990 | 31% new | Lightly used | 05/27 08:19 | [→](https://tw.carousell.com/p/1440194531/) |
 | [吸塵器] 2025製dyson micro 1.5 sv33極輕量吸塵器 | **NT$5,900** | 新$13490 | 44% new | Like new | 05/27 06:01 | [→](https://tw.carousell.com/p/1440188662/) |
@@ -29,7 +29,7 @@
 | [相機攝影] Sony A6400 銀色 隨附鏡頭SELP1650（E PZ 16-50mm F3.5- | **NT$17,000** | 新$32990 | 52% new | Like new | 05/27 18:01 | [→](https://tw.carousell.com/p/1440296657/) |
 | [電腦科技] 雷蛇 Razer Deathadder V3 Pro +HyperPolling無線接收器 | **NT$3,100** | 新$6000 | 52% new | Brand new | 05/27 18:01 | [→](https://tw.carousell.com/p/1440299524/) |
 | [dji] DJI 大疆 Neo 2 無人機 空拍機 Drone 入門無人機 全新未拆 攝影 | **NT$5,500** | 新$7500 | 73% new | Brand new | 05/27 18:01 | [→](https://tw.carousell.com/p/1440300191/) |
-| [螢幕] SAMSUNG三星 M7 4K 32型 2023年式智慧電視螢幕 | **NT$8,000** | 新$14990 | 53% new | Like new | 05/27 17:01 | [→](https://tw.carousell.com/p/1440283232/) |
+| [螢幕] SAMSUNG三星 M7 4K 32型 2023年式智慧電視螢幕 | **NT$7,500** | 新$14990 | 50% new | Like new | 05/27 17:01 | [→](https://tw.carousell.com/p/1440283232/) |
 | [相機攝影] Sony SEL20F18G 鏡頭 單眼 99新 | **NT$16,000** | 新$22000 | 73% new | Like new | 05/27 16:01 | [→](https://tw.carousell.com/p/1440269272/) |
 | [相機攝影] Canon EOS R50 | **NT$15,000** | 新$22900 | 66% new | Like new | 05/27 16:01 | [→](https://tw.carousell.com/p/1440279575/) |
 | [音響耳機] Marshall Middleton | **NT$5,000** | 新$10990 | 45% new | Lightly used | 05/27 16:01 | [→](https://tw.carousell.com/p/1440274989/) |
@@ -43,18 +43,10 @@
 | [insta360] Insta360 X5、2電、自拍棒、充電器、保固中 | **NT$14,500** | 新$26000 | 56% new | Like new | 05/27 09:01 | [→](https://tw.carousell.com/p/1440201719/) |
 | [iPad] Ipad Air 六代 m2 11吋 | **NT$12,000** | 新$19400 | 62% new | Lightly used | 05/27 04:02 | [→](https://tw.carousell.com/p/1440182401/) |
 | [喇叭] Bose SoundLink Revolve+ 台灣公司貨 現貨 | **NT$7,500** | 新$10990 | 68% new | 狀況良好 | 2025/05/27 03:52 | [→](https://tw.carousell.com/p/1341316048/) |
-| [Bose SoundLink] bose soundlink max | **NT$9,500** | 新$13900 | 68% new | Like new | 05/25 19:01 | [→](https://tw.carousell.com/p/1439963726/) |
-| [Sony WH-1000XM] Sony WH-1000XM6 | **NT$9,000** | 新$12990 | 69% new | Like new | 05/24 21:01 | [→](https://tw.carousell.com/p/1439778033/) |
-| [AirPods Max] Apple AirPods Max 一代 Lightning接口 | **NT$8,000** | 新$18490 | 43% new | Lightly used | 05/24 21:01 | [→](https://tw.carousell.com/p/1439749732/) |
-| [Sony WH-1000XM] Sony wh-xm5 | **NT$6,500** | 新$10990 | 59% new | Lightly used | 05/20 21:01 | [→](https://tw.carousell.com/p/1439021254/) |
-
-<details><summary>⏳ 待查價 1 筆（subagent 還沒跑完）</summary>
-
-| 品項 | 價格 | 上架 |  |
-|------|------|------|--|
-| [電玩主機] 二手原廠switch公司貨 9成新 附遊戲片手把簡便轉接頭 散熱風扇 | NT$7,500 | 05/27 20:44 | [→](https://tw.carousell.com/p/1440327712/) |
-
-</details>
+| [Bose SoundLink] bose soundlink max | **NT$9,000** | 新$13900 | 65% new | Like new | 05/25 22:01 | [→](https://tw.carousell.com/p/1439963726/) |
+| [Sony WH-1000XM] Sony WH-1000XM6 | **NT$9,000** | 新$12990 | 69% new | Like new | 05/24 22:01 | [→](https://tw.carousell.com/p/1439778033/) |
+| [AirPods Max] Apple AirPods Max 一代 Lightning接口 | **NT$8,000** | 新$18490 | 43% new | Lightly used | 05/24 22:01 | [→](https://tw.carousell.com/p/1439749732/) |
+| [Sony WH-1000XM] Sony wh-xm5 | **NT$6,500** | 新$10990 | 59% new | Lightly used | 05/20 22:01 | [→](https://tw.carousell.com/p/1439021254/) |
 
 
 ---

@@ -2622,6 +2622,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1428702585": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "VANA 香氛蠟燭 NT$630 < $2K SKIP"
+  },
   "1428752299": {
     "newPrice": null,
     "secondhand": null,
@@ -5164,6 +5171,13 @@
     "secondhand": null,
     "note": "iPad Air 5 NT$10,000 容量未列 SKIP"
   },
+  "1434472650": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "頑童 MJ116 BD 藍光片 NT$600 < $2K SKIP"
+  },
   "1434477134": {
     "source": "2026-05-27",
     "skip": true,
@@ -5258,6 +5272,13 @@
     "note": "空氣清淨機 CHIMEI智能全淨化空氣清淨機 NT$1,500 wesater 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1434569733": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": 5000,
+    "secondhand": 3500,
+    "note": "微星 RX 6600 顯卡 NT$3,850 = 77% 新 / 110% 二手 持平 SKIP"
   },
   "1434630768": {
     "newPrice": null,
@@ -30206,5 +30227,82 @@
     "newPrice": null,
     "secondhand": null,
     "note": "tuki. 台北場限定毛巾貼紙 NT$2,100 < $3K fan goods SKIP"
+  },
+  "1440330847": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "深藍星隙魔鬼藍拉長石球 miracle.crystal NT$1,580 < $2K niche 水晶 SKIP"
+  },
+  "1440333151": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sabon 經典香氛套組 NT$500 < $2K SKIP"
+  },
+  "1440335970": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 5000,
+    "note": "Asus RT-AX89X 八爪魚陸版 NT$4,500 陸版無台版保固 niche SKIP"
+  },
+  "1440337352": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon EF 400mm f/5.6L USM 單眼望遠鏡頭 NT$18,600 (EF mount 已停產 + 重型專業) niche 不熟 SKIP"
+  },
+  "1440337971": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "NUX MG300 綜合效果器國際版 NT$2,800 < $3K 樂器效果器 niche SKIP"
+  },
+  "1440337987": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "五月天 4 張 CD s122402808 NT$2,800 < $3K niche CD SKIP"
+  },
+  "1440338123": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Rog Ally Z1 Extreme 512G 保固內 qwt49970608 NT$11,000 = (Z1E 新 $22K) 50% 新 但 qwt 是已知過貴賣家 SKIP"
+  },
+  "1440338603": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "小米 22.5W 20000mAh 行動電源 NT$500 < $2K SKIP"
+  },
+  "1440340225": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "大日本大正 3 年龍銀 tinaviggo NT$4,500 niche 收藏 SKIP"
+  },
+  "1440341038": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Zutomayo 真夜中徽章 NT$1,200 < $2K fan goods SKIP"
+  },
+  "1440341217": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Rokid 樂奇智慧眼鏡 NT$12,500 niche AR 眼鏡 + 型號未列具體 SKIP"
   }
 }
