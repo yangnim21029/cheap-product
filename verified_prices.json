@@ -2587,6 +2587,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1428644546": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "歐力士猛牛山下舜平大客場球衣 NT$2,500 < $3K 棒球 niche SKIP"
+  },
   "1428669648": {
     "source": "2026-05-27",
     "skip": true,
@@ -5157,6 +5164,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1434485251": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "蘇打綠蘇打誌合售 sodapopo NT$750 < $2K CD SKIP"
+  },
   "1434488446": {
     "newPrice": null,
     "secondhand": null,
@@ -5170,6 +5184,13 @@
     "note": "機械鍵盤 羅技Logitech g715 機械鍵盤 雲朵鍵盤手托 護腕墊 雲朵手托 Aur NT$790 wen36 入門/中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434495089": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "蘇打綠 2004 三單曲首版 sodapopo NT$780 < $2K CD 連發 SKIP"
   },
   "1434498880": {
     "newPrice": null,
@@ -29978,6 +29999,12 @@
     "secondhand": 3500,
     "note": "Razer Deathadder V3 Pro + 8K HyperPolling 接收器 NT$3,100 = 52% 新 / 89% 二手 (殺價, 旗艦電競滑鼠)"
   },
+  "1440300191": {
+    "source": "2026-05-27",
+    "newPrice": 7500,
+    "secondhand": 5800,
+    "note": "DJI Neo 2 全新未拆 NT$5,500 = 73% 新 / 95% 二手 (殺價, 2025 新款入門無人機)"
+  },
   "1440300701": {
     "source": "2026-05-27",
     "skip": true,
@@ -30019,5 +30046,32 @@
     "newPrice": null,
     "secondhand": null,
     "note": "iPad 翻譜踏板 NT$800 < $2K SKIP"
+  },
+  "1440309086": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "絕版粉嫩恩採小卡 NT$1,200 < $2K niche SKIP"
+  },
+  "1440315953": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "菊池風磨場刊絕版 NT$2,280 < $3K fan goods 傑尼斯周邊 SKIP"
+  },
+  "1440317083": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LOEWE 羅意威香氛皂常春藤 NT$2,100 < $3K niche SKIP"
+  },
+  "1440320138": {
+    "source": "2026-05-27",
+    "newPrice": 7000,
+    "secondhand": 5000,
+    "note": "撼訊 RX 6650 XT 二手 NT$4,600 = 66% 新 / 92% 二手 (殺價邊界, 2022 老顯卡)"
   }
 }
