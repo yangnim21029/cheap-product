@@ -29591,6 +29591,12 @@
     "secondhand": null,
     "note": "DIPTYQUE 蠟燭禮盒 70g×3 NT$2,300 < $3K 持平 SKIP"
   },
+  "1440252313": {
+    "source": "2026-05-27",
+    "newPrice": 36900,
+    "secondhand": 25000,
+    "note": "MacBook Air 2022 M2 16G/512G 藍黑 NT$18,000 = 49% 新 / 72% 二手 (殺價/好貨邊界)"
+  },
   "1440255273": {
     "source": "2026-05-27",
     "newPrice": 11990,
@@ -29755,12 +29761,32 @@
     "secondhand": null,
     "note": "寶蓋白金剛舍利球 NT$1,000 < $2K niche SKIP"
   },
+  "1440273855": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "outlander 原廠影音主機+兩喇叭 NT$2,000 車用音響不熟 SKIP"
+  },
   "1440273972": {
     "source": "2026-05-27",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "FUJIFILM instax mini 41 復古拍立得 NT$2,900 < $3K SKIP"
+  },
+  "1440274528": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Panasonic GF8 +14mm 微單 2016 老相機 NT$6,200 持平 SKIP"
+  },
+  "1440274989": {
+    "source": "2026-05-27",
+    "newPrice": 10990,
+    "secondhand": 6500,
+    "note": "Marshall Middleton 攜帶式藍牙喇叭 NT$5,000 = 45% 新 / 77% 二手 (殺價)"
   },
   "1440275481": {
     "source": "2026-05-27",
@@ -29837,11 +29863,80 @@
     "secondhand": 9000,
     "note": "SAMSUNG M7 4K 32吋 2023 智慧電視螢幕 NT$8,000 = 53% 新 / 89% 二手 (殺價)"
   },
+  "1440284581": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HP 極羨翻轉 x360 Ryzen 5-3500U 2019 老機 NT$7,800 持平 SKIP"
+  },
+  "1440285167": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Logitech G Cloud 雲端掌機 64G NT$5,500 = 65% 新 / 110% 二手 niche 停產 SKIP"
+  },
   "1440286968": {
     "source": "2026-05-27",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "TP-LINK Archer AXE95 WiFi 6E NT$3,000 manual: 新 NT$4K (75% 新邊界 + 型號舊代) SKIP"
+  },
+  "1440288569": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Labubu 香氛中盒 NT$1,500 < $2K fan goods SKIP"
+  },
+  "1440288666": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Instax Mini 40 拍立得 NT$3,800 = 95% 新品持平 SKIP"
+  },
+  "1440289183": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Acer A515 56G i5-1135G7 老配置筆電 NT$7,500 持平 SKIP"
+  },
+  "1440291323": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Kingston DDR4 3200 16G×2 NT$6,000 = 250% 新品 太貴 SKIP"
+  },
+  "1440292512": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Zeiss 金框眼鏡框 NT$3,333 niche 不熟 SKIP"
+  },
+  "1440295546": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "二手 MacBook Air NT$3,000 年份/晶片未列 SKIP"
+  },
+  "1440295562": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Lenovo ThinkPad X1 Carbon Gen 9 NT$12,000 = 92% 二手持平 SKIP"
+  },
+  "1440296657": {
+    "source": "2026-05-27",
+    "newPrice": 32990,
+    "secondhand": 22000,
+    "note": "Sony A6400 銀 + SELP1650 16-50mm kit NT$17,000 = 52% 新 / 77% 二手 (殺價)"
   }
 }
