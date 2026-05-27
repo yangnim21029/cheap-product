@@ -67,6 +67,98 @@
       },
       "note": "watchlist, 賣家掛 1 年 = 死貨可砍",
       "listedAt": "2025/05/27 23:05"
+    },
+    {
+      "seller": "nitata__",
+      "timeAgo": "7 minutes ago",
+      "title": "Apple iPad Air 5 64G WiFi/Apple pencil 2 (95新以上)",
+      "price": 11000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440359737/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$11,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 23:55",
+      "pid": "1440359737",
+      "verified": {
+        "source": "2026-05-28",
+        "newPrice": 23290,
+        "secondhand": 14000,
+        "note": "iPad Air 5 64G + Apple Pencil 2 95新以上 NT$11,000 = 47% 新 / 79% 二手 (好貨, 同前 patrol 262 重複款)"
+      },
+      "vsNew": 47,
+      "vsSecondhand": 79
+    },
+    {
+      "seller": "coolbear_612134",
+      "timeAgo": "5 minutes ago",
+      "title": "TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD (2560x1440), IPS, 170Hz (144Hz 以上), ELMB SYNC, Adaptive-sync,相容 NVIDIA® G-SYNC™, 1ms (MPRT), 130 % sRGB, DisplayHDR™ 400",
+      "price": 8800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440360130/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$8,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 23:57",
+      "pid": "1440360130",
+      "verified": {
+        "source": "2026-05-28",
+        "newPrice": 13500,
+        "secondhand": 11000,
+        "note": "ASUS TUF Gaming VG27AQL1A ZAKU II 27 WQHD 鋼彈聯名 NT$8,800 = 65% 新 / 80% 二手 (殺價)"
+      },
+      "vsNew": 65,
+      "vsSecondhand": 80
+    },
+    {
+      "seller": "panikj",
+      "timeAgo": "25 minutes ago",
+      "title": "【出售】 DJI Osmo Pocket 3 全能套裝",
+      "price": 12000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440358056/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$12,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 23:37",
+      "pid": "1440358056",
+      "verified": {
+        "source": "2026-05-28",
+        "newPrice": 22900,
+        "secondhand": 15000,
+        "note": "DJI Osmo Pocket 3 全能套裝 NT$12,000 = 52% 新 / 80% 二手 (殺價)"
+      },
+      "vsNew": 52,
+      "vsSecondhand": 80
+    },
+    {
+      "seller": "ygjjh08",
+      "timeAgo": "46 minutes ago",
+      "title": "Ps4 pro 1tb 雙手把 線齊全 附兩片遊戲片",
+      "price": 4200,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440354789/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$4,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 23:16",
+      "pid": "1440354789",
+      "verified": {
+        "source": "2026-05-28",
+        "newPrice": 8000,
+        "secondhand": 5500,
+        "note": "PS4 Pro 1TB + 雙手把 + 線齊 + 2 遊戲片 bundle NT$4,200 = 53% 新 / 76% 二手 (殺價)"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 76
     }
   ],
   "uncertain": []
