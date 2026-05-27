@@ -46,7 +46,7 @@
     },
     {
       "seller": "bryan6965",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "2025製dyson micro 1.5 sv33極輕量吸塵器",
       "price": 5900,
       "condition": "Like new",
@@ -56,7 +56,7 @@
       "priceStr": "NT$5,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/27 06:48",
+      "listedAt": "05/27 06:19",
       "pid": "1440188662",
       "verified": {
         "source": "2026-05-27",
@@ -69,7 +69,7 @@
     },
     {
       "seller": "god87327",
-      "timeAgo": "56 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "哈曼卡頓 harman kardon aura studio 3",
       "price": 2800,
       "condition": "Lightly used",
@@ -79,7 +79,7 @@
       "priceStr": "NT$2,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/27 07:52",
+      "listedAt": "05/27 08:19",
       "pid": "1440194531",
       "verified": {
         "source": "2026-05-27",
@@ -136,6 +136,29 @@
       },
       "vsNew": 62,
       "vsSecondhand": 86
+    },
+    {
+      "seller": "way4142",
+      "timeAgo": "8 minutes ago",
+      "title": "Insta360 X5、2電、自拍棒、充電器、保固中",
+      "price": 14500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440201719/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$14,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/27 09:11",
+      "pid": "1440201719",
+      "verified": {
+        "source": "2026-05-27",
+        "newPrice": 26000,
+        "secondhand": 18000,
+        "note": "Insta360 X5 + 2 電 + 自拍棒 + 充電器 保固中 NT$14,500 = 56% 新 / 81% 二手 (殺價/好貨邊界)"
+      },
+      "vsNew": 56,
+      "vsSecondhand": 81
     }
   ],
   "uncertain": []

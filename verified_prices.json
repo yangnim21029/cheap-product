@@ -4803,6 +4803,13 @@
     "source": "manual 2026-05-11",
     "skip": true
   },
+  "1434184751": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Speedplay 棒棒糖卡踏 w1230 (第 3 次重複款) NT$2,500 不熟領域 SKIP"
+  },
   "1434184886": {
     "source": "2026-05-26",
     "skip": true,
@@ -29098,5 +29105,39 @@
     "newPrice": null,
     "secondhand": null,
     "note": "早期青銅太上老君 NT$1,000 royalpenguin 古銅雕 < $2K SKIP"
+  },
+  "1440199336": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "白銅/藏銀大筆發財 royalpenguin NT$2,400 niche SKIP"
+  },
+  "1440199811": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "豔彩雙貔貅咬財碧璽手珠 NT$2,500 niche 玉石手珠 SKIP"
+  },
+  "1440201147": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "白銅/藏銀馬到成功聚寶盆 royalpenguin NT$3,000 niche SKIP"
+  },
+  "1440201719": {
+    "source": "2026-05-27",
+    "newPrice": 26000,
+    "secondhand": 18000,
+    "note": "Insta360 X5 + 2 電 + 自拍棒 + 充電器 保固中 NT$14,500 = 56% 新 / 81% 二手 (殺價/好貨邊界)"
+  },
+  "1440202467": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "早期老紅銅馬到成功大尺寸 royalpenguin NT$4,500 古銅雕 niche SKIP"
   }
 }
