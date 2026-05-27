@@ -1031,6 +1031,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1422572277": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "奧特曼老膠超人力霸王 NT$1,300 < $2K niche SKIP"
+  },
   "1422596192": {
     "newPrice": null,
     "secondhand": null,
@@ -2456,6 +2463,13 @@
     "note": "烤箱 尚朋堂雙層鏡面旋風氣炸烤箱46L NT$3,200 入門/中位無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1428364688": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Epson EB-530 短焦投影機 1700-2700H 燈泡 NT$2,600 < $3K 老投影機 SKIP"
   },
   "1428368113": {
     "newPrice": null,
@@ -27313,6 +27327,12 @@
     "note": "Zowie XL2546X+ 24.1\" 280Hz DyAc+ 近全新 新品 $16,490 二手中位 $13-14K。$12,000 = 88% 二手 ⭐ 手動 (台南自取)",
     "source": "2026-05-25"
   },
+  "1439963726": {
+    "source": "2026-05-27",
+    "newPrice": 13900,
+    "secondhand": 11000,
+    "note": "Bose SoundLink Max NT$9,500 = 68% 新 / 86% 二手 (殺價, 大型攜帶式)"
+  },
   "1439964638": {
     "newPrice": 4500,
     "secondhand": 3400,
@@ -29919,6 +29939,12 @@
     "secondhand": null,
     "note": "Zeiss 金框眼鏡框 NT$3,333 niche 不熟 SKIP"
   },
+  "1440294859": {
+    "source": "2026-05-27",
+    "newPrice": 54000,
+    "secondhand": 35000,
+    "note": "🎯 Rimowa Original Compact 銀色登機箱 NT$32,000 = 59% 新 / 91% 二手 (manual, Rimowa 保值高, 持平偏低, User 行李箱 watchlist)"
+  },
   "1440295546": {
     "source": "2026-05-27",
     "skip": true,
@@ -29938,5 +29964,60 @@
     "newPrice": 32990,
     "secondhand": 22000,
     "note": "Sony A6400 銀 + SELP1650 16-50mm kit NT$17,000 = 52% 新 / 77% 二手 (殺價)"
+  },
+  "1440298533": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 2 USB-C NT$2,300 < $3K wearables-leak SKIP"
+  },
+  "1440299524": {
+    "source": "2026-05-27",
+    "newPrice": 6000,
+    "secondhand": 3500,
+    "note": "Razer Deathadder V3 Pro + 8K HyperPolling 接收器 NT$3,100 = 52% 新 / 89% 二手 (殺價, 旗艦電競滑鼠)"
+  },
+  "1440300701": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "彩虹社 Nijisanji 葛葉 2021 生日掛軸 hotnotpot 連發 NT$1,100 < $2K SKIP"
+  },
+  "1440301508": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "彩虹社 Nijisanji 葛葉 2022 生日套 hotnotpot NT$1,500 < $2K fan goods SKIP"
+  },
+  "1440303288": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "R5 3600 + RTX 2060 整機 NT$12,000 持平 SKIP"
+  },
+  "1440304177": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SYN Bieheler 自行車風衣外套 NT$2,000 liketobuy 連發 不熟 SKIP"
+  },
+  "1440304439": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "自行車風衣+車衣 NT$3,000 liketobuy 不熟領域 SKIP"
+  },
+  "1440306355": {
+    "source": "2026-05-27",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad 翻譜踏板 NT$800 < $2K SKIP"
   }
 }
