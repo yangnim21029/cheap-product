@@ -32553,5 +32553,18 @@
     "newPrice": 29000,
     "secondhand": 15000,
     "note": "Nikon Z50 + Z DX 16-50mm Kit NT$17,000 = 59% 新 / 113% 二手 持平 SKIP"
+  },
+  "1440570760": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": 2800,
+    "secondhand": 1800,
+    "note": "Kingston FURY Beast DDR4 3200 32G(16G×2) NT$4,500 = 161% 新 (32G DDR4 新 $2.8K) 太貴 SKIP"
+  },
+  "1440571685": {
+    "source": "2026-05-29",
+    "newPrice": 28000,
+    "secondhand": 15000,
+    "note": "Sony 43吋 4K 120Hz 無盒 (model 未列, 假設 X80/X90L) NT$12,000 = 43% 新 / 80% 二手 (殺價, 但 model 未列須驗)"
   }
 }
