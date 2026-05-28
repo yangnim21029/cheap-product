@@ -5557,6 +5557,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434715318": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "寶可夢 x 乾唐軒活瓷隨身杯 NT$1,960 < $2K niche fan goods SKIP"
+  },
   "1434736713": {
     "source": "2026-05-28",
     "skip": true,
@@ -32566,5 +32573,18 @@
     "newPrice": 28000,
     "secondhand": 15000,
     "note": "Sony 43吋 4K 120Hz 無盒 (model 未列, 假設 X80/X90L) NT$12,000 = 43% 新 / 80% 二手 (殺價, 但 model 未列須驗)"
+  },
+  "1440572425": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Super Junior 崔始源小卡 19 張 NT$1,710 < $2K K-pop SKIP"
+  },
+  "1440573467": {
+    "source": "2026-05-29",
+    "newPrice": 8990,
+    "secondhand": 5500,
+    "note": "Sony WF-1000XM5 真無線降噪 NT$4,500 = 50% 新 / 82% 二手 (殺價, 比 patrol 283 $4.8K 再降 $300)"
   }
 }
