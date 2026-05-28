@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/28 08:00:45 · 累積已看 12680 筆 · 114 位賣家黑名單
+> 2026/5/28 09:00:30 · 累積已看 12686 筆 · 115 位賣家黑名單
 
 **待審：** 好貨 2 ｜ 殺價 9 ｜ 手動 0 ｜ 待查 0
 
@@ -23,8 +23,8 @@
 |------|------|--------|------|------|------|--|
 | [音響耳機] Samsung galaxy buds4 藍芽耳機 | **NT$3,200** | 新$4990 | 64% new | Brand new | 05/28 06:00 | [→](https://tw.carousell.com/p/1440380992/) |
 | [喇叭] marshall stanmore III 馬歇爾 3代 藍芽音響喇叭 白色 | **NT$9,600** | 新$14990 | 64% new | Like new | 05/28 04:00 | [→](https://tw.carousell.com/p/1440378346/) |
+| 三星 Samsung Galaxy Watch 8 44mm LTE版 | **NT$8,800** | 新$14990 | 59% new | Like new | 05/28 02:00 | [→](https://tw.carousell.com/p/1440371720/) |
 | [音樂媒體] Ibanez GRX70QA | **NT$3,000** | 新$7000 | 43% new | Well used | 05/28 01:00 | [→](https://tw.carousell.com/p/1434576447/) |
-| [智慧手錶] 三星 Samsung Galaxy Watch 8 44mm LTE版 | **NT$8,800** | 新$14990 | 59% new | Like new | 05/28 01:00 | [→](https://tw.carousell.com/p/1440371720/) |
 | [iPad] Apple iPad Air 5 64G WiFi/Apple pencil 2 (95新 | **NT$11,000** | 新$23290 | 47% new | Lightly used | 05/28 00:00 | [→](https://tw.carousell.com/p/1440359737/) |
 | [螢幕] TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD | **NT$8,800** | 新$13500 | 65% new | Like new | 05/28 00:00 | [→](https://tw.carousell.com/p/1440360130/) |
 | [dji] 【出售】 DJI Osmo Pocket 3 全能套裝 | **NT$12,000** | 新$22900 | 52% new | Lightly used | 05/28 00:00 | [→](https://tw.carousell.com/p/1440358056/) |

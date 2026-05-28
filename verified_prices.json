@@ -4772,6 +4772,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1433846587": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI Z590 Pro WiFi 主機板 NT$3,500 (10/11代 Intel 老板 二手 $2.5-3.5K) 持平 SKIP"
+  },
   "1433852343": {
     "newPrice": null,
     "secondhand": null,
@@ -30770,5 +30777,40 @@
     "newPrice": 4990,
     "secondhand": 4000,
     "note": "Samsung Galaxy Buds 4 真無線藍芽 NT$3,200 = 64% 新 / 80% 二手 (殺價, 2025 新款)"
+  },
+  "1440386754": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Zotac RTX 3080Ti 12G 完整盒裝 NT$11,000 (二手 $13-15K) = 73% 二手 但 EOL 老卡 SKIP"
+  },
+  "1440387372": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "vino3781 一線藥師瑪瑙手串 NT$1,500 < $2K 連發 SKIP"
+  },
+  "1440387490": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "EVGA RTX 3080 Ti FTW3 ULTRA 12G NT$13,000 (3080Ti 二手 $13-15K) 持平 SKIP"
+  },
+  "1440387667": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "vino3781 虎牙瑪瑙手串 NT$1,500 < $2K 連發 SKIP"
+  },
+  "1440388852": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "多寶齋佛牌 龍普炎雙龍普聯加持哈魯曼小立尊 NT$1,080 < $2K niche 宗教 SKIP"
   }
 }
