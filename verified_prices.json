@@ -1232,6 +1232,12 @@
     "secondhand": null,
     "note": "Rick and Morty 傳送槍雨傘 NT$3,400 niche fan goods SKIP"
   },
+  "1423427808": {
+    "source": "2026-05-28",
+    "newPrice": 8990,
+    "secondhand": 5500,
+    "note": "Sony WF-1000XM5 真無線降噪 NT$4,800 = 53% 新 / 87% 二手 (殺價)"
+  },
   "1423581114": {
     "newPrice": null,
     "secondhand": null,
@@ -30813,6 +30819,13 @@
     "secondhand": null,
     "note": "vino3781 虎牙瑪瑙手串 NT$1,500 < $2K 連發 SKIP"
   },
+  "1440387750": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "威剛 XPG LANCER BLADE DDR5-6000 32G NT$10,000 (DDR5-6000 32G 新 $4-5K) = 200% 太貴 SKIP"
+  },
   "1440388852": {
     "source": "2026-05-28",
     "skip": true,
@@ -30854,6 +30867,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "HERAN HDH-12ZE030 6L 一級抑菌除濕機 NT$3,700 (6L 小機新 $3-4K) 持平 SKIP"
+  },
+  "1440393719": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "金士頓 DDR5 4800 16G×2 NT$7,000 (32G DDR5 4800 新 NT$3,500) = 200% 太貴 SKIP"
   },
   "1440394023": {
     "source": "2026-05-28",
@@ -30897,6 +30917,13 @@
     "secondhand": null,
     "note": "MSI Prestige 筆電 NT$17,500 型號未列 (Prestige 14/16, Evo/non-Evo 差價) SKIP"
   },
+  "1440396480": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "阿贊阿奴聳 龍匹亞努索 天神帕嬰 純銀佛牌 sulamolo NT$6,800 niche 宗教 SKIP"
+  },
   "1440396727": {
     "source": "2026-05-28",
     "skip": true,
@@ -30939,6 +30966,13 @@
     "secondhand": null,
     "note": "水源樂團 NUĀ 黑膠 ongakuheya69 NT$500 < $2K 獨立樂團 niche SKIP"
   },
+  "1440402134": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon LTM 7 RF 全機械相機 sakura0405 NT$6,980 niche 古董相機 SKIP"
+  },
   "1440402149": {
     "source": "2026-05-28",
     "skip": true,
@@ -30964,5 +30998,103 @@
     "newPrice": 10990,
     "secondhand": 7500,
     "note": "Sony WH-1000XM5 無線頭戴 有包無盒無保 NT$4,260 = 39% 新 / 57% 二手 (好貨, 但缺盒缺保證書品相加扣)"
+  },
+  "1440406355": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 彩繪銅雕千手觀音 NT$4,000 重複賣家 SKIP"
+  },
+  "1440407037": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "老鑄鐵彈奏豎琴的女孩 RIKEN 1981 擺飾 NT$1,880 < $2K 老件 SKIP"
+  },
+  "1440407067": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "818-263 (標題無意義) NT$4,000 SKIP"
+  },
+  "1440407968": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "元友 G414 M 台灣紅檜木盤 ting2019 NT$1,480 < $2K 連發 SKIP"
+  },
+  "1440408860": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "阿贊 Tik 魯士歐隆衝 泰國佛牌 sulamolo NT$4,000 niche 宗教 SKIP"
+  },
+  "1440409559": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 銅雕大尺寸老紅銅財寶天王 NT$6,000 重複賣家+古銅雕 SKIP"
+  },
+  "1440409717": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Honeywell 空氣清淨機 17000 NT$1,500 < $2K SKIP"
+  },
+  "1440410155": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "元友 G415 M 台灣紅檜茶荷 ting2019 NT$1,500 < $2K 老物 niche SKIP"
+  },
+  "1440410174": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MBP 2020 16 i9/16G/1TB 獨顯 NT$17,500 (i9 10980HK Intel Mac 已淘汰, 二手 $17-22K) 持平/低端 SKIP"
+  },
+  "1440411633": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 15990,
+    "secondhand": 13000,
+    "note": "DJI Osmo Action 6 保內 NT$15,000 = 94% 新品持平 (Action 6 才出沒久行情未跌) SKIP"
+  },
+  "1440411756": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Pentax Asahiflex 早期腰平機械單眼+鏡頭 sakura0405 NT$6,980 niche 古董相機 SKIP"
+  },
+  "1440412257": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Marshall Minor IV 第四代 真無線 NT$2,200 < $3K (Minor 一直平價款) SKIP"
+  },
+  "1440413486": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HUAWEI FreeBuds Pro 4 五折展示機 9.8新 NT$3,680 (FreeBuds Pro 4 新 $7,800) = 47% 新 (好貨!), 但華為展示機 niche SKIP"
+  },
+  "1440416079": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "momax Q.Mag Power 5000mAh 行充 NT$900 < $2K SKIP"
   }
 }
