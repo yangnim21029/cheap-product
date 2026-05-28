@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/29 01:01:04 · 累積已看 12910 筆 · 125 位賣家黑名單
+> 2026/5/29 02:00:10 · 累積已看 12916 筆 · 125 位賣家黑名單
 
 **待審：** 好貨 3 ｜ 殺價 19 ｜ 手動 0 ｜ 待查 0
 
@@ -22,21 +22,21 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [智慧手錶] Apple watch S10 GPS 46mm 白銀色 | **NT$8,200** | 新$12500 | 66% new | Lightly used | 05/28 23:01 | [→](https://tw.carousell.com/p/1440542301/) |
-| [螢幕] ASUS華碩 TUF VG34WQ5A【34吋】曲面螢幕/VA/雙模式切換/HDR400 | **NT$8,500** | 新$13990 | 61% new | Brand new | 05/28 20:01 | [→](https://tw.carousell.com/p/1440506157/) |
-| [螢幕] ASUSVivobook S15 15.6吋2K螢幕OLED AMD R7-8845H/7 | **NT$16,000** | 新$30000 | 53% new | Like new | 05/28 20:01 | [→](https://tw.carousell.com/p/1440511441/) |
-| [智慧手錶] 售 Apple Watch SE3 44mm GPS 黑 | **NT$6,500** | 新$10990 | 59% new | Like new | 05/28 17:01 | [→](https://tw.carousell.com/p/1440479167/) |
+| [智慧手錶] Apple watch S10 GPS 46mm 白銀色 | **NT$8,200** | 新$12500 | 66% new | Lightly used | 05/28 23:00 | [→](https://tw.carousell.com/p/1440542301/) |
+| [螢幕] ASUS華碩 TUF VG34WQ5A【34吋】曲面螢幕/VA/雙模式切換/HDR400 | **NT$8,500** | 新$13990 | 61% new | Brand new | 05/28 20:00 | [→](https://tw.carousell.com/p/1440506157/) |
+| [筆電] ASUSVivobook S15 15.6吋2K螢幕OLED AMD R7-8845H/7 | **NT$16,000** | 新$30000 | 53% new | Like new | 05/28 20:00 | [→](https://tw.carousell.com/p/1440511441/) |
+| [智慧手錶] 售 Apple Watch SE3 44mm GPS 黑 | **NT$6,500** | 新$10990 | 59% new | Like new | 05/28 17:00 | [→](https://tw.carousell.com/p/1440479167/) |
 | [Rimowa] Rimowa 20寸2輪登機箱/附證明 | **NT$18,000** | 新$54000 | 33% new | Lightly used | 05/28 16:00 | [→](https://tw.carousell.com/p/1440462105/) |
-| [電腦科技] Acer Nitro XV272U RV 27吋 | **NT$4,000** | 新$8990 | 44% new | Lightly used | 05/28 14:01 | [→](https://tw.carousell.com/p/1440442856/) |
-| [螢幕] SAMSUNG三星 M7 4K 32型 2023年式智慧電視螢幕 | **NT$6,500** | 新$14990 | 43% new | Like new | 05/28 13:01 | [→](https://tw.carousell.com/p/1440426890/) |
-| [音響耳機] Sony WF-1000xm5 降噪藍牙耳機 | **NT$4,800** | 新$8990 | 53% new | Like new | 05/28 12:01 | [→](https://tw.carousell.com/p/1423427808/) |
-| [iPad] Ipad air 5 m1 64G wifi健康度86% 保內Apple Pencil 2 | **NT$11,500** | 新$23290 | 49% new | Like new | 05/28 11:01 | [→](https://tw.carousell.com/p/1440403983/) |
+| [電腦科技] Acer Nitro XV272U RV 27吋 | **NT$4,000** | 新$8990 | 44% new | Lightly used | 05/28 14:00 | [→](https://tw.carousell.com/p/1440442856/) |
+| [螢幕] SAMSUNG三星 M7 4K 32型 2023年式智慧電視螢幕 | **NT$6,500** | 新$14990 | 43% new | Like new | 05/28 13:00 | [→](https://tw.carousell.com/p/1440426890/) |
+| [音響耳機] Sony WF-1000xm5 降噪藍牙耳機 | **NT$4,800** | 新$8990 | 53% new | Like new | 05/28 12:00 | [→](https://tw.carousell.com/p/1423427808/) |
+| [iPad] Ipad air 5 m1 64G wifi健康度86% 保內Apple Pencil 2 | **NT$11,500** | 新$23290 | 49% new | Like new | 05/28 11:00 | [→](https://tw.carousell.com/p/1440403983/) |
 | [Sony WH-1000XM] Sony WH-1000XM5 無線頭戴式耳機 有包 無盒無保證書 很少用 | **NT$6,000** | 新$10990 | 55% new | Like new | 05/28 11:00 | [→](https://tw.carousell.com/p/1440405603/) |
-| [音響耳機] Samsung galaxy buds4 藍芽耳機 | **NT$3,200** | 新$4990 | 64% new | Brand new | 05/28 06:01 | [→](https://tw.carousell.com/p/1440380992/) |
+| [音響耳機] Samsung galaxy buds4 藍芽耳機 | **NT$3,200** | 新$4990 | 64% new | Brand new | 05/28 06:00 | [→](https://tw.carousell.com/p/1440380992/) |
 | [音響] marshall stanmore III 馬歇爾 3代 藍芽音響喇叭 白色 | **NT$9,600** | 新$14990 | 64% new | Like new | 05/28 04:01 | [→](https://tw.carousell.com/p/1440378346/) |
-| [螢幕] TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD | **NT$8,800** | 新$13500 | 65% new | Like new | 05/28 01:01 | [→](https://tw.carousell.com/p/1440360130/) |
-| [電玩主機] Ps4 pro 1tb 雙手把 線齊全 附兩片遊戲片 | **NT$4,200** | 新$8000 | 53% new | Lightly used | 05/28 01:01 | [→](https://tw.carousell.com/p/1440354789/) |
-| [智慧手錶] 三星 Samsung Galaxy Watch 8 44mm LTE版 | **NT$8,800** | 新$14990 | 59% new | Like new | 05/28 01:01 | [→](https://tw.carousell.com/p/1440371720/) |
+| [螢幕] TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD | **NT$8,800** | 新$13500 | 65% new | Like new | 05/28 02:00 | [→](https://tw.carousell.com/p/1440360130/) |
+| [電玩主機] Ps4 pro 1tb 雙手把 線齊全 附兩片遊戲片 | **NT$4,200** | 新$8000 | 53% new | Lightly used | 05/28 02:00 | [→](https://tw.carousell.com/p/1440354789/) |
+| [智慧手錶] 三星 Samsung Galaxy Watch 8 44mm LTE版 | **NT$8,800** | 新$14990 | 59% new | Like new | 05/28 02:00 | [→](https://tw.carousell.com/p/1440371720/) |
 | [音樂媒體] Ibanez GRX70QA | **NT$3,000** | 新$7000 | 43% new | Well used | 05/28 01:00 | [→](https://tw.carousell.com/p/1434576447/) |
 | [iPad] Apple iPad Air 5 64G WiFi/Apple pencil 2 (95新 | **NT$11,000** | 新$23290 | 47% new | Lightly used | 05/28 00:01 | [→](https://tw.carousell.com/p/1440359737/) |
 | [dji] 【出售】 DJI Osmo Pocket 3 全能套裝 | **NT$12,000** | 新$22900 | 52% new | Lightly used | 05/28 00:00 | [→](https://tw.carousell.com/p/1440358056/) |
