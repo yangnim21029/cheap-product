@@ -5311,6 +5311,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434504768": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "UMAX 力晶 NB 16G×2 DDR4-2666 SO-DIMM NT$4,000 (32G DDR4 SO-DIMM 新 NT$2K) 200% 太貴 SKIP"
+  },
   "1434506468": {
     "source": "2026-05-27",
     "skip": true,
@@ -30812,5 +30819,68 @@
     "newPrice": null,
     "secondhand": null,
     "note": "多寶齋佛牌 龍普炎雙龍普聯加持哈魯曼小立尊 NT$1,080 < $2K niche 宗教 SKIP"
+  },
+  "1440390278": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Garmin Venu SQ Music 藍 NT$1,500 < $2K (Venu SQ 一代停產) SKIP"
+  },
+  "1440390479": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AULA 狼蛛 F75 灰木軸V3 機械鍵盤 NT$1,100 < $2K SKIP"
+  },
+  "1440392654": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Apple Watch S11 GPS 42mm 全新未拆 NT$11,500 = (Apple TW 42mm GPS $11,500) 100% 持平 SKIP"
+  },
+  "1440394023": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Microsoft Surface Pro 9 筆電 NT$15,000 型號未列 (i5/i7/SQ3 ARM 差價大) SKIP"
+  },
+  "1440394603": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Fender Bumble 15 音箱 近全新 NT$2,800 < $3K 樂器音箱 niche SKIP"
+  },
+  "1440395086": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Cayin RU7 + DDhifi TC09s 隨身 DAC NT$4,000 (Cayin RU7 新 NT$15K, DDhifi TC09s ~NT$2K) bundle 不熟領域 SKIP"
+  },
+  "1440395164": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 銅雕哼哈二將 NT$2,400 重複賣家 + 古銅雕 SKIP"
+  },
+  "1440395320": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 13990,
+    "secondhand": 9000,
+    "note": "Fuji XF 23mm 鏡頭 銀 (賣家標 F2.8 typo, 假設 F2 R WR) NT$12,500 = 89% 新品持平 SKIP"
+  },
+  "1440395985": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MSI Prestige 筆電 NT$17,500 型號未列 (Prestige 14/16, Evo/non-Evo 差價) SKIP"
   }
 }
