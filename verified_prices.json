@@ -2774,6 +2774,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1428978383": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "noblefox PS4 Pro NT$5,000 (PS4 Pro 二手 $5-6K) 持平 SKIP"
+  },
   "1428993880": {
     "newPrice": null,
     "secondhand": null,
@@ -32286,6 +32293,13 @@
     "secondhand": null,
     "note": "annann1460 japara 女王權杖香氛 NT$550 < $2K 連發 SKIP"
   },
+  "1440541292": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": 18490,
+    "secondhand": 9000,
+    "note": "AirPods Max 午夜色降噪 (lightning 一代 假設) NT$8,500 = 46% 新 / 94% 二手持平 SKIP"
+  },
   "1440542140": {
     "source": "2026-05-29",
     "skip": true,
@@ -32347,5 +32361,95 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Apple Watch S8 45mm NT$5,500 (S8 45mm 停產 + 二手 $5-6K) 持平 SKIP"
+  },
+  "1440550933": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": 11000,
+    "secondhand": 8000,
+    "note": "JBL Xtreme 4 BT 喇叭 NT$7,800 = 71% 新 / 97% 二手 持平 SKIP"
+  },
+  "1440551015": {
+    "source": "2026-05-29",
+    "newPrice": 5990,
+    "secondhand": 4500,
+    "note": "Bose SoundLink Flex 2 全新品 NT$4,200 = 70% 新 / 93% 二手 (殺價邊界, 全新加分)"
+  },
+  "1440551335": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 5500,
+    "note": "DJI Mavic Mini 一代 (2019 老款已停產) NT$6,000 二手中位 $5-6K 持平 SKIP"
+  },
+  "1440552396": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "椅子樂團 real love is 黑膠 NT$1,600 < $2K niche SKIP"
+  },
+  "1440552663": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "林俊傑和自己對話 CD NT$5,000 niche 老 CD SKIP"
+  },
+  "1440553467": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "PS Portal 黑色 NT$6,000 (新 $6,990, 二手 $5.5K) = 86% 新 持平 SKIP"
+  },
+  "1440554004": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "威剛 XPG S70 2TB SSD NT$9,500 (2TB NVMe 新 $5K) = 190% 太貴 SKIP"
+  },
+  "1440554171": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Lapo 2代多功能無線快充行充 NT$990 < $2K SKIP"
+  },
+  "1440555210": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "孫燕姿跳舞的梵谷台北限定版全新未拆 NT$3,500 < $3.5K niche 限定版 manual SKIP"
+  },
+  "1440555643": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 11000,
+    "note": "Canon 750D + Kit + 50mm 1.8 bundle NT$12,000 (750D 2015 老單眼停產, bundle 二手 $10-13K) 持平 SKIP"
+  },
+  "1440557053": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "權志龍會員禮 不拆賣 NT$2,400 < $3K K-pop fan goods SKIP"
+  },
+  "1440557716": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "noblefox PS5 Slim 數位近新 NT$13,000 持平 SKIP"
+  },
+  "1440557990": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "noblefox PS5 數位版 1218 NT$11,000 (新 $14K, 二手 $13K) 持平 SKIP"
   }
 }
