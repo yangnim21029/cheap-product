@@ -32540,5 +32540,18 @@
     "newPrice": 45000,
     "secondhand": 25000,
     "note": "LG 48GQ900 48吋 OLED 4K 120Hz NT$20,000 = 44% 新 / 80% 二手 (殺價)"
+  },
+  "1440568047": {
+    "source": "2026-05-29",
+    "newPrice": 12500,
+    "secondhand": 10500,
+    "note": "Apple Watch S10 GPS 46mm 玫瑰金 NT$9,000 = 72% 新 / 86% 二手 (殺價)"
+  },
+  "1440568701": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": 29000,
+    "secondhand": 15000,
+    "note": "Nikon Z50 + Z DX 16-50mm Kit NT$17,000 = 59% 新 / 113% 二手 持平 SKIP"
   }
 }
