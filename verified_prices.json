@@ -31375,6 +31375,13 @@
     "secondhand": null,
     "note": "jharden1 雷蛇電競椅 NT$2,300 型號未列 + < $3K SKIP"
   },
+  "1440445505": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Bataleon Feelbetter Snowboard 25/26 NT$8,000 niche 滑雪板 SKIP"
+  },
   "1440445900": {
     "source": "2026-05-28",
     "skip": true,
@@ -31438,6 +31445,13 @@
     "secondhand": null,
     "note": "4080 鋁擠賽車模擬器架 NT$4,000 niche 不熟 SKIP"
   },
+  "1440452771": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "HP 雷射碳粉 LQ-CF276XC NT$7,000 niche 影印耗材 SKIP"
+  },
   "1440453245": {
     "source": "2026-05-28",
     "skip": true,
@@ -31451,6 +31465,20 @@
     "newPrice": null,
     "secondhand": null,
     "note": "dabee10273 施坦威鋼琴 6CD 套裝 NT$650 < $2K CD niche 連發 SKIP"
+  },
+  "1440454062": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Canon PowerShot SX620 HS CCD NT$5,200 CCD 老相機持平 SKIP"
+  },
+  "1440454403": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sabian Artisan 16 Crash 鈸 NT$8,000 niche 樂器 SKIP"
   },
   "1440455066": {
     "source": "2026-05-28",
@@ -31473,6 +31501,13 @@
     "secondhand": null,
     "note": "PQI PD10 10000mAh 行動電源 NT$760 < $2K SKIP"
   },
+  "1440458330": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "電大提琴 NT$5,000 型號未列 niche 樂器 SKIP"
+  },
   "1440459102": {
     "source": "2026-05-28",
     "skip": true,
@@ -31494,11 +31529,122 @@
     "secondhand": null,
     "note": "AirPods Pro 2 在保有購證 NT$2,000 < $3K wearables-leak SKIP"
   },
+  "1440461428": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "中信兄弟 PS 女孩隊長妮可親簽拍立得 NT$850 < $2K niche SKIP"
+  },
+  "1440462105": {
+    "source": "2026-05-28",
+    "newPrice": 54000,
+    "secondhand": 24000,
+    "note": "🎯 Rimowa 20吋 2 輪登機箱 附證明 NT$18,000 = 33% 新 / 75% 二手 (好貨/殺價邊界, User 行李箱 watchlist)"
+  },
   "1440463592": {
     "source": "2026-05-28",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "ASUS FX506HF i7-11400H + RTX 2050 + 16G NT$15,800 (老 11代 + RTX 2050 入門) 持平 SKIP"
+  },
+  "1440466758": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "海鷹船竿架 NST SE 第二代 NT$2,200 < $3K niche 釣具 SKIP"
+  },
+  "1440467027": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "EPSON WF100 攜帶式影印機 NT$4,500 niche 不熟 SKIP"
+  },
+  "1440468532": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "818-263 4G4ca t09555208439258 NT$3,500 標題無意義 SKIP"
+  },
+  "1440470785": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "paizero Hololive ina 壓克力+扇子 NT$1,000 連發 SKIP"
+  },
+  "1440471369": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MacBook Pro 13 2018 i7/16G/2TB Intel 老 Mac NT$14,800 (Intel MBP 2018 二手 $10-14K, 2TB SSD 加分) 持平 SKIP"
+  },
+  "1440471452": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "paizero Hololive 彗星兔兔 NT$1,000 連發 SKIP"
+  },
+  "1440471827": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "paizero 初音未來流沙磚+資料夾 NT$1,500 連發 SKIP"
+  },
+  "1440471894": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods Pro 3 未拆 在保 NT$4,000 wearables-leak (新 $5K) 80% 偏貴 SKIP"
+  },
+  "1440472784": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "天然紫水晶原石擴香石能量水晶 wwww9999 NT$1,500 < $2K 水晶 SKIP"
+  },
+  "1440472955": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "paizero Hololive 桃鈴音音壓克力 NT$1,000 連發 SKIP"
+  },
+  "1440473282": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "paizero Hololive 燙金壓克力夏色祭 NT$1,000 < $2K fan SKIP"
+  },
+  "1440473878": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "paizero 收藏幣 NT$1,000 < $2K 連發 SKIP"
+  },
+  "1440474577": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "民國 100 年辛卯兔年精鑄套幣 NT$3,900 niche 紀念幣 SKIP"
+  },
+  "1440477186": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch Lite NT$8,000 (Switch Lite 二手 $3-5K) 200% 二手太貴 SKIP"
   }
 }
