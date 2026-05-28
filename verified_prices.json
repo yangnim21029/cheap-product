@@ -2690,6 +2690,13 @@
     "note": "全新吉他無品牌 SKIP",
     "source": "manual_skip"
   },
+  "1428847496": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Pintek DP-25 差動探棒 NT$3,500 niche 量測儀器 SKIP"
+  },
   "1428965052": {
     "newPrice": null,
     "secondhand": null,
@@ -5080,6 +5087,13 @@
     "secondhand": null,
     "note": "patrol 243 batch SKIP (niche/重複賣家/leak/持平/< $3K)"
   },
+  "1434268184": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "塔麻可吉樂園紫色翡翠森林電子雞 NT$2,000 < $3K niche SKIP"
+  },
   "1434287162": {
     "source": "2026-05-27",
     "skip": true,
@@ -5449,6 +5463,13 @@
     "secondhand": null,
     "note": "AUX 大人的鐵板 小方型附蓋 新品$5,600-6,500 (蝦皮/uDesign/Handslide)。$3,800 = 62% 新品, 划算但二手listings不足3筆",
     "source": "web search 2026-05-05"
+  },
+  "1434778696": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "金湃 KING PADDLE 碳纖維龍舟漿 NT$4,000 niche 不熟 SKIP"
   },
   "1434781736": {
     "newPrice": null,
@@ -30889,6 +30910,13 @@
     "secondhand": null,
     "note": "Fender Bumble 15 音箱 近全新 NT$2,800 < $3K 樂器音箱 niche SKIP"
   },
+  "1440394947": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 18490,
+    "secondhand": 10500,
+    "note": "AirPods Max 2 A3454 USB-C NT$15,500 = 84% 新 / 148% 二手中位 (BigGo NT$9.5K-$14.4K median $10.5K) 太貴 SKIP"
+  },
   "1440395086": {
     "source": "2026-05-28",
     "skip": true,
@@ -30923,6 +30951,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "阿贊阿奴聳 龍匹亞努索 天神帕嬰 純銀佛牌 sulamolo NT$6,800 niche 宗教 SKIP"
+  },
+  "1440396662": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "BALMUDA The Range K09C 20L 微波烤箱 NT$10,000 = 63% 新 / 100% 二手 持平 SKIP"
   },
   "1440396727": {
     "source": "2026-05-28",
@@ -31096,5 +31131,53 @@
     "newPrice": null,
     "secondhand": null,
     "note": "momax Q.Mag Power 5000mAh 行充 NT$900 < $2K SKIP"
+  },
+  "1440417926": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SS10 東海糰子手燈套 NT$1,550 < $2K SKIP"
+  },
+  "1440418219": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Driver 輕巧戶外手沖咖啡組 NT$3,199 不熟 + 持平 SKIP"
+  },
+  "1440421564": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 31400,
+    "secondhand": 23230,
+    "note": "iPad Air M3 13 256G WiFi NT$24,000 = 76% 新 / 103% 二手中位 (BigGo NT$20.4-23.7K median $23.2K) 略貴 SKIP"
+  },
+  "1440422724": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "廚膳寶氣炸烤箱 23L AF66 NT$3,000 < $3K niche 廚電 SKIP"
+  },
+  "1440422936": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "raveage 田馥甄 My Love 電台單曲 NT$1,940 < $2K CD 連發 SKIP"
+  },
+  "1440424150": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "CHIMEI AP-05SRC1 360 智能空氣清淨機 NT$550 < $2K SKIP"
+  },
+  "1440426890": {
+    "source": "2026-05-28",
+    "newPrice": 14990,
+    "secondhand": 9000,
+    "note": "SAMSUNG M7 4K 32吋 2023 智慧電視螢幕 (eason 同款再降, patrol 264 $8K → 今 $6,500) NT$6,500 = 43% 新 / 72% 二手 (好貨, 連 2 輪同款再降價)"
   }
 }
