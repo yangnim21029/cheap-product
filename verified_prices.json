@@ -32493,5 +32493,52 @@
     "newPrice": null,
     "secondhand": null,
     "note": "PS5 007 初露鋒芒 遊戲片 NT$2,300 < $3K 遊戲片 SKIP"
+  },
+  "1440563343": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad A16 128G WiFi 高雄面交 NT$8,500 (新 NT$10,500) = 81% 持平/邊界 SKIP"
+  },
+  "1440563627": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "NMIXX 手燈含盒+手燈套 NT$1,450 < $2K K-pop fan SKIP"
+  },
+  "1440564382": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Dell Inspiron 5390 i7-8代+MX250 NT$4,680 (8代 i7 老款) 持平 SKIP"
+  },
+  "1440564649": {
+    "source": "2026-05-29",
+    "newPrice": 19500,
+    "secondhand": 11000,
+    "note": "iPad Air 5 64G A2588 WiFi NT$9,000 = 46% 新 / 82% 二手 (殺價)"
+  },
+  "1440565704": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TXT 秀彬日巡球衣含卡 NT$1,980 < $2K K-pop fan goods SKIP"
+  },
+  "1440566336": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "3D 印表機 CR-30 極少用 NT$3,000 niche 不熟 SKIP"
+  },
+  "1440566366": {
+    "source": "2026-05-29",
+    "newPrice": 45000,
+    "secondhand": 25000,
+    "note": "LG 48GQ900 48吋 OLED 4K 120Hz NT$20,000 = 44% 新 / 80% 二手 (殺價)"
   }
 }
