@@ -31681,6 +31681,20 @@
     "secondhand": null,
     "note": "iPhone 15 Plus 128G 藍 6.7吋 NT$14,000 (新 NT$22,900, 二手 BigGo ~$15K) = 61% 新 / 93% 二手 持平 SKIP"
   },
+  "1440481301": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "87鍵青軸三模機械鍵盤 ignace11 NT$799 < $2K 連發同款 SKIP"
+  },
+  "1440481456": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "87鍵青軸三模機械鍵盤 cestmoi1201 NT$799 < $2K 無品牌 SKIP"
+  },
   "1440482699": {
     "source": "2026-05-28",
     "skip": true,
@@ -31729,5 +31743,47 @@
     "newPrice": null,
     "secondhand": null,
     "note": "電吉他 NT$6,000 型號未列 SKIP"
+  },
+  "1440488068": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "DJI Pocket 1 代 公司貨 極新 NT$2,000 < $3K (Pocket 1 已停產 2019, 二手 $3K) SKIP"
+  },
+  "1440489246": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "RASTO AF3 7吋空氣循環風扇 NT$690 < $2K SKIP"
+  },
+  "1440492766": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SanDisk E61 Extreme Portable SSD 1TB 全新未拆 NT$4,350 (E61 1TB 新 $3,490) = 125% 太貴 SKIP"
+  },
+  "1440493213": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "技嘉 GTX 1660 Ti 6G NT$3,000 (1660 Ti 已停產, 二手 $3-4K) 持平 SKIP"
+  },
+  "1440495475": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "麥當勞皮卡丘裸卡 6 張 NT$1,100 < $2K niche fan SKIP"
+  },
+  "1440497539": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "捷安特 GIANT XTC JR 20 Lite 青少年越野童車 NT$2,500 < $3K niche 不熟 SKIP"
   }
 }
