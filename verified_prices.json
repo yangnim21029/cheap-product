@@ -2697,6 +2697,13 @@
     "secondhand": 3500,
     "note": "AMD Ryzen 7 5700 (non-X) NT$4,500 = 90% 新 / 129% 二手 持平 + ath_149305 連發 SKIP"
   },
+  "1428829436": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Polaroid Go 拍立得 黑 NT$2,750 < $3K (Go 新 $3,990) SKIP"
+  },
   "1428847496": {
     "source": "2026-05-28",
     "skip": true,
@@ -9522,6 +9529,13 @@
     "newPrice": 25000,
     "secondhand": null,
     "note": "Fujifilm XF 56mm F1.2 R 一代日本製停產 $14,500 = 58% 新品末期 $25,000 / 112% 二手中位 $13,000. 一代停產收藏向, 二手中位上緣, 要看實品成色與配件"
+  },
+  "1437383210": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 7500,
+    "note": "ASUS Dual RTX 3060 12G OC NT$8,000 = 107% 二手 (3060 12G EOL, 新已停, 二手中位 $7.5K) 持平 SKIP"
   },
   "1437383355": {
     "newPrice": 1300,
@@ -31215,6 +31229,13 @@
     "secondhand": null,
     "note": "泰國皇家風範 銅鎏金平定佛立像 47cm NT$2,999 < $3K + niche 宗教 SKIP"
   },
+  "1440432995": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 25400,
+    "secondhand": 20000,
+    "note": "iPad Air M4 11 128G LTE 星光 盒裝 NT$19,500 = 77% 新 / 98% 二手 持平 SKIP"
+  },
   "1440434499": {
     "source": "2026-05-28",
     "skip": true,
@@ -31228,5 +31249,123 @@
     "newPrice": null,
     "secondhand": null,
     "note": "SX 吉他 NT$800 < $2K 入門吉他 SKIP"
+  },
+  "1440439690": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "飛利浦 AC2936 奈米級清淨機 NT$2,000 < $3K SKIP"
+  },
+  "1440439952": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "LG AS401WWF1 大白清淨機 NT$1,800 < $2K SKIP"
+  },
+  "1440440537": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 13990,
+    "secondhand": 8500,
+    "note": "DJI Action 4 全套+濾鏡 NT$10,000 = 72% 新 / 117% 二手 持平偏貴 SKIP"
+  },
+  "1440441184": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 18000,
+    "note": "Canon EOS 7D (2009) + EF 24-105mm L 紅圈 套組 NT$19,999 持平 (7D 老單眼 + 24-105L 二手 ~$15K, bundle $18K) SKIP"
+  },
+  "1440441883": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "lululemon 喇叭神褲 M 全新 hh775001 NT$2,100 < $3K (連發已 patrol 264 SKIP 過) SKIP"
+  },
+  "1440442001": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "9.5kg 巴西紫晶洞 xasrv 連發 NT$3,900 SKIP"
+  },
+  "1440442233": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "水晶手鍊綠幽靈黃水晶白幽靈紫水晶 NT$1,680 < $2K niche SKIP"
+  },
+  "1440442415": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "9.5kg 巴西紫晶洞 xasrv NT$3,900 niche 水晶 SKIP"
+  },
+  "1440442856": {
+    "source": "2026-05-28",
+    "newPrice": 8990,
+    "secondhand": 5000,
+    "note": "Acer Nitro XV272U RV 27 WQHD 170Hz IPS NT$4,000 = 45% 新 / 80% 二手 (殺價)"
+  },
+  "1440444493": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "藏銀茶壺 NT$1,500 < $2K niche SKIP"
+  },
+  "1440445900": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "2005 Hahatoy 復刻鐵皮機器人 NT$4,000 niche 老玩具 SKIP"
+  },
+  "1440446094": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Lenovo TB336FU TAB 4G+128G NT$5,000 (Lenovo TB 平板 niche 不熟) SKIP"
+  },
+  "1440446992": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Kaito T-shirt S NT$1,500 < $2K niche SKIP"
+  },
+  "1440447158": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Kaito T-shirt L NT$1,500 < $2K niche SKIP"
+  },
+  "1440448057": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "進擊的巨人米卡莎圍巾 NT$2,400 < $3K fan goods SKIP"
+  },
+  "1440449975": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 13000,
+    "secondhand": 6000,
+    "note": "Dyson V8 Cyclone 曜黑色 NT$7,500 = 58% 新 / 125% 二手 (V8 2016 老款已退役) SKIP"
+  },
+  "1440452056": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 8990,
+    "secondhand": 7000,
+    "note": "Switch 1 代電加版 全新未拆 一年保固 NT$9,500 = 106% 新品 太貴 (直接買新更便宜) SKIP"
   }
 }
