@@ -116,13 +116,13 @@
     },
     {
       "seller": "coolbear_612134",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "21 hours ago",
       "title": "TUF Gaming VG27AQL1A ZAKU II 電競螢幕 – 27 吋 WQHD (2560x1440), IPS, 170Hz (144Hz 以上), ELMB SYNC, Adaptive-sync,相容 NVIDIA® G-SYNC™, 1ms (MPRT), 130 % sRGB, DisplayHDR™ 400",
       "price": 8800,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1440360130/",
-      "category": "螢幕",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
@@ -162,7 +162,7 @@
     },
     {
       "seller": "ygjjh08",
-      "timeAgo": "21 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "Ps4 pro 1tb 雙手把 線齊全 附兩片遊戲片",
       "price": 4200,
       "condition": "Lightly used",
@@ -208,7 +208,7 @@
     },
     {
       "seller": "zhogood",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "marshall stanmore III 馬歇爾 3代 藍芽音響喇叭 白色",
       "price": 9600,
       "condition": "Like new",
@@ -231,7 +231,7 @@
     },
     {
       "seller": "rozalialin",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "三星 Samsung Galaxy Watch 8 44mm LTE版",
       "price": 8800,
       "condition": "Like new",
@@ -254,7 +254,7 @@
     },
     {
       "seller": "chillpuppy",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "Samsung galaxy buds4 藍芽耳機",
       "price": 3200,
       "condition": "Brand new",
@@ -300,7 +300,7 @@
     },
     {
       "seller": "yunlin0503",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Sony WH-1000XM5 無線頭戴式耳機 有包 無盒無保證書 很少用",
       "price": 6000,
       "condition": "Like new",
@@ -323,7 +323,7 @@
     },
     {
       "seller": "josephine1005",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "Sony WF-1000xm5 降噪藍牙耳機",
       "price": 4800,
       "condition": "Like new",
@@ -369,7 +369,7 @@
     },
     {
       "seller": "gefo.617",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "Acer Nitro XV272U RV 27吋",
       "price": 4000,
       "condition": "Lightly used",
@@ -392,7 +392,7 @@
     },
     {
       "seller": "chinghu",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Rimowa 20寸2輪登機箱/附證明",
       "price": 18000,
       "condition": "Lightly used",
@@ -415,7 +415,7 @@
     },
     {
       "seller": "abellee0706",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "售 Apple Watch SE3 44mm GPS 黑",
       "price": 6500,
       "condition": "Like new",
@@ -438,17 +438,17 @@
     },
     {
       "seller": "ooooooyo",
-      "timeAgo": "15 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "ASUS華碩 TUF VG34WQ5A【34吋】曲面螢幕/VA/雙模式切換/HDR400",
       "price": 8500,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1440506157/",
-      "category": "螢幕",
-      "maxDays": 7,
+      "category": "電腦科技",
+      "maxDays": 3,
       "priceStr": "NT$8,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/28 19:46",
+      "listedAt": "05/28 20:01",
       "pid": "1440506157",
       "verified": {
         "source": "2026-05-28",
@@ -458,6 +458,29 @@
       },
       "vsNew": 61,
       "vsSecondhand": 89
+    },
+    {
+      "seller": "uueeuuee",
+      "timeAgo": "40 minutes ago",
+      "title": "ASUSVivobook S15 15.6吋2K螢幕OLED AMD R7-8845H/780M/16G/1TB 輕薄筆電",
+      "price": 16000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440511441/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$16,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/28 20:21",
+      "pid": "1440511441",
+      "verified": {
+        "source": "2026-05-28",
+        "newPrice": 30000,
+        "secondhand": 21000,
+        "note": "ASUS Vivobook S15 15.6 2K OLED AMD R7-8845H/16G/1TB NT$16,000 = 53% 新 / 76% 二手 (殺價)"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 76
     }
   ],
   "uncertain": []
