@@ -228,6 +228,27 @@ Rose 觸發巡邏的標準 prompt：
 
 AI 看到「根據 workflow」就要展開 step 1-8，包含 step 6 觀察新方向。每輪都做。
 
+## 21. 價格驗證工具：BigGo 優先
+
+`https://biggo.com.tw/s/<query>/` 聚合台灣多平台（蝦皮/Yahoo拍賣/露天/旋轉/PChome）listing。**WebFetch 可直接抓**（不被 Cloudflare 擋），結構化程度遠勝 subagent 自由搜尋。
+
+### 用法
+```
+WebFetch(url='https://biggo.com.tw/s/<query>/', prompt='List all listings with prices. Group by marketplace. Output count, min, max, median, mode.')
+```
+
+### 何時用 BigGo vs Subagent
+- **BigGo 優先**：型號明確、台灣多平台流通的 mainstream 商品（耳機/相機/筆電/手機/家電）
+- **Subagent 補位**：BigGo 沒料、需要海外行情、需要技術判斷（卡口/版本/維修成本）
+
+### 範例（2026-05-28 Sony WH-1000XM5）
+| 來源 | 二手中位 |
+|---|---|
+| BigGo 聚合 | NT$6,200（多平台 18 筆樣本）|
+| 我前估（無 BigGo） | NT$7,500（偏高 20%）|
+
+BigGo 真實聚合比個人估計準。verified_prices secondhand 該以 BigGo 為基準（取中位數 ±5%）。
+
 ## 20. 雜訊處理規則（2026-05-27 整理）
 
 幾條 ad-hoc 規則累積出來的，要寫死進 process.js 不再每輪手動套：
