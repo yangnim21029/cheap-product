@@ -5129,6 +5129,13 @@
     "secondhand": null,
     "note": "塔麻可吉樂園紫色翡翠森林電子雞 NT$2,000 < $3K niche SKIP"
   },
+  "1434284429": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "迪卡儂 Van rysel 公路車計時賽安全帽 L NT$4,800 niche 不熟 SKIP"
+  },
   "1434287162": {
     "source": "2026-05-27",
     "skip": true,
@@ -31563,6 +31570,13 @@
     "secondhand": null,
     "note": "EPSON WF100 攜帶式影印機 NT$4,500 niche 不熟 SKIP"
   },
+  "1440468424": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Marshall Acton II BT 喇叭 NT$6,000 (Acton II 停產 + 二手 $5K 持平) SKIP"
+  },
   "1440468532": {
     "source": "2026-05-28",
     "skip": true,
@@ -31744,6 +31758,13 @@
     "secondhand": null,
     "note": "電吉他 NT$6,000 型號未列 SKIP"
   },
+  "1440487817": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "大同果汁機 NT$500 < $2K 型號未列 SKIP"
+  },
   "1440488068": {
     "source": "2026-05-28",
     "skip": true,
@@ -31785,5 +31806,31 @@
     "newPrice": null,
     "secondhand": null,
     "note": "捷安特 GIANT XTC JR 20 Lite 青少年越野童車 NT$2,500 < $3K niche 不熟 SKIP"
+  },
+  "1440500683": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Marshall Major 5 NT$3,500 (Major 5 新 $4,990, 二手 $3-4K) 持平 SKIP"
+  },
+  "1440502984": {
+    "source": "2026-05-28",
+    "newPrice": 33000,
+    "secondhand": 20000,
+    "note": "Lenovo ThinkPad E14 Gen 4 i7 商務型 保固 12 個月 NT$18,500 = 56% 新 / 93% 二手 (殺價邊界)"
+  },
+  "1440504340": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Yamaha P-125 88鍵電鋼琴+琴椅+踏板+耳機+琴鍵布 NT$17,000 (P-125 新 NT$24K, 二手 ~NT$15K) bundle 持平/偏貴 SKIP"
+  },
+  "1440506157": {
+    "source": "2026-05-28",
+    "newPrice": 13990,
+    "secondhand": 9500,
+    "note": "ASUS TUF VG34WQ5A 34 曲面 VA 雙模式 HDR400 NT$8,500 = 61% 新 / 89% 二手 (殺價)"
   }
 }
