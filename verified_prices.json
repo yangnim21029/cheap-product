@@ -5508,6 +5508,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434736713": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SCHWALBE Billy Bonkers 18x2.0 膚色胎 NT$2,000 < $3K niche 自行車胎 SKIP"
+  },
   "1434744396": {
     "newPrice": null,
     "secondhand": null,
@@ -5526,6 +5533,13 @@
     "secondhand": null,
     "note": "AUX 大人的鐵板 小方型附蓋 新品$5,600-6,500 (蝦皮/uDesign/Handslide)。$3,800 = 62% 新品, 划算但二手listings不足3筆",
     "source": "web search 2026-05-05"
+  },
+  "1434766925": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad Air 5 64G + 鍵盤 NT$10,500 (鍵盤型號未列, iPad Air 5 64G 二手 $11K+) bundle 邊界 manual SKIP"
   },
   "1434777425": {
     "source": "2026-05-28",
@@ -31675,6 +31689,13 @@
     "secondhand": null,
     "note": "民國 100 年辛卯兔年精鑄套幣 NT$3,900 niche 紀念幣 SKIP"
   },
+  "1440475561": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "iPad Air 4 64G + Pencil 2 NT$8,500 (iPad Air 4 已停產 2020 + 二手 $8K) bundle 持平 SKIP"
+  },
   "1440477186": {
     "source": "2026-05-28",
     "skip": true,
@@ -31861,11 +31882,25 @@
     "secondhand": 9500,
     "note": "ASUS TUF VG34WQ5A 34 曲面 VA 雙模式 HDR400 NT$8,500 = 61% 新 / 89% 二手 (殺價)"
   },
+  "1440507935": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "MOZTECH 墨子科技 萬能充 PRO 5合1 NT$780 < $2K SKIP"
+  },
   "1440511441": {
     "source": "2026-05-28",
     "newPrice": 30000,
     "secondhand": 21000,
     "note": "ASUS Vivobook S15 15.6 2K OLED AMD R7-8845H/16G/1TB NT$16,000 = 53% 新 / 76% 二手 (殺價)"
+  },
+  "1440511777": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "宏晉行動電源 NT$500 < $2K 型號未列 SKIP"
   },
   "1440511951": {
     "source": "2026-05-28",
@@ -31964,5 +31999,68 @@
     "newPrice": null,
     "secondhand": null,
     "note": "中央製幣廠 2.7g 大銀幣 davidppp NT$2,980 < $3K niche 紀念幣 SKIP"
+  },
+  "1440523681": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "goldenphoenix 9.5kg 巴西紫晶洞 NT$3,800 連發 SKIP"
+  },
+  "1440523981": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "goldenphoenix 15kg 鈦晶紫晶洞 連發 NT$5,800 SKIP"
+  },
+  "1440524007": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Epson EF-11 微型雷射投影機+80吋布幕+腳架 NT$9,000 (EF-11 新 $23K, 二手 $11K) = 39% 新 / 82% 二手 (邊界) 但 EF-11 投影機 niche manual SKIP"
+  },
+  "1440524191": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "goldenphoenix 15kg 鈦晶紫晶洞 NT$5,800 連發 SKIP"
+  },
+  "1440525091": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Royal 古典/民謠吉他 NT$1,850 < $2K 入門吉他 SKIP"
+  },
+  "1440525534": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "ReFa 離子夾/直板夾 NT$4,500 型號未列 (ReFa 髮系列多型號) SKIP"
+  },
+  "1440525633": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "TAS榜全明星打擊樂敲擊卡門 1983 日本版 NT$8,000 niche 黑膠/CD 老收藏 SKIP"
+  },
+  "1440528818": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Double Bass 低音大提琴 NT$10,000 型號未列 + niche 樂器 SKIP"
+  },
+  "1440529504": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Switch 電力加強版+5 片遊戲 NT$7,500 (Switch 加強版+ 5 遊戲 二手 $7-8K) 持平 SKIP"
   }
 }

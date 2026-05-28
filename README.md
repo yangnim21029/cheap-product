@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/28 21:01:24 · 累積已看 12842 筆 · 120 位賣家黑名單
+> 2026/5/28 22:01:13 · 累積已看 12856 筆 · 121 位賣家黑名單
 
 **待審：** 好貨 3 ｜ 殺價 18 ｜ 手動 0 ｜ 待查 0
 
@@ -22,8 +22,8 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [筆電] ASUSVivobook S15 15.6吋2K螢幕OLED AMD R7-8845H/7 | **NT$16,000** | 新$30000 | 53% new | Like new | 05/28 20:21 | [→](https://tw.carousell.com/p/1440511441/) |
 | [電腦科技] ASUS華碩 TUF VG34WQ5A【34吋】曲面螢幕/VA/雙模式切換/HDR400 | **NT$8,500** | 新$13990 | 61% new | Brand new | 05/28 20:01 | [→](https://tw.carousell.com/p/1440506157/) |
+| [電腦科技] ASUSVivobook S15 15.6吋2K螢幕OLED AMD R7-8845H/7 | **NT$16,000** | 新$30000 | 53% new | Like new | 05/28 20:01 | [→](https://tw.carousell.com/p/1440511441/) |
 | [智慧手錶] 售 Apple Watch SE3 44mm GPS 黑 | **NT$6,500** | 新$10990 | 59% new | Like new | 05/28 17:01 | [→](https://tw.carousell.com/p/1440479167/) |
 | [Rimowa] Rimowa 20寸2輪登機箱/附證明 | **NT$18,000** | 新$54000 | 33% new | Lightly used | 05/28 16:01 | [→](https://tw.carousell.com/p/1440462105/) |
 | [電腦科技] Acer Nitro XV272U RV 27吋 | **NT$4,000** | 新$8990 | 44% new | Lightly used | 05/28 14:01 | [→](https://tw.carousell.com/p/1440442856/) |
