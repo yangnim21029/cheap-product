@@ -2690,12 +2690,26 @@
     "note": "全新吉他無品牌 SKIP",
     "source": "manual_skip"
   },
+  "1428801098": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 5000,
+    "secondhand": 3500,
+    "note": "AMD Ryzen 7 5700 (non-X) NT$4,500 = 90% 新 / 129% 二手 持平 + ath_149305 連發 SKIP"
+  },
   "1428847496": {
     "source": "2026-05-28",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Pintek DP-25 差動探棒 NT$3,500 niche 量測儀器 SKIP"
+  },
+  "1428902938": {
+    "source": "2026-05-28",
+    "newPrice": 4990,
+    "secondhand": 3500,
+    "note": "Marshall Emberton II 黑金剛 攜帶式 BT 喇叭 NT$3,900 = 78% 新 / 111% 二手 (二手 BigGo ~$3.5K) 持平 SKIP",
+    "skip": true
   },
   "1428965052": {
     "newPrice": null,
@@ -5424,6 +5438,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1434676672": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "吉伊卡哇行動電源烏薩奇款 NT$915 < $2K fan goods SKIP"
+  },
   "1434707029": {
     "newPrice": null,
     "secondhand": null,
@@ -5477,6 +5498,13 @@
     "note": "烤箱 歌林9L電烤箱 KBO-LN095 NT$1,080 入門/中位無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434789466": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": 3790,
+    "secondhand": 2500,
+    "note": "Apple Pencil 2 A2051 NT$3,500 = 92% 新 / 140% 二手 (二手 ~$2.5K) SKIP 持平"
   },
   "1434838019": {
     "newPrice": null,
@@ -31179,5 +31207,26 @@
     "newPrice": 14990,
     "secondhand": 9000,
     "note": "SAMSUNG M7 4K 32吋 2023 智慧電視螢幕 (eason 同款再降, patrol 264 $8K → 今 $6,500) NT$6,500 = 43% 新 / 72% 二手 (好貨, 連 2 輪同款再降價)"
+  },
+  "1440430666": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "泰國皇家風範 銅鎏金平定佛立像 47cm NT$2,999 < $3K + niche 宗教 SKIP"
+  },
+  "1440434499": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "極品水晶淨體牛血紅膠花手鍊 12mm NT$3,500 水晶手珠 niche SKIP"
+  },
+  "1440437393": {
+    "source": "2026-05-28",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "SX 吉他 NT$800 < $2K 入門吉他 SKIP"
   }
 }
