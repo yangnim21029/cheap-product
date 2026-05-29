@@ -75,6 +75,23 @@
         "vsNew": 46,
         "vsSecondhand": 85
       }
+    },
+    {
+      "pid": "1440659617",
+      "category": "iPad",
+      "price": 16500,
+      "priceStr": "NT$16,500",
+      "title": "iPad Air (M2) 256GB 星光色 13吋",
+      "timeAgo": "53 minutes ago",
+      "url": "https://tw.carousell.com/p/1440659617/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 20990,
+        "secondhand": 20500,
+        "note": "iPad Air M2 256G 13\" 星光 NT$16,500 = 79% 新 / 80% 二手 (好貨, 需實機驗防 trap)",
+        "vsNew": 79,
+        "vsSecondhand": 80
+      }
     }
   ],
   "negotiate": [
@@ -102,8 +119,8 @@
     },
     {
       "seller": "poi90088",
-      "timeAgo": "4 hours ago",
-      "title": "📱 iPhone 13 mini 128G🔋 100%❗️ 小傷/螢幕無傷",
+      "timeAgo": "7 hours ago",
+      "title": "📱iPhone 13 mini 128G🔋100%❗️小傷/螢幕無傷",
       "price": 6500,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1440597486/",
@@ -112,7 +129,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 11:04",
+      "listedAt": "05/29 11:02",
       "pid": "1440597486",
       "verified": {
         "newPrice": null,
@@ -139,6 +156,29 @@
         "vsNew": 58,
         "vsSecondhand": 99
       }
+    },
+    {
+      "seller": "hyw_0104",
+      "timeAgo": "54 minutes ago",
+      "title": "iPad air5 64 WiFi 黑",
+      "price": 9300,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440659371/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$9,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 17:08",
+      "pid": "1440659371",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 10300,
+        "note": "iPad Air 5 64G WiFi NT$9,300 = 93% 新 (vs 福利品) / 90% 二手 (殺價 -10%, 64G 容量小扣分)",
+        "source": "myfone 2026-05-29"
+      },
+      "vsNew": 93,
+      "vsSecondhand": 90
     }
   ],
   "uncertain": []

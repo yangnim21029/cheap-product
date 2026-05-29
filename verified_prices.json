@@ -2872,6 +2872,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1429046049": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Spark2 電吉他音箱 樂器 niche",
+    "source": "patrol_312_skip"
+  },
   "1429067762": {
     "newPrice": null,
     "secondhand": null,
@@ -5310,6 +5317,13 @@
     "note": "PS5 大台北地區 3C工作室 收購 Switch2、PS5 主機、 遊戲片 收購回收 NT$9,999 gordon740124768 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1434296907": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: <NT$2K DEWALT USB 線",
+    "source": "patrol_312_skip"
   },
   "1434305496": {
     "source": "2026-05-26",
@@ -33152,6 +33166,13 @@
     "note": "ROG Ally X NT$19,000 = 58% 新 / 99% 二手 (好貨邊緣, 新品省 NT$14K, subagent 值得追)",
     "source": "biggo 2026-05-29"
   },
+  "1440642199": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: PS Portal 30 週年限量 NT$10K vs 全新 NT$9,080 = 110% 過貴 (二手 NT$7,865 = 127%)",
+    "source": "patrol_312_skip"
+  },
   "1440645810": {
     "skip": true,
     "newPrice": null,
@@ -33171,6 +33192,13 @@
     "secondhand": null,
     "note": "Patrol 310 SKIP: <NT$2K 張雨生/王柏森 CD",
     "source": "patrol_310_skip"
+  },
+  "1440650199": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: PS3 + 手把組 NT$6K 老主機偏貴",
+    "source": "patrol_312_skip"
   },
   "1440651437": {
     "skip": true,
@@ -33227,6 +33255,13 @@
     "note": "Patrol 311 SKIP: 好野 5 人帳篷 niche",
     "source": "patrol_311_skip"
   },
+  "1440654285": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Synology DS718+ 老 NAS 2018 EOL",
+    "source": "patrol_312_skip"
+  },
   "1440654440": {
     "skip": true,
     "newPrice": null,
@@ -33248,10 +33283,140 @@
     "note": "Patrol 311 SKIP: <NT$2K MJ CD",
     "source": "patrol_311_skip"
   },
+  "1440658817": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Tech21 Fly Rig 樂器 niche",
+    "source": "patrol_312_skip"
+  },
+  "1440658918": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: iPad Pro 4 11吋 容量未列",
+    "source": "patrol_312_skip"
+  },
+  "1440659246": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: iPad mini 6 64 NT$8,500 持平 (二手 NT$8-10K)",
+    "source": "patrol_312_skip"
+  },
+  "1440659371": {
+    "newPrice": 9990,
+    "secondhand": 10300,
+    "note": "iPad Air 5 64G WiFi NT$9,300 = 93% 新 (vs 福利品) / 90% 二手 (殺價 -10%, 64G 容量小扣分)",
+    "source": "myfone 2026-05-29"
+  },
   "1440659516": {
     "newPrice": 7900,
     "secondhand": 6690,
     "note": "Apple Watch SE 3 44mm GPS NT$7,500 = 95% 新 / 112% 二手 (持平偏好貨, 比官網低 5% 但高於二手中位 12%)",
     "source": "apple+biggo 2026-05-29"
+  },
+  "1440659617": {
+    "newPrice": 20990,
+    "secondhand": 20500,
+    "note": "iPad Air M2 256G 13\" 星光 NT$16,500 = 79% 新 / 80% 二手 (好貨 -21% off 新, 需實機驗序號/電池/保固防 trap)",
+    "source": "myfone+biggo 2026-05-29"
+  },
+  "1440660116": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: <NT$2K 陳綺貞 EP",
+    "source": "patrol_312_skip"
+  },
+  "1440661255": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Wii 原廠主機 老主機 niche",
+    "source": "patrol_312_skip"
+  },
+  "1440661550": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Sony 耳機完全沒寫型號",
+    "source": "patrol_312_skip"
+  },
+  "1440662682": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: 新加坡銀幣 錢幣 niche",
+    "source": "patrol_312_skip"
+  },
+  "1440663381": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: HomePod mini 未拆 NT$2,670 vs 新 NT$2,995 = 89% 邊緣持平",
+    "source": "patrol_312_skip"
+  },
+  "1440664364": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: <NT$2K 惠而浦 32L 電烤箱",
+    "source": "patrol_312_skip"
+  },
+  "1440665367": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: 小米 Pad 6 展示機 保固不明",
+    "source": "patrol_312_skip"
+  },
+  "1440666002": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Kingston SXS1000/2000G 2TB NT$5,200 vs 通路 NT$3K = 173% 暴貴",
+    "source": "patrol_312_skip"
+  },
+  "1440666303": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: 西藏天地眼天珠 玉石 niche",
+    "source": "patrol_312_skip"
+  },
+  "1440667300": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: <NT$2K 潘海利根香氛禮盒",
+    "source": "patrol_312_skip"
+  },
+  "1440667773": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Beats Studio 型號未列幾代",
+    "source": "patrol_312_skip"
+  },
+  "1440668410": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: Wandrd PRVKE V3 31L 攝影包 niche",
+    "source": "patrol_312_skip"
+  },
+  "1440669007": {
+    "newPrice": 6490,
+    "secondhand": 5500,
+    "note": "iPhone 12 64G 螢幕無損 NT$5,200 = 80% 新 (vs A 級) / 95% 二手 (持平, 螢幕無損但無認證)",
+    "source": "senao 2026-05-29"
+  },
+  "1440669359": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 312 SKIP: 兒童滑雪服 niche",
+    "source": "patrol_312_skip"
   }
 }
