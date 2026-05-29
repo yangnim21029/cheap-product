@@ -95,7 +95,7 @@
     },
     {
       "seller": "brightcrystal-cc0953",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "AirPods4代主動降噪在保",
       "price": 2500,
       "condition": "Like new",
@@ -105,7 +105,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 18:00",
+      "listedAt": "05/29 18:02",
       "pid": "1440674835",
       "verified": {
         "newPrice": 5190,
@@ -228,7 +228,7 @@
     },
     {
       "seller": "fastturtle-5999",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Pocket3 全能版",
       "price": 12500,
       "condition": "Like new",
@@ -238,7 +238,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 19:00",
+      "listedAt": "05/29 19:02",
       "pid": "1440677727",
       "verified": {
         "newPrice": 18500,
@@ -268,7 +268,7 @@
     },
     {
       "seller": "unicorn06",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "SONY 索尼 WF-1000XM5 真無線旗艦藍牙耳機 保固中",
       "price": 3999,
       "condition": "Lightly used",
@@ -278,7 +278,7 @@
       "priceStr": "NT$3,999",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 20:00",
+      "listedAt": "05/29 20:02",
       "pid": "1429032825",
       "verified": {
         "newPrice": 5988,
@@ -291,7 +291,7 @@
     },
     {
       "seller": "yjian573588097",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Apple Watch S11 (GPS) 46mm 保固到2026/10/25",
       "price": 9800,
       "condition": "Lightly used",
@@ -301,7 +301,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 20:00",
+      "listedAt": "05/29 20:02",
       "pid": "1440693065",
       "verified": {
         "newPrice": 12690,
@@ -311,6 +311,29 @@
       },
       "vsNew": 77,
       "vsSecondhand": 89
+    },
+    {
+      "seller": "happy1991199134",
+      "timeAgo": "55 minutes ago",
+      "title": "Marshall Middleton 一代",
+      "price": 4950,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440710993/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,950",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 22:07",
+      "pid": "1440710993",
+      "verified": {
+        "newPrice": 7990,
+        "secondhand": 6000,
+        "note": "Marshall Middleton 一代 NT$4,950 = 62% 新 / 83% 二手 (殺價, 比二手 NT$5,500-6,500 低 NT$550)",
+        "source": "biggo 2026-05-29"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 83
     }
   ],
   "uncertain": []

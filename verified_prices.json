@@ -2920,6 +2920,20 @@
     "note": "Patrol 308 SKIP: <NT$2K 蘇打綠 CD",
     "source": "patrol_308_skip"
   },
+  "1429125970": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: Seymour Duncan 805 樂器效果器 niche",
+    "source": "patrol_317_skip"
+  },
+  "1429129399": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: 大甲媽錢母 紀念幣 niche",
+    "source": "patrol_317_skip"
+  },
   "1429129889": {
     "skip": true,
     "newPrice": null,
@@ -2933,6 +2947,13 @@
     "secondhand": null,
     "note": "Patrol 311 SKIP: <NT$2K 梁靜茹 CD",
     "source": "patrol_311_skip"
+  },
+  "1429138438": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: AMD 4700GE OEM APU 型號奇怪 NT$3K 持平",
+    "source": "patrol_317_skip"
   },
   "1429141156": {
     "skip": true,
@@ -5588,6 +5609,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "sodapopo 蘇打綠小宇宙/十年一刻 NT$680 < $2K 黑名單連發 SKIP"
+  },
+  "1434490882": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: <NT$2K Switch 符文工廠卡帶",
+    "source": "patrol_317_skip"
   },
   "1434495089": {
     "source": "2026-05-27",
@@ -33727,6 +33755,13 @@
     "note": "Patrol 316 SKIP: Switch Pokopia 卡帶 NT$2K vs 新預購 NT$1,490 過貴",
     "source": "patrol_316_skip"
   },
+  "1440701218": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: <NT$2K AOKA 桌上型三腳架",
+    "source": "patrol_317_skip"
+  },
   "1440701256": {
     "skip": true,
     "newPrice": null,
@@ -33774,5 +33809,80 @@
     "secondhand": null,
     "note": "Patrol 316 SKIP: <NT$2K 酷態科 PB060",
     "source": "patrol_316_skip"
+  },
+  "1440709984": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: AirPods 4 無 ANC 九成新 NT$2,700 持平 (上輪 ANC 在保 NT$2,500 更甜)",
+    "source": "patrol_317_skip"
+  },
+  "1440710670": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: 1994 Godinger 銀餐巾環 早期收藏 niche",
+    "source": "patrol_317_skip"
+  },
+  "1440710770": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: 露營組+夢奇奇周邊混雜",
+    "source": "patrol_317_skip"
+  },
+  "1440710993": {
+    "newPrice": 7990,
+    "secondhand": 6000,
+    "note": "Marshall Middleton 一代 NT$4,950 = 62% 新 / 83% 二手 (殺價, 比二手 NT$5,500-6,500 低 NT$550)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440714871": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: <NT$2K 蔡依林宣傳單曲",
+    "source": "patrol_317_skip"
+  },
+  "1440715923": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: Twice Mina 風衣 偶像周邊 niche",
+    "source": "patrol_317_skip"
+  },
+  "1440716629": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: KM5 CP1 藍牙 CD 播放器 小品牌 niche",
+    "source": "patrol_317_skip"
+  },
+  "1440717160": {
+    "newPrice": 15790,
+    "secondhand": 14500,
+    "note": "AirPods Max H2 全新拆驗 NT$14,800 = 94% 新 / 102% 二手 (過貴 vsSF>100%, 拆驗灰色地帶 + momo S+ 福利機 NT$13,900 更甜)",
+    "source": "biggo+myfone 2026-05-29"
+  },
+  "1440718475": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: 1999 怪獸對打機 老物 niche",
+    "source": "patrol_317_skip"
+  },
+  "1440719208": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: iPad Air 4 容量未列",
+    "source": "patrol_317_skip"
+  },
+  "1440719668": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 317 SKIP: <NT$2K 入門烏克麗麗",
+    "source": "patrol_317_skip"
   }
 }
