@@ -122,6 +122,23 @@
       },
       "vsNew": null,
       "vsSecondhand": 87
+    },
+    {
+      "pid": "1440640998",
+      "category": "電腦科技",
+      "price": 19000,
+      "priceStr": "NT$19,000",
+      "title": "ROG Ally X",
+      "timeAgo": "45 minutes ago",
+      "url": "https://tw.carousell.com/p/1440640998/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 32999,
+        "secondhand": 19245,
+        "note": "ROG Ally X NT$19,000 = 58% 新 / 99% 二手 (好貨邊緣, 新品省 NT$14K)",
+        "vsNew": 58,
+        "vsSecondhand": 99
+      }
     }
   ],
   "uncertain": []

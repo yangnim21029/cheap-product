@@ -33111,5 +33111,31 @@
     "secondhand": null,
     "note": "Patrol 309 SKIP: 牧高笛 帳篷 niche 戶外",
     "source": "patrol_309_skip"
+  },
+  "1440640825": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 310 SKIP: Acer 15.6 筆電型號未列, 便宜的 Acer 通常老型號",
+    "source": "patrol_310_skip"
+  },
+  "1440640998": {
+    "newPrice": 32999,
+    "secondhand": 19245,
+    "note": "ROG Ally X NT$19,000 = 58% 新 / 99% 二手 (好貨邊緣, 新品省 NT$14K, subagent 值得追)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440647006": {
+    "newPrice": 24200,
+    "secondhand": 17500,
+    "note": "iPad Pro 11 M2 128G WiFi NT$17,500 = 72% 新 / 100% 二手 (持平, 貼齊二手中位)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440647956": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 310 SKIP: <NT$2K 張雨生/王柏森 CD",
+    "source": "patrol_310_skip"
   }
 }
