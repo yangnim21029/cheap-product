@@ -4897,6 +4897,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1433381871": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 321 SKIP: T1 LoL Zeus 戰隊周邊娃娃 niche",
+    "source": "patrol_321_skip"
+  },
   "1433392044": {
     "source": "2026-05-27",
     "skip": true,
@@ -5212,6 +5219,13 @@
     "note": "全新古箏池中逸趣 NT$13,000 liucheming 樂器 SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1433989520": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 321 SKIP: <NT$2K 大家源 TCY-6718 果汁機",
+    "source": "patrol_321_skip"
   },
   "1434003833": {
     "newPrice": null,
@@ -34125,6 +34139,13 @@
     "note": "Patrol 319 SKIP: <NT$2K Kala Makala 烏克麗麗",
     "source": "patrol_319_skip"
   },
+  "1440738664": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 321 SKIP: SONY HDR-CX390 2013 老 Handycam",
+    "source": "patrol_321_skip"
+  },
   "1440740217": {
     "skip": true,
     "newPrice": null,
@@ -34158,5 +34179,19 @@
     "secondhand": 22000,
     "note": "GIGABYTE G5 KF5 i7-13620H+4060 16G NT$26,500 = 94% 新 / 120% 二手 (file 過貴 vsSF>100%; 雙風扇積灰常見, 電池循環現場驗)",
     "source": "biggo 2026-05-30"
+  },
+  "1440744352": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 321 SKIP: JBL FLIP 6 NT$3,800 vs 新 NT$3,200 = 119% 比新品還貴 (vsSF 158%)",
+    "source": "patrol_321_skip"
+  },
+  "1440747749": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 321 SKIP: <NT$2K BEYBLADE Switch 卡帶+陀螺套組",
+    "source": "patrol_321_skip"
   }
 }
