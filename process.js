@@ -273,6 +273,12 @@ pending.newDeals = mergePending(pending.newDeals || [], newDeals);
 pending.negotiate = mergePending(pending.negotiate || [], negotiate);
 pending.uncertain = mergePending(pending.uncertain || [], uncertain);
 
+// Cross-bucket dedupe: 同 pid 出現在多桶時, newDeals > negotiate > uncertain
+const newDealsPids = new Set(pending.newDeals.map(d => d.pid));
+pending.negotiate = pending.negotiate.filter(d => !newDealsPids.has(d.pid));
+const negotiatePids = new Set(pending.negotiate.map(d => d.pid));
+pending.uncertain = pending.uncertain.filter(d => !newDealsPids.has(d.pid) && !negotiatePids.has(d.pid));
+
 // 直推 pending 的 watchlist items 缺 .verified, 從 verified_prices 補, 避免 render crash
 for (const bucket of ['newDeals', 'negotiate', 'uncertain']) {
   for (const item of pending[bucket]) {

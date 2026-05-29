@@ -5822,6 +5822,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1434976013": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: <NT$2K Diptyque 7.5ml",
+    "source": "patrol_309_skip"
+  },
   "1434985121": {
     "newPrice": null,
     "secondhand": null,
@@ -32988,6 +32995,12 @@
     "note": "Patrol 308 SKIP: ASUS X1500K 入門老筆電",
     "source": "patrol_308_skip"
   },
+  "1440620864": {
+    "newPrice": 18500,
+    "secondhand": 10000,
+    "note": "LUMIX S 20-60mm 全幅鏡頭 NT$8,500 = 46% 新 / 85% 二手 (好貨, S9 拆機鏡無保但極低於行情)",
+    "source": "biggo 2026-05-29"
+  },
   "1440621551": {
     "skip": true,
     "newPrice": null,
@@ -32995,12 +33008,26 @@
     "note": "Patrol 308 SKIP: B450I Aorus Pro WIFI ITX 老主板 AM4 持平",
     "source": "patrol_308_skip"
   },
+  "1440621581": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: Instax mini90 NT$7K vs 新 NT$5,990 = 117% 偏貴",
+    "source": "patrol_309_skip"
+  },
   "1440623427": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 308 SKIP: MBA M2 8/256 NT$18K 跟 patrol 307 applefanschiang 同款持平",
     "source": "patrol_308_skip"
+  },
+  "1440623436": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: Callaway 球杆組 niche 高爾夫",
+    "source": "patrol_309_skip"
   },
   "1440625343": {
     "newPrice": 11998,
@@ -33014,5 +33041,75 @@
     "secondhand": null,
     "note": "Patrol 308 SKIP: GTX 1660 OC 6G NT$3,350 老顯卡持平",
     "source": "patrol_308_skip"
+  },
+  "1440626432": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: <NT$2K recolte 果汁機",
+    "source": "patrol_309_skip"
+  },
+  "1440626557": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: AirPods 4 NT$3,300 vs BigGo 全新最低 NT$2,774 = 119% 比新品還貴, pass",
+    "source": "patrol_309_skip"
+  },
+  "1440627108": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: 三星 DDR5 16GB SODIMM 5600 NT$4,450 vs 通路 NT$1,890 = 235% 暴貴",
+    "source": "patrol_309_skip"
+  },
+  "1440627284": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: Wall of Sound 潮 T 套裝 NT$3K vs 新 NT$2,280 = 132% 持平偏貴 + 服飾 niche",
+    "source": "patrol_309_skip"
+  },
+  "1440628664": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: <NT$2K Ive 娃專",
+    "source": "patrol_309_skip"
+  },
+  "1440629115": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: 美津濃 羽球拍 niche",
+    "source": "patrol_309_skip"
+  },
+  "1440631355": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: <NT$2K 中山美穗 CD",
+    "source": "patrol_309_skip"
+  },
+  "1440632418": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: Lenovo ThinkPad L14 Gen1 2020 第一代 偏貴",
+    "source": "patrol_309_skip"
+  },
+  "1440633418": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: Lenovo IdeaPad 130 8 代 i5 老筆電",
+    "source": "patrol_309_skip"
+  },
+  "1440636491": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 309 SKIP: 牧高笛 帳篷 niche 戶外",
+    "source": "patrol_309_skip"
   }
 }

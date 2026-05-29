@@ -47,7 +47,7 @@
     {
       "pid": "1440625343",
       "category": "相機攝影",
-      "price": "NT$10,000",
+      "price": 10000,
       "title": "insta 360 go ultra全新未拆封",
       "timeAgo": "3 minutes ago",
       "url": "https://tw.carousell.com/p/1440625343/",
@@ -58,6 +58,22 @@
         "note": "Insta360 GO Ultra 全新未拆 NT$10K = 83% 新 / 95% 二手 (好貨, 17% off 未拆品)",
         "vsNew": 83,
         "vsSecondhand": 95
+      }
+    },
+    {
+      "pid": "1440620864",
+      "category": "相機攝影",
+      "price": 8500,
+      "title": "LUMIX S 20-60mm Panasonic 全幅鏡頭 S9",
+      "timeAgo": "2 hours ago",
+      "url": "https://tw.carousell.com/p/1440620864/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 18500,
+        "secondhand": 10000,
+        "note": "LUMIX S 20-60mm 全幅鏡頭 NT$8,500 = 46% 新 / 85% 二手 (好貨, S9 拆機鏡無保但極低於行情)",
+        "vsNew": 46,
+        "vsSecondhand": 85
       }
     }
   ],
@@ -86,7 +102,7 @@
     },
     {
       "seller": "poi90088",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "📱 iPhone 13 mini 128G🔋 100%❗️ 小傷/螢幕無傷",
       "price": 6500,
       "condition": "Like new",
@@ -96,7 +112,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 11:03",
+      "listedAt": "05/29 11:04",
       "pid": "1440597486",
       "verified": {
         "newPrice": null,
