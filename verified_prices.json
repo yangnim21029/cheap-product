@@ -1245,6 +1245,13 @@
     "secondhand": 5500,
     "note": "Sony WF-1000XM5 真無線降噪 NT$4,800 = 53% 新 / 87% 二手 (殺價)"
   },
+  "1423440192": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: Roland FP-10 NT$16,990 vs 新 NT$15,990 = 106% 過貴",
+    "source": "patrol_314_skip"
+  },
   "1423483396": {
     "source": "2026-05-28",
     "skip": true,
@@ -4773,6 +4780,13 @@
     "note": "Patrol 103 SKIP: Victor 羽球鞋 S82III at.cwm",
     "source": "manual_skip"
   },
+  "1433361903": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: <NT$2K 烏克麗麗",
+    "source": "patrol_314_skip"
+  },
   "1433366713": {
     "newPrice": null,
     "secondhand": null,
@@ -5219,6 +5233,13 @@
     "newPrice": null,
     "secondhand": 7000,
     "note": "羅技 G27 方向盤全套 (含踏板/排檔桿) NT$4,500 = 64% 二手 (好貨, 但 G27 已停產 10 年壽命堪憂)"
+  },
+  "1434200984": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: 撞球 Predator 球筒 niche",
+    "source": "patrol_314_skip"
   },
   "1434209757": {
     "source": "2026-05-27",
@@ -5863,6 +5884,13 @@
     "note": "PS5 PS5主機 光碟版 散熱器最巨大，散熱最好最強 附盒 NT$11,980 8240iap 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1434968276": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: Sony 70-400G G/G2 未列, 一字差價兩倍, 賣家含糊",
+    "source": "patrol_314_skip"
   },
   "1434976013": {
     "skip": true,
@@ -33471,5 +33499,33 @@
     "secondhand": null,
     "note": "Patrol 313 SKIP: 鋁合金按摩/診療床 niche",
     "source": "patrol_313_skip"
+  },
+  "1440682023": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: 沙發+咖啡套組分類錯",
+    "source": "patrol_314_skip"
+  },
+  "1440684836": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: Joji 彩膠 variant 未列 (Prism/Smoke/Ruby 差很多), vs 官方店 NT$1,100 = 168% 過貴",
+    "source": "patrol_314_skip"
+  },
+  "1440686174": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: Logitech G522 NT$4K vs 新 NT$3,990 = 100% 持平偏貴 1 元",
+    "source": "patrol_314_skip"
+  },
+  "1440688331": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 314 SKIP: 籃球卡 Panini Court Kings niche",
+    "source": "patrol_314_skip"
   }
 }
