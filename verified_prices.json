@@ -2746,6 +2746,20 @@
     "note": "全新吉他無品牌 SKIP",
     "source": "manual_skip"
   },
+  "1428763301": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Jo Malone 胭紅玫瑰 200g 無盒 NT$799 < $2K SKIP"
+  },
+  "1428764046": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Jo Malone 黑莓子月桂葉 200g 有盒 NT$799 < $2K SKIP"
+  },
   "1428798473": {
     "source": "2026-05-28",
     "skip": true,
@@ -32626,5 +32640,54 @@
     "newPrice": 6990,
     "secondhand": 5500,
     "note": "DJI Nano 64G 全新未撕膜 NT$7,200 (DJI Neo? Mini 4K? 型號模糊) = 103% 新太貴 SKIP"
+  },
+  "1440583570": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 白銅/藏銀活佛濟公 NT$2,200 連發 SKIP"
+  },
+  "1440584051": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Resident Evil 5 / Biohazard 5 poster 2009 NT$2,000 < $3K niche fan SKIP"
+  },
+  "1440584547": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "景泰藍掐絲琺瑯紫色寶石足銀墬飾 NT$1,300 < $2K niche SKIP"
+  },
+  "1440585195": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Sony CH720N 耳機 NT$2,000 < $3K wearables-leak SKIP"
+  },
+  "1440586511": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "電競筆電 abb5103 NT$13,000 型號完全未列 SKIP"
+  },
+  "1440586545": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 銅雕一念之間 NT$2,200 重複賣家+古銅雕 SKIP"
+  },
+  "1440587827": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "黑膠唱片 9 片合售 NT$500 < $2K 老黑膠 SKIP"
   }
 }
