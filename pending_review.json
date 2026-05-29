@@ -92,6 +92,29 @@
         "vsNew": 79,
         "vsSecondhand": 80
       }
+    },
+    {
+      "seller": "brightcrystal-cc0953",
+      "timeAgo": "34 minutes ago",
+      "title": "AirPods4代主動降噪在保",
+      "price": 2500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440674835/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 18:28",
+      "pid": "1440674835",
+      "verified": {
+        "newPrice": 5190,
+        "secondhand": 4500,
+        "note": "AirPods 4 ANC 在保 NT$2,500 = 48% 新 / 56% 二手 (好貨; 警報級深殺須當場 Apple ID 解綁防磚機/盜刷)",
+        "source": "biggo 2026-05-29"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 56
     }
   ],
   "negotiate": [
@@ -119,7 +142,7 @@
     },
     {
       "seller": "poi90088",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "📱iPhone 13 mini 128G🔋100%❗️小傷/螢幕無傷",
       "price": 6500,
       "condition": "Like new",
@@ -159,7 +182,7 @@
     },
     {
       "seller": "hyw_0104",
-      "timeAgo": "54 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "iPad air5 64 WiFi 黑",
       "price": 9300,
       "condition": "Like new",
@@ -169,7 +192,7 @@
       "priceStr": "NT$9,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 17:08",
+      "listedAt": "05/29 17:02",
       "pid": "1440659371",
       "verified": {
         "newPrice": 9990,
@@ -179,6 +202,52 @@
       },
       "vsNew": 93,
       "vsSecondhand": 90
+    },
+    {
+      "seller": "chineming30",
+      "timeAgo": "51 minutes ago",
+      "title": "【螢幕瑕疵/甜價入手】iPhone 15 Pro 256GB 原鈦色 6.1吋 蘋果 實體經營 二手機 D1197",
+      "price": 17500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440670901/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$17,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 18:11",
+      "pid": "1440670901",
+      "verified": {
+        "newPrice": 28900,
+        "secondhand": 23000,
+        "note": "iPhone 15 Pro 256G 原鈦螢幕瑕疵 D11 NT$17,500 = 61% 新 / 76% 二手 (殺價 -24%; 瑕疵折 15-25% 合理, 須驗觸控/Face ID/電池)",
+        "source": "sogi 2026-05-29"
+      },
+      "vsNew": 61,
+      "vsSecondhand": 76
+    },
+    {
+      "seller": "fastturtle-5999",
+      "timeAgo": "18 minutes ago",
+      "title": "Pocket3 全能版",
+      "price": 12500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440677727/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$12,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 18:44",
+      "pid": "1440677727",
+      "verified": {
+        "newPrice": 18500,
+        "secondhand": 16000,
+        "note": "DJI Pocket 3 全能版 NT$12,500 = 68% 新 / 78% 二手 (殺價 -22%; 須驗廣角鏡/麥克風/握把/收納包齊全)",
+        "source": "dji+momo 2026-05-29"
+      },
+      "vsNew": 68,
+      "vsSecondhand": 78
     }
   ],
   "uncertain": []

@@ -2872,6 +2872,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1429019906": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 313 SKIP: <NT$2K YAMAHA 直笛",
+    "source": "patrol_313_skip"
+  },
   "1429046049": {
     "skip": true,
     "newPrice": null,
@@ -5654,6 +5661,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "Jamo SB210 10吋 subwoofer 重低音喇叭 NT$5,000 niche HiFi 不熟 SKIP"
+  },
+  "1434679902": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 313 SKIP: <NT$2K KINYO 行動電源",
+    "source": "patrol_313_skip"
   },
   "1434707029": {
     "newPrice": null,
@@ -33418,5 +33432,44 @@
     "secondhand": null,
     "note": "Patrol 312 SKIP: 兒童滑雪服 niche",
     "source": "patrol_312_skip"
+  },
+  "1440670901": {
+    "newPrice": 28900,
+    "secondhand": 23000,
+    "note": "iPhone 15 Pro 256G 原鈦螢幕瑕疵 D11 NT$17,500 = 61% 新 / 76% 二手 (殺價 -24%; 瑕疵折 15-25% 合理, 須驗觸控/Face ID/電池)",
+    "source": "sogi 2026-05-29"
+  },
+  "1440673986": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 313 SKIP: 變速自行車 niche",
+    "source": "patrol_313_skip"
+  },
+  "1440674835": {
+    "newPrice": 5190,
+    "secondhand": 4500,
+    "note": "AirPods 4 ANC 在保 NT$2,500 = 48% 新 / 56% 二手 (好貨; 警報級深殺須當場 Apple ID 解綁防磚機/盜刷)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440677727": {
+    "newPrice": 18500,
+    "secondhand": 16000,
+    "note": "DJI Pocket 3 全能版 NT$12,500 = 68% 新 / 78% 二手 (殺價 -22%; 須驗廣角鏡/麥克風/握把/收納包齊全)",
+    "source": "dji+momo 2026-05-29"
+  },
+  "1440678313": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 313 SKIP: 240cm 沙發分類錯歸掃地機器人 + 大件 niche",
+    "source": "patrol_313_skip"
+  },
+  "1440680510": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 313 SKIP: 鋁合金按摩/診療床 niche",
+    "source": "patrol_313_skip"
   }
 }
