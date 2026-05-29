@@ -5599,6 +5599,13 @@
     "secondhand": null,
     "note": "SCHWALBE Billy Bonkers 18x2.0 膚色胎 NT$2,000 < $3K niche 自行車胎 SKIP"
   },
+  "1434742709": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "捷安特安全帽 NT$2,500 < $3K niche 不熟 SKIP"
+  },
   "1434744396": {
     "newPrice": null,
     "secondhand": null,
@@ -9906,6 +9913,13 @@
     "newPrice": 4180,
     "secondhand": null,
     "note": "PHILIPS TAX2208 派對喇叭 $2,200 = 53% 原價 $4,180 / 74% PChome 特價 $2,980. 新品還在賣, 邊緣值"
+  },
+  "1437427125": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "infoThink 小熊維尼粉萌柔光香氛燈櫻花限定 NT$760 < $2K fan SKIP"
   },
   "1437427466": {
     "newPrice": null,
@@ -32634,6 +32648,13 @@
     "secondhand": 4200,
     "note": "JBL Charge 5 BT 喇叭 NT$3,500 = 64% 新 / 83% 二手 (殺價)"
   },
+  "1440580123": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "琉園手沖咖啡壺組 NT$580 < $2K niche SKIP"
+  },
   "1440581224": {
     "source": "2026-05-29",
     "skip": true,
@@ -32689,5 +32710,40 @@
     "newPrice": null,
     "secondhand": null,
     "note": "黑膠唱片 9 片合售 NT$500 < $2K 老黑膠 SKIP"
+  },
+  "1440590403": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 銅雕關公讀春秋 NT$1,800 連發 SKIP"
+  },
+  "1440590828": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "大同 35L 電烤箱 NT$2,500 < $3K 型號未列 SKIP"
+  },
+  "1440591184": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 銅雕旺財 NT$1,200 連發 SKIP"
+  },
+  "1440593220": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "烏克麗麗 aloha NT$500 < $2K 入門款 SKIP"
+  },
+  "1440594127": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "royalpenguin 雷擊棗木令牌張真人 NT$1,000 重複賣家+老物 SKIP"
   }
 }
