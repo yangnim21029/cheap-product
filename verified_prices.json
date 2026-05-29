@@ -34193,5 +34193,33 @@
     "secondhand": null,
     "note": "Patrol 321 SKIP: <NT$2K BEYBLADE Switch 卡帶+陀螺套組",
     "source": "patrol_321_skip"
+  },
+  "1440750500": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 322 SKIP: Canon M6 不確定 M6 還 M6 Mark II + 鏡頭未列 (差價兩倍)",
+    "source": "patrol_322_skip"
+  },
+  "1440750544": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 322 SKIP: Shokz OpenRun Pro S810 NT$2,400 = 60% 新 / 109% 二手 (vsSF>100% 過貴; S810 一代被 Pro 2 取代殘值續跌)",
+    "source": "patrol_322_skip"
+  },
+  "1440750889": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 322 SKIP: <NT$2K 宮崎駿手繪明信片",
+    "source": "patrol_322_skip"
+  },
+  "1440751386": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 322 SKIP: <NT$2K Aroma 桌上吉他音箱",
+    "source": "patrol_322_skip"
   }
 }
