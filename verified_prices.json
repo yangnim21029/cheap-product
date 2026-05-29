@@ -2886,6 +2886,12 @@
     "note": "Patrol 313 SKIP: <NT$2K YAMAHA 直笛",
     "source": "patrol_313_skip"
   },
+  "1429032825": {
+    "newPrice": 5988,
+    "secondhand": 4500,
+    "note": "Sony WF-1000XM5 保固中 NT$3,999 = 67% 新 (vs BigGo 限時) / 89% 二手 (殺價; 博客來限時 NT$5,988 才差 NT$2K, 看常態通路約 NT$7-9K)",
+    "source": "biggo 2026-05-29"
+  },
   "1429046049": {
     "skip": true,
     "newPrice": null,
@@ -5865,6 +5871,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1434926976": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: <NT$2K Diptyque 7.5ml",
+    "source": "patrol_315_skip"
+  },
   "1434945600": {
     "newPrice": null,
     "secondhand": null,
@@ -5905,6 +5918,13 @@
     "note": "香氛 Bonnie house 香氛機（含圖片中精油） NT$750 0000daniel 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1434988549": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 徽章戰士 2020 限量遊戲 NT$16,999 過貴遊戲卡帶 niche",
+    "source": "patrol_315_skip"
   },
   "1435002873": {
     "newPrice": null,
@@ -33480,11 +33500,39 @@
     "note": "AirPods 4 ANC 在保 NT$2,500 = 48% 新 / 56% 二手 (好貨; 警報級深殺須當場 Apple ID 解綁防磚機/盜刷)",
     "source": "biggo 2026-05-29"
   },
+  "1440675592": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 馬年楓葉銀幣 錢幣 niche",
+    "source": "patrol_315_skip"
+  },
+  "1440676338": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: Monogram Telecaster 電吉他 niche",
+    "source": "patrol_315_skip"
+  },
   "1440677727": {
     "newPrice": 18500,
     "secondhand": 16000,
     "note": "DJI Pocket 3 全能版 NT$12,500 = 68% 新 / 78% 二手 (殺價 -22%; 須驗廣角鏡/麥克風/握把/收納包齊全)",
     "source": "dji+momo 2026-05-29"
+  },
+  "1440678137": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 索泰 RTX 3060 Ti 8G NT$6K 持平二手中位",
+    "source": "patrol_315_skip"
+  },
+  "1440678289": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 文章 1986 唱片 早期黑膠 niche",
+    "source": "patrol_315_skip"
   },
   "1440678313": {
     "skip": true,
@@ -33514,6 +33562,12 @@
     "note": "Patrol 314 SKIP: Joji 彩膠 variant 未列 (Prism/Smoke/Ruby 差很多), vs 官方店 NT$1,100 = 168% 過貴",
     "source": "patrol_314_skip"
   },
+  "1440685430": {
+    "newPrice": 18400,
+    "secondhand": 18000,
+    "note": "iPad Air M4 11吋 128G 全新未拆 NT$18,000 = 98% 新 / 100% 二手 (過貴, vs 奇岩 3C NT$18,400 只省 NT$400, 黃牛水貨風險)",
+    "source": "biggo 2026-05-29"
+  },
   "1440686174": {
     "skip": true,
     "newPrice": null,
@@ -33527,5 +33581,94 @@
     "secondhand": null,
     "note": "Patrol 314 SKIP: 籃球卡 Panini Court Kings niche",
     "source": "patrol_314_skip"
+  },
+  "1440689777": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: SHARP DW-X6NT 6L 太小 (User 要 20L)",
+    "source": "patrol_315_skip"
+  },
+  "1440691186": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 凱德森木琴 樂器 niche",
+    "source": "patrol_315_skip"
+  },
+  "1440691974": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: Diptyque 蠟燭+火柴禮盒 香氛 niche",
+    "source": "patrol_315_skip"
+  },
+  "1440692736": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 火影忍者 DVD 動漫 niche",
+    "source": "patrol_315_skip"
+  },
+  "1440693065": {
+    "newPrice": 12690,
+    "secondhand": 11000,
+    "note": "Apple Watch S11 GPS 46mm 保固到 2026/10 NT$9,800 = 77% 新 / 89% 二手 (殺價, 還在保 5 個月)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440693258": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: MUJI 烤箱 NT$3,300 vs 新 NT$3,990 = 83% 邊緣持平",
+    "source": "patrol_315_skip"
+  },
+  "1440694447": {
+    "newPrice": 25800,
+    "secondhand": 15000,
+    "note": "Apple Watch Ultra 2 LTE 49mm 85% 電池 NT$14,000 = 54% 新 / 93% 二手 (殺價, -46% off 新; 80% 以下保固外換電 NT$2,800)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440694484": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: Nikon D5000 顯示幕故障",
+    "source": "patrol_315_skip"
+  },
+  "1440694721": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 木質迷你 25 鍵小鋼琴 玩具 niche",
+    "source": "patrol_315_skip"
+  },
+  "1440694743": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: Samsung Watch 7 44mm BT NT$5,500 持平 (新 NT$8,990, 二手 NT$5-6K)",
+    "source": "patrol_315_skip"
+  },
+  "1440695349": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: <NT$2K NuPhy Node100",
+    "source": "patrol_315_skip"
+  },
+  "1440698287": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: 雷蛇 Huntsman V3 Pro NT$5,500 vs 新 NT$5,990 = 92% 持平",
+    "source": "patrol_315_skip"
+  },
+  "1440699585": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 315 SKIP: PS4 PS5 遊戲片無細節型號未列",
+    "source": "patrol_315_skip"
   }
 }

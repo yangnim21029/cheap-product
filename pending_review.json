@@ -95,7 +95,7 @@
     },
     {
       "seller": "brightcrystal-cc0953",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "AirPods4代主動降噪在保",
       "price": 2500,
       "condition": "Like new",
@@ -105,7 +105,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 18:01",
+      "listedAt": "05/29 18:02",
       "pid": "1440674835",
       "verified": {
         "newPrice": 5190,
@@ -142,8 +142,8 @@
     },
     {
       "seller": "poi90088",
-      "timeAgo": "9 hours ago",
-      "title": "📱iPhone 13 mini 128G🔋100%❗️小傷/螢幕無傷",
+      "timeAgo": "10 hours ago",
+      "title": "📱 iPhone 13 mini 128G🔋 100%❗️ 小傷/螢幕無傷",
       "price": 6500,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1440597486/",
@@ -152,7 +152,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 11:01",
+      "listedAt": "05/29 11:02",
       "pid": "1440597486",
       "verified": {
         "newPrice": null,
@@ -182,7 +182,7 @@
     },
     {
       "seller": "hyw_0104",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "iPad air5 64 WiFi 黑",
       "price": 9300,
       "condition": "Like new",
@@ -205,7 +205,7 @@
     },
     {
       "seller": "chineming30",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "【螢幕瑕疵/甜價入手】iPhone 15 Pro 256GB 原鈦色 6.1吋 蘋果 實體經營 二手機 D1197",
       "price": 17500,
       "condition": "Like new",
@@ -215,7 +215,7 @@
       "priceStr": "NT$17,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 18:01",
+      "listedAt": "05/29 18:02",
       "pid": "1440670901",
       "verified": {
         "newPrice": 28900,
@@ -228,7 +228,7 @@
     },
     {
       "seller": "fastturtle-5999",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "Pocket3 全能版",
       "price": 12500,
       "condition": "Like new",
@@ -238,7 +238,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 19:01",
+      "listedAt": "05/29 19:02",
       "pid": "1440677727",
       "verified": {
         "newPrice": 18500,
@@ -248,6 +248,69 @@
       },
       "vsNew": 68,
       "vsSecondhand": 78
+    },
+    {
+      "pid": "1440694447",
+      "category": "智慧手錶",
+      "price": 14000,
+      "priceStr": "NT$14,000",
+      "title": "apple watch ultra2 LTE🔋 85%",
+      "timeAgo": "39 minutes ago",
+      "url": "https://tw.carousell.com/p/1440694447/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 25800,
+        "secondhand": 15000,
+        "note": "Apple Watch Ultra 2 LTE 49mm 85% 電池 NT$14K = 54% 新 / 93% 二手 (殺價 -46% off 新)",
+        "vsNew": 54,
+        "vsSecondhand": 93
+      }
+    },
+    {
+      "seller": "unicorn06",
+      "timeAgo": "37 minutes ago",
+      "title": "SONY 索尼 WF-1000XM5 真無線旗艦藍牙耳機 保固中",
+      "price": 3999,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1429032825/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,999",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 20:25",
+      "pid": "1429032825",
+      "verified": {
+        "newPrice": 5988,
+        "secondhand": 4500,
+        "note": "Sony WF-1000XM5 保固中 NT$3,999 = 67% 新 (vs BigGo 限時) / 89% 二手 (殺價; 博客來限時 NT$5,988 才差 NT$2K, 看常態通路約 NT$7-9K)",
+        "source": "biggo 2026-05-29"
+      },
+      "vsNew": 67,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "yjian573588097",
+      "timeAgo": "48 minutes ago",
+      "title": "AppleWatch S11 (GPS) 46mm 保固到2026/10/25",
+      "price": 9800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440693065/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$9,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 20:14",
+      "pid": "1440693065",
+      "verified": {
+        "newPrice": 12690,
+        "secondhand": 11000,
+        "note": "Apple Watch S11 GPS 46mm 保固到 2026/10 NT$9,800 = 77% 新 / 89% 二手 (殺價, 還在保 5 個月)",
+        "source": "biggo 2026-05-29"
+      },
+      "vsNew": 77,
+      "vsSecondhand": 89
     }
   ],
   "uncertain": []
