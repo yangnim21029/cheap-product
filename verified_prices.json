@@ -1218,6 +1218,13 @@
     "secondhand": null,
     "note": "TaylorMade M2 (2017) 開球木桿 9.5度 NT$4,950 niche 高爾夫不熟 SKIP"
   },
+  "1423383573": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "丁亥豬年紀念銀幣組 NT$3,500 niche 紀念幣 SKIP"
+  },
   "1423386688": {
     "newPrice": null,
     "secondhand": null,
@@ -2725,6 +2732,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "VANA 香氛蠟燭 NT$630 < $2K SKIP"
+  },
+  "1428736598": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "AirPods 4 ANC 全新未拆 NT$4,500 wearables-leak SKIP"
   },
   "1428752299": {
     "newPrice": null,
@@ -32599,5 +32613,18 @@
     "newPrice": 14990,
     "secondhand": 11000,
     "note": "PS5 光碟版 NT$9,500 = 63% 新 / 86% 二手 (殺價)"
+  },
+  "1440578316": {
+    "source": "2026-05-29",
+    "newPrice": 5490,
+    "secondhand": 4200,
+    "note": "JBL Charge 5 BT 喇叭 NT$3,500 = 64% 新 / 83% 二手 (殺價)"
+  },
+  "1440581224": {
+    "source": "2026-05-29",
+    "skip": true,
+    "newPrice": 6990,
+    "secondhand": 5500,
+    "note": "DJI Nano 64G 全新未撕膜 NT$7,200 (DJI Neo? Mini 4K? 型號模糊) = 103% 新太貴 SKIP"
   }
 }
