@@ -12,10 +12,10 @@
     "lastSeen": "2026-05-02T13:17:39.235Z"
   },
   "空氣清淨機": {
-    "total": 14543,
-    "recentTotal": 2815,
+    "total": 14591,
+    "recentTotal": 2825,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:22:25.923Z"
+    "lastSeen": "2026-05-29T05:34:52.113Z"
   },
   "投影機": {
     "total": 15055,
@@ -66,10 +66,10 @@
     "lastSeen": "2026-05-03T02:17:38.407Z"
   },
   "空氣循環扇": {
-    "total": 14439,
-    "recentTotal": 788,
+    "total": 14487,
+    "recentTotal": 790,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:24:17.821Z"
+    "lastSeen": "2026-05-29T05:35:48.374Z"
   },
   "nespresso": {
     "total": 475,
@@ -78,10 +78,10 @@
     "lastSeen": "2026-05-03T02:18:38.222Z"
   },
   "拍立得": {
-    "total": 14874,
-    "recentTotal": 4841,
+    "total": 14922,
+    "recentTotal": 4858,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:37:00.595Z"
+    "lastSeen": "2026-05-29T05:36:16.537Z"
   },
   "藍牙喇叭": {
     "total": 380,
@@ -90,10 +90,10 @@
     "lastSeen": "2026-05-03T02:19:33.828Z"
   },
   "立燈": {
-    "total": 14947,
-    "recentTotal": 2049,
+    "total": 14995,
+    "recentTotal": 2053,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:23:49.981Z"
+    "lastSeen": "2026-05-29T05:35:18.158Z"
   },
   "喇叭": {
     "total": 13956,
@@ -114,10 +114,10 @@
     "lastSeen": "2026-05-03T15:19:45.824Z"
   },
   "相印機": {
-    "total": 13604,
-    "recentTotal": 541,
+    "total": 13652,
+    "recentTotal": 542,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:24:42.899Z"
+    "lastSeen": "2026-05-29T05:36:47.871Z"
   },
   "帳篷": {
     "total": 1239,
@@ -126,10 +126,10 @@
     "lastSeen": "2026-05-04T14:20:17.250Z"
   },
   "": {
-    "total": 14448,
-    "recentTotal": 14115,
+    "total": 14495,
+    "recentTotal": 14162,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:51:54.584Z"
+    "lastSeen": "2026-05-29T05:52:18.598Z"
   },
   "露營": {
     "total": 12789,
@@ -138,10 +138,10 @@
     "lastSeen": "2026-05-29T04:25:16.571Z"
   },
   "地毯": {
-    "total": 12587,
-    "recentTotal": 1371,
+    "total": 12635,
+    "recentTotal": 1377,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:25:45.160Z"
+    "lastSeen": "2026-05-29T05:37:10.987Z"
   },
   "相機機身": {
     "total": 1188,
@@ -168,22 +168,22 @@
     "lastSeen": "2026-05-29T02:38:57.089Z"
   },
   "磨豆機": {
-    "total": 11571,
-    "recentTotal": 913,
+    "total": 11619,
+    "recentTotal": 914,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:26:15.670Z"
+    "lastSeen": "2026-05-29T05:37:38.829Z"
   },
   "除濕機": {
-    "total": 9261,
-    "recentTotal": 1372,
+    "total": 9309,
+    "recentTotal": 1383,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:39:20.677Z"
+    "lastSeen": "2026-05-29T05:38:10.041Z"
   },
   "dji": {
-    "total": 9452,
-    "recentTotal": 3049,
+    "total": 9500,
+    "recentTotal": 3065,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T01:43:44.084Z"
+    "lastSeen": "2026-05-29T05:43:40.021Z"
   },
   "insta360": {
     "total": 9930,
@@ -198,22 +198,22 @@
     "lastSeen": "2026-05-29T04:33:14.192Z"
   },
   "黑膠": {
-    "total": 9125,
-    "recentTotal": 2942,
+    "total": 9173,
+    "recentTotal": 2962,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:33:40.261Z"
+    "lastSeen": "2026-05-29T05:44:09.521Z"
   },
   "Switch 遊戲片": {
-    "total": 7552,
-    "recentTotal": 1793,
+    "total": 7600,
+    "recentTotal": 1804,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:34:12.924Z"
+    "lastSeen": "2026-05-29T05:44:40.466Z"
   },
   "PS5": {
-    "total": 7844,
-    "recentTotal": 1247,
+    "total": 7892,
+    "recentTotal": 1258,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:34:38.686Z"
+    "lastSeen": "2026-05-29T05:45:11.771Z"
   },
   "Steam Deck": {
     "total": 5083,
@@ -222,46 +222,46 @@
     "lastSeen": "2026-05-28T14:45:16.310Z"
   },
   "掃地機器人": {
-    "total": 7647,
-    "recentTotal": 700,
+    "total": 7695,
+    "recentTotal": 707,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:35:37.034Z"
+    "lastSeen": "2026-05-29T05:45:37.324Z"
   },
   "氣炸鍋": {
-    "total": 7210,
-    "recentTotal": 1963,
+    "total": 7258,
+    "recentTotal": 1977,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:36:00.066Z"
+    "lastSeen": "2026-05-29T05:46:08.386Z"
   },
   "筆電": {
-    "total": 7490,
-    "recentTotal": 3570,
+    "total": 7538,
+    "recentTotal": 3594,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T01:47:17.463Z"
+    "lastSeen": "2026-05-29T05:46:37.755Z"
   },
   "機械鍵盤": {
-    "total": 7938,
-    "recentTotal": 1776,
+    "total": 7986,
+    "recentTotal": 1795,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:36:30.633Z"
+    "lastSeen": "2026-05-29T05:47:30.944Z"
   },
   "美容儀": {
-    "total": 7397,
-    "recentTotal": 1227,
+    "total": 7445,
+    "recentTotal": 1232,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:36:55.233Z"
+    "lastSeen": "2026-05-29T05:48:01.969Z"
   },
   "吸塵器": {
-    "total": 7495,
-    "recentTotal": 1044,
+    "total": 7543,
+    "recentTotal": 1049,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T01:48:39.880Z"
+    "lastSeen": "2026-05-29T05:48:27.275Z"
   },
   "電競椅": {
-    "total": 7255,
-    "recentTotal": 386,
+    "total": 7303,
+    "recentTotal": 388,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:48:10.741Z"
+    "lastSeen": "2026-05-29T05:47:02.205Z"
   },
   "iPad": {
     "total": 7643,
@@ -270,46 +270,46 @@
     "lastSeen": "2026-05-29T04:37:20.314Z"
   },
   "螢幕": {
-    "total": 7504,
-    "recentTotal": 5316,
+    "total": 7552,
+    "recentTotal": 5363,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T01:49:02.735Z"
+    "lastSeen": "2026-05-29T05:48:59.527Z"
   },
   "三腳架": {
-    "total": 7550,
-    "recentTotal": 739,
+    "total": 7598,
+    "recentTotal": 743,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:37:51.859Z"
+    "lastSeen": "2026-05-29T05:49:27.699Z"
   },
   "烤箱": {
-    "total": 6926,
-    "recentTotal": 1767,
+    "total": 6974,
+    "recentTotal": 1778,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:49:06.044Z"
+    "lastSeen": "2026-05-29T05:49:56.138Z"
   },
   "瑜珈墊": {
-    "total": 7731,
-    "recentTotal": 461,
+    "total": 7779,
+    "recentTotal": 463,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:38:45.536Z"
+    "lastSeen": "2026-05-29T05:50:58.911Z"
   },
   "香氛": {
-    "total": 7266,
-    "recentTotal": 3713,
+    "total": 7314,
+    "recentTotal": 3745,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:49:59.647Z"
+    "lastSeen": "2026-05-29T05:51:25.853Z"
   },
   "行動電源": {
-    "total": 7692,
-    "recentTotal": 1983,
+    "total": 7740,
+    "recentTotal": 2001,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:38:20.486Z"
+    "lastSeen": "2026-05-29T05:50:28.735Z"
   },
   "Refa": {
-    "total": 6592,
-    "recentTotal": 296,
+    "total": 6640,
+    "recentTotal": 300,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:39:09.361Z"
+    "lastSeen": "2026-05-29T05:51:52.350Z"
   },
   "游泳耳機": {
     "total": 16,
@@ -344,26 +344,26 @@
   "22L 除濕機": {
     "total": 0,
     "recentTotal": 0,
-    "zeroStreak": 80,
+    "zeroStreak": 81,
     "lastSeen": null
   },
   "18L 除濕機": {
     "total": 0,
     "recentTotal": 0,
-    "zeroStreak": 71,
+    "zeroStreak": 72,
     "lastSeen": null
   },
   "Rimowa": {
-    "total": 2925,
-    "recentTotal": 205,
+    "total": 2973,
+    "recentTotal": 208,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:34:09.119Z"
+    "lastSeen": "2026-05-29T05:33:56.455Z"
   },
   "Tumi": {
-    "total": 2587,
-    "recentTotal": 125,
+    "total": 2635,
+    "recentTotal": 127,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:22:01.839Z"
+    "lastSeen": "2026-05-29T05:34:24.325Z"
   },
   "20公升 除濕機": {
     "total": 132,
@@ -372,9 +372,9 @@
     "lastSeen": "2026-05-29T04:28:10.919Z"
   },
   "Devialet": {
-    "total": 96,
+    "total": 99,
     "recentTotal": 0,
-    "zeroStreak": 32,
+    "zeroStreak": 33,
     "lastSeen": null
   },
   "Sonos Move": {
@@ -384,22 +384,22 @@
     "lastSeen": null
   },
   "KEF Muo": {
-    "total": 62,
+    "total": 64,
     "recentTotal": 0,
-    "zeroStreak": 31,
+    "zeroStreak": 32,
     "lastSeen": null
   },
   "Bose QC": {
-    "total": 1027,
-    "recentTotal": 329,
+    "total": 1059,
+    "recentTotal": 342,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:43:22.472Z"
+    "lastSeen": "2026-05-29T05:41:56.408Z"
   },
   "JBL Charge": {
-    "total": 242,
-    "recentTotal": 30,
+    "total": 251,
+    "recentTotal": 32,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T02:44:36.844Z"
+    "lastSeen": "2026-05-29T05:42:48.824Z"
   },
   "JBL Flip": {
     "total": 270,
@@ -410,26 +410,26 @@
   "Marshall Heston": {
     "total": 19,
     "recentTotal": 0,
-    "zeroStreak": 32,
+    "zeroStreak": 33,
     "lastSeen": null
   },
   "20L 除濕機": {
-    "total": 68,
+    "total": 70,
     "recentTotal": 0,
-    "zeroStreak": 34,
+    "zeroStreak": 35,
     "lastSeen": null
   },
   "Sony WH-1000XM": {
-    "total": 1679,
-    "recentTotal": 218,
+    "total": 1727,
+    "recentTotal": 225,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:30:57.472Z"
+    "lastSeen": "2026-05-29T05:41:31.776Z"
   },
   "AirPods Max": {
-    "total": 1584,
-    "recentTotal": 120,
+    "total": 1632,
+    "recentTotal": 126,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:31:22.433Z"
+    "lastSeen": "2026-05-29T05:42:18.876Z"
   },
   "Sennheiser HD": {
     "total": 160,
@@ -444,9 +444,9 @@
     "lastSeen": null
   },
   "Bose SoundLink": {
-    "total": 1344,
-    "recentTotal": 86,
+    "total": 1392,
+    "recentTotal": 90,
     "zeroStreak": 0,
-    "lastSeen": "2026-05-29T04:30:34.710Z"
+    "lastSeen": "2026-05-29T05:41:03.478Z"
   }
 }

@@ -1280,12 +1280,33 @@
     "secondhand": null,
     "note": "elm.rd 英國天然手工蠟燭 NT$900 < $2K SKIP"
   },
+  "1423649800": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: <NT$2K 香氛瓶",
+    "source": "patrol_308_skip"
+  },
   "1423665604": {
     "newPrice": null,
     "secondhand": null,
     "note": "三腳架 Pierre Cardin 62mm 700mm 天文望遠鏡 NT$3,200 入門腳架二手價合理無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1423690237": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: IronWolf Pro 16TB NT$15,800 vs 公司貨 NT$11K = 偏貴",
+    "source": "patrol_308_skip"
+  },
+  "1423708683": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: <NT$2K morelife 藍牙鍵盤",
+    "source": "patrol_308_skip"
   },
   "1423925401": {
     "newPrice": null,
@@ -2823,6 +2844,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1429002378": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: <NT$2K 錫笛",
+    "source": "patrol_308_skip"
+  },
   "1429013386": {
     "newPrice": null,
     "secondhand": null,
@@ -2843,6 +2871,13 @@
     "note": "PS5 收購遊戲主機 SWITCH2、PS5 主機、遊戲片、週邊 SWITCH2回收 （ NT$7,980 gordon740124768 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1429106472": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: <NT$2K 蘇打綠 CD",
+    "source": "patrol_308_skip"
   },
   "1429142173": {
     "skip": true,
@@ -5694,6 +5729,13 @@
     "note": "機械鍵盤 Montech 君主 MKey PRO 75% 三模機械式鍵盤機械鍵盤 無線鍵盤 NT$1,600 jessica_1104 入門/中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1434856551": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: Lattafa 香水 niche+NT$2,200 不便宜",
+    "source": "patrol_308_skip"
   },
   "1434858229": {
     "newPrice": null,
@@ -32746,6 +32788,13 @@
     "secondhand": null,
     "note": "黑膠唱片 9 片合售 NT$500 < $2K 老黑膠 SKIP"
   },
+  "1440588027": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: DJI Osmo Mobile 8 NT$2,400 vs 新 NT$3,290 = 73% 持平",
+    "source": "patrol_308_skip"
+  },
   "1440590403": {
     "source": "2026-05-29",
     "skip": true,
@@ -32787,6 +32836,12 @@
     "newPrice": null,
     "secondhand": null,
     "note": "royalpenguin 雷擊棗木令牌張真人 NT$1,000 重複賣家+老物 SKIP"
+  },
+  "1440597486": {
+    "newPrice": null,
+    "secondhand": 7500,
+    "note": "iPhone 13 mini 128G 100% 電池 NT$6,500 = 87% 二手 (殺價, A- 級低於中位)",
+    "source": "biggo 2026-05-29"
   },
   "1440598484": {
     "skip": true,
@@ -32898,11 +32953,66 @@
     "note": "Patrol 307 SKIP: Modern 15 11 代 i5 老筆電",
     "source": "patrol_307_skip"
   },
+  "1440612718": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: <NT$2K YSL 蠟燭",
+    "source": "patrol_308_skip"
+  },
   "1440614131": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 307 SKIP: BLADEZ 跑步機 大件+邊緣",
     "source": "patrol_307_skip"
+  },
+  "1440618566": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: SHARP DW-X6NT 6L 除濕機太小台 (User 要 20L)",
+    "source": "patrol_308_skip"
+  },
+  "1440618650": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: <NT$2K 行動電源",
+    "source": "patrol_308_skip"
+  },
+  "1440619659": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: ASUS X1500K 入門老筆電",
+    "source": "patrol_308_skip"
+  },
+  "1440621551": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: B450I Aorus Pro WIFI ITX 老主板 AM4 持平",
+    "source": "patrol_308_skip"
+  },
+  "1440623427": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: MBA M2 8/256 NT$18K 跟 patrol 307 applefanschiang 同款持平",
+    "source": "patrol_308_skip"
+  },
+  "1440625343": {
+    "newPrice": 11998,
+    "secondhand": 10500,
+    "note": "Insta360 GO Ultra 全新未拆 NT$10K = 83% 新 / 95% 二手 (好貨, 17% off 未拆品)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440626174": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 308 SKIP: GTX 1660 OC 6G NT$3,350 老顯卡持平",
+    "source": "patrol_308_skip"
   }
 }

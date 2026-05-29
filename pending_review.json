@@ -43,6 +43,22 @@
       "condition": "全新",
       "watchlist": true,
       "listedAt": "2025/07/31 03:52"
+    },
+    {
+      "pid": "1440625343",
+      "category": "相機攝影",
+      "price": "NT$10,000",
+      "title": "insta 360 go ultra全新未拆封",
+      "timeAgo": "3 minutes ago",
+      "url": "https://tw.carousell.com/p/1440625343/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 11998,
+        "secondhand": 10500,
+        "note": "Insta360 GO Ultra 全新未拆 NT$10K = 83% 新 / 95% 二手 (好貨, 17% off 未拆品)",
+        "vsNew": 83,
+        "vsSecondhand": 95
+      }
     }
   ],
   "negotiate": [
@@ -67,6 +83,29 @@
       },
       "note": "watchlist, 賣家掛 1 年 = 死貨可砍",
       "listedAt": "2025/05/27 23:05"
+    },
+    {
+      "seller": "poi90088",
+      "timeAgo": "3 hours ago",
+      "title": "📱 iPhone 13 mini 128G🔋 100%❗️ 小傷/螢幕無傷",
+      "price": 6500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440597486/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 11:03",
+      "pid": "1440597486",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7500,
+        "note": "iPhone 13 mini 128G 100% 電池 NT$6,500 = 87% 二手 (殺價, A- 級低於中位)",
+        "source": "biggo 2026-05-29"
+      },
+      "vsNew": null,
+      "vsSecondhand": 87
     }
   ],
   "uncertain": []
