@@ -95,7 +95,7 @@
     },
     {
       "seller": "brightcrystal-cc0953",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "AirPods4代主動降噪在保",
       "price": 2500,
       "condition": "Like new",
@@ -228,7 +228,7 @@
     },
     {
       "seller": "fastturtle-5999",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Pocket3 全能版",
       "price": 12500,
       "condition": "Like new",
@@ -268,7 +268,7 @@
     },
     {
       "seller": "unicorn06",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "SONY 索尼 WF-1000XM5 真無線旗艦藍牙耳機 保固中",
       "price": 3999,
       "condition": "Lightly used",
@@ -291,7 +291,7 @@
     },
     {
       "seller": "yjian573588097",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Apple Watch S11 (GPS) 46mm 保固到2026/10/25",
       "price": 9800,
       "condition": "Lightly used",
@@ -314,7 +314,7 @@
     },
     {
       "seller": "happy1991199134",
-      "timeAgo": "55 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Marshall Middleton 一代",
       "price": 4950,
       "condition": "Lightly used",
@@ -324,7 +324,7 @@
       "priceStr": "NT$4,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 22:07",
+      "listedAt": "05/29 22:02",
       "pid": "1440710993",
       "verified": {
         "newPrice": 7990,
@@ -334,6 +334,52 @@
       },
       "vsNew": 62,
       "vsSecondhand": 83
+    },
+    {
+      "seller": "jj13346",
+      "timeAgo": "2 hours ago",
+      "title": "AirPods Pro 3 近全新 二月購入",
+      "price": 5000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440713566/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 22:02",
+      "pid": "1440713566",
+      "verified": {
+        "newPrice": 6990,
+        "secondhand": 5800,
+        "note": "AirPods Pro 3 近全新 2 月購入 NT$5,000 = 72% 新 / 86% 二手 (殺價, 保固期內近全新, 序號驗 Apple)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": 72,
+      "vsSecondhand": 86
+    },
+    {
+      "seller": "__OvO__",
+      "timeAgo": "47 minutes ago",
+      "title": "華為 GT5 Pro 42m 智慧手錶 Apple可用 全新",
+      "price": 6500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1429134824/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "priceStr": "NT$6,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 23:15",
+      "pid": "1429134824",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 7500,
+        "note": "華為 GT5 Pro 42mm 全新 NT$6,500 = 65% 新 / 87% 二手 (殺價, 須驗未拆封 + 是否台灣公司貨防平輸)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": 65,
+      "vsSecondhand": 87
     }
   ],
   "uncertain": []

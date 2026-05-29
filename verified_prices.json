@@ -2082,6 +2082,13 @@
     "note": "Patrol 100 SKIP: 全新💫 LOEWE烤榛果香氛蠟燭（價格可議） tulio_",
     "source": "manual_skip"
   },
+  "1427376104": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: 英國皇家不列顛女神 1g 金條 早期收藏 niche",
+    "source": "patrol_318_skip"
+  },
   "1427377982": {
     "newPrice": null,
     "secondhand": null,
@@ -2892,12 +2899,26 @@
     "note": "Sony WF-1000XM5 保固中 NT$3,999 = 67% 新 (vs BigGo 限時) / 89% 二手 (殺價; 博客來限時 NT$5,988 才差 NT$2K, 看常態通路約 NT$7-9K)",
     "source": "biggo 2026-05-29"
   },
+  "1429034975": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: 王建民 2006 19 勝紀念棒球組 球員紀念 niche",
+    "source": "patrol_318_skip"
+  },
   "1429046049": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 312 SKIP: Spark2 電吉他音箱 樂器 niche",
     "source": "patrol_312_skip"
+  },
+  "1429059313": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: <NT$2K Rock you 烏克麗麗",
+    "source": "patrol_318_skip"
   },
   "1429067762": {
     "newPrice": null,
@@ -2941,6 +2962,12 @@
     "note": "Patrol 316 SKIP: 集郵冊 早期郵票 niche",
     "source": "patrol_316_skip"
   },
+  "1429134824": {
+    "newPrice": 9990,
+    "secondhand": 7500,
+    "note": "華為 GT5 Pro 42mm 全新 NT$6,500 = 65% 新 / 87% 二手 (殺價, 須驗未拆封 + 是否台灣公司貨防平輸)",
+    "source": "biggo 2026-05-30"
+  },
   "1429138345": {
     "skip": true,
     "newPrice": null,
@@ -2968,6 +2995,13 @@
     "secondhand": null,
     "note": "Patrol 307 SKIP: 五月天護照夾 <NT$2K 周邊",
     "source": "patrol_307_skip"
+  },
+  "1429144682": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: GoPro Hero 10 NT$7K 持平 (新 NT$13.9K 二手 NT$5-7K)",
+    "source": "patrol_318_skip"
   },
   "1429260811": {
     "newPrice": null,
@@ -5872,6 +5906,13 @@
   "1434872065": {
     "skip": true,
     "note": "鬼太郎誕生咯咯咯之謎 OST 原聲帶 CD $550 quickhorse.c0b64e 動漫 CD"
+  },
+  "1434884930": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: SONY DSC-WX350 2014 老 DC",
+    "source": "patrol_318_skip"
   },
   "1434886783": {
     "newPrice": null,
@@ -33837,6 +33878,25 @@
     "note": "Marshall Middleton 一代 NT$4,950 = 62% 新 / 83% 二手 (殺價, 比二手 NT$5,500-6,500 低 NT$550)",
     "source": "biggo 2026-05-29"
   },
+  "1440711293": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: Canon SD790/IXUS 90 2008 老 DC",
+    "source": "patrol_318_skip"
+  },
+  "1440713208": {
+    "newPrice": 35990,
+    "secondhand": 28000,
+    "note": "Devialet Mania 巴黎歌劇院版 NT$33,990 = 94% 新 (vs 巴黎版) / 121% 二手 (file 過貴, vsSF on 普通版 >100%, 須確認真巴黎版外觀)",
+    "source": "biggo 2026-05-30"
+  },
+  "1440713566": {
+    "newPrice": 6990,
+    "secondhand": 5800,
+    "note": "AirPods Pro 3 近全新 2 月購入 NT$5,000 = 72% 新 / 86% 二手 (殺價, 保固期內近全新, 序號驗 Apple)",
+    "source": "biggo 2026-05-30"
+  },
   "1440714871": {
     "skip": true,
     "newPrice": null,
@@ -33878,11 +33938,102 @@
     "note": "Patrol 317 SKIP: iPad Air 4 容量未列",
     "source": "patrol_317_skip"
   },
+  "1440719567": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: <NT$2K 三星行動電源",
+    "source": "patrol_318_skip"
+  },
   "1440719668": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 317 SKIP: <NT$2K 入門烏克麗麗",
     "source": "patrol_317_skip"
+  },
+  "1440719996": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: <NT$2K 旭光三合一烤箱",
+    "source": "patrol_318_skip"
+  },
+  "1440720467": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: ATK RS7 air 冰刃軸 鍵軸 niche",
+    "source": "patrol_318_skip"
+  },
+  "1440721080": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: MacBook Neo 粉紅 Apple 不存在的產品, 詐騙",
+    "source": "patrol_318_skip"
+  },
+  "1440721598": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: Jabra Speaker 750 MS 商用會議喇叭 niche",
+    "source": "patrol_318_skip"
+  },
+  "1440721962": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: SCUBAPRO 潛水防曬衣 niche",
+    "source": "patrol_318_skip"
+  },
+  "1440722412": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: 陳鏞基 2004 簽名球 球員 niche",
+    "source": "patrol_318_skip"
+  },
+  "1440722432": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: MSI RTX 2060 VENTUS 老顯卡風險 (挖礦損傷可能)",
+    "source": "patrol_318_skip"
+  },
+  "1440722526": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: ADATA DDR5 16G 5600 NT$4,800 vs 通路 NT$1,700 = 280% 暴貴",
+    "source": "patrol_318_skip"
+  },
+  "1440725077": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: Dyson V8 SV25 NT$3,700 = 46% 新 / 67% 二手 (過便宜警報, 八成電池衰退/缺件/翻新, vsSF -33% 對 Dyson 不對勁)",
+    "source": "patrol_318_skip"
+  },
+  "1440725926": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: YAMAHA FG-400D 收藏琴 樂器 niche",
+    "source": "patrol_318_skip"
+  },
+  "1440726692": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: 蔡依林+羅志祥 VCD 早期影視 niche",
+    "source": "patrol_318_skip"
+  },
+  "1440727497": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 318 SKIP: 可調式啞鈴無品牌 niche",
+    "source": "patrol_318_skip"
   }
 }
