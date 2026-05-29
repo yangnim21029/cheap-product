@@ -2906,6 +2906,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1429078553": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: <NT$2K 凱文柯恩 CD",
+    "source": "patrol_316_skip"
+  },
   "1429106472": {
     "skip": true,
     "newPrice": null,
@@ -2913,12 +2920,26 @@
     "note": "Patrol 308 SKIP: <NT$2K 蘇打綠 CD",
     "source": "patrol_308_skip"
   },
+  "1429129889": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: 集郵冊 早期郵票 niche",
+    "source": "patrol_316_skip"
+  },
   "1429138345": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 311 SKIP: <NT$2K 梁靜茹 CD",
     "source": "patrol_311_skip"
+  },
+  "1429141156": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: i7 7700K 7 代 2017 老 CPU NT$4K vs 二手 NT$1.5K = 270% 暴貴",
+    "source": "patrol_316_skip"
   },
   "1429142173": {
     "skip": true,
@@ -3853,6 +3874,13 @@
     "secondhand": null,
     "note": "Patrol 99 SKIP: ❤️ 絕版漂亮聖馬scooma$5800 面交自取高雄市左營區子華路111巷7號 ezshopee",
     "source": "manual_skip"
+  },
+  "1431870112": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: <NT$2K Human Power 無線",
+    "source": "patrol_316_skip"
   },
   "1431879922": {
     "newPrice": null,
@@ -11918,6 +11946,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1437755620": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: ThinkPad P51 2017 老工作站 7 代 i7/Xeon",
+    "source": "patrol_316_skip"
+  },
   "1437759549": {
     "skip": true,
     "note": "EarFun Air Pro 4+ $2,380 hankwu7987. ⚠ 賣家標「Air Pro 4+」但 $2,380 是 PChome/momo 基本款 Air Pro 4 特價, Plus 版新品 $3,280. 若實為基本款=新品價沒便宜, 若 Plus 版=73% 也只是邊緣不到 deal"
@@ -12659,6 +12694,13 @@
     "note": "螢幕 *典藏奇機*展示機出清-三星 SAMSUNG Galaxy Note 10+ 1 NT$4,500 phoneshop 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1437877979": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: Aurai 熱敷眼罩 邊緣 niche",
+    "source": "patrol_316_skip"
   },
   "1437878220": {
     "newPrice": null,
@@ -33670,5 +33712,67 @@
     "secondhand": null,
     "note": "Patrol 315 SKIP: PS4 PS5 遊戲片無細節型號未列",
     "source": "patrol_315_skip"
+  },
+  "1440700653": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: TurboCAD 2021 軟體授權不明 niche",
+    "source": "patrol_316_skip"
+  },
+  "1440700939": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: Switch Pokopia 卡帶 NT$2K vs 新預購 NT$1,490 過貴",
+    "source": "patrol_316_skip"
+  },
+  "1440701256": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: switch oled + 投影機套組投影機型號未列",
+    "source": "patrol_316_skip"
+  },
+  "1440702236": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: 金運 A30 山寨 AI 翻譯耳機 niche",
+    "source": "patrol_316_skip"
+  },
+  "1440702795": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: Wacom Intuos Pro PTH-660 NT$4K 持平二手中位",
+    "source": "patrol_316_skip"
+  },
+  "1440704332": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: Xbox Series X + 雙手把 NT$13,500 vs 新 NT$15,990 = 84% 持平",
+    "source": "patrol_316_skip"
+  },
+  "1440705401": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: Firecuda 530 1TB NT$4,400 vs 通路 NT$2,990 = 147% 暴貴",
+    "source": "patrol_316_skip"
+  },
+  "1440706078": {
+    "newPrice": 5190,
+    "secondhand": 3250,
+    "note": "Marshall Emberton II 全新品 NT$3,980 = 77% 新 / 122% 二手 (vs 新 -23% 但 vs 二手中位 +22%, 賣家全新 + 低於行情 = 平輸/福利品嫌疑)",
+    "source": "biggo+pchome 2026-05-29"
+  },
+  "1440706552": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 316 SKIP: <NT$2K 酷態科 PB060",
+    "source": "patrol_316_skip"
   }
 }
