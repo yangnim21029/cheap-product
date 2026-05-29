@@ -2788,6 +2788,13 @@
     "secondhand": null,
     "note": "Pintek DP-25 差動探棒 NT$3,500 niche 量測儀器 SKIP"
   },
+  "1428884942": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 高爾夫球杆 niche",
+    "source": "patrol_307_skip"
+  },
   "1428902938": {
     "source": "2026-05-28",
     "newPrice": 4990,
@@ -2836,6 +2843,13 @@
     "note": "PS5 收購遊戲主機 SWITCH2、PS5 主機、遊戲片、週邊 SWITCH2回收 （ NT$7,980 gordon740124768 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1429142173": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 五月天護照夾 <NT$2K 周邊",
+    "source": "patrol_307_skip"
   },
   "1429260811": {
     "newPrice": null,
@@ -4178,6 +4192,13 @@
     "secondhand": null,
     "note": "Patrol 112 SKIP: Gopro 11 bonnie1106",
     "source": "manual_skip"
+  },
+  "1432942793": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 潤羽露西婭 Vtuber 周邊 niche",
+    "source": "patrol_307_skip"
   },
   "1432945566": {
     "newPrice": null,
@@ -5529,6 +5550,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "富士印表機 epicforest NT$5,500 型號未列 SKIP"
+  },
+  "1434629780": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 鸚鵡發射器 niche",
+    "source": "patrol_307_skip"
   },
   "1434630768": {
     "newPrice": null,
@@ -11728,6 +11756,13 @@
     "note": "香氛 CRYBABY 愛神的眼淚系列香氛蠟燭 NT$500 香水/蠟燭/精油類SK<$2K門檻 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1437740897": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: I7 11700F+2060S 11代+老顯卡無折扣",
+    "source": "patrol_307_skip"
   },
   "1437741573": {
     "skip": true,
@@ -32739,11 +32774,135 @@
     "secondhand": null,
     "note": "烏克麗麗 aloha NT$500 < $2K 入門款 SKIP"
   },
+  "1440593910": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: <NT$2K 行動電源",
+    "source": "patrol_307_skip"
+  },
   "1440594127": {
     "source": "2026-05-29",
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "royalpenguin 雷擊棗木令牌張真人 NT$1,000 重複賣家+老物 SKIP"
+  },
+  "1440598484": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: royalpenguin 銅雕香爐 重複賣家+niche",
+    "source": "patrol_307_skip"
+  },
+  "1440599508": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 球鞋無型號",
+    "source": "patrol_307_skip"
+  },
+  "1440600315": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: Mac mini M4 NT$19,700 vs 新 NT$21,900 = 90% 沒折扣",
+    "source": "patrol_307_skip"
+  },
+  "1440600944": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 熊力裁紙機 niche",
+    "source": "patrol_307_skip"
+  },
+  "1440601481": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: AirPods Pro 初代電池基本爛",
+    "source": "patrol_307_skip"
+  },
+  "1440604147": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: CD #26 hashtag 解析錯+NT$960 過低",
+    "source": "patrol_307_skip"
+  },
+  "1440605341": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: GR3X NT$30K vs 新 NT$32,900 = 91% 沒折扣",
+    "source": "patrol_307_skip"
+  },
+  "1440606867": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 戰鬥陀螺分類錯+NT$12K 過貴",
+    "source": "patrol_307_skip"
+  },
+  "1440607407": {
+    "newPrice": 28900,
+    "secondhand": 18000,
+    "note": "MacBook Air M2 8/256 NT$18K = 62% 新 / 100% 二手 (持平, 貼齊二手中位; Apple 已停售)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440610228": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: <NT$2K 行動電源",
+    "source": "patrol_307_skip"
+  },
+  "1440610788": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: MX Master 4 NT$3,200 vs 新 NT$3,990 = 80% 沒折扣",
+    "source": "patrol_307_skip"
+  },
+  "1440611048": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: HP TPN-Q222 老筆電",
+    "source": "patrol_307_skip"
+  },
+  "1440611055": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: <NT$2K 食物調理機",
+    "source": "patrol_307_skip"
+  },
+  "1440611616": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: 早期巴卡拉水晶瓶 收藏 niche",
+    "source": "patrol_307_skip"
+  },
+  "1440611986": {
+    "newPrice": 28500,
+    "secondhand": 20000,
+    "note": "DJI Mini 4 Pro 長續航套裝 NT$22K = 77% 新 / 110% 二手 (持平偏好貨, 可殺至 NT$19-20K)",
+    "source": "biggo 2026-05-29"
+  },
+  "1440612357": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: Modern 15 11 代 i5 老筆電",
+    "source": "patrol_307_skip"
+  },
+  "1440614131": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 307 SKIP: BLADEZ 跑步機 大件+邊緣",
+    "source": "patrol_307_skip"
   }
 }
