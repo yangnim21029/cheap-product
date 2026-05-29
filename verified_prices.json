@@ -1135,6 +1135,13 @@
     "secondhand": null,
     "note": "石森 Woodstone 皮革束圈 NT$1,900 niche 樂器配件 SKIP"
   },
+  "1423161177": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 324 SKIP: CASIO XJ-V110W 投影機 CASIO 2018 退出投影機市場老庫存",
+    "source": "patrol_324_skip"
+  },
   "1423165919": {
     "newPrice": null,
     "secondhand": null,
@@ -34235,5 +34242,25 @@
     "secondhand": null,
     "note": "Patrol 322 SKIP: <NT$2K Aroma 桌上吉他音箱",
     "source": "patrol_322_skip"
+  },
+  "1440753690": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 324 SKIP: 小米 Buds 5 NT$2,100 vs 新 NT$2,599 = 81% 邊緣持平",
+    "source": "patrol_324_skip"
+  },
+  "1440753852": {
+    "newPrice": 5990,
+    "secondhand": 4500,
+    "note": "Shokz OpenDots E310 暮光紫 NT$3,300 = 55% 新 / 73% 二手 (殺價 -27%; E310 是 2025-08 上市 Shokz 當家耳夾, CES 2026 OpenFit Pro 不同產品線)",
+    "source": "biggo+thinkinggroup 2026-05-30"
+  },
+  "1440754428": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 324 SKIP: Apple MacBook Air 簡體中文標題規格全空白 詐騙嫌疑",
+    "source": "patrol_324_skip"
   }
 }
