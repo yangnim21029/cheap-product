@@ -34262,5 +34262,12 @@
     "secondhand": null,
     "note": "Patrol 324 SKIP: Apple MacBook Air 簡體中文標題規格全空白 詐騙嫌疑",
     "source": "patrol_324_skip"
+  },
+  "1440755642": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 325 SKIP: <NT$2K 義大利 1970 復古花瓶 早期收藏 niche",
+    "source": "patrol_325_skip"
   }
 }
