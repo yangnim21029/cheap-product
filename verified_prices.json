@@ -5428,6 +5428,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1434290641": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 320 SKIP: Dell 7060 MFF 商用迷你二手持平 (NT$3-5K)",
+    "source": "patrol_320_skip"
+  },
   "1434291949": {
     "newPrice": null,
     "secondhand": null,
@@ -34090,6 +34097,13 @@
     "note": "Patrol 319 SKIP: <NT$2K 杏里 夏盤 7\" 彩膠 邊緣持平",
     "source": "patrol_319_skip"
   },
+  "1440734742": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 320 SKIP: Acer Aspire N20H2 11 代入門輕薄",
+    "source": "patrol_320_skip"
+  },
   "1440736629": {
     "skip": true,
     "newPrice": null,
@@ -34110,5 +34124,39 @@
     "secondhand": null,
     "note": "Patrol 319 SKIP: <NT$2K Kala Makala 烏克麗麗",
     "source": "patrol_319_skip"
+  },
+  "1440740217": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 320 SKIP: 龍婆宋彭佛牌雕刻 古銅雕/老物 niche",
+    "source": "patrol_320_skip"
+  },
+  "1440740935": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 320 SKIP: <NT$2K 多張黑膠內容不明",
+    "source": "patrol_320_skip"
+  },
+  "1440742533": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 320 SKIP: MSI Katana 17 B13VEK NT$27K = 92% 新 / 117% 二手 (過貴 vsSF>100% + 規格疑點: B13VEK 官方是 4050 不是 4060, 賣家錯標或改 BIOS)",
+    "source": "patrol_320_skip"
+  },
+  "1440742638": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 320 SKIP: Lenovo L340 Gaming 9 代 i5 老電競筆電",
+    "source": "patrol_320_skip"
+  },
+  "1440742769": {
+    "newPrice": 28300,
+    "secondhand": 22000,
+    "note": "GIGABYTE G5 KF5 i7-13620H+4060 16G NT$26,500 = 94% 新 / 120% 二手 (file 過貴 vsSF>100%; 雙風扇積灰常見, 電池循環現場驗)",
+    "source": "biggo 2026-05-30"
   }
 }
