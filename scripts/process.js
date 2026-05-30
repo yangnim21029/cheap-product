@@ -247,6 +247,8 @@ candidates.forEach(d => {
     needVerify.push(d);
     return;
   }
+  // skip=true 表示已驗過判定不入桶 (過貴 / 太甜風險 / niche / 殘值末段) — 不論 newPrice/secondhand 有沒有寫
+  if (v.skip === true) return;
   const vsNew = v.newPrice ? Math.round(d.price / v.newPrice * 100) : null;
   const vsSecondhand = v.secondhand ? Math.round(d.price / v.secondhand * 100) : null;
   const passNew = vsNew !== null && vsNew <= 30;
