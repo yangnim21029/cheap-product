@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/30 13:01:44 · 累積已看 13377 筆 · 125 位賣家黑名單
+> 2026/5/30 14:02:39 · 累積已看 13377 筆 · 125 位賣家黑名單
 
 **待審：** 好貨 3 ｜ 殺價 4 ｜ 手動 0 ｜ 待查 0
 
@@ -12,9 +12,9 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [iPhone] 【實體雙卡】iPhone 12 PRO 128G 藍色 6.1吋 蘋果 二手機 台北 快速 | **NT$5,300** | 二手$8000 | 66% 二手 | Lightly used | 05/29 22:01 | [→](https://tw.carousell.com/p/1440708626/) |
+| [iPhone] 【實體雙卡】iPhone 12 PRO 128G 藍色 6.1吋 蘋果 二手機 台北 快速 | **NT$5,300** | 二手$8000 | 66% 二手 | Lightly used | 05/29 22:02 | [→](https://tw.carousell.com/p/1440708626/) |
 | [iPhone] iPhone 12 128g | **NT$4,700** | 二手$7000 | 67% 二手 | Lightly used | 05/29 14:03 | [→](https://tw.carousell.com/p/1440625099/) |
-| [iPhone] iPhone 11 128GB | **NT$3,060** | 二手$5000 | 61% 二手 | Lightly used | 05/26 13:01 | [→](https://tw.carousell.com/p/1440050482/) |
+| [iPhone] iPhone 11 128GB | **NT$3,060** | 二手$5000 | 61% 二手 | Lightly used | 05/26 14:02 | [→](https://tw.carousell.com/p/1440050482/) |
 
 ## 🟡 殺價（4）
 
@@ -22,10 +22,10 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [iPhone] iPhone 12 64 | **NT$4,000** | 二手$5500 | 73% 二手 | Lightly used | 05/30 00:01 | [→](https://tw.carousell.com/p/1440728080/) |
-| [iPhone] iPhone 13 128g藍色 | **NT$6,000** | 二手$8000 | 75% 二手 | Lightly used | 05/28 13:01 | [→](https://tw.carousell.com/p/1434734994/) |
-| [iPhone] iPhone 11 Pro Max 256 綠 85% | **NT$6,000** | 二手$7200 | 83% 二手 | Lightly used | 05/28 13:01 | [→](https://tw.carousell.com/p/1440545654/) |
-| [iPhone] iPhone 11 128G 白色 可貼換 | **NT$3,600** | 二手$5000 | 72% 二手 | Lightly used | 05/28 13:01 | [→](https://tw.carousell.com/p/1434589587/) |
+| [iPhone] iPhone 12 64 | **NT$4,000** | 二手$5500 | 73% 二手 | Lightly used | 05/30 00:02 | [→](https://tw.carousell.com/p/1440728080/) |
+| [iPhone] iPhone 13 128g藍色 | **NT$6,000** | 二手$8000 | 75% 二手 | Lightly used | 05/28 14:02 | [→](https://tw.carousell.com/p/1434734994/) |
+| [iPhone] iPhone 11 Pro Max 256 綠 85% | **NT$6,000** | 二手$7200 | 83% 二手 | Lightly used | 05/28 14:02 | [→](https://tw.carousell.com/p/1440545654/) |
+| [iPhone] iPhone 11 128G 白色 可貼換 | **NT$3,600** | 二手$5000 | 72% 二手 | Lightly used | 05/28 14:02 | [→](https://tw.carousell.com/p/1434589587/) |
 
 
 ---
