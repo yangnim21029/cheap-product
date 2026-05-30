@@ -2837,6 +2837,13 @@
     "secondhand": null,
     "note": "歐力士猛牛山下舜平大客場球衣 NT$2,500 < $3K 棒球 niche SKIP"
   },
+  "1428658704": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 349 SKIP: BREG 充氣復健鞋 醫療 niche",
+    "source": "patrol_349_skip"
+  },
   "1428669648": {
     "source": "2026-05-27",
     "skip": true,
@@ -36324,6 +36331,13 @@
     "note": "Patrol 345 SKIP: Panasonic NB-F3200 32L 全新 NT$3,499 = 111% 新 / 163% 二手 (過貴, 比 Coupang 新品還貴 NT$341; 我先誤估新品 NT$5,990 實際 NT$3,158)",
     "source": "biggo 2026-05-31"
   },
+  "1440938744": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 349 SKIP: <NT$2K 白夜花路 BL 韓漫地毯小卡 周邊",
+    "source": "patrol_349_skip"
+  },
   "1440939270": {
     "skip": true,
     "newPrice": null,
@@ -36456,5 +36470,12 @@
     "secondhand": 4800,
     "note": "Patrol 348 SKIP: DJI Action 2 NT$4,300 = 90% 二手 (邊緣; 停產無新品錨點, Action 5/5 Pro 主流取代殘值末段續跌, 轉售空間窄, 只有自用即用即丟才入手)",
     "source": "patrol_348_skip"
+  },
+  "1440948060": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 349 SKIP: Salomon Activ Skin 8 越野跑背心 戶外 niche",
+    "source": "patrol_349_skip"
   }
 }
