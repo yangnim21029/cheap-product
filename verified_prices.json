@@ -1343,6 +1343,13 @@
     "note": "Patrol 331 SKIP: <NT$2K Electrolux 果汁機過保",
     "source": "patrol_331_skip"
   },
+  "1423828658": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: <NT$2K Prince 1999 LP 老黑膠",
+    "source": "patrol_333_skip"
+  },
   "1423925401": {
     "newPrice": null,
     "secondhand": null,
@@ -6133,6 +6140,13 @@
     "note": "Patrol 314 SKIP: Sony 70-400G G/G2 未列, 一字差價兩倍, 賣家含糊",
     "source": "patrol_314_skip"
   },
+  "1434968574": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: BLACKPINK FLOWER GO WALK 偶像周邊+山寨遊戲機",
+    "source": "patrol_333_skip"
+  },
   "1434976013": {
     "skip": true,
     "newPrice": null,
@@ -6203,6 +6217,13 @@
     "note": "Patrol 331 SKIP: Pomarico 豎笛水晶吹嘴 樂器 niche",
     "source": "patrol_331_skip"
   },
+  "1435058017": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: Taylor 214ce K DLX 吉他 樂器 niche",
+    "source": "patrol_333_skip"
+  },
   "1435066185": {
     "newPrice": null,
     "secondhand": null,
@@ -6271,6 +6292,13 @@
     "secondhand": null,
     "note": "Patrol 331 SKIP: <NT$2K GD 權志龍積木周邊",
     "source": "patrol_331_skip"
+  },
+  "1435143267": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: <NT$2K NIKKO 機械節拍器",
+    "source": "patrol_333_skip"
   },
   "1435148242": {
     "newPrice": null,
@@ -34716,6 +34744,13 @@
     "note": "Patrol 330 SKIP: Mac Pro Late 2013 骨灰罈 11 年前古董收藏 niche",
     "source": "patrol_330_skip"
   },
+  "1440784178": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: <NT$2K Switch 瑪莉歐卡帶套組",
+    "source": "patrol_333_skip"
+  },
   "1440784456": {
     "skip": true,
     "newPrice": null,
@@ -34861,11 +34896,88 @@
     "note": "Apple Watch S10 46mm GPS 黑 NT$8,800 = 69% 新 / 110% 二手 (file 過貴; PChome 整新品 NT$9,200 含半年保更划算; S11 已出 S10 殘值縮)",
     "source": "biggo+jyes 2026-05-30"
   },
+  "1440811170": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: iPhone 12 mini 128 J5 NT$5K 跟 patrol 329 同款同價持平",
+    "source": "patrol_333_skip"
+  },
   "1440811518": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 332 SKIP: Wacom Intuos Pro PTH-660 NT$6K (上輪 patrol 316 NT$4K 已 file 持平, NT$6K 過貴)",
     "source": "patrol_332_skip"
+  },
+  "1440816441": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: 日版對戰夥伴 寶可夢卡 niche 連發",
+    "source": "patrol_333_skip"
+  },
+  "1440816654": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: <NT$2K 木吉他",
+    "source": "patrol_333_skip"
+  },
+  "1440816756": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: 日版狂野之力 寶可夢卡 niche",
+    "source": "patrol_333_skip"
+  },
+  "1440816859": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: 郵票三本 郵票 niche",
+    "source": "patrol_333_skip"
+  },
+  "1440817452": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: <NT$2K 終極一家 CD",
+    "source": "patrol_333_skip"
+  },
+  "1440817865": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: WD 紫標 6TB NT$7,500 vs 通路 NT$4,490 = 167% 暴貴",
+    "source": "patrol_333_skip"
+  },
+  "1440819020": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: 明治 27 年龍銀 鴻兔小舖 錢幣 niche 連發",
+    "source": "patrol_333_skip"
+  },
+  "1440819557": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: FLUX beamo 30W 雷射雕刻機 工具 niche",
+    "source": "patrol_333_skip"
+  },
+  "1440820013": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: iPhone XR 64G NT$3,500 持平偏貴 (二手 NT$2-3K)",
+    "source": "patrol_333_skip"
+  },
+  "1440823923": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 333 SKIP: 明治 28 年龍銀 鴻兔小舖 錢幣 niche 連發",
+    "source": "patrol_333_skip"
   }
 }
