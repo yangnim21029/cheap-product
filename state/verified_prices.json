@@ -36156,6 +36156,20 @@
     "note": "Patrol 343 SKIP: Steam Deck LCD 1TB NT$12K = 102% 二手 (邊緣; LCD 已停售 OLED 取代殘值築底; 蝦皮拼裝改 1TB 機風險, G-Apple 商家保固 NT$12,200 反而便宜)",
     "source": "patrol_343_skip"
   },
+  "1440924085": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: 碳纖維波浪輪 自行車輪組 niche",
+    "source": "patrol_344_skip"
+  },
+  "1440924214": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: Medicube AGE-R Booster Pro 美容儀 niche",
+    "source": "patrol_344_skip"
+  },
   "1440924688": {
     "skip": true,
     "newPrice": null,
@@ -36204,5 +36218,68 @@
     "secondhand": null,
     "note": "Patrol 343 SKIP: <NT$2K 夏奇拉 2000 CD",
     "source": "patrol_343_skip"
+  },
+  "1440931793": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: <NT$2K iWALK 五代",
+    "source": "patrol_344_skip"
+  },
+  "1440931928": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: <NT$2K 地縛少年花子君寧寧盤",
+    "source": "patrol_344_skip"
+  },
+  "1440932033": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: MacBook Air M2 2024 8/256 NT$18,500 (patrol 307 同款 NT$18,000 已 file 持平 100% 二手, 此次更貴)",
+    "source": "patrol_344_skip"
+  },
+  "1440932103": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: 田柾國 BTS WINGS 畫卡 偶像周邊 niche",
+    "source": "patrol_344_skip"
+  },
+  "1440933957": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: iMac 21.5 2012 A1418 13 年前老機",
+    "source": "patrol_344_skip"
+  },
+  "1440934886": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: 邁瑟倫車用應急啟動電源 山寨 niche",
+    "source": "patrol_344_skip"
+  },
+  "1440935364": {
+    "skip": true,
+    "newPrice": 23000,
+    "secondhand": 19500,
+    "note": "Patrol 344 SKIP: SONY ZV-1 II 24 月保固 NT$20K = 87% 新 / 103% 二手 (file 過貴; 裸機 24 月保固撐不起溢價, 待 NT$16,500 以下再看)",
+    "source": "patrol_344_skip"
+  },
+  "1440935547": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: Nvidia RTX 2080 NT$12K vs 二手 NT$5-7K = 170%+ 暴貴",
+    "source": "patrol_344_skip"
+  },
+  "1440936223": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 344 SKIP: GoPro Media Mod 配件 niche",
+    "source": "patrol_344_skip"
   }
 }
