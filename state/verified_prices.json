@@ -36149,6 +36149,13 @@
     "note": "Apple Magic Keyboard A2520 含 Touch ID 數字鍵 全配 NT$3,000 = 64% 新 / 71% 二手 (殺價; A2520 是 Lightning 世代, USB-C A3177 已接替屬上一代)",
     "source": "biggo+apple 2026-05-31"
   },
+  "1440923087": {
+    "skip": true,
+    "newPrice": 3980,
+    "secondhand": 3400,
+    "note": "Patrol 346 SKIP: Fiio JT7 NT$2,700 = 68% 新 / 79% 二手 (新品 2025-12 首發半年內出二手 = 仿品/瑕疵/退貨機嫌疑; 省 NT$1,280 換掉 PChome 保固不值)",
+    "source": "biggo 2026-05-31"
+  },
   "1440923304": {
     "skip": true,
     "newPrice": null,
@@ -36351,5 +36358,54 @@
     "secondhand": null,
     "note": "Patrol 345 SKIP: Intel 245K+245KF+RAM+ROG B860-i 套組標題混亂 NT$5.5K 太甜風險",
     "source": "patrol_345_skip"
+  },
+  "1440940981": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 346 SKIP: Switch 2 Pro 手把 NT$2,050 vs 新 NT$2,490 = 82% 邊緣",
+    "source": "patrol_346_skip"
+  },
+  "1440941446": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 346 SKIP: <NT$2K 諾蘭敦克爾大行動 DVD",
+    "source": "patrol_346_skip"
+  },
+  "1440941625": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 346 SKIP: <NT$2K SuiSavon 御城香皂",
+    "source": "patrol_346_skip"
+  },
+  "1440941672": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 346 SKIP: Insta360 Ace Pro 2 NT$12K = 94% 新 (patrol 335 同款 NT$15K 已 verify 過貴, 此次便宜 NT$3K 仍貼新品下緣)",
+    "source": "patrol_346_skip"
+  },
+  "1440942066": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 346 SKIP: <NT$2K SuiSavon 太陽香皂",
+    "source": "patrol_346_skip"
+  },
+  "1440942308": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 346 SKIP: 山寨踏步機 niche",
+    "source": "patrol_346_skip"
+  },
+  "1440942948": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 346 SKIP: <NT$2K SuiSavon 那霸機場店限定香皂",
+    "source": "patrol_346_skip"
   }
 }
