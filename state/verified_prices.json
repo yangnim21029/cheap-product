@@ -34337,6 +34337,13 @@
     "note": "Patrol 318 SKIP: Canon SD790/IXUS 90 2008 老 DC",
     "source": "patrol_318_skip"
   },
+  "1440711713": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 347 SKIP: iPhone 13 Pro 256G 女用機 NT$6K 太甜詐騙嫌疑 (二手 NT$13-15K, 跟 patrol 329 同套路)",
+    "source": "patrol_347_skip"
+  },
   "1440713208": {
     "newPrice": 35990,
     "secondhand": 28000,
@@ -36401,11 +36408,46 @@
     "note": "Patrol 346 SKIP: 山寨踏步機 niche",
     "source": "patrol_346_skip"
   },
+  "1440942603": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 347 SKIP: <NT$2K 山寨打分機/磨豆機",
+    "source": "patrol_347_skip"
+  },
   "1440942948": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 346 SKIP: <NT$2K SuiSavon 那霸機場店限定香皂",
     "source": "patrol_346_skip"
+  },
+  "1440943039": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 347 SKIP: <NT$2K SuiSavon 幽夜香皂",
+    "source": "patrol_347_skip"
+  },
+  "1440943697": {
+    "skip": true,
+    "newPrice": 24400,
+    "secondhand": 19750,
+    "note": "Patrol 347 SKIP: Canon R50+RF 50mm F1.8 套組 NT$20K = 82% 新 / 101% 二手 (邊緣過貴, 整套不如拆買 body+鏡組湊; R50 V 2025 vlog 特化版不直取代但二手量大跌價快, 等 vsSF ≤90% 再看)",
+    "source": "biggo+dcfever 2026-05-31"
+  },
+  "1440943888": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 347 SKIP: 山寨純鈦茶壺戶外 niche",
+    "source": "patrol_347_skip"
+  },
+  "1440944606": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 347 SKIP: <NT$2K OHSCENT x ZO 香氛片",
+    "source": "patrol_347_skip"
   }
 }
