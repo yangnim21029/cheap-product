@@ -6388,6 +6388,20 @@
     "note": "Patrol 331 SKIP: Horizon 202 底片相機 2010 已停產 niche",
     "source": "patrol_331_skip"
   },
+  "1435152668": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: 「白色 [G735]」品牌未列 (Logitech G735?)",
+    "source": "patrol_340_skip"
+  },
+  "1435154270": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: Rosie Rosé朴彩英 帽踢 偶像周邊 niche",
+    "source": "patrol_340_skip"
+  },
   "1435167100": {
     "newPrice": 6000,
     "secondhand": null,
@@ -35669,5 +35683,89 @@
     "secondhand": null,
     "note": "Patrol 339 SKIP: 二手單機寶可夢 Switch 不寫主機/卡帶",
     "source": "patrol_339_skip"
+  },
+  "1440891504": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: Warpple LS7 Pro 投影機 小品牌 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440892577": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: 比利時紀念幣 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440893598": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: Sharp KC-JD50T 水活力清淨機 老款 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440894082": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: <NT$2K 放克牙寶",
+    "source": "patrol_340_skip"
+  },
+  "1440895172": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: Snow Peak 紗網折疊板凳 LV-071M-BK 戶外椅 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440895663": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: Snow Peak 折疊板凳 LV-071RD 戶外椅 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440896609": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: <NT$2K 早期美金台幣 42 個 錢幣 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440896765": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: 鴻兔小舖明治 45 年龍銀 第 5 輪連發錢幣 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440896870": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: Apple Watch SE 沒寫 40/44mm 尺寸",
+    "source": "patrol_340_skip"
+  },
+  "1440897358": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: <NT$2K 布袋戲光碟",
+    "source": "patrol_340_skip"
+  },
+  "1440901003": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: 鴻兔小舖大正 3 年龍銀 第 5 輪連發錢幣 niche",
+    "source": "patrol_340_skip"
+  },
+  "1440902754": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 340 SKIP: 墨將烈風 2 山寨手柄 niche",
+    "source": "patrol_340_skip"
   }
 }
