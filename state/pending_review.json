@@ -25,7 +25,7 @@
     },
     {
       "seller": "qqq7276185",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "Iphone XS max 256g",
       "price": 3050,
       "condition": "Like new",
@@ -50,7 +50,7 @@
   "negotiate": [
     {
       "seller": "kingjlin12-52731",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
       "price": 4390,
       "condition": "Brand new",
@@ -73,7 +73,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 巧控鍵盤",
       "price": 3000,
       "condition": "Like new",
@@ -93,6 +93,30 @@
       },
       "vsNew": 64,
       "vsSecondhand": 71
+    },
+    {
+      "seller": "coco8903",
+      "timeAgo": "1 hour ago",
+      "title": "DJI Action2 磁吸運動攝影機",
+      "price": 4300,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440944841/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$4,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 05:01",
+      "pid": "1440944841",
+      "verified": {
+        "skip": true,
+        "newPrice": null,
+        "secondhand": 4800,
+        "note": "Patrol 348 SKIP: DJI Action 2 NT$4,300 = 90% 二手 (邊緣; 停產無新品錨點, Action 5/5 Pro 主流取代殘值末段續跌, 轉售空間窄, 只有自用即用即丟才入手)",
+        "source": "patrol_348_skip"
+      },
+      "vsNew": null,
+      "vsSecondhand": 90
     }
   ],
   "uncertain": []

@@ -36449,5 +36449,12 @@
     "secondhand": null,
     "note": "Patrol 347 SKIP: <NT$2K OHSCENT x ZO 香氛片",
     "source": "patrol_347_skip"
+  },
+  "1440944841": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 4800,
+    "note": "Patrol 348 SKIP: DJI Action 2 NT$4,300 = 90% 二手 (邊緣; 停產無新品錨點, Action 5/5 Pro 主流取代殘值末段續跌, 轉售空間窄, 只有自用即用即丟才入手)",
+    "source": "patrol_348_skip"
   }
 }
