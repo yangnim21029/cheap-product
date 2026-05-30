@@ -68,6 +68,52 @@
       },
       "vsNew": null,
       "vsSecondhand": 61
+    },
+    {
+      "seller": "ashin524",
+      "timeAgo": "9 minutes ago",
+      "title": "蘋果 Apple watch S7 41mm 不鏽鋼 太空灰",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440842913/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 16:53",
+      "pid": "1440842913",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 8250,
+        "note": "Apple Watch S7 41mm 不鏽鋼太空灰 NT$5,000 = 61% 二手 (好貨; S7 LTE 不鏽鋼 EOL 二手中位 NT$8K, 須驗電池/序號/是否含 LTE)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 61
+    },
+    {
+      "seller": "tw880",
+      "timeAgo": "54 minutes ago",
+      "title": "BOSE QuietComfort 45耳罩式藍牙無線消噪耳機 霧白色",
+      "price": 3500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440838142/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 16:08",
+      "pid": "1440838142",
+      "verified": {
+        "newPrice": 7980,
+        "secondhand": 5000,
+        "note": "Bose QC45 霧白 NT$3,500 = 44% 新 / 70% 二手 (好貨; 已被 QC Ultra 取代殘值下行, 須驗耳罩海綿+ANC 功能)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": 44,
+      "vsSecondhand": 70
     }
   ],
   "negotiate": [
@@ -162,6 +208,29 @@
       },
       "vsNew": null,
       "vsSecondhand": 72
+    },
+    {
+      "seller": "judyh1234",
+      "timeAgo": "36 minutes ago",
+      "title": "Balmuda the Toast pro 百慕達蒸汽烤箱 K11C-SE",
+      "price": 7990,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1440840682/",
+      "category": "烤箱",
+      "maxDays": 7,
+      "priceStr": "NT$7,990",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 16:26",
+      "pid": "1440840682",
+      "verified": {
+        "newPrice": 12990,
+        "secondhand": 9390,
+        "note": "Balmuda Toast Pro K11C-SE NT$7,990 = 62% 新 / 85% 二手 (殺價; 略低於新品 NT$9,390 最低, 須驗原廠水箱+蒸氣噴頭+清潔狀況)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": 62,
+      "vsSecondhand": 85
     }
   ],
   "uncertain": []
