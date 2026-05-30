@@ -1350,6 +1350,13 @@
     "note": "Patrol 331 SKIP: <NT$2K Electrolux 果汁機過保",
     "source": "patrol_331_skip"
   },
+  "1423803236": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K MINIQ MD-BP-056-Qi",
+    "source": "patrol_341_skip"
+  },
   "1423820540": {
     "skip": true,
     "newPrice": null,
@@ -1389,6 +1396,13 @@
     "secondhand": null,
     "note": "Patrol 110 SKIP: 祖馬龍香氛165ml英國梨與小蒼蘭 newlion-b57cdd",
     "source": "manual_skip"
+  },
+  "1423955350": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K Hoshi Seventeen 坐娃 偶像周邊",
+    "source": "patrol_341_skip"
   },
   "1423965032": {
     "newPrice": null,
@@ -3121,6 +3135,20 @@
     "note": "Patrol 331 SKIP: 復古多功能黑膠唱片機山寨",
     "source": "patrol_331_skip"
   },
+  "1429232811": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: 小葉紫檀古箏 163cm 樂器 niche",
+    "source": "patrol_341_skip"
+  },
+  "1429259406": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K Momax 1-power mini",
+    "source": "patrol_341_skip"
+  },
   "1429260811": {
     "newPrice": null,
     "secondhand": null,
@@ -3148,6 +3176,20 @@
     "secondhand": null,
     "note": "Patrol 339 SKIP: Salomon X-ALP MID GTX 登山靴 鞋 niche",
     "source": "patrol_339_skip"
+  },
+  "1429295053": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K 米希亞 CD",
+    "source": "patrol_341_skip"
+  },
+  "1429297096": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: SG909 SJRC 山寨 drone niche",
+    "source": "patrol_341_skip"
   },
   "1429319800": {
     "skip": true,
@@ -6298,6 +6340,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1435080795": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K Rovner 豎笛束圈",
+    "source": "patrol_341_skip"
+  },
   "1435089497": {
     "newPrice": null,
     "secondhand": null,
@@ -6339,6 +6388,12 @@
     "source": "2026-05-15",
     "skip": true
   },
+  "1435096703": {
+    "newPrice": 5490,
+    "secondhand": 5200,
+    "note": "技嘉 B650M AORUS ELITE AX ICE 白主板 NT$4,390 = 80% 新 / 84% 二手 (殺價 -20% off 新; 注意是否拆封品或缺保固卡)",
+    "source": "biggo 2026-05-30"
+  },
   "1435097570": {
     "newPrice": null,
     "secondhand": null,
@@ -6352,6 +6407,13 @@
     "note": "露營 【110V迷你】小冰箱 家用小型冰箱 面膜母乳冷藏保溫箱 便攜靜音車用冰箱 戶外 NT$2,294 noble_a5768549 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1435119008": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: 電競電腦 #26 配置未列",
+    "source": "patrol_341_skip"
   },
   "1435138967": {
     "skip": true,
@@ -34458,6 +34520,13 @@
     "note": "Patrol 319 SKIP: <NT$2K 杏里 夏盤 7\" 彩膠 邊緣持平",
     "source": "patrol_319_skip"
   },
+  "1440734170": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: MSI Cyborg 15 規格未列 (CPU/RAM/GPU 都沒)",
+    "source": "patrol_341_skip"
+  },
   "1440734742": {
     "skip": true,
     "newPrice": null,
@@ -35698,6 +35767,20 @@
     "note": "Patrol 340 SKIP: 比利時紀念幣 niche",
     "source": "patrol_340_skip"
   },
+  "1440893123": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K iWALK 行動電源",
+    "source": "patrol_341_skip"
+  },
+  "1440893252": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: 洗臉美容儀品牌型號未列",
+    "source": "patrol_341_skip"
+  },
   "1440893598": {
     "skip": true,
     "newPrice": null,
@@ -35754,6 +35837,12 @@
     "note": "Patrol 340 SKIP: <NT$2K 布袋戲光碟",
     "source": "patrol_340_skip"
   },
+  "1440899209": {
+    "newPrice": 3200,
+    "secondhand": 2800,
+    "note": "大金 MC30YSCT 全新 NT$3,000 = 94% 新 / 107% 二手 (file 持平; 我先誤標太甜混到 MC55/MCK70 大坪數機種, MC30 是小坪數通路 NT$3-3.5K)",
+    "source": "biggo+pchome 2026-05-30"
+  },
   "1440901003": {
     "skip": true,
     "newPrice": null,
@@ -35767,5 +35856,68 @@
     "secondhand": null,
     "note": "Patrol 340 SKIP: 墨將烈風 2 山寨手柄 niche",
     "source": "patrol_340_skip"
+  },
+  "1440904406": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: NDS 初代機 + 卡帶 老主機 niche",
+    "source": "patrol_341_skip"
+  },
+  "1440904415": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: mini LiPlay NT$3,780 vs 新 NT$4,990 = 76% 拍立得邊緣",
+    "source": "patrol_341_skip"
+  },
+  "1440905602": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: PS5 Slim 光碟 NT$12K vs 新 NT$15,990 = 75% 持平偏邊緣",
+    "source": "patrol_341_skip"
+  },
+  "1440905723": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K Oster 果汁機",
+    "source": "patrol_341_skip"
+  },
+  "1440907159": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: Bose Flex II 全新 NT$4,200 vs 新 NT$4,990 = 84% 邊緣持平",
+    "source": "patrol_341_skip"
+  },
+  "1440910534": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K Ghost fire reverb 效果器",
+    "source": "patrol_341_skip"
+  },
+  "1440910869": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K Pedaltrain Metro 16 樂器配件",
+    "source": "patrol_341_skip"
+  },
+  "1440911169": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: <NT$2K D Addario 導線 樂器配件",
+    "source": "patrol_341_skip"
+  },
+  "1440912772": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 341 SKIP: 傳說對決台灣美食珍藏卡組 卡牌 niche",
+    "source": "patrol_341_skip"
   }
 }

@@ -24,6 +24,30 @@
       "vsSecondhand": 68
     }
   ],
-  "negotiate": [],
+  "negotiate": [
+    {
+      "seller": "kingjlin12-52731",
+      "timeAgo": "42 minutes ago",
+      "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
+      "price": 4390,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1435096703/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,390",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 22:21",
+      "pid": "1435096703",
+      "verified": {
+        "newPrice": 5490,
+        "secondhand": 5200,
+        "note": "技嘉 B650M AORUS ELITE AX ICE 白主板 NT$4,390 = 80% 新 / 84% 二手 (殺價 -20% off 新; 注意是否拆封品或缺保固卡)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": 80,
+      "vsSecondhand": 84
+    }
+  ],
   "uncertain": []
 }
