@@ -3080,6 +3080,13 @@
     "note": "Patrol 318 SKIP: GoPro Hero 10 NT$7K 持平 (新 NT$13.9K 二手 NT$5-7K)",
     "source": "patrol_318_skip"
   },
+  "1429153678": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: <NT$2K 灌籃高手快閃週邊",
+    "source": "patrol_337_skip"
+  },
   "1429164660": {
     "skip": true,
     "newPrice": null,
@@ -6216,6 +6223,12 @@
     "note": "手沖 女鞋-MioShoes 推出的 「真皮沖孔水鑽厚底休閒鞋」（尺寸：25cm)(二手） NT$550 入門中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1435024579": {
+    "newPrice": 13300,
+    "secondhand": 8500,
+    "note": "SONY SEL35F18 APSC E 環 公司貨 NT$7,000 = 53% 新 / 82% 二手 (殺價; 35mm 定焦無直接後繼殘值穩)",
+    "source": "biggo 2026-05-30"
   },
   "1435042867": {
     "newPrice": null,
@@ -35113,6 +35126,13 @@
     "note": "Patrol 334 SKIP: ASUS ZenWiFi BD5 BE5000 二入 NT$5,000 vs 新品折扣 NT$5,199 只省 NT$199 (vsNew 83%, 新機剛上市二手中位貼齊新品折扣價, 直接買新品有保固更划算)",
     "source": "patrol_334_skip"
   },
+  "1440836756": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: <NT$2K Q哥固態磁吸",
+    "source": "patrol_337_skip"
+  },
   "1440837176": {
     "skip": true,
     "newPrice": null,
@@ -35146,6 +35166,13 @@
     "secondhand": 5000,
     "note": "Bose QC45 霧白 NT$3,500 = 44% 新 / 70% 二手 (好貨; 已被 QC Ultra 取代殘值下行, 須驗耳罩海綿+ANC 功能)",
     "source": "biggo 2026-05-30"
+  },
+  "1440839726": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: Heran 無線吸塵器型號未列",
+    "source": "patrol_337_skip"
   },
   "1440840682": {
     "newPrice": 12990,
@@ -35207,6 +35234,20 @@
     "secondhand": null,
     "note": "Patrol 335 SKIP: 早期銅雕財神爺 古銅雕 niche 連發",
     "source": "patrol_335_skip"
+  },
+  "1440845668": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: 19 世紀雙獅文鎮 古銅雕 niche",
+    "source": "patrol_337_skip"
+  },
+  "1440846931": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: <NT$2K Youssoful Hyperion 50ml",
+    "source": "patrol_337_skip"
   },
   "1440847023": {
     "skip": true,
@@ -35298,6 +35339,20 @@
     "note": "Patrol 336 SKIP: 早期純銅釋迦摩尼佛尊 #14 古銅雕連發 niche",
     "source": "patrol_336_skip"
   },
+  "1440853497": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: 早期銅件釋迦摩尼 #15 古銅雕 niche 連發",
+    "source": "patrol_337_skip"
+  },
+  "1440853614": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: 紫砂佛陀像 niche",
+    "source": "patrol_337_skip"
+  },
   "1440854835": {
     "skip": true,
     "newPrice": null,
@@ -35353,11 +35408,80 @@
     "note": "Patrol 336 SKIP: Scoot 平衡車玩具 niche",
     "source": "patrol_336_skip"
   },
+  "1440861058": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: <NT$2K 3M 超濾淨 6 坪",
+    "source": "patrol_337_skip"
+  },
   "1440861265": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 336 SKIP: Acer SA322QK 4K 螢幕 NT$5,000 = 83% 新 / 88% 二手 (只省 NT$999, VA 面板亮點/背光不均風險不對稱, 末段現役機)",
     "source": "patrol_336_skip"
+  },
+  "1440861506": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: 羅技 G560 NT$2.5K 邊緣老款電競喇叭",
+    "source": "patrol_337_skip"
+  },
+  "1440861674": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: ASUS GTX 1060 6G 雪原豹 2016 老顯卡 NT$3.1K vs 二手 NT$1.5-2K 過貴",
+    "source": "patrol_337_skip"
+  },
+  "1440862342": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: Samsung EX2F 2012 年老 DC 機皇玩家收藏",
+    "source": "patrol_337_skip"
+  },
+  "1440862653": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: 吉他無品牌 樂器 niche",
+    "source": "patrol_337_skip"
+  },
+  "1440864158": {
+    "newPrice": 5690,
+    "secondhand": 4750,
+    "note": "Nothing Headphone (a) 全新公司貨 NT$4,300 = 76% 新 / 91% 二手 (file 持平; 比新品最低 NT$5,290 只省 NT$990, 2024 新品殘值仍跌)",
+    "source": "biggo 2026-05-30"
+  },
+  "1440868152": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: <NT$2K 娃娃機雜物魯夫行動電源",
+    "source": "patrol_337_skip"
+  },
+  "1440869154": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: Meta Quest 3S 128G 無盒過保 NT$10,800 vs 新 NT$11,990 = 90% 持平偏貴",
+    "source": "patrol_337_skip"
+  },
+  "1440871914": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: Helinox Chair One Blackout LE NT$2,500 = 79% 新 / 111% 二手 (過貴; 新品 NT$3,150 + (re) 已取代殘值掉, 二手應壓 NT$2,000-2,200)",
+    "source": "patrol_337_skip"
+  },
+  "1440871951": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 337 SKIP: NUX DA-30BT 電子鼓音箱 樂器 niche",
+    "source": "patrol_337_skip"
   }
 }

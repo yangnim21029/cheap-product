@@ -71,17 +71,17 @@
     },
     {
       "seller": "ashin524",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "蘋果 Apple watch S7 41mm 不鏽鋼 太空灰",
       "price": 5000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1440842913/",
-      "category": "",
-      "maxDays": 1,
+      "category": "apple watch",
+      "maxDays": 3,
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 17:17",
+      "listedAt": "05/30 17:04",
       "pid": "1440842913",
       "verified": {
         "newPrice": null,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "tw880",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "BOSE QuietComfort 45耳罩式藍牙無線消噪耳機 霧白色",
       "price": 3500,
       "condition": "Lightly used",
@@ -104,7 +104,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 16:17",
+      "listedAt": "05/30 16:04",
       "pid": "1440838142",
       "verified": {
         "newPrice": 7980,
@@ -114,6 +114,29 @@
       },
       "vsNew": 44,
       "vsSecondhand": 70
+    },
+    {
+      "seller": "ccc._.ccc",
+      "timeAgo": "1 hour ago",
+      "title": "iphone 11 pro max 256GB 夜幕綠 94%",
+      "price": 5200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440858773/",
+      "category": "",
+      "maxDays": 1,
+      "priceStr": "NT$5,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 18:04",
+      "pid": "1440858773",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7500,
+        "note": "iPhone 11 Pro Max 256GB 夜幕綠 94% 電池 NT$6,000 = 80% 二手 (殺價; 94% 電池比 patrol 329 同款 85% 更甜=免費升級電池, iOS 支援邊緣自用 2 年內 OK)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 69
     }
   ],
   "negotiate": [
@@ -211,17 +234,17 @@
     },
     {
       "seller": "judyh1234",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "Balmuda the Toast pro 百慕達蒸汽烤箱 K11C-SE",
       "price": 7990,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1440840682/",
-      "category": "",
-      "maxDays": 1,
+      "category": "烤箱",
+      "maxDays": 7,
       "priceStr": "NT$7,990",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 16:17",
+      "listedAt": "05/30 16:04",
       "pid": "1440840682",
       "verified": {
         "newPrice": 12990,
@@ -256,27 +279,27 @@
       "vsSecondhand": 89
     },
     {
-      "seller": "ccc._.ccc",
-      "timeAgo": "8 minutes ago",
-      "title": "iphone 11 pro max 256GB 夜幕綠 94%",
-      "price": 6000,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1440858773/",
-      "category": "iPhone",
-      "maxDays": 5,
-      "priceStr": "NT$6,000",
+      "seller": "whatever4142",
+      "timeAgo": "3 hours ago",
+      "title": "SONY SEL35F18 APSC E環 公司貨",
+      "price": 7000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1435024579/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 18:09",
-      "pid": "1440858773",
+      "listedAt": "05/30 16:04",
+      "pid": "1435024579",
       "verified": {
-        "newPrice": null,
-        "secondhand": 7500,
-        "note": "iPhone 11 Pro Max 256GB 夜幕綠 94% 電池 NT$6,000 = 80% 二手 (殺價; 94% 電池比 patrol 329 同款 85% 更甜=免費升級電池, iOS 支援邊緣自用 2 年內 OK)",
+        "newPrice": 13300,
+        "secondhand": 8500,
+        "note": "SONY SEL35F18 APSC E 環 公司貨 NT$7,000 = 53% 新 / 82% 二手 (殺價; 35mm 定焦無直接後繼殘值穩)",
         "source": "biggo 2026-05-30"
       },
-      "vsNew": null,
-      "vsSecondhand": 80
+      "vsNew": 53,
+      "vsSecondhand": 82
     }
   ],
   "uncertain": []
