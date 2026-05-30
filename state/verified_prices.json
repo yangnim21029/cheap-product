@@ -1350,6 +1350,13 @@
     "note": "Patrol 331 SKIP: <NT$2K Electrolux 果汁機過保",
     "source": "patrol_331_skip"
   },
+  "1423820540": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: Adidas NMD V3 GTX GoreTex 鞋 niche",
+    "source": "patrol_339_skip"
+  },
   "1423828658": {
     "skip": true,
     "newPrice": null,
@@ -1357,12 +1364,25 @@
     "note": "Patrol 333 SKIP: <NT$2K Prince 1999 LP 老黑膠",
     "source": "patrol_333_skip"
   },
+  "1423923383": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: ROG Falchion 65% RX 矮軸 NT$4K 邊緣 (新 NT$5,990 二手 NT$3-4K)",
+    "source": "patrol_339_skip"
+  },
   "1423925401": {
     "newPrice": null,
     "secondhand": null,
     "note": "手沖 KINTO / SCS 手沖咖啡壺組300ml 不鏽鋼 咖啡 濾網 免濾紙 手沖咖啡 NT$600 入門中位/雜訊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1423938151": {
+    "newPrice": 7350,
+    "secondhand": 6500,
+    "note": "AMD R5 9600X RMA 換新未拆 NT$6,200 = 84% 新 / 95% 二手 (file 持平; Zen 5 當代主流)",
+    "source": "biggo 2026-05-30"
   },
   "1423942919": {
     "newPrice": null,
@@ -3121,6 +3141,13 @@
     "note": "瑜珈墊 售一套1500❤️ VERVE 含胸墊 運動內衣 運動背心  NT$1,500 入門健身墊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1429281360": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: Salomon X-ALP MID GTX 登山靴 鞋 niche",
+    "source": "patrol_339_skip"
   },
   "1429319800": {
     "skip": true,
@@ -6284,6 +6311,12 @@
     "note": "三腳架 【三合一自拍】藍芽手機穩定器 自拍棒三腳架 自拍神器 手機防 NT$850 入門腳架二手價合理無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1435091447": {
+    "newPrice": 6290,
+    "secondhand": 4400,
+    "note": "AMD R5 7600 保內 NT$4,390 = 70% 新 / 100% 二手 (file 持平偏便宜; AM5 主流, 保內加分)",
+    "source": "biggo 2026-05-30"
   },
   "1435091595": {
     "newPrice": null,
@@ -35588,5 +35621,53 @@
     "secondhand": null,
     "note": "Patrol 338 SKIP: <NT$2K 美金 2 枚 早期收藏 niche",
     "source": "patrol_338_skip"
+  },
+  "1440882650": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: <NT$2K 美金紀念幣 3 枚 錢幣 niche",
+    "source": "patrol_339_skip"
+  },
+  "1440885647": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: <NT$2K juhoon 雪地訓 2.0 應援卡 niche",
+    "source": "patrol_339_skip"
+  },
+  "1440886561": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: <NT$2K SOU.SOU 行動電源",
+    "source": "patrol_339_skip"
+  },
+  "1440887468": {
+    "newPrice": null,
+    "secondhand": 9600,
+    "note": "iPad mini 6 64 WiFi NT$6,500 = 68% 二手 (好貨; mini 7 A17 Pro 已取代世代 -1 但仍堪用; 須驗序號)",
+    "source": "biggo 2026-05-30"
+  },
+  "1440888929": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: AirPods 4 ANC 全新 NT$4,700 vs 新 NT$5,190 = 91% 邊緣持平",
+    "source": "patrol_339_skip"
+  },
+  "1440889177": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: Vivobook X1505V NT$18K = 86% 新 / 106% 二手 (過貴; listing 寫 12 代有誤標風險, X1505V 主流是 13 代 i5-13500H)",
+    "source": "patrol_339_skip"
+  },
+  "1440890553": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 339 SKIP: 二手單機寶可夢 Switch 不寫主機/卡帶",
+    "source": "patrol_339_skip"
   }
 }
