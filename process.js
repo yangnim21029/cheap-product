@@ -480,11 +480,12 @@ if (allNewDeals.length === 0 && allNegotiate.length === 0 && allUncertain.length
 }
 md += `\n---\n\n`;
 md += `## 系統\n\n`;
+md += `- 系統原則 → [README.md](README.md)\n`;
+md += `- 檔案地圖 → [MOC.md](MOC.md)\n`;
 md += `- 每輪 [carousell_workflow.md](carousell_workflow.md) 8 步驟\n`;
-md += `- 新方向觀察 → [suggestions.md](suggestions.md)\n`;
 md += `- 賣家黑名單 / 信任名單 → [sellers.json](sellers.json)\n`;
 md += `- 已驗證個別品價 → [verified_prices.json](verified_prices.json)\n`;
-fs.writeFileSync('README.md', md);
+fs.writeFileSync('DEALS.md', md);
 
 // === 更新 deals.html ===
 let html = `<!DOCTYPE html>\n<html lang="zh-TW">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1.0">\n<title>Carousell 二手好物清單</title>\n<style>\n*{margin:0;padding:0;box-sizing:border-box}\nbody{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0a0a;color:#e0e0e0;padding:20px;max-width:960px;margin:0 auto}\nh1{font-size:1.6rem;margin-bottom:6px;color:#fff}\n.sub{color:#888;margin-bottom:20px;font-size:.85rem}\ntable{width:100%;border-collapse:collapse;margin-bottom:30px}\nth{text-align:left;padding:10px 6px;border-bottom:2px solid #333;color:#888;font-size:.75rem;text-transform:uppercase}\ntd{padding:8px 6px;border-bottom:1px solid #1a1a1a;font-size:.85rem}\ntr:hover{background:#111}\n.p{color:#e8364e;font-weight:700}\n.d{color:#4ade80;font-weight:700}\na{color:#60a5fa;text-decoration:none}\na:hover{text-decoration:underline}\n.t{font-size:.8rem;color:#666}\n</style>\n</head>\n<body>\n<h1>Carousell 二手好物清單</h1>\n<p class="sub">新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情 | ${now}</p>\n<table>\n<tr><th>品項</th><th>價格</th><th>比較基準</th><th>折數</th><th>狀態</th><th>上架</th><th></th></tr>\n`;
@@ -498,7 +499,7 @@ html += `</table>\n</body>\n</html>`;
 fs.writeFileSync('deals.html', html);
 
 // seen_ids 不自動更新——等使用者說「看完了」後跑 node mark_seen.js
-console.log(`\n✓ CSV + README + HTML 已更新`);
+console.log(`\n✓ CSV + DEALS.md + HTML 已更新`);
 console.log(`✓ seen_ids: ${seenHistory.length} 筆已看過，本輪 ${newDeals.length} 筆待確認`);
 if (newDeals.length > 0) {
   console.log(`  → 使用者確認後跑: node mark_seen.js`);

@@ -1,43 +1,81 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/30 18:03:24 · 累積已看 13377 筆 · 125 位賣家黑名單
+Carousell Taiwan 二手商品自動巡邏 + 分流 + 驗價系統。每輪掃 ~2000 筆 listing，過濾到 10-30 件待查，驗價後分桶（好貨 / 殺價 / 持平 / 過貴 / 詐騙），結果同步到 GitHub + Gist。
 
-**待審：** 好貨 5 ｜ 殺價 7 ｜ 手動 0 ｜ 待查 0
+User 端只看 `DEALS.md` 桶內品項做決定，每件決定後 mark_seen 進 `seen_ids.json`，下輪不再看到。
 
-**規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
+> 動態 deal 報告 → [DEALS.md](DEALS.md)　｜　檔案地圖 → [MOC.md](MOC.md)　｜　巡邏流程 → [carousell_workflow.md](carousell_workflow.md)
 
-## 🟢 好貨（5）
+## 原則
 
-> 通過自動門檻，可直接買
+**1. 三層過濾 pipeline**
 
-| 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
-|------|------|--------|------|------|------|--|
-| 蘋果 Apple watch S7 41mm 不鏽鋼 太空灰 | **NT$5,000** | 二手$8250 | 61% 二手 | Lightly used | 05/30 17:03 | [→](https://tw.carousell.com/p/1440842913/) |
-| [音響耳機] BOSE QuietComfort 45耳罩式藍牙無線消噪耳機 霧白色 | **NT$3,500** | 新$7980 | 44% new | Lightly used | 05/30 16:03 | [→](https://tw.carousell.com/p/1440838142/) |
-| [iPhone] 【實體雙卡】iPhone 12 PRO 128G 藍色 6.1吋 蘋果 二手機 台北 快速 | **NT$5,300** | 二手$8000 | 66% 二手 | Lightly used | 05/29 22:03 | [→](https://tw.carousell.com/p/1440708626/) |
-| [iPhone] iPhone 12 128g | **NT$4,700** | 二手$7000 | 67% 二手 | Lightly used | 05/29 14:03 | [→](https://tw.carousell.com/p/1440625099/) |
-| [iPhone] iPhone 11 128GB | **NT$3,060** | 二手$5000 | 61% 二手 | Lightly used | 05/26 14:02 | [→](https://tw.carousell.com/p/1440050482/) |
+```
+raw_results (~2000) → process.js (規則) → need_verify (~10-30) → subagent (BigGo+多源) → 分桶
+```
 
-## 🟡 殺價（7）
+每層砍 90%。raw 大但便宜（爬蟲），verify 貴（subagent token），必須先用 process.js 規則攔住 niche/<NT$2K/型號未列/重複賣家，剩下才送 verify。
 
-> 價格已合理但還能再殺，看你殺得到嗎
+**2. 分桶定義**
 
-| 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
-|------|------|--------|------|------|------|--|
-| [iPhone] iphone 11 pro max 256GB 夜幕綠 94% | **NT$6,000** | 二手$7500 | 80% 二手 | Like new | 05/30 17:55 | [→](https://tw.carousell.com/p/1440858773/) |
-| [iPad] iPad Air 7 11吋 128G Wifi 紫色 全新未拆封 | **NT$15,500** | 新$19388 | 80% new | Brand new | 05/30 17:05 | [→](https://tw.carousell.com/p/1440848577/) |
-| Balmuda the Toast pro 百慕達蒸汽烤箱 K11C-SE | **NT$7,990** | 新$12990 | 62% new | Brand new | 05/30 16:03 | [→](https://tw.carousell.com/p/1440840682/) |
-| [iPhone] iPhone 12 64 | **NT$4,000** | 二手$5500 | 73% 二手 | Lightly used | 05/30 00:03 | [→](https://tw.carousell.com/p/1440728080/) |
-| [iPhone] iPhone 13 128g藍色 | **NT$6,000** | 二手$8000 | 75% 二手 | Lightly used | 05/28 18:03 | [→](https://tw.carousell.com/p/1434734994/) |
-| [iPhone] iPhone 11 Pro Max 256 綠 85% | **NT$6,000** | 二手$7200 | 83% 二手 | Lightly used | 05/28 18:03 | [→](https://tw.carousell.com/p/1440545654/) |
-| [iPhone] iPhone 11 128G 白色 可貼換 | **NT$3,600** | 二手$5000 | 72% 二手 | Lightly used | 05/28 18:03 | [→](https://tw.carousell.com/p/1434589587/) |
+| 桶 | 條件 | 意義 |
+|---|---|---|
+| 好貨 | vsNew ≤30% 或 vsSecondhand ≤70% | 真撿到，速決 |
+| 殺價 | vsSecondhand ≤90% 且價格 ≥NT$3K | 合理但能再殺 |
+| 手動 | vsNew ≤70% 但二手樣本不足 | 邊緣值待人工 |
+| 持平 | 不入桶但 verify 過 | file 留 verified_prices.json 防下次重驗 |
+| 過貴 | vsSecondhand >100% | 賣家標太貴，直接刷 |
 
+**3. vsSF 比 vsNew 重要**
 
----
+賣家很愛用「對新品打 8 折」當話術，但新品還能買到時，**二手中位才是真行情**。subagent verify 必算 vsSF；vsSF > 100% 自動 file 過貴，不管 vsNew 多漂亮。
 
-## 系統
+**4. 賣家含糊 = 風險訊號**
 
-- 每輪 [carousell_workflow.md](carousell_workflow.md) 8 步驟
-- 新方向觀察 → [suggestions.md](suggestions.md)
-- 賣家黑名單 / 信任名單 → [sellers.json](sellers.json)
-- 已驗證個別品價 → [verified_prices.json](verified_prices.json)
+title 缺容量（iPad 沒寫 G）、卡口（相機沒寫 EF/RF）、尺寸（Apple Watch 沒寫 44/49mm）、版本（Sony 70-400 沒寫 G/G2）→ 一字差價兩倍，直接 SKIP，不送 verify。
+
+**5. 太甜也是 trap**
+
+vsSF < 50% 看似撿到，實際多半是電池衰退、副廠零件、盜刷品、序號黑名單、磚機、改機。subagent 提示「過便宜警報」就 file SKIP，不要因為 algorithm 抓到好貨 bucket 就 inject。
+
+**6. 世代取代殘值跌**
+
+同型號有新世代取代（QC45 → QC Ultra、Marshall Middleton 一代 → 二代、RTX 4060 Ti 8GB → 5060 Ti 16GB）= 殘值在下跌軌道，當下 deal 半年後就是新中位。verify 時要 subagent 標明世代狀態。
+
+**7. 結構性訊號 ≠ 個別 deal**
+
+同型號同價格在 Carousell 重複出現（AirPods 4 ANC 在保 NT$2,500 連 3 輪 / JBL FLIP 6 NT$3,150-3,800 連 2 輪）= 水貨/平輸/盜刷批次，不是真 deal。重複 ≥2 次自動加進 recurring_pattern 不再送 verify。
+
+**8. 不無腦丟 subagent**
+
+每件 verify ≈ 30K-50K subagent token。先用以下規則 SKIP：
+- 任何 < NT$2,000
+- niche keyword: 古銅雕/紫砂/玉石/手珠/水晶/絨毛娃娃/拍立得卡/應援棒/早期收藏/翡翠/郵票/老物
+- 重複賣家 (sellers.shops / sellers.overpriced)
+- 型號/容量/卡口未列
+- >85% 新品持平
+- 老型號（相機停產卡口 / 8 代以前 CPU / 11 代以前筆電）
+
+剩下 ≥NT$3K + 有品牌型號 + 不熟領域 likely 有行情 才送 subagent。
+
+## 跑法
+
+每輪：
+```bash
+node scrape.js && node process.js
+# 手動分流 need_verify.json
+# subagent verify 高價未知品
+# 寫 verified_prices.json
+node process.js   # 重跑生 DEALS.md
+git add -A && git commit -m "patrol N: ..." && git push
+gh gist edit <gist-id> DEALS.md
+```
+
+清掉已決定的 pending：
+```bash
+node mark_seen.js
+```
+
+## 系統檔案
+
+完整檔案 / function 索引見 [MOC.md](MOC.md)。
