@@ -6429,6 +6429,13 @@
     "note": "Patrol 341 SKIP: 電競電腦 #26 配置未列",
     "source": "patrol_341_skip"
   },
+  "1435119427": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: <NT$2K Anker MagGo USB-C カードリーダー",
+    "source": "patrol_345_skip"
+  },
   "1435138967": {
     "skip": true,
     "newPrice": null,
@@ -36281,5 +36288,68 @@
     "secondhand": null,
     "note": "Patrol 344 SKIP: GoPro Media Mod 配件 niche",
     "source": "patrol_344_skip"
+  },
+  "1440937008": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: teenage engineering OP-14 sub 樂器 niche",
+    "source": "patrol_345_skip"
+  },
+  "1440937547": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: SONY WH-1000XM5 2 手 玫瑰灰 NT$5,500 (patrol 315 同款保固中 NT$3,999 = 67% 殺價, 此次無保固貴 NT$1,500)",
+    "source": "patrol_345_skip"
+  },
+  "1440938649": {
+    "skip": true,
+    "newPrice": 3158,
+    "secondhand": 2150,
+    "note": "Patrol 345 SKIP: Panasonic NB-F3200 32L 全新 NT$3,499 = 111% 新 / 163% 二手 (過貴, 比 Coupang 新品還貴 NT$341; 我先誤估新品 NT$5,990 實際 NT$3,158)",
+    "source": "biggo 2026-05-31"
+  },
+  "1440939270": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: Medicube AGE-R Booster Pro 全新 NT$4,600 (patrol 344 同款連發, 偶像代言美容儀)",
+    "source": "patrol_345_skip"
+  },
+  "1440939521": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: Soundcore AeroClip NT$2,650 邊緣入耳掛耳新品",
+    "source": "patrol_345_skip"
+  },
+  "1440940047": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: 麥瑞克踏步機 健身器材 niche",
+    "source": "patrol_345_skip"
+  },
+  "1440940125": {
+    "skip": true,
+    "newPrice": 12600,
+    "secondhand": 10710,
+    "note": "Patrol 345 SKIP: DJI Osmo 360 NT$12,500 = 99% 新 / 117% 二手 (過貴, 比 Coupang 新品只省 NT$100 沒保固; 2025 第一代 2026 Q3-Q4 可能推二代)",
+    "source": "biggo 2026-05-31"
+  },
+  "1440940280": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: <NT$2K Illit Minju 官娃 偶像周邊",
+    "source": "patrol_345_skip"
+  },
+  "1440940335": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 345 SKIP: Intel 245K+245KF+RAM+ROG B860-i 套組標題混亂 NT$5.5K 太甜風險",
+    "source": "patrol_345_skip"
   }
 }
