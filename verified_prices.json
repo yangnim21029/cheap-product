@@ -701,6 +701,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1420368206": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: 播吧四代聲卡 NT$2K 邊緣 niche",
+    "source": "patrol_331_skip"
+  },
   "1420379021": {
     "newPrice": null,
     "secondhand": null,
@@ -1321,6 +1328,13 @@
     "secondhand": null,
     "note": "Patrol 308 SKIP: <NT$2K morelife 藍牙鍵盤",
     "source": "patrol_308_skip"
+  },
+  "1423708770": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: <NT$2K Electrolux 果汁機過保",
+    "source": "patrol_331_skip"
   },
   "1423925401": {
     "newPrice": null,
@@ -3037,6 +3051,13 @@
     "secondhand": null,
     "note": "Patrol 329 SKIP: iPhone XR NT$3,850 容量未列 (64/128 差 NT$1K)",
     "source": "patrol_329_skip"
+  },
+  "1429214755": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: 復古多功能黑膠唱片機山寨",
+    "source": "patrol_331_skip"
   },
   "1429260811": {
     "newPrice": null,
@@ -5679,6 +5700,13 @@
     "secondhand": null,
     "note": "蘇打綠蘇打誌合售 sodapopo NT$750 < $2K CD SKIP"
   },
+  "1434486262": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: <NT$2K 秀逗魔導士 80 年代 niche",
+    "source": "patrol_331_skip"
+  },
   "1434488446": {
     "newPrice": null,
     "secondhand": null,
@@ -5706,6 +5734,13 @@
     "secondhand": null,
     "note": "Patrol 317 SKIP: <NT$2K Switch 符文工廠卡帶",
     "source": "patrol_317_skip"
+  },
+  "1434491430": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: <NT$2K 艾倫瑞克曼 VCD",
+    "source": "patrol_331_skip"
   },
   "1434495089": {
     "source": "2026-05-27",
@@ -6147,6 +6182,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1435045749": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: Pomarico 豎笛水晶吹嘴 樂器 niche",
+    "source": "patrol_331_skip"
+  },
   "1435066185": {
     "newPrice": null,
     "secondhand": null,
@@ -6209,12 +6251,26 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1435138967": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: <NT$2K GD 權志龍積木周邊",
+    "source": "patrol_331_skip"
+  },
   "1435148242": {
     "newPrice": null,
     "secondhand": null,
     "note": "Fuji GX680 III 中片幅工作室機(1989-2008停產)極專業6x8重機，非一般玩家工具 SKIP",
     "source": "2026-05-14",
     "skip": true
+  },
+  "1435149567": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: Horizon 202 底片相機 2010 已停產 niche",
+    "source": "patrol_331_skip"
   },
   "1435167100": {
     "newPrice": 6000,
@@ -34597,6 +34653,13 @@
     "note": "Patrol 329 SKIP: Bose SoundLink Micro NT$2,490 vs 新 NT$3,990 = 62% 邊緣",
     "source": "patrol_329_skip"
   },
+  "1440776338": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: Ecovacs Airbot AVA NT$3K vs 新品 NT$60K = 不可能, 疑似 part/dock/玩具版",
+    "source": "patrol_331_skip"
+  },
   "1440776978": {
     "skip": true,
     "newPrice": null,
@@ -34666,5 +34729,19 @@
     "secondhand": null,
     "note": "Patrol 330 SKIP: Canon EF-M 22mm STM NT$5K EF-M 卡口已停產 (Canon M 系列 EOL 2024)",
     "source": "patrol_330_skip"
+  },
+  "1440789851": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: Selena RSD 彩膠 NT$2K 邊緣持平",
+    "source": "patrol_331_skip"
+  },
+  "1440793015": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 331 SKIP: NT$2K 柯南 M16 徽章周邊",
+    "source": "patrol_331_skip"
   }
 }
