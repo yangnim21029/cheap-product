@@ -2872,6 +2872,13 @@
     "secondhand": null,
     "note": "noblefox PS4 Pro NT$5,000 (PS4 Pro 二手 $5-6K) 持平 SKIP"
   },
+  "1428993146": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: 羅技 Z623 2010 老 2.1 喇叭 = NT$2K 邊緣",
+    "source": "patrol_328_skip"
+  },
   "1428993880": {
     "newPrice": null,
     "secondhand": null,
@@ -12575,6 +12582,13 @@
     "note": "烤箱 東元20公升電烤箱 NT$1,000 入門/中位無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1437853711": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: RTX 4060 Ti O8G NT$10K = 67% 新 / 102% 二手 (vsSF>100% + 5060 Ti 取代 + 8GB VRAM 不夠用殘值雙重下行)",
+    "source": "patrol_328_skip"
   },
   "1437855440": {
     "newPrice": null,
@@ -34296,5 +34310,53 @@
     "secondhand": null,
     "note": "Patrol 327 SKIP: iPad 11 A16 2025 128G 全新 NT$9,300 跟 patrol 319 同款 (vsNew 93%, vs momo 新品省 NT$699 不值)",
     "source": "patrol_327_skip"
+  },
+  "1440764356": {
+    "newPrice": 14990,
+    "secondhand": 11000,
+    "note": "Garmin Instinct 3 Solar 50mm 不議 NT$10,500 = 70% 新 / 95% 二手 (file 持平偏甜, 當前世代殘值穩, 折讓淺)",
+    "source": "biggo+garmin 2026-05-30"
+  },
+  "1440764379": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: 金士頓 SSD 1TB Gen4+外接盒 NT$4,700 vs 通路 NT$2.5-3K = 156% 暴貴",
+    "source": "patrol_328_skip"
+  },
+  "1440765423": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: Intel i5-12400 NT$4,300 持平 (二手 NT$3-4K)",
+    "source": "patrol_328_skip"
+  },
+  "1440768688": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: <NT$2K klv One Piece 周邊",
+    "source": "patrol_328_skip"
+  },
+  "1440768696": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: <NT$2K 中國鐵路紀念幣連發",
+    "source": "patrol_328_skip"
+  },
+  "1440768841": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: <NT$2K 中國鐵路紀念幣連發",
+    "source": "patrol_328_skip"
+  },
+  "1440768952": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 328 SKIP: <NT$2K klv figure 周邊",
+    "source": "patrol_328_skip"
   }
 }

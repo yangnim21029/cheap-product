@@ -109,6 +109,10 @@ const QUERIES = [
   { q: 'USB-C HDMI', min: 200, max: 3000, maxDays: 7 },
   { q: '手機 HDMI', min: 200, max: 3000, maxDays: 7 },
   // { q: '游泳耳機', min: 500, max: 8000, maxDays: 7 }, // 暫停：連續 4 輪空 2026-05-21 (台灣 Carousell 太冷門, Shokz OpenSwim 沒人賣)
+  // 2026-05-30 User 想找手機, 二手 NT$3-5K 區間 mid-range deal
+  { q: 'iPhone', min: 3000, max: 6000, maxDays: 5 },
+  { q: 'Galaxy S', min: 3000, max: 6000, maxDays: 5 },
+  { q: 'Pixel', min: 3000, max: 6000, maxDays: 5 },
   // 無關鍵字瀏覽：雜訊高但偶有冷門品牌好物（SoundSticks 4 等）
   { q: '', min: 5000, max: 10000, maxDays: 1, label: '無關鍵字' },
 ];
