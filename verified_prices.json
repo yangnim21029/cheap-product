@@ -2934,6 +2934,13 @@
     "note": "Patrol 312 SKIP: Spark2 電吉他音箱 樂器 niche",
     "source": "patrol_312_skip"
   },
+  "1429051031": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: <NT$2K 蘇打綠鐵盒版",
+    "source": "patrol_330_skip"
+  },
   "1429059313": {
     "skip": true,
     "newPrice": null,
@@ -34576,6 +34583,13 @@
     "note": "Patrol 329 SKIP: <NT$2K 小米充電器+線",
     "source": "patrol_329_skip"
   },
+  "1440774790": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: <NT$2K Oster 隨我型果汁機",
+    "source": "patrol_330_skip"
+  },
   "1440775508": {
     "skip": true,
     "newPrice": null,
@@ -34596,5 +34610,61 @@
     "secondhand": null,
     "note": "Patrol 329 SKIP: aNueNue Papa III 烏克麗麗 樂器 niche",
     "source": "patrol_329_skip"
+  },
+  "1440778108": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: Soundcore Motion+ NT$2,060 邊緣持平 (二手 NT$2-2.5K)",
+    "source": "patrol_330_skip"
+  },
+  "1440782290": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: AirPods 4 ANC 保固 NT$2,500 跟 patrol 313 同款同價, README 不重複展示",
+    "source": "patrol_330_skip"
+  },
+  "1440783208": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: Panasonic RX-ED77 老 CD 隨身聽 niche",
+    "source": "patrol_330_skip"
+  },
+  "1440783234": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: Mac Pro Late 2013 骨灰罈 11 年前古董收藏 niche",
+    "source": "patrol_330_skip"
+  },
+  "1440784456": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: <NT$2K Switch Overcooked 卡帶",
+    "source": "patrol_330_skip"
+  },
+  "1440785197": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: <NT$2K Travis Japan 初回手寫卡",
+    "source": "patrol_330_skip"
+  },
+  "1440787061": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: <NT$2K Modern Talking 1988 CD",
+    "source": "patrol_330_skip"
+  },
+  "1440787159": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 330 SKIP: Canon EF-M 22mm STM NT$5K EF-M 卡口已停產 (Canon M 系列 EOL 2024)",
+    "source": "patrol_330_skip"
   }
 }
