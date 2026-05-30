@@ -1371,6 +1371,13 @@
     "note": "Patrol 333 SKIP: <NT$2K Prince 1999 LP 老黑膠",
     "source": "patrol_333_skip"
   },
+  "1423854521": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: YESOUL 野小獸 M1 動感單車 niche",
+    "source": "patrol_342_skip"
+  },
   "1423923383": {
     "skip": true,
     "newPrice": null,
@@ -6326,6 +6333,13 @@
     "secondhand": null,
     "note": "Patrol 333 SKIP: Taylor 214ce K DLX 吉他 樂器 niche",
     "source": "patrol_333_skip"
+  },
+  "1435060312": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: i3-10100F+A380 自組小主機 niche",
+    "source": "patrol_342_skip"
   },
   "1435066185": {
     "newPrice": null,
@@ -35843,6 +35857,20 @@
     "note": "大金 MC30YSCT 全新 NT$3,000 = 94% 新 / 107% 二手 (file 持平; 我先誤標太甜混到 MC55/MCK70 大坪數機種, MC30 是小坪數通路 NT$3-3.5K)",
     "source": "biggo+pchome 2026-05-30"
   },
+  "1440900333": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Apple Watch SE 3 44mm GPS NT$7,600 (跟 patrol 315 NT$7,500 file 持平 此次更貴)",
+    "source": "patrol_342_skip"
+  },
+  "1440900458": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Moog Theremini 特雷門琴 樂器 niche",
+    "source": "patrol_342_skip"
+  },
   "1440901003": {
     "skip": true,
     "newPrice": null,
@@ -35850,12 +35878,39 @@
     "note": "Patrol 340 SKIP: 鴻兔小舖大正 3 年龍銀 第 5 輪連發錢幣 niche",
     "source": "patrol_340_skip"
   },
+  "1440901227": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: MJ 喬丹 1995 球員卡連發 niche",
+    "source": "patrol_342_skip"
+  },
+  "1440901434": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: MJ 喬丹球員卡連發 niche",
+    "source": "patrol_342_skip"
+  },
+  "1440902432": {
+    "newPrice": null,
+    "secondhand": 5000,
+    "note": "iPhone Xs Max 256GB NT$3,050 = 61% 二手 (好貨; vs patrol 329 同款 NT$4,500 此次便宜 NT$1,450, 風險: 2018 機 iOS 26 不支援已過大更新生命線)",
+    "source": "biggo 2026-05-31"
+  },
   "1440902754": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 340 SKIP: 墨將烈風 2 山寨手柄 niche",
     "source": "patrol_340_skip"
+  },
+  "1440904389": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Instruō neóni 模組合成器 樂器 niche",
+    "source": "patrol_342_skip"
   },
   "1440904406": {
     "skip": true,
@@ -35870,6 +35925,20 @@
     "secondhand": null,
     "note": "Patrol 341 SKIP: mini LiPlay NT$3,780 vs 新 NT$4,990 = 76% 拍立得邊緣",
     "source": "patrol_341_skip"
+  },
+  "1440904919": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: <NT$2K 無印良品香氛機",
+    "source": "patrol_342_skip"
+  },
+  "1440905177": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: NT$2K AERO mini 香氛機",
+    "source": "patrol_342_skip"
   },
   "1440905602": {
     "skip": true,
@@ -35892,6 +35961,27 @@
     "note": "Patrol 341 SKIP: Bose Flex II 全新 NT$4,200 vs 新 NT$4,990 = 84% 邊緣持平",
     "source": "patrol_341_skip"
   },
+  "1440908516": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: HP ProDesk 400 G6 Mini 老商用",
+    "source": "patrol_342_skip"
+  },
+  "1440909582": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Two Notes Opus 音箱模擬 樂器 niche",
+    "source": "patrol_342_skip"
+  },
+  "1440909981": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Boss DD-200 delay 樂器 niche",
+    "source": "patrol_342_skip"
+  },
   "1440910534": {
     "skip": true,
     "newPrice": null,
@@ -35913,11 +36003,143 @@
     "note": "Patrol 341 SKIP: <NT$2K D Addario 導線 樂器配件",
     "source": "patrol_341_skip"
   },
+  "1440912534": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: ASUS TUF 17 RTX 4060 R7-7435HS NT$23.8K 邊緣連發",
+    "source": "patrol_342_skip"
+  },
   "1440912772": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 341 SKIP: 傳說對決台灣美食珍藏卡組 卡牌 niche",
     "source": "patrol_341_skip"
+  },
+  "1440913707": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: ASUS TUF 17 RTX 4050 R7-7435HS NT$21.5K 邊緣連發",
+    "source": "patrol_342_skip"
+  },
+  "1440914194": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Canon 77D NT$14,500 持平偏貴 (2017 EOL APS-C, 二手 NT$10-13K)",
+    "source": "patrol_342_skip"
+  },
+  "1440914978": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: HTC VIVE XR Elite VR niche 邊緣",
+    "source": "patrol_342_skip"
+  },
+  "1440915107": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Kingston Fury DDR4 3200 16G NT$3,600 vs 通路 NT$1.5K = 240% 暴貴",
+    "source": "patrol_342_skip"
+  },
+  "1440915284": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: HP 15s du1061TX 老入門筆電",
+    "source": "patrol_342_skip"
+  },
+  "1440916257": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: EPZ G10 中國音響不熟 niche",
+    "source": "patrol_342_skip"
+  },
+  "1440916295": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: 羅技 G733 NT$2,780 邊緣老款電競耳機",
+    "source": "patrol_342_skip"
+  },
+  "1440917521": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Philips 275M8RZ 4K NT$3K vs 新 NT$10K = 30% 太甜風險高 (4K HDR 165Hz 高階機種)",
+    "source": "patrol_342_skip"
+  },
+  "1440917778": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Switch 遊戲片標題未列哪片",
+    "source": "patrol_342_skip"
+  },
+  "1440918350": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Canon G12 機皇 NT$20K 暴貴 (2010 G 系列二手 NT$3-5K)",
+    "source": "patrol_342_skip"
+  },
+  "1440919085": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: <NT$2K Sanrio 1992 kitty 指甲剪 早期周邊",
+    "source": "patrol_342_skip"
+  },
+  "1440920429": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: iPhone SE 2 (2020) 128G NT$3K 邊緣 (二手 NT$3-4K)",
+    "source": "patrol_342_skip"
+  },
+  "1440920484": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: 「全照耳機JBL黑」型號未列",
+    "source": "patrol_342_skip"
+  },
+  "1440921020": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Leica C-Lux 2 2010 老 DC niche",
+    "source": "patrol_342_skip"
+  },
+  "1440921593": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: PS4 Pro 1TB 蜘蛛人特別版 老主機 niche",
+    "source": "patrol_342_skip"
+  },
+  "1440922148": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: Intel i5-14500 NT$4,000 = 54% 新 / 54% 二手 (太甜警報; vsSF=vsNew 一致 = 二手價貼新品成本異常, 須驗是否 ES/QS 工程樣品或拆機品)",
+    "source": "patrol_342_skip"
+  },
+  "1440922827": {
+    "newPrice": 4690,
+    "secondhand": 4200,
+    "note": "Apple Magic Keyboard A2520 含 Touch ID 數字鍵 全配 NT$3,000 = 64% 新 / 71% 二手 (殺價; A2520 是 Lightning 世代, USB-C A3177 已接替屬上一代)",
+    "source": "biggo+apple 2026-05-31"
+  },
+  "1440923304": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 342 SKIP: jezzelle 4canister 品牌不明",
+    "source": "patrol_342_skip"
   }
 }

@@ -22,12 +22,35 @@
       },
       "vsNew": null,
       "vsSecondhand": 68
+    },
+    {
+      "seller": "qqq7276185",
+      "timeAgo": "2 hours ago",
+      "title": "Iphone XS max 256g",
+      "price": 3050,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440902432/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$3,050",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 22:03",
+      "pid": "1440902432",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5000,
+        "note": "iPhone Xs Max 256GB NT$3,050 = 61% 二手 (好貨; vs patrol 329 同款 NT$4,500 此次便宜 NT$1,450, 風險: 2018 機 iOS 26 不支援已過大更新生命線)",
+        "source": "biggo 2026-05-31"
+      },
+      "vsNew": null,
+      "vsSecondhand": 61
     }
   ],
   "negotiate": [
     {
       "seller": "kingjlin12-52731",
-      "timeAgo": "42 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
       "price": 4390,
       "condition": "Brand new",
@@ -37,7 +60,7 @@
       "priceStr": "NT$4,390",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 22:21",
+      "listedAt": "05/30 22:03",
       "pid": "1435096703",
       "verified": {
         "newPrice": 5490,
@@ -47,6 +70,29 @@
       },
       "vsNew": 80,
       "vsSecondhand": 84
+    },
+    {
+      "seller": "kehogken",
+      "timeAgo": "7 minutes ago",
+      "title": "Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 巧控鍵盤",
+      "price": 3000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440922827/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 23:56",
+      "pid": "1440922827",
+      "verified": {
+        "newPrice": 4690,
+        "secondhand": 4200,
+        "note": "Apple Magic Keyboard A2520 含 Touch ID 數字鍵 全配 NT$3,000 = 64% 新 / 71% 二手 (殺價; A2520 是 Lightning 世代, USB-C A3177 已接替屬上一代)",
+        "source": "biggo+apple 2026-05-31"
+      },
+      "vsNew": 64,
+      "vsSecondhand": 71
     }
   ],
   "uncertain": []
