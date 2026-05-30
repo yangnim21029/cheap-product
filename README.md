@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/30 07:59:47 · 累積已看 13357 筆 · 125 位賣家黑名單
+> 2026/5/30 09:01:05 · 累積已看 13357 筆 · 125 位賣家黑名單
 
 **待審：** 好貨 7 ｜ 殺價 13 ｜ 手動 0 ｜ 待查 0
 
@@ -12,12 +12,12 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [相機攝影] insta 360 go ultra全新未拆封 | **undefined** | 新$11998 | ? | Unknown | 05/30 07:56 | [→](https://tw.carousell.com/p/1440625343/) |
-| [iPad] iPad Air (M2) 256GB 星光色 13吋 | **NT$16,500** | 新$20990 | ? | Unknown | 05/30 07:06 | [→](https://tw.carousell.com/p/1440659617/) |
-| [相機攝影] LUMIX S 20-60mm Panasonic 全幅鏡頭 S9 | **undefined** | 新$18500 | ? | Unknown | 05/30 05:59 | [→](https://tw.carousell.com/p/1440620864/) |
-| [電腦科技] ipad 128g wifi (第八代) | **NT$3,000** | 二手$6500 | 46% 二手 | Lightly used | 05/29 23:59 | [→](https://tw.carousell.com/p/1440729911/) |
+| [相機攝影] insta 360 go ultra全新未拆封 | **undefined** | 新$11998 | ? | Unknown | 05/30 08:58 | [→](https://tw.carousell.com/p/1440625343/) |
+| [iPad] iPad Air (M2) 256GB 星光色 13吋 | **NT$16,500** | 新$20990 | ? | Unknown | 05/30 08:08 | [→](https://tw.carousell.com/p/1440659617/) |
+| [相機攝影] LUMIX S 20-60mm Panasonic 全幅鏡頭 S9 | **undefined** | 新$18500 | ? | Unknown | 05/30 07:01 | [→](https://tw.carousell.com/p/1440620864/) |
+| [電腦科技] ipad 128g wifi (第八代) | **NT$3,000** | 二手$6500 | 46% 二手 | Lightly used | 05/30 00:01 | [→](https://tw.carousell.com/p/1440729911/) |
 | [喇叭] KEF MUO Wireless Speaker 星際藍 | **NT$6,300** | 新$10990 | 57% new | 全新 | 2019/05/29 23:05 | [→](https://tw.carousell.com/p/225210929/) |
-| [音響耳機] AirPods4代主動降噪在保 | **NT$2,500** | 新$5190 | 48% new | Like new | 05/29 17:59 | [→](https://tw.carousell.com/p/1440674835/) |
+| [音響耳機] AirPods4代主動降噪在保 | **NT$2,500** | 新$5190 | 48% new | Like new | 05/29 18:01 | [→](https://tw.carousell.com/p/1440674835/) |
 | [喇叭] Vifa City 無線藍牙喇叭 檸檬綠 全新未拆 | **NT$4,500** | 新$8990 | 50% new | 全新 | 2025/07/31 03:52 | [→](https://tw.carousell.com/p/1381417060/) |
 
 ## 🟡 殺價（13）
@@ -26,17 +26,17 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [智慧手錶] apple watch ultra2 LTE🔋 85% | **NT$14,000** | 新$25800 | ? | Unknown | 05/30 07:20 | [→](https://tw.carousell.com/p/1440694447/) |
-| [電腦科技] ROG Ally X | **NT$19,000** | 新$32999 | ? | Unknown | 05/30 07:14 | [→](https://tw.carousell.com/p/1440640998/) |
-| [音響耳機] shokz one dots e310 耳掛式耳機 藍芽耳機 暮光紫 | **NT$3,300** | 新$5990 | 55% new | Lightly used | 05/30 04:59 | [→](https://tw.carousell.com/p/1440753852/) |
-| [智慧手錶] 華為 GT5 Pro 42m 智慧手錶 Apple可用 全新 | **NT$6,500** | 新$9990 | 65% new | Brand new | 05/29 22:59 | [→](https://tw.carousell.com/p/1429134824/) |
+| [智慧手錶] apple watch ultra2 LTE🔋 85% | **NT$14,000** | 新$25800 | ? | Unknown | 05/30 08:22 | [→](https://tw.carousell.com/p/1440694447/) |
+| [電腦科技] ROG Ally X | **NT$19,000** | 新$32999 | ? | Unknown | 05/30 08:16 | [→](https://tw.carousell.com/p/1440640998/) |
+| [音響耳機] shokz one dots e310 耳掛式耳機 藍芽耳機 暮光紫 | **NT$3,300** | 新$5990 | 55% new | Lightly used | 05/30 05:01 | [→](https://tw.carousell.com/p/1440753852/) |
+| [智慧手錶] 華為 GT5 Pro 42m 智慧手錶 Apple可用 全新 | **NT$6,500** | 新$9990 | 65% new | Brand new | 05/29 23:01 | [→](https://tw.carousell.com/p/1429134824/) |
 | [音響耳機] AirPods Pro 3 近全新 二月購入 | **NT$5,000** | 新$6990 | 72% new | Like new | 05/29 22:02 | [→](https://tw.carousell.com/p/1440713566/) |
-| [音響耳機] Marshall Middleton 一代 | **NT$4,950** | 新$7990 | 62% new | Lightly used | 05/29 21:59 | [→](https://tw.carousell.com/p/1440710993/) |
-| [音響耳機] SONY 索尼 WF-1000XM5 真無線旗艦藍牙耳機 保固中 | **NT$3,999** | 新$5988 | 67% new | Lightly used | 05/29 19:59 | [→](https://tw.carousell.com/p/1429032825/) |
-| [智慧手錶] Apple Watch S11 (GPS) 46mm 保固到2026/10/25 | **NT$9,800** | 新$12690 | 77% new | Like new | 05/29 19:59 | [→](https://tw.carousell.com/p/1440693065/) |
-| [相機攝影] Pocket3 全能版 | **NT$12,500** | 新$18500 | 68% new | Like new | 05/29 18:59 | [→](https://tw.carousell.com/p/1440677727/) |
+| [音響耳機] Marshall Middleton 一代 | **NT$4,950** | 新$7990 | 62% new | Lightly used | 05/29 22:01 | [→](https://tw.carousell.com/p/1440710993/) |
+| [音響耳機] SONY 索尼 WF-1000XM5 真無線旗艦藍牙耳機 保固中 | **NT$3,999** | 新$5988 | 67% new | Lightly used | 05/29 20:01 | [→](https://tw.carousell.com/p/1429032825/) |
+| [智慧手錶] Apple Watch S11 (GPS) 46mm 保固到2026/10/25 | **NT$9,800** | 新$12690 | 77% new | Like new | 05/29 20:01 | [→](https://tw.carousell.com/p/1440693065/) |
+| [相機攝影] Pocket3 全能版 | **NT$12,500** | 新$18500 | 68% new | Like new | 05/29 19:01 | [→](https://tw.carousell.com/p/1440677727/) |
 | [螢幕] 【螢幕瑕疵/甜價入手】iPhone 15 Pro 256GB 原鈦色 6.1吋 蘋果 實體 | **NT$17,500** | 新$28900 | 61% new | Like new | 05/29 17:59 | [→](https://tw.carousell.com/p/1440670901/) |
-| [iPad] iPad air5 64 WiFi 黑 | **NT$9,300** | 新$9990 | 93% new | Like new | 05/29 16:59 | [→](https://tw.carousell.com/p/1440659371/) |
+| [iPad] iPad air5 64 WiFi 黑 | **NT$9,300** | 新$9990 | 93% new | Like new | 05/29 17:01 | [→](https://tw.carousell.com/p/1440659371/) |
 | [螢幕] 📱 iPhone 13 mini 128G🔋 100%❗️ 小傷/螢幕無傷 | **NT$6,500** | 二手$7500 | 87% 二手 | Like new | 05/29 11:02 | [→](https://tw.carousell.com/p/1440597486/) |
 | [喇叭] Bose SoundLink Revolve+ 台灣公司貨 現貨 | **NT$7,500** | 新$10990 | 68% new | 狀況良好 | 2025/05/27 23:05 | [→](https://tw.carousell.com/p/1341316048/) |
 

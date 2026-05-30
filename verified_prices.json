@@ -34139,6 +34139,13 @@
     "note": "Patrol 319 SKIP: 徵收貼文 (想買非賣家)",
     "source": "patrol_319_skip"
   },
+  "1440736824": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 327 SKIP: 電競筆電 標題只寫品類連品牌都沒",
+    "source": "patrol_327_skip"
+  },
   "1440737213": {
     "skip": true,
     "newPrice": null,
@@ -34276,5 +34283,18 @@
     "secondhand": null,
     "note": "Patrol 325 SKIP: <NT$2K 義大利 1970 復古花瓶 早期收藏 niche",
     "source": "patrol_325_skip"
+  },
+  "1440758339": {
+    "newPrice": 9490,
+    "secondhand": 6200,
+    "note": "iPad Air M4 11吋 Magic Keyboard 美式英文 NT$6,000 = 63% 新 / 97% 二手 (file 持平, vsSF 已貼 100% 沒空間, 美式英文對中文用戶轉手窄)",
+    "source": "biggo+apple 2026-05-30"
+  },
+  "1440761175": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 327 SKIP: iPad 11 A16 2025 128G 全新 NT$9,300 跟 patrol 319 同款 (vsNew 93%, vs momo 新品省 NT$699 不值)",
+    "source": "patrol_327_skip"
   }
 }
