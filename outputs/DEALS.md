@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/31 00:03:33 · 累積已看 14140 筆 · 125 位賣家黑名單
+> 2026/5/31 01:02:11 · 累積已看 14140 筆 · 125 位賣家黑名單
 
 **待審：** 好貨 2 ｜ 殺價 2 ｜ 手動 0 ｜ 待查 0
 
@@ -12,7 +12,7 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [iPhone] Iphone XS max 256g | **NT$3,050** | 二手$5000 | 61% 二手 | Like new | 05/30 22:03 | [→](https://tw.carousell.com/p/1440902432/) |
+| [iPhone] Iphone XS max 256g | **NT$3,050** | 二手$5000 | 61% 二手 | Like new | 05/30 22:02 | [→](https://tw.carousell.com/p/1440902432/) |
 | [iPad] Ipad mini 6 wifi 64g | **NT$6,500** | 二手$9600 | 68% 二手 | Like new | 05/30 20:43 | [→](https://tw.carousell.com/p/1440887468/) |
 
 ## 🟡 殺價（2）
@@ -21,8 +21,8 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [電腦科技] Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 | **NT$3,000** | 新$4690 | 64% new | Like new | 05/30 23:56 | [→](https://tw.carousell.com/p/1440922827/) |
-| [電腦科技] 【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板 | **NT$4,390** | 新$5490 | 80% new | Brand new | 05/30 22:03 | [→](https://tw.carousell.com/p/1435096703/) |
+| [電腦科技] Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 | **NT$3,000** | 新$4690 | 64% new | Like new | 05/31 00:02 | [→](https://tw.carousell.com/p/1440922827/) |
+| [電腦科技] 【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板 | **NT$4,390** | 新$5490 | 80% new | Brand new | 05/30 22:02 | [→](https://tw.carousell.com/p/1435096703/) |
 
 
 ---

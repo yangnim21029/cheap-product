@@ -36108,6 +36108,13 @@
     "note": "Patrol 342 SKIP: 「全照耳機JBL黑」型號未列",
     "source": "patrol_342_skip"
   },
+  "1440920728": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: <NT$2K 3M 淨呼吸",
+    "source": "patrol_343_skip"
+  },
   "1440921020": {
     "skip": true,
     "newPrice": null,
@@ -36141,5 +36148,61 @@
     "secondhand": null,
     "note": "Patrol 342 SKIP: jezzelle 4canister 品牌不明",
     "source": "patrol_342_skip"
+  },
+  "1440924040": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 11750,
+    "note": "Patrol 343 SKIP: Steam Deck LCD 1TB NT$12K = 102% 二手 (邊緣; LCD 已停售 OLED 取代殘值築底; 蝦皮拼裝改 1TB 機風險, G-Apple 商家保固 NT$12,200 反而便宜)",
+    "source": "patrol_343_skip"
+  },
+  "1440924688": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: SP DDR4 8GBx2 NT$3K vs 通路 NT$1.5K = 200% 暴貴",
+    "source": "patrol_343_skip"
+  },
+  "1440925848": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: <NT$2K 梁詠琪 CD+VCD",
+    "source": "patrol_343_skip"
+  },
+  "1440926485": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: PRS USA Custom 2408 NT$70K 樂器 niche",
+    "source": "patrol_343_skip"
+  },
+  "1440928399": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: 筆電 DDR5 5600 16GB NT$3K vs 通路 NT$1,800 = 167% 暴貴",
+    "source": "patrol_343_skip"
+  },
+  "1440928582": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: iMac 21.5 2013 A1418 12 年前老機",
+    "source": "patrol_343_skip"
+  },
+  "1440929144": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: WBC 武士隊手提包 周邊 niche",
+    "source": "patrol_343_skip"
+  },
+  "1440931007": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 343 SKIP: <NT$2K 夏奇拉 2000 CD",
+    "source": "patrol_343_skip"
   }
 }
