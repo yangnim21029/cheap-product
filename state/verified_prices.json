@@ -35360,6 +35360,13 @@
     "note": "Patrol 336 SKIP: Apple Watch S8 45mm 國行水貨 95% NT$2K 太甜 + 國行可能鎖區風險",
     "source": "patrol_336_skip"
   },
+  "1440855414": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: 紫砂寶珠觀音 紫砂 niche",
+    "source": "patrol_338_skip"
+  },
   "1440855765": {
     "skip": true,
     "newPrice": null,
@@ -35394,6 +35401,13 @@
     "secondhand": null,
     "note": "Patrol 336 SKIP: 跆拳道服 服飾 niche",
     "source": "patrol_336_skip"
+  },
+  "1440857862": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: 紫砂茶倉 紫砂 niche",
+    "source": "patrol_338_skip"
   },
   "1440858773": {
     "newPrice": null,
@@ -35450,6 +35464,13 @@
     "note": "Patrol 337 SKIP: 吉他無品牌 樂器 niche",
     "source": "patrol_337_skip"
   },
+  "1440863977": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: iPad Pro 11 2018 1 代 256G NT$8,800 持平 (老機)",
+    "source": "patrol_338_skip"
+  },
   "1440864158": {
     "newPrice": 5690,
     "secondhand": 4750,
@@ -35462,6 +35483,20 @@
     "secondhand": null,
     "note": "Patrol 337 SKIP: <NT$2K 娃娃機雜物魯夫行動電源",
     "source": "patrol_337_skip"
+  },
+  "1440868369": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: iPhone XR 128G 炘馳通訊 NT$4,500 二手店持平 (二手 NT$3-4K)",
+    "source": "patrol_338_skip"
+  },
+  "1440868512": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: iPhone 11 128 炘馳通訊 NT$5K 跟 patrol 334 同款貼齊中位",
+    "source": "patrol_338_skip"
   },
   "1440869154": {
     "skip": true,
@@ -35483,5 +35518,75 @@
     "secondhand": null,
     "note": "Patrol 337 SKIP: NUX DA-30BT 電子鼓音箱 樂器 niche",
     "source": "patrol_337_skip"
+  },
+  "1440872756": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: Samsung Tab S9 FE 256GB WiFi D0824 NT$9,500 = 112% 新 / 173% 二手 (過貴; BigGo 新品 NT$8,500 已可入, S10 FE 上市 S9 FE 殘值化, 店家溢價不撐)",
+    "source": "patrol_338_skip"
+  },
+  "1440875038": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: <NT$2K 羥磷鋁龍龜 玉石/水晶 niche",
+    "source": "patrol_338_skip"
+  },
+  "1440875544": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: iPad 9 64G 單主機 NT$6K 持平 (二手 NT$5-7K)",
+    "source": "patrol_338_skip"
+  },
+  "1440877939": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: Marshall Emberton II 奶油白 NT$4,000 vs patrol 316 二手中位 NT$3,250 = 123% 過貴",
+    "source": "patrol_338_skip"
+  },
+  "1440878640": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: Canon G7X Mark III NT$25K 過貴 (新品停售價 NT$23,990, 二手 NT$18-22K)",
+    "source": "patrol_338_skip"
+  },
+  "1440879062": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: Logitech Master 3S+K98M 套組 NT$4,000 = 76% 持平",
+    "source": "patrol_338_skip"
+  },
+  "1440879255": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: Leo小舖 vintage gizmo 老玩偶 niche",
+    "source": "patrol_338_skip"
+  },
+  "1440880322": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: Insta360 GO Ultra NT$15K vs patrol 308 新品 NT,998 = 125% 過貴",
+    "source": "patrol_338_skip"
+  },
+  "1440880546": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: <NT$2K 明治五錢 錢幣 niche",
+    "source": "patrol_338_skip"
+  },
+  "1440881952": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 338 SKIP: <NT$2K 美金 2 枚 早期收藏 niche",
+    "source": "patrol_338_skip"
   }
 }

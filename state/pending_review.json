@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "a0901314004",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "【實體雙卡】iPhone 12 PRO 128G 藍色 6.1吋 蘋果 二手機 台北 快速出貨 實體門市 J5941",
       "price": 5300,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$5,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 22:17",
+      "listedAt": "05/29 22:02",
       "pid": "1440708626",
       "verified": {
         "newPrice": null,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "tw880",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "BOSE QuietComfort 45耳罩式藍牙無線消噪耳機 霧白色",
       "price": 3500,
       "condition": "Lightly used",
@@ -104,7 +104,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 16:04",
+      "listedAt": "05/30 16:02",
       "pid": "1440838142",
       "verified": {
         "newPrice": 7980,
@@ -117,17 +117,17 @@
     },
     {
       "seller": "ccc._.ccc",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "iphone 11 pro max 256GB 夜幕綠 94%",
       "price": 5200,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1440858773/",
-      "category": "",
-      "maxDays": 1,
+      "category": "iPhone",
+      "maxDays": 5,
       "priceStr": "NT$5,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 18:04",
+      "listedAt": "05/30 18:02",
       "pid": "1440858773",
       "verified": {
         "newPrice": null,
@@ -142,7 +142,7 @@
   "negotiate": [
     {
       "seller": "c.c.an",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "iPhone 12 64",
       "price": 4000,
       "condition": "Lightly used",
@@ -152,7 +152,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 00:17",
+      "listedAt": "05/30 00:02",
       "pid": "1440728080",
       "verified": {
         "newPrice": null,
@@ -175,7 +175,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/28 18:17",
+      "listedAt": "05/28 20:02",
       "pid": "1434734994",
       "verified": {
         "newPrice": null,
@@ -198,7 +198,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/28 18:17",
+      "listedAt": "05/28 20:02",
       "pid": "1440545654",
       "verified": {
         "newPrice": null,
@@ -221,7 +221,7 @@
       "priceStr": "NT$3,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/28 18:17",
+      "listedAt": "05/28 20:02",
       "pid": "1434589587",
       "verified": {
         "newPrice": null,
@@ -257,7 +257,7 @@
     },
     {
       "seller": "snowstudio_apple_shop",
-      "timeAgo": "58 minutes ago",
+      "timeAgo": "3 hours ago",
       "title": "iPad Air 7 11吋 128G Wifi 紫色 全新未拆封",
       "price": 15500,
       "condition": "Brand new",
@@ -267,7 +267,7 @@
       "priceStr": "NT$15,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 17:19",
+      "listedAt": "05/30 17:02",
       "pid": "1440848577",
       "verified": {
         "newPrice": 19388,
@@ -280,7 +280,7 @@
     },
     {
       "seller": "whatever4142",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "SONY SEL35F18 APSC E環 公司貨",
       "price": 7000,
       "condition": "Lightly used",
@@ -290,7 +290,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 16:04",
+      "listedAt": "05/30 16:02",
       "pid": "1435024579",
       "verified": {
         "newPrice": 13300,
