@@ -206,8 +206,8 @@ README 只顯示**新發現的未看過商品**。沒有新貨時顯示「本輪
 
 ## 16. 重要連結
 
-- Gist：https://gist.github.com/yangnim21029/8b9b7ab910319ac83f1b36761c26cfc9
-- GitHub：https://github.com/yangnim21029/cheap-product
+- GitHub repo：https://github.com/yangnim21029/cheap-product
+- 動態 deal 報告：https://github.com/yangnim21029/cheap-product/blob/main/outputs/DEALS.md
 - 本地：`/Users/rose/Documents/cheap-product/`
 
 ## 17. suggestions.md：每輪觀察新方向

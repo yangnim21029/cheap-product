@@ -4,7 +4,7 @@ Carousell Taiwan 二手商品自動巡邏 + 分流 + 驗價系統。每輪掃 ~2
 
 User 端只看 `DEALS.md` 桶內品項做決定，每件決定後 mark_seen 進 `seen_ids.json`，下輪不再看到。
 
-> 動態 deal 報告 → [DEALS.md](DEALS.md)　｜　檔案地圖 → [MOC.md](MOC.md)　｜　巡邏流程 → [carousell_workflow.md](carousell_workflow.md)
+> 動態 deal 報告 → [outputs/DEALS.md](outputs/DEALS.md)　｜　檔案地圖 → [MOC.md](MOC.md)　｜　巡邏流程 → [carousell_workflow.md](carousell_workflow.md)
 
 ## 原則
 
@@ -68,7 +68,6 @@ node scripts/scrape.js && node scripts/process.js
 # 寫 state/verified_prices.json
 node scripts/process.js   # 重跑生 outputs/DEALS.md
 git add -A && git commit -m "patrol N: ..." && git push
-gh gist edit <gist-id> outputs/DEALS.md
 ```
 
 清掉已決定的 pending：
