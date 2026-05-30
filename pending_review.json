@@ -1,5 +1,168 @@
 {
-  "newDeals": [],
-  "negotiate": [],
+  "newDeals": [
+    {
+      "seller": "a0901314004",
+      "timeAgo": "13 hours ago",
+      "title": "【實體雙卡】iPhone 12 PRO 128G 藍色 6.1吋 蘋果 二手機 台北 快速出貨 實體門市 J5941",
+      "price": 5300,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440708626/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$5,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 22:03",
+      "pid": "1440708626",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 8000,
+        "note": "iPhone 12 Pro 128G 藍 J5 二手店 NT$5,300 = 66% 二手 (好貨 -34%; J5 實體保固加分, 注意藍色機背磨損)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 66
+    },
+    {
+      "seller": "Baoziii0112",
+      "timeAgo": "21 hours ago",
+      "title": "iPhone 12 128g",
+      "price": 4700,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440625099/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$4,700",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 14:03",
+      "pid": "1440625099",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7000,
+        "note": "iPhone 12 128g NT$4,700 = 67% 二手 (好貨 -33%; 21 小時新掛抓緊, 須現場驗電池/IMEI)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 67
+    },
+    {
+      "seller": "divingsss",
+      "timeAgo": "4 days ago",
+      "title": "iPhone 11 128GB",
+      "price": 3060,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440050482/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$3,060",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/26 11:03",
+      "pid": "1440050482",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5000,
+        "note": "iPhone 11 128GB NT$3,060 = 61% 二手 (好貨 -39%, 全清單最便宜; 4 天沒被搶代表可能有瑕疵, 重點驗副廠電池/螢幕/IMEI 鎖機)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 61
+    }
+  ],
+  "negotiate": [
+    {
+      "seller": "c.c.an",
+      "timeAgo": "11 hours ago",
+      "title": "iPhone 12 64",
+      "price": 4000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440728080/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 00:03",
+      "pid": "1440728080",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5500,
+        "note": "iPhone 12 64G NT$4,000 = 73% 二手 (殺價 -27%; 64G 容量小扣 NT$500 仍划算, 個人賣家無保固)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 73
+    },
+    {
+      "seller": "jimmy78315",
+      "timeAgo": "1 day ago",
+      "title": "iPhone 13 128g藍色",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1434734994/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 11:03",
+      "pid": "1434734994",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 8000,
+        "note": "iPhone 13 128g 藍 NT$6,000 = 75% 二手 (殺價 -25%; 藍色保值, 個人賣家須現場驗機)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 75
+    },
+    {
+      "seller": "quby3c",
+      "timeAgo": "1 day ago",
+      "title": "iPhone 11 Pro Max 256 綠 85%",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440545654/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/29 11:03",
+      "pid": "1440545654",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7200,
+        "note": "iPhone 11 Pro Max 256 綠 85% 電池 NT$6,000 = 83% 二手 (殺價合理; 85% 壓 Apple 健康線, 換電 NT$2,490 算進總成本, 綠色少見保值)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 83
+    },
+    {
+      "seller": "hihhni",
+      "timeAgo": "2 days ago",
+      "title": "iPhone 11 128G 白色 可貼換",
+      "price": 3600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1434589587/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$3,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/28 11:03",
+      "pid": "1434589587",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5000,
+        "note": "iPhone 11 128G 白 可貼換 NT$3,600 = 72% 二手 (殺價 -28%; 賣家想換新機急脫手, 驗電池+面板是否原廠)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 72
+    }
+  ],
   "uncertain": []
 }
