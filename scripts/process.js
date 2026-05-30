@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // === 賣家分類：從 sellers.json 讀取 ===
-const sellersData = JSON.parse(fs.readFileSync('sellers.json', 'utf8'));
+const sellersData = JSON.parse(fs.readFileSync('references/sellers.json', 'utf8'));
 const BANNED = new Set([
   ...sellersData.shops.accounts.map(a => a.id),
   ...(sellersData.overpriced?.accounts || []).map(a => a.id),
@@ -81,7 +81,7 @@ const SKIP_CAT = [
 // === 市場行情表：從 market_prices.json 讀取 ===
 // key = category（就是 scrape 的 query 或分類名），直接查表
 // 判斷規則：price <= currentNew*0.30 OR price <= secondhand*0.70
-const MARKET = JSON.parse(fs.readFileSync('market_prices.json', 'utf8'));
+const MARKET = JSON.parse(fs.readFileSync('references/market_prices.json', 'utf8'));
 
 function findMarket(category) {
   return MARKET[category] || null;
@@ -138,7 +138,7 @@ function timeAgoToTimestamp(timeAgo) {
 const escPipe = s => (s || '').replace(/\|/g, '/');
 
 // === 去重：排除之前已看過的 product ID ===
-const SEEN_FILE = 'seen_ids.json';
+const SEEN_FILE = 'state/seen_ids.json';
 let seenHistory = [];
 try { seenHistory = JSON.parse(fs.readFileSync(SEEN_FILE, 'utf8')); } catch {}
 const seenSet = new Set(seenHistory);
@@ -146,7 +146,7 @@ const seenSet = new Set(seenHistory);
 // === 同型號重複降權: title keyword 累積 ≥5 次 → 本輪最多顯示 1 筆 ===
 // Rose 2026-05-25: 「看過多次代表沒需求或行情普遍偏高, 減少出現率」
 let titleFreq = {};
-try { titleFreq = JSON.parse(fs.readFileSync('seen_title_freq.json', 'utf8')); } catch {}
+try { titleFreq = JSON.parse(fs.readFileSync('state/seen_title_freq.json', 'utf8')); } catch {}
 const TITLE_KEYWORD_PATTERNS = [
   /iPhone\s*(\d{1,2}(?:\s*Pro(?:\s*Max)?|\s*mini|\s*Plus)?)/i,
   /iPad\s*(Pro|Air|mini)?\s*(\d{1,2})?/i,
@@ -181,7 +181,7 @@ const isOversaturatedKeyword = (title) =>
   titleKeywords(title).some(k => (titleFreq[k] || 0) >= SEEN_KEYWORD_THRESHOLD);
 
 // === 主流程：基本篩選出候選清單 ===
-const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
+const raw = JSON.parse(fs.readFileSync('state/raw_results.json', 'utf8'));
 const seen = new Set();
 const candidates = []; // 通過基本篩選的候選
 let skippedDup = 0;
@@ -222,12 +222,12 @@ raw.forEach(item => {
 if (skippedOversat > 0) console.log(`同型號降權跳過: ${skippedOversat} 筆 (keyword freq ≥${SEEN_KEYWORD_THRESHOLD} 本輪最多 1)`);
 
 // === 讀取已驗證的價格（由 subagent 寫入）===
-const VERIFIED_FILE = 'verified_prices.json';
+const VERIFIED_FILE = 'state/verified_prices.json';
 let verified = {};
 try { verified = JSON.parse(fs.readFileSync(VERIFIED_FILE, 'utf8')); } catch {}
 
 // === 讀取累積的待審清單（跨 scrape 保留）===
-const PENDING_FILE = 'pending_review.json';
+const PENDING_FILE = 'state/pending_review.json';
 let pending = { newDeals: [], negotiate: [], uncertain: [] };
 try { pending = JSON.parse(fs.readFileSync(PENDING_FILE, 'utf8')); } catch {}
 
@@ -408,7 +408,7 @@ if (needVerifyRelevant.length > 0) {
 }
 
 // 只把相關的寫進 need_verify.json（無關鍵字雜訊不進）
-fs.writeFileSync('need_verify.json', JSON.stringify(needVerifyRelevant.map(d => ({
+fs.writeFileSync('state/need_verify.json', JSON.stringify(needVerifyRelevant.map(d => ({
   pid: d.pid, title: d.title, price: d.price, priceStr: d.priceStr,
   category: d.category, seller: d.seller, url: d.url, timeAgo: d.timeAgo
 })), null, 2));
@@ -431,12 +431,12 @@ const csvLines = ['category|seller|title|price|condition|url|newPrice|secondhand
   const v = d.verified || {};
   csvLines.push(`${d.category}|${d.seller}|${escPipe(d.title)}|${d.priceStr}|${d.condition}|${d.url}|${v.newPrice||''}|${v.secondhand||''}|${d.vsNew ?? '-'}%|${d.vsSecondhand ?? '-'}%|${d.listedAt}`);
 });
-fs.writeFileSync('carousell_wishlist_20260501.csv', csvLines.join('\n') + '\n');
+fs.writeFileSync('outputs/carousell_wishlist_20260501.csv', csvLines.join('\n') + '\n');
 
 // === 更新 README ===
 const now = new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei', hour12: false });
 const totalShops = (sellersData.shops?.accounts?.length || 0);
-const totalSeen = (() => { try { return JSON.parse(fs.readFileSync('seen_ids.json','utf8')).length; } catch { return 0; } })();
+const totalSeen = (() => { try { return JSON.parse(fs.readFileSync('state/seen_ids.json','utf8')).length; } catch { return 0; } })();
 let md = `# Carousell 二手好物巡邏\n\n`;
 md += `> ${now} · 累積已看 ${totalSeen} 筆 · ${totalShops} 位賣家黑名單\n\n`;
 md += `**待審：** 好貨 ${allNewDeals.length} ｜ 殺價 ${allNegotiate.length} ｜ 手動 ${allUncertain.length} ｜ 待查 ${needVerifyRelevant.length}\n\n`;
@@ -485,7 +485,7 @@ md += `- 檔案地圖 → [MOC.md](MOC.md)\n`;
 md += `- 每輪 [carousell_workflow.md](carousell_workflow.md) 8 步驟\n`;
 md += `- 賣家黑名單 / 信任名單 → [sellers.json](sellers.json)\n`;
 md += `- 已驗證個別品價 → [verified_prices.json](verified_prices.json)\n`;
-fs.writeFileSync('DEALS.md', md);
+fs.writeFileSync('outputs/DEALS.md', md);
 
 // === 更新 deals.html ===
 let html = `<!DOCTYPE html>\n<html lang="zh-TW">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1.0">\n<title>Carousell 二手好物清單</title>\n<style>\n*{margin:0;padding:0;box-sizing:border-box}\nbody{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0a0a;color:#e0e0e0;padding:20px;max-width:960px;margin:0 auto}\nh1{font-size:1.6rem;margin-bottom:6px;color:#fff}\n.sub{color:#888;margin-bottom:20px;font-size:.85rem}\ntable{width:100%;border-collapse:collapse;margin-bottom:30px}\nth{text-align:left;padding:10px 6px;border-bottom:2px solid #333;color:#888;font-size:.75rem;text-transform:uppercase}\ntd{padding:8px 6px;border-bottom:1px solid #1a1a1a;font-size:.85rem}\ntr:hover{background:#111}\n.p{color:#e8364e;font-weight:700}\n.d{color:#4ade80;font-weight:700}\na{color:#60a5fa;text-decoration:none}\na:hover{text-decoration:underline}\n.t{font-size:.8rem;color:#666}\n</style>\n</head>\n<body>\n<h1>Carousell 二手好物清單</h1>\n<p class="sub">新品≤30% or 二手行情≤70% | 3天內 | 停產品用二手行情 | ${now}</p>\n<table>\n<tr><th>品項</th><th>價格</th><th>比較基準</th><th>折數</th><th>狀態</th><th>上架</th><th></th></tr>\n`;
@@ -496,7 +496,7 @@ let html = `<!DOCTYPE html>\n<html lang="zh-TW">\n<head>\n<meta charset="UTF-8">
   html += `<tr><td>${d.title}</td><td class="p">${d.priceStr}</td><td>${basis}</td><td class="d">${disc}</td><td class="t">${d.condition}</td><td class="t">${d.listedAt}</td><td><a href="${d.url}" target="_blank">查看</a></td></tr>\n`;
 });
 html += `</table>\n</body>\n</html>`;
-fs.writeFileSync('deals.html', html);
+fs.writeFileSync('outputs/deals.html', html);
 
 // seen_ids 不自動更新——等使用者說「看完了」後跑 node mark_seen.js
 console.log(`\n✓ CSV + DEALS.md + HTML 已更新`);

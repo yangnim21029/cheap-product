@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const SEEN_FILE = 'seen_ids.json';
-const PENDING_FILE = 'pending_review.json';
+const SEEN_FILE = 'state/seen_ids.json';
+const PENDING_FILE = 'state/pending_review.json';
 
 let seen = [];
 try { seen = JSON.parse(fs.readFileSync(SEEN_FILE, 'utf8')); } catch {}
@@ -17,7 +17,7 @@ const pendingIds = all.filter(d => !isWatchlist(d)).map(d => d.pid).filter(Boole
 
 // 也收 raw_results 裡的 ID（避免重複出現）, 排除 watchlist pids
 const watchlistPids = new Set(watchlistItems.map(d => d.pid).filter(Boolean));
-const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
+const raw = JSON.parse(fs.readFileSync('state/raw_results.json', 'utf8'));
 const rawIds = raw.map(i => i.url?.match(/\/p\/(\d+)/)?.[1]).filter(Boolean).filter(pid => !watchlistPids.has(pid));
 
 const newSeen = [...new Set([...seen, ...pendingIds, ...rawIds])];

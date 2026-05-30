@@ -17,7 +17,7 @@ const delay = ms => new Promise(r => setTimeout(r, ms));
 
   let cookies = [];
   try {
-    const raw = JSON.parse(fs.readFileSync('/Users/rose/Documents/cheap-product/cookies.json', 'utf8'));
+    const raw = JSON.parse(fs.readFileSync('references/cookies.json', 'utf8'));
     cookies = raw.map(c => {
       const sameSiteMap = { 'unspecified': 'Lax', 'no_restriction': 'None', 'lax': 'Lax', 'strict': 'Strict' };
       return {

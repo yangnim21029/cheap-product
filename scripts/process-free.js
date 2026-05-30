@@ -7,9 +7,9 @@
 
 const fs = require('fs');
 
-const raw = JSON.parse(fs.readFileSync('raw_free.json', 'utf8'));
+const raw = JSON.parse(fs.readFileSync('state/raw_free.json', 'utf8'));
 let seen = [];
-try { seen = JSON.parse(fs.readFileSync('seen_ids.json', 'utf8')); } catch {}
+try { seen = JSON.parse(fs.readFileSync('state/seen_ids.json', 'utf8')); } catch {}
 const seenSet = new Set(seen);
 
 // 負向: 純贈品 (要消費才能拿)、過期、損壞、niche小物、徵求
@@ -26,6 +26,6 @@ const filtered = raw.filter(item => {
 
 console.log(`原始 ${raw.length} → 過濾後 ${filtered.length} (已看 ${raw.length - filtered.length - raw.filter(r => NEG_RE.test(r.title || '')).length}, 負向關鍵字 ${raw.filter(r => NEG_RE.test(r.title || '')).length})`);
 
-fs.writeFileSync('free_pending.json', JSON.stringify(filtered, null, 2));
+fs.writeFileSync('state/free_pending.json', JSON.stringify(filtered, null, 2));
 console.log('寫入 free_pending.json (供 subagent 估值)');
 console.log('下一步: 跑 subagent 估值 + 寫 free_items.md (≥NT$1,500 cap 8 筆)');

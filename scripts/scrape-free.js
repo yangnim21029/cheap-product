@@ -23,7 +23,7 @@ const URL = 'https://tw.carousell.com/categories/free-items-2158/';
 
   let cookies = [];
   try {
-    const raw = JSON.parse(fs.readFileSync('cookies.json', 'utf8'));
+    const raw = JSON.parse(fs.readFileSync('references/cookies.json', 'utf8'));
     cookies = raw.map(c => {
       const sameSiteMap = { 'unspecified': 'Lax', 'no_restriction': 'None', 'lax': 'Lax', 'strict': 'Strict' };
       return {
@@ -90,7 +90,7 @@ const URL = 'https://tw.carousell.com/categories/free-items-2158/';
   });
 
   console.log(`[${ts()}] 抓到 ${items.length} 筆免費物品`);
-  fs.writeFileSync('raw_free.json', JSON.stringify(items, null, 2));
+  fs.writeFileSync('state/raw_free.json', JSON.stringify(items, null, 2));
   console.log('已寫入 raw_free.json');
 
   await browser.close();

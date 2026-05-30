@@ -4,8 +4,8 @@
 
 const fs = require('fs');
 
-const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
-const sellersData = JSON.parse(fs.readFileSync('sellers.json', 'utf8'));
+const raw = JSON.parse(fs.readFileSync('state/raw_results.json', 'utf8'));
+const sellersData = JSON.parse(fs.readFileSync('references/sellers.json', 'utf8'));
 
 const BANNED = new Set([
   ...sellersData.shops.accounts.map(a => a.id),
@@ -68,6 +68,6 @@ for (const p of personal) {
   md += `| [${p.category}] ${title} | **${priceDisplay}** | ${p.seller} ${count} | ${p.timeAgo} | [→](${p.url}) |\n`;
 }
 
-fs.writeFileSync('personal_phones.md', md);
+fs.writeFileSync('outputs/personal_phones.md', md);
 console.log(`寫入 ${personal.length} 筆個人賣家手機/平板 → personal_phones.md`);
 console.log(`(原候選 ${candidates.length}, 過濾掉 ${candidates.length - personal.length})`);

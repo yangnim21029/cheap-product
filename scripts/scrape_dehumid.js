@@ -52,7 +52,7 @@ const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
 
   let cookies = [];
   try {
-    const raw = JSON.parse(fs.readFileSync('cookies.json', 'utf8'));
+    const raw = JSON.parse(fs.readFileSync('references/cookies.json', 'utf8'));
     cookies = raw.map(c => {
       const sameSiteMap = { 'unspecified': 'Lax', 'no_restriction': 'None', 'lax': 'Lax', 'strict': 'Strict' };
       return {
@@ -107,6 +107,6 @@ const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
 
   console.log(`\n=== 完成 ===`);
   console.log(`總共 ${all.length} 筆 (去重 ${unique.length})`);
-  fs.writeFileSync('dehumid_results.json', JSON.stringify(unique, null, 2));
+  fs.writeFileSync('state/dehumid_results.json', JSON.stringify(unique, null, 2));
   console.log(`已寫入 dehumid_results.json`);
 })();

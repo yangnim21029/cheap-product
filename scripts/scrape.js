@@ -170,7 +170,7 @@ const delay = ms => new Promise(r => setTimeout(r, ms));
 const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
 
 // === Query 效果追蹤 ===
-const STATS_FILE = 'query_stats.json';
+const STATS_FILE = 'state/query_stats.json';
 let stats = {};
 try { stats = JSON.parse(fs.readFileSync(STATS_FILE, 'utf8')); } catch {}
 
@@ -184,7 +184,7 @@ const SKIP_RATIO = 0.3;
   // 嘗試載入已登入的 cookie
   let cookies = [];
   try {
-    const raw = JSON.parse(fs.readFileSync('cookies.json', 'utf8'));
+    const raw = JSON.parse(fs.readFileSync('references/cookies.json', 'utf8'));
     cookies = raw.map(c => {
       const sameSiteMap = { 'unspecified': 'Lax', 'no_restriction': 'None', 'lax': 'Lax', 'strict': 'Strict' };
       return {
@@ -353,7 +353,7 @@ const SKIP_RATIO = 0.3;
   console.log(`[${ts()}] 總共 ${all.length} 筆（去重 ${unique}，3天內 ${recentAll.length} 筆）`);
   console.log(`來源: ${QUERIES.length} 搜尋 + ${CATEGORIES.length} 分類`);
 
-  fs.writeFileSync('raw_results.json', JSON.stringify(all, null, 2));
+  fs.writeFileSync('state/raw_results.json', JSON.stringify(all, null, 2));
   console.log(`已寫入 raw_results.json`);
 
   // === Query 效果報告（只 warn 還在 QUERIES 內的；已註解掉的不再吵）===

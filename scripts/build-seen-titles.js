@@ -3,8 +3,8 @@
 
 const fs = require('fs');
 
-const seen = JSON.parse(fs.readFileSync('seen_ids.json', 'utf8'));
-const vp = JSON.parse(fs.readFileSync('verified_prices.json', 'utf8'));
+const seen = JSON.parse(fs.readFileSync('state/seen_ids.json', 'utf8'));
+const vp = JSON.parse(fs.readFileSync('state/verified_prices.json', 'utf8'));
 
 // 品牌+型號 regex (粗顆粒，抓出大宗常見型號)
 const PATTERNS = [
@@ -77,7 +77,7 @@ for (const pid of seenSet) {
 // 排序顯示
 const sorted = Object.entries(freq).sort((a, b) => b[1] - a[1]);
 
-fs.writeFileSync('seen_title_freq.json', JSON.stringify(freq, null, 2));
+fs.writeFileSync('state/seen_title_freq.json', JSON.stringify(freq, null, 2));
 
 console.log(`掃 ${scanned} 筆 verified+seen, 抽出 ${Object.keys(freq).length} 個 keyword`);
 console.log();

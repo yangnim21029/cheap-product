@@ -49,7 +49,7 @@ const CURRENT_CATEGORIES = [
 ];
 
 // 讀 raw_results
-const raw = JSON.parse(fs.readFileSync('raw_results.json', 'utf8'));
+const raw = JSON.parse(fs.readFileSync('state/raw_results.json', 'utf8'));
 
 // 過濾 3 天內 + 高金額
 const isRecent = t => /^(minute|\d+ minutes?|1 hour|\d+ hours?|1 day|2 days)/i.test(t);

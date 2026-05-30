@@ -23,7 +23,7 @@ if (pids.length === 0) {
   const browser = await chromium.launch({ headless: true });
   let cookies = [];
   try {
-    const raw = JSON.parse(fs.readFileSync('cookies.json', 'utf8'));
+    const raw = JSON.parse(fs.readFileSync('references/cookies.json', 'utf8'));
     cookies = raw.map(c => {
       const m = { unspecified:'Lax', no_restriction:'None', lax:'Lax', strict:'Strict' };
       return { name:c.name, value:c.value, domain:c.domain, path:c.path||'/',
@@ -79,7 +79,7 @@ if (pids.length === 0) {
     console.log(JSON.stringify(data, null, 2));
   }
 
-  fs.writeFileSync('listing_probe.json', JSON.stringify(out, null, 2));
+  fs.writeFileSync('state/listing_probe.json', JSON.stringify(out, null, 2));
   console.log('\n寫入 listing_probe.json');
   await browser.close();
 })().catch(e => { console.error('ERR', e.message); process.exit(1); });

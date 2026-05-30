@@ -1,1 +1,6 @@
 node_modules/
+references/cookies.json
+references/cookies.json.bak
+outputs/scrape.log
+*.log
+.DS_Store

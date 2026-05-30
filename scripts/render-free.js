@@ -2,8 +2,8 @@
 // Verdicts 走 stdin (echo '[{"pid":...}]' | node render-free.js) 或讀 free_verdicts.json
 
 const fs = require('fs');
-const pending = JSON.parse(fs.readFileSync('free_pending.json', 'utf8'));
-const verdicts = JSON.parse(fs.readFileSync('free_verdicts.json', 'utf8'));
+const pending = JSON.parse(fs.readFileSync('state/free_pending.json', 'utf8'));
+const verdicts = JSON.parse(fs.readFileSync('state/free_verdicts.json', 'utf8'));
 const vMap = Object.fromEntries(verdicts.map(v => [v.pid, v]));
 
 const recommended = pending
@@ -35,5 +35,5 @@ if (recommended.length === 0) {
 
 md += `\n---\n\n_本流程每天早晚 2 次，跟主 patrol 分軌。Cap 8 筆/輪。_\n`;
 
-fs.writeFileSync('free_items.md', md);
+fs.writeFileSync('outputs/free_items.md', md);
 console.log(`寫入 free_items.md (${recommended.length} 筆推薦)`);

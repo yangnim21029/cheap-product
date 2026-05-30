@@ -60,20 +60,20 @@ vsSF < 50% 看似撿到，實際多半是電池衰退、副廠零件、盜刷品
 
 ## 跑法
 
-每輪：
+每輪（cwd 是 repo root）：
 ```bash
-node scrape.js && node process.js
-# 手動分流 need_verify.json
+node scripts/scrape.js && node scripts/process.js
+# 手動分流 state/need_verify.json
 # subagent verify 高價未知品
-# 寫 verified_prices.json
-node process.js   # 重跑生 DEALS.md
+# 寫 state/verified_prices.json
+node scripts/process.js   # 重跑生 outputs/DEALS.md
 git add -A && git commit -m "patrol N: ..." && git push
-gh gist edit <gist-id> DEALS.md
+gh gist edit <gist-id> outputs/DEALS.md
 ```
 
 清掉已決定的 pending：
 ```bash
-node mark_seen.js
+node scripts/mark_seen.js
 ```
 
 ## 系統檔案
