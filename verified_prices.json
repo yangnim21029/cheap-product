@@ -893,6 +893,13 @@
     "note": "Patrol 99 SKIP: 福倫達Voigtlander VM Super Wide Heliar 15mm z2796111",
     "source": "manual_skip"
   },
+  "1422035552": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: 千禧年龍年拾圓紀念幣一卷 50 枚 錢幣 niche",
+    "source": "patrol_336_skip"
+  },
   "1422060674": {
     "newPrice": null,
     "secondhand": null,
@@ -6306,6 +6313,13 @@
     "secondhand": null,
     "note": "Patrol 331 SKIP: <NT$2K GD 權志龍積木周邊",
     "source": "patrol_331_skip"
+  },
+  "1435140707": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: 美光 DDR5 4800 32G NT$11,800 vs 通路 NT$3K = 393% 暴貴",
+    "source": "patrol_336_skip"
   },
   "1435143267": {
     "skip": true,
@@ -34474,6 +34488,13 @@
     "note": "Patrol 321 SKIP: JBL FLIP 6 NT$3,800 vs 新 NT$3,200 = 119% 比新品還貴 (vsSF 158%)",
     "source": "patrol_321_skip"
   },
+  "1440746329": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: iPhone 13 256「挑戰最低價」NT$3,500 詐騙標題 (17 Pro Max 同套路)",
+    "source": "patrol_336_skip"
+  },
   "1440746790": {
     "skip": true,
     "newPrice": null,
@@ -35152,6 +35173,13 @@
     "note": "Patrol 335 SKIP: 明治 37 年龍銀 鴻兔小舖 第 4 次連發錢幣 niche",
     "source": "patrol_335_skip"
   },
+  "1440844294": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: KENWOOD 音響一組 型號未列",
+    "source": "patrol_336_skip"
+  },
   "1440844322": {
     "skip": true,
     "newPrice": null,
@@ -35201,6 +35229,12 @@
     "note": "Patrol 335 SKIP: <NT$2K 中島健人手燈 偶像周邊",
     "source": "patrol_335_skip"
   },
+  "1440848577": {
+    "newPrice": 19388,
+    "secondhand": 17500,
+    "note": "iPad Air 7 11吋 128G WiFi 紫 全新未拆 NT$15,500 = 80% 新 / 89% 二手 (殺價 偏甜可入; 2026 新機保固完整, 須驗發票/序號)",
+    "source": "biggo 2026-05-30"
+  },
   "1440848662": {
     "skip": true,
     "newPrice": null,
@@ -35221,5 +35255,109 @@
     "secondhand": null,
     "note": "Patrol 335 SKIP: Test 測試貼文",
     "source": "patrol_335_skip"
+  },
+  "1440849523": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: Yoshida Porter 公事包 niche",
+    "source": "patrol_336_skip"
+  },
+  "1440850011": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: <NT$2K 剛巴巴碧玉圓球 玉石+早期 niche",
+    "source": "patrol_336_skip"
+  },
+  "1440851025": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: iPad Air 5 64G WiFi NT$10K (patrol 312 同款 NT$9,300 已殺價, 這次更貴)",
+    "source": "patrol_336_skip"
+  },
+  "1440852660": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: PS5 1218A 2023 製 NT$9,800 = 75% 二手 (1218A 行情 NT$9-10K, 比 1018A 只降 NT$700 不甜, 二手 PS5 故障率不低)",
+    "source": "patrol_336_skip"
+  },
+  "1440852774": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: MSI 電競螢幕限高雄面交 型號未列",
+    "source": "patrol_336_skip"
+  },
+  "1440853453": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: 早期純銅釋迦摩尼佛尊 #14 古銅雕連發 niche",
+    "source": "patrol_336_skip"
+  },
+  "1440854835": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: Apple Watch S8 45mm 國行水貨 95% NT$2K 太甜 + 國行可能鎖區風險",
+    "source": "patrol_336_skip"
+  },
+  "1440855765": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: Mac mini M4 16/256 NT$17,500 = 93% 新 / 92% 二手 (Costco 同價區段含完整保固+退貨)",
+    "source": "patrol_336_skip"
+  },
+  "1440856086": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: iPad Pro 11 第 3 代 容量未列",
+    "source": "patrol_336_skip"
+  },
+  "1440857178": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: iPhone 11 Pro Max 256 綠 94% NT$6K 連發取 1 跑 verify",
+    "source": "patrol_336_skip"
+  },
+  "1440857702": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: <NT$2K 紫袍玉圓球 玉石+早期 niche",
+    "source": "patrol_336_skip"
+  },
+  "1440857819": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: 跆拳道服 服飾 niche",
+    "source": "patrol_336_skip"
+  },
+  "1440858773": {
+    "newPrice": null,
+    "secondhand": 7500,
+    "note": "iPhone 11 Pro Max 256GB 夜幕綠 94% 電池 NT$6,000 = 80% 二手 (殺價; 94% 電池比 patrol 329 同款 85% 更甜=免費升級電池, iOS 支援邊緣自用 2 年內 OK)",
+    "source": "biggo 2026-05-30"
+  },
+  "1440859038": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: Scoot 平衡車玩具 niche",
+    "source": "patrol_336_skip"
+  },
+  "1440861265": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 336 SKIP: Acer SA322QK 4K 螢幕 NT$5,000 = 83% 新 / 88% 二手 (只省 NT$999, VA 面板亮點/背光不均風險不對稱, 末段現役機)",
+    "source": "patrol_336_skip"
   }
 }

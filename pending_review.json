@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "a0901314004",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "【實體雙卡】iPhone 12 PRO 128G 藍色 6.1吋 蘋果 二手機 台北 快速出貨 實體門市 J5941",
       "price": 5300,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$5,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/29 22:02",
+      "listedAt": "05/29 22:03",
       "pid": "1440708626",
       "verified": {
         "newPrice": null,
@@ -71,17 +71,17 @@
     },
     {
       "seller": "ashin524",
-      "timeAgo": "9 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "蘋果 Apple watch S7 41mm 不鏽鋼 太空灰",
       "price": 5000,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1440842913/",
-      "category": "apple watch",
-      "maxDays": 3,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 16:53",
+      "listedAt": "05/30 17:03",
       "pid": "1440842913",
       "verified": {
         "newPrice": null,
@@ -94,7 +94,7 @@
     },
     {
       "seller": "tw880",
-      "timeAgo": "54 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "BOSE QuietComfort 45耳罩式藍牙無線消噪耳機 霧白色",
       "price": 3500,
       "condition": "Lightly used",
@@ -104,7 +104,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 16:08",
+      "listedAt": "05/30 16:03",
       "pid": "1440838142",
       "verified": {
         "newPrice": 7980,
@@ -119,7 +119,7 @@
   "negotiate": [
     {
       "seller": "c.c.an",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "iPhone 12 64",
       "price": 4000,
       "condition": "Lightly used",
@@ -129,7 +129,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 00:02",
+      "listedAt": "05/30 00:03",
       "pid": "1440728080",
       "verified": {
         "newPrice": null,
@@ -152,7 +152,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/28 16:02",
+      "listedAt": "05/28 18:03",
       "pid": "1434734994",
       "verified": {
         "newPrice": null,
@@ -175,7 +175,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/28 16:02",
+      "listedAt": "05/28 18:03",
       "pid": "1440545654",
       "verified": {
         "newPrice": null,
@@ -198,7 +198,7 @@
       "priceStr": "NT$3,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/28 16:02",
+      "listedAt": "05/28 18:03",
       "pid": "1434589587",
       "verified": {
         "newPrice": null,
@@ -211,17 +211,17 @@
     },
     {
       "seller": "judyh1234",
-      "timeAgo": "36 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "Balmuda the Toast pro 百慕達蒸汽烤箱 K11C-SE",
       "price": 7990,
       "condition": "Brand new",
       "url": "https://tw.carousell.com/p/1440840682/",
-      "category": "烤箱",
-      "maxDays": 7,
+      "category": "",
+      "maxDays": 1,
       "priceStr": "NT$7,990",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 16:26",
+      "listedAt": "05/30 16:03",
       "pid": "1440840682",
       "verified": {
         "newPrice": 12990,
@@ -231,6 +231,52 @@
       },
       "vsNew": 62,
       "vsSecondhand": 85
+    },
+    {
+      "seller": "snowstudio_apple_shop",
+      "timeAgo": "58 minutes ago",
+      "title": "iPad Air 7 11吋 128G Wifi 紫色 全新未拆封",
+      "price": 15500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1440848577/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$15,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 17:05",
+      "pid": "1440848577",
+      "verified": {
+        "newPrice": 19388,
+        "secondhand": 17500,
+        "note": "iPad Air 7 11吋 128G WiFi 紫 全新未拆 NT$15,500 = 80% 新 / 89% 二手 (殺價 偏甜可入; 2026 新機保固完整, 須驗發票/序號)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": 80,
+      "vsSecondhand": 89
+    },
+    {
+      "seller": "ccc._.ccc",
+      "timeAgo": "8 minutes ago",
+      "title": "iphone 11 pro max 256GB 夜幕綠 94%",
+      "price": 6000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440858773/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 17:55",
+      "pid": "1440858773",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 7500,
+        "note": "iPhone 11 Pro Max 256GB 夜幕綠 94% 電池 NT$6,000 = 80% 二手 (殺價; 94% 電池比 patrol 329 同款 85% 更甜=免費升級電池, iOS 支援邊緣自用 2 年內 OK)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": null,
+      "vsSecondhand": 80
     }
   ],
   "uncertain": []
