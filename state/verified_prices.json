@@ -1463,6 +1463,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1424143176": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: <NT$2K PukanaLa 烏克麗麗",
+    "source": "patrol_358_skip"
+  },
   "1424188939": {
     "newPrice": null,
     "secondhand": null,
@@ -3232,6 +3239,13 @@
     "secondhand": null,
     "note": "Patrol 356 SKIP: Odyssey Tri beam 高爾夫推桿 niche",
     "source": "patrol_356_skip"
+  },
+  "1429272017": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: ROG Z690-E DDR5 NT$3,900 Z690 已被 Z790/Z890 取代邊緣",
+    "source": "patrol_358_skip"
   },
   "1429281360": {
     "skip": true,
@@ -37007,6 +37021,13 @@
     "note": "Patrol 355 SKIP: <NT$2K GTE Styleline 1970s 復古電話 老物",
     "source": "patrol_355_skip"
   },
+  "1440988747": {
+    "skip": true,
+    "newPrice": 8240,
+    "secondhand": 5500,
+    "note": "Patrol 358 SKIP: Elgato Stream Deck XL NT$5K = 61% 新 / 91% 二手 (vsSF 風險帶 + Stream Deck + XL 2026 已出 32 鍵成上代殘值續跌, 等 NT$3,500 再撿)",
+    "source": "patrol_358_skip"
+  },
   "1440989071": {
     "skip": true,
     "newPrice": null,
@@ -37035,12 +37056,33 @@
     "note": "Patrol 356 SKIP: Marshall Emberton I 一代 NT$2,400 被 II/III 取代",
     "source": "patrol_356_skip"
   },
+  "1440991627": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: RTX 2080 Ti NT$10K 邊緣 (二手 NT$6-10K, 老顯卡)",
+    "source": "patrol_358_skip"
+  },
+  "1440996193": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: Bacchus GS-2DX 電吉他 樂器 niche",
+    "source": "patrol_358_skip"
+  },
   "1440996509": {
     "skip": true,
     "newPrice": 48000,
     "secondhand": 17500,
     "note": "Patrol 356 SKIP: MSI Sword 15 A12UC NT$20K = 114% 二手 (12 代+3050 4G 上代等同新世代 4050 入門新機價, 砍至 NT$15K 才合理)",
     "source": "patrol_356_skip"
+  },
+  "1440996544": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: 崩壞星穹鐵道一番賞 動漫週邊 niche",
+    "source": "patrol_358_skip"
   },
   "1440997913": {
     "skip": true,
@@ -37069,6 +37111,13 @@
     "secondhand": 9000,
     "note": "Patrol 356 SKIP: MBP 13 2019 i5/8/512 NT$10,800 = 120% 二手 (賣家標 16G 版價; Intel 末代 macOS 26 砍支援世代淘汰)",
     "source": "patrol_356_skip"
+  },
+  "1441001155": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: 拍立得 mini 9 niche",
+    "source": "patrol_358_skip"
   },
   "1441002405": {
     "skip": true,
@@ -37126,11 +37175,46 @@
     "note": "Patrol 357 SKIP: 碩寛盤 偶像周邊 niche",
     "source": "patrol_357_skip"
   },
+  "1441013528": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: <NT$2K Qmat 瑜珈墊",
+    "source": "patrol_358_skip"
+  },
   "1441013643": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 357 SKIP: 美津濃 FINALIST 高爾夫桿 13 支 niche",
     "source": "patrol_357_skip"
+  },
+  "1441015577": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: 戴資穎球拍 球員 niche",
+    "source": "patrol_358_skip"
+  },
+  "1441017909": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: 觀賞用天然石 水晶/玉石 niche",
+    "source": "patrol_358_skip"
+  },
+  "1441024184": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: ASUS K3500PC 11 代 i5+3050 4G 老入門電競",
+    "source": "patrol_358_skip"
+  },
+  "1441025251": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 358 SKIP: <NT$2K 早期手工樹脂老件 niche",
+    "source": "patrol_358_skip"
   }
 }
