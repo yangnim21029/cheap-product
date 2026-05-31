@@ -6763,6 +6763,13 @@
     "note": "Patrol 356 SKIP: Woody Custom Les Paul 樂器 niche",
     "source": "patrol_356_skip"
   },
+  "1435283177": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 371 SKIP: <NT$2K Allite B1 Type-C 充電頭",
+    "source": "patrol_371_skip"
+  },
   "1435285076": {
     "skip": true,
     "newPrice": null,
@@ -38481,6 +38488,13 @@
     "note": "Patrol 370 SKIP: <NT$2K GD100 鍵盤 (滑鼠 sub-cat 發錯類)",
     "source": "patrol_370_skip"
   },
+  "1441142333": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 371 SKIP: <NT$2K 亞曼尼香氛蠟燭+刷具",
+    "source": "patrol_371_skip"
+  },
   "1441142945": {
     "skip": true,
     "newPrice": 2788,
@@ -38494,5 +38508,18 @@
     "secondhand": null,
     "note": "Patrol 370 SKIP: <NT$2K 墨子科技 10000mAh 標 W 錯",
     "source": "patrol_370_skip"
+  },
+  "1441143573": {
+    "newPrice": 6190,
+    "secondhand": 4500,
+    "note": "AirPods Pro 2 USB-C 9.9 成新 NT$3,800 = 61% 新 / 84% 二手 (殺價 BUY 候選; Pro 3 取代殘值跌, 須驗序號+保固+配對, 24h 沒回應就 pass)",
+    "source": "biggo+apple 2026-06-01"
+  },
+  "1441144783": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 371 SKIP: 日清咚兵衛狐狸保險箱 周邊 niche",
+    "source": "patrol_371_skip"
   }
 }
