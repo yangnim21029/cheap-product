@@ -25,7 +25,7 @@
     },
     {
       "seller": "qqq7276185",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "Iphone XS max 256g",
       "price": 3050,
       "condition": "Like new",
@@ -35,7 +35,7 @@
       "priceStr": "NT$3,050",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 22:02",
+      "listedAt": "05/30 22:03",
       "pid": "1440902432",
       "verified": {
         "newPrice": null,
@@ -48,7 +48,7 @@
     },
     {
       "seller": "ecora159453236",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "MSI CLAW A1M 電競掌機 順玩各類AAA大作",
       "price": 10499,
       "condition": "Like new",
@@ -73,7 +73,7 @@
   "negotiate": [
     {
       "seller": "kingjlin12-52731",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
       "price": 4390,
       "condition": "Brand new",
@@ -96,7 +96,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 巧控鍵盤",
       "price": 3000,
       "condition": "Like new",
@@ -136,17 +136,17 @@
     },
     {
       "seller": "gino1004",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "3 hours ago",
       "title": "【Marshall】Uxbridge Voice (Alexa version) 智慧小喇叭 二手近全新",
       "price": 5000,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1440962406/",
-      "category": "喇叭",
+      "category": "音響耳機",
       "maxDays": 3,
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 11:03",
+      "listedAt": "05/31 10:03",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -192,6 +192,29 @@
         "vsNew": 63,
         "vsSecondhand": 107
       }
+    },
+    {
+      "seller": "dhamoeba40937",
+      "timeAgo": "3 hours ago",
+      "title": "近全新 Olympus om System 12-45mm f4 pro 鏡頭",
+      "price": 9500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440962629/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$9,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 10:03",
+      "pid": "1440962629",
+      "verified": {
+        "newPrice": 17990,
+        "secondhand": 11000,
+        "note": "Olympus OM System 12-45mm f/4 Pro M43 近全新 NT$9,500 = 53% 新 / 86% 二手 (殺價; 現行品無世代風險, 比 SF 中位低 14% 合理)",
+        "source": "biggo 2026-05-31"
+      },
+      "vsNew": 53,
+      "vsSecondhand": 86
     }
   ],
   "uncertain": []

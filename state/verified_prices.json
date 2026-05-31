@@ -3066,6 +3066,13 @@
     "note": "Patrol 316 SKIP: <NT$2K 凱文柯恩 CD",
     "source": "patrol_316_skip"
   },
+  "1429083184": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: Freitag F49 FRINGE 包款不明 niche",
+    "source": "patrol_355_skip"
+  },
   "1429106472": {
     "skip": true,
     "newPrice": null,
@@ -36212,6 +36219,13 @@
     "note": "Patrol 342 SKIP: jezzelle 4canister 品牌不明",
     "source": "patrol_342_skip"
   },
+  "1440923378": {
+    "skip": true,
+    "newPrice": 5690,
+    "secondhand": 3350,
+    "note": "Patrol 355 SKIP: AirPods Pro 2 USB-C NT$4,800 = 84% 新 / 143% 二手 (過貴; momo A 級 NT$4,999 + AirPods Pro 3 已上市殘值跌, 賣家逼近全新)",
+    "source": "biggo 2026-05-31"
+  },
   "1440924040": {
     "skip": true,
     "newPrice": null,
@@ -36609,12 +36623,33 @@
     "note": "ASUS Vivobook M1807GA AI 5-430 16/512 NT$20K = 114% 新 (vs Costco) / 133% 二手 (機會主義桶; 新品首發半年內二手高於 Costco 新品 NT$2,500, 風險: 仿冒/瑕疵/灌水, User 自查)",
     "source": "biggo+costco 2026-05-31"
   },
+  "1440956929": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: DDR5 32G 4800 NT$6,200 vs 通路 NT$3K = 200% 暴貴",
+    "source": "patrol_355_skip"
+  },
+  "1440957140": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: Lenovo 15.6 11 代 i5 8/512 入門老機",
+    "source": "patrol_355_skip"
+  },
   "1440959403": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 352 SKIP: <NT$2K 骰子全專 刮卡馬丁",
     "source": "patrol_352_skip"
+  },
+  "1440959607": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: 華為 GT 5 Pro 42mm NT$5K 邊緣 (patrol 318 同款全新 NT$6,500 殺價)",
+    "source": "patrol_355_skip"
   },
   "1440959637": {
     "skip": true,
@@ -36650,6 +36685,19 @@
     "note": "Marshall Uxbridge Voice Alexa 二手近全新 NT$5,000 = 69% 新 / 84% 二手 (殺價; 末代庫存 Alexa 版冷門 PChome 已下架, Acton III/Stanmore III 取代, 可砍至 NT$4K)",
     "source": "biggo 2026-05-31"
   },
+  "1440962629": {
+    "newPrice": 17990,
+    "secondhand": 11000,
+    "note": "Olympus OM System 12-45mm f/4 Pro M43 近全新 NT$9,500 = 53% 新 / 86% 二手 (殺價; 現行品無世代風險, 比 SF 中位低 14% 合理)",
+    "source": "biggo 2026-05-31"
+  },
+  "1440962691": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: 改機 PS4 盜版遊戲 法律風險",
+    "source": "patrol_355_skip"
+  },
   "1440963675": {
     "newPrice": 18888,
     "secondhand": 16000,
@@ -36663,12 +36711,26 @@
     "note": "Patrol 353 SKIP: Tokuyo TB-199W 健身車 niche",
     "source": "patrol_353_skip"
   },
+  "1440964453": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: 卡西歐電子琴型號未列+樂器 niche",
+    "source": "patrol_355_skip"
+  },
   "1440965227": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 353 SKIP: <NT$2K 實木烏克麗麗",
     "source": "patrol_353_skip"
+  },
+  "1440965396": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: Quest 2 128G+BOBOVR 上代 VR",
+    "source": "patrol_355_skip"
   },
   "1440966802": {
     "skip": true,
@@ -36696,6 +36758,13 @@
     "secondhand": null,
     "note": "Patrol 354 SKIP: <NT$2K Lador 髮膜",
     "source": "patrol_354_skip"
+  },
+  "1440970957": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: iPhone 11 容量未列",
+    "source": "patrol_355_skip"
   },
   "1440971097": {
     "newPrice": 18500,
@@ -36758,5 +36827,68 @@
     "secondhand": null,
     "note": "Patrol 354 SKIP: PS5 Slim NT$13.5K = 84% 邊緣持平",
     "source": "patrol_354_skip"
+  },
+  "1440980485": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: CHUWI MiniBook X N100 山寨 mini 筆電",
+    "source": "patrol_355_skip"
+  },
+  "1440983008": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: <NT$2K Diptyque 晚香玉蠟燭",
+    "source": "patrol_355_skip"
+  },
+  "1440983730": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: ASUS R414UV i5-7200U 7 代老機",
+    "source": "patrol_355_skip"
+  },
+  "1440984656": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: Epiphone Thunderbird bass 樂器 niche",
+    "source": "patrol_355_skip"
+  },
+  "1440985645": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: <NT$2K McDonald 1970s 玻璃杯 老物",
+    "source": "patrol_355_skip"
+  },
+  "1440985989": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: <NT$2K Super Junior 手燈 應援棒",
+    "source": "patrol_355_skip"
+  },
+  "1440986427": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: <NT$2K GTE Styleline 1970s 復古電話 老物",
+    "source": "patrol_355_skip"
+  },
+  "1440989071": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: <NT$2K Le Sserafim 手燈 應援棒",
+    "source": "patrol_355_skip"
+  },
+  "1440989829": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 355 SKIP: <NT$2K Stray Kids 手燈 應援棒",
+    "source": "patrol_355_skip"
   }
 }
