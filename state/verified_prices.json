@@ -36539,5 +36539,33 @@
     "secondhand": null,
     "note": "Patrol 350 SKIP: NDSL 2006 老主機",
     "source": "patrol_350_skip"
+  },
+  "1440951908": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 351 SKIP: <NT$2K ANKER A1654 MagGo Qi2",
+    "source": "patrol_351_skip"
+  },
+  "1440952107": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 351 SKIP: juhoon 熱貴卡 ms 預售特典 韓團卡 niche",
+    "source": "patrol_351_skip"
+  },
+  "1440954152": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 351 SKIP: <NT$2K 蝴蝶結香蕉夾髮飾",
+    "source": "patrol_351_skip"
+  },
+  "1440954379": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 351 SKIP: 羅技藍芽耳機型號未列",
+    "source": "patrol_351_skip"
   }
 }
