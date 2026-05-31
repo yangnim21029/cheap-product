@@ -48,7 +48,7 @@
     },
     {
       "seller": "c.c.an",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "IPhone 12 64G 藍",
       "price": 3900,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$3,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 19:02",
+      "listedAt": "05/31 19:01",
       "pid": "1441068213",
       "verified": {
         "newPrice": null,
@@ -68,6 +68,29 @@
       },
       "vsNew": null,
       "vsSecondhand": 65
+    },
+    {
+      "seller": "clevereagle_c61a43",
+      "timeAgo": "15 hours ago",
+      "title": "BenQ MOBIUZ EX3210R 32吋 2K 165Hz 曲面電競螢幕",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441023621/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 16:01",
+      "pid": "1441023621",
+      "verified": {
+        "newPrice": 9018,
+        "secondhand": 9018,
+        "note": "BenQ MOBIUZ EX3210R 32 2K 165 NT$5K = 55% 新 / 55% 二手 (好貨 機會主義; 太甜疑面板瑕疵, BigGo floor 5K 是 Carousell 本身, User 須驗壞點/烙印/曲面)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": 55,
+      "vsSecondhand": 55
     },
     {
       "seller": "ecora159453236",
@@ -91,29 +114,6 @@
       },
       "vsNew": 56,
       "vsSecondhand": 66
-    },
-    {
-      "seller": "clevereagle_c61a43",
-      "timeAgo": "14 hours ago",
-      "title": "BenQ MOBIUZ EX3210R 32吋 2K 165Hz 曲面電競螢幕",
-      "price": 5000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441023621/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$5,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/31 16:02",
-      "pid": "1441023621",
-      "verified": {
-        "newPrice": 9018,
-        "secondhand": 9018,
-        "note": "BenQ MOBIUZ EX3210R 32 2K 165 NT$5K = 55% 新 / 55% 二手 (好貨 機會主義; 太甜疑面板瑕疵, BigGo floor 5K 是 Carousell 本身, User 須驗壞點/烙印/曲面)",
-        "source": "biggo 2026-06-01"
-      },
-      "vsNew": 55,
-      "vsSecondhand": 55
     }
   ],
   "negotiate": [
@@ -139,6 +139,29 @@
       },
       "vsNew": 64,
       "vsSecondhand": 71
+    },
+    {
+      "seller": "linmimic1234",
+      "timeAgo": "7 hours ago",
+      "title": "ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441123108/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$15,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 00:01",
+      "pid": "1441123108",
+      "verified": {
+        "newPrice": 25850,
+        "secondhand": 20000,
+        "note": "ASUS Vivobook S15 OLED S5504VA 13 代 i7-13700H NT$15K = 58% 新 / 75% 二手 (BUY; 13700H+OLED 仍堪用)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 75
     },
     {
       "seller": "aimerchen",
@@ -188,7 +211,7 @@
     },
     {
       "seller": "metro2267040",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Keychron q6 max",
       "price": 4700,
       "condition": "Like new",
@@ -198,7 +221,7 @@
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 14:02",
+      "listedAt": "05/31 14:01",
       "pid": "1435163962",
       "verified": {
         "newPrice": 6290,
@@ -210,26 +233,8 @@
       "vsSecondhand": 85
     },
     {
-      "pid": "1440956686",
-      "category": "電腦科技",
-      "price": 20000,
-      "priceStr": "NT$20,000",
-      "title": "ASUS Vivobook M1807GA 18.4吋 筆記型電腦 R AI 5-430 16GB 512GB SSD",
-      "timeAgo": "42 minutes ago",
-      "url": "https://tw.carousell.com/p/1440956686/",
-      "listedAt": "06/01 00:29",
-      "verified": {
-        "newPrice": 17499,
-        "secondhand": 15000,
-        "note": "機會主義桶: 新品首發半年內二手 +NT$2.5K over Costco, User 自查仿冒/瑕疵/灌水風險",
-        "vsNew": 114,
-        "vsSecondhand": 133
-      },
-      "condition": "Unknown"
-    },
-    {
       "seller": "gino1004",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "【Marshall】Uxbridge Voice (Alexa version) 智慧小喇叭 二手近全新",
       "price": 5000,
       "condition": "Like new",
@@ -239,7 +244,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 11:02",
+      "listedAt": "05/31 11:01",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -309,7 +314,7 @@
     },
     {
       "seller": "virgo6518",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "FUJIFILM XF 18-55mm F2.8-4 R LM OIS 公司貨 二手鏡",
       "price": 7000,
       "condition": "Lightly used",
@@ -319,7 +324,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 12:02",
+      "listedAt": "05/31 12:01",
       "pid": "1440982632",
       "verified": {
         "newPrice": 14800,
@@ -332,7 +337,7 @@
     },
     {
       "seller": "oaone",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "Sony SEL11F18 大光圈超廣角鏡頭",
       "price": 8000,
       "condition": "Lightly used",
@@ -342,7 +347,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 12:02",
+      "listedAt": "05/31 12:01",
       "pid": "1440981561",
       "verified": {
         "newPrice": 11500,
@@ -355,7 +360,7 @@
     },
     {
       "seller": "dhamoeba40937",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "21 hours ago",
       "title": "近全新 Olympus om System 12-45mm f4 pro 鏡頭",
       "price": 9500,
       "condition": "Like new",
@@ -365,7 +370,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 10:02",
+      "listedAt": "05/31 10:01",
       "pid": "1440962629",
       "verified": {
         "newPrice": 17990,
@@ -491,31 +496,8 @@
       "condition": "Unknown"
     },
     {
-      "seller": "linmimic1234",
-      "timeAgo": "6 hours ago",
-      "title": "ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電",
-      "price": 15000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441123108/",
-      "category": "筆電",
-      "maxDays": 7,
-      "priceStr": "NT$15,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/01 00:02",
-      "pid": "1441123108",
-      "verified": {
-        "newPrice": 25850,
-        "secondhand": 20000,
-        "note": "ASUS Vivobook S15 OLED S5504VA 13 代 i7-13700H NT$15K = 58% 新 / 75% 二手 (BUY; 13700H+OLED 仍堪用)",
-        "source": "biggo 2026-06-01"
-      },
-      "vsNew": 58,
-      "vsSecondhand": 75
-    },
-    {
       "seller": "jimlin0326",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Airpods pro 2 type-c 沒戴過9.9成新",
       "price": 3800,
       "condition": "Like new",
@@ -525,7 +507,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 03:02",
+      "listedAt": "06/01 03:01",
       "pid": "1441143573",
       "verified": {
         "newPrice": 6190,

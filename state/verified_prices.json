@@ -37419,6 +37419,13 @@
     "note": "Patrol 368 SKIP: 神尊 #36 古銅雕連發",
     "source": "patrol_368_skip"
   },
+  "1441019745": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 374 SKIP: Switch 機型未列 (OLED/Lite/一般版差價大)",
+    "source": "patrol_374_skip"
+  },
   "1441022158": {
     "skip": true,
     "newPrice": null,
