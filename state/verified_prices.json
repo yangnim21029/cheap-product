@@ -1343,6 +1343,13 @@
     "note": "Patrol 308 SKIP: IronWolf Pro 16TB NT$15,800 vs 公司貨 NT$11K = 偏貴",
     "source": "patrol_308_skip"
   },
+  "1423695320": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 359 SKIP: WAQ 露營椅 戶外 niche",
+    "source": "patrol_359_skip"
+  },
   "1423708683": {
     "skip": true,
     "newPrice": null,
@@ -3309,6 +3316,13 @@
     "secondhand": null,
     "note": "Patrol 357 SKIP: <NT$2K Genesis Invisible Touch 黑膠",
     "source": "patrol_357_skip"
+  },
+  "1429405450": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 359 SKIP: LP Chicago 稀少版 行銷詞 (跟 Bon Jovi 同套路, Discogs 多版 USD 8-15)",
+    "source": "patrol_359_skip"
   },
   "1429410339": {
     "skip": true,
@@ -36932,6 +36946,13 @@
     "note": "Patrol 354 SKIP: <NT$2K YMO 限量黃色彩膠",
     "source": "patrol_354_skip"
   },
+  "1440977285": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 359 SKIP: 德國落地式喇叭品牌未列",
+    "source": "patrol_359_skip"
+  },
   "1440978563": {
     "skip": true,
     "newPrice": null,
@@ -36945,6 +36966,13 @@
     "secondhand": null,
     "note": "Patrol 354 SKIP: PS5 Slim NT$13.5K = 84% 邊緣持平",
     "source": "patrol_354_skip"
+  },
+  "1440978698": {
+    "skip": true,
+    "newPrice": 6490,
+    "secondhand": 8000,
+    "note": "Patrol 359 SKIP: Marshall Acton III NT$10K = vs 蝦皮 floor NT$6,490 = 154% 過貴 / vs PChome 公司貨 NT$11,900 = 84% 邊緣 (Carousell 二手沒保固兩端都輸; subagent 警告 BigGo floor 不是 mainstream)",
+    "source": "biggo+marshall 2026-05-31"
   },
   "1440980485": {
     "skip": true,
@@ -37216,5 +37244,19 @@
     "secondhand": null,
     "note": "Patrol 358 SKIP: <NT$2K 早期手工樹脂老件 niche",
     "source": "patrol_358_skip"
+  },
+  "1441025718": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 359 SKIP: iPhone XR 64G NT$3,500 持平偏貴 (二手 NT$2-3K)",
+    "source": "patrol_359_skip"
+  },
+  "1441027617": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 359 SKIP: <NT$2K 10000mAh 行動電源",
+    "source": "patrol_359_skip"
   }
 }
