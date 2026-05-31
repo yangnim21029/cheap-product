@@ -48,7 +48,7 @@
     },
     {
       "seller": "ecora159453236",
-      "timeAgo": "40 minutes ago",
+      "timeAgo": "2 hours ago",
       "title": "MSI CLAW A1M 電競掌機 順玩各類AAA大作",
       "price": 10499,
       "condition": "Like new",
@@ -58,7 +58,7 @@
       "priceStr": "NT$10,499",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 10:22",
+      "listedAt": "05/31 10:03",
       "pid": "1440963675",
       "verified": {
         "newPrice": 18888,
@@ -73,7 +73,7 @@
   "negotiate": [
     {
       "seller": "kingjlin12-52731",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
       "price": 4390,
       "condition": "Brand new",
@@ -83,7 +83,7 @@
       "priceStr": "NT$4,390",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 22:02",
+      "listedAt": "05/30 22:03",
       "pid": "1435096703",
       "verified": {
         "newPrice": 5490,
@@ -96,7 +96,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 巧控鍵盤",
       "price": 3000,
       "condition": "Like new",
@@ -106,7 +106,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 00:02",
+      "listedAt": "05/31 00:03",
       "pid": "1440922827",
       "verified": {
         "newPrice": 4690,
@@ -136,7 +136,7 @@
     },
     {
       "seller": "gino1004",
-      "timeAgo": "26 minutes ago",
+      "timeAgo": "1 hour ago",
       "title": "【Marshall】Uxbridge Voice (Alexa version) 智慧小喇叭 二手近全新",
       "price": 5000,
       "condition": "Like new",
@@ -146,7 +146,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 10:36",
+      "listedAt": "05/31 11:03",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -156,6 +156,42 @@
       },
       "vsNew": 69,
       "vsSecondhand": 84
+    },
+    {
+      "pid": "1440971097",
+      "category": "除濕機",
+      "price": 6500,
+      "priceStr": "NT$6,500",
+      "title": "日本製造 三菱 除濕機 MJ-E180VX-TW2 新北新莊可驗貨",
+      "timeAgo": "27 minutes ago",
+      "url": "https://tw.carousell.com/p/1440971097/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 18500,
+        "secondhand": 6000,
+        "note": "三菱 MJ-E180VX-TW2 18L 二手 NT$6,500 = 35% 新 / 108% 二手 (邊緣機會主義; 停產舊世代零件支援風險, 要買壓 NT$5,500 以下)",
+        "source": "biggo+yahoo 2026-05-31",
+        "vsNew": 35,
+        "vsSecondhand": 108
+      }
+    },
+    {
+      "pid": "1440970185",
+      "category": "除濕機",
+      "price": 15999,
+      "priceStr": "NT$15,999",
+      "title": "日本製造 Mitsubishi三菱 25L 1級變頻 三重除濕 清淨 除濕機 MJ-EV250HM-TW 新北新莊可驗貨",
+      "timeAgo": "34 minutes ago",
+      "url": "https://tw.carousell.com/p/1440970185/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 25440,
+        "secondhand": 15000,
+        "note": "三菱 MJ-EV250HM-TW 25L 1 級變頻 NT$15,999 = 63% 新 / 107% 二手 (殺價; 現役旗艦無世代風險, 省 NT$9,400+, 砍 NT$14,500 更穩)",
+        "source": "biggo+momo 2026-05-31",
+        "vsNew": 63,
+        "vsSecondhand": 107
+      }
     }
   ],
   "uncertain": []

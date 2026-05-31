@@ -2700,6 +2700,13 @@
     "source": "2026-05-25",
     "skip": true
   },
+  "1428402003": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: Corsair RM850x NT$3,100 vs 新 NT$3,990 = 78% 邊緣",
+    "source": "patrol_354_skip"
+  },
   "1428413491": {
     "newPrice": null,
     "secondhand": null,
@@ -6539,6 +6546,13 @@
     "note": "Refa ReFa FINGER IRON 無線直髮夾 NT$3,300 cj7535626 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1435285076": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: YAMAHA 電子琴型號未列 + 樂器 niche",
+    "source": "patrol_354_skip"
   },
   "1435304044": {
     "newPrice": null,
@@ -15142,6 +15156,13 @@
     "secondhand": 8500,
     "note": "Insta360 X3 公司貨$13K-15K(X4/X5上市降價中)二手$6.8K-14K中位$8.5K。$6,500=47%新品/76%二手低於行情 fastturtle-5999",
     "source": "2026-05-16"
+  },
+  "1438124702": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: Kit Gym 普拉提塑身機 健身 niche",
+    "source": "patrol_354_skip"
   },
   "1438125037": {
     "newPrice": null,
@@ -36554,6 +36575,13 @@
     "note": "Patrol 351 SKIP: juhoon 熱貴卡 ms 預售特典 韓團卡 niche",
     "source": "patrol_351_skip"
   },
+  "1440953990": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: 美光 Crucial Pro DDR5 16G NT$8,800 vs 通路 NT$1,500 = 500% 暴貴",
+    "source": "patrol_354_skip"
+  },
   "1440954152": {
     "skip": true,
     "newPrice": null,
@@ -36648,5 +36676,87 @@
     "secondhand": null,
     "note": "Patrol 353 SKIP: <NT$2K 輕薄 10000mAh 無品牌",
     "source": "patrol_353_skip"
+  },
+  "1440968108": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: Medicube 美容儀 偶像連發 niche",
+    "source": "patrol_354_skip"
+  },
+  "1440970185": {
+    "newPrice": 25440,
+    "secondhand": 15000,
+    "note": "三菱 MJ-EV250HM-TW 25L 1 級變頻 NT$15,999 = 63% 新 / 107% 二手 (殺價; 現役旗艦無世代風險, 省 NT$9,400+, 砍 NT$14,500 更穩)",
+    "source": "biggo+momo 2026-05-31"
+  },
+  "1440970389": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: <NT$2K Lador 髮膜",
+    "source": "patrol_354_skip"
+  },
+  "1440971097": {
+    "newPrice": 18500,
+    "secondhand": 6000,
+    "note": "三菱 MJ-E180VX-TW2 18L 二手 NT$6,500 = 35% 新 / 108% 二手 (邊緣機會主義; 停產舊世代零件支援風險, 要買壓 NT$5,500 以下)",
+    "source": "biggo+yahoo 2026-05-31"
+  },
+  "1440971697": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: Razer BlackShark V2 Pro NT$4K = 80% 邊緣持平",
+    "source": "patrol_354_skip"
+  },
+  "1440972062": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: <NT$2K 坂本龍一 2LP 黑膠",
+    "source": "patrol_354_skip"
+  },
+  "1440972829": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: Bose Flex 1 NT$2,200 邊緣 (Flex 2 已取代殘值跌)",
+    "source": "patrol_354_skip"
+  },
+  "1440973566": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: <NT$2K Bob Marley 出埃及記黑膠",
+    "source": "patrol_354_skip"
+  },
+  "1440975173": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: 兒童自行車 20 吋 niche",
+    "source": "patrol_354_skip"
+  },
+  "1440976255": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: <NT$2K YMO 限量黃色彩膠",
+    "source": "patrol_354_skip"
+  },
+  "1440978563": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: Bauerfeind GenuTrain A3 護膝 niche",
+    "source": "patrol_354_skip"
+  },
+  "1440978673": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 354 SKIP: PS5 Slim NT$13.5K = 84% 邊緣持平",
+    "source": "patrol_354_skip"
   }
 }
