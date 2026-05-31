@@ -36567,5 +36567,47 @@
     "secondhand": null,
     "note": "Patrol 351 SKIP: 羅技藍芽耳機型號未列",
     "source": "patrol_351_skip"
+  },
+  "1440956218": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 352 SKIP: 華碩電競筆電型號未列",
+    "source": "patrol_352_skip"
+  },
+  "1440956686": {
+    "skip": true,
+    "newPrice": 17499,
+    "secondhand": 15000,
+    "note": "Patrol 352 SKIP: ASUS Vivobook M1807GA AI 5-430 16/512 NT$20K = 114% 新 / 133% 二手 (過貴; Costco 同規格新品才 NT$17,499, 新款首發半年內二手高於新品 = 仿冒/瑕疵/灌水)",
+    "source": "biggo+costco 2026-05-31"
+  },
+  "1440959403": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 352 SKIP: <NT$2K 骰子全專 刮卡馬丁",
+    "source": "patrol_352_skip"
+  },
+  "1440959637": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 352 SKIP: 火供鈣化老九眼天珠 #020 水晶/手珠 niche 連號",
+    "source": "patrol_352_skip"
+  },
+  "1440960287": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 352 SKIP: Bose 101 1980s 老喇叭一對 niche",
+    "source": "patrol_352_skip"
+  },
+  "1440960778": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 352 SKIP: 鈦晶粗板鈦美墜 水晶/玉石 niche",
+    "source": "patrol_352_skip"
   }
 }
