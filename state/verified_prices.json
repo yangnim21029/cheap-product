@@ -36595,6 +36595,13 @@
     "note": "Patrol 352 SKIP: 火供鈣化老九眼天珠 #020 水晶/手珠 niche 連號",
     "source": "patrol_352_skip"
   },
+  "1440959958": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 353 SKIP: <NT$2K Anker a1636 三合一行動電源",
+    "source": "patrol_353_skip"
+  },
   "1440960287": {
     "skip": true,
     "newPrice": null,
@@ -36608,5 +36615,38 @@
     "secondhand": null,
     "note": "Patrol 352 SKIP: 鈦晶粗板鈦美墜 水晶/玉石 niche",
     "source": "patrol_352_skip"
+  },
+  "1440962406": {
+    "newPrice": 7290,
+    "secondhand": 5980,
+    "note": "Marshall Uxbridge Voice Alexa 二手近全新 NT$5,000 = 69% 新 / 84% 二手 (殺價; 末代庫存 Alexa 版冷門 PChome 已下架, Acton III/Stanmore III 取代, 可砍至 NT$4K)",
+    "source": "biggo 2026-05-31"
+  },
+  "1440963675": {
+    "newPrice": 18888,
+    "secondhand": 16000,
+    "note": "MSI CLAW A1M 電競掌機 NT$10,499 = 56% 新 / 66% 二手 (好貨; 警告: A2VM/A8 雙線取代第一代 155H, SF 中位被舊庫存撐, 一年內再貶值, 個人自用可接受)",
+    "source": "biggo+msi 2026-05-31"
+  },
+  "1440964172": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 353 SKIP: Tokuyo TB-199W 健身車 niche",
+    "source": "patrol_353_skip"
+  },
+  "1440965227": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 353 SKIP: <NT$2K 實木烏克麗麗",
+    "source": "patrol_353_skip"
+  },
+  "1440966802": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 353 SKIP: <NT$2K 輕薄 10000mAh 無品牌",
+    "source": "patrol_353_skip"
   }
 }

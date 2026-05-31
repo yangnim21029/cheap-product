@@ -1,29 +1,31 @@
 # Carousell 二手好物巡邏
 
-> 2026/5/31 10:18:47 · 累積已看 14140 筆 · 125 位賣家黑名單
+> 2026/5/31 11:02:36 · 累積已看 14140 筆 · 125 位賣家黑名單
 
-**待審：** 好貨 2 ｜ 殺價 3 ｜ 手動 0 ｜ 待查 0
+**待審：** 好貨 3 ｜ 殺價 4 ｜ 手動 0 ｜ 待查 0
 
 **規則：** 好貨 = 新品 ≤30% 或 二手 ≤70% · 殺價 = $3K+ 且 ≤90% 二手 · 手動 = ≤70% 新品但二手樣本不足
 
-## 🟢 好貨（2）
+## 🟢 好貨（3）
 
 > 通過自動門檻，可直接買
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
+| [電腦科技] MSI CLAW A1M 電競掌機 順玩各類AAA大作 | **NT$10,499** | 新$18888 | 56% new | Like new | 05/31 10:22 | [→](https://tw.carousell.com/p/1440963675/) |
 | [iPhone] Iphone XS max 256g | **NT$3,050** | 二手$5000 | 61% 二手 | Like new | 05/30 22:02 | [→](https://tw.carousell.com/p/1440902432/) |
 | [iPad] Ipad mini 6 wifi 64g | **NT$6,500** | 二手$9600 | 68% 二手 | Like new | 05/30 20:43 | [→](https://tw.carousell.com/p/1440887468/) |
 
-## 🟡 殺價（3）
+## 🟡 殺價（4）
 
 > 價格已合理但還能再殺，看你殺得到嗎
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [電腦科技] ASUS Vivobook M1807GA 18.4吋 筆記型電腦 R AI 5-430  | **NT$20,000** | 新$17499 | ? | Unknown | 05/31 09:36 | [→](https://tw.carousell.com/p/1440956686/) |
-| [電腦科技] Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 | **NT$3,000** | 新$4690 | 64% new | Like new | 05/31 00:18 | [→](https://tw.carousell.com/p/1440922827/) |
-| [電腦科技] 【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板 | **NT$4,390** | 新$5490 | 80% new | Brand new | 05/30 22:18 | [→](https://tw.carousell.com/p/1435096703/) |
+| [喇叭] 【Marshall】Uxbridge Voice (Alexa version) 智慧小喇 | **NT$5,000** | 新$7290 | 69% new | Like new | 05/31 10:36 | [→](https://tw.carousell.com/p/1440962406/) |
+| [電腦科技] ASUS Vivobook M1807GA 18.4吋 筆記型電腦 R AI 5-430  | **NT$20,000** | 新$17499 | ? | Unknown | 05/31 10:20 | [→](https://tw.carousell.com/p/1440956686/) |
+| [電腦科技] Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 | **NT$3,000** | 新$4690 | 64% new | Like new | 05/31 00:02 | [→](https://tw.carousell.com/p/1440922827/) |
+| [電腦科技] 【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板 | **NT$4,390** | 新$5490 | 80% new | Brand new | 05/30 22:02 | [→](https://tw.carousell.com/p/1435096703/) |
 
 
 ---

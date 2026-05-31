@@ -25,7 +25,7 @@
     },
     {
       "seller": "qqq7276185",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Iphone XS max 256g",
       "price": 3050,
       "condition": "Like new",
@@ -45,12 +45,35 @@
       },
       "vsNew": null,
       "vsSecondhand": 61
+    },
+    {
+      "seller": "ecora159453236",
+      "timeAgo": "40 minutes ago",
+      "title": "MSI CLAW A1M 電競掌機 順玩各類AAA大作",
+      "price": 10499,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440963675/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$10,499",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 10:22",
+      "pid": "1440963675",
+      "verified": {
+        "newPrice": 18888,
+        "secondhand": 16000,
+        "note": "MSI CLAW A1M 電競掌機 NT$10,499 = 56% 新 / 66% 二手 (好貨; 警告: A2VM/A8 雙線取代第一代 155H, SF 中位被舊庫存撐, 一年內再貶值, 個人自用可接受)",
+        "source": "biggo+msi 2026-05-31"
+      },
+      "vsNew": 56,
+      "vsSecondhand": 66
     }
   ],
   "negotiate": [
     {
       "seller": "kingjlin12-52731",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
       "price": 4390,
       "condition": "Brand new",
@@ -60,7 +83,7 @@
       "priceStr": "NT$4,390",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 22:18",
+      "listedAt": "05/30 22:02",
       "pid": "1435096703",
       "verified": {
         "newPrice": 5490,
@@ -73,7 +96,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 巧控鍵盤",
       "price": 3000,
       "condition": "Like new",
@@ -83,7 +106,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 00:18",
+      "listedAt": "05/31 00:02",
       "pid": "1440922827",
       "verified": {
         "newPrice": 4690,
@@ -110,6 +133,29 @@
         "vsNew": 114,
         "vsSecondhand": 133
       }
+    },
+    {
+      "seller": "gino1004",
+      "timeAgo": "26 minutes ago",
+      "title": "【Marshall】Uxbridge Voice (Alexa version) 智慧小喇叭 二手近全新",
+      "price": 5000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1440962406/",
+      "category": "喇叭",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 10:36",
+      "pid": "1440962406",
+      "verified": {
+        "newPrice": 7290,
+        "secondhand": 5980,
+        "note": "Marshall Uxbridge Voice Alexa 二手近全新 NT$5,000 = 69% 新 / 84% 二手 (殺價; 末代庫存 Alexa 版冷門 PChome 已下架, Acton III/Stanmore III 取代, 可砍至 NT$4K)",
+        "source": "biggo 2026-05-31"
+      },
+      "vsNew": 69,
+      "vsSecondhand": 84
     }
   ],
   "uncertain": []
