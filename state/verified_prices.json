@@ -1456,6 +1456,13 @@
     "skip": true,
     "note": "百靈果汁機 $1,260 標題缺型號"
   },
+  "1424042633": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: iPad Air 4 容量未列",
+    "source": "patrol_369_skip"
+  },
   "1424082656": {
     "newPrice": null,
     "secondhand": null,
@@ -37530,6 +37537,12 @@
     "note": "Patrol 368 SKIP: ixus200is 老 DC 跟 patrol 323 同款",
     "source": "patrol_368_skip"
   },
+  "1441034326": {
+    "newPrice": null,
+    "secondhand": 13500,
+    "note": "MBP 13 M1 8/256 NT$14,500 = 107% 二手 (機會主義邊緣; mainstream NT$13-14.5K, M2/M3/M4 取代但 M1 文書堪用, 砍 NT$13K 才合理)",
+    "source": "biggo 2026-06-01"
+  },
   "1441036585": {
     "skip": true,
     "newPrice": null,
@@ -37584,6 +37597,13 @@
     "secondhand": null,
     "note": "Patrol 368 SKIP: YONEX 毛巾 <NT$2K",
     "source": "patrol_368_skip"
+  },
+  "1441043820": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: iPad Pro 2020 11 256+巧控 NT$25K 不議偏貴 (二手組合約 NT$18-23K)",
+    "source": "patrol_369_skip"
   },
   "1441044158": {
     "skip": true,
@@ -38370,11 +38390,67 @@
     "note": "Patrol 368 SKIP: Canon IXUS 285 HS 老 DC",
     "source": "patrol_368_skip"
   },
+  "1441131251": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: <NT$2K SuiSavon 護手霜",
+    "source": "patrol_369_skip"
+  },
   "1441131275": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 368 SKIP: 和田玉 8 件 niche",
     "source": "patrol_368_skip"
+  },
+  "1441131802": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: <NT$2K SuiSavon 護手霜",
+    "source": "patrol_369_skip"
+  },
+  "1441132283": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: DJI 穩定器型號未列「6 白」(OM 6? Osmo 6?)",
+    "source": "patrol_369_skip"
+  },
+  "1441132380": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: <NT$2K SuiSavon 護手霜",
+    "source": "patrol_369_skip"
+  },
+  "1441133566": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: <NT$2K 飛利浦行動電源",
+    "source": "patrol_369_skip"
+  },
+  "1441136262": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 7200,
+    "note": "Patrol 369 SKIP: iPad 10 64G WiFi 日購 NT$9K = 125% 二手 (停售稀缺被當溢價, mainstream NT$7K-7.5K, 無台保再扣)",
+    "source": "patrol_369_skip"
+  },
+  "1441137718": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 369 SKIP: Sony RX100 M5 NT$21K 偏貴 (二手 NT$15-20K)",
+    "source": "patrol_369_skip"
+  },
+  "1441138007": {
+    "skip": true,
+    "newPrice": 1000,
+    "secondhand": 400,
+    "note": "Patrol 369 SKIP: Deca joins Go Slow LP NT$3,800 = 380% 新 / 950% 二手 (Airhead 新品 NT$1K, 賣家通版當稀版開)",
+    "source": "patrol_369_skip"
   }
 }
