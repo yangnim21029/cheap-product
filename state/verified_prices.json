@@ -38570,5 +38570,12 @@
     "secondhand": 6500,
     "note": "Patrol 372 SKIP: Apple Watch S8 45mm 86% 電池 NT$5,500 = 85% 二手 (賣家未明顯讓利, 86% 電池低於 80% 健康線僅 6pp 1 年內掉到要換, S8 EOL 3 代 watchOS 支援剩 1-2 年)",
     "source": "biggo 2026-06-01"
+  },
+  "1441149103": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 4800,
+    "note": "Patrol 373 SKIP: iPhone 12 mini 64G 77% 電池 NT$3,500 = 73% 二手表面 (77% 電池 1-2 年換電 +NT$2,490 實質 vsSF 125% 破百; 12 mini niche 流通低)",
+    "source": "biggo+shopee 2026-06-01"
   }
 }
