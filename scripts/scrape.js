@@ -134,6 +134,8 @@ const CATEGORIES = [
   { slug: 'computers-tech-1094', name: '電腦科技', min: 3000, max: 20000, maxDays: 7 },
   // 2026-05-26 智慧手錶 sub-cat (含 Apple/Galaxy/Garmin/Xiaomi/Huawei/Fitbit/Fossil/TicWatch/Pixel)
   { slug: 'mobile-phones-gadgets-1091/wearables-smart-watches-6436', name: '智慧手錶', min: 1500, max: 15000, maxDays: 7 },
+  // 2026-05-31 滑鼠 sub-cat sweep (User 想找電競滑鼠, 用 sub-cat 比 query 準)
+  { slug: 'computers-tech-1094/parts-accessories-1095/mouse-mousepads-6395', name: '滑鼠', min: 1000, max: 5000, maxDays: 7 },
 ];
 
 // === 頁面抓取 JS ===
