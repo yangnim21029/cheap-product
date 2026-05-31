@@ -60,7 +60,7 @@
       "priceStr": "NT$4,390",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 22:01",
+      "listedAt": "05/30 22:18",
       "pid": "1435096703",
       "verified": {
         "newPrice": 5490,
@@ -83,7 +83,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 00:01",
+      "listedAt": "05/31 00:18",
       "pid": "1440922827",
       "verified": {
         "newPrice": 4690,
@@ -93,6 +93,23 @@
       },
       "vsNew": 64,
       "vsSecondhand": 71
+    },
+    {
+      "pid": "1440956686",
+      "category": "電腦科技",
+      "price": 20000,
+      "priceStr": "NT$20,000",
+      "title": "ASUS Vivobook M1807GA 18.4吋 筆記型電腦 R AI 5-430 16GB 512GB SSD",
+      "timeAgo": "42 minutes ago",
+      "url": "https://tw.carousell.com/p/1440956686/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 17499,
+        "secondhand": 15000,
+        "note": "機會主義桶: 新品首發半年內二手 +NT$2.5K over Costco, User 自查仿冒/瑕疵/灌水風險",
+        "vsNew": 114,
+        "vsSecondhand": 133
+      }
     }
   ],
   "uncertain": []
