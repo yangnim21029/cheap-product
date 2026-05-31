@@ -68,6 +68,7 @@
 | [README.md](README.md) | 系統原則性說明（為何這樣設計） |
 | [MOC.md](MOC.md) | 本檔（檔案/function 地圖） |
 | [carousell_workflow.md](carousell_workflow.md) | 每輪 SOP + 雜訊處理規則 + BigGo 流程 |
+| [methods.md](methods.md) | 驗過的操作技巧 / heuristic / shortcut（sitemap probe、vsSF 規則、機會主義、結構性訊號…） |
 | [fetch_architecture.md](fetch_architecture.md) | 抓取架構（Layer 0-4 + lock + retry + UA rotation） |
 | [query_log.md](query_log.md) | query 增刪歷史 |
 | [suggestions.md](suggestions.md) | 待觀察方向 |
