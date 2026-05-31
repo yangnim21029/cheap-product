@@ -37591,6 +37591,13 @@
     "note": "iPad Air 5 64G NT$9,000 = 64% 新 / 100% 二手 (機會品; 比 patrol 312 同款 NT$9,300 略低, Air 6 M2/Air 7 M3 取代但 64G 文書夠用)",
     "source": "biggo 2026-06-01"
   },
+  "1441043164": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 370 SKIP: <NT$2K 三模 RGB 熱插拔山寨",
+    "source": "patrol_370_skip"
+  },
   "1441043500": {
     "skip": true,
     "newPrice": null,
@@ -38100,6 +38107,13 @@
     "note": "Patrol 368 SKIP: IGSPORT 630s 自行車碼錶 niche",
     "source": "patrol_368_skip"
   },
+  "1441103100": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 370 SKIP: <NT$2K IKEA STOENSE 地毯",
+    "source": "patrol_370_skip"
+  },
   "1441103527": {
     "skip": true,
     "newPrice": null,
@@ -38161,6 +38175,13 @@
     "secondhand": null,
     "note": "Patrol 368 SKIP: Redmi Watch 6 NFC NT$2.5K 邊緣",
     "source": "patrol_368_skip"
+  },
+  "1441108138": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 370 SKIP: <NT$2K Cherry 黑軸 Noppoo",
+    "source": "patrol_370_skip"
   },
   "1441109471": {
     "skip": true,
@@ -38452,5 +38473,26 @@
     "secondhand": 400,
     "note": "Patrol 369 SKIP: Deca joins Go Slow LP NT$3,800 = 380% 新 / 950% 二手 (Airhead 新品 NT$1K, 賣家通版當稀版開)",
     "source": "patrol_369_skip"
+  },
+  "1441142108": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 370 SKIP: <NT$2K GD100 鍵盤 (滑鼠 sub-cat 發錯類)",
+    "source": "patrol_370_skip"
+  },
+  "1441142945": {
+    "skip": true,
+    "newPrice": 2788,
+    "secondhand": 1930,
+    "note": "Patrol 370 SKIP: Razer Pro Click V2 NT$2K = 72% 新 / 104% 二手 (2025 新品二手樣本薄, vsSF 超 100% 紅線)",
+    "source": "patrol_370_skip"
+  },
+  "1441143003": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 370 SKIP: <NT$2K 墨子科技 10000mAh 標 W 錯",
+    "source": "patrol_370_skip"
   }
 }
