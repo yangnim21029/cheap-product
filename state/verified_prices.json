@@ -1417,6 +1417,13 @@
     "note": "Patrol 104 SKIP: Lenovo V15-IIL 文書筆電(i7-1065G7/8G/256G SS sun0825",
     "source": "manual_skip"
   },
+  "1424014131": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: 羅技 MX Keys 商務鍵盤 NT$2,500 邊緣老款",
+    "source": "patrol_356_skip"
+  },
   "1424040451": {
     "skip": true,
     "note": "百靈果汁機 $1,260 標題缺型號"
@@ -1427,6 +1434,20 @@
     "note": "果汁機 Glolux PB-380 。USB隨身杯果汁機 第三代。榨汁機/迷你果汁機/隨 NT$580 tearspain 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1424115443": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: <NT$2K Roland CUBE-15X 吉他音箱",
+    "source": "patrol_356_skip"
+  },
+  "1424126973": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: <NT$2K 爵士鼓棒袋",
+    "source": "patrol_356_skip"
   },
   "1424137811": {
     "newPrice": null,
@@ -3197,6 +3218,13 @@
     "note": "瑜珈墊 售一套1500❤️ VERVE 含胸墊 運動內衣 運動背心  NT$1,500 入門健身墊 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1429267141": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: Odyssey Tri beam 高爾夫推桿 niche",
+    "source": "patrol_356_skip"
   },
   "1429281360": {
     "skip": true,
@@ -6314,6 +6342,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1435007090": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: Coca-Cola 復古迷你展示車 老物 niche",
+    "source": "patrol_356_skip"
+  },
   "1435007755": {
     "newPrice": null,
     "secondhand": null,
@@ -6553,6 +6588,13 @@
     "note": "Refa ReFa FINGER IRON 無線直髮夾 NT$3,300 cj7535626 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1435280178": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: Woody Custom Les Paul 樂器 niche",
+    "source": "patrol_356_skip"
   },
   "1435285076": {
     "skip": true,
@@ -36772,6 +36814,13 @@
     "note": "三菱 MJ-E180VX-TW2 18L 二手 NT$6,500 = 35% 新 / 108% 二手 (邊緣機會主義; 停產舊世代零件支援風險, 要買壓 NT$5,500 以下)",
     "source": "biggo+yahoo 2026-05-31"
   },
+  "1440971535": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: 強生牌 CS-6800 桌球桌 大件 niche",
+    "source": "patrol_356_skip"
+  },
   "1440971697": {
     "skip": true,
     "newPrice": null,
@@ -36849,6 +36898,13 @@
     "note": "Patrol 355 SKIP: ASUS R414UV i5-7200U 7 代老機",
     "source": "patrol_355_skip"
   },
+  "1440983920": {
+    "skip": true,
+    "newPrice": 5500,
+    "secondhand": 4500,
+    "note": "Patrol 356 SKIP: Vitamix VM0101B NT$6K = 109% 新 / 133% 二手 (過貴, 比新品還高)",
+    "source": "patrol_356_skip"
+  },
   "1440984656": {
     "skip": true,
     "newPrice": null,
@@ -36890,5 +36946,54 @@
     "secondhand": null,
     "note": "Patrol 355 SKIP: <NT$2K Stray Kids 手燈 應援棒",
     "source": "patrol_355_skip"
+  },
+  "1440990244": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: <NT$2K 天下群星首版黑膠",
+    "source": "patrol_356_skip"
+  },
+  "1440990972": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: Marshall Emberton I 一代 NT$2,400 被 II/III 取代",
+    "source": "patrol_356_skip"
+  },
+  "1440996509": {
+    "skip": true,
+    "newPrice": 48000,
+    "secondhand": 17500,
+    "note": "Patrol 356 SKIP: MSI Sword 15 A12UC NT$20K = 114% 二手 (12 代+3050 4G 上代等同新世代 4050 入門新機價, 砍至 NT$15K 才合理)",
+    "source": "patrol_356_skip"
+  },
+  "1440997913": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: iMac M1 24 容量未列",
+    "source": "patrol_356_skip"
+  },
+  "1440999065": {
+    "skip": true,
+    "newPrice": 20300,
+    "secondhand": 18000,
+    "note": "Patrol 356 SKIP: Synology DS925+ 全新 NT$19,500 = 96% 新 / 108% 二手 (只省 NT$800 全新保固完整不夠誘人)",
+    "source": "patrol_356_skip"
+  },
+  "1440999091": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 356 SKIP: ASUS GTX 1070 ROG Strix 2016 老顯卡",
+    "source": "patrol_356_skip"
+  },
+  "1441000593": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 9000,
+    "note": "Patrol 356 SKIP: MBP 13 2019 i5/8/512 NT$10,800 = 120% 二手 (賣家標 16G 版價; Intel 末代 macOS 26 砍支援世代淘汰)",
+    "source": "patrol_356_skip"
   }
 }
