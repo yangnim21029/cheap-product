@@ -38453,6 +38453,13 @@
     "note": "Patrol 369 SKIP: <NT$2K SuiSavon 護手霜",
     "source": "patrol_369_skip"
   },
+  "1441132857": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 372 SKIP: GoPro 7 Black 2018 老機 NT$5K 偏貴 (二手 NT$3-4K)",
+    "source": "patrol_372_skip"
+  },
   "1441133566": {
     "skip": true,
     "newPrice": null,
@@ -38488,6 +38495,13 @@
     "note": "Patrol 370 SKIP: <NT$2K GD100 鍵盤 (滑鼠 sub-cat 發錯類)",
     "source": "patrol_370_skip"
   },
+  "1441142153": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 372 SKIP: Boss IR2 樂器 effect pedal niche",
+    "source": "patrol_372_skip"
+  },
   "1441142333": {
     "skip": true,
     "newPrice": null,
@@ -38521,5 +38535,40 @@
     "secondhand": null,
     "note": "Patrol 371 SKIP: 日清咚兵衛狐狸保險箱 周邊 niche",
     "source": "patrol_371_skip"
+  },
+  "1441144917": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 372 SKIP: Apple Watch S9 45mm GPS NT$10K = 156% 二手 (patrol 368 同款 S9 GPS 保固 NT$6K 機會主義)",
+    "source": "patrol_372_skip"
+  },
+  "1441147854": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 372 SKIP: mini LiPlay NT$4,200 (patrol 341 同款 NT$3,780 已 SKIP 76% 邊緣, 此次更貴)",
+    "source": "patrol_372_skip"
+  },
+  "1441148153": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 372 SKIP: <NT$2K Seiko STH200B 調音器",
+    "source": "patrol_372_skip"
+  },
+  "1441148271": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 372 SKIP: <NT$2K Neutrik XLR 導線",
+    "source": "patrol_372_skip"
+  },
+  "1441149048": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": 6500,
+    "note": "Patrol 372 SKIP: Apple Watch S8 45mm 86% 電池 NT$5,500 = 85% 二手 (賣家未明顯讓利, 86% 電池低於 80% 健康線僅 6pp 1 年內掉到要換, S8 EOL 3 代 watchOS 支援剩 1-2 年)",
+    "source": "biggo 2026-06-01"
   }
 }
