@@ -47,6 +47,29 @@
       "vsSecondhand": 61
     },
     {
+      "seller": "c.c.an",
+      "timeAgo": "6 hours ago",
+      "title": "IPhone 12 64G 藍",
+      "price": 3900,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441068213/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$3,900",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 19:11",
+      "pid": "1441068213",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5990,
+        "note": "iPhone 12 64G 藍 NT$3,900 = 65% 二手 (好貨; 比 patrol 329 同款 NT$4,000 還低, 殺到地板)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": null,
+      "vsSecondhand": 65
+    },
+    {
       "seller": "ecora159453236",
       "timeAgo": "6 hours ago",
       "title": "MSI CLAW A1M 電競掌機 順玩各類AAA大作",
@@ -68,32 +91,32 @@
       },
       "vsNew": 56,
       "vsSecondhand": 66
+    },
+    {
+      "seller": "clevereagle_c61a43",
+      "timeAgo": "9 hours ago",
+      "title": "BenQ MOBIUZ EX3210R 32吋 2K 165Hz 曲面電競螢幕",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441023621/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 16:11",
+      "pid": "1441023621",
+      "verified": {
+        "newPrice": 9018,
+        "secondhand": 9018,
+        "note": "BenQ MOBIUZ EX3210R 32 2K 165 NT$5K = 55% 新 / 55% 二手 (好貨 機會主義; 太甜疑面板瑕疵, BigGo floor 5K 是 Carousell 本身, User 須驗壞點/烙印/曲面)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": 55,
+      "vsSecondhand": 55
     }
   ],
   "negotiate": [
-    {
-      "seller": "kingjlin12-52731",
-      "timeAgo": "17 hours ago",
-      "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
-      "price": 4390,
-      "condition": "Brand new",
-      "url": "https://tw.carousell.com/p/1435096703/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$4,390",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/30 22:03",
-      "pid": "1435096703",
-      "verified": {
-        "newPrice": 5490,
-        "secondhand": 5200,
-        "note": "技嘉 B650M AORUS ELITE AX ICE 白主板 NT$4,390 = 80% 新 / 84% 二手 (殺價 -20% off 新; 注意是否拆封品或缺保固卡)",
-        "source": "biggo 2026-05-30"
-      },
-      "vsNew": 80,
-      "vsSecondhand": 84
-    },
     {
       "seller": "kehogken",
       "timeAgo": "16 hours ago",
@@ -118,6 +141,75 @@
       "vsSecondhand": 71
     },
     {
+      "seller": "aimerchen",
+      "timeAgo": "2 hours ago",
+      "title": "Logitech 羅技 Pro X LIGHTSPEED TKL 無線機械式電競鍵盤 (黑色)",
+      "price": 3000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441117945/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 23:11",
+      "pid": "1441117945",
+      "verified": {
+        "newPrice": 4540,
+        "secondhand": 3750,
+        "note": "Logitech G PRO X TKL LIGHTSPEED NT$3,000 = 66% 新 / 80% 二手 (BUY; G PRO X 仍當期主力)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": 66,
+      "vsSecondhand": 80
+    },
+    {
+      "seller": "kingjlin12-52731",
+      "timeAgo": "17 hours ago",
+      "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
+      "price": 4390,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1435096703/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,390",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/30 22:03",
+      "pid": "1435096703",
+      "verified": {
+        "newPrice": 5490,
+        "secondhand": 5200,
+        "note": "技嘉 B650M AORUS ELITE AX ICE 白主板 NT$4,390 = 80% 新 / 84% 二手 (殺價 -20% off 新; 注意是否拆封品或缺保固卡)",
+        "source": "biggo 2026-05-30"
+      },
+      "vsNew": 80,
+      "vsSecondhand": 84
+    },
+    {
+      "seller": "metro2267040",
+      "timeAgo": "11 hours ago",
+      "title": "Keychron q6 max",
+      "price": 4700,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1435163962/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,700",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 14:11",
+      "pid": "1435163962",
+      "verified": {
+        "newPrice": 6290,
+        "secondhand": 5500,
+        "note": "Keychron Q6 Max 全機鋁殼 NT$4,700 = 75% 新 / 85% 二手 (殺價; 現役無代差, 注意 ANSI/ISO/軸種/旋鈕掌托完整性)",
+        "source": "biggo 2026-05-31"
+      },
+      "vsNew": 75,
+      "vsSecondhand": 85
+    },
+    {
       "pid": "1440956686",
       "category": "電腦科技",
       "price": 20000,
@@ -125,18 +217,19 @@
       "title": "ASUS Vivobook M1807GA 18.4吋 筆記型電腦 R AI 5-430 16GB 512GB SSD",
       "timeAgo": "42 minutes ago",
       "url": "https://tw.carousell.com/p/1440956686/",
-      "listedAt": null,
+      "listedAt": "06/01 00:29",
       "verified": {
         "newPrice": 17499,
         "secondhand": 15000,
         "note": "機會主義桶: 新品首發半年內二手 +NT$2.5K over Costco, User 自查仿冒/瑕疵/灌水風險",
         "vsNew": 114,
         "vsSecondhand": 133
-      }
+      },
+      "condition": "Unknown"
     },
     {
       "seller": "gino1004",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "【Marshall】Uxbridge Voice (Alexa version) 智慧小喇叭 二手近全新",
       "price": 5000,
       "condition": "Like new",
@@ -146,7 +239,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 11:05",
+      "listedAt": "05/31 11:11",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -158,6 +251,25 @@
       "vsSecondhand": 84
     },
     {
+      "pid": "1441059476",
+      "category": "喇叭",
+      "price": 6000,
+      "priceStr": "NT$6,000",
+      "title": "B&O Bang & Olufsen x Clot Beosound A1 攜帶型藍牙喇叭 聯名款限量 fragment",
+      "timeAgo": "6 hours ago",
+      "url": "https://tw.carousell.com/p/1441059476/",
+      "listedAt": "05/31 19:11",
+      "verified": {
+        "newPrice": 8000,
+        "secondhand": 6000,
+        "note": "B&O Beosound A1 x Clot 聯名限量 NT$6,000 = 75% 新 / 100% 二手 (機會品; 聯名限量保值或漲, 省 NT$2K, 確認非仿品+盒裝齊)",
+        "source": "biggo 2026-06-01",
+        "vsNew": 75,
+        "vsSecondhand": 100
+      },
+      "condition": "Unknown"
+    },
+    {
       "pid": "1440971097",
       "category": "除濕機",
       "price": 6500,
@@ -165,7 +277,7 @@
       "title": "日本製造 三菱 除濕機 MJ-E180VX-TW2 新北新莊可驗貨",
       "timeAgo": "27 minutes ago",
       "url": "https://tw.carousell.com/p/1440971097/",
-      "listedAt": null,
+      "listedAt": "06/01 00:44",
       "verified": {
         "newPrice": 18500,
         "secondhand": 6000,
@@ -173,7 +285,8 @@
         "source": "biggo+yahoo 2026-05-31",
         "vsNew": 35,
         "vsSecondhand": 108
-      }
+      },
+      "condition": "Unknown"
     },
     {
       "pid": "1440970185",
@@ -183,7 +296,7 @@
       "title": "日本製造 Mitsubishi三菱 25L 1級變頻 三重除濕 清淨 除濕機 MJ-EV250HM-TW 新北新莊可驗貨",
       "timeAgo": "34 minutes ago",
       "url": "https://tw.carousell.com/p/1440970185/",
-      "listedAt": null,
+      "listedAt": "06/01 00:37",
       "verified": {
         "newPrice": 25440,
         "secondhand": 15000,
@@ -191,34 +304,12 @@
         "source": "biggo+momo 2026-05-31",
         "vsNew": 63,
         "vsSecondhand": 107
-      }
-    },
-    {
-      "seller": "dhamoeba40937",
-      "timeAgo": "6 hours ago",
-      "title": "近全新 Olympus om System 12-45mm f4 pro 鏡頭",
-      "price": 9500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1440962629/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "priceStr": "NT$9,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "05/31 10:02",
-      "pid": "1440962629",
-      "verified": {
-        "newPrice": 17990,
-        "secondhand": 11000,
-        "note": "Olympus OM System 12-45mm f/4 Pro M43 近全新 NT$9,500 = 53% 新 / 86% 二手 (殺價; 現行品無世代風險, 比 SF 中位低 14% 合理)",
-        "source": "biggo 2026-05-31"
       },
-      "vsNew": 53,
-      "vsSecondhand": 86
+      "condition": "Unknown"
     },
     {
       "seller": "virgo6518",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "FUJIFILM XF 18-55mm F2.8-4 R LM OIS 公司貨 二手鏡",
       "price": 7000,
       "condition": "Lightly used",
@@ -228,7 +319,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 12:02",
+      "listedAt": "05/31 12:11",
       "pid": "1440982632",
       "verified": {
         "newPrice": 14800,
@@ -241,7 +332,7 @@
     },
     {
       "seller": "oaone",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Sony SEL11F18 大光圈超廣角鏡頭",
       "price": 8000,
       "condition": "Lightly used",
@@ -251,7 +342,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 12:02",
+      "listedAt": "05/31 12:11",
       "pid": "1440981561",
       "verified": {
         "newPrice": 11500,
@@ -263,27 +354,164 @@
       "vsSecondhand": 76
     },
     {
-      "seller": "metro2267040",
-      "timeAgo": "2 hours ago",
-      "title": "Keychron q6 max",
-      "price": 4700,
+      "seller": "dhamoeba40937",
+      "timeAgo": "15 hours ago",
+      "title": "近全新 Olympus om System 12-45mm f4 pro 鏡頭",
+      "price": 9500,
       "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1435163962/",
-      "category": "電腦科技",
+      "url": "https://tw.carousell.com/p/1440962629/",
+      "category": "相機攝影",
       "maxDays": 3,
-      "priceStr": "NT$4,700",
+      "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 14:02",
-      "pid": "1435163962",
+      "listedAt": "05/31 10:11",
+      "pid": "1440962629",
       "verified": {
-        "newPrice": 6290,
-        "secondhand": 5500,
-        "note": "Keychron Q6 Max 全機鋁殼 NT$4,700 = 75% 新 / 85% 二手 (殺價; 現役無代差, 注意 ANSI/ISO/軸種/旋鈕掌托完整性)",
+        "newPrice": 17990,
+        "secondhand": 11000,
+        "note": "Olympus OM System 12-45mm f/4 Pro M43 近全新 NT$9,500 = 53% 新 / 86% 二手 (殺價; 現行品無世代風險, 比 SF 中位低 14% 合理)",
         "source": "biggo 2026-05-31"
       },
-      "vsNew": 75,
-      "vsSecondhand": 85
+      "vsNew": 53,
+      "vsSecondhand": 86
+    },
+    {
+      "pid": "1441077827",
+      "category": "相機攝影",
+      "price": 9000,
+      "priceStr": "NT$9,000",
+      "title": "台北高雄可面交：Canon PowerShot V10 小型數位相機 vlog 影音相機 (公司貨) 保固中 7月過保",
+      "timeAgo": "5 hours ago",
+      "url": "https://tw.carousell.com/p/1441077827/",
+      "listedAt": "05/31 20:11",
+      "verified": {
+        "newPrice": 11151,
+        "secondhand": 9500,
+        "note": "Canon PowerShot V10 公司貨保固 NT$9,000 = 81% 新 / 95% 二手 (機會主義邊緣; 當期出貨 + 保固加分)",
+        "source": "biggo 2026-06-01",
+        "vsNew": 81,
+        "vsSecondhand": 95
+      },
+      "condition": "Unknown"
+    },
+    {
+      "pid": "1441120975",
+      "category": "22L 除濕機",
+      "price": 16000,
+      "priceStr": "NT$16,000",
+      "title": "【Panasonic 國際牌】F-Y45GX 22L一級能效節能清淨除濕機 全新僅拆封活動贈品外盒微損現貨",
+      "timeAgo": "52 minutes ago",
+      "url": "https://tw.carousell.com/p/1441120975/",
+      "listedAt": "06/01 00:19",
+      "verified": {
+        "newPrice": 20500,
+        "secondhand": 16000,
+        "note": "Panasonic F-Y45GX 22L 1 級全新拆封 NT$16K = 78% 新 / 100% 二手 (機會品 User 想要 22L+; 現役 GX 無世代風險, 省 NT$4,500)",
+        "source": "biggo 2026-06-01",
+        "vsNew": 78,
+        "vsSecondhand": 100
+      },
+      "condition": "Unknown"
+    },
+    {
+      "pid": "1441049979",
+      "category": "智慧手錶",
+      "price": 6000,
+      "priceStr": "NT$6,000",
+      "title": "Apple Watch s9 45mm 午夜色/保固到27/04/22",
+      "timeAgo": "7 hours ago",
+      "url": "https://tw.carousell.com/p/1441049979/",
+      "listedAt": "05/31 18:11",
+      "verified": {
+        "newPrice": 13200,
+        "secondhand": 6400,
+        "note": "Apple Watch S9 45mm 保固到 2027/04 NT$6,000 = 45% 新 / 94% 二手 (機會品; S10/S11 取代但保固剩 11 個月是亮點)",
+        "source": "biggo 2026-06-01",
+        "vsNew": 45,
+        "vsSecondhand": 94
+      },
+      "condition": "Unknown"
+    },
+    {
+      "pid": "1441072946",
+      "category": "AirPods Max",
+      "price": 6500,
+      "priceStr": "NT$6,500",
+      "title": "AirPods Max A2096 Lightning 版 銀色",
+      "timeAgo": "5 hours ago",
+      "url": "https://tw.carousell.com/p/1441072946/",
+      "listedAt": "05/31 20:11",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 6000,
+        "note": "AirPods Max A2096 Lightning 銀 NT$6,500 = 108% 二手 (機會主義 vsSF>100 邊緣; Lightning 版未來無 USB-C 統一充電硬傷)",
+        "source": "biggo 2026-06-01",
+        "vsNew": null,
+        "vsSecondhand": 108
+      },
+      "condition": "Unknown"
+    },
+    {
+      "pid": "1441101658",
+      "category": "手沖",
+      "price": 2800,
+      "priceStr": "NT$2,800",
+      "title": "BALMUDA The Pot 手沖壺 黑色｜極新｜生活風格升級釋出",
+      "timeAgo": "3 hours ago",
+      "url": "https://tw.carousell.com/p/1441101658/",
+      "listedAt": "05/31 22:11",
+      "verified": {
+        "newPrice": 3490,
+        "secondhand": 2800,
+        "note": "BALMUDA The Pot 手沖壺 極新 NT$2,800 = 80% 新 / 95% 二手 (機會主義 行情價; BALMUDA 當期無世代風險)",
+        "source": "biggo 2026-06-01",
+        "vsNew": 80,
+        "vsSecondhand": 100
+      },
+      "condition": "Unknown"
+    },
+    {
+      "pid": "1441107582",
+      "category": "PS5",
+      "price": 9000,
+      "priceStr": "NT$9,000",
+      "title": "二手 PS5 數位版 含DualSense手把",
+      "timeAgo": "2 hours ago",
+      "url": "https://tw.carousell.com/p/1441107582/",
+      "listedAt": "05/31 23:11",
+      "verified": {
+        "newPrice": 13500,
+        "secondhand": 9000,
+        "note": "PS5 數位版+DualSense NT$9,000 = 67% 新 / 100% 二手 (機會主義; Slim 取代但 floor 9000 符合, 9 成新)",
+        "source": "biggo 2026-06-01",
+        "vsNew": 67,
+        "vsSecondhand": 100
+      },
+      "condition": "Unknown"
+    },
+    {
+      "seller": "linmimic1234",
+      "timeAgo": "46 minutes ago",
+      "title": "ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電",
+      "price": 15000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441123108/",
+      "category": "筆電",
+      "maxDays": 7,
+      "priceStr": "NT$15,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 00:25",
+      "pid": "1441123108",
+      "verified": {
+        "newPrice": 25850,
+        "secondhand": 20000,
+        "note": "ASUS Vivobook S15 OLED S5504VA 13 代 i7-13700H NT$15K = 58% 新 / 75% 二手 (BUY; 13700H+OLED 仍堪用)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": 58,
+      "vsSecondhand": 75
     }
   ],
   "uncertain": []
