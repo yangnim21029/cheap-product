@@ -6124,6 +6124,13 @@
     "secondhand": 2500,
     "note": "Apple Pencil 2 A2051 NT$3,500 = 92% 新 / 140% 二手 (二手 ~$2.5K) SKIP 持平"
   },
+  "1434796556": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 350 SKIP: Olympus XZ-1 2011 老 DC",
+    "source": "patrol_350_skip"
+  },
   "1434838019": {
     "newPrice": null,
     "secondhand": null,
@@ -35989,6 +35996,13 @@
     "note": "Patrol 342 SKIP: HP ProDesk 400 G6 Mini 老商用",
     "source": "patrol_342_skip"
   },
+  "1440909071": {
+    "skip": true,
+    "newPrice": 5999,
+    "secondhand": 4800,
+    "note": "Patrol 350 SKIP: OVO LA5 Pro NT$4,900 = 82% 新 / 102% 二手 (file 過貴邊緣; 2025-11 新品促銷 NT$5,759, 二手只省 NT$1,099 吸引力低)",
+    "source": "biggo 2026-05-31"
+  },
   "1440909582": {
     "skip": true,
     "newPrice": null,
@@ -36352,6 +36366,20 @@
     "note": "Patrol 345 SKIP: Soundcore AeroClip NT$2,650 邊緣入耳掛耳新品",
     "source": "patrol_345_skip"
   },
+  "1440939629": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 350 SKIP: EXPED Lightning 45L 登山背包 戶外 niche",
+    "source": "patrol_350_skip"
+  },
+  "1440939761": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 350 SKIP: OLED 薩爾達特仕主機 老主機 niche",
+    "source": "patrol_350_skip"
+  },
   "1440940047": {
     "skip": true,
     "newPrice": null,
@@ -36422,6 +36450,13 @@
     "note": "Patrol 346 SKIP: 山寨踏步機 niche",
     "source": "patrol_346_skip"
   },
+  "1440942339": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 350 SKIP: HP LaserJet Pro 3103fdn 商用事務機 niche",
+    "source": "patrol_350_skip"
+  },
   "1440942603": {
     "skip": true,
     "newPrice": null,
@@ -36471,11 +36506,38 @@
     "note": "Patrol 348 SKIP: DJI Action 2 NT$4,300 = 90% 二手 (邊緣; 停產無新品錨點, Action 5/5 Pro 主流取代殘值末段續跌, 轉售空間窄, 只有自用即用即丟才入手)",
     "source": "patrol_348_skip"
   },
+  "1440947027": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 350 SKIP: 飛馬牌腳踏車 自行車 niche",
+    "source": "patrol_350_skip"
+  },
   "1440948060": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 349 SKIP: Salomon Activ Skin 8 越野跑背心 戶外 niche",
     "source": "patrol_349_skip"
+  },
+  "1440948887": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 350 SKIP: NT$2K 早期紫砂壺 紫砂 niche",
+    "source": "patrol_350_skip"
+  },
+  "1440949949": {
+    "newPrice": 33840,
+    "secondhand": 22000,
+    "note": "Canon R10+RF-S 18-150 旅遊鏡組 公司貨盒裝完整 NT$22,000 = 65% 新 / 100% 二手 (file 合理偏甜; 整套貼齊二手中位 NT$22-25K, 公司貨+盒裝+防潮箱條件齊)",
+    "source": "biggo+dcfever 2026-05-31"
+  },
+  "1440950710": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 350 SKIP: NDSL 2006 老主機",
+    "source": "patrol_350_skip"
   }
 }
