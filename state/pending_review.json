@@ -48,7 +48,7 @@
     },
     {
       "seller": "ecora159453236",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "MSI CLAW A1M 電競掌機 順玩各類AAA大作",
       "price": 10499,
       "condition": "Like new",
@@ -58,7 +58,7 @@
       "priceStr": "NT$10,499",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 10:02",
+      "listedAt": "05/31 10:03",
       "pid": "1440963675",
       "verified": {
         "newPrice": 18888,
@@ -73,7 +73,7 @@
   "negotiate": [
     {
       "seller": "kingjlin12-52731",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板",
       "price": 4390,
       "condition": "Brand new",
@@ -83,7 +83,7 @@
       "priceStr": "NT$4,390",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/30 22:02",
+      "listedAt": "05/30 22:03",
       "pid": "1435096703",
       "verified": {
         "newPrice": 5490,
@@ -96,7 +96,7 @@
     },
     {
       "seller": "kehogken",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 巧控鍵盤",
       "price": 3000,
       "condition": "Like new",
@@ -106,7 +106,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 00:02",
+      "listedAt": "05/31 00:03",
       "pid": "1440922827",
       "verified": {
         "newPrice": 4690,
@@ -136,7 +136,7 @@
     },
     {
       "seller": "gino1004",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "【Marshall】Uxbridge Voice (Alexa version) 智慧小喇叭 二手近全新",
       "price": 5000,
       "condition": "Like new",
@@ -146,7 +146,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 10:02",
+      "listedAt": "05/31 10:03",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -195,7 +195,7 @@
     },
     {
       "seller": "dhamoeba40937",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "近全新 Olympus om System 12-45mm f4 pro 鏡頭",
       "price": 9500,
       "condition": "Like new",
@@ -205,7 +205,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 10:02",
+      "listedAt": "05/31 10:03",
       "pid": "1440962629",
       "verified": {
         "newPrice": 17990,
@@ -215,6 +215,75 @@
       },
       "vsNew": 53,
       "vsSecondhand": 86
+    },
+    {
+      "seller": "virgo6518",
+      "timeAgo": "3 hours ago",
+      "title": "FUJIFILM XF 18-55mm F2.8-4 R LM OIS 公司貨 二手鏡",
+      "price": 7000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440982632/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$7,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 12:03",
+      "pid": "1440982632",
+      "verified": {
+        "newPrice": 14800,
+        "secondhand": 9500,
+        "note": "FUJIFILM XF 18-55 f/2.8-4 R LM OIS 公司貨二手 NT$7,000 = 47% 新 / 74% 二手 (殺價; 注意是否拆鏡無保, XF 16-50 II 慢慢取代但光學仍強)",
+        "source": "biggo 2026-05-31"
+      },
+      "vsNew": 47,
+      "vsSecondhand": 74
+    },
+    {
+      "seller": "oaone",
+      "timeAgo": "3 hours ago",
+      "title": "Sony SEL11F18 大光圈超廣角鏡頭",
+      "price": 8000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1440981561/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 12:03",
+      "pid": "1440981561",
+      "verified": {
+        "newPrice": 11500,
+        "secondhand": 10500,
+        "note": "Sony SEL11F18 11mm F1.8 APS-C 廣角 NT$8,000 = 70% 新 / 76% 二手 (殺價 機會主義; subagent 警告 vs 新品只差 NT$3,500 沒保固, 但 31% off 真折讓, User 自查水貨/平輸)",
+        "source": "biggo 2026-05-31"
+      },
+      "vsNew": 70,
+      "vsSecondhand": 76
+    },
+    {
+      "seller": "metro2267040",
+      "timeAgo": "37 minutes ago",
+      "title": "Keychron q6 max",
+      "price": 4700,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1435163962/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,700",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "05/31 14:26",
+      "pid": "1435163962",
+      "verified": {
+        "newPrice": 6290,
+        "secondhand": 5500,
+        "note": "Keychron Q6 Max 全機鋁殼 NT$4,700 = 75% 新 / 85% 二手 (殺價; 現役無代差, 注意 ANSI/ISO/軸種/旋鈕掌托完整性)",
+        "source": "biggo 2026-05-31"
+      },
+      "vsNew": 75,
+      "vsSecondhand": 85
     }
   ],
   "uncertain": []
