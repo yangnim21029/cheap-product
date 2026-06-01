@@ -48,7 +48,7 @@
     },
     {
       "seller": "c.c.an",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "IPhone 12 64G 藍",
       "price": 3900,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$3,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 19:02",
+      "listedAt": "05/31 19:04",
       "pid": "1441068213",
       "verified": {
         "newPrice": null,
@@ -71,7 +71,7 @@
     },
     {
       "seller": "clevereagle_c61a43",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "BenQ MOBIUZ EX3210R 32吋 2K 165Hz 曲面電競螢幕",
       "price": 5000,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 16:03",
+      "listedAt": "05/31 16:04",
       "pid": "1441023621",
       "verified": {
         "newPrice": 9018,
@@ -142,7 +142,7 @@
     },
     {
       "seller": "linmimic1234",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電",
       "price": 15000,
       "condition": "Lightly used",
@@ -152,7 +152,7 @@
       "priceStr": "NT$15,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 00:03",
+      "listedAt": "06/01 00:04",
       "pid": "1441123108",
       "verified": {
         "newPrice": 25850,
@@ -211,7 +211,7 @@
     },
     {
       "seller": "metro2267040",
-      "timeAgo": "21 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "Keychron q6 max",
       "price": 4700,
       "condition": "Like new",
@@ -221,7 +221,7 @@
       "priceStr": "NT$4,700",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 14:03",
+      "listedAt": "05/31 14:04",
       "pid": "1435163962",
       "verified": {
         "newPrice": 6290,
@@ -239,12 +239,12 @@
       "price": 5000,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1440962406/",
-      "category": "音響耳機",
+      "category": "喇叭",
       "maxDays": 3,
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 11:03",
+      "listedAt": "05/31 12:04",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -314,7 +314,7 @@
     },
     {
       "seller": "virgo6518",
-      "timeAgo": "23 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "FUJIFILM XF 18-55mm F2.8-4 R LM OIS 公司貨 二手鏡",
       "price": 7000,
       "condition": "Lightly used",
@@ -324,7 +324,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 12:03",
+      "listedAt": "05/31 12:04",
       "pid": "1440982632",
       "verified": {
         "newPrice": 14800,
@@ -337,7 +337,7 @@
     },
     {
       "seller": "oaone",
-      "timeAgo": "23 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "Sony SEL11F18 大光圈超廣角鏡頭",
       "price": 8000,
       "condition": "Lightly used",
@@ -347,7 +347,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 12:03",
+      "listedAt": "05/31 12:04",
       "pid": "1440981561",
       "verified": {
         "newPrice": 11500,
@@ -370,7 +370,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 11:03",
+      "listedAt": "05/31 12:04",
       "pid": "1440962629",
       "verified": {
         "newPrice": 17990,
@@ -497,7 +497,7 @@
     },
     {
       "seller": "jimlin0326",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "Airpods pro 2 type-c 沒戴過9.9成新",
       "price": 3800,
       "condition": "Like new",
@@ -507,7 +507,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 03:03",
+      "listedAt": "06/01 03:04",
       "pid": "1441143573",
       "verified": {
         "newPrice": 6190,
@@ -517,6 +517,52 @@
       },
       "vsNew": 61,
       "vsSecondhand": 84
+    },
+    {
+      "seller": "rightxie90s",
+      "timeAgo": "31 minutes ago",
+      "title": "自售 iPad Pro 12.9吋 第四代 256GB",
+      "price": 11000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1435441468/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$11,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 11:33",
+      "pid": "1435441468",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 14000,
+        "note": "iPad Pro 12.9 4 代 2020 256G NT$11K = 79% 二手 (殺價; A12Z M2/M4 兩代取代 EOL clearance -15%; Family trap 警告賣家未標 WiFi/LTE SKU 差 NT$2-3K 要逼問)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": null,
+      "vsSecondhand": 79
+    },
+    {
+      "seller": "offee",
+      "timeAgo": "54 minutes ago",
+      "title": "華碩 ASUS 14吋 UX3402Z I7-1260P 16G 512G SSD 紳士藍",
+      "price": 12300,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441180897/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$12,300",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 11:10",
+      "pid": "1441180897",
+      "verified": {
+        "newPrice": 37900,
+        "secondhand": 15000,
+        "note": "ASUS UX3402Z ZenBook 14 OLED i7-1260P 16/512 紳士藍 NT$12,300 = 32% 新 / 82% 二手 (殺價安全; Lunar Lake/Arrow Lake S14/S16 兩代取代 EOL -10% 已反映)",
+        "source": "biggo 2026-06-01"
+      },
+      "vsNew": 32,
+      "vsSecondhand": 82
     }
   ],
   "uncertain": []

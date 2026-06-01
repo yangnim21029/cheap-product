@@ -3429,6 +3429,13 @@
     "note": "Patrol 376 SKIP: 禾祥訂製 27 段變速車 自行車 niche",
     "source": "patrol_376_skip"
   },
+  "1429508925": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: iPhone SE 2 (2020) 128G NT$4,500 偏貴 (二手 NT$3-4K, EOL 5 年 iOS 26 不支援)",
+    "source": "patrol_379_skip"
+  },
   "1429548021": {
     "newPrice": null,
     "secondhand": null,
@@ -4922,6 +4929,13 @@
     "secondhand": null,
     "note": "Patrol 102 SKIP: SONY 索尼 WI-OE610 耳掛式耳機 HanHan1183",
     "source": "manual_skip"
+  },
+  "1433031910": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: <NT$2K Sonicake 效果器 樂器",
+    "source": "patrol_379_skip"
   },
   "1433068853": {
     "newPrice": null,
@@ -6558,6 +6572,13 @@
     "note": "Patrol 331 SKIP: Pomarico 豎笛水晶吹嘴 樂器 niche",
     "source": "patrol_331_skip"
   },
+  "1435046436": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: <NT$2K Citizen 古董錶 老物 niche",
+    "source": "patrol_379_skip"
+  },
   "1435058017": {
     "skip": true,
     "newPrice": null,
@@ -6888,12 +6909,39 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1435399517": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: 辛卯兔年套幣 紀念幣 niche",
+    "source": "patrol_379_skip"
+  },
+  "1435413510": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: <NT$2K PAR Cassette 合輯",
+    "source": "patrol_379_skip"
+  },
+  "1435441468": {
+    "newPrice": null,
+    "secondhand": 14000,
+    "note": "iPad Pro 12.9 4 代 2020 256G NT$11K = 79% 二手 (殺價; A12Z M2/M4 兩代取代 EOL clearance -15%; Family trap 警告賣家未標 WiFi/LTE SKU 差 NT$2-3K 要逼問)",
+    "source": "biggo 2026-06-01"
+  },
   "1435451723": {
     "newPrice": null,
     "secondhand": null,
     "note": "果汁機 Kolin歌林隨行杯鮮榨果汁機JE-LNP17 雙杯組AS材質合600ml方便分 NT$760 pon097 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1435453567": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: 12 核電競 PC #26 配置未列 (跟 patrol 357/378 同模式)",
+    "source": "patrol_379_skip"
   },
   "1435486068": {
     "newPrice": null,
@@ -38697,6 +38745,13 @@
     "note": "Patrol 377 SKIP: <NT$2K Panasonic 果汁機",
     "source": "patrol_377_skip"
   },
+  "1441165211": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: Aston Martin Labubu 禮盒 偶像周邊 niche",
+    "source": "patrol_379_skip"
+  },
   "1441168547": {
     "skip": true,
     "newPrice": null,
@@ -38815,5 +38870,53 @@
     "secondhand": null,
     "note": "Patrol 378 SKIP: Casio PX-S3100 電鋼琴 樂器 niche",
     "source": "patrol_378_skip"
+  },
+  "1441179148": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: Dior 癮誘粉漾莓果 50ml NT$3,500 香氛 niche",
+    "source": "patrol_379_skip"
+  },
+  "1441179881": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: <NT$2K Roland R-1W 大鼓踏板 樂器",
+    "source": "patrol_379_skip"
+  },
+  "1441180897": {
+    "newPrice": 37900,
+    "secondhand": 15000,
+    "note": "ASUS UX3402Z ZenBook 14 OLED i7-1260P 16/512 紳士藍 NT$12,300 = 32% 新 / 82% 二手 (殺價安全; Lunar Lake/Arrow Lake S14/S16 兩代取代 EOL -10% 已反映)",
+    "source": "biggo 2026-06-01"
+  },
+  "1441183236": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: AMD 9070XT abbeveow-88473 專屬被特定買家 hold",
+    "source": "patrol_379_skip"
+  },
+  "1441189759": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: 音響用書 NT$300,500 price parse bug (應該 NT$300?)",
+    "source": "patrol_379_skip"
+  },
+  "1441189841": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: Insta360 GO 3S NT$11K = 92% 邊緣 (新品 NT$11,990)",
+    "source": "patrol_379_skip"
+  },
+  "1441191199": {
+    "skip": true,
+    "newPrice": 4490,
+    "secondhand": null,
+    "note": "Patrol 379 SKIP: AMD R5 7500F NT$3,500 = 78% 新 (CPU 二手稀薄, 只省 NT$990 沒抓到二手該有折扣; Zen5 7600/7500X3D 取代等 NEW 跌至 NT$3,900 或這支 NT$2,800)",
+    "source": "biggo 2026-06-01"
   }
 }
