@@ -1526,6 +1526,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1424305488": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: <NT$2K VANA 香氛蠟燭",
+    "source": "patrol_382_skip"
+  },
   "1424425177": {
     "newPrice": null,
     "secondhand": null,
@@ -3025,6 +3032,13 @@
     "note": "Marshall Emberton II 黑金剛 攜帶式 BT 喇叭 NT$3,900 = 78% 新 / 111% 二手 (二手 BigGo ~$3.5K) 持平 SKIP",
     "skip": true
   },
+  "1428939673": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: 捷安特腳踏車 自行車 niche",
+    "source": "patrol_382_skip"
+  },
   "1428965052": {
     "newPrice": null,
     "secondhand": null,
@@ -3443,6 +3457,13 @@
     "note": "Patrol 379 SKIP: iPhone SE 2 (2020) 128G NT$4,500 偏貴 (二手 NT$3-4K, EOL 5 年 iOS 26 不支援)",
     "source": "patrol_379_skip"
   },
+  "1429526004": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: Aputure 200xS+柔光罩 攝影燈 niche",
+    "source": "patrol_382_skip"
+  },
   "1429548021": {
     "newPrice": null,
     "secondhand": null,
@@ -3455,6 +3476,13 @@
     "note": "三腳架 新品 Manfrotto MT190X3 鋁製三腳架 NT$4,000 入門腳架二手價合理無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1429589336": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: <NT$2K 早期長板凳 老物",
+    "source": "patrol_382_skip"
   },
   "1429591515": {
     "skip": true,
@@ -6971,6 +6999,13 @@
     "secondhand": null,
     "note": "Patrol 379 SKIP: <NT$2K PAR Cassette 合輯",
     "source": "patrol_379_skip"
+  },
+  "1435425374": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: 12 核電競 PC #26 配置未列連發",
+    "source": "patrol_382_skip"
   },
   "1435441468": {
     "newPrice": null,
@@ -39017,12 +39052,40 @@
     "note": "Patrol 380 SKIP: 羽球鞋 niche",
     "source": "patrol_380_skip"
   },
+  "1441192331": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: CRBN TruFoam Genesis 匹克球拍 niche",
+    "source": "patrol_382_skip"
+  },
+  "1441192763": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: <NT$2K 全新果汁機",
+    "source": "patrol_382_skip"
+  },
   "1441194895": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 380 SKIP: ROG STRIX B650-A WIFI NT$4,500 邊緣 (新 NT$5,990 = 75%)",
     "source": "patrol_380_skip"
+  },
+  "1441194995": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: Yonex Astrox 88D Pro 4U 羽拍 niche",
+    "source": "patrol_382_skip"
+  },
+  "1441195141": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: Nikon ais 24mm F2.8 老手動定焦鏡 niche",
+    "source": "patrol_382_skip"
   },
   "1441197100": {
     "skip": true,
@@ -39051,12 +39114,26 @@
     "note": "Epson EF-11 雷射投影機 NT$10K = 45% 新 / 53% 二手 (好貨可入; 雷射光源警告須驗累計時數+亮度衰減, EF-12/EF-21 取代 EOL clearance 殘值續跌)",
     "source": "biggo+pchome 2026-06-01"
   },
+  "1441202240": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: 尼爾氏枕頭噴霧 price NT$7,201,200 parse bug",
+    "source": "patrol_382_skip"
+  },
   "1441209722": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 381 SKIP: <NT$2K 竹編敷帛茶籠 老物 niche",
     "source": "patrol_381_skip"
+  },
+  "1441213739": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: 技嘉電競筆電型號未列",
+    "source": "patrol_382_skip"
   },
   "1441214432": {
     "skip": true,
@@ -39071,5 +39148,47 @@
     "secondhand": null,
     "note": "Patrol 381 SKIP: <NT$2K 早期錄影帶 老物",
     "source": "patrol_381_skip"
+  },
+  "1441215903": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: <NT$2K 大清風雲 VCD",
+    "source": "patrol_382_skip"
+  },
+  "1441216470": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: iMac A1418 2015 10 年前老機",
+    "source": "patrol_382_skip"
+  },
+  "1441224242": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: Canon IXUS 285 HS NT$8,500 (patrol 342 同款 NT$8K 已 SKIP, 此次更貴)",
+    "source": "patrol_382_skip"
+  },
+  "1441224642": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: iPad Pro M4 容量+尺寸雙缺 (11/13 差 NT$4K+, family trap)",
+    "source": "patrol_382_skip"
+  },
+  "1441227518": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: 7 吋 N150 山寨 mini PC niche",
+    "source": "patrol_382_skip"
+  },
+  "1441227866": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 382 SKIP: <NT$2K TWICE 豆豆眼 偶像周邊",
+    "source": "patrol_382_skip"
   }
 }

@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/6/1 14:03:33 · 累積已看 14145 筆 · 125 位賣家黑名單
+> 2026/6/1 15:03:16 · 累積已看 14145 筆 · 125 位賣家黑名單
 
 **待審：** 好貨 6 ｜ 殺價 21 ｜ 手動 0 ｜ 待查 0
 
@@ -12,7 +12,7 @@
 
 | 品項 | 價格 | 比基準 | 折數 | 狀態 | 上架 |  |
 |------|------|--------|------|------|------|--|
-| [投影機] Epson ef 11 投影機 | **NT$10,000** | 新$22300 | 45% new | Like new | 06/01 13:17 | [→](https://tw.carousell.com/p/1441201676/) |
+| [投影機] Epson ef 11 投影機 | **NT$10,000** | 新$22300 | 45% new | Like new | 06/01 13:03 | [→](https://tw.carousell.com/p/1441201676/) |
 | [iPhone] IPhone 12 64G 藍 | **NT$3,900** | 二手$5990 | 65% 二手 | Lightly used | 05/31 19:03 | [→](https://tw.carousell.com/p/1441068213/) |
 | [螢幕] BenQ MOBIUZ EX3210R 32吋 2K 165Hz 曲面電競螢幕 | **NT$5,000** | 新$9018 | 55% new | Lightly used | 05/31 16:03 | [→](https://tw.carousell.com/p/1441023621/) |
 | [電腦科技] MSI CLAW A1M 電競掌機 順玩各類AAA大作 | **NT$10,499** | 新$18888 | 56% new | Like new | 05/31 10:02 | [→](https://tw.carousell.com/p/1440963675/) |
@@ -39,11 +39,11 @@
 | [AirPods Max] AirPods Max A2096 Lightning 版 銀色 | **NT$6,500** | 二手$6000 | ? | Unknown | 05/31 20:11 | [→](https://tw.carousell.com/p/1441072946/) |
 | [喇叭] B&O Bang & Olufsen x Clot Beosound A1 攜帶型藍牙喇叭 | **NT$6,000** | 新$8000 | ? | Unknown | 05/31 19:11 | [→](https://tw.carousell.com/p/1441059476/) |
 | [智慧手錶] Apple Watch s9 45mm 午夜色/保固到27/04/22 | **NT$6,000** | 新$13200 | ? | Unknown | 05/31 18:11 | [→](https://tw.carousell.com/p/1441049979/) |
+| [喇叭] 【Marshall】Uxbridge Voice (Alexa version) 智慧小喇 | **NT$5,000** | 新$7290 | 69% new | Like new | 05/31 15:03 | [→](https://tw.carousell.com/p/1440962406/) |
+| [相機攝影] FUJIFILM XF 18-55mm F2.8-4 R LM OIS 公司貨 二手鏡 | **NT$7,000** | 新$14800 | 47% new | Lightly used | 05/31 15:03 | [→](https://tw.carousell.com/p/1440982632/) |
+| [相機攝影] Sony SEL11F18 大光圈超廣角鏡頭 | **NT$8,000** | 新$11500 | 70% new | Lightly used | 05/31 15:03 | [→](https://tw.carousell.com/p/1440981561/) |
+| [相機攝影] 近全新 Olympus om System 12-45mm f4 pro 鏡頭 | **NT$9,500** | 新$17990 | 53% new | Like new | 05/31 15:03 | [→](https://tw.carousell.com/p/1440962629/) |
 | [電腦科技] Keychron q6 max | **NT$4,700** | 新$6290 | 75% new | Like new | 05/31 14:04 | [→](https://tw.carousell.com/p/1435163962/) |
-| [音響耳機] 【Marshall】Uxbridge Voice (Alexa version) 智慧小喇 | **NT$5,000** | 新$7290 | 69% new | Like new | 05/31 14:03 | [→](https://tw.carousell.com/p/1440962406/) |
-| [相機攝影] FUJIFILM XF 18-55mm F2.8-4 R LM OIS 公司貨 二手鏡 | **NT$7,000** | 新$14800 | 47% new | Lightly used | 05/31 14:03 | [→](https://tw.carousell.com/p/1440982632/) |
-| [相機攝影] Sony SEL11F18 大光圈超廣角鏡頭 | **NT$8,000** | 新$11500 | 70% new | Lightly used | 05/31 14:03 | [→](https://tw.carousell.com/p/1440981561/) |
-| [相機攝影] 近全新 Olympus om System 12-45mm f4 pro 鏡頭 | **NT$9,500** | 新$17990 | 53% new | Like new | 05/31 14:03 | [→](https://tw.carousell.com/p/1440962629/) |
 | [電腦科技] Apple Magic Keyboard A2520 配備 Touch ID 及 數字鍵盤 | **NT$3,000** | 新$4690 | 64% new | Like new | 05/31 00:02 | [→](https://tw.carousell.com/p/1440922827/) |
 | [電腦科技] 【全新最低價】技嘉 B650M AORUS ELITE AX ICE AM5 白色主機板 | **NT$4,390** | 新$5490 | 80% new | Brand new | 05/30 22:03 | [→](https://tw.carousell.com/p/1435096703/) |
 
