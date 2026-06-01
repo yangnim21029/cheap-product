@@ -1512,6 +1512,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1424226502": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: <NT$2K 泰民貓鑰匙圈 偶像周邊",
+    "source": "patrol_380_skip"
+  },
   "1424263553": {
     "newPrice": null,
     "secondhand": null,
@@ -3449,6 +3456,13 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1429591515": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: ROG 65% 藍牙鍵盤型號未列 (Falchion? Azoth?)",
+    "source": "patrol_380_skip"
+  },
   "1429630084": {
     "newPrice": null,
     "secondhand": null,
@@ -4624,6 +4638,13 @@
     "secondhand": null,
     "note": "Patrol 99 SKIP: Alite 150 二手 腳踏車 evelynleenes",
     "source": "manual_skip"
+  },
+  "1432874003": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: <NT$2K E.L.F RING 偶像周邊",
+    "source": "patrol_380_skip"
   },
   "1432878412": {
     "newPrice": null,
@@ -6935,6 +6956,13 @@
     "note": "果汁機 Kolin歌林隨行杯鮮榨果汁機JE-LNP17 雙杯組AS材質合600ml方便分 NT$760 pon097 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1435453540": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: Synology DS223j 入門 NAS NT$4,800 = 76% 邊緣",
+    "source": "patrol_380_skip"
   },
   "1435453567": {
     "skip": true,
@@ -38912,11 +38940,67 @@
     "note": "Patrol 379 SKIP: Insta360 GO 3S NT$11K = 92% 邊緣 (新品 NT$11,990)",
     "source": "patrol_379_skip"
   },
+  "1441191035": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: AirPods Pro 2 USB-C NT$2,300 太甜風險 (patrol 371 同款 9.9 成新 NT$3,800, NT$2,300 vsSF 51% 盜刷/磚機嫌疑)",
+    "source": "patrol_380_skip"
+  },
   "1441191199": {
     "skip": true,
     "newPrice": 4490,
     "secondhand": null,
     "note": "Patrol 379 SKIP: AMD R5 7500F NT$3,500 = 78% 新 (CPU 二手稀薄, 只省 NT$990 沒抓到二手該有折扣; Zen5 7600/7500X3D 取代等 NEW 跌至 NT$3,900 或這支 NT$2,800)",
     "source": "biggo 2026-06-01"
+  },
+  "1441191487": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: 青花山水瓷杯 古董 niche",
+    "source": "patrol_380_skip"
+  },
+  "1441191562": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: 威技 11L 清淨除濕機小坪數 (User 要 20L+)",
+    "source": "patrol_380_skip"
+  },
+  "1441191801": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: 羽球鞋 niche",
+    "source": "patrol_380_skip"
+  },
+  "1441194895": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: ROG STRIX B650-A WIFI NT$4,500 邊緣 (新 NT$5,990 = 75%)",
+    "source": "patrol_380_skip"
+  },
+  "1441197100": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: Asrock Deskmini A300 3000G/16/256 老 AMD APU",
+    "source": "patrol_380_skip"
+  },
+  "1441200619": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: <NT$2K Apple Watch S3 38mm EOL 多代不支援 watchOS",
+    "source": "patrol_380_skip"
+  },
+  "1441200795": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 380 SKIP: ADATA LEGEND 710 1TB Gen3 NT$4K vs 通路 NT$1,800 = 220% 暴貴 SSD trap",
+    "source": "patrol_380_skip"
   }
 }
