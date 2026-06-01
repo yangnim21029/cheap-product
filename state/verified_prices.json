@@ -3408,6 +3408,13 @@
     "note": "Patrol 368 SKIP: <NT$2K Galaxy Watch 42mm",
     "source": "patrol_368_skip"
   },
+  "1429501695": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 376 SKIP: 禾祥訂製 27 段變速車 自行車 niche",
+    "source": "patrol_376_skip"
+  },
   "1429548021": {
     "newPrice": null,
     "secondhand": null,
@@ -38606,6 +38613,13 @@
     "note": "Patrol 375 SKIP: Switch Lite 黃 NT$3,400 容量未列邊緣",
     "source": "patrol_375_skip"
   },
+  "1441155417": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 376 SKIP: ADATA D50 32GB DDR4-3200 RGB NT$5,500 vs 通路 NT$2,500 = 220% 暴貴 (RAM trap zone 連發)",
+    "source": "patrol_376_skip"
+  },
   "1441155738": {
     "skip": true,
     "newPrice": null,
@@ -38619,5 +38633,19 @@
     "secondhand": null,
     "note": "Patrol 375 SKIP: <NT$2K 1965 法國錢幣 niche",
     "source": "patrol_375_skip"
+  },
+  "1441160114": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 376 SKIP: 清料滿絲髮晶手珠 AM-8 水晶/手珠 niche",
+    "source": "patrol_376_skip"
+  },
+  "1441161690": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 376 SKIP: <NT$2K CORTIS 手鍊周邊",
+    "source": "patrol_376_skip"
   }
 }
