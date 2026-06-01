@@ -48,7 +48,7 @@
     },
     {
       "seller": "c.c.an",
-      "timeAgo": "21 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "IPhone 12 64G 藍",
       "price": 3900,
       "condition": "Lightly used",
@@ -117,7 +117,7 @@
     },
     {
       "seller": "georgepig200478",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Epson ef 11 投影機",
       "price": 10000,
       "condition": "Like new",
@@ -127,7 +127,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 13:03",
+      "listedAt": "06/01 13:04",
       "pid": "1441201676",
       "verified": {
         "newPrice": 22300,
@@ -140,7 +140,7 @@
     },
     {
       "seller": "jinhan3c",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "iphone 11 pro/128 綠",
       "price": 4200,
       "condition": "Lightly used",
@@ -160,6 +160,29 @@
       },
       "vsNew": null,
       "vsSecondhand": 65
+    },
+    {
+      "seller": "newwind.4e56d5",
+      "timeAgo": "1 hour ago",
+      "title": "iPad Air 5 64G 星光色 + 巧控鍵盤 + 2代筆",
+      "price": 13500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441240595/",
+      "category": "iPad",
+      "maxDays": 7,
+      "priceStr": "NT$13,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 16:04",
+      "pid": "1441240595",
+      "verified": {
+        "newPrice": 24580,
+        "secondhand": 19700,
+        "note": "iPad Air 5 64G+巧控鍵盤+2 代筆 套組 NT$13,500 = 55% 新 / 68% 二手 (好貨; 套組 SF baseline 19,700 含配件 floor 10,400, 巧控鍵盤 M3 改版後舊款續貶值警告)",
+        "source": "biggo+feebee 2026-06-01"
+      },
+      "vsNew": 55,
+      "vsSecondhand": 69
     }
   ],
   "negotiate": [
@@ -188,7 +211,7 @@
     },
     {
       "seller": "linmimic1234",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電",
       "price": 15000,
       "condition": "Lightly used",
@@ -290,7 +313,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 16:04",
+      "listedAt": "05/31 17:04",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -370,7 +393,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 16:04",
+      "listedAt": "05/31 17:04",
       "pid": "1440982632",
       "verified": {
         "newPrice": 14800,
@@ -393,7 +416,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 16:04",
+      "listedAt": "05/31 17:04",
       "pid": "1440981561",
       "verified": {
         "newPrice": 11500,
@@ -416,7 +439,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 16:04",
+      "listedAt": "05/31 17:04",
       "pid": "1440962629",
       "verified": {
         "newPrice": 17990,
@@ -543,7 +566,7 @@
     },
     {
       "seller": "jimlin0326",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "Airpods pro 2 type-c 沒戴過9.9成新",
       "price": 3800,
       "condition": "Like new",
@@ -589,7 +612,7 @@
     },
     {
       "seller": "offee",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "華碩 ASUS 14吋 UX3402Z I7-1260P 16G 512G SSD 紳士藍",
       "price": 12300,
       "condition": "Like new",
@@ -609,6 +632,24 @@
       },
       "vsNew": 32,
       "vsSecondhand": 82
+    },
+    {
+      "pid": "1441247912",
+      "category": "除濕機",
+      "price": 14800,
+      "priceStr": "NT$14,800",
+      "title": "Panasonic 國際牌 22L nanoeX 變頻高效節能清淨除濕機 一級能效 F-Y45GX 衣物乾燥 抑菌除臭",
+      "timeAgo": "19 minutes ago",
+      "url": "https://tw.carousell.com/p/1441247912/",
+      "listedAt": null,
+      "verified": {
+        "newPrice": 20500,
+        "secondhand": 16000,
+        "note": "Panasonic F-Y45GX 22L 1 級 全新 NT$14,800 = 72% 新 / 93% 二手 (機會主義邊緣; 比 patrol 354 同款 NT$16K 便宜 NT$1.2K, 扣節能補助 1,200 後 floor NT$15,690)",
+        "source": "biggo+pchome 2026-06-01",
+        "vsNew": 72,
+        "vsSecondhand": 93
+      }
     }
   ],
   "uncertain": []

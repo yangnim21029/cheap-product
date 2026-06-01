@@ -1533,6 +1533,13 @@
     "note": "Patrol 382 SKIP: <NT$2K VANA 香氛蠟燭",
     "source": "patrol_382_skip"
   },
+  "1424315332": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K Stayreal 胡蘿蔔行動電源",
+    "source": "patrol_384_skip"
+  },
   "1424425177": {
     "newPrice": null,
     "secondhand": null,
@@ -3483,6 +3490,13 @@
     "note": "三腳架 新品 Manfrotto MT190X3 鋁製三腳架 NT$4,000 入門腳架二手價合理無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1429562241": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Petromax KX50 50L 保冰桶 戶外 niche",
+    "source": "patrol_384_skip"
   },
   "1429589336": {
     "skip": true,
@@ -39190,6 +39204,13 @@
     "note": "Patrol 382 SKIP: iPad Pro M4 容量+尺寸雙缺 (11/13 差 NT$4K+, family trap)",
     "source": "patrol_382_skip"
   },
+  "1441226749": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K Samsung EB-P4520",
+    "source": "patrol_384_skip"
+  },
   "1441227518": {
     "skip": true,
     "newPrice": null,
@@ -39203,6 +39224,13 @@
     "secondhand": null,
     "note": "Patrol 382 SKIP: <NT$2K TWICE 豆豆眼 偶像周邊",
     "source": "patrol_382_skip"
+  },
+  "1441228213": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Insta360 Flow Ai 穩定器 NT$2,090 邊緣",
+    "source": "patrol_384_skip"
   },
   "1441230349": {
     "skip": true,
@@ -39218,12 +39246,26 @@
     "note": "Patrol 383 SKIP: iPad mini 6 256G Cellular NT$18K = 107% 新 / 133% 二手 (比全新還貴 + M3 mini 2024 取代 EOL clearance, 賣家脫離行情)",
     "source": "biggo+pchome 2026-06-01"
   },
+  "1441232266": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Sanrio 美樂蒂 幼兒園周邊 niche",
+    "source": "patrol_384_skip"
+  },
   "1441233070": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 383 SKIP: Switch 2 + 路易吉 3 + 薩爾達 + 擴充 NT$17K = 86% 邊緣 (套組新品 NT$19,760)",
     "source": "patrol_383_skip"
+  },
+  "1441233224": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Canon IXUS 80 粉 2009 老 DC niche",
+    "source": "patrol_384_skip"
   },
   "1441234587": {
     "skip": true,
@@ -39260,6 +39302,12 @@
     "note": "Patrol 383 SKIP: Sennheiser HD560S NT$4,100 = 82% 邊緣",
     "source": "patrol_383_skip"
   },
+  "1441240595": {
+    "newPrice": 24580,
+    "secondhand": 19700,
+    "note": "iPad Air 5 64G+巧控鍵盤+2 代筆 套組 NT$13,500 = 55% 新 / 68% 二手 (好貨; 套組 SF baseline 19,700 含配件 floor 10,400, 巧控鍵盤 M3 改版後舊款續貶值警告)",
+    "source": "biggo+feebee 2026-06-01"
+  },
   "1441241120": {
     "skip": true,
     "newPrice": null,
@@ -39273,5 +39321,130 @@
     "secondhand": null,
     "note": "Patrol 383 SKIP: RTX 4060 Ti 拆機良品 NT$12K 無保固 (patrol 378 同模式 4070 Ti Super)",
     "source": "patrol_383_skip"
+  },
+  "1441243379": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K 30 首國語經典 2CD",
+    "source": "patrol_384_skip"
+  },
+  "1441243678": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K MJ history 2CD",
+    "source": "patrol_384_skip"
+  },
+  "1441243703": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K Zowie EC1-CW 無線電競滑鼠",
+    "source": "patrol_384_skip"
+  },
+  "1441245314": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Warpple LSB-8 投影機小品牌 niche",
+    "source": "patrol_384_skip"
+  },
+  "1441245376": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Frigidaire FDH-1331Y 13L 變頻 (User 要 20L+, 美國品牌不熟)",
+    "source": "patrol_384_skip"
+  },
+  "1441246333": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K MAGEASY MagPower Qi2",
+    "source": "patrol_384_skip"
+  },
+  "1441247011": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K 金圓券 錢幣 niche",
+    "source": "patrol_384_skip"
+  },
+  "1441247555": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K 嵐 ARASHI 5×20 4BD 偶像周邊",
+    "source": "patrol_384_skip"
+  },
+  "1441247912": {
+    "newPrice": 20500,
+    "secondhand": 16000,
+    "note": "Panasonic F-Y45GX 22L 1 級 全新 NT$14,800 = 72% 新 / 93% 二手 (機會主義邊緣; 比 patrol 354 同款 NT$16K 便宜 NT$1.2K, 扣節能補助 1,200 後 floor NT$15,690)",
+    "source": "biggo+pchome 2026-06-01"
+  },
+  "1441249592": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: <NT$2K 拍立得相機不退型號未列",
+    "source": "patrol_384_skip"
+  },
+  "1441250605": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: iPhone 12 128g NT$4,800 沒寫電池+顏色 (套電池負債法則, 視為 80% 邊緣)",
+    "source": "patrol_384_skip"
+  },
+  "1441250610": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Yamaha SLG200S 鋼弦 樂器 niche",
+    "source": "patrol_384_skip"
+  },
+  "1441251247": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Anuenue MC10 鳥吉他 樂器 niche",
+    "source": "patrol_384_skip"
+  },
+  "1441251261": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: PS4 CUH-1207A 厚機 500G 12 年前老主機",
+    "source": "patrol_384_skip"
+  },
+  "1441251395": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: Cort Artisan A5 Bass NT$15K 樂器 niche",
+    "source": "patrol_384_skip"
+  },
+  "1441252501": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: iPhone Xs Max 64 金 NT$5K 沒寫電池+64G 容量小+老機",
+    "source": "patrol_384_skip"
+  },
+  "1441253867": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: iPad 10 64G 板橋店 NT$7K (patrol 369 同款 NT$9K 已 SKIP, 此次邊緣 97%)",
+    "source": "patrol_384_skip"
+  },
+  "1441255288": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 384 SKIP: GVAST AX5 電動滑板車 niche",
+    "source": "patrol_384_skip"
   }
 }
