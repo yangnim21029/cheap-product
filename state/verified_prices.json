@@ -6742,6 +6742,13 @@
     "note": "Patrol 368 SKIP: 高 CP PC 配置未列",
     "source": "patrol_368_skip"
   },
+  "1435192226": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: 多功能後背包+硬舉鞋 niche",
+    "source": "patrol_378_skip"
+  },
   "1435195550": {
     "newPrice": null,
     "secondhand": null,
@@ -36288,6 +36295,13 @@
     "note": "Patrol 342 SKIP: NT$2K AERO mini 香氛機",
     "source": "patrol_342_skip"
   },
+  "1440905203": {
+    "skip": true,
+    "newPrice": 13900,
+    "secondhand": 9000,
+    "note": "Patrol 378 SKIP: Dyson V12 Fluffy Origin SV44 NT$10K = 72% 新 / 111% 二手 (過貴 vsSF>100%; Origin 是入門簡配 vs Detect Slim 旗艦; 賣家未註明電池健康度買到弱電池 +NT$3-4K)",
+    "source": "biggo+momo 2026-06-01"
+  },
   "1440905602": {
     "skip": true,
     "newPrice": null,
@@ -38682,5 +38696,124 @@
     "secondhand": null,
     "note": "Patrol 377 SKIP: <NT$2K Panasonic 果汁機",
     "source": "patrol_377_skip"
+  },
+  "1441168547": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: <NT$2K FUNY 渦輪循環扇",
+    "source": "patrol_378_skip"
+  },
+  "1441168795": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: <NT$2K Mophie 磁吸行動電源",
+    "source": "patrol_378_skip"
+  },
+  "1441169424": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: HP RTX 4070 Ti Super 拆機良品 NT$19K 無保固風險高 (HP 拆機通常無原盒)",
+    "source": "patrol_378_skip"
+  },
+  "1441169567": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: Sony A6100 NT$22K 套組未列偏貴 (body 二手 NT$15-18K)",
+    "source": "patrol_378_skip"
+  },
+  "1441169657": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: 多寶齋佛牌阿贊 Tom 老物 niche",
+    "source": "patrol_378_skip"
+  },
+  "1441169852": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: 華為 GT4 NT$3,800 上代 (GT5/GT6 取代殘值跌, 沒寫尺寸/版本)",
+    "source": "patrol_378_skip"
+  },
+  "1441170064": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: <NT$2K 多寶齋佛牌阿贊刁 老物 niche",
+    "source": "patrol_378_skip"
+  },
+  "1441170096": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: <NT$2K 釣魚假餌 Zeal",
+    "source": "patrol_378_skip"
+  },
+  "1441171352": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: PSA9 寶可夢卡 niche",
+    "source": "patrol_378_skip"
+  },
+  "1441171451": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: Tecnifibre T-fight 255 網球拍 niche",
+    "source": "patrol_378_skip"
+  },
+  "1441171742": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: <NT$2K PTCG 耿鬼 V 三張",
+    "source": "patrol_378_skip"
+  },
+  "1441173435": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: iPad Air M2 13\" 廠商保固 6 個月 NT$16.5K 容量未列 (64/256 差價 NT$4K+)",
+    "source": "patrol_378_skip"
+  },
+  "1441174441": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: 絕版圓仔成長日記 周邊 niche",
+    "source": "patrol_378_skip"
+  },
+  "1441174928": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: Canon R10 body+HG-100 三腳架 NT$20,888 偏貴 (R10 body 二手 NT$15-17K, patrol 350 同款套組 NT$22K 含 18-150 鏡)",
+    "source": "patrol_378_skip"
+  },
+  "1441175111": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: Belcat T3R3 UHF 樂器配件 niche",
+    "source": "patrol_378_skip"
+  },
+  "1441175232": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: 統一獅 三麗鷗球衣 niche",
+    "source": "patrol_378_skip"
+  },
+  "1441175343": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 378 SKIP: Casio PX-S3100 電鋼琴 樂器 niche",
+    "source": "patrol_378_skip"
   }
 }
