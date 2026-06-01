@@ -5458,6 +5458,13 @@
     "note": "iPad Air 5 (M1) 64G 二手中位 $10K-12K。$8,500 = 77% ⭐⭐ 殺價",
     "source": "2026-05-23"
   },
+  "1433729757": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: Switch 遊戲片 NT$2K 沒寫哪片 邊緣",
+    "source": "patrol_381_skip"
+  },
   "1433741466": {
     "newPrice": null,
     "secondhand": null,
@@ -6826,6 +6833,13 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1435274607": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: 兜琴盒/小提琴盒 樂器配件 niche",
+    "source": "patrol_381_skip"
+  },
   "1435280178": {
     "skip": true,
     "newPrice": null,
@@ -6930,12 +6944,26 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1435392444": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: Elgato Stream Deck XL NT$7,200 (patrol 358 同款 NT$5K 已 SKIP 91% 風險, 此次更貴)",
+    "source": "patrol_381_skip"
+  },
   "1435399517": {
     "skip": true,
     "newPrice": null,
     "secondhand": null,
     "note": "Patrol 379 SKIP: 辛卯兔年套幣 紀念幣 niche",
     "source": "patrol_379_skip"
+  },
+  "1435410940": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: <NT$2K 酷態科 15Ultra",
+    "source": "patrol_381_skip"
   },
   "1435413510": {
     "skip": true,
@@ -38857,6 +38885,13 @@
     "note": "Patrol 378 SKIP: <NT$2K PTCG 耿鬼 V 三張",
     "source": "patrol_378_skip"
   },
+  "1441172174": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: PSA10 寶可夢卡 niche",
+    "source": "patrol_381_skip"
+  },
   "1441173435": {
     "skip": true,
     "newPrice": null,
@@ -38918,6 +38953,13 @@
     "secondhand": 15000,
     "note": "ASUS UX3402Z ZenBook 14 OLED i7-1260P 16/512 紳士藍 NT$12,300 = 32% 新 / 82% 二手 (殺價安全; Lunar Lake/Arrow Lake S14/S16 兩代取代 EOL -10% 已反映)",
     "source": "biggo 2026-06-01"
+  },
+  "1441181423": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: PRGR RS D 高爾夫球桿 niche",
+    "source": "patrol_381_skip"
   },
   "1441183236": {
     "skip": true,
@@ -39002,5 +39044,32 @@
     "secondhand": null,
     "note": "Patrol 380 SKIP: ADATA LEGEND 710 1TB Gen3 NT$4K vs 通路 NT$1,800 = 220% 暴貴 SSD trap",
     "source": "patrol_380_skip"
+  },
+  "1441201676": {
+    "newPrice": 22300,
+    "secondhand": 18880,
+    "note": "Epson EF-11 雷射投影機 NT$10K = 45% 新 / 53% 二手 (好貨可入; 雷射光源警告須驗累計時數+亮度衰減, EF-12/EF-21 取代 EOL clearance 殘值續跌)",
+    "source": "biggo+pchome 2026-06-01"
+  },
+  "1441209722": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: <NT$2K 竹編敷帛茶籠 老物 niche",
+    "source": "patrol_381_skip"
+  },
+  "1441214432": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: Sony ZV-1 一代 NT$10K (ZV-1 II 取代殘值末段, 二手中位邊緣)",
+    "source": "patrol_381_skip"
+  },
+  "1441214519": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 381 SKIP: <NT$2K 早期錄影帶 老物",
+    "source": "patrol_381_skip"
   }
 }
