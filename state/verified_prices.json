@@ -3380,6 +3380,20 @@
     "note": "Patrol 357 SKIP: <NT$2K 三星 Galaxy Fit 3",
     "source": "patrol_357_skip"
   },
+  "1429419186": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 377 SKIP: <NT$2K 裝製藝術瓷器",
+    "source": "patrol_377_skip"
+  },
+  "1429444337": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 377 SKIP: <NT$2K KINYO 行動充",
+    "source": "patrol_377_skip"
+  },
   "1429447304": {
     "newPrice": null,
     "secondhand": null,
@@ -38634,6 +38648,13 @@
     "note": "Patrol 375 SKIP: <NT$2K 1965 法國錢幣 niche",
     "source": "patrol_375_skip"
   },
+  "1441157855": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 377 SKIP: iPhone 12 mini 128G NT$4,500 沒寫電池 (patrol 373 同款 mini 64G 77% 實質 vsSF 125% 教訓)",
+    "source": "patrol_377_skip"
+  },
   "1441160114": {
     "skip": true,
     "newPrice": null,
@@ -38647,5 +38668,19 @@
     "secondhand": null,
     "note": "Patrol 376 SKIP: <NT$2K CORTIS 手鍊周邊",
     "source": "patrol_376_skip"
+  },
+  "1441162296": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 377 SKIP: Fender 60s Telecaster NT$50K 樂器 niche",
+    "source": "patrol_377_skip"
+  },
+  "1441163861": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 377 SKIP: <NT$2K Panasonic 果汁機",
+    "source": "patrol_377_skip"
   }
 }
