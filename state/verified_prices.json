@@ -3011,6 +3011,13 @@
     "secondhand": 3500,
     "note": "AMD Ryzen 7 5700 (non-X) NT$4,500 = 90% 新 / 129% 二手 持平 + ath_149305 連發 SKIP"
   },
+  "1428811097": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: HUION KAMVAS 13 GEN3 繪圖螢幕 niche (轉手低)",
+    "source": "patrol_385_skip"
+  },
   "1428829436": {
     "source": "2026-05-28",
     "skip": true,
@@ -3267,6 +3274,13 @@
     "secondhand": null,
     "note": "Patrol 383 SKIP: <NT$2K HEPA 清淨機品牌未列",
     "source": "patrol_383_skip"
+  },
+  "1429176451": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: 大總統肖像古幣 錢幣 niche",
+    "source": "patrol_385_skip"
   },
   "1429214755": {
     "skip": true,
@@ -5993,6 +6007,13 @@
     "newPrice": null,
     "secondhand": null,
     "note": "GD 大花應援棒 NT$1,600 fan 周邊 niche SKIP"
+  },
+  "1434360706": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: <NT$2K 迪奧香氛世家精巧組",
+    "source": "patrol_385_skip"
   },
   "1434362526": {
     "source": "2026-05-27",
@@ -39343,6 +39364,13 @@
     "note": "Patrol 384 SKIP: <NT$2K Zowie EC1-CW 無線電競滑鼠",
     "source": "patrol_384_skip"
   },
+  "1441244865": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: 上海和平中式薩克斯風 樂器 niche",
+    "source": "patrol_385_skip"
+  },
   "1441245314": {
     "skip": true,
     "newPrice": null,
@@ -39446,5 +39474,54 @@
     "secondhand": null,
     "note": "Patrol 384 SKIP: GVAST AX5 電動滑板車 niche",
     "source": "patrol_384_skip"
+  },
+  "1441257072": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: tinhouse 美肩銀灰喇叭長袖 服飾 (賣家發錯類別)",
+    "source": "patrol_385_skip"
+  },
+  "1441257301": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: tinhouse 美肩寶藍喇叭長袖 服飾 (賣家發錯類別到喇叭)",
+    "source": "patrol_385_skip"
+  },
+  "1441260234": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: 黑膽石巨無霸聚寶盆 水晶/玉石 niche",
+    "source": "patrol_385_skip"
+  },
+  "1441262940": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: <NT$2K 華蜀空靈鼓樂器",
+    "source": "patrol_385_skip"
+  },
+  "1441263439": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: <NT$2K ELECOM EX-G 無線滑鼠",
+    "source": "patrol_385_skip"
+  },
+  "1441265245": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 385 SKIP: <NT$2K 黃乙玲 山盟海誓",
+    "source": "patrol_385_skip"
+  },
+  "1441265843": {
+    "skip": true,
+    "newPrice": 18500,
+    "secondhand": 10500,
+    "note": "Patrol 385 SKIP: ASUS Vivobook X1502ZA i5-1235U 16/512 NT$12,500 = 68% 新 / 119% 二手 (過貴; patrol 379 同代高階 Zenbook UX3402Z i7-1260P NT$12,300 反而便宜, 同價位拿高一階)",
+    "source": "biggo 2026-06-01"
   }
 }
