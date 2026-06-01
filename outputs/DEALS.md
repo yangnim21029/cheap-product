@@ -1,6 +1,6 @@
 # Carousell 二手好物巡邏
 
-> 2026/6/1 07:01:13 · 累積已看 14145 筆 · 125 位賣家黑名單
+> 2026/6/1 08:01:48 · 累積已看 14145 筆 · 125 位賣家黑名單
 
 **待審：** 好貨 5 ｜ 殺價 19 ｜ 手動 0 ｜ 待查 0
 
@@ -28,7 +28,7 @@
 | [除濕機] 日本製造 三菱 除濕機 MJ-E180VX-TW2 新北新莊可驗貨 | **NT$6,500** | 新$18500 | ? | Unknown | 06/01 00:44 | [→](https://tw.carousell.com/p/1440971097/) |
 | [除濕機] 日本製造 Mitsubishi三菱 25L 1級變頻 三重除濕 清淨 除濕機 MJ-EV2 | **NT$15,999** | 新$25440 | ? | Unknown | 06/01 00:37 | [→](https://tw.carousell.com/p/1440970185/) |
 | [22L 除濕機] 【Panasonic 國際牌】F-Y45GX 22L一級能效節能清淨除濕機 全新僅拆封活動 | **NT$16,000** | 新$20500 | ? | Unknown | 06/01 00:19 | [→](https://tw.carousell.com/p/1441120975/) |
-| [電腦科技] ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電 | **NT$15,000** | 新$25850 | 58% new | Lightly used | 06/01 00:01 | [→](https://tw.carousell.com/p/1441123108/) |
+| [筆電] ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電 | **NT$15,000** | 新$25850 | 58% new | Lightly used | 06/01 00:01 | [→](https://tw.carousell.com/p/1441123108/) |
 | [電腦科技] Logitech 羅技 Pro X LIGHTSPEED TKL 無線機械式電競鍵盤 (黑 | **NT$3,000** | 新$4540 | 66% new | Like new | 05/31 23:11 | [→](https://tw.carousell.com/p/1441117945/) |
 | [PS5] 二手 PS5 數位版 含DualSense手把 | **NT$9,000** | 新$13500 | ? | Unknown | 05/31 23:11 | [→](https://tw.carousell.com/p/1441107582/) |
 | [手沖] BALMUDA The Pot 手沖壺 黑色｜極新｜生活風格升級釋出 | **NT$2,800** | 新$3490 | ? | Unknown | 05/31 22:11 | [→](https://tw.carousell.com/p/1441101658/) |

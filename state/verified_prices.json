@@ -38584,5 +38584,40 @@
     "secondhand": 4800,
     "note": "Patrol 373 SKIP: iPhone 12 mini 64G 77% 電池 NT$3,500 = 73% 二手表面 (77% 電池 1-2 年換電 +NT$2,490 實質 vsSF 125% 破百; 12 mini niche 流通低)",
     "source": "biggo+shopee 2026-06-01"
+  },
+  "1441153745": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 375 SKIP: 宜興紫砂葉秀芽 紫砂 niche",
+    "source": "patrol_375_skip"
+  },
+  "1441155085": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 375 SKIP: 「全新 Apple Watch」型號完全沒寫 (S10/S11/Ultra 差價 10K+)",
+    "source": "patrol_375_skip"
+  },
+  "1441155181": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 375 SKIP: Switch Lite 黃 NT$3,400 容量未列邊緣",
+    "source": "patrol_375_skip"
+  },
+  "1441155738": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 375 SKIP: Shadow SH 940 小提琴拾音器 樂器 niche",
+    "source": "patrol_375_skip"
+  },
+  "1441156156": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 375 SKIP: <NT$2K 1965 法國錢幣 niche",
+    "source": "patrol_375_skip"
   }
 }
