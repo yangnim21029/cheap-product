@@ -3254,6 +3254,13 @@
     "note": "Patrol 329 SKIP: iPhone XR NT$3,850 容量未列 (64/128 差 NT$1K)",
     "source": "patrol_329_skip"
   },
+  "1429170265": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: <NT$2K HEPA 清淨機品牌未列",
+    "source": "patrol_383_skip"
+  },
   "1429214755": {
     "skip": true,
     "newPrice": null,
@@ -39163,6 +39170,12 @@
     "note": "Patrol 382 SKIP: iMac A1418 2015 10 年前老機",
     "source": "patrol_382_skip"
   },
+  "1441219546": {
+    "newPrice": null,
+    "secondhand": 6500,
+    "note": "iPhone 11 Pro 128 綠 NT$4,200 = 65% 二手 (好貨; 電池未寫視為邊緣 80%, <80% 換電 NT$2,490 後總 NT$6,690 打平; A13 iOS 26 不支援自用 2 年內 OK)",
+    "source": "sogi 2026-06-01"
+  },
   "1441224242": {
     "skip": true,
     "newPrice": null,
@@ -39190,5 +39203,75 @@
     "secondhand": null,
     "note": "Patrol 382 SKIP: <NT$2K TWICE 豆豆眼 偶像周邊",
     "source": "patrol_382_skip"
+  },
+  "1441230349": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: <NT$2K 王力宏神秘單曲 CD",
+    "source": "patrol_383_skip"
+  },
+  "1441231077": {
+    "skip": true,
+    "newPrice": 16900,
+    "secondhand": 13500,
+    "note": "Patrol 383 SKIP: iPad mini 6 256G Cellular NT$18K = 107% 新 / 133% 二手 (比全新還貴 + M3 mini 2024 取代 EOL clearance, 賣家脫離行情)",
+    "source": "biggo+pchome 2026-06-01"
+  },
+  "1441233070": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: Switch 2 + 路易吉 3 + 薩爾達 + 擴充 NT$17K = 86% 邊緣 (套組新品 NT$19,760)",
+    "source": "patrol_383_skip"
+  },
+  "1441234587": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: 撼訊 RX 6600 老顯卡 2021 二手中位",
+    "source": "patrol_383_skip"
+  },
+  "1441234802": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: OSIM 小臉美容儀 NT$2,480 邊緣 niche",
+    "source": "patrol_383_skip"
+  },
+  "1441235009": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: <NT$2K Apple Pencil USB-C",
+    "source": "patrol_383_skip"
+  },
+  "1441235535": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: Medicube AGE-R Booster Pro 偶像連發 niche (跟 patrol 344/345/353 同款)",
+    "source": "patrol_383_skip"
+  },
+  "1441237714": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: Sennheiser HD560S NT$4,100 = 82% 邊緣",
+    "source": "patrol_383_skip"
+  },
+  "1441241120": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: AOC 39 1K 144Hz 曲面螢幕中壢自取限地 (大件運送不便)",
+    "source": "patrol_383_skip"
+  },
+  "1441242078": {
+    "skip": true,
+    "newPrice": null,
+    "secondhand": null,
+    "note": "Patrol 383 SKIP: RTX 4060 Ti 拆機良品 NT$12K 無保固 (patrol 378 同模式 4070 Ti Super)",
+    "source": "patrol_383_skip"
   }
 }

@@ -48,7 +48,7 @@
     },
     {
       "seller": "c.c.an",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "21 hours ago",
       "title": "IPhone 12 64G 藍",
       "price": 3900,
       "condition": "Lightly used",
@@ -58,7 +58,7 @@
       "priceStr": "NT$3,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 19:03",
+      "listedAt": "05/31 19:04",
       "pid": "1441068213",
       "verified": {
         "newPrice": null,
@@ -71,7 +71,7 @@
     },
     {
       "seller": "clevereagle_c61a43",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "1 day ago",
       "title": "BenQ MOBIUZ EX3210R 32吋 2K 165Hz 曲面電競螢幕",
       "price": 5000,
       "condition": "Lightly used",
@@ -81,7 +81,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 16:03",
+      "listedAt": "05/31 16:04",
       "pid": "1441023621",
       "verified": {
         "newPrice": 9018,
@@ -137,6 +137,29 @@
       },
       "vsNew": 45,
       "vsSecondhand": 53
+    },
+    {
+      "seller": "jinhan3c",
+      "timeAgo": "2 hours ago",
+      "title": "iphone 11 pro/128 綠",
+      "price": 4200,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441219546/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$4,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 14:04",
+      "pid": "1441219546",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 6500,
+        "note": "iPhone 11 Pro 128 綠 NT$4,200 = 65% 二手 (好貨; 電池未寫視為邊緣 80%, <80% 換電 NT$2,490 後總 NT$6,690 打平; A13 iOS 26 不支援自用 2 年內 OK)",
+        "source": "sogi 2026-06-01"
+      },
+      "vsNew": null,
+      "vsSecondhand": 65
     }
   ],
   "negotiate": [
@@ -165,7 +188,7 @@
     },
     {
       "seller": "linmimic1234",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "ASUS 華碩Vivobook S15 OLED S5504VA 效能筆電",
       "price": 15000,
       "condition": "Lightly used",
@@ -175,7 +198,7 @@
       "priceStr": "NT$15,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 00:03",
+      "listedAt": "06/01 00:04",
       "pid": "1441123108",
       "verified": {
         "newPrice": 25850,
@@ -267,7 +290,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 15:03",
+      "listedAt": "05/31 16:04",
       "pid": "1440962406",
       "verified": {
         "newPrice": 7290,
@@ -347,7 +370,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 15:03",
+      "listedAt": "05/31 16:04",
       "pid": "1440982632",
       "verified": {
         "newPrice": 14800,
@@ -370,7 +393,7 @@
       "priceStr": "NT$8,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 15:03",
+      "listedAt": "05/31 16:04",
       "pid": "1440981561",
       "verified": {
         "newPrice": 11500,
@@ -393,7 +416,7 @@
       "priceStr": "NT$9,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "05/31 15:03",
+      "listedAt": "05/31 16:04",
       "pid": "1440962629",
       "verified": {
         "newPrice": 17990,
@@ -520,7 +543,7 @@
     },
     {
       "seller": "jimlin0326",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Airpods pro 2 type-c 沒戴過9.9成新",
       "price": 3800,
       "condition": "Like new",
@@ -530,7 +553,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 03:03",
+      "listedAt": "06/01 03:04",
       "pid": "1441143573",
       "verified": {
         "newPrice": 6190,
@@ -543,7 +566,7 @@
     },
     {
       "seller": "rightxie90s",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "自售 iPad Pro 12.9吋 第四代 256GB",
       "price": 11000,
       "condition": "Lightly used",
@@ -553,7 +576,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 11:03",
+      "listedAt": "06/01 11:04",
       "pid": "1435441468",
       "verified": {
         "newPrice": null,
@@ -566,7 +589,7 @@
     },
     {
       "seller": "offee",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "華碩 ASUS 14吋 UX3402Z I7-1260P 16G 512G SSD 紳士藍",
       "price": 12300,
       "condition": "Like new",
@@ -576,7 +599,7 @@
       "priceStr": "NT$12,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 11:03",
+      "listedAt": "06/01 11:04",
       "pid": "1441180897",
       "verified": {
         "newPrice": 37900,
