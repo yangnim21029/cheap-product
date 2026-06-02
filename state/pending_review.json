@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "rosono",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "超新 Pentax 雙鏡皇 16-50mm f2.8 50-135mm 盒裝 鏡頭套 *星鏡",
       "price": 17000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 16:49",
+      "listedAt": "06/02 16:47",
       "pid": "1441469545",
       "verified": {
         "newPrice": 49320,
@@ -39,7 +39,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 21:49",
+      "listedAt": "06/01 22:47",
       "pid": "1434942159",
       "verified": {
         "newPrice": 19500,
@@ -76,17 +76,17 @@
     },
     {
       "seller": "shamangels91995",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
       "price": 9800,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1380756437/",
-      "category": "運動戶外",
-      "maxDays": 3,
+      "category": "螢幕",
+      "maxDays": 7,
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 05:49",
+      "listedAt": "06/02 05:47",
       "pid": "1380756437",
       "verified": {
         "newPrice": 22999,
@@ -103,7 +103,7 @@
     },
     {
       "seller": "anniexin",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "近全新附鞋盒/MERRELL AGILITY PEAK 5 MID TACTICAL",
       "price": 3000,
       "condition": "Like new",
@@ -113,7 +113,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 06:49",
+      "listedAt": "06/02 06:47",
       "pid": "1438341441",
       "verified": {
         "newPrice": 6580,
@@ -170,7 +170,7 @@
     },
     {
       "seller": "wildearth_4d1187",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "SONY VPL-HW65ES 投影機",
       "price": 10000,
       "condition": "Lightly used",
@@ -180,7 +180,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 14:49",
+      "listedAt": "06/02 14:47",
       "pid": "1441441879",
       "verified": {
         "newPrice": 89000,
@@ -277,7 +277,7 @@
     },
     {
       "seller": "rueijiji",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "23 hours ago",
       "title": "Philips Fidelio T2 真無線藍牙耳機",
       "price": 2000,
       "condition": "Like new",
@@ -287,7 +287,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 23:49",
+      "listedAt": "06/01 23:47",
       "pid": "1441337290",
       "verified": {
         "newPrice": 6990,
@@ -304,7 +304,7 @@
     },
     {
       "seller": "mclaren17409284",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Audiolab M-DAC MINI",
       "price": 3000,
       "condition": "Lightly used",
@@ -314,7 +314,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 16:49",
+      "listedAt": "06/02 16:47",
       "pid": "1441463382",
       "verified": {
         "newPrice": 14900,
@@ -402,12 +402,66 @@
       },
       "vsNew": 39,
       "vsSecondhand": 51
+    },
+    {
+      "seller": "steffii88",
+      "timeAgo": "18 minutes ago",
+      "title": "iPhone 11 Pro Max 256GB 橄欖綠",
+      "price": 3200,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441532867/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$3,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 22:29",
+      "pid": "1441532867",
+      "verified": {
+        "newPrice": 7790,
+        "secondhand": 6500,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 41,
+        "vsSecondhand": 49,
+        "note": "BigGo iPhone 11 Pro Max 256GB 翻新 NT$6,489-8,500 median NT$7,790. 3,200 vsNew 41%, 估 vsSF 49% 屬過低區. 疑似電池/螢幕/Face ID/相機故障, 或鎖機/詐騙. 須非常小心面交驗機. Carousell sf 403",
+        "title": "iPhone 11 Pro Max 256GB 橄欖綠",
+        "price": 3200
+      },
+      "vsNew": 41,
+      "vsSecondhand": 49
+    },
+    {
+      "seller": "o__________o__________o",
+      "timeAgo": "44 minutes ago",
+      "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
+      "price": 2000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441528800/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 22:03",
+      "pid": "1441528800",
+      "verified": {
+        "newPrice": 5138,
+        "secondhand": 3800,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 39,
+        "vsSecondhand": 53,
+        "note": "BigGo TE M-1 新品 NT$3,799-7,084 median NT$5,138. 2,000 vsNew 39% vsSF 53% 過低. TE 北歐潮牌罕被深折, 疑似仿品/瑕疵/拆售. 賣家 ID 全 underscore 像短期帳號, 須驗包裝/序號",
+        "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
+        "price": 2000
+      },
+      "vsNew": 39,
+      "vsSecondhand": 53
     }
   ],
   "negotiate": [
     {
       "seller": "lionbabe",
-      "timeAgo": "21 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "SONY 索尼 Digital Camera ZV-1",
       "price": 10000,
       "condition": "Lightly used",
@@ -417,7 +471,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 00:47",
       "pid": "1441346752",
       "verified": {
         "newPrice": 19980,
@@ -444,7 +498,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 21:49",
+      "listedAt": "06/01 22:47",
       "pid": "1441304914",
       "verified": {
         "newPrice": 14800,
@@ -461,7 +515,7 @@
     },
     {
       "seller": "waynele0412",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "低快門數 SONY A73 A7III A7m3 ILCE-7M3 全幅機 A74 A7IV A7M4 垂直手把 單機身",
       "price": 25800,
       "condition": "Lightly used",
@@ -471,7 +525,7 @@
       "priceStr": "NT$25,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:49",
+      "listedAt": "06/02 09:47",
       "pid": "1441384631",
       "verified": {
         "newPrice": 43911,
@@ -488,7 +542,7 @@
     },
     {
       "seller": "phillyli",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "2 hours ago",
       "title": "G 12",
       "price": 19000,
       "condition": "Lightly used",
@@ -498,7 +552,7 @@
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 20:49",
+      "listedAt": "06/02 20:47",
       "pid": "1441511209",
       "verified": {
         "newPrice": null,
@@ -515,7 +569,7 @@
     },
     {
       "seller": "raychang0076333",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "23 hours ago",
       "title": "Sigma 18-50mm F2.8 DC DN (Sony E接環)",
       "price": 9900,
       "condition": "Lightly used",
@@ -525,7 +579,7 @@
       "priceStr": "NT$9,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 23:49",
+      "listedAt": "06/01 23:47",
       "pid": "1441339131",
       "verified": {
         "newPrice": 14090,
@@ -666,6 +720,114 @@
       },
       "vsNew": 63,
       "vsSecondhand": 77
+    },
+    {
+      "seller": "lildooogy",
+      "timeAgo": "15 hours ago",
+      "title": "iPhone 12 128",
+      "price": 4280,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441375179/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$4,280",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 07:47",
+      "pid": "1441375179",
+      "verified": {
+        "newPrice": 7250,
+        "secondhand": 6000,
+        "verdict": "negotiate",
+        "vsNew": 59,
+        "vsSecondhand": 71,
+        "note": "BigGo iPhone 12 128GB 翻新 NT$6,000-8,500 median NT$7,250. 4,280 vsNew 59% vsSF 71% 落可議價區. 但偏低 20%+ 仍要警覺電池/Face ID/螢幕. 須驗電池健康度與功能. Carousell sf 403",
+        "title": "iPhone 12 128",
+        "price": 4280
+      },
+      "vsNew": 59,
+      "vsSecondhand": 71
+    },
+    {
+      "seller": "simpleo824",
+      "timeAgo": "22 hours ago",
+      "title": "iPhone 12 Pro 128 金 #4470",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441347925/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 00:47",
+      "pid": "1441347925",
+      "verified": {
+        "newPrice": 7800,
+        "secondhand": 6800,
+        "verdict": "uncertain",
+        "vsNew": 77,
+        "vsSecondhand": 88,
+        "note": "BigGo iPhone 12 Pro 128GB 翻新 NT$6,290-8,990 median NT$7,800. 6,000 vsNew 77% vsSF 88% 接近行情. 標題 #4470 編號像店家庫存編碼, 須確認商家評價/保固/原廠零件. Carousell sf 403",
+        "title": "iPhone 12 Pro 128 金 #4470",
+        "price": 6000
+      },
+      "vsNew": 77,
+      "vsSecondhand": 88
+    },
+    {
+      "seller": "fdzp7tqmwt66548",
+      "timeAgo": "1 day ago",
+      "title": "【孝親首選 / 學生神機】iPhone Xs Max 256GB 金色 — 讓愛更近，視野更大",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441315169/",
+      "category": "iPhone",
+      "maxDays": 5,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 22:47",
+      "pid": "1441315169",
+      "verified": {
+        "newPrice": 5800,
+        "secondhand": 5000,
+        "verdict": "uncertain",
+        "vsNew": 78,
+        "vsSecondhand": 90,
+        "note": "BigGo iPhone XS Max 256GB 翻新 NT$4,600-7,000 median NT$5,800. 4,500 vsNew 78% vsSF 90% 接近行情. 賣家 ID 隨機字串 + 行銷文案 (孝親首選/學生神機) 像店家代運營或多帳號操作, 須查賣家信用",
+        "title": "【孝親首選 / 學生神機】iPhone Xs Max 256GB 金色 — 讓愛更近，視野更大",
+        "price": 4500
+      },
+      "vsNew": 78,
+      "vsSecondhand": 90
+    },
+    {
+      "seller": "mystic5201314",
+      "timeAgo": "43 minutes ago",
+      "title": "正版AirPods pro3蘋果降噪耳機全新",
+      "price": 4500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1441528900/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 22:04",
+      "pid": "1441528900",
+      "verified": {
+        "newPrice": 6600,
+        "secondhand": 5500,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 68,
+        "vsSecondhand": 82,
+        "note": "BigGo Apple AirPods Pro 3 新品 NT$6,500-6,990 median NT$6,600. 標『全新』收 4,500 vsNew 68%, 真品幾乎沒折這麼深 (新品才上市半年). 疑似平輸/仿品/翻新貼牌. 賣家 ID 帶 5201314 屬個人帳號",
+        "title": "正版AirPods pro3蘋果降噪耳機全新",
+        "price": 4500
+      },
+      "vsNew": 68,
+      "vsSecondhand": 82
     }
   ],
   "uncertain": [
@@ -1007,6 +1169,66 @@
         "secondhand": 9100,
         "verdict": "uncertain",
         "note": "新品 myfone NT$10,190（最低公司貨）；SF n=5 中位 9,100（蝦皮 BT 二手 9,100，S 級福利 9,700）；NT$9,030 貼近二手中位且 vsNew 89% 落 uncertain 帶，新品多 1,160 即可保固，二手沒明顯誘因"
+      }
+    },
+    {
+      "pid": "1441533027",
+      "title": "PS5 Slim 光碟版",
+      "price": 13500,
+      "priceStr": "NT$13,500",
+      "seller": "vvc3906",
+      "url": "https://tw.carousell.com/p/1441533027/",
+      "timeAgo": "25 minutes ago",
+      "listedAt": null,
+      "category": "電玩主機",
+      "condition": "Brand new",
+      "vsNew": 68,
+      "vsSecondhand": 93,
+      "verified": {
+        "newPrice": 19980,
+        "secondhand": 14500,
+        "verdict": "uncertain",
+        "note": "BigGo PS5 Slim 光碟版新品 NT$19,980 (myfone/momo/Yahoo 一致). 13,500 vsNew 68% 二手合理區. sf 估 NT$14-15K, vsSF 93% 接近行情. 須驗版本/保固/手把/光碟. Carousell 搜尋 403 無法核 sf_median 實數"
+      }
+    },
+    {
+      "pid": "1441534609",
+      "title": "iphone xs 64G 黑色 100%",
+      "price": 3500,
+      "priceStr": "NT$3,500",
+      "seller": "a0931079633",
+      "url": "https://tw.carousell.com/p/1441534609/",
+      "timeAgo": "13 minutes ago",
+      "listedAt": null,
+      "category": "手機平板",
+      "condition": "Lightly used",
+      "vsNew": 78,
+      "vsSecondhand": 92,
+      "verified": {
+        "newPrice": 4500,
+        "secondhand": 3800,
+        "verdict": "uncertain",
+        "note": "BigGo iPhone XS 64G 翻新 NT$3,000-5,800 A 級中位 NT$4,000-5,000. 標『100%』指電池, 3,500 vsNew 78% 接近行情, vsSF 92% 無明顯便宜空間. Carousell sf 403 無法核. 須驗 Face ID/原廠零件"
+      }
+    },
+    {
+      "pid": "1441537528",
+      "title": "Apple Watch S7 45mm",
+      "price": 4500,
+      "priceStr": "NT$4,500",
+      "seller": "zenfox.d78565",
+      "url": "https://tw.carousell.com/p/1441537528/",
+      "timeAgo": "1 minute ago",
+      "listedAt": null,
+      "category": "智慧手錶",
+      "condition": "Like new",
+      "vsNew": 80,
+      "vsSecondhand": 94,
+      "verified": {
+        "newPrice": 5600,
+        "secondhand": 4800,
+        "verdict": "uncertain",
+        "note": "BigGo Apple Watch S7 45mm 二手/福利 NT$4,200-6,800 新品(open-box) NT$5,600. 4,500 vsNew 80% vsSF 94% 貼齊行情. 須確認 GPS/LTE 版/電池健康度/錶帶充電線/AppleCare. Carousell sf 403"
       }
     }
   ]
