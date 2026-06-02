@@ -41941,5 +41941,58 @@
     "note": "PRS Custom 24 三線：SE (印尼 NT$31,800-41,000) / S2 (美廠 bolt-on NT$65,000-90,300) / Core (美廠 set-neck flagship NT$150,000-225,000,Guitar Shop 40 週年限定 NT$225,000)。NT$78,000 落在 S2 區間 vsNew ~86% 屬 uncertain;若",
     "title": "PRS Custom 24",
     "price": 78000
+  },
+  "1441568062": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "鋰電割草機無線割草機掇工能除草機小型加勇手持鋰電打草機沖電鋤草深氣",
+    "price": 1159
+  },
+  "1441564348": {
+    "newPrice": 6400,
+    "secondhand": 4500,
+    "verdict": "uncertain",
+    "vsNew": 88,
+    "vsSecondhand": 124,
+    "note": "BigGo 新品 NT$6,300-6,499 (NUX Mighty Air 樂器音箱,不是純藍牙喇叭)。Carousell TW 二手只查到 1 筆 NT$4,500 樣本不足。vsNew 88% 落 uncertain 區;vsSF >100% 偏貴但 n=1 不下 overpriced。標題寫「藍牙喇叭」可能誤導,實為電吉他/貝斯練習用 modeling amp。需 seller 確認型號",
+    "title": "Nux Air 無線藍牙立體音箱喇叭",
+    "price": 5600
+  },
+  "1441564488": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "小米平板8pro +鍵盤",
+    "price": 13000,
+    "note": "未標容量/RAM (8/256 NT$17,999 vs 12/512 NT$19,999 vs 12/512 柔光 NT$20,999, 差價 NT$3,000)、鍵盤型號未明 (磁吸 NT$2,999 vs 懸浮 NT$4,999)。新品基準 NT$20,998-25,998。vsNew 62% 雖落 good-deal 區但配置不明就無法判。Carousell 二手樣本不足。需 seller"
+  },
+  "1441548459": {
+    "newPrice": 18500,
+    "secondhand": 13000,
+    "verdict": "uncertain",
+    "vsNew": 54,
+    "vsSecondhand": 77,
+    "note": "ZV-E10 一代機身 BigGo 新品 NT$18,220-18,980,二手單機身 NT$12,000-14,500 (BigGo, 青蘋果 3c 等)。vsSF 77% 落 negotiate 區,但相機未標是否含 16-50mm Kit 鏡 (差 NT$2,000-3,000)、快門數、原盒、保固。同 seller azer.0920 同時掛便宜 MacBook Pro,兩件高保值品急售要",
+    "title": "Sony ZVE10",
+    "price": 10000
+  },
+  "1441569153": {
+    "newPrice": 16150,
+    "secondhand": 14500,
+    "verdict": "uncertain",
+    "vsNew": 87,
+    "vsSecondhand": 97,
+    "note": "Switch 2 主機 BigGo 新品 NT$13,340-15,480 (median ~NT$14,400) + Pokopia 新品 NT$1,750 ≈ NT$16,150 整套。二手主機 + Pokopia 整體中位約 NT$14,000-15,000。vsNew 87%、vsSF 97% 都在 uncertain 區,反映保固內 + 遊戲 bundle 撐住價值。不算便宜也不算虧,沒",
+    "title": "保固內Switch2遊戲機+pokopia遊戲片",
+    "price": 14000
+  },
+  "1441548768": {
+    "newPrice": 7450,
+    "secondhand": 5750,
+    "verdict": "uncertain",
+    "vsNew": 67,
+    "vsSecondhand": 87,
+    "note": "發光 logo 最後一代 = 2015 Retina MBP (A1502 13\" 或 A1398 15\")。已停產,Shopee 翻新 13\" 2015 i5 NT$7,450 當 new 基準;Maclove 行情 NT$4,000-7,500 (median ~NT$5,750)。vsSF 87% 落 uncertain 區。標題未寫 13\"/15\"、RAM/SSD、年份 (2014 Mid",
+    "title": "MacBook Pro _logo會發光的最後一代",
+    "price": 5000
   }
 }
