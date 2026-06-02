@@ -41806,5 +41806,50 @@
     "title": "全新 Galaxy buds 4 pro 黑色",
     "price": 6350,
     "note": "新品 NT$7,490 consistent (燦坤/Yahoo/Shopee Mall, Coupang 降到 5,888); 二手 BigGo NT$5,000-5,800 median ~5,400; 標稱「全新」但 vsSF 118% 高於 SF median, 對比 Coupang 5,888 新品折扣價更便宜; 從買家視角去 Coupang 買新更划算"
+  },
+  "1441533808": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "IRIS 桌上型DC空氣循環扇 (TAF-MKM10)",
+    "price": 500
+  },
+  "1441559442": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "MOROCCANOIL 摩洛哥優油經典香氛 公司貨100ml 效期到2027.12",
+    "price": 740
+  },
+  "1441538958": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "【全新】POP MART 泡泡瑪特 DIMOO 如果今天星期八-煙燻烏木香氛蠟燭",
+    "price": 500
+  },
+  "1441556337": {
+    "newPrice": 2990,
+    "secondhand": 2050,
+    "verdict": "uncertain",
+    "vsNew": 67,
+    "vsSecondhand": 98,
+    "note": "BigGo ROG Falchion Ace NX 紅軸新品 NT$2,990 (良興 Rakuten); 二手帶 NT$1,700-2,400 中位 ~2,050。vsNew 67% 看似划算但 vs 二手 median 幾乎平盤;個人賣家可議價到 1,700-1,800。Carousell search 被 403 擋,SF 樣本來自 BigGo 聚合,信心中等。",
+    "title": "ROG FALCHION ACE 紅軸機械鍵盤",
+    "price": 2000
+  },
+  "1441555385": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "iPad Pro 12.9吋 第五代",
+    "price": 20000,
+    "note": "標題未標容量 (128/256/512GB/1TB) 與 WiFi/Cellular。新品 256GB WiFi 約 NT$30,700,二手 128GB WiFi NT$16,000-26,500、256GB ~NT$23,500、256GB Cellular ~NT$29,000。容量差價 5,000+ 無法定錨;先問賣家容量再判定。"
+  },
+  "1441546801": {
+    "newPrice": 1650,
+    "secondhand": 1125,
+    "verdict": "uncertain",
+    "vsNew": 60,
+    "vsSecondhand": 88,
+    "note": "原價 NT$1,650 (賣家 priceStr),但 BigGo 官方旗艦店現行 50ml NT$1,000-1,250 中位 1,125 (取代二手 median,因香氛幾無真正二手流通)。NT$990 對比旗艦現價 88% 幾乎平盤,vsNew 60% 是用過時原價算出的假象划算;標題 #6月6折 是促銷話術而非市場 deal。信心中等。",
+    "title": "全新！原價$1450！【花果香】Youssoful 韓國香氛 頂級香精 Stare Mesto 布拉格舊城區 50ml #6月6折",
+    "price": 990
   }
 }

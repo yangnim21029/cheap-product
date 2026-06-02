@@ -76,7 +76,7 @@
     },
     {
       "seller": "shamangels91995",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
       "price": 9800,
       "condition": "Lightly used",
@@ -86,7 +86,7 @@
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 05:49",
+      "listedAt": "06/02 05:45",
       "pid": "1380756437",
       "verified": {
         "newPrice": 22999,
@@ -368,7 +368,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 01:45",
       "pid": "1441315777",
       "verified": {
         "newPrice": 8000,
@@ -432,7 +432,7 @@
     },
     {
       "seller": "steffii88",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "iPhone 11 Pro Max 256GB 橄欖綠",
       "price": 3200,
       "condition": "Lightly used",
@@ -442,7 +442,7 @@
       "priceStr": "NT$3,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:49",
+      "listedAt": "06/02 22:45",
       "pid": "1441532867",
       "verified": {
         "newPrice": 7790,
@@ -750,7 +750,7 @@
     },
     {
       "seller": "ssss00925",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "Apple iPad 8 128GB Wi-Fi｜功能正常｜高雄前鎮",
       "price": 5000,
       "condition": "Like new",
@@ -760,7 +760,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:47",
+      "listedAt": "06/02 17:45",
       "pid": "1441483203",
       "verified": {
         "newPrice": 7930,
@@ -777,7 +777,7 @@
     },
     {
       "seller": "lildooogy",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "iPhone 12 128",
       "price": 4280,
       "condition": "Lightly used",
@@ -787,7 +787,7 @@
       "priceStr": "NT$4,280",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 07:49",
+      "listedAt": "06/02 07:45",
       "pid": "1441375179",
       "verified": {
         "newPrice": 7250,
@@ -804,7 +804,7 @@
     },
     {
       "seller": "simpleo824",
-      "timeAgo": "24 hours ago",
+      "timeAgo": "1 day ago",
       "title": "iPhone 12 Pro 128 金 #4470",
       "price": 6000,
       "condition": "Lightly used",
@@ -814,7 +814,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 01:45",
       "pid": "1441347925",
       "verified": {
         "newPrice": 7800,
@@ -841,7 +841,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 01:45",
       "pid": "1441315169",
       "verified": {
         "newPrice": 5800,
@@ -1497,6 +1497,46 @@
         "secondhand": null,
         "verdict": "uncertain",
         "note": "新品 BigGo momo/PChome/蝦皮商城 consistent NT$4,990 (Coupang 4,590); V4 Pro 太新 BigGo 二手 query 0 results (只跑出 V2 Pro NT$1,200-4,000 median ~2,000 不適合替代 anchor); vsNew 84% 落 uncertain 上緣, 距新品價差 NT$790 等價於 0.5 折扣空間有限"
+      }
+    },
+    {
+      "pid": "1441556337",
+      "title": "ROG FALCHION ACE 紅軸機械鍵盤",
+      "price": 2000,
+      "priceStr": "NT$2,000",
+      "seller": "a0970898702",
+      "url": "https://tw.carousell.com/p/1441556337/",
+      "timeAgo": "53 minutes ago",
+      "listedAt": null,
+      "category": "機械鍵盤",
+      "condition": "Like new",
+      "vsNew": 67,
+      "vsSecondhand": 98,
+      "verified": {
+        "newPrice": 2990,
+        "secondhand": 2050,
+        "verdict": "uncertain",
+        "note": "BigGo ROG Falchion Ace NX 紅軸新品 NT$2,990 (良興 Rakuten); 二手帶 NT$1,700-2,400 中位 ~2,050。vsNew 67% 看似划算但 vs 二手 median 幾乎平盤;個人賣家可議價到 1,700-1,800。Carousell search 被 403 擋,SF 樣本來自 BigGo 聚合,信心中等。"
+      }
+    },
+    {
+      "pid": "1441546801",
+      "title": "全新！原價$1450！【花果香】Youssoful 韓國香氛 頂級香精 Stare Mesto 布拉格舊城區 50ml #6月6折",
+      "price": 990,
+      "priceStr": "NT$990 (原價 NT$1,650)",
+      "seller": "lover_arisa",
+      "url": "https://tw.carousell.com/p/1441546801/",
+      "timeAgo": "2 hours ago",
+      "listedAt": null,
+      "category": "香氛",
+      "condition": "Like new",
+      "vsNew": 60,
+      "vsSecondhand": 88,
+      "verified": {
+        "newPrice": 1650,
+        "secondhand": 1125,
+        "verdict": "uncertain",
+        "note": "原價 NT$1,650 (賣家 priceStr),但 BigGo 官方旗艦店現行 50ml NT$1,000-1,250 中位 1,125 (取代二手 median,因香氛幾無真正二手流通)。NT$990 對比旗艦現價 88% 幾乎平盤,vsNew 60% 是用過時原價算出的假象划算;標題 #6月6折 是促銷話術而非市場 deal。信心中等。"
       }
     }
   ]
