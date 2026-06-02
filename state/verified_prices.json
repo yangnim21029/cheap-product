@@ -41851,5 +41851,95 @@
     "note": "原價 NT$1,650 (賣家 priceStr),但 BigGo 官方旗艦店現行 50ml NT$1,000-1,250 中位 1,125 (取代二手 median,因香氛幾無真正二手流通)。NT$990 對比旗艦現價 88% 幾乎平盤,vsNew 60% 是用過時原價算出的假象划算;標題 #6月6折 是促銷話術而非市場 deal。信心中等。",
     "title": "全新！原價$1450！【花果香】Youssoful 韓國香氛 頂級香精 Stare Mesto 布拉格舊城區 50ml #6月6折",
     "price": 990
+  },
+  "1441565482": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Taylor Swift Speak Now Vinyl 泰勒絲 愛的告白 黑膠",
+    "price": 1700
+  },
+  "1441566329": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "寶可夢中心小吊飾、臺北皮悠遊卡",
+    "price": 1500
+  },
+  "1441562496": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "球員卡 整圖1000",
+    "price": 1000
+  },
+  "1441562224": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "絕版品 STAYREAL 五週年限量推出的影子兔仔（ShadoW! Bunny）丹寧典藏紀念款布偶",
+    "price": 1880
+  },
+  "1441487112": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "全新未拆封｜2026 NVIDIA 輝達 GTC Taipei｜黃仁勳 龍蝦 Claw 吊飾 / 鑰匙扣",
+    "price": 1300
+  },
+  "1441565205": {
+    "newPrice": 2790,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": 82,
+    "vsSecondhand": null,
+    "note": "BigGo 新品 NT$2,790-2,890 (蝦皮 / momo / Yahoo 主流價)。NT$2,300 約 82% 新品,蝦皮代購促銷常見 NT$2,400-2,600;殺到 NT$2,000 才有甜度。先前 verified_prices.json 已標 EPZ TP55 為「客製化代購」非收藏範圍 SKIP,這次仍建議跳過。Carousell SF 樣本 WebFetch 403 無",
+    "title": "EPZ TP55 大推力小尾巴",
+    "price": 2300
+  },
+  "1441559258": {
+    "newPrice": null,
+    "secondhand": 11250,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 90,
+    "note": "A1000 已停產 (2019 年機種,35x 變焦類單眼),新品無公定價。BigGo 蝦皮二手 NT$10,000 (9.5 成新) + NT$12,500 兩筆,中位 ~NT$11,250。NT$10,100 約 SF 90% 屬合理但無殺價空間;類單眼鏡頭固定無卡口問題;4K 錄影是賣點但 2019 感光與 AF 已落後 2026 手機。",
+    "title": "NIKON A1000 4k錄影",
+    "price": 10100
+  },
+  "1441540392": {
+    "newPrice": 24000,
+    "secondhand": null,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 42,
+    "vsSecondhand": null,
+    "note": "BigGo 新品 NT$24,000 (Metabones 樂天專賣店;CINE 版 NT$25,000)。NT$10,000 僅 42% 新品 — 仿品 / 早期 Mark I 非 XL / EF 卡口磨損 的紅燈訊號。Metabones 真品有序號可查;非正廠 Speed Booster (中一光學 / Viltrox) 新品就 NT$8,000-12,000 常被誤標 Metabones 出",
+    "title": "Metabones EF-M43 Speed Booster XL 0.64x EF 轉 M43轉接環",
+    "price": 10000
+  },
+  "1441566764": {
+    "newPrice": 89000,
+    "secondhand": null,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 54,
+    "vsSecondhand": null,
+    "note": "BigGo 新品 NT$89,000 (蝦皮 My Guitar Friend 最低;民風樂府 NT$99,999)。NT$48,000 僅 54% 新品 — 對 Taylor 美廠全實木 (Sitka spruce + Ovangkol) 的甜度過高。可能：早年份保值老貨、面板裂修、非 ce 版本錯標、或非 Taylor 工廠琴。seller goodguitargang 同時掛 3 把 PRS",
+    "title": "Taylor 416ce",
+    "price": 48000
+  },
+  "1441566683": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "PRS CE 24 真品 = 美廠 Bolt-On Maple Top (Taiwan 新品約 NT$80,000-100,000,BigGo 無公開 listing);SE CE 24 = 印尼廠 (BigGo NT$22,300-29,900)。NT$62,000 若是美廠 CE 24 vsNew ~65-78% 屬 good-deal;若是 SE 則 vsNew ~280% 嚴重 overp",
+    "title": "PRS CE 24",
+    "price": 62000
+  },
+  "1441566594": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "PRS Custom 24 三線：SE (印尼 NT$31,800-41,000) / S2 (美廠 bolt-on NT$65,000-90,300) / Core (美廠 set-neck flagship NT$150,000-225,000,Guitar Shop 40 週年限定 NT$225,000)。NT$78,000 落在 S2 區間 vsNew ~86% 屬 uncertain;若",
+    "title": "PRS Custom 24",
+    "price": 78000
   }
 }

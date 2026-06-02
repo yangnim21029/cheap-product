@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "rosono",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "超新 Pentax 雙鏡皇 16-50mm f2.8 50-135mm 盒裝 鏡頭套 *星鏡",
       "price": 17000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 16:49",
+      "listedAt": "06/02 16:47",
       "pid": "1441469545",
       "verified": {
         "newPrice": 49320,
@@ -39,7 +39,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 02:47",
       "pid": "1434942159",
       "verified": {
         "newPrice": 19500,
@@ -76,17 +76,17 @@
     },
     {
       "seller": "shamangels91995",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "21 hours ago",
       "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
       "price": 9800,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1380756437/",
-      "category": "螢幕",
-      "maxDays": 7,
+      "category": "運動戶外",
+      "maxDays": 3,
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 05:45",
+      "listedAt": "06/02 05:47",
       "pid": "1380756437",
       "verified": {
         "newPrice": 22999,
@@ -103,7 +103,7 @@
     },
     {
       "seller": "anniexin",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "近全新附鞋盒/MERRELL AGILITY PEAK 5 MID TACTICAL",
       "price": 3000,
       "condition": "Like new",
@@ -113,7 +113,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 06:49",
+      "listedAt": "06/02 06:47",
       "pid": "1438341441",
       "verified": {
         "newPrice": 6580,
@@ -277,7 +277,7 @@
     },
     {
       "seller": "o__________o__________o",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
       "price": 2000,
       "condition": "Like new",
@@ -287,7 +287,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 21:49",
+      "listedAt": "06/02 21:47",
       "pid": "1441528800",
       "verified": {
         "newPrice": 5138,
@@ -314,7 +314,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 02:47",
       "pid": "1441337290",
       "verified": {
         "newPrice": 6990,
@@ -331,7 +331,7 @@
     },
     {
       "seller": "mclaren17409284",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Audiolab M-DAC MINI",
       "price": 3000,
       "condition": "Lightly used",
@@ -341,7 +341,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 16:49",
+      "listedAt": "06/02 16:47",
       "pid": "1441463382",
       "verified": {
         "newPrice": 14900,
@@ -404,6 +404,33 @@
       }
     },
     {
+      "seller": "qwt49970608",
+      "timeAgo": "2 hours ago",
+      "title": "Msi claw u7-1tb電競掌機，無傷盒裝。",
+      "price": 11000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441553059/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$11,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 00:47",
+      "pid": "1441553059",
+      "verified": {
+        "newPrice": 20890,
+        "secondhand": 22450,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 53,
+        "vsSecondhand": 49,
+        "note": "新品中位 NT$20,890 (A1M-026TW U7-155H/16G/1TB iOPEN/光華 24,890), 二手 BigGo median 22,450 (Shopee Mall 28,900 含保固 / individual 15,999); 標的 NT$11,000 vsSF 49% 低於 50% 觸發 suspicious; 賣家 qwt49970608 同帳號同時掛 Steam",
+        "title": "Msi claw u7-1tb電競掌機，無傷盒裝。",
+        "price": 11000
+      },
+      "vsNew": 53,
+      "vsSecondhand": 49
+    },
+    {
       "seller": "weiiii721",
       "timeAgo": "17 minutes ago",
       "title": "asus 華碩 vivobook 15 x1502za",
@@ -456,33 +483,6 @@
       },
       "vsNew": 41,
       "vsSecondhand": 49
-    },
-    {
-      "seller": "qwt49970608",
-      "timeAgo": "30 minutes ago",
-      "title": "Msi claw u7-1tb電競掌機，無傷盒裝。",
-      "price": 11000,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1441553059/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$11,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/03 00:19",
-      "pid": "1441553059",
-      "verified": {
-        "newPrice": 20890,
-        "secondhand": 22450,
-        "verdict": "suspicious-too-cheap",
-        "vsNew": 53,
-        "vsSecondhand": 49,
-        "note": "新品中位 NT$20,890 (A1M-026TW U7-155H/16G/1TB iOPEN/光華 24,890), 二手 BigGo median 22,450 (Shopee Mall 28,900 含保固 / individual 15,999); 標的 NT$11,000 vsSF 49% 低於 50% 觸發 suspicious; 賣家 qwt49970608 同帳號同時掛 Steam",
-        "title": "Msi claw u7-1tb電競掌機，無傷盒裝。",
-        "price": 11000
-      },
-      "vsNew": 53,
-      "vsSecondhand": 49
     }
   ],
   "negotiate": [
@@ -498,7 +498,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 02:47",
       "pid": "1441346752",
       "verified": {
         "newPrice": 19980,
@@ -525,7 +525,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:49",
+      "listedAt": "06/02 02:47",
       "pid": "1441304914",
       "verified": {
         "newPrice": 14800,
@@ -542,7 +542,7 @@
     },
     {
       "seller": "waynele0412",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "低快門數 SONY A73 A7III A7m3 ILCE-7M3 全幅機 A74 A7IV A7M4 垂直手把 單機身",
       "price": 25800,
       "condition": "Lightly used",
@@ -552,7 +552,7 @@
       "priceStr": "NT$25,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:49",
+      "listedAt": "06/02 09:47",
       "pid": "1441384631",
       "verified": {
         "newPrice": 43911,
@@ -569,7 +569,7 @@
     },
     {
       "seller": "horngnet",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "Sigma EF 50-100mm F1.8 Canon EF接口",
       "price": 22000,
       "condition": "Lightly used",
@@ -579,7 +579,7 @@
       "priceStr": "NT$22,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:49",
+      "listedAt": "06/02 22:47",
       "pid": "1441540812",
       "verified": {
         "newPrice": 33500,
@@ -596,7 +596,7 @@
     },
     {
       "seller": "phillyli",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "G 12",
       "price": 19000,
       "condition": "Lightly used",
@@ -606,7 +606,7 @@
       "priceStr": "NT$19,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 20:49",
+      "listedAt": "06/02 20:47",
       "pid": "1441511209",
       "verified": {
         "newPrice": null,
@@ -723,7 +723,7 @@
     },
     {
       "seller": "mystic5201314",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "5 hours ago",
       "title": "正版AirPods pro3蘋果降噪耳機全新",
       "price": 4500,
       "condition": "Brand new",
@@ -733,7 +733,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 21:49",
+      "listedAt": "06/02 21:47",
       "pid": "1441528900",
       "verified": {
         "newPrice": 6600,
@@ -747,6 +747,26 @@
       },
       "vsNew": 68,
       "vsSecondhand": 82
+    },
+    {
+      "pid": "1441565205",
+      "title": "EPZ TP55 大推力小尾巴",
+      "price": 2300,
+      "priceStr": "NT$2,300",
+      "seller": "tsai_075830076",
+      "url": "https://tw.carousell.com/p/1441565205/",
+      "timeAgo": "33 minutes ago",
+      "listedAt": "06/03 02:14",
+      "category": "音響耳機",
+      "condition": "Like new",
+      "vsNew": 82,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 2790,
+        "secondhand": null,
+        "verdict": "negotiate",
+        "note": "BigGo 新品 NT$2,790-2,890 (蝦皮 / momo / Yahoo 主流價)。NT$2,300 約 82% 新品,蝦皮代購促銷常見 NT$2,400-2,600;殺到 NT$2,000 才有甜度。先前 verified_prices.json 已標 EPZ TP55 為「客製化代購」非收藏範圍 SKIP,這次仍建議跳過。Carousell SF 樣本 WebFetch 403 無法抓。"
+      }
     },
     {
       "seller": "ssss00925",
@@ -858,7 +878,7 @@
     },
     {
       "seller": "sunny3c",
-      "timeAgo": "1 hour ago",
+      "timeAgo": "3 hours ago",
       "title": "***ACER***I7-10700/D4-16G/M2_512G/可加價購GTX-1050/1050TI",
       "price": 12500,
       "condition": "Lightly used",
@@ -868,7 +888,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:49",
+      "listedAt": "06/02 23:47",
       "pid": "1441545667",
       "verified": {
         "newPrice": 22000,
@@ -885,7 +905,7 @@
     },
     {
       "seller": "yoshida1221",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "ROG Falchion RX Low Profile 65 二手鍵盤 出售",
       "price": 3500,
       "condition": "Lightly used",
@@ -895,7 +915,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:49",
+      "listedAt": "06/02 22:47",
       "pid": "1441537867",
       "verified": {
         "newPrice": 4990,
@@ -918,7 +938,7 @@
       "seller": "azer.0920",
       "url": "https://tw.carousell.com/p/1441553865/",
       "timeAgo": "14 minutes ago",
-      "listedAt": null,
+      "listedAt": "06/03 02:33",
       "category": "螢幕",
       "condition": "Lightly used",
       "vsNew": 73,
@@ -938,7 +958,7 @@
       "seller": "daniel508371068",
       "url": "https://tw.carousell.com/p/1441553904/",
       "timeAgo": "21 minutes ago",
-      "listedAt": null,
+      "listedAt": "06/03 02:26",
       "category": "收藏品",
       "condition": "Brand new",
       "vsNew": 60,
@@ -979,6 +999,33 @@
     }
   ],
   "uncertain": [
+    {
+      "seller": "horngnet",
+      "timeAgo": "4 hours ago",
+      "title": "Metabones EF-M43 Speed Booster XL 0.64x EF 轉 M43轉接環",
+      "price": 10000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441540392/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 22:47",
+      "pid": "1441540392",
+      "verified": {
+        "newPrice": 24000,
+        "secondhand": null,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 42,
+        "vsSecondhand": null,
+        "note": "BigGo 新品 NT$24,000 (Metabones 樂天專賣店;CINE 版 NT$25,000)。NT$10,000 僅 42% 新品 — 仿品 / 早期 Mark I 非 XL / EF 卡口磨損 的紅燈訊號。Metabones 真品有序號可查;非正廠 Speed Booster (中一光學 / Viltrox) 新品就 NT$8,000-12,000 常被誤標 Metabones 出",
+        "title": "Metabones EF-M43 Speed Booster XL 0.64x EF 轉 M43轉接環",
+        "price": 10000
+      },
+      "vsNew": 42,
+      "vsSecondhand": null
+    },
     {
       "pid": "1441505502",
       "title": "SIGMA Sony E-mount 18-50mm F2.8 DC DN",
@@ -1060,26 +1107,6 @@
       }
     },
     {
-      "pid": "1441361273",
-      "title": "Canon S110 銀色",
-      "price": 6500,
-      "priceStr": "NT$6,500",
-      "seller": "yycxii",
-      "url": "https://tw.carousell.com/p/1441361273/",
-      "timeAgo": "17 hours ago",
-      "listedAt": "06/02 04:49",
-      "category": "相機攝影",
-      "condition": "Lightly used",
-      "vsNew": 81,
-      "vsSecondhand": 100,
-      "verified": {
-        "newPrice": 8000,
-        "secondhand": 6500,
-        "verdict": "uncertain",
-        "note": "Canon S110（CMOS, 2012 推出，目前小紅書復古熱門款）BigGo 二手 NT$6,499-8,500。NT$6,500 為市場中位，沒折扣空間但也不超價。push 機會主義桶：殺價到 NT$5,500 才有 margin，否則跳。"
-      }
-    },
-    {
       "pid": "1441373687",
       "title": "Audio-Technica ATH-SPORT70BT",
       "price": 2899,
@@ -1140,6 +1167,26 @@
       }
     },
     {
+      "pid": "1441556322",
+      "title": "Marshall Emberton II 藍牙喇叭",
+      "price": 3500,
+      "priceStr": "NT$3,500",
+      "seller": "1234jenny5678",
+      "url": "https://tw.carousell.com/p/1441556322/",
+      "timeAgo": "2 minutes ago",
+      "listedAt": "06/03 02:45",
+      "category": "音響耳機",
+      "condition": "Like new",
+      "vsNew": 54,
+      "vsSecondhand": 101,
+      "verified": {
+        "newPrice": 6490,
+        "secondhand": 3450,
+        "verdict": "uncertain",
+        "note": "新品 NT$6,490 (Shopee Mall/Global Online consistent); 二手 NT$2,000-4,300 多家 3C 商家落 3,500 (澄橘數位 Yahoo/Shopee/Ruten), median ~3,450; 標的價貼 SF median, vsSF 101% → uncertain; vsNew 54% 看似誘人但符合二手市況"
+      }
+    },
+    {
       "pid": "1441318323",
       "title": "Bang & Olufsen A1 Gen 1 高音質無線藍芽喇叭 B&O",
       "price": 3800,
@@ -1197,6 +1244,46 @@
         "secondhand": null,
         "verdict": "uncertain",
         "note": "momo 單瓶最低 NT$449（意氣之風變體），蝦皮 NT$495。NT$387 折扣 14%，價差有限；原價 NT$645 對比是廠商建議售價非實際成交底，不採信為錨點。"
+      }
+    },
+    {
+      "pid": "1441546801",
+      "title": "全新！原價$1450！【花果香】Youssoful 韓國香氛 頂級香精 Stare Mesto 布拉格舊城區 50ml #6月6折",
+      "price": 990,
+      "priceStr": "NT$990 (原價 NT$1,650)",
+      "seller": "lover_arisa",
+      "url": "https://tw.carousell.com/p/1441546801/",
+      "timeAgo": "2 hours ago",
+      "listedAt": "06/03 00:47",
+      "category": "香氛",
+      "condition": "Like new",
+      "vsNew": 60,
+      "vsSecondhand": 88,
+      "verified": {
+        "newPrice": 1650,
+        "secondhand": 1125,
+        "verdict": "uncertain",
+        "note": "原價 NT$1,650 (賣家 priceStr),但 BigGo 官方旗艦店現行 50ml NT$1,000-1,250 中位 1,125 (取代二手 median,因香氛幾無真正二手流通)。NT$990 對比旗艦現價 88% 幾乎平盤,vsNew 60% 是用過時原價算出的假象划算;標題 #6月6折 是促銷話術而非市場 deal。信心中等。"
+      }
+    },
+    {
+      "pid": "1441555100",
+      "title": "三菱PLC通訊模塊Q80BD-J71GP21-SX成色心測試包好",
+      "price": 3694,
+      "priceStr": "NT$3,694",
+      "seller": "mochimochi_7414",
+      "url": "https://tw.carousell.com/p/1441555100/",
+      "timeAgo": "16 minutes ago",
+      "listedAt": "06/03 02:31",
+      "category": "電腦科技",
+      "condition": "Brand new",
+      "vsNew": 88,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 4189,
+        "secondhand": null,
+        "verdict": "uncertain",
+        "note": "工業件 BigGo 新品下緣 NT$4,189 (川澤百貨 Rakuten), 一般行情 NT$8,200-9,850, 盒裝新 NT$29,800-32,800; 標題稱「成色新測試包好」=測過良品非全新, 標的 NT$3,694 對比新品下緣 vsNew 88% 落 uncertain; 工業 PLC 二手流通量極低無 SF 可比, 買家需自驗 firmware/原廠保"
       }
     },
     {
@@ -1420,6 +1507,33 @@
       }
     },
     {
+      "seller": "goodguitargang",
+      "timeAgo": "13 minutes ago",
+      "title": "Taylor 416ce",
+      "price": 48000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441566764/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$48,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 02:34",
+      "pid": "1441566764",
+      "verified": {
+        "newPrice": 89000,
+        "secondhand": null,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 54,
+        "vsSecondhand": null,
+        "note": "BigGo 新品 NT$89,000 (蝦皮 My Guitar Friend 最低;民風樂府 NT$99,999)。NT$48,000 僅 54% 新品 — 對 Taylor 美廠全實木 (Sitka spruce + Ovangkol) 的甜度過高。可能：早年份保值老貨、面板裂修、非 ce 版本錯標、或非 Taylor 工廠琴。seller goodguitargang 同時掛 3 把 PRS",
+        "title": "Taylor 416ce",
+        "price": 48000
+      },
+      "vsNew": 54,
+      "vsSecondhand": null
+    },
+    {
       "pid": "1441547077",
       "title": "CD-126. 芝麻&龍眼精選輯1 / #6月6折 二手CD唱片",
       "price": 300,
@@ -1440,43 +1554,43 @@
       }
     },
     {
-      "pid": "1441556322",
-      "title": "Marshall Emberton II 藍牙喇叭",
-      "price": 3500,
-      "priceStr": "NT$3,500",
-      "seller": "1234jenny5678",
-      "url": "https://tw.carousell.com/p/1441556322/",
-      "timeAgo": "2 minutes ago",
-      "listedAt": null,
-      "category": "音響耳機",
-      "condition": "Like new",
-      "vsNew": 54,
-      "vsSecondhand": 101,
+      "pid": "1441566683",
+      "title": "PRS CE 24",
+      "price": 62000,
+      "priceStr": "NT$62,000",
+      "seller": "goodguitargang",
+      "url": "https://tw.carousell.com/p/1441566683/",
+      "timeAgo": "14 minutes ago",
+      "listedAt": "06/03 02:33",
+      "category": "音樂媒體",
+      "condition": "Lightly used",
+      "vsNew": null,
+      "vsSecondhand": null,
       "verified": {
-        "newPrice": 6490,
-        "secondhand": 3450,
+        "newPrice": null,
+        "secondhand": null,
         "verdict": "uncertain",
-        "note": "新品 NT$6,490 (Shopee Mall/Global Online consistent); 二手 NT$2,000-4,300 多家 3C 商家落 3,500 (澄橘數位 Yahoo/Shopee/Ruten), median ~3,450; 標的價貼 SF median, vsSF 101% → uncertain; vsNew 54% 看似誘人但符合二手市況"
+        "note": "PRS CE 24 真品 = 美廠 Bolt-On Maple Top (Taiwan 新品約 NT$80,000-100,000,BigGo 無公開 listing);SE CE 24 = 印尼廠 (BigGo NT$22,300-29,900)。NT$62,000 若是美廠 CE 24 vsNew ~65-78% 屬 good-deal;若是 SE 則 vsNew ~280% 嚴重 overpriced。NT$62k 價位較像美廠但 Carousell page 403 無法讀 listing 描述。需 seller 補 serial / headstock logo / 國別 才能判。"
       }
     },
     {
-      "pid": "1441555100",
-      "title": "三菱PLC通訊模塊Q80BD-J71GP21-SX成色心測試包好",
-      "price": 3694,
-      "priceStr": "NT$3,694",
-      "seller": "mochimochi_7414",
-      "url": "https://tw.carousell.com/p/1441555100/",
+      "pid": "1441566594",
+      "title": "PRS Custom 24",
+      "price": 78000,
+      "priceStr": "NT$78,000",
+      "seller": "goodguitargang",
+      "url": "https://tw.carousell.com/p/1441566594/",
       "timeAgo": "16 minutes ago",
-      "listedAt": null,
-      "category": "電腦科技",
-      "condition": "Brand new",
-      "vsNew": 88,
+      "listedAt": "06/03 02:31",
+      "category": "音樂媒體",
+      "condition": "Lightly used",
+      "vsNew": null,
       "vsSecondhand": null,
       "verified": {
-        "newPrice": 4189,
+        "newPrice": null,
         "secondhand": null,
         "verdict": "uncertain",
-        "note": "工業件 BigGo 新品下緣 NT$4,189 (川澤百貨 Rakuten), 一般行情 NT$8,200-9,850, 盒裝新 NT$29,800-32,800; 標題稱「成色新測試包好」=測過良品非全新, 標的 NT$3,694 對比新品下緣 vsNew 88% 落 uncertain; 工業 PLC 二手流通量極低無 SF 可比, 買家需自驗 firmware/原廠保"
+        "note": "PRS Custom 24 三線：SE (印尼 NT$31,800-41,000) / S2 (美廠 bolt-on NT$65,000-90,300) / Core (美廠 set-neck flagship NT$150,000-225,000,Guitar Shop 40 週年限定 NT$225,000)。NT$78,000 落在 S2 區間 vsNew ~86% 屬 uncertain;若是 Core 二手 vsNew ~50% 是 suspicious-too-cheap 或仿品;若是 SE overpriced ~210%。同 seller 三把 PRS 同邏輯像店家批貨,價位看像 S2 但 Carousell 403 無 listing 描述。需 seller 補序號 / 線別 / headstock signature 才能判。"
       }
     },
     {
@@ -1487,7 +1601,7 @@
       "seller": "zxcmax0930",
       "url": "https://tw.carousell.com/p/1441548835/",
       "timeAgo": "59 minutes ago",
-      "listedAt": null,
+      "listedAt": "06/03 01:48",
       "category": "滑鼠",
       "condition": "Like new",
       "vsNew": 84,
@@ -1507,7 +1621,7 @@
       "seller": "a0970898702",
       "url": "https://tw.carousell.com/p/1441556337/",
       "timeAgo": "53 minutes ago",
-      "listedAt": null,
+      "listedAt": "06/03 01:54",
       "category": "機械鍵盤",
       "condition": "Like new",
       "vsNew": 67,
@@ -1517,26 +1631,6 @@
         "secondhand": 2050,
         "verdict": "uncertain",
         "note": "BigGo ROG Falchion Ace NX 紅軸新品 NT$2,990 (良興 Rakuten); 二手帶 NT$1,700-2,400 中位 ~2,050。vsNew 67% 看似划算但 vs 二手 median 幾乎平盤;個人賣家可議價到 1,700-1,800。Carousell search 被 403 擋,SF 樣本來自 BigGo 聚合,信心中等。"
-      }
-    },
-    {
-      "pid": "1441546801",
-      "title": "全新！原價$1450！【花果香】Youssoful 韓國香氛 頂級香精 Stare Mesto 布拉格舊城區 50ml #6月6折",
-      "price": 990,
-      "priceStr": "NT$990 (原價 NT$1,650)",
-      "seller": "lover_arisa",
-      "url": "https://tw.carousell.com/p/1441546801/",
-      "timeAgo": "2 hours ago",
-      "listedAt": null,
-      "category": "香氛",
-      "condition": "Like new",
-      "vsNew": 60,
-      "vsSecondhand": 88,
-      "verified": {
-        "newPrice": 1650,
-        "secondhand": 1125,
-        "verdict": "uncertain",
-        "note": "原價 NT$1,650 (賣家 priceStr),但 BigGo 官方旗艦店現行 50ml NT$1,000-1,250 中位 1,125 (取代二手 median,因香氛幾無真正二手流通)。NT$990 對比旗艦現價 88% 幾乎平盤,vsNew 60% 是用過時原價算出的假象划算;標題 #6月6折 是促銷話術而非市場 deal。信心中等。"
       }
     }
   ]
