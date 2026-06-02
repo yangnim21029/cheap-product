@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "rosono",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "超新 Pentax 雙鏡皇 16-50mm f2.8 50-135mm 盒裝 鏡頭套 *星鏡",
       "price": 17000,
       "condition": "Lightly used",
@@ -39,7 +39,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 22:47",
+      "listedAt": "06/01 23:47",
       "pid": "1434942159",
       "verified": {
         "newPrice": 19500,
@@ -76,13 +76,13 @@
     },
     {
       "seller": "shamangels91995",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
       "price": 9800,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1380756437/",
-      "category": "螢幕",
-      "maxDays": 7,
+      "category": "運動戶外",
+      "maxDays": 3,
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
@@ -103,7 +103,7 @@
     },
     {
       "seller": "anniexin",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "近全新附鞋盒/MERRELL AGILITY PEAK 5 MID TACTICAL",
       "price": 3000,
       "condition": "Like new",
@@ -276,8 +276,35 @@
       }
     },
     {
+      "seller": "o__________o__________o",
+      "timeAgo": "2 hours ago",
+      "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
+      "price": 2000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441528800/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 21:47",
+      "pid": "1441528800",
+      "verified": {
+        "newPrice": 5138,
+        "secondhand": 3800,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 39,
+        "vsSecondhand": 53,
+        "note": "BigGo TE M-1 新品 NT$3,799-7,084 median NT$5,138. 2,000 vsNew 39% vsSF 53% 過低. TE 北歐潮牌罕被深折, 疑似仿品/瑕疵/拆售. 賣家 ID 全 underscore 像短期帳號, 須驗包裝/序號",
+        "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
+        "price": 2000
+      },
+      "vsNew": 39,
+      "vsSecondhand": 53
+    },
+    {
       "seller": "rueijiji",
-      "timeAgo": "23 hours ago",
+      "timeAgo": "1 day ago",
       "title": "Philips Fidelio T2 真無線藍牙耳機",
       "price": 2000,
       "condition": "Like new",
@@ -304,7 +331,7 @@
     },
     {
       "seller": "mclaren17409284",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "Audiolab M-DAC MINI",
       "price": 3000,
       "condition": "Lightly used",
@@ -331,7 +358,7 @@
     },
     {
       "seller": "unisunp",
-      "timeAgo": "24 hours ago",
+      "timeAgo": "1 day ago",
       "title": "Mitsubishi三菱10.5公升MJ-E105EF-TW除濕機",
       "price": 3800,
       "condition": "Lightly used",
@@ -341,7 +368,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 21:49",
+      "listedAt": "06/01 23:47",
       "pid": "1441315777",
       "verified": {
         "newPrice": 8000,
@@ -429,39 +456,12 @@
       },
       "vsNew": 41,
       "vsSecondhand": 49
-    },
-    {
-      "seller": "o__________o__________o",
-      "timeAgo": "44 minutes ago",
-      "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
-      "price": 2000,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1441528800/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "priceStr": "NT$2,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/02 22:03",
-      "pid": "1441528800",
-      "verified": {
-        "newPrice": 5138,
-        "secondhand": 3800,
-        "verdict": "suspicious-too-cheap",
-        "vsNew": 39,
-        "vsSecondhand": 53,
-        "note": "BigGo TE M-1 新品 NT$3,799-7,084 median NT$5,138. 2,000 vsNew 39% vsSF 53% 過低. TE 北歐潮牌罕被深折, 疑似仿品/瑕疵/拆售. 賣家 ID 全 underscore 像短期帳號, 須驗包裝/序號",
-        "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
-        "price": 2000
-      },
-      "vsNew": 39,
-      "vsSecondhand": 53
     }
   ],
   "negotiate": [
     {
       "seller": "lionbabe",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "23 hours ago",
       "title": "SONY 索尼 Digital Camera ZV-1",
       "price": 10000,
       "condition": "Lightly used",
@@ -498,7 +498,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 22:47",
+      "listedAt": "06/01 23:47",
       "pid": "1441304914",
       "verified": {
         "newPrice": 14800,
@@ -515,7 +515,7 @@
     },
     {
       "seller": "waynele0412",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "低快門數 SONY A73 A7III A7m3 ILCE-7M3 全幅機 A74 A7IV A7M4 垂直手把 單機身",
       "price": 25800,
       "condition": "Lightly used",
@@ -541,8 +541,35 @@
       "vsSecondhand": 81
     },
     {
+      "seller": "horngnet",
+      "timeAgo": "40 minutes ago",
+      "title": "Sigma EF 50-100mm F1.8 Canon EF接口",
+      "price": 22000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441540812/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$22,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 23:07",
+      "pid": "1441540812",
+      "verified": {
+        "newPrice": 33500,
+        "secondhand": 27000,
+        "verdict": "negotiate",
+        "vsNew": 66,
+        "vsSecondhand": 81,
+        "note": "Mount = Canon EF (confirmed in listing title). BigGo new NT$32,500-36,680 公司貨 median 33,500. Ruten secondhand range NT$24,400-34,000, median ~27,000. vsSF 81.5% in negotiate band (70-85%).",
+        "title": "Sigma EF 50-100mm F1.8 Canon EF接口",
+        "price": 22000
+      },
+      "vsNew": 66,
+      "vsSecondhand": 81
+    },
+    {
       "seller": "phillyli",
-      "timeAgo": "2 hours ago",
+      "timeAgo": "3 hours ago",
       "title": "G 12",
       "price": 19000,
       "condition": "Lightly used",
@@ -566,33 +593,6 @@
       },
       "vsNew": null,
       "vsSecondhand": 85
-    },
-    {
-      "seller": "raychang0076333",
-      "timeAgo": "23 hours ago",
-      "title": "Sigma 18-50mm F2.8 DC DN (Sony E接環)",
-      "price": 9900,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441339131/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "priceStr": "NT$9,900",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/01 23:47",
-      "pid": "1441339131",
-      "verified": {
-        "newPrice": 14090,
-        "secondhand": 11500,
-        "verdict": "uncertain",
-        "vsNew": 70,
-        "vsSecondhand": 86,
-        "note": "Sigma 18-50mm f2.8 Sony E 新品誠品 NT$14,090，Yahoo 拍賣全新平輸 NT$10,500；HK Carousell 二手 HK$2,800-3,400 ≈ NT$11,000-13,500。NT$9,900 跟全新平輸只差 NT$600 → 沒明顯 margin，建議直接買新品平輸。",
-        "title": "Sigma 18-50mm F2.8 DC DN (Sony E接環)",
-        "price": 9900
-      },
-      "vsNew": 70,
-      "vsSecondhand": 86
     },
     {
       "pid": "1441461224",
@@ -695,8 +695,35 @@
       }
     },
     {
+      "seller": "mystic5201314",
+      "timeAgo": "2 hours ago",
+      "title": "正版AirPods pro3蘋果降噪耳機全新",
+      "price": 4500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1441528900/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 21:47",
+      "pid": "1441528900",
+      "verified": {
+        "newPrice": 6600,
+        "secondhand": 5500,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 68,
+        "vsSecondhand": 82,
+        "note": "BigGo Apple AirPods Pro 3 新品 NT$6,500-6,990 median NT$6,600. 標『全新』收 4,500 vsNew 68%, 真品幾乎沒折這麼深 (新品才上市半年). 疑似平輸/仿品/翻新貼牌. 賣家 ID 帶 5201314 屬個人帳號",
+        "title": "正版AirPods pro3蘋果降噪耳機全新",
+        "price": 4500
+      },
+      "vsNew": 68,
+      "vsSecondhand": 82
+    },
+    {
       "seller": "ssss00925",
-      "timeAgo": "4 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "Apple iPad 8 128GB Wi-Fi｜功能正常｜高雄前鎮",
       "price": 5000,
       "condition": "Like new",
@@ -706,7 +733,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:49",
+      "listedAt": "06/02 17:47",
       "pid": "1441483203",
       "verified": {
         "newPrice": 7930,
@@ -803,31 +830,58 @@
       "vsSecondhand": 90
     },
     {
-      "seller": "mystic5201314",
-      "timeAgo": "43 minutes ago",
-      "title": "正版AirPods pro3蘋果降噪耳機全新",
-      "price": 4500,
-      "condition": "Brand new",
-      "url": "https://tw.carousell.com/p/1441528900/",
-      "category": "音響耳機",
+      "seller": "sunny3c",
+      "timeAgo": "15 minutes ago",
+      "title": "***ACER***I7-10700/D4-16G/M2_512G/可加價購GTX-1050/1050TI",
+      "price": 12500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441545667/",
+      "category": "電腦科技",
       "maxDays": 3,
-      "priceStr": "NT$4,500",
+      "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:04",
-      "pid": "1441528900",
+      "listedAt": "06/02 23:32",
+      "pid": "1441545667",
       "verified": {
-        "newPrice": 6600,
-        "secondhand": 5500,
-        "verdict": "suspicious-too-cheap",
-        "vsNew": 68,
-        "vsSecondhand": 82,
-        "note": "BigGo Apple AirPods Pro 3 新品 NT$6,500-6,990 median NT$6,600. 標『全新』收 4,500 vsNew 68%, 真品幾乎沒折這麼深 (新品才上市半年). 疑似平輸/仿品/翻新貼牌. 賣家 ID 帶 5201314 屬個人帳號",
-        "title": "正版AirPods pro3蘋果降噪耳機全新",
-        "price": 4500
+        "newPrice": 22000,
+        "secondhand": 16900,
+        "verdict": "negotiate",
+        "vsNew": 57,
+        "vsSecondhand": 74,
+        "note": "BigGo new NT$22,000 (Shopee nico09240810 ACER Nitro N50-610 i7-10700/16G/512G SSD/GT1030). Carousell secondhand reference NT$16,900 (BigGo aggregated). Listing NT$12,500 = vsSF 74% in negotiate band. ",
+        "title": "***ACER***I7-10700/D4-16G/M2_512G/可加價購GTX-1050/1050TI",
+        "price": 12500
       },
-      "vsNew": 68,
-      "vsSecondhand": 82
+      "vsNew": 57,
+      "vsSecondhand": 74
+    },
+    {
+      "seller": "yoshida1221",
+      "timeAgo": "58 minutes ago",
+      "title": "ROG Falchion RX Low Profile 65 二手鍵盤 出售",
+      "price": 3500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441537867/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 22:49",
+      "pid": "1441537867",
+      "verified": {
+        "newPrice": 4990,
+        "secondhand": 4000,
+        "verdict": "uncertain",
+        "vsNew": 70,
+        "vsSecondhand": 88,
+        "note": "BigGo new median NT$4,990 (range 4,890-5,490 across Shopee Mall/Yahoo/ASUS/良興). Secondhand reference NT$4,000 (Carousell light blue switches; range 2,500-4,200). vsSF 87.5% in uncertain band — small d",
+        "title": "ROG Falchion RX Low Profile 65 二手鍵盤 出售",
+        "price": 3500
+      },
+      "vsNew": 70,
+      "vsSecondhand": 88
     }
   ],
   "uncertain": [
@@ -1152,6 +1206,26 @@
       }
     },
     {
+      "pid": "1441537528",
+      "title": "Apple Watch S7 45mm",
+      "price": 4500,
+      "priceStr": "NT$4,500",
+      "seller": "zenfox.d78565",
+      "url": "https://tw.carousell.com/p/1441537528/",
+      "timeAgo": "1 minute ago",
+      "listedAt": "06/02 23:46",
+      "category": "智慧手錶",
+      "condition": "Like new",
+      "vsNew": 80,
+      "vsSecondhand": 94,
+      "verified": {
+        "newPrice": 5600,
+        "secondhand": 4800,
+        "verdict": "uncertain",
+        "note": "BigGo Apple Watch S7 45mm 二手/福利 NT$4,200-6,800 新品(open-box) NT$5,600. 4,500 vsNew 80% vsSF 94% 貼齊行情. 須確認 GPS/LTE 版/電池健康度/錶帶充電線/AppleCare. Carousell sf 403"
+      }
+    },
+    {
       "pid": "1441515618",
       "title": "三星 Galaxy watch8 classic 藍芽版46mm",
       "price": 9030,
@@ -1179,7 +1253,7 @@
       "seller": "vvc3906",
       "url": "https://tw.carousell.com/p/1441533027/",
       "timeAgo": "25 minutes ago",
-      "listedAt": null,
+      "listedAt": "06/02 23:22",
       "category": "電玩主機",
       "condition": "Brand new",
       "vsNew": 68,
@@ -1199,7 +1273,7 @@
       "seller": "a0931079633",
       "url": "https://tw.carousell.com/p/1441534609/",
       "timeAgo": "13 minutes ago",
-      "listedAt": null,
+      "listedAt": "06/02 23:34",
       "category": "手機平板",
       "condition": "Lightly used",
       "vsNew": 78,
@@ -1212,23 +1286,63 @@
       }
     },
     {
-      "pid": "1441537528",
-      "title": "Apple Watch S7 45mm",
-      "price": 4500,
-      "priceStr": "NT$4,500",
-      "seller": "zenfox.d78565",
-      "url": "https://tw.carousell.com/p/1441537528/",
-      "timeAgo": "1 minute ago",
-      "listedAt": null,
-      "category": "智慧手錶",
-      "condition": "Like new",
-      "vsNew": 80,
-      "vsSecondhand": 94,
+      "pid": "1441543190",
+      "title": "2025世壯運金牌",
+      "price": 2200,
+      "priceStr": "NT$2,200",
+      "seller": "shansuu",
+      "url": "https://tw.carousell.com/p/1441543190/",
+      "timeAgo": "27 minutes ago",
+      "listedAt": "06/02 23:20",
+      "category": "收藏品",
+      "condition": "Brand new",
+      "vsNew": 88,
+      "vsSecondhand": null,
       "verified": {
-        "newPrice": 5600,
-        "secondhand": 4800,
+        "newPrice": 2500,
+        "secondhand": null,
         "verdict": "uncertain",
-        "note": "BigGo Apple Watch S7 45mm 二手/福利 NT$4,200-6,800 新品(open-box) NT$5,600. 4,500 vsNew 80% vsSF 94% 貼齊行情. 須確認 GPS/LTE 版/電池健康度/錶帶充電線/AppleCare. Carousell sf 403"
+        "note": "Collectible: Shopee historical NT$1,600-4,000 (mostly out-of-stock), median ~2,500. No active secondhand market. vsNew 88% in uncertain band; collectible pricing depends on edition/box/未流通."
+      }
+    },
+    {
+      "pid": "1441545962",
+      "title": "VC-21. 張國榮88演唱會2VCD/ #6月6折 二手VCD",
+      "price": 282,
+      "priceStr": "NT$282 (原價 NT$470)",
+      "seller": "t670410555",
+      "url": "https://tw.carousell.com/p/1441545962/",
+      "timeAgo": "12 minutes ago",
+      "listedAt": "06/02 23:35",
+      "category": "音樂媒體",
+      "condition": "Lightly used",
+      "vsNew": 60,
+      "vsSecondhand": 42,
+      "verified": {
+        "newPrice": 470,
+        "secondhand": 672,
+        "verdict": "suspicious-too-cheap",
+        "note": "Original NT$470. Ruten secondhand NT$490 + NT$854, median 672. Listing NT$282 = 6月6折 promo (60% of original). vsSF 42% but discount is seller's stated promo, not fraud signal. Same seller as CD-126 (店家 t670410555 跑6折活動)."
+      }
+    },
+    {
+      "pid": "1441547077",
+      "title": "CD-126. 芝麻&龍眼精選輯1 / #6月6折 二手CD唱片",
+      "price": 300,
+      "priceStr": "NT$300 (原價 NT$500)",
+      "seller": "t670410555",
+      "url": "https://tw.carousell.com/p/1441547077/",
+      "timeAgo": "5 minutes ago",
+      "listedAt": "06/02 23:42",
+      "category": "音樂媒體",
+      "condition": "Lightly used",
+      "vsNew": 60,
+      "vsSecondhand": 100,
+      "verified": {
+        "newPrice": 500,
+        "secondhand": 300,
+        "verdict": "uncertain",
+        "note": "Original NT$500 (per title). Ruten same edition NT$300 (三日書店無刮), wider range NT$95-5,600 across editions (early/Japan-pressed up to 5,600). Listing matches Ruten secondhand median = market price, no extra discount."
       }
     }
   ]
