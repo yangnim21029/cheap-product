@@ -41689,5 +41689,122 @@
     "note": "BigGo new median NT$4,990 (range 4,890-5,490 across Shopee Mall/Yahoo/ASUS/良興). Secondhand reference NT$4,000 (Carousell light blue switches; range 2,500-4,200). vsSF 87.5% in uncertain band — small d",
     "title": "ROG Falchion RX Low Profile 65 二手鍵盤 出售",
     "price": 3500
+  },
+  "1441551829": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "全新未使用 Apple 蘋果 原廠20W USB-C 電源轉接器",
+    "price": 500
+  },
+  "1441556397": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Magic Mouse 第一代 二手",
+    "price": 1000
+  },
+  "1441553865": {
+    "newPrice": 4100,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": 73,
+    "vsSecondhand": null,
+    "note": "BigGo 新品 NT$3,900-4,300 median 4,100 (Skyline/CameraPro 多家); Carousell/旋轉無二手樣本 (BigGo 二手 query 0 results), 用新品作 anchor vsNew 73%; 落 negotiate 區間, 但缺 SF 比對信心中等",
+    "title": "【FEELWORLD 富威德】F6 PLUS V2 4K攝影監視螢幕(6吋)",
+    "price": 3000
+  },
+  "1441556322": {
+    "newPrice": 6490,
+    "secondhand": 3450,
+    "verdict": "uncertain",
+    "vsNew": 54,
+    "vsSecondhand": 101,
+    "note": "新品 NT$6,490 (Shopee Mall/Global Online consistent); 二手 NT$2,000-4,300 多家 3C 商家落 3,500 (澄橘數位 Yahoo/Shopee/Ruten), median ~3,450; 標的價貼 SF median, vsSF 101% → uncertain; vsNew 54% 看似誘人但符合二手市況",
+    "title": "Marshall Emberton II 藍牙喇叭",
+    "price": 3500
+  },
+  "1441553112": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Apple AirPods 4 主動式降噪款",
+    "price": 4800,
+    "note": "新品官 NT$5,990 (myfone 折到 5,190); 二手 BigGo median ~3,500 (NT$1,500-4,300 範圍, 多家含保固到 2027 的 3C 翻新), 標的 vsSF 137% 高於二手 median 顯著; 賣家 safebear_ea8b99_243 命名疑似新帳號"
+  },
+  "1441553904": {
+    "newPrice": 1500,
+    "secondhand": 1180,
+    "verdict": "negotiate",
+    "vsNew": 60,
+    "vsSecondhand": 76,
+    "note": "賣家 priceStr 原價 NT$1,500 (CK 官網 403 無法直驗); BigGo 唯一比對 W.U.S.O. 物所 NT$1,180 已下架; 標的 #6月6折 屬促銷 note, vsSF 76% 落 negotiate; 信心低 (原價未獨立驗證、SF 樣本僅 1)",
+    "title": "#6月6折 [全新現貨] BTS Jung Kook for Calvin Klein 聯名專屬托特包",
+    "price": 900
+  },
+  "1441551176": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "Yamaha電子琴",
+    "price": 26000,
+    "note": "title 僅「Yamaha 電子琴」無型號; Yamaha 鍵盤新品 NT$2,970-132,000 跨度極大 (入門 PSR-F30 NT$2,970 到 Genos workstation NT$132,000); NT$26,000 落 PSR-SX600 等級新品下緣 (二手 25,500-31,500), 但無型號無法定錨"
+  },
+  "1441551534": {
+    "newPrice": null,
+    "secondhand": 13000,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 85,
+    "note": "Steam Deck LCD 1TB 已停產, 新品 BigGo 無正常 in-stock 報價; 二手 Yahoo 拍賣 NT$17,511 / Shopee 改裝 NT$9,000-10,900 (多已下架), median 取 13,000; vsSF 85% 落 uncertain 邊界, 11K 算合理但非 deal; 賣家 qwt49970608 同帳號還掛 MSI Claw 同價 N",
+    "title": "Steamdeck lcd 1tb，盒裝完整。",
+    "price": 11000
+  },
+  "1441555100": {
+    "newPrice": 4189,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 88,
+    "vsSecondhand": null,
+    "note": "工業件 BigGo 新品下緣 NT$4,189 (川澤百貨 Rakuten), 一般行情 NT$8,200-9,850, 盒裝新 NT$29,800-32,800; 標題稱「成色新測試包好」=測過良品非全新, 標的 NT$3,694 對比新品下緣 vsNew 88% 落 uncertain; 工業 PLC 二手流通量極低無 SF 可比, 買家需自驗 firmware/原廠保",
+    "title": "三菱PLC通訊模塊Q80BD-J71GP21-SX成色心測試包好",
+    "price": 3694
+  },
+  "1441553059": {
+    "newPrice": 20890,
+    "secondhand": 22450,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 53,
+    "vsSecondhand": 49,
+    "note": "新品中位 NT$20,890 (A1M-026TW U7-155H/16G/1TB iOPEN/光華 24,890), 二手 BigGo median 22,450 (Shopee Mall 28,900 含保固 / individual 15,999); 標的 NT$11,000 vsSF 49% 低於 50% 觸發 suspicious; 賣家 qwt49970608 同帳號同時掛 Steam",
+    "title": "Msi claw u7-1tb電競掌機，無傷盒裝。",
+    "price": 11000
+  },
+  "1441551762": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "顯卡 顯示卡 ZOTAC GAMING GeForce GTX 1660 Ti 6GB GDDR6 8pin",
+    "price": 3800,
+    "note": "GTX 1660 Ti EOL 卡, 唯一新品 BigGo NT$9,980 (台中單筆 active 不可靠 anchor); 二手 Shopee NT$2,200-3,780 median ~2,900; 標的 NT$3,800 對 SF median vsSF 131% 偏高, EOL 卡買新邏輯不成立應比 SF; 信心高"
+  },
+  "1441548835": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 84,
+    "vsSecondhand": null,
+    "note": "新品 BigGo momo/PChome/蝦皮商城 consistent NT$4,990 (Coupang 4,590); V4 Pro 太新 BigGo 二手 query 0 results (只跑出 V2 Pro NT$1,200-4,000 median ~2,000 不適合替代 anchor); vsNew 84% 落 uncertain 上緣, 距新品價差 NT$790 等價於 0.5",
+    "title": "Razer viper v4 pro 電競滑鼠",
+    "price": 4200
+  },
+  "1441534242": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "CIRCLE AI暖心戒",
+    "price": 5000,
+    "note": "Circle Ring AI 智慧戒指官 retail ~NT$4,000 (新品 Shopee NT$2,800-4,000, 中位 3,000-3,500); 二手 Carousell xumuyun NT$2,500 (降價 1,300), 鈦版 ace6671698527 NT$5,800; 標的 NT$5,000 高於新品官價且高於非鈦版二手中位 → overpriced; 若是鈦版 ("
+  },
+  "1441527306": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "全新 Galaxy buds 4 pro 黑色",
+    "price": 6350,
+    "note": "新品 NT$7,490 consistent (燦坤/Yahoo/Shopee Mall, Coupang 降到 5,888); 二手 BigGo NT$5,000-5,800 median ~5,400; 標稱「全新」但 vsSF 118% 高於 SF median, 對比 Coupang 5,888 新品折扣價更便宜; 從買家視角去 Coupang 買新更划算"
   }
 }
