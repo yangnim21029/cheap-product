@@ -40695,5 +40695,445 @@
     "note": "新品 BigGo 最低 2,188（標準版）；iOPEN 整新 2,000。2,000 vsNew 91% 跟整新品同價，二手無優勢；買家會直接買新品多享保固。除非全新未拆+有發票才考慮。",
     "title": "雷蛇Barracuda X 無線耳機",
     "price": 2000
+  },
+  "1441478270": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "二手LED落地燈 CROCODILE INTERNATIONAL 新加坡鱷魚國際立燈 站立式 落地燈早期 鐵皮二段式 可高燈照角度和高矮 雲林土庫鎮自取 不議價",
+    "price": 1150
+  },
+  "1441390832": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "NICONICO 7吋遙控空氣循環扇",
+    "price": 900
+  },
+  "1441373774": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "DIKE 8吋自動擺頭循環扇 3 檔風速可調 冷/暖氣流循環, HLE210",
+    "price": 600
+  },
+  "1441428933": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "飛利浦秒碎冰沙果汁機(HR2291/01)",
+    "price": 1200
+  },
+  "1441404815": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "攜帶式果汁機",
+    "price": 1500
+  },
+  "1424095234": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "LP黑膠唱片 Kenny G 肯尼吉 - G Force",
+    "price": 500
+  },
+  "1441484739": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "寶可夢 劍 Switch遊戲片",
+    "price": 800
+  },
+  "1441481987": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "艾芮克 k74r",
+    "price": 1000
+  },
+  "1441444021": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "全新機械鍵盤軸體(星矢軸+佳達隆G黃軸)",
+    "price": 500
+  },
+  "1441425871": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "羅技 G PRO X 機械鍵盤 青軸 支持熱插拔",
+    "price": 1680
+  },
+  "1441365894": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "CIDOO ABM066三模Alice機械鍵盤",
+    "price": 1000
+  },
+  "1441510423": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "全新 Nike 女運動上衣 M號 Dri-FIT 裸粉色 胸墊 美背健身上衣 輕度支撐 慢跑 瑜珈 細肩帶運動背心",
+    "price": 650
+  },
+  "1435388805": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Loewe 香氛蠟燭 常春藤 170g",
+    "price": 1590
+  },
+  "1441427963": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "全新 Penhaligon’s 潘海利根 Scent Library 香味圖書館 英國皇室御用香氛噴管禮盒",
+    "price": 750
+  },
+  "1441324479": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "<JD SCENT>時氛香水 2 P.M. 靜謐之島香水",
+    "price": 880
+  },
+  "1441292619": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "全新封膜 LE COUVENT 洛蔻芳 凡爾賽鏡廳/調香師工作室香氛蠟燭190g (正裝)",
+    "price": 700
+  },
+  "1424305190": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "VANA 香氛蠟燭 奧斯陸",
+    "price": 566
+  },
+  "1441280429": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "HOLLOW TREE | 金色雲杉香氛旅行蠟燭 Golden Spruce",
+    "price": 600
+  },
+  "1441319888": {
+    "skip": true,
+    "reason": "spam-seller-niche",
+    "title": "NO:3339#Integra AV接收機PTR-30.7(零件機)",
+    "price": 2890
+  },
+  "1441441879": {
+    "newPrice": 89000,
+    "secondhand": null,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 11,
+    "vsSecondhand": null,
+    "note": "HW65ES 真品新機 NT$89,000~129,000，二手公允應在 NT$30,000+；NT$10,000 嚴重低於行情，疑仿/壞機/盜品。BigGo 二手搜尋 0 筆。",
+    "title": "SONY VPL-HW65ES 投影機",
+    "price": 10000
+  },
+  "1441328919": {
+    "newPrice": 14500,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": 59,
+    "vsSecondhand": null,
+    "note": "官方公司貨 NT$14,500 起，但 BigGo 平輸/拍賣同價 NT$8,500 起；若真為全新公司貨即好價，水貨則持平市場最低。需確認盒裝完整 + 是否有保固。",
+    "title": "[全新]三星投影機The Freestyle第二代",
+    "price": 8500
+  },
+  "1441311177": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "九成新 小米 投影機 120吋",
+    "price": 7999,
+    "note": "小米 L1 Pro 全新 NT$8,299（momo/PChome），二手中位約 NT$5,000；NT$7,999 接近全新價且高於二手 60%，沒讓利空間。"
+  },
+  "1441280035": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Warpple小型投影機",
+    "price": 2500,
+    "note": "Warpple LA1 SE 全新 NT$2,490 起（momo），二手 NT$2,500 等於全新無折扣。直接買新品。"
+  },
+  "1441481863": {
+    "newPrice": 6980,
+    "secondhand": 5500,
+    "verdict": "negotiate",
+    "vsNew": 79,
+    "vsSecondhand": 100,
+    "note": "全新水貨 NT$6,980（Shopee SufuGo UK），公司貨 NT$9,000+；二手 NT$4,000~6,300 中位 NT$5,500。NT$5,500 持平二手中位，要殺到 NT$4,800 以下才甜。",
+    "title": "Marshall Acton II 家用 藍牙喇叭 經典黑",
+    "price": 5500
+  },
+  "1441373430": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "德國落地式喇叭",
+    "price": 3000,
+    "note": "標題未列品牌/型號。德國品牌落地喇叭新品最低 NT$29,800（Magnat Needle）；無從比對。需賣家補型號才能判斷。"
+  },
+  "1441368997": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "Royal 台灣製喇叭（有附喇叭吊架）",
+    "price": 2000,
+    "note": "BigGo 查無 Royal 台灣製喇叭資料，品牌過於小眾無新品/二手錨點。SKIP。"
+  },
+  "1441336257": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Marshall Emberton III藍牙喇叭/奶油白",
+    "price": 5500,
+    "note": "全新 NT$5,579 起（生活市集）、官方公司貨 NT$6,490；二手中位 NT$4,500。NT$5,500 幾乎等於全新最低價，且高於二手 22%。"
+  },
+  "1441318323": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 109,
+    "note": "Beoplay A1 Gen 1 已停產無新品錨點；二手中位 NT$3,500（Carousell/Shopee/Yahoo 多平台一致）。NT$3,800 略高於中位 9%，接近行情。",
+    "title": "Bang & Olufsen A1 Gen 1 高音質無線藍芽喇叭 B&O",
+    "price": 3800
+  },
+  "1429573253": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Marshall kilburn 音響",
+    "price": 7500,
+    "note": "標題未標 I/II/III，推估 Kilburn II（市場主流）；全新 NT$9,900~13,900、二手中位 NT$4,500。NT$7,500 為二手中位 1.67 倍。若為 Kilburn III（NT$11,900 起）則 vsNew 63% 看似好價但二手成交價遠低於此。"
+  },
+  "1441435884": {
+    "newPrice": 5880,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 85,
+    "vsSecondhand": null,
+    "note": "Solright DB-1 全新 NT$5,880（僅 Pinkoi 一家），NT$5,000 折扣 15%。獎品轉售說法可信但二手市場零樣本，價差偏小。",
+    "title": "比賽獎品轉售-全新未使用 全新手搖磨豆機-Solright DB-1-5000",
+    "price": 5000
+  },
+  "1441463138": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Driver 輕巧戶外手沖咖啡全配組",
+    "price": 3799,
+    "note": "Driver 輕巧戶外手沖經典組全新 NT$2,070~2,199（東森/momo/PChome），二手 NT$3,799 為全新 1.7 倍，明顯不划算。"
+  },
+  "1441462190": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Driver DayGO戶外手沖咖啡全配組",
+    "price": 3699,
+    "note": "Driver DayGO 全配組全新 NT$2,199（PChome），NT$3,699 為全新 1.68 倍；同賣家 cunyi_1688 連兩件 Driver 全配組灌價，疑商家 recurring-pattern。"
+  },
+  "1441506320": {
+    "newPrice": 9584,
+    "secondhand": 8350,
+    "verdict": "uncertain",
+    "vsNew": 83,
+    "vsSecondhand": 96,
+    "note": "全新 NT$9,584~9,650（多通路一致）、二手中位 NT$8,200~8,500。NT$8,000 略低於二手中位 4%，接近行情。需確認電池循環/盒裝/配件。",
+    "title": "insta360 x4",
+    "price": 8000
+  },
+  "1441506852": {
+    "newPrice": 3725,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": 81,
+    "vsSecondhand": null,
+    "note": "Giaretti GL-9823 24L 氣炸烤箱全新 NT$3,725（momo/Coupang/全聯），NT$3,000 折扣 19.5%；全新未拆轉售合理區間，可再殺到 NT$2,700 更甜。",
+    "title": "Giaretti 烤箱 GL-9823 全新未拆",
+    "price": 3000
+  },
+  "1441472979": {
+    "newPrice": 3980,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": 65,
+    "vsSecondhand": null,
+    "note": "ikiiki IK-OT3003 全新 NT$3,980（多通路一致：Shopee Mall/momo/friDay/iOPEN/7-11/全家），NT$2,600 折扣 35%；二手市場零樣本，若全新未拆價差夠甜。",
+    "title": "ikiiki伊崎 11L 日式蒸氣烤箱 IK-OT3003/IK-OT3002",
+    "price": 2600
+  },
+  "1441436232": {
+    "newPrice": 3990,
+    "secondhand": 1800,
+    "verdict": "good-deal",
+    "vsNew": 58,
+    "vsSecondhand": 128,
+    "note": "AF66 全新 NT$3,990（momo/Coupang），NT$2,300 折扣 42.4%。二手單一樣本 NT$1,800（AF66 三代舊版且已下架），不適合當基準。對全新而言為好價。同賣家 phoebe_liu.flower 也賣 ikiiki 烤箱 → 可能小型出清。",
+    "title": "Coz!i廚膳寶 23L 不鏽鋼內膽氣炸烤箱 AF66",
+    "price": 2300
+  },
+  "1441335409": {
+    "newPrice": 449,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 86,
+    "vsSecondhand": null,
+    "note": "momo 單瓶最低 NT$449（意氣之風變體），蝦皮 NT$495。NT$387 折扣 14%，價差有限；原價 NT$645 對比是廠商建議售價非實際成交底，不採信為錨點。",
+    "title": "hoi 日京山風 香氛賦活洗髮露 500ml",
+    "price": 387
+  },
+  "1423275089": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Le Labo Santal 26 室內香氛",
+    "price": 3050,
+    "note": "Le Labo Santal 26 室內噴霧蝦皮 NT$3,000（最接近錨點），蠟燭 195g NT$1,580、Mini 蠟燭 NT$1,280。NT$3,050 若為室內噴霧則等同全新價無折扣；若為蠟燭則溢價甚多。標題未指明品項，按室內噴霧基準判定。"
+  },
+  "1441463382": {
+    "newPrice": 14900,
+    "secondhand": 3000,
+    "verdict": "uncertain",
+    "vsNew": 20,
+    "vsSecondhand": 100,
+    "note": "新品 NT$14,900；SF n=1 只有本物自身 = 樣本不足；vsNew 20% 看似超殺但孤證無法判，建議查賣家其他物件 / 看是否含原盒配件",
+    "title": "Audiolab M-DAC MINI",
+    "price": 3000
+  },
+  "1441397572": {
+    "newPrice": 4290,
+    "secondhand": 2700,
+    "verdict": "negotiate",
+    "vsNew": 48,
+    "vsSecondhand": 77,
+    "note": "新品 NT$4,290；SF n=5 中位 2,700（1,400-3,300）；vsSF 77% 偏 negotiate 區間，vsNew 48% 也算合理二手價",
+    "title": "Sony linkbuds s",
+    "price": 2080
+  },
+  "1441373687": {
+    "newPrice": 3200,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 91,
+    "vsSecondhand": null,
+    "note": "賣家為「現貨」店家標題（🍓），新品 NT$3,200，9 折等於店價 = 不算便宜；SF n=0 無二手比價",
+    "title": "Audio-Technica ATH-SPORT70BT",
+    "price": 2899
+  },
+  "1441356282": {
+    "skip": true,
+    "reason": "insufficient-data",
+    "title": "AirPods Pro 3 右耳單耳",
+    "price": 2400,
+    "note": "單右耳 vs 整組價不可比；SF 無其他單耳 AirPods Pro 3 樣本；標 vsNew 37% 僅供參考"
+  },
+  "1441350060": {
+    "newPrice": 7580,
+    "secondhand": 2580,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 34,
+    "vsSecondhand": 100,
+    "note": "新品 NT$7,580 (TWX9 MK2)；SF n=1 只有本物；vsNew 34% 過低，旗艦真無線通常二手 50-65%，疑仿/瑕疵/盜品，需驗序號+原盒",
+    "title": "鐵三角 ATH-TWX9 旗艦 真無線降噪耳機",
+    "price": 2580
+  },
+  "1441337290": {
+    "newPrice": 6990,
+    "secondhand": 3500,
+    "verdict": "good-deal",
+    "vsNew": 29,
+    "vsSecondhand": 57,
+    "note": "新品 NT$6,990；SF n=3 中位 3,500（2,000-4,500）；vsSF 57% 落 good-deal 區間，vsNew 29% 也具吸引力，建議確認電池+配件齊",
+    "title": "Philips Fidelio T2 真無線藍牙耳機",
+    "price": 2000
+  },
+  "1441324360": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "Marshall 藍芽耳機",
+    "price": 3000,
+    "note": "標題未寫型號（Major/Minor/Motif/Monitor 價差 NT$1,400-NT$10,990 巨大），SF 中位 3,500 僅參考；需確認型號才能定 vsNew"
+  },
+  "1435367673": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "三星 SAMSUNG Galaxy Buds 3 Pro 真無線藍牙耳機 雲朵白",
+    "price": 3600,
+    "note": "新品 NT$4,290；SF n=26 中位 3,000；vsSF 120% 高於二手中位，vsNew 84% 接近新品，無折扣空間"
+  },
+  "1441317736": {
+    "newPrice": 3480,
+    "secondhand": 2200,
+    "verdict": "uncertain",
+    "vsNew": 63,
+    "vsSecondhand": 100,
+    "note": "新品 NT$3,480；SF n=2 中位 2,200 但兩筆都是 2,200 同價，可能為本物 + 另一同價物，樣本太薄；vsNew 63% 合理二手位",
+    "title": "Philip tah8000 金響大師降噪耳機",
+    "price": 2200
+  },
+  "1441304973": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "全新未拆Apple AirPods 4 續約附贈續約單子",
+    "price": 5000,
+    "note": "AirPods 4 標準版新品 NT$3,999；NT$5,000 高於新品 25%（標題寫「續約附贈續約單子」是電信續約品，理論上應低於市價）；vsSF 152% 嚴重 overpriced"
+  },
+  "1441284484": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "AirPods 4 ANC 全新未拆封",
+    "price": 4990,
+    "note": "ANC 版新品 NT$4,490-5,190（中位約 4,790）；NT$4,990 等同新品價，全新未拆轉售無折扣 = 沒誘因，建議直接買店家新品有保固"
+  },
+  "1441511209": {
+    "newPrice": null,
+    "secondhand": 22450,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 85,
+    "note": "標題僅「G 12」假設為 Canon G12 CCD 相機；2010 停產無新品，SF 真 G12 comp（20,000/21,900/23,000/25,000）中位 ~22,450；vsSF 85% 邊緣，需看成色",
+    "title": "G 12",
+    "price": 19000
+  },
+  "1441505502": {
+    "newPrice": 14390,
+    "secondhand": 11950,
+    "verdict": "uncertain",
+    "vsNew": 76,
+    "vsSecondhand": 92,
+    "note": "新品 NT$14,090-14,504；SF 此型號真比價 9,900/11,000/13,000，中位 ~11,950（過濾掉 17-50 EX DC 異型號雜訊）；vsSF 92% 屬 uncertain，vsNew 76% 合理二手",
+    "title": "SIGMA Sony E-mount 18-50mm F2.8 DC DN",
+    "price": 11000
+  },
+  "1441506201": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "代肝",
+    "price": 2005,
+    "note": "「代肝」為遊戲代練服務（非實體商品），無法新品/二手比價；建議從分類過濾掉服務類"
+  },
+  "1441512680": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Lakai 滑板鞋",
+    "price": 2800,
+    "note": "新品中位 NT$2,680-2,880（取 2,780）；SF n=2 中位 2,800 但只有本物 + 一筆 1,800 (原價 2,600)；二手 NT$2,800 等同新品價無折扣，未說尺碼成色"
+  },
+  "1441509306": {
+    "skip": true,
+    "reason": "insufficient-data",
+    "title": "11.7磅保齡球 加贈球袋",
+    "price": 3500,
+    "note": "新品 11 磅入門 Brunswick/Columbia 約 NT$4,280（聚酯入門款）；SF 47 筆多為保齡球袋非實球，無有效實球 comp；vsNew 82% 需看是入門款還是性能球 + 是否含球袋價值"
+  },
+  "1441509023": {
+    "newPrice": 3750,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": 53,
+    "vsSecondhand": null,
+    "note": "新品 NT$3,750；SF 僅本物自身 + Tokina 鏡頭雜訊 = 無有效 comp；vsNew 53% 落 good-deal 區間，但孤證需看拍是否新舊/有無修補",
+    "title": "REDSON AT-28 4U羽毛球拍",
+    "price": 2000
+  },
+  "1441511047": {
+    "newPrice": null,
+    "secondhand": 11500,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 91,
+    "note": "M1 已停產無新品 BigGo 報價；SF n=48 中位 11,500（5,000-17,900 範圍寬，含 M2 雜訊）；NT$10,500 + 電腦包略低於中位，需確認電池循環/外觀",
+    "title": "MacBook Air M1 8G/256G 太空灰+ 加贈全新 Riivan 電腦包",
+    "price": 10500
+  },
+  "1441507521": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "宏碁 N3350 4G 128G",
+    "price": 4000,
+    "note": "新品/福利品 NT$2,950-3,900（中位 ~3,400，多為庫存 Swift 1 機種）；SF n=0；vsNew 118% 高於新品中位，N3350 效能極弱不值此價"
   }
 }

@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "coolearth-0dd5",
-      "timeAgo": "23 hours ago",
+      "timeAgo": "1 day ago",
       "title": "Contax planar 50mm f1.4 aej & 天工(techart)lm-ea9",
       "price": 11000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 21:13",
+      "listedAt": "06/01 20:57",
       "pid": "1434942159",
       "verified": {
         "newPrice": 19500,
@@ -49,7 +49,7 @@
     },
     {
       "seller": "anniexin",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "14 hours ago",
       "title": "近全新附鞋盒/MERRELL AGILITY PEAK 5 MID TACTICAL",
       "price": 3000,
       "condition": "Like new",
@@ -59,7 +59,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 07:13",
+      "listedAt": "06/02 06:57",
       "pid": "1438341441",
       "verified": {
         "newPrice": 6580,
@@ -76,17 +76,17 @@
     },
     {
       "seller": "shamangels91995",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
       "price": 9800,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1380756437/",
-      "category": "運動戶外",
-      "maxDays": 3,
+      "category": "螢幕",
+      "maxDays": 7,
       "priceStr": "NT$9,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 06:13",
+      "listedAt": "06/02 05:57",
       "pid": "1380756437",
       "verified": {
         "newPrice": 22999,
@@ -123,7 +123,7 @@
     },
     {
       "seller": "rosono",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "超新 Pentax 雙鏡皇 16-50mm f2.8 50-135mm 盒裝 鏡頭套 *星鏡",
       "price": 17000,
       "condition": "Lightly used",
@@ -133,7 +133,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:13",
+      "listedAt": "06/02 16:57",
       "pid": "1441469545",
       "verified": {
         "newPrice": 49320,
@@ -147,6 +147,167 @@
       },
       "vsNew": 34,
       "vsSecondhand": 34
+    },
+    {
+      "pid": "1441328919",
+      "title": "[全新]三星投影機The Freestyle第二代",
+      "price": 8500,
+      "priceStr": "NT$8,500",
+      "seller": "stephaniexxoo",
+      "url": "https://tw.carousell.com/p/1441328919/",
+      "timeAgo": "21 hours ago",
+      "listedAt": null,
+      "category": "投影機",
+      "condition": "Brand new",
+      "vsNew": 59,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 14500,
+        "secondhand": null,
+        "verdict": "good-deal",
+        "note": "官方公司貨 NT$14,500 起，但 BigGo 平輸/拍賣同價 NT$8,500 起；若真為全新公司貨即好價，水貨則持平市場最低。需確認盒裝完整 + 是否有保固。"
+      }
+    },
+    {
+      "pid": "1441472979",
+      "title": "ikiiki伊崎 11L 日式蒸氣烤箱 IK-OT3003/IK-OT3002",
+      "price": 2600,
+      "priceStr": "NT$2,600",
+      "seller": "phoebe_liu.flower",
+      "url": "https://tw.carousell.com/p/1441472979/",
+      "timeAgo": "4 hours ago",
+      "listedAt": null,
+      "category": "家電影音",
+      "condition": "Brand new",
+      "vsNew": 65,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 3980,
+        "secondhand": null,
+        "verdict": "good-deal",
+        "note": "ikiiki IK-OT3003 全新 NT$3,980（多通路一致：Shopee Mall/momo/friDay/iOPEN/7-11/全家），NT$2,600 折扣 35%；二手市場零樣本，若全新未拆價差夠甜。"
+      }
+    },
+    {
+      "pid": "1441436232",
+      "title": "Coz!i廚膳寶 23L 不鏽鋼內膽氣炸烤箱 AF66",
+      "price": 2300,
+      "priceStr": "NT$2,300",
+      "seller": "phoebe_liu.flower",
+      "url": "https://tw.carousell.com/p/1441436232/",
+      "timeAgo": "6 hours ago",
+      "listedAt": null,
+      "category": "家電影音",
+      "condition": "Brand new",
+      "vsNew": 58,
+      "vsSecondhand": 128,
+      "verified": {
+        "newPrice": 3990,
+        "secondhand": 1800,
+        "verdict": "good-deal",
+        "note": "AF66 全新 NT$3,990（momo/Coupang），NT$2,300 折扣 42.4%。二手單一樣本 NT$1,800（AF66 三代舊版且已下架），不適合當基準。對全新而言為好價。同賣家 phoebe_liu.flower 也賣 ikiiki 烤箱 → 可能小型出清。"
+      }
+    },
+    {
+      "seller": "rueijiji",
+      "timeAgo": "21 hours ago",
+      "title": "Philips Fidelio T2 真無線藍牙耳機",
+      "price": 2000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441337290/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/01 23:57",
+      "pid": "1441337290",
+      "verified": {
+        "newPrice": 6990,
+        "secondhand": 3500,
+        "verdict": "good-deal",
+        "vsNew": 29,
+        "vsSecondhand": 57,
+        "note": "新品 NT$6,990；SF n=3 中位 3,500（2,000-4,500）；vsSF 57% 落 good-deal 區間，vsNew 29% 也具吸引力，建議確認電池+配件齊",
+        "title": "Philips Fidelio T2 真無線藍牙耳機",
+        "price": 2000
+      },
+      "vsNew": 29,
+      "vsSecondhand": 57
+    },
+    {
+      "pid": "1441509023",
+      "title": "REDSON AT-28 4U羽毛球拍",
+      "price": 2000,
+      "priceStr": "NT$2,000",
+      "seller": "aa7350088",
+      "url": "https://tw.carousell.com/p/1441509023/",
+      "timeAgo": "25 minutes ago",
+      "listedAt": null,
+      "category": "運動戶外",
+      "condition": "Like new",
+      "vsNew": 53,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 3750,
+        "secondhand": null,
+        "verdict": "good-deal",
+        "note": "新品 NT$3,750；SF 僅本物自身 + Tokina 鏡頭雜訊 = 無有效 comp；vsNew 53% 落 good-deal 區間，但孤證需看拍是否新舊/有無修補"
+      }
+    },
+    {
+      "seller": "wildearth_4d1187",
+      "timeAgo": "6 hours ago",
+      "title": "SONY VPL-HW65ES 投影機",
+      "price": 10000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441441879/",
+      "category": "投影機",
+      "maxDays": 5,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 14:57",
+      "pid": "1441441879",
+      "verified": {
+        "newPrice": 89000,
+        "secondhand": null,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 11,
+        "vsSecondhand": null,
+        "note": "HW65ES 真品新機 NT$89,000~129,000，二手公允應在 NT$30,000+；NT$10,000 嚴重低於行情，疑仿/壞機/盜品。BigGo 二手搜尋 0 筆。",
+        "title": "SONY VPL-HW65ES 投影機",
+        "price": 10000
+      },
+      "vsNew": 11,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "mclaren17409284",
+      "timeAgo": "4 hours ago",
+      "title": "Audiolab M-DAC MINI",
+      "price": 3000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441463382/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$3,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 16:57",
+      "pid": "1441463382",
+      "verified": {
+        "newPrice": 14900,
+        "secondhand": 3000,
+        "verdict": "uncertain",
+        "vsNew": 20,
+        "vsSecondhand": 100,
+        "note": "新品 NT$14,900；SF n=1 只有本物自身 = 樣本不足；vsNew 20% 看似超殺但孤證無法判，建議查賣家其他物件 / 看是否含原盒配件",
+        "title": "Audiolab M-DAC MINI",
+        "price": 3000
+      },
+      "vsNew": 20,
+      "vsSecondhand": 100
     }
   ],
   "negotiate": [
@@ -162,7 +323,7 @@
       "priceStr": "NT$25,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:13",
+      "listedAt": "06/02 09:57",
       "pid": "1441384631",
       "verified": {
         "newPrice": 43911,
@@ -179,7 +340,7 @@
     },
     {
       "seller": "lionbabe",
-      "timeAgo": "19 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "SONY 索尼 Digital Camera ZV-1",
       "price": 10000,
       "condition": "Lightly used",
@@ -189,7 +350,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 01:13",
+      "listedAt": "06/02 00:57",
       "pid": "1441346752",
       "verified": {
         "newPrice": 19980,
@@ -206,7 +367,7 @@
     },
     {
       "seller": "golden20060723",
-      "timeAgo": "23 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "!降價重po＆送黑柔鏡! APS-C頂級定焦 SIGMA 30mm f1.4 DC HSM Art（For Canon）",
       "price": 6000,
       "condition": "Like new",
@@ -216,7 +377,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 21:13",
+      "listedAt": "06/01 20:57",
       "pid": "1441304914",
       "verified": {
         "newPrice": 14800,
@@ -273,7 +434,7 @@
     },
     {
       "seller": "raychang0076333",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "21 hours ago",
       "title": "Sigma 18-50mm F2.8 DC DN (Sony E接環)",
       "price": 9900,
       "condition": "Lightly used",
@@ -283,7 +444,7 @@
       "priceStr": "NT$9,900",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 00:13",
+      "listedAt": "06/01 23:57",
       "pid": "1441339131",
       "verified": {
         "newPrice": 14090,
@@ -297,6 +458,93 @@
       },
       "vsNew": 70,
       "vsSecondhand": 86
+    },
+    {
+      "pid": "1441481863",
+      "title": "Marshall Acton II 家用 藍牙喇叭 經典黑",
+      "price": 5500,
+      "priceStr": "NT$5,500",
+      "seller": "NeighborhoodLife",
+      "url": "https://tw.carousell.com/p/1441481863/",
+      "timeAgo": "2 hours ago",
+      "listedAt": null,
+      "category": "喇叭",
+      "condition": "Lightly used",
+      "vsNew": 79,
+      "vsSecondhand": 100,
+      "verified": {
+        "newPrice": 6980,
+        "secondhand": 5500,
+        "verdict": "negotiate",
+        "note": "全新水貨 NT$6,980（Shopee SufuGo UK），公司貨 NT$9,000+；二手 NT$4,000~6,300 中位 NT$5,500。NT$5,500 持平二手中位，要殺到 NT$4,800 以下才甜。"
+      }
+    },
+    {
+      "pid": "1441506852",
+      "title": "Giaretti 烤箱 GL-9823 全新未拆",
+      "price": 3000,
+      "priceStr": "NT$3,000",
+      "seller": "c7526211",
+      "url": "https://tw.carousell.com/p/1441506852/",
+      "timeAgo": "32 minutes ago",
+      "listedAt": null,
+      "category": "家電影音",
+      "condition": "Brand new",
+      "vsNew": 81,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 3725,
+        "secondhand": null,
+        "verdict": "negotiate",
+        "note": "Giaretti GL-9823 24L 氣炸烤箱全新 NT$3,725（momo/Coupang/全聯），NT$3,000 折扣 19.5%；全新未拆轉售合理區間，可再殺到 NT$2,700 更甜。"
+      }
+    },
+    {
+      "pid": "1441397572",
+      "title": "Sony linkbuds s",
+      "price": 2080,
+      "priceStr": "NT$2,080",
+      "seller": "nisell.120",
+      "url": "https://tw.carousell.com/p/1441397572/",
+      "timeAgo": "10 hours ago",
+      "listedAt": null,
+      "category": "音響耳機",
+      "condition": "Lightly used",
+      "vsNew": 48,
+      "vsSecondhand": 77,
+      "verified": {
+        "newPrice": 4290,
+        "secondhand": 2700,
+        "verdict": "negotiate",
+        "note": "新品 NT$4,290；SF n=5 中位 2,700（1,400-3,300）；vsSF 77% 偏 negotiate 區間，vsNew 48% 也算合理二手價"
+      }
+    },
+    {
+      "seller": "phillyli",
+      "timeAgo": "11 minutes ago",
+      "title": "G 12",
+      "price": 19000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441511209/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "priceStr": "NT$19,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/02 20:46",
+      "pid": "1441511209",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 22450,
+        "verdict": "uncertain",
+        "vsNew": null,
+        "vsSecondhand": 85,
+        "note": "標題僅「G 12」假設為 Canon G12 CCD 相機；2010 停產無新品，SF 真 G12 comp（20,000/21,900/23,000/25,000）中位 ~22,450；vsSF 85% 邊緣，需看成色",
+        "title": "G 12",
+        "price": 19000
+      },
+      "vsNew": null,
+      "vsSecondhand": 85
     }
   ],
   "uncertain": [
@@ -358,6 +606,186 @@
         "secondhand": 6500,
         "verdict": "uncertain",
         "note": "Instax mini Evo 新品 Yahoo/PChome NT$6,290；二手 Dcard/FB 社團 9 成新 NT$6,500-7,000 常見。NT$6,100 略低於新品但二手沒底片組合 → 跟新品幾乎打平。沒有強 deal margin。"
+      }
+    },
+    {
+      "pid": "1441318323",
+      "title": "Bang & Olufsen A1 Gen 1 高音質無線藍芽喇叭 B&O",
+      "price": 3800,
+      "priceStr": "NT$3,800",
+      "seller": "fevermatehome",
+      "url": "https://tw.carousell.com/p/1441318323/",
+      "timeAgo": "23 hours ago",
+      "listedAt": null,
+      "category": "音響耳機",
+      "condition": "Lightly used",
+      "vsNew": null,
+      "vsSecondhand": 109,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 3500,
+        "verdict": "uncertain",
+        "note": "Beoplay A1 Gen 1 已停產無新品錨點；二手中位 NT$3,500（Carousell/Shopee/Yahoo 多平台一致）。NT$3,800 略高於中位 9%，接近行情。"
+      }
+    },
+    {
+      "pid": "1441435884",
+      "title": "比賽獎品轉售-全新未使用 全新手搖磨豆機-Solright DB-1-5000",
+      "price": 5000,
+      "priceStr": "NT$5,000",
+      "seller": "urboyaintdrip",
+      "url": "https://tw.carousell.com/p/1441435884/",
+      "timeAgo": "6 hours ago",
+      "listedAt": null,
+      "category": "磨豆機",
+      "condition": "",
+      "vsNew": 85,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 5880,
+        "secondhand": null,
+        "verdict": "uncertain",
+        "note": "Solright DB-1 全新 NT$5,880（僅 Pinkoi 一家），NT$5,000 折扣 15%。獎品轉售說法可信但二手市場零樣本，價差偏小。"
+      }
+    },
+    {
+      "pid": "1441506320",
+      "title": "insta360 x4",
+      "price": 8000,
+      "priceStr": "NT$8,000",
+      "seller": "zackzoo",
+      "url": "https://tw.carousell.com/p/1441506320/",
+      "timeAgo": "36 minutes ago",
+      "listedAt": null,
+      "category": "相機攝影",
+      "condition": "Lightly used",
+      "vsNew": 83,
+      "vsSecondhand": 96,
+      "verified": {
+        "newPrice": 9584,
+        "secondhand": 8350,
+        "verdict": "uncertain",
+        "note": "全新 NT$9,584~9,650（多通路一致）、二手中位 NT$8,200~8,500。NT$8,000 略低於二手中位 4%，接近行情。需確認電池循環/盒裝/配件。"
+      }
+    },
+    {
+      "pid": "1441335409",
+      "title": "hoi 日京山風 香氛賦活洗髮露 500ml",
+      "price": 387,
+      "priceStr": "NT$387 (原價 NT$645)",
+      "seller": "odeliagarden",
+      "url": "https://tw.carousell.com/p/1441335409/",
+      "timeAgo": "21 hours ago",
+      "listedAt": null,
+      "category": "香氛",
+      "condition": "Brand new",
+      "vsNew": 86,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 449,
+        "secondhand": null,
+        "verdict": "uncertain",
+        "note": "momo 單瓶最低 NT$449（意氣之風變體），蝦皮 NT$495。NT$387 折扣 14%，價差有限；原價 NT$645 對比是廠商建議售價非實際成交底，不採信為錨點。"
+      }
+    },
+    {
+      "pid": "1441373687",
+      "title": "Audio-Technica ATH-SPORT70BT",
+      "price": 2899,
+      "priceStr": "NT$2,899",
+      "seller": "vasttree_373574",
+      "url": "https://tw.carousell.com/p/1441373687/",
+      "timeAgo": "14 hours ago",
+      "listedAt": null,
+      "category": "音響耳機",
+      "condition": "Brand new",
+      "vsNew": 91,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": 3200,
+        "secondhand": null,
+        "verdict": "uncertain",
+        "note": "賣家為「現貨」店家標題（🍓），新品 NT$3,200，9 折等於店價 = 不算便宜；SF n=0 無二手比價"
+      }
+    },
+    {
+      "pid": "1441350060",
+      "title": "鐵三角 ATH-TWX9 旗艦 真無線降噪耳機",
+      "price": 2580,
+      "priceStr": "NT$2,580",
+      "seller": "kevinrei",
+      "url": "https://tw.carousell.com/p/1441350060/",
+      "timeAgo": "20 hours ago",
+      "listedAt": null,
+      "category": "音響耳機",
+      "condition": "Lightly used",
+      "vsNew": 34,
+      "vsSecondhand": 100,
+      "verified": {
+        "newPrice": 7580,
+        "secondhand": 2580,
+        "verdict": "suspicious-too-cheap",
+        "note": "新品 NT$7,580 (TWX9 MK2)；SF n=1 只有本物；vsNew 34% 過低，旗艦真無線通常二手 50-65%，疑仿/瑕疵/盜品，需驗序號+原盒"
+      }
+    },
+    {
+      "pid": "1441317736",
+      "title": "Philip tah8000 金響大師降噪耳機",
+      "price": 2200,
+      "priceStr": "NT$2,200",
+      "seller": "ponylikestosing",
+      "url": "https://tw.carousell.com/p/1441317736/",
+      "timeAgo": "23 hours ago",
+      "listedAt": null,
+      "category": "音響耳機",
+      "condition": "Like new",
+      "vsNew": 63,
+      "vsSecondhand": 100,
+      "verified": {
+        "newPrice": 3480,
+        "secondhand": 2200,
+        "verdict": "uncertain",
+        "note": "新品 NT$3,480；SF n=2 中位 2,200 但兩筆都是 2,200 同價，可能為本物 + 另一同價物，樣本太薄；vsNew 63% 合理二手位"
+      }
+    },
+    {
+      "pid": "1441505502",
+      "title": "SIGMA Sony E-mount 18-50mm F2.8 DC DN",
+      "price": 11000,
+      "priceStr": "NT$11,000",
+      "seller": "aape__u",
+      "url": "https://tw.carousell.com/p/1441505502/",
+      "timeAgo": "40 minutes ago",
+      "listedAt": null,
+      "category": "相機攝影",
+      "condition": "Like new",
+      "vsNew": 76,
+      "vsSecondhand": 92,
+      "verified": {
+        "newPrice": 14390,
+        "secondhand": 11950,
+        "verdict": "uncertain",
+        "note": "新品 NT$14,090-14,504；SF 此型號真比價 9,900/11,000/13,000，中位 ~11,950（過濾掉 17-50 EX DC 異型號雜訊）；vsSF 92% 屬 uncertain，vsNew 76% 合理二手"
+      }
+    },
+    {
+      "pid": "1441511047",
+      "title": "MacBook Air M1 8G/256G 太空灰+ 加贈全新 Riivan 電腦包",
+      "price": 10500,
+      "priceStr": "NT$10,500",
+      "seller": "tritricc",
+      "url": "https://tw.carousell.com/p/1441511047/",
+      "timeAgo": "15 minutes ago",
+      "listedAt": null,
+      "category": "電腦科技",
+      "condition": "Lightly used",
+      "vsNew": null,
+      "vsSecondhand": 91,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 11500,
+        "verdict": "uncertain",
+        "note": "M1 已停產無新品 BigGo 報價；SF n=48 中位 11,500（5,000-17,900 範圍寬，含 M2 雜訊）；NT$10,500 + 電腦包略低於中位，需確認電池循環/外觀"
       }
     }
   ]
