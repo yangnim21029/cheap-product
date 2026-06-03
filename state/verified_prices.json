@@ -43093,5 +43093,22 @@
     "note": "Acer Swift 1 5000 (subagent 標 uncertain 比我 negotiate 保守)",
     "title": "Acer swift 1",
     "price": 5000
+  },
+  "1441684954": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "HP Thunderbolt G4 Dock 120W - 九成新出清",
+    "price": 3900,
+    "note": ""
+  },
+  "1441682438": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "（便宜賣）INTEL Core i5-10400 LGA1200含顯卡",
+    "price": 3400
   }
 }
