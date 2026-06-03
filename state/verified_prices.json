@@ -42987,5 +42987,114 @@
     "note": "2026 新款球拍 NT$4,500 ≈ 79% 新品零售 (新品 median NT$5,700), 落在 negotiate 區間; 標題沒寫使用狀態/穿線/握把磨損, 若全新未穿線可接受, 已穿線使用過建議再砍到 NT$3,800-4,000; 賣家若是球館/教練清庫存可入手",
     "title": "2026 DUNLOP FX 500 LS（ATP指定用球拍）",
     "price": 4500
+  },
+  "1441672655": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Yamasaki山崎日式隨纖杯果汁機（型號：SK-1160JP）",
+    "price": 1000
+  },
+  "1429637160": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "STAYREAL 2024 成都站 徽章",
+    "price": 1300
+  },
+  "1441672555": {
+    "skip": true,
+    "reason": "ram-gpu-overpriced",
+    "title": "（便宜賣）威剛 XPG DDR4-3200 D50 （RGB） 16GB *2記憶體",
+    "price": 5180
+  },
+  "1441652501": {
+    "newPrice": 8390,
+    "secondhand": 4500,
+    "verdict": "good-deal",
+    "vsNew": 60,
+    "vsSecondhand": 111,
+    "note": "SF n=46 (含 noise), BigGo 推估 (manual fallback)",
+    "title": "APPLE WATCH SE 3",
+    "price": 5000
+  },
+  "1441669939": {
+    "newPrice": 1990,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 101,
+    "vsSecondhand": null,
+    "note": "SF n=0 (含 noise), BigGo 推估 (manual fallback)",
+    "title": "Insta360 復古腰平取景器 紅",
+    "price": 2000
+  },
+  "1441678714": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "iPhone XS Max",
+    "price": 5000,
+    "note": "SF n=47 (含 noise), BigGo 推估 (manual fallback)"
+  },
+  "1441660233": {
+    "newPrice": 14000,
+    "secondhand": 2500,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 39,
+    "vsSecondhand": 220,
+    "note": "SF n=47 (含 noise), BigGo 推估 (manual fallback)",
+    "title": "奧林巴斯40-150鏡頭",
+    "price": 5500
+  },
+  "1441659211": {
+    "newPrice": 8990,
+    "secondhand": 310,
+    "verdict": "negotiate",
+    "vsNew": 82,
+    "vsSecondhand": 2384,
+    "note": "SF n=9 (含 noise), BigGo 推估 (manual fallback)",
+    "title": "寬幅拍立得200",
+    "price": 7390
+  },
+  "1441658239": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Canon QL17",
+    "price": 8000,
+    "note": "SF n=11 (含 noise), BigGo 推估 (manual fallback)"
+  },
+  "1441681010": {
+    "newPrice": 3490,
+    "secondhand": 4500,
+    "verdict": "negotiate",
+    "vsNew": 72,
+    "vsSecondhand": 56,
+    "note": "SF n=15 (含 noise), BigGo 推估 (manual fallback)",
+    "title": "Marshall MG10 10W 電吉他音箱",
+    "price": 2500
+  },
+  "1441681188": {
+    "newPrice": 5500,
+    "secondhand": 17395,
+    "verdict": "good-deal",
+    "vsNew": 63,
+    "vsSecondhand": 20,
+    "note": "SF n=4 (含 noise), BigGo 推估 (manual fallback)",
+    "title": "微星 RTX3050 8GB DDR6",
+    "price": 3480
+  },
+  "1441674418": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "lenovo ideapad s340",
+    "price": 9500,
+    "note": "SF n=5 (含 noise), BigGo 推估 (manual fallback)"
+  },
+  "1441659373": {
+    "newPrice": 17900,
+    "secondhand": 8800,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 28,
+    "vsSecondhand": 57,
+    "note": "SF n=9 (含 noise), BigGo 推估 (manual fallback)",
+    "title": "Acer swift 1",
+    "price": 5000
   }
 }

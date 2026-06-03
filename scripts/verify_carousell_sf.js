@@ -16,7 +16,27 @@ const UA = UA_POOL[Math.floor(Math.random() * UA_POOL.length)];
 
 // Item self-pid -> query plan
 // (primary query first, broader fallback if n<5)
-const PLAN = [
+// CLI mode: node verify_carousell_sf.js <batch.json> [output.json]
+//   batch JSON 每筆需含 pid + queries 陣列；或含 title 自動派生 queries
+const CLI_BATCH = process.argv[2];
+const CLI_OUT = process.argv[3] || '/tmp/carousell_sf_medians.json';
+
+function derivePlan(items) {
+  return items.map(it => {
+    if (Array.isArray(it.queries) && it.queries.length) {
+      return { pid: it.pid, queries: it.queries, title: it.title };
+    }
+    // 自動派生：title 第一段 + title 整段當 broader fallback
+    const t = (it.title || '').trim();
+    const head = t.split(/\s+/).slice(0, 3).join(' ');
+    const qs = [];
+    if (head && head !== t) qs.push(head);
+    qs.push(t);
+    return { pid: it.pid, queries: qs.filter(Boolean), title: t };
+  });
+}
+
+const DEFAULT_PLAN = [
   { pid: '1441656140', queries: ['iPad Pro 11 2020 256', 'iPad Pro 11 2020'] },
   { pid: '1441665542', queries: ['Anker Nano 7合1 100W', 'Anker 充電座 100W'] },
   { pid: '1441657776', queries: ['iPhone 17 Pro Max', 'iPhone 17 Pro Max 256'] },
@@ -24,6 +44,10 @@ const PLAN = [
   { pid: '1441669112', queries: ['費仔 簽名 球員卡', '球員簽名卡'] },
   { pid: '1441666932', queries: ['DUNLOP FX 500 LS', 'DUNLOP FX 500'] },
 ];
+
+const PLAN = CLI_BATCH
+  ? derivePlan(JSON.parse(fs.readFileSync(CLI_BATCH, 'utf8')))
+  : DEFAULT_PLAN;
 
 const SCRAPE_JS = `() => {
   const r = [];
@@ -129,8 +153,8 @@ const ts = () => new Date().toLocaleTimeString('zh-TW', { hour12: false });
     await delay(12000 + Math.random() * 6000);
   }
 
-  fs.writeFileSync('/tmp/carousell_sf_medians.json', JSON.stringify(results, null, 2));
-  console.log(`\n✓ 寫入 /tmp/carousell_sf_medians.json`);
+  fs.writeFileSync(CLI_OUT, JSON.stringify(results, null, 2));
+  console.log(`\n✓ 寫入 ${CLI_OUT}`);
   await browser.close();
   process.exit(0);
 })();
