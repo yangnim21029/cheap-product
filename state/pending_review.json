@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "rosono",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "23 hours ago",
       "title": "超新 Pentax 雙鏡皇 16-50mm f2.8 50-135mm 盒裝 鏡頭套 *星鏡",
       "price": 17000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 16:56",
+      "listedAt": "06/02 16:55",
       "pid": "1441469545",
       "verified": {
         "newPrice": 49320,
@@ -96,7 +96,7 @@
     },
     {
       "seller": "shamangels91995",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
       "price": 8800,
       "condition": "Lightly used",
@@ -106,7 +106,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 05:56",
+      "listedAt": "06/03 05:55",
       "pid": "1380756437",
       "verified": {
         "newPrice": 22999,
@@ -133,7 +133,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 14:56",
+      "listedAt": "06/02 15:55",
       "pid": "1438341441",
       "verified": {
         "newPrice": 6580,
@@ -236,35 +236,35 @@
       }
     },
     {
-      "seller": "yamatodo.iida",
-      "timeAgo": "3 hours ago",
-      "title": "限自取【MC401X NEC 4000流明投影機 1024x768解析】26062005",
-      "price": 3500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1441610030/",
-      "category": "投影機",
-      "maxDays": 5,
-      "priceStr": "NT$3,500",
+      "seller": "tpxu23",
+      "timeAgo": "46 minutes ago",
+      "title": "Asus vivobook 14",
+      "price": 3180,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441648353/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,180",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 11:56",
-      "pid": "1441610030",
+      "listedAt": "06/03 15:09",
+      "pid": "1441648353",
       "verified": {
-        "newPrice": 18000,
-        "secondhand": 4500,
-        "verdict": "negotiate",
-        "vsNew": 19,
-        "vsSecondhand": 78,
-        "note": "BigGo 新品 18000+ (清庫存), 二手市場 3980-5500 中位 ~4500. vsSF 78% 落 negotiate 帶, 1024x768 已過時+燈泡耗材 3180-5100, 限自取 ok 但留意燈泡時數",
-        "title": "限自取【MC401X NEC 4000流明投影機 1024x768解析】26062005",
-        "price": 3500
+        "newPrice": null,
+        "secondhand": 8500,
+        "verdict": "uncertain",
+        "vsNew": null,
+        "vsSecondhand": 37,
+        "note": "規格缺 (CPU/RAM/SSD/狀態) 但 vsNew=15.9% 偏低, 落 uncertain",
+        "title": "Asus vivobook 14",
+        "price": 3180
       },
-      "vsNew": 19,
-      "vsSecondhand": 78
+      "vsNew": null,
+      "vsSecondhand": 37
     },
     {
       "seller": "qwt49970608",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "Msi claw u7-1tb電競掌機，無傷盒裝。",
       "price": 11000,
       "condition": "Like new",
@@ -274,7 +274,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 00:56",
+      "listedAt": "06/03 00:55",
       "pid": "1441553059",
       "verified": {
         "newPrice": 20890,
@@ -317,8 +317,35 @@
       "vsSecondhand": 51
     },
     {
+      "seller": "yamatodo.iida",
+      "timeAgo": "4 hours ago",
+      "title": "限自取【MC401X NEC 4000流明投影機 1024x768解析】26062005",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441610030/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 11:55",
+      "pid": "1441610030",
+      "verified": {
+        "newPrice": 18000,
+        "secondhand": 4500,
+        "verdict": "negotiate",
+        "vsNew": 19,
+        "vsSecondhand": 78,
+        "note": "BigGo 新品 18000+ (清庫存), 二手市場 3980-5500 中位 ~4500. vsSF 78% 落 negotiate 帶, 1024x768 已過時+燈泡耗材 3180-5100, 限自取 ok 但留意燈泡時數",
+        "title": "限自取【MC401X NEC 4000流明投影機 1024x768解析】26062005",
+        "price": 3500
+      },
+      "vsNew": 19,
+      "vsSecondhand": 78
+    },
+    {
       "seller": "liyu7123",
-      "timeAgo": "3 hours ago",
+      "timeAgo": "4 hours ago",
       "title": "EPSON LQ-2190C 點陣印表機(附色帶)",
       "price": 3000,
       "condition": "Lightly used",
@@ -328,7 +355,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 11:56",
+      "listedAt": "06/03 11:55",
       "pid": "1441609604",
       "verified": {
         "newPrice": 19000,
@@ -342,26 +369,6 @@
       },
       "vsNew": 16,
       "vsSecondhand": 91
-    },
-    {
-      "pid": "1441639995",
-      "title": "限自取【Acer Aspire ES1-433G-55GB 筆電】26062012",
-      "price": 3000,
-      "priceStr": "NT$3,000",
-      "seller": "yamatodo.iida",
-      "url": "https://tw.carousell.com/p/1441639995/",
-      "timeAgo": "29 minutes ago",
-      "listedAt": "06/03 14:27",
-      "category": "電腦科技",
-      "condition": "Lightly used",
-      "vsNew": null,
-      "vsSecondhand": null,
-      "verified": {
-        "newPrice": null,
-        "secondhand": null,
-        "verdict": "good-deal",
-        "note": "vsSF 63% 落 50-70% good-deal; ES1-433G 2017 機型 (i5-7200U + 940MX 獨顯) 屬 8 年老機, 3000 對應其殘值合理; 風險: 電池/SSD 健康度/系統授權; 適合文書/追劇用途, 不適合 2026 主力機; 自取無物流風險"
-      }
     },
     {
       "pid": "1441504487",
@@ -425,7 +432,7 @@
     },
     {
       "seller": "o__________o__________o",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
       "price": 2000,
       "condition": "Like new",
@@ -435,7 +442,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 21:56",
+      "listedAt": "06/02 21:55",
       "pid": "1441528800",
       "verified": {
         "newPrice": 5138,
@@ -479,7 +486,7 @@
     },
     {
       "seller": "boldrabbit-94b0",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "AirPods4代降噪版在保有購證",
       "price": 2500,
       "condition": "Like new",
@@ -489,7 +496,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 08:56",
+      "listedAt": "06/03 08:55",
       "pid": "1441591429",
       "verified": {
         "newPrice": 5590,
@@ -506,7 +513,7 @@
     },
     {
       "seller": "mightyturtle_05e690",
-      "timeAgo": "6 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "AirPods4代降噪版在保",
       "price": 2600,
       "condition": "Like new",
@@ -516,7 +523,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 08:56",
+      "listedAt": "06/03 08:55",
       "pid": "1441590498",
       "verified": {
         "newPrice": 5590,
@@ -532,8 +539,28 @@
       "vsSecondhand": 65
     },
     {
+      "pid": "1435073024",
+      "title": "價格可議！SONY WH-CH720N 無線降噪 藍牙耳機",
+      "price": 2000,
+      "priceStr": "NT$2,000",
+      "seller": "diguaqiu",
+      "url": "https://tw.carousell.com/p/1435073024/",
+      "timeAgo": "19 minutes ago",
+      "listedAt": "06/03 15:36",
+      "category": "音響耳機",
+      "condition": "Like new",
+      "vsNew": null,
+      "vsSecondhand": 91,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 2200,
+        "verdict": "good-deal",
+        "note": "vsNew=57.1% 落 50-70% → good-deal"
+      }
+    },
+    {
       "seller": "melody0620",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "AirPods Pro2 （USB-C）",
       "price": 2200,
       "condition": "Like new",
@@ -543,7 +570,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:56",
+      "listedAt": "06/03 09:55",
       "pid": "1441594840",
       "verified": {
         "newPrice": 6590,
@@ -631,12 +658,93 @@
       },
       "vsNew": 41,
       "vsSecondhand": 49
+    },
+    {
+      "seller": "gentlecloud_03d30a",
+      "timeAgo": "2 hours ago",
+      "title": "推薦【FIRST DOWN】美式復古難燃連帽工裝夾克 / 露營焚火夾克（美版M號/黑色）",
+      "price": 2000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441634865/",
+      "category": "露營",
+      "maxDays": 7,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 13:55",
+      "pid": "1441634865",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 3500,
+        "verdict": "good-deal",
+        "vsNew": null,
+        "vsSecondhand": 57,
+        "note": "vsSF=57.1% 落 50-70% → good-deal",
+        "title": "推薦【FIRST DOWN】美式復古難燃連帽工裝夾克 / 露營焚火夾克（美版M號/黑色）",
+        "price": 2000
+      },
+      "vsNew": null,
+      "vsSecondhand": 57
+    },
+    {
+      "seller": "epicforest.73cda8",
+      "timeAgo": "31 minutes ago",
+      "title": "YAMAHA 山葉電鋼琴 Clavinova 系列 可接耳機 很新",
+      "price": 4000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441651125/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 15:24",
+      "pid": "1441651125",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 43500,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": null,
+        "vsSecondhand": 9,
+        "note": "樂器/高保值 (YAMAHA Clavinova 電鋼琴) 但 vsSF=9.2% 極低 → 疑問品 (型號不明/壞/低階款混淆)",
+        "title": "YAMAHA 山葉電鋼琴 Clavinova 系列 可接耳機 很新",
+        "price": 4000
+      },
+      "vsNew": null,
+      "vsSecondhand": 9
+    },
+    {
+      "seller": "liyu2018",
+      "timeAgo": "12 minutes ago",
+      "title": "Rosen 36 吋 旅行吉他 出清 travel guitar",
+      "price": 2500,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1441654591/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 15:43",
+      "pid": "1441654591",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 4000,
+        "verdict": "uncertain",
+        "vsNew": null,
+        "vsSecondhand": 62,
+        "note": "樂器/高保值 (36吋 旅行吉他) 落合理區間 → uncertain",
+        "title": "Rosen 36 吋 旅行吉他 出清 travel guitar",
+        "price": 2500
+      },
+      "vsNew": null,
+      "vsSecondhand": 63
     }
   ],
   "negotiate": [
     {
       "seller": "azer.0920",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "Sony ZVE10",
       "price": 10000,
       "condition": "Lightly used",
@@ -646,7 +754,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:56",
+      "listedAt": "06/02 23:55",
       "pid": "1441548459",
       "verified": {
         "newPrice": 18500,
@@ -727,7 +835,7 @@
       "priceStr": "NT$25,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 14:56",
+      "listedAt": "06/02 15:55",
       "pid": "1441384631",
       "verified": {
         "newPrice": 43911,
@@ -744,7 +852,7 @@
     },
     {
       "seller": "horngnet",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Sigma EF 50-100mm F1.8 Canon EF接口",
       "price": 22000,
       "condition": "Lightly used",
@@ -754,7 +862,7 @@
       "priceStr": "NT$22,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:56",
+      "listedAt": "06/02 22:55",
       "pid": "1441540812",
       "verified": {
         "newPrice": 33500,
@@ -871,7 +979,7 @@
     },
     {
       "seller": "gawas100002",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "6 hours ago",
       "title": "JBLcharge6也是公司抽到的🥹 用不到賣給有需要的人",
       "price": 4000,
       "condition": "Brand new",
@@ -881,7 +989,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:56",
+      "listedAt": "06/03 09:55",
       "pid": "1441594508",
       "verified": {
         "newPrice": 6387,
@@ -918,7 +1026,7 @@
     },
     {
       "seller": "mystic5201314",
-      "timeAgo": "17 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "正版AirPods pro3蘋果降噪耳機全新",
       "price": 4500,
       "condition": "Brand new",
@@ -928,7 +1036,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 21:56",
+      "listedAt": "06/02 21:55",
       "pid": "1441528900",
       "verified": {
         "newPrice": 6600,
@@ -985,7 +1093,7 @@
     },
     {
       "seller": "ssss00925",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "22 hours ago",
       "title": "Apple iPad 8 128GB Wi-Fi｜功能正常｜高雄前鎮",
       "price": 5000,
       "condition": "Like new",
@@ -995,7 +1103,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:50",
+      "listedAt": "06/02 17:55",
       "pid": "1441483203",
       "verified": {
         "newPrice": 7930,
@@ -1009,6 +1117,26 @@
       },
       "vsNew": 63,
       "vsSecondhand": 77
+    },
+    {
+      "pid": "1441637174",
+      "title": "台灣公司貨 太空灰 全新 ipad air m4 128GB WIFI",
+      "price": 18000,
+      "priceStr": "NT$18,000",
+      "seller": "yummy727",
+      "url": "https://tw.carousell.com/p/1441637174/",
+      "timeAgo": "2 hours ago",
+      "listedAt": "06/03 13:55",
+      "category": "iPad",
+      "condition": "Brand new",
+      "vsNew": null,
+      "vsSecondhand": 106,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 17000,
+        "verdict": "negotiate",
+        "note": "全新品 vsNew=92.8% 70-95% → negotiate"
+      }
     },
     {
       "seller": "lildooogy",
@@ -1093,7 +1221,7 @@
     },
     {
       "seller": "sunny3c",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "***ACER***I7-10700/D4-16G/M2_512G/可加價購GTX-1050/1050TI",
       "price": 12500,
       "condition": "Lightly used",
@@ -1103,7 +1231,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:56",
+      "listedAt": "06/02 23:55",
       "pid": "1441545667",
       "verified": {
         "newPrice": 22000,
@@ -1120,7 +1248,7 @@
     },
     {
       "seller": "azer.0920",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "MacBook Pro _logo會發光的最後一代",
       "price": 5000,
       "condition": "Lightly used",
@@ -1130,7 +1258,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:56",
+      "listedAt": "06/02 23:55",
       "pid": "1441548768",
       "verified": {
         "newPrice": 7450,
@@ -1147,7 +1275,7 @@
     },
     {
       "seller": "yoshida1221",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "ROG Falchion RX Low Profile 65 二手鍵盤 出售",
       "price": 3500,
       "condition": "Lightly used",
@@ -1157,7 +1285,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:56",
+      "listedAt": "06/02 22:55",
       "pid": "1441537867",
       "verified": {
         "newPrice": 4990,
@@ -1318,12 +1446,39 @@
         "verdict": "negotiate",
         "note": "二手店 (傻瓜通訊) 牌價低於通路同級福利機與 Carousell 個人賣家中位, 落 70-85% 區間。建議當面看電池健康度 (應 ≥80%)、有無更換零件、保固天數; 議到 NT$3,200 更穩。"
       }
+    },
+    {
+      "seller": "ok_nana01",
+      "timeAgo": "28 minutes ago",
+      "title": "拍立得instax mini 40",
+      "price": 3400,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441647366/",
+      "category": "拍立得",
+      "maxDays": 5,
+      "priceStr": "NT$3,400",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 15:27",
+      "pid": "1441647366",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 3800,
+        "verdict": "uncertain",
+        "vsNew": null,
+        "vsSecondhand": 89,
+        "note": "vsSF=89.5% 落 85-100% → uncertain (沒比同行便宜多少)",
+        "title": "拍立得instax mini 40",
+        "price": 3400
+      },
+      "vsNew": null,
+      "vsSecondhand": 89
     }
   ],
   "uncertain": [
     {
       "seller": "horngnet",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Metabones EF-M43 Speed Booster XL 0.64x EF 轉 M43轉接環",
       "price": 10000,
       "condition": "Lightly used",
@@ -1333,7 +1488,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:56",
+      "listedAt": "06/02 22:55",
       "pid": "1441540392",
       "verified": {
         "newPrice": 24000,
@@ -1740,7 +1895,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:56",
+      "listedAt": "06/03 10:55",
       "pid": "1441597782",
       "verified": {
         "newPrice": 11799,
@@ -1896,6 +2051,26 @@
       }
     },
     {
+      "pid": "1441642599",
+      "title": "SWITCH 遊戲機合售 除了 PSP 系列是二手",
+      "price": 17888,
+      "priceStr": "NT$17,888",
+      "seller": "youth1998793574",
+      "url": "https://tw.carousell.com/p/1441642599/",
+      "timeAgo": "1 hour ago",
+      "listedAt": "06/03 14:55",
+      "category": "電玩主機",
+      "condition": "Brand new",
+      "vsNew": null,
+      "vsSecondhand": 365,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 4900,
+        "verdict": "uncertain",
+        "note": "Bundle 合售: SF/new 錨點無法 itemize 拆算 → uncertain | Switch + PSP系列 合售 bundle, SF 樣本(中位 NT$4.9K)被 accessory 污染無法用; 改以 Switch 2 NT$14.5K 為主, NT$17,888 含 PSP系列(品項未明)"
+      }
+    },
+    {
       "pid": "1441534609",
       "title": "iphone xs 64G 黑色 100%",
       "price": 3500,
@@ -2017,7 +2192,7 @@
     },
     {
       "seller": "goodguitargang",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "13 hours ago",
       "title": "Taylor 416ce",
       "price": 48000,
       "condition": "Lightly used",
@@ -2027,7 +2202,7 @@
       "priceStr": "NT$48,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 02:56",
+      "listedAt": "06/03 02:55",
       "pid": "1441566764",
       "verified": {
         "newPrice": 89000,
@@ -2140,6 +2315,26 @@
         "secondhand": 2050,
         "verdict": "uncertain",
         "note": "BigGo ROG Falchion Ace NX 紅軸新品 NT$2,990 (良興 Rakuten); 二手帶 NT$1,700-2,400 中位 ~2,050。vsNew 67% 看似划算但 vs 二手 median 幾乎平盤;個人賣家可議價到 1,700-1,800。Carousell search 被 403 擋,SF 樣本來自 BigGo 聚合,信心中等。"
+      }
+    },
+    {
+      "pid": "1441638413",
+      "title": "Apple 2025 iPad 11 A16/11吋/WiFi/128G /藍色",
+      "price": 9500,
+      "priceStr": "NT$9,500",
+      "seller": "brightmountain.1be339",
+      "url": "https://tw.carousell.com/p/1441638413/",
+      "timeAgo": "1 hour ago",
+      "listedAt": "06/03 14:55",
+      "category": "",
+      "condition": "Brand new",
+      "vsNew": null,
+      "vsSecondhand": 104,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 9150,
+        "verdict": "uncertain",
+        "note": "vsSF=103.8% 略高於 SF median, 但在 SF 高分位區間內 → uncertain"
       }
     },
     {

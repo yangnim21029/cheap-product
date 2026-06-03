@@ -42781,5 +42781,133 @@
     "title": "全新 Apple Watch SE2 40mm GPS 午夜色",
     "price": 6800,
     "note": "vsSF 174%: 6800 高於 SF SE2 全新同款 5500-6000; vsNew 99%: 幾乎等同 Apple 全新公司貨價格 (6890), 二手平台買全新無折扣不合理; 真實合理區間 5500-6200; 還價目標 5800 或直接去 momo 買 6490 享保固"
+  },
+  "1441652101": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "ITFIT 空氣清淨機",
+    "price": 600
+  },
+  "1441655531": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "miniteen站娃 率",
+    "price": 1200
+  },
+  "1441655200": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "miniteen站娃 勳",
+    "price": 1200
+  },
+  "1441647366": {
+    "newPrice": null,
+    "secondhand": 3800,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 89,
+    "note": "vsSF=89.5% 落 85-100% → uncertain (沒比同行便宜多少)",
+    "title": "拍立得instax mini 40",
+    "price": 3400
+  },
+  "1441634865": {
+    "newPrice": null,
+    "secondhand": 3500,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": 57,
+    "note": "vsSF=57.1% 落 50-70% → good-deal",
+    "title": "推薦【FIRST DOWN】美式復古難燃連帽工裝夾克 / 露營焚火夾克（美版M號/黑色）",
+    "price": 2000
+  },
+  "1441638413": {
+    "newPrice": null,
+    "secondhand": 9150,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 104,
+    "note": "vsSF=103.8% 略高於 SF median, 但在 SF 高分位區間內 → uncertain",
+    "title": "Apple 2025 iPad 11 A16/11吋/WiFi/128G /藍色",
+    "price": 9500
+  },
+  "1441637174": {
+    "newPrice": null,
+    "secondhand": 17000,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": 106,
+    "note": "全新品 vsNew=92.8% 70-95% → negotiate",
+    "title": "台灣公司貨 太空灰 全新 ipad air m4 128GB WIFI",
+    "price": 18000
+  },
+  "1435073024": {
+    "newPrice": null,
+    "secondhand": 2200,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": 91,
+    "note": "vsNew=57.1% 落 50-70% → good-deal",
+    "title": "價格可議！SONY WH-CH720N 無線降噪 藍牙耳機",
+    "price": 2000
+  },
+  "1441650087": {
+    "newPrice": null,
+    "secondhand": 3000,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": 117,
+    "note": "vsNew=81.6% 落 70-85% → negotiate",
+    "title": "RAZER 雷蛇 Barracuda PRO 梭魚 無線藍芽耳機 電競耳機",
+    "price": 3500
+  },
+  "1441645956": {
+    "newPrice": null,
+    "secondhand": 16000,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 112,
+    "note": "樂器/高保值 (XF10 APS-C 復古機保值) 落合理區間 → uncertain",
+    "title": "富士 FUJIFILM XF10",
+    "price": 18000
+  },
+  "1441654591": {
+    "newPrice": null,
+    "secondhand": 4000,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 62,
+    "note": "樂器/高保值 (36吋 旅行吉他) 落合理區間 → uncertain",
+    "title": "Rosen 36 吋 旅行吉他 出清 travel guitar",
+    "price": 2500
+  },
+  "1441651125": {
+    "newPrice": null,
+    "secondhand": 43500,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": null,
+    "vsSecondhand": 9,
+    "note": "樂器/高保值 (YAMAHA Clavinova 電鋼琴) 但 vsSF=9.2% 極低 → 疑問品 (型號不明/壞/低階款混淆)",
+    "title": "YAMAHA 山葉電鋼琴 Clavinova 系列 可接耳機 很新",
+    "price": 4000
+  },
+  "1441642599": {
+    "newPrice": null,
+    "secondhand": 4900,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 365,
+    "note": "Bundle 合售: SF/new 錨點無法 itemize 拆算 → uncertain | Switch + PSP系列 合售 bundle, SF 樣本(中位 NT$4.9K)被 accessory 污染無法用; 改以 Switch 2 NT$14.5K 為主, NT$17,888 含 PSP系列(品項未明)",
+    "title": "SWITCH 遊戲機合售 除了 PSP 系列是二手",
+    "price": 17888
+  },
+  "1441648353": {
+    "newPrice": null,
+    "secondhand": 8500,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 37,
+    "note": "規格缺 (CPU/RAM/SSD/狀態) 但 vsNew=15.9% 偏低, 落 uncertain",
+    "title": "Asus vivobook 14",
+    "price": 3180
   }
 }
