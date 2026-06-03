@@ -42433,5 +42433,128 @@
     "note": "新品 5,500 砍到 2,500 = 折 45%，遠低市場零售；同賣家同時間掛兩條不同款升級線屬可疑訊號；C106 為 Final 京線系列 4N OFC 高純度銅，仿品/拆零售包/接頭非原廠風險高，要求驗線材印刷+接頭+原盒序號",
     "title": "Final c106 京線 mmcx 3.5mm",
     "price": 2500
+  },
+  "1441611295": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Vintage純銀花朵立體纏繞工藝戒指 古著",
+    "price": 1180
+  },
+  "1441605431": {
+    "skip": true,
+    "reason": "ram-gpu-overpriced",
+    "title": "十銓 T-Force DDR5-6000記憶體",
+    "price": 5000
+  },
+  "1441605066": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "蘋果滑鼠🖱️",
+    "price": 1200
+  },
+  "1441602617": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "人體工學扶手網椅電競椅",
+    "price": 2000,
+    "note": "BigGo 完整網椅起跳 ~1042 (多為配件), SF median 1500. vsSF 133% 超過行情, 中階人體工學椅二手約 1000-1800 帶, 2000 偏貴"
+  },
+  "1441603369": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Age-R Booster Pro 美容儀/粉色",
+    "price": 6000,
+    "note": "Coupang 新品 4799 / 屈臣氏 5099 / 誠品 5299, SF n=89 median 5500. vsNew 125% / vsSF 109% 都高於行情, 二手反而貴過新品"
+  },
+  "1441542090": {
+    "newPrice": 4850,
+    "secondhand": 3650,
+    "verdict": "uncertain",
+    "vsNew": 74,
+    "vsSecondhand": 99,
+    "note": "Yahoo 新品 4850 / momo 4999, SF n=6 median 3650 (含本品). vsNew 74% 落 negotiate 帶, vsSF 99% 持平市場, 「幾乎全新」殺到 3300 才漂亮",
+    "title": "小米吸塵器 Xiaomi無線洗地機 W20 幾乎全新 出售",
+    "price": 3600
+  },
+  "1441607723": {
+    "newPrice": 6835,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": 66,
+    "vsSecondhand": null,
+    "note": "PChome 新品 6835 / Yahoo 6900, SF 樣本不足 (含本品 n=2). vsNew 66% 落 good-deal 帶 (50-70%), FiiO JM21 為 2024 新機保值高, 4500 合理",
+    "title": "fiio jm21",
+    "price": 4500
+  },
+  "1441607120": {
+    "newPrice": 4490,
+    "secondhand": 2800,
+    "verdict": "uncertain",
+    "vsNew": 56,
+    "vsSecondhand": 89,
+    "note": "BigGo 新品 4490 (Letshuoer DX1 11mm 鑽石型動圈), SF 另筆 2800. vsNew 56% 像 good-deal 但 vsSF 89% 落 uncertain, IEM 二手保值差以 SF 為準",
+    "title": "鑠耳 DX1 耳機",
+    "price": 2500
+  },
+  "1441605438": {
+    "skip": true,
+    "reason": "insufficient-data",
+    "title": "BFD decade 耳機",
+    "price": 4000,
+    "note": "BigGo 無 BFD decade 結果, SF 只 2 筆均 4000 (含本品). 品牌型號不夠明確 (BFD 非常見耳機品牌), 無法定錨"
+  },
+  "1441613191": {
+    "newPrice": null,
+    "secondhand": 6000,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 93,
+    "note": "停產底片機新品無報價, SF Bessa L 單機身 ~6000. 本品 bundle 含 28mm 餅乾鏡+取景器 (鏡+finder 通常另加 6-10K), 整組 5600 屬合理偏低, 相機保值類落合理區間 → uncertain",
+    "title": "[售] Voigtlander Bessar L + 28mm餅乾鏡 + 取景器",
+    "price": 5600
+  },
+  "1441610453": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Nikon D90初學，像機",
+    "price": 7500,
+    "note": "D90 已停產 (新品無報價), SF n=46 median 5500 (低段 3000-5000 body, 高段 6000-8500 含鏡). 標題未指明 body/kit/鏡頭, 7500 vsSF 136% 偏高"
+  },
+  "1441608713": {
+    "newPrice": 23500,
+    "secondhand": 13500,
+    "verdict": "uncertain",
+    "vsNew": 51,
+    "vsSecondhand": 89,
+    "note": "G1X 一代停產, NOVA 殘存新品 23500, SF n=13 median 13500. vsSF 89% 落 uncertain, 「九成新」屬實算合理, 殺到 11000 (vsSF 81%) 更穩",
+    "title": "旗艦類單眼 Canon PowerShot G1 X 原廠 相機（極少用！整體九成新）",
+    "price": 12000
+  },
+  "1441610030": {
+    "newPrice": 18000,
+    "secondhand": 4500,
+    "verdict": "negotiate",
+    "vsNew": 19,
+    "vsSecondhand": 78,
+    "note": "BigGo 新品 18000+ (清庫存), 二手市場 3980-5500 中位 ~4500. vsSF 78% 落 negotiate 帶, 1024x768 已過時+燈泡耗材 3180-5100, 限自取 ok 但留意燈泡時數",
+    "title": "限自取【MC401X NEC 4000流明投影機 1024x768解析】26062005",
+    "price": 3500
+  },
+  "1441609604": {
+    "newPrice": 19000,
+    "secondhand": 3300,
+    "verdict": "uncertain",
+    "vsNew": 16,
+    "vsSecondhand": 91,
+    "note": "新品 19000 (商用點陣機), SF n=18 median 3300 (1650-11000 跨距大). vsSF 91% 落 uncertain, 附色帶加分但點陣機需求小, 殺到 2500 才漂亮",
+    "title": "EPSON LQ-2190C 點陣印表機(附色帶)",
+    "price": 3000
+  },
+  "1424171617": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Apple Watch SE 第二代（GPS 版本）",
+    "price": 5300,
+    "note": "灰市/水貨新品 3800-3990 (Mobile01/Yahoo), SF n=78 median 3500 (常見 2800-4000). vsSF 151% 嚴重高於行情, 未標 40/44mm/容量/電池健康度也直接 overpriced"
   }
 }
