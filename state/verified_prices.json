@@ -43157,5 +43157,77 @@
     "title": "小米Redmi Watch 5 Lite 金色",
     "price": 2000,
     "note": ""
+  },
+  "1441693395": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "便宜賣 BRAUN德國百靈1750c.c.果汁機 二手出清",
+    "price": 600
+  },
+  "1441705157": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "蓓昂斯 皇家蜂王乳香氛體乳 有2瓶",
+    "price": 540
+  },
+  "1441702881": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "庫洛魔法使 全新 iCash 2.0 共4張",
+    "price": 1180
+  },
+  "1441699875": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "售 美少女戰士iCash2.0迷你果凍包",
+    "price": 1995
+  },
+  "1441708144": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "日本進口 YAMAHA 口風琴 P-37D 37鍵 學校指定用款",
+    "price": 890
+  },
+  "1441702527": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Galuxy 入門民謠吉他。限面交",
+    "price": 1100
+  },
+  "1441699484": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "吉他護板#Birdland 品牌推出的玳瑁紋路壓克力民謠吉他護板。這種護板通常比 PVC 材質具有更高的光澤度",
+    "price": 580
+  },
+  "1441707424": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "Insta360 kitty聯名款",
+    "price": 17910
+  },
+  "1441703651": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "佳能 Canon PowerShot G12 CCD機皇 小紅書爆款 冷白皮王者 fujifilm 富士 可參考",
+    "price": 20000
+  },
+  "1441699199": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "Logitech G502 X plus RGB",
+    "price": 3000
   }
 }
