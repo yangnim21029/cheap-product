@@ -42696,5 +42696,90 @@
     "note": "SF 同款顯卡單品樣本不足 (n=1, 多為含 1650 的整機/筆電 bundle). 對 BigGo 新品 NT$3500 = 99%. 接近新品價, 折扣空間有限.",
     "title": "ZOTAC GAMING GeForce GTX 1650 GDDR6 顯卡 顯示卡 6-pin",
     "price": 3450
+  },
+  "1441628510": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Harman Kardon Soundsticks 4 媒體水母喇叭-黑色",
+    "price": 9000,
+    "note": "9000 略高於 SF 中位 8500 (vsSF 106%); SF Like new 同款落在 6500-9000, 此件無折扣優勢; vsNew 75% 屬 SoundSticks 4 二手常見區間, 還價空間有限"
+  },
+  "1441628351": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "vsSF 52% (3000 vs SF 同款 5800); 256GB iPhone 11 Pro 夜幕綠 SF 區間 5500-6500, 3000 偏離過大; 容量已標但無電池健康度/外觀說明, 風險: 電池<80% / 螢幕燒印 / 改機 / 帳號鎖; 賣家 vastcloud.b03e52 為亂碼帳號要查 profile",
+    "title": "iPhone 11 Pro 256GB 夜幕綠",
+    "price": 3000
+  },
+  "1441643806": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "BOSE QUIETCOMFORT EARBUDS 2 9.99成新",
+    "price": 5000,
+    "note": "vsSF 130%: 5000 高於 EB2 嚴格同款中位 3850; SF EB2 Like new 多在 3000-4000, 此件 5000 偏高; vsNew 67% 表面合理但 SF 同款更便宜; 還價目標 3500-4000"
+  },
+  "1441636419": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "vsSF 91% / vsNew 65% 落 85-100% uncertain 區; ZV-E10 為固定 E-mount 無卡口疑慮但 title 沒寫快門數/保固/原盒, 屬 insufficient-info; 需問賣家快門次數 (<5000 偏佳, >20000 砍價) 跟有無原廠盒裝",
+    "title": "【售】 Sony ZVE10 二手黑色機身 適合新手",
+    "price": 12000
+  },
+  "1441627178": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "SF 嚴格同款只有 Heavily used 4800-4900, 此件 Like new 5980 條件加成合理; vsNew 68% 為合理 used-good 區間; Nikon 1.4D 已停產, F-mount 鏡頭存量稀少; 條件好就直接收",
+    "title": "同事託售 優質美鏡 Nikon AF 50mm f1.4D",
+    "price": 5980
+  },
+  "1441639825": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "德國製大提琴",
+    "price": 250000,
+    "note": "樂器高保值類: 250k 落 BigGo 高階德國手工區間 (168k-338k) 但 title 完全沒寫製琴師/年份/證書/尺寸, 無從判斷是高階真品還是名不符實; 不能單靠價格判斷; 必須要求賣家提供 maker label, 製作年份, 鑑定書, 試奏錄音才能評估; 若只是無名匠 250k 偏貴, 若是名家 250k 可能還便宜"
+  },
+  "1441640184": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "Bundle 類 vsSF 優先: 80% 落 70-85% negotiate 區; 含 XXIO 球包 (本身約 3-5k) + 球桿組合, 性價比 OK 但 title 沒列球桿牌子/支數/狀況 = 風險; 還價目標 3000-3500, 加問桿頭/桿身材質/桿數",
+    "title": "限自取【高爾夫球杆組+XXIO球包 】26058002",
+    "price": 4000
+  },
+  "1441640582": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Beats studio wireless 無線降噪耳罩式耳機",
+    "price": 3999,
+    "note": "vsSF 143%: 3999 高於 SF Lightly used 中位 2800; SF 同條件區間 2500-3000, 此件偏高 1000; vsNew 34% 看似漂亮但因新品已停產+稀少, 真實 anchor 應對 SF used 中位; 還價目標 2800-3200"
+  },
+  "1441639995": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "vsSF 63% 落 50-70% good-deal; ES1-433G 2017 機型 (i5-7200U + 940MX 獨顯) 屬 8 年老機, 3000 對應其殘值合理; 風險: 電池/SSD 健康度/系統授權; 適合文書/追劇用途, 不適合 2026 主力機; 自取無物流風險",
+    "title": "限自取【Acer Aspire ES1-433G-55GB 筆電】26062012",
+    "price": 3000
+  },
+  "1441644287": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "全新 Apple Watch SE2 40mm GPS 午夜色",
+    "price": 6800,
+    "note": "vsSF 174%: 6800 高於 SF SE2 全新同款 5500-6000; vsNew 99%: 幾乎等同 Apple 全新公司貨價格 (6890), 二手平台買全新無折扣不合理; 真實合理區間 5500-6200; 還價目標 5800 或直接去 momo 買 6490 享保固"
   }
 }
