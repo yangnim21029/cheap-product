@@ -42118,5 +42118,37 @@
     "title": "Suunto Vertical 2 戶外探險旗艦運動手錶",
     "price": 15000,
     "note": "二手 NT$15,000 已達不鏽鋼版新品最低 NT$16,290 的 92%, 高於合理二手 ~NT$11,400 (70% of new); 若實際為鈦金屬版 (新 NT$21,041 起) 則 vsNew 71% 落 negotiate 區間, 但賣家未標示版本。促銷/折扣空間有限, 直接買新比較保險"
+  },
+  "1441584166": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "長輩 70年的收藏錢幣五角",
+    "price": 1000
+  },
+  "1441584218": {
+    "skip": true,
+    "reason": "ram-gpu-overpriced",
+    "title": "R7-8700F + 16G DDR5 + ASUS B650M",
+    "price": 12200
+  },
+  "1441583714": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "vsSF 82% 落在 negotiate 區間。R5 4500 (Zen2 Renoir, 2022) 不一定原生支援 B350M (Zen1 晶片組), 需 BIOS 更新且部分板子無法跑, 賣家未說明 BIOS 已更新或實測通過, 估價要扣風險溢價。建議出 NT$2,600-2,800 並要求確認 BIOS 版本+開機測試。",
+    "title": "R5-4500 + ASUS B350M",
+    "price": 3200
+  },
+  "1441583394": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "vsSF 94% 幾乎貼齊市場二手板U均價 (BigGo 直接比對 R5 3600 + B350M Mortar NT$3,400), 議價空間有限。同賣家 kuanhsiang69702 連發兩件 26-31 分鐘內上架, 像清庫存, 可一次談兩件包圓砍到 NT$2,800/件。否則無明顯 deal, 跳過也合理。",
+    "title": "R5-3600 + MSI B350M",
+    "price": 3200
   }
 }
