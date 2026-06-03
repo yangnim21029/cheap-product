@@ -12,7 +12,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:51",
+      "listedAt": "06/02 17:53",
       "pid": "1441469545",
       "verified": {
         "newPrice": 49320,
@@ -126,7 +126,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 05:51",
+      "listedAt": "06/03 05:53",
       "pid": "1380756437",
       "verified": {
         "newPrice": 22999,
@@ -153,7 +153,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:51",
+      "listedAt": "06/02 17:53",
       "pid": "1438341441",
       "verified": {
         "newPrice": 6580,
@@ -256,33 +256,6 @@
       }
     },
     {
-      "seller": "ath_149305",
-      "timeAgo": "2 minutes ago",
-      "title": "微星 RTX3050 8GB DDR6",
-      "price": 3480,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1441681188/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$3,480",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/03 17:49",
-      "pid": "1441681188",
-      "verified": {
-        "newPrice": 5500,
-        "secondhand": 17395,
-        "verdict": "good-deal",
-        "vsNew": 63,
-        "vsSecondhand": 20,
-        "note": "SF n=4 (含 noise), BigGo 推估 (manual fallback)",
-        "title": "微星 RTX3050 8GB DDR6",
-        "price": 3480
-      },
-      "vsNew": 63,
-      "vsSecondhand": 20
-    },
-    {
       "seller": "tpxu23",
       "timeAgo": "46 minutes ago",
       "title": "Asus vivobook 14",
@@ -321,7 +294,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 00:51",
+      "listedAt": "06/03 00:53",
       "pid": "1441553059",
       "verified": {
         "newPrice": 20890,
@@ -362,33 +335,6 @@
       },
       "vsNew": 39,
       "vsSecondhand": 51
-    },
-    {
-      "seller": "ouo66dd",
-      "timeAgo": "2 hours ago",
-      "title": "Acer swift 1",
-      "price": 5000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441659373/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$5,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/03 15:51",
-      "pid": "1441659373",
-      "verified": {
-        "newPrice": 17900,
-        "secondhand": 8800,
-        "verdict": "suspicious-too-cheap",
-        "vsNew": 28,
-        "vsSecondhand": 57,
-        "note": "SF n=9 (含 noise), BigGo 推估 (manual fallback)",
-        "title": "Acer swift 1",
-        "price": 5000
-      },
-      "vsNew": 28,
-      "vsSecondhand": 57
     },
     {
       "pid": "1441504487",
@@ -462,7 +408,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 21:51",
+      "listedAt": "06/02 21:53",
       "pid": "1441528800",
       "verified": {
         "newPrice": 5138,
@@ -489,7 +435,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:51",
+      "listedAt": "06/03 09:53",
       "pid": "1441594840",
       "verified": {
         "newPrice": 6590,
@@ -543,7 +489,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 08:51",
+      "listedAt": "06/03 08:53",
       "pid": "1441591429",
       "verified": {
         "newPrice": 5590,
@@ -570,7 +516,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 08:51",
+      "listedAt": "06/03 08:53",
       "pid": "1441590498",
       "verified": {
         "newPrice": 5590,
@@ -597,7 +543,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 17:51",
+      "listedAt": "06/01 17:53",
       "pid": "1441315777",
       "verified": {
         "newPrice": 8000,
@@ -664,7 +610,7 @@
       "priceStr": "NT$3,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:51",
+      "listedAt": "06/02 22:53",
       "pid": "1441532867",
       "verified": {
         "newPrice": 7790,
@@ -691,7 +637,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 13:51",
+      "listedAt": "06/03 13:53",
       "pid": "1441634865",
       "verified": {
         "newPrice": null,
@@ -718,7 +664,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 14:51",
+      "listedAt": "06/03 14:53",
       "pid": "1441651125",
       "verified": {
         "newPrice": null,
@@ -734,33 +680,6 @@
       "vsSecondhand": 9
     },
     {
-      "seller": "hungxn",
-      "timeAgo": "1 minute ago",
-      "title": "Marshall MG10 10W 電吉他音箱",
-      "price": 2500,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441681010/",
-      "category": "音樂媒體",
-      "maxDays": 3,
-      "priceStr": "NT$2,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/03 17:50",
-      "pid": "1441681010",
-      "verified": {
-        "newPrice": 3490,
-        "secondhand": 4500,
-        "verdict": "negotiate",
-        "vsNew": 72,
-        "vsSecondhand": 56,
-        "note": "SF n=15 (含 noise), BigGo 推估 (manual fallback)",
-        "title": "Marshall MG10 10W 電吉他音箱",
-        "price": 2500
-      },
-      "vsNew": 72,
-      "vsSecondhand": 56
-    },
-    {
       "seller": "liyu2018",
       "timeAgo": "2 hours ago",
       "title": "Rosen 36 吋 旅行吉他 出清 travel guitar",
@@ -772,7 +691,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 15:51",
+      "listedAt": "06/03 15:53",
       "pid": "1441654591",
       "verified": {
         "newPrice": null,
@@ -795,7 +714,7 @@
       "seller": "mc7256",
       "url": "https://tw.carousell.com/p/1441652501/",
       "timeAgo": "2 hours ago",
-      "listedAt": "06/03 15:51",
+      "listedAt": null,
       "category": "智慧手錶",
       "condition": "Like new",
       "vsNew": 60,
@@ -804,8 +723,89 @@
         "newPrice": 8390,
         "secondhand": 4500,
         "verdict": "good-deal",
-        "note": "SF n=46 (含 noise), BigGo 推估 (manual fallback)"
+        "note": "Apple Watch SE 3 NT$5000 vsNew 60% (新品 8390)"
       }
+    },
+    {
+      "seller": "hungxn",
+      "timeAgo": "1 minute ago",
+      "title": "Marshall MG10 10W 電吉他音箱",
+      "price": 2500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441681010/",
+      "category": "音樂媒體",
+      "maxDays": 3,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 17:52",
+      "pid": "1441681010",
+      "verified": {
+        "newPrice": 3490,
+        "secondhand": 4500,
+        "verdict": "negotiate",
+        "vsNew": 72,
+        "vsSecondhand": 56,
+        "note": "Marshall MG10 2500 vsNew 72%",
+        "title": "Marshall MG10 10W 電吉他音箱",
+        "price": 2500
+      },
+      "vsNew": 72,
+      "vsSecondhand": 56
+    },
+    {
+      "seller": "ath_149305",
+      "timeAgo": "2 minutes ago",
+      "title": "微星 RTX3050 8GB DDR6",
+      "price": 3480,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441681188/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,480",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 17:51",
+      "pid": "1441681188",
+      "verified": {
+        "newPrice": 5500,
+        "secondhand": 17395,
+        "verdict": "suspicious-too-cheap",
+        "vsNew": 63,
+        "vsSecondhand": 20,
+        "note": "MSI RTX 3050 8GB 3480 — 二手 5.5-7K, 太低疑 4GB 標錯/壞卡/假冒",
+        "title": "微星 RTX3050 8GB DDR6",
+        "price": 3480
+      },
+      "vsNew": 63,
+      "vsSecondhand": 20
+    },
+    {
+      "seller": "ouo66dd",
+      "timeAgo": "2 hours ago",
+      "title": "Acer swift 1",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441659373/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 15:53",
+      "pid": "1441659373",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 8800,
+        "verdict": "uncertain",
+        "vsNew": null,
+        "vsSecondhand": 57,
+        "note": "Acer Swift 1 5000 (subagent 標 uncertain 比我 negotiate 保守)",
+        "title": "Acer swift 1",
+        "price": 5000
+      },
+      "vsNew": null,
+      "vsSecondhand": 57
     }
   ],
   "negotiate": [
@@ -821,7 +821,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:51",
+      "listedAt": "06/02 23:53",
       "pid": "1441548459",
       "verified": {
         "newPrice": 18500,
@@ -929,7 +929,7 @@
       "priceStr": "NT$22,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:51",
+      "listedAt": "06/02 22:53",
       "pid": "1441540812",
       "verified": {
         "newPrice": 33500,
@@ -1076,7 +1076,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:51",
+      "listedAt": "06/03 09:53",
       "pid": "1441594508",
       "verified": {
         "newPrice": 6387,
@@ -1123,7 +1123,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 21:51",
+      "listedAt": "06/02 21:53",
       "pid": "1441528900",
       "verified": {
         "newPrice": 6600,
@@ -1190,7 +1190,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:51",
+      "listedAt": "06/02 17:53",
       "pid": "1441483203",
       "verified": {
         "newPrice": 7930,
@@ -1237,7 +1237,7 @@
       "priceStr": "NT$4,280",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:51",
+      "listedAt": "06/02 17:53",
       "pid": "1441375179",
       "verified": {
         "newPrice": 7250,
@@ -1264,7 +1264,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 17:51",
+      "listedAt": "06/01 17:53",
       "pid": "1441347925",
       "verified": {
         "newPrice": 7800,
@@ -1291,7 +1291,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 17:51",
+      "listedAt": "06/01 17:53",
       "pid": "1441315169",
       "verified": {
         "newPrice": 5800,
@@ -1318,7 +1318,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:51",
+      "listedAt": "06/02 23:53",
       "pid": "1441545667",
       "verified": {
         "newPrice": 22000,
@@ -1345,7 +1345,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:51",
+      "listedAt": "06/02 23:53",
       "pid": "1441548768",
       "verified": {
         "newPrice": 7450,
@@ -1372,7 +1372,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:51",
+      "listedAt": "06/02 22:53",
       "pid": "1441537867",
       "verified": {
         "newPrice": 4990,
@@ -1580,6 +1580,26 @@
       },
       "vsNew": null,
       "vsSecondhand": 89
+    },
+    {
+      "pid": "1441669939",
+      "title": "Insta360 復古腰平取景器 紅",
+      "price": 2000,
+      "priceStr": "NT$2,000",
+      "seller": "xxlinnnn",
+      "url": "https://tw.carousell.com/p/1441669939/",
+      "timeAgo": "57 minutes ago",
+      "listedAt": null,
+      "category": "手機平板",
+      "condition": "Brand new",
+      "vsNew": null,
+      "vsSecondhand": null,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 0,
+        "verdict": "negotiate",
+        "note": "Insta360 復古腰平取景器 2000 (subagent 標 negotiate, 不是 good-deal)"
+      }
     }
   ],
   "uncertain": [
@@ -1595,7 +1615,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:51",
+      "listedAt": "06/02 22:53",
       "pid": "1441540392",
       "verified": {
         "newPrice": 24000,
@@ -2002,7 +2022,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 10:51",
+      "listedAt": "06/03 10:53",
       "pid": "1441597782",
       "verified": {
         "newPrice": 11799,
@@ -2195,26 +2215,6 @@
         "secondhand": 3800,
         "verdict": "uncertain",
         "note": "BigGo iPhone XS 64G 翻新 NT$3,000-5,800 A 級中位 NT$4,000-5,000. 標『100%』指電池, 3,500 vsNew 78% 接近行情, vsSF 92% 無明顯便宜空間. Carousell sf 403 無法核. 須驗 Face ID/原廠零件"
-      }
-    },
-    {
-      "pid": "1441669939",
-      "title": "Insta360 復古腰平取景器 紅",
-      "price": 2000,
-      "priceStr": "NT$2,000",
-      "seller": "xxlinnnn",
-      "url": "https://tw.carousell.com/p/1441669939/",
-      "timeAgo": "57 minutes ago",
-      "listedAt": "06/03 16:54",
-      "category": "手機平板",
-      "condition": "Brand new",
-      "vsNew": 101,
-      "vsSecondhand": null,
-      "verified": {
-        "newPrice": 1990,
-        "secondhand": null,
-        "verdict": "uncertain",
-        "note": "SF n=0 (含 noise), BigGo 推估 (manual fallback)"
       }
     },
     {

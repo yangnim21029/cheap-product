@@ -43012,17 +43012,17 @@
     "verdict": "good-deal",
     "vsNew": 60,
     "vsSecondhand": 111,
-    "note": "SF n=46 (含 noise), BigGo 推估 (manual fallback)",
+    "note": "Apple Watch SE 3 NT$5000 vsNew 60% (新品 8390)",
     "title": "APPLE WATCH SE 3",
     "price": 5000
   },
   "1441669939": {
-    "newPrice": 1990,
-    "secondhand": null,
-    "verdict": "uncertain",
-    "vsNew": 101,
+    "newPrice": null,
+    "secondhand": 0,
+    "verdict": "negotiate",
+    "vsNew": null,
     "vsSecondhand": null,
-    "note": "SF n=0 (含 noise), BigGo 推估 (manual fallback)",
+    "note": "Insta360 復古腰平取景器 2000 (subagent 標 negotiate, 不是 good-deal)",
     "title": "Insta360 復古腰平取景器 紅",
     "price": 2000
   },
@@ -43031,34 +43031,31 @@
     "reason": "overpriced",
     "title": "iPhone XS Max",
     "price": 5000,
-    "note": "SF n=47 (含 noise), BigGo 推估 (manual fallback)"
+    "note": "iPhone XS Max 5000 vs SF model-exact median 3800"
   },
   "1441660233": {
-    "newPrice": 14000,
+    "newPrice": null,
     "secondhand": 2500,
     "verdict": "suspicious-too-cheap",
-    "vsNew": 39,
+    "vsNew": null,
     "vsSecondhand": 220,
-    "note": "SF n=47 (含 noise), BigGo 推估 (manual fallback)",
+    "note": "Olympus 40-150 省型號 trap (R 版 3.5K 行情/PRO 版 31K, 標 5500 兩端都不對)",
     "title": "奧林巴斯40-150鏡頭",
     "price": 5500
   },
   "1441659211": {
-    "newPrice": 8990,
-    "secondhand": 310,
-    "verdict": "negotiate",
-    "vsNew": 82,
-    "vsSecondhand": 2384,
-    "note": "SF n=9 (含 noise), BigGo 推估 (manual fallback)",
+    "skip": true,
+    "reason": "overpriced",
     "title": "寬幅拍立得200",
-    "price": 7390
+    "price": 7390,
+    "note": "Fujifilm Wide 200 不存在 (Wide 100 寫錯 or 私模水貨) 7390 比 Wide 400 還貴"
   },
   "1441658239": {
     "skip": true,
     "reason": "overpriced",
     "title": "Canon QL17",
     "price": 8000,
-    "note": "SF n=11 (含 noise), BigGo 推估 (manual fallback)"
+    "note": "Canon QL17 8000 — 1960s 古典機 vs 行情"
   },
   "1441681010": {
     "newPrice": 3490,
@@ -43066,17 +43063,17 @@
     "verdict": "negotiate",
     "vsNew": 72,
     "vsSecondhand": 56,
-    "note": "SF n=15 (含 noise), BigGo 推估 (manual fallback)",
+    "note": "Marshall MG10 2500 vsNew 72%",
     "title": "Marshall MG10 10W 電吉他音箱",
     "price": 2500
   },
   "1441681188": {
     "newPrice": 5500,
     "secondhand": 17395,
-    "verdict": "good-deal",
+    "verdict": "suspicious-too-cheap",
     "vsNew": 63,
     "vsSecondhand": 20,
-    "note": "SF n=4 (含 noise), BigGo 推估 (manual fallback)",
+    "note": "MSI RTX 3050 8GB 3480 — 二手 5.5-7K, 太低疑 4GB 標錯/壞卡/假冒",
     "title": "微星 RTX3050 8GB DDR6",
     "price": 3480
   },
@@ -43085,15 +43082,15 @@
     "reason": "overpriced",
     "title": "lenovo ideapad s340",
     "price": 9500,
-    "note": "SF n=5 (含 noise), BigGo 推估 (manual fallback)"
+    "note": "Lenovo IdeaPad S340 9500"
   },
   "1441659373": {
-    "newPrice": 17900,
+    "newPrice": null,
     "secondhand": 8800,
-    "verdict": "suspicious-too-cheap",
-    "vsNew": 28,
+    "verdict": "uncertain",
+    "vsNew": null,
     "vsSecondhand": 57,
-    "note": "SF n=9 (含 noise), BigGo 推估 (manual fallback)",
+    "note": "Acer Swift 1 5000 (subagent 標 uncertain 比我 negotiate 保守)",
     "title": "Acer swift 1",
     "price": 5000
   }
