@@ -42150,5 +42150,133 @@
     "note": "vsSF 94% 幾乎貼齊市場二手板U均價 (BigGo 直接比對 R5 3600 + B350M Mortar NT$3,400), 議價空間有限。同賣家 kuanhsiang69702 連發兩件 26-31 分鐘內上架, 像清庫存, 可一次談兩件包圓砍到 NT$2,800/件。否則無明顯 deal, 跳過也合理。",
     "title": "R5-3600 + MSI B350M",
     "price": 3200
+  },
+  "1441588751": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Chanel 蘭蔻 香水 香氛四罐800",
+    "price": 800
+  },
+  "1441587920": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "早期精美收藏銅雕～鎮水獸造型1～",
+    "price": 1600
+  },
+  "1441586869": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "早期精美收藏銅雕～羚羊之王～",
+    "price": 1800
+  },
+  "1441585707": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "早期精美收藏沉香木頭雕刻～水瓶觀音造型～",
+    "price": 1200
+  },
+  "1441572861": {
+    "skip": true,
+    "reason": "ram-gpu-overpriced",
+    "title": "【收藏🧸】絕版 Apple MacBook 13.3 吋 雙核心 4G記憶體 A1181",
+    "price": 6000
+  },
+  "1441558591": {
+    "skip": true,
+    "reason": "ram-gpu-overpriced",
+    "title": "BOSE FRAMES 太陽眼鏡",
+    "price": 5500
+  },
+  "1441585723": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Canon佳能 ixus110日版（買就送配備）",
+    "price": 6100,
+    "note": "BigGo 二手中價 NT$3,900-6,000 良品 NT$6,600-8,000；雖含配備但 vsSF>100% 略高於二手中位"
+  },
+  "1441558361": {
+    "newPrice": 7600,
+    "secondhand": 8600,
+    "verdict": "uncertain",
+    "vsNew": 92,
+    "vsSecondhand": 81,
+    "note": "新品最低 NT$7,600 (Yahoo 六日3C) 二手 NT$5,500-13,999 中位 ~NT$8,600；接近新品價但二手亦有此價位",
+    "title": "NIKON A900 4K錄影",
+    "price": 7000
+  },
+  "1441588230": {
+    "skip": true,
+    "reason": "insufficient-data",
+    "title": "🔥【金口聖僧 阿贊康賢 2566 坤昌大老闆】🔥 💰財富、人緣、生意、貴人一次到位💰",
+    "price": 4680,
+    "note": "泰國法相市場無公開比價，BigGo/Bing/Google 都查不到 阿贊康賢 2566 坤昌大老闆 報價"
+  },
+  "1441589423": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "健身房 社區健身房 跑步機 全機保養",
+    "price": 6000,
+    "note": "BigGo 到府全機保養+換跑帶最高 NT$3,500 基本保養 NT$1,000；NT$6,000 明顯超出市場上限"
+  },
+  "1441589211": {
+    "newPrice": 3500,
+    "secondhand": 1000,
+    "verdict": "uncertain",
+    "vsNew": 100,
+    "vsSecondhand": 350,
+    "note": "與 BigGo 最高階到府服務 NT$3,500 持平，非便宜貨；同賣家另件 NT$6,000 為紅旗",
+    "title": "跑步機到府全機保養",
+    "price": 3500
+  },
+  "1441578108": {
+    "skip": true,
+    "reason": "insufficient-data",
+    "title": "全新-MINGREN-14-台南",
+    "price": 8380,
+    "note": "BigGo MINGREN 14 查無對應型號 (常見 20/24/26吋 NT$3,180-15,800)；標題 14 含意不明無法定錨"
+  },
+  "1438278289": {
+    "newPrice": 9000,
+    "secondhand": 4500,
+    "verdict": "uncertain",
+    "vsNew": 78,
+    "vsSecondhand": 156,
+    "note": "未標品牌型號 (insufficient-info)，碳纖 C4/ROY 新品 >NT$9,000、中階 SEAC/Aropec NT$2,000-3,000；保值類落合理區間 → uncertain (規則6)",
+    "title": "長蛙鞋",
+    "price": 7000
+  },
+  "1441583569": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "R5-5600G + GIGABYTE B450M",
+    "price": 5100,
+    "note": "板U bundle vsSF優先 (規則7)：新品合計 5600G ~NT$5,190 + B450M ~NT$1,990 = NT$7,180；二手板U bundle 行情 ~NT$4,500，NT$5,100 略高於行情"
+  },
+  "1441569253": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "微星MSI SPATIUM M570 PRO SSD 2TB GEN5 pcie5.0 M.2 2280 全新未拆",
+    "price": 9000,
+    "note": "蝦皮商城新品 NT$7,490；「全新未拆」開價 NT$9,000 高於市售新品 20%"
+  },
+  "1441565506": {
+    "newPrice": 12000,
+    "secondhand": 6990,
+    "verdict": "uncertain",
+    "vsNew": 58,
+    "vsSecondhand": 100,
+    "note": "BigGo 新品在台查無報價，二手參考 NT$6,990 (附配件)；裸機開價 NT$7,000 與二手中位持平、無折扣",
+    "title": "Xppen artist pro 14 （Gen2）電繪板",
+    "price": 7000
+  },
+  "1441562495": {
+    "newPrice": 8950,
+    "secondhand": 8000,
+    "verdict": "uncertain",
+    "vsNew": 89,
+    "vsSecondhand": 100,
+    "note": "蝦皮新品最低 NT$8,950 (含2捲帶)；二手樣本不足，開價僅低新品 11% 無 deal 空間",
+    "title": "Brother PT-910BT標籤機✨",
+    "price": 8000
   }
 }
