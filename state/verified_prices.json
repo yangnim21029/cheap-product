@@ -43229,5 +43229,119 @@
     "note": "",
     "title": "Logitech G502 X plus RGB",
     "price": 3000
+  },
+  "1441716475": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "李小龍70週年紀念郵票",
+    "price": 1000
+  },
+  "1441709335": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "日本 小網神社 馬年限定 御朱印帳+切繪朱印組",
+    "price": 1200
+  },
+  "1441630203": {
+    "skip": true,
+    "reason": "niche",
+    "title": "全新115年中央銀行 馬年紀念套幣",
+    "price": 3500
+  },
+  "1441715475": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "好音悅 EMI 2088 Ivry Gitlis 練木繁夫 小提琴小品集 The Best of Violin Melodies 日版",
+    "price": 989
+  },
+  "1441715553": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "Dji neo備用機 可以價 面交3200",
+    "price": 3500
+  },
+  "1441711929": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "Zipio W Apple Watch 零秒相機 行動電源",
+    "price": 4840
+  },
+  "1441712402": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "SIGMA 18-50mm F2.8 DC DN",
+    "price": 12000
+  },
+  "1441709332": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "Canon EOS R10",
+    "price": 27000
+  },
+  "1441695925": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "Olympus XA3",
+    "price": 5750
+  },
+  "1441711077": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "RGB20SX",
+    "price": 2000
+  },
+  "1441710354": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "RG cube",
+    "price": 4500
+  },
+  "1441699286": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "SALOMON IVY BOA SJ SNOWBOARD BOOTS 23cm",
+    "price": 7000
+  },
+  "1441713285": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "小米watch s5 46mm黑色 全新未拆封",
+    "price": 4300
   }
 }
