@@ -44129,5 +44129,70 @@
     "note": "ROG Ally X(RC72LA Z1E/24G/1TB)全新約32,999；BigGo無乾淨二手樣本(<3)。掛18,000約新品55%，二手行情待確認；注意搖桿飄移/保固/SD卡槽。",
     "title": "ROG Ally X",
     "price": 18000
+  },
+  "1441778158": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "niche樂器(Yamaha低音直笛) 非需求",
+    "title": "​【高CP值】Yamaha YRB-302B III 低音直笛 (ABS材質)｜日本製造、音色渾厚、狀況良好",
+    "price": 3199
+  },
+  "1441777650": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "niche樂器(Aulos最高音笛) <$2000",
+    "title": "​【全新現貨】Aulos 最高音笛 (Sopranino)｜日本專業製造｜音色清亮・精準穩定",
+    "price": 800
+  },
+  "1441777281": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "niche樂器(Yamaha中音直笛) 非需求",
+    "title": "​【全新現貨】Yamaha YRA-312B III 日本製｜仿玫瑰木紋中音直笛｜專業與質感的首選",
+    "price": 2799
+  },
+  "1441778375": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "洋垃圾X99(2696v4+1660) 平台價值不明/偏貴, 零件估~$7-8K二手",
+    "title": "模擬器 VM虛擬機 X99電競主機.2696V4-22核44緒DDR4-32GB 顯卡1660-6G M2-500G",
+    "price": 12000
+  },
+  "1435886887": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "美光DDR5 32G全新約$2,700, 掛$9,000過貴(3倍新品)",
+    "title": "美光 DDR5 5600/CL46 16G*2",
+    "price": 9000
+  },
+  "1441777833": {
+    "newPrice": null,
+    "secondhand": 5090,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "i5-10400 二手中位$3,290(BigGo 7筆)+B560M二手~$1,800=零件約$5,090。掛$4,500約88%零件價,小折讓可議;2020年平台、確認是否帶iGPU版(非F)、保固。",
+    "title": "Intel I5- 10400 微星 MSI B560M pro-vdh",
+    "price": 4500
   }
 }

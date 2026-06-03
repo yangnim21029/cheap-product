@@ -69,6 +69,8 @@ const SKIP = [
   'Jacket','jacket','Haglofs','GORE-TEX','gore-tex',
   // 錶帶不是手錶
   '錶環','高山錶',
+  // niche 樂器（直笛/recorder 連發 grandfish_e0978f — Patrol 444）
+  '直笛','Aulos','Sopranino','中音笛','高音笛',
 ];
 
 
