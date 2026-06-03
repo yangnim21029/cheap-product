@@ -2,7 +2,7 @@
   "newDeals": [
     {
       "seller": "rosono",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "超新 Pentax 雙鏡皇 16-50mm f2.8 50-135mm 盒裝 鏡頭套 *星鏡",
       "price": 17000,
       "condition": "Lightly used",
@@ -12,7 +12,7 @@
       "priceStr": "NT$17,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 17:06",
+      "listedAt": "06/02 16:46",
       "pid": "1441469545",
       "verified": {
         "newPrice": 49320,
@@ -75,33 +75,6 @@
       }
     },
     {
-      "seller": "shamangels91995",
-      "timeAgo": "3 hours ago",
-      "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
-      "price": 8800,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1380756437/",
-      "category": "運動戶外",
-      "maxDays": 3,
-      "priceStr": "NT$8,800",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/03 06:06",
-      "pid": "1380756437",
-      "verified": {
-        "newPrice": 22999,
-        "secondhand": 15000,
-        "verdict": "good-deal",
-        "vsNew": 43,
-        "vsSecondhand": 65,
-        "note": "Coleman CM-39084 MDX+ DARK ROOM 一房一廳帳台灣公司貨建議售價 NT$29,999、PolarStar/PChome 特價 NT$22,999。露營二手 Coleman 大帳通常 NT$13,000-17,000。NT$9,800 vsSF ~65%、vsNew ~43%(低但露營重器材二手折舊合理)。push 好貨。注意內外帳/營柱/地布是否齊。",
-        "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
-        "price": 9800
-      },
-      "vsNew": 38,
-      "vsSecondhand": 59
-    },
-    {
       "seller": "anniexin",
       "timeAgo": "1 day ago",
       "title": "近全新附鞋盒/MERRELL AGILITY PEAK 5 MID TACTICAL",
@@ -113,7 +86,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1438341441",
       "verified": {
         "newPrice": 6580,
@@ -169,8 +142,35 @@
       }
     },
     {
+      "seller": "shamangels91995",
+      "timeAgo": "3 hours ago",
+      "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
+      "price": 8800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1380756437/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$8,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 06:46",
+      "pid": "1380756437",
+      "verified": {
+        "newPrice": 22999,
+        "secondhand": 15000,
+        "verdict": "good-deal",
+        "vsNew": 43,
+        "vsSecondhand": 65,
+        "note": "Coleman CM-39084 MDX+ DARK ROOM 一房一廳帳台灣公司貨建議售價 NT$29,999、PolarStar/PChome 特價 NT$22,999。露營二手 Coleman 大帳通常 NT$13,000-17,000。NT$9,800 vsSF ~65%、vsNew ~43%(低但露營重器材二手折舊合理)。push 好貨。注意內外帳/營柱/地布是否齊。",
+        "title": "Coleman TOUGH SCREEN氣流循環2-ROOM MDX+ / DARK ROOM系列 / CM-39084",
+        "price": 9800
+      },
+      "vsNew": 38,
+      "vsSecondhand": 59
+    },
+    {
       "seller": "wildearth_4d1187",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "SONY VPL-HW65ES 投影機",
       "price": 10000,
       "condition": "Lightly used",
@@ -180,7 +180,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 15:06",
+      "listedAt": "06/02 14:46",
       "pid": "1441441879",
       "verified": {
         "newPrice": 89000,
@@ -277,7 +277,7 @@
     },
     {
       "seller": "o__________o__________o",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Teenage Engineering M-1 headphones with microphone 折疊 監聽耳機",
       "price": 2000,
       "condition": "Like new",
@@ -287,7 +287,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:06",
+      "listedAt": "06/02 21:46",
       "pid": "1441528800",
       "verified": {
         "newPrice": 5138,
@@ -303,6 +303,33 @@
       "vsSecondhand": 53
     },
     {
+      "seller": "melody0620",
+      "timeAgo": "5 minutes ago",
+      "title": "AirPods Pro2 （USB-C）",
+      "price": 2200,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441594840/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,200",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 09:41",
+      "pid": "1441594840",
+      "verified": {
+        "newPrice": 6590,
+        "secondhand": 3900,
+        "verdict": "good-deal",
+        "vsNew": 33,
+        "vsSecondhand": 56,
+        "note": "vsSF 56% 落在 good-deal 區；vsNew 33% 偏低，請賣家提供購買憑證/外觀照確認非空盒或仿品。",
+        "title": "AirPods Pro2 （USB-C）",
+        "price": 2200
+      },
+      "vsNew": 33,
+      "vsSecondhand": 56
+    },
+    {
       "seller": "rueijiji",
       "timeAgo": "1 day ago",
       "title": "Philips Fidelio T2 真無線藍牙耳機",
@@ -314,7 +341,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1441337290",
       "verified": {
         "newPrice": 6990,
@@ -330,31 +357,58 @@
       "vsSecondhand": 57
     },
     {
-      "seller": "mclaren17409284",
-      "timeAgo": "17 hours ago",
-      "title": "Audiolab M-DAC MINI",
-      "price": 3000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441463382/",
+      "seller": "boldrabbit-94b0",
+      "timeAgo": "34 minutes ago",
+      "title": "AirPods4代降噪版在保有購證",
+      "price": 2500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441591429/",
       "category": "音響耳機",
       "maxDays": 3,
-      "priceStr": "NT$3,000",
+      "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 16:06",
-      "pid": "1441463382",
+      "listedAt": "06/03 09:12",
+      "pid": "1441591429",
       "verified": {
-        "newPrice": 14900,
-        "secondhand": 3000,
-        "verdict": "uncertain",
-        "vsNew": 20,
-        "vsSecondhand": 100,
-        "note": "新品 NT$14,900；SF n=1 只有本物自身 = 樣本不足；vsNew 20% 看似超殺但孤證無法判，建議查賣家其他物件 / 看是否含原盒配件",
-        "title": "Audiolab M-DAC MINI",
-        "price": 3000
+        "newPrice": 5590,
+        "secondhand": 4000,
+        "verdict": "good-deal",
+        "vsNew": 45,
+        "vsSecondhand": 62,
+        "note": "vsSF 63% 落在 good-deal；vsNew 45% 過低，請賣家提供購買憑證、保固序號、Apple ID 解除狀態。",
+        "title": "AirPods4代降噪版在保有購證",
+        "price": 2500
       },
-      "vsNew": 20,
-      "vsSecondhand": 100
+      "vsNew": 45,
+      "vsSecondhand": 63
+    },
+    {
+      "seller": "mightyturtle_05e690",
+      "timeAgo": "42 minutes ago",
+      "title": "AirPods4代降噪版在保",
+      "price": 2600,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441590498/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$2,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 09:04",
+      "pid": "1441590498",
+      "verified": {
+        "newPrice": 5590,
+        "secondhand": 4000,
+        "verdict": "good-deal",
+        "vsNew": 47,
+        "vsSecondhand": 65,
+        "note": "vsSF 65% 落在 good-deal；同屬在保品，建議要求購證/保固確認。",
+        "title": "AirPods4代降噪版在保",
+        "price": 2600
+      },
+      "vsNew": 47,
+      "vsSecondhand": 65
     },
     {
       "seller": "unisunp",
@@ -368,7 +422,7 @@
       "priceStr": "NT$3,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1441315777",
       "verified": {
         "newPrice": 8000,
@@ -415,7 +469,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 00:06",
+      "listedAt": "06/03 00:46",
       "pid": "1441553059",
       "verified": {
         "newPrice": 20890,
@@ -469,7 +523,7 @@
       "priceStr": "NT$3,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:06",
+      "listedAt": "06/02 22:46",
       "pid": "1441532867",
       "verified": {
         "newPrice": 7790,
@@ -488,7 +542,7 @@
   "negotiate": [
     {
       "seller": "azer.0920",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Sony ZVE10",
       "price": 10000,
       "condition": "Lightly used",
@@ -498,7 +552,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 00:06",
+      "listedAt": "06/02 23:46",
       "pid": "1441548459",
       "verified": {
         "newPrice": 18500,
@@ -525,7 +579,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1441346752",
       "verified": {
         "newPrice": 19980,
@@ -552,7 +606,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/01 09:06",
+      "listedAt": "06/01 09:46",
       "pid": "1441304914",
       "verified": {
         "newPrice": 14800,
@@ -569,7 +623,7 @@
     },
     {
       "seller": "waynele0412",
-      "timeAgo": "24 hours ago",
+      "timeAgo": "1 day ago",
       "title": "低快門數 SONY A73 A7III A7m3 ILCE-7M3 全幅機 A74 A7IV A7M4 垂直手把 單機身",
       "price": 25800,
       "condition": "Lightly used",
@@ -579,7 +633,7 @@
       "priceStr": "NT$25,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1441384631",
       "verified": {
         "newPrice": 43911,
@@ -596,7 +650,7 @@
     },
     {
       "seller": "horngnet",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Sigma EF 50-100mm F1.8 Canon EF接口",
       "price": 22000,
       "condition": "Lightly used",
@@ -606,7 +660,7 @@
       "priceStr": "NT$22,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:06",
+      "listedAt": "06/02 22:46",
       "pid": "1441540812",
       "verified": {
         "newPrice": 33500,
@@ -702,6 +756,33 @@
       }
     },
     {
+      "seller": "gawas100002",
+      "timeAgo": "7 minutes ago",
+      "title": "JBLcharge6也是公司抽到的🥹 用不到賣給有需要的人",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1441594508/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 09:39",
+      "pid": "1441594508",
+      "verified": {
+        "newPrice": 6387,
+        "secondhand": 5350,
+        "verdict": "negotiate",
+        "vsNew": 63,
+        "vsSecondhand": 75,
+        "note": "vsSF 75% 落在 negotiate；公司抽獎來源，可議到 3500-3700 接近 SF 65%。",
+        "title": "JBLcharge6也是公司抽到的🥹 用不到賣給有需要的人",
+        "price": 4000
+      },
+      "vsNew": 63,
+      "vsSecondhand": 75
+    },
+    {
       "pid": "1441397572",
       "title": "Sony linkbuds s",
       "price": 2080,
@@ -723,7 +804,7 @@
     },
     {
       "seller": "mystic5201314",
-      "timeAgo": "11 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "正版AirPods pro3蘋果降噪耳機全新",
       "price": 4500,
       "condition": "Brand new",
@@ -733,7 +814,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 22:06",
+      "listedAt": "06/02 21:46",
       "pid": "1441528900",
       "verified": {
         "newPrice": 6600,
@@ -769,8 +850,28 @@
       }
     },
     {
+      "pid": "1441593194",
+      "title": "JBL flip7 尾牙抽獎用不到賣給有緣人",
+      "price": 2500,
+      "priceStr": "NT$2,500",
+      "seller": "gawas100002",
+      "url": "https://tw.carousell.com/p/1441593194/",
+      "timeAgo": "18 minutes ago",
+      "listedAt": "06/03 09:28",
+      "category": "音響耳機",
+      "condition": "Brand new",
+      "vsNew": 56,
+      "vsSecondhand": 100,
+      "verified": {
+        "newPrice": 4480,
+        "secondhand": 2500,
+        "verdict": "negotiate",
+        "note": "SF 樣本只有 1 筆參考性低，改看 vsNew 56% 屬 good-deal；但標題含尾牙/抽獎促銷字樣，依規則 4 改 negotiate，可議到 2200 左右。"
+      }
+    },
+    {
       "seller": "ssss00925",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "16 hours ago",
       "title": "Apple iPad 8 128GB Wi-Fi｜功能正常｜高雄前鎮",
       "price": 5000,
       "condition": "Like new",
@@ -780,7 +881,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 18:06",
+      "listedAt": "06/02 17:46",
       "pid": "1441483203",
       "verified": {
         "newPrice": 7930,
@@ -807,7 +908,7 @@
       "priceStr": "NT$4,280",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1441375179",
       "verified": {
         "newPrice": 7250,
@@ -834,7 +935,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1441347925",
       "verified": {
         "newPrice": 7800,
@@ -861,7 +962,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 09:06",
+      "listedAt": "06/02 09:46",
       "pid": "1441315169",
       "verified": {
         "newPrice": 5800,
@@ -888,7 +989,7 @@
       "priceStr": "NT$12,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:06",
+      "listedAt": "06/02 23:46",
       "pid": "1441545667",
       "verified": {
         "newPrice": 22000,
@@ -905,7 +1006,7 @@
     },
     {
       "seller": "azer.0920",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "MacBook Pro _logo會發光的最後一代",
       "price": 5000,
       "condition": "Lightly used",
@@ -915,7 +1016,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 00:06",
+      "listedAt": "06/02 23:46",
       "pid": "1441548768",
       "verified": {
         "newPrice": 7450,
@@ -932,7 +1033,7 @@
     },
     {
       "seller": "yoshida1221",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "ROG Falchion RX Low Profile 65 二手鍵盤 出售",
       "price": 3500,
       "condition": "Lightly used",
@@ -942,7 +1043,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:06",
+      "listedAt": "06/02 22:46",
       "pid": "1441537867",
       "verified": {
         "newPrice": 4990,
@@ -1048,7 +1149,7 @@
   "uncertain": [
     {
       "seller": "horngnet",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Metabones EF-M43 Speed Booster XL 0.64x EF 轉 M43轉接環",
       "price": 10000,
       "condition": "Lightly used",
@@ -1058,7 +1159,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 23:06",
+      "listedAt": "06/02 22:46",
       "pid": "1441540392",
       "verified": {
         "newPrice": 24000,
@@ -1614,6 +1715,46 @@
       }
     },
     {
+      "pid": "1441591012",
+      "title": "早期精美收藏青銅雕～財神馬上發財～",
+      "price": 2000,
+      "priceStr": "NT$2,000",
+      "seller": "royalpenguin.772e6c",
+      "url": "https://tw.carousell.com/p/1441591012/",
+      "timeAgo": "38 minutes ago",
+      "listedAt": "06/03 09:08",
+      "category": "收藏品",
+      "condition": "Like new",
+      "vsNew": null,
+      "vsSecondhand": 100,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 2000,
+        "verdict": "uncertain",
+        "note": "青銅雕財神 BigGo 區間 988-6800，2000 落中段；年代/工法/重量不明，依規則 6 給 uncertain，請賣家補來源證明與尺寸。"
+      }
+    },
+    {
+      "pid": "1441592038",
+      "title": "早期精美收藏銅雕～獅子一對～",
+      "price": 2300,
+      "priceStr": "NT$2,300",
+      "seller": "royalpenguin.772e6c",
+      "url": "https://tw.carousell.com/p/1441592038/",
+      "timeAgo": "29 minutes ago",
+      "listedAt": "06/03 09:17",
+      "category": "收藏品",
+      "condition": "Like new",
+      "vsNew": null,
+      "vsSecondhand": 107,
+      "verified": {
+        "newPrice": null,
+        "secondhand": 2150,
+        "verdict": "uncertain",
+        "note": "銅雕收藏無標準新品價，BigGo 中段銅雕獅子 778-2250 群集 ~2150；售價落合理區間上緣，依規則 6 收藏保值類給 uncertain，請賣家補來源/尺寸/重量。"
+      }
+    },
+    {
       "pid": "1441545962",
       "title": "VC-21. 張國榮88演唱會2VCD/ #6月6折 二手VCD",
       "price": 282,
@@ -1645,7 +1786,7 @@
       "priceStr": "NT$48,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 02:06",
+      "listedAt": "06/03 02:46",
       "pid": "1441566764",
       "verified": {
         "newPrice": 89000,

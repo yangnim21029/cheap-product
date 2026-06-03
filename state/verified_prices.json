@@ -42278,5 +42278,102 @@
     "note": "蝦皮新品最低 NT$8,950 (含2捲帶)；二手樣本不足，開價僅低新品 11% 無 deal 空間",
     "title": "Brother PT-910BT標籤機✨",
     "price": 8000
+  },
+  "1441591318": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "皮克敏4 switch遊戲片",
+    "price": 1120
+  },
+  "1441594840": {
+    "newPrice": 6590,
+    "secondhand": 3900,
+    "verdict": "good-deal",
+    "vsNew": 33,
+    "vsSecondhand": 56,
+    "note": "vsSF 56% 落在 good-deal 區；vsNew 33% 偏低，請賣家提供購買憑證/外觀照確認非空盒或仿品。",
+    "title": "AirPods Pro2 （USB-C）",
+    "price": 2200
+  },
+  "1441594508": {
+    "newPrice": 6387,
+    "secondhand": 5350,
+    "verdict": "negotiate",
+    "vsNew": 63,
+    "vsSecondhand": 75,
+    "note": "vsSF 75% 落在 negotiate；公司抽獎來源，可議到 3500-3700 接近 SF 65%。",
+    "title": "JBLcharge6也是公司抽到的🥹 用不到賣給有需要的人",
+    "price": 4000
+  },
+  "1441593194": {
+    "newPrice": 4480,
+    "secondhand": 2500,
+    "verdict": "negotiate",
+    "vsNew": 56,
+    "vsSecondhand": 100,
+    "note": "SF 樣本只有 1 筆參考性低，改看 vsNew 56% 屬 good-deal；但標題含尾牙/抽獎促銷字樣，依規則 4 改 negotiate，可議到 2200 左右。",
+    "title": "JBL flip7 尾牙抽獎用不到賣給有緣人",
+    "price": 2500
+  },
+  "1441591429": {
+    "newPrice": 5590,
+    "secondhand": 4000,
+    "verdict": "good-deal",
+    "vsNew": 45,
+    "vsSecondhand": 62,
+    "note": "vsSF 63% 落在 good-deal；vsNew 45% 過低，請賣家提供購買憑證、保固序號、Apple ID 解除狀態。",
+    "title": "AirPods4代降噪版在保有購證",
+    "price": 2500
+  },
+  "1441590498": {
+    "newPrice": 5590,
+    "secondhand": 4000,
+    "verdict": "good-deal",
+    "vsNew": 47,
+    "vsSecondhand": 65,
+    "note": "vsSF 65% 落在 good-deal；同屬在保品，建議要求購證/保固確認。",
+    "title": "AirPods4代降噪版在保",
+    "price": 2600
+  },
+  "1441592038": {
+    "newPrice": null,
+    "secondhand": 2150,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 107,
+    "note": "銅雕收藏無標準新品價，BigGo 中段銅雕獅子 778-2250 群集 ~2150；售價落合理區間上緣，依規則 6 收藏保值類給 uncertain，請賣家補來源/尺寸/重量。",
+    "title": "早期精美收藏銅雕～獅子一對～",
+    "price": 2300
+  },
+  "1441591012": {
+    "newPrice": null,
+    "secondhand": 2000,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": 100,
+    "note": "青銅雕財神 BigGo 區間 988-6800，2000 落中段；年代/工法/重量不明，依規則 6 給 uncertain，請賣家補來源證明與尺寸。",
+    "title": "早期精美收藏青銅雕～財神馬上發財～",
+    "price": 2000
+  },
+  "1429254926": {
+    "skip": true,
+    "reason": "insufficient-data",
+    "title": "絕版 二手寶可夢nds收納箱子 稀有3ds",
+    "price": 3000,
+    "note": "BigGo 僅 2 筆同款均 3000 無有效中位；絕版收納箱屬收藏範疇，建議比對寶可夢中心台灣官方周邊歷年售價。"
+  },
+  "1441593625": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "變速腳踏車",
+    "price": 3200,
+    "note": "vsSF 160% 明顯高於二手中位 1999；標題只寫變速腳踏車無品牌/規格，請賣家補品牌/變速段數/尺寸；同價位可買新入門折疊車。"
+  },
+  "1441591173": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "全新 現貨 Snow Peak 營釘收納箱 工具箱",
+    "price": 3850,
+    "note": "vsNew 105% 已高於蝦皮現貨新品 3680；標榜全新但溢價 170 元，沒議價空間不必出手。"
   }
 }
