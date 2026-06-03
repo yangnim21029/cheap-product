@@ -193,3 +193,21 @@ raw 848 筆 / 候選 36，本輪掃 raw 雜訊看到的非清單訊號：
 ### 客制鍵盤類首現
 - RAKKA80 / Glorious Model D3 滑鼠 / Logitech G413 機械鍵盤 同輪出現 — 客制周邊小社群活躍
 - 可考慮加 `客制鍵盤` 或 `mechanical keyboard` query，但 Rose 沒明示興趣，先觀察
+
+## 2026-06-04 01:12 觀察（patrol 440 — 63 待查清零）
+
+### auto_query_suggest 命中（過去 deal 同品牌 ≥2）
+- **Sony ZV-E10 連 2 筆**（$10,000 + $12,000）— vlog 機型號明確、複現，**建議加 query**：`Sony ZV-E10` min $7K max $15K，落在相機戰場
+- **伊萊克斯 Electrolux ×3**：空氣清淨機 EP32-27UGA（重複掛單）+ 烤箱 EOT40DBD。清淨機已被「空氣清淨機」query 覆蓋，烤箱非 User 需求 → 不獨立加，觀察
+- **國際牌 Panasonic ×3**：除濕機 F-Y45GX / 清淨機 F-P60LH / 烘乾機。品牌太廣，raw 加 query 會灌爆；要加得綁具體型號線，留給 User 裁決
+- **onkyo / canon eos ×2**：皆同一 listing 在分類頁重複計數，非真訊號
+
+### 賣家觀察（未自動分類，留紀錄）
+- 高量未分類賣家：change12336(39)、gordon740124768(26)、meng69522(24)、stevecho(22)、mochimochi_7414(17) — 疑電商/批量，但本輪都沒產出 deal，暫不入 shops 免誤殺
+- **vinyl_voyage(16) / marc_vintage_collection(12)**：疑黑膠賣家，User 收黑膠 → **不可 auto-skip**，反而值得翻 profile 找其他黑膠便宜貨
+- jasin908(19)：SMAP 日系偶像 CD/VCD 連發，疑日系周邊商家，可考慮入 shops（本輪 CD 已 skip）
+
+### 本輪驗價要點
+- 5 件好貨偏二手手機/遊戲機，價值全卡在驗機（電池健康度/可開機/缺件）— 數據查不到，面交才算數
+- Switch $3,300 遠低於行情（保外 $7,000），異常低 = 螢幕單機/故障風險高，列好貨但務必當面確認
+- CCD 熱潮續燒：Canon A610 個人賣家 $8,000 跟到復古店翻新價，judged overpriced
