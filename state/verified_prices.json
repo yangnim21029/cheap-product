@@ -42556,5 +42556,55 @@
     "title": "Apple Watch SE 第二代（GPS 版本）",
     "price": 5300,
     "note": "灰市/水貨新品 3800-3990 (Mobile01/Yahoo), SF n=78 median 3500 (常見 2800-4000). vsSF 151% 嚴重高於行情, 未標 40/44mm/容量/電池健康度也直接 overpriced"
+  },
+  "1441602944": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "烤箱",
+    "price": 1000
+  },
+  "1441602467": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "未揭露代次/容量/連線版本 → 規則上 insufficient-info, 但 vsNew 59% < 65% 觸發 uncertain。若為 M1 11\" 128G 算合理偏高; 若為 M4/M5 則划算。先問規格/電池循環/Pencil 是 2 代還是 Pro。",
+    "title": "iPad Pro&Apple Pencil",
+    "price": 22000
+  },
+  "1441616704": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "賣家標全新, 比通路零售 NT$4,988 只省 NT$988 (約 20%)。落 70-85% 區間, 試議價 NT$3,500-3,800; 同步確認是否拆封/保固開通/有無發票避免水貨福利品。",
+    "title": "華碩27寸2k螢幕 VG27AQL5A",
+    "price": 4000
+  },
+  "1441613092": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "二手店 (傻瓜通訊) 牌價低於通路同級福利機與 Carousell 個人賣家中位, 落 70-85% 區間。建議當面看電池健康度 (應 ≥80%)、有無更換零件、保固天數; 議到 NT$3,200 更穩。",
+    "title": "【傻瓜通訊】嚴選二手機 Apple iPhone 11｜6.1吋｜128GB｜備用機｜紫色｜#1499",
+    "price": 3580
+  },
+  "1441620520": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "AirPods (3rd generation) with MagSafe charging Case",
+    "price": 4000,
+    "note": "NT$4,000 比二手中位 NT$2,750 高 45%, 跟新品 NT$4,399 只差 NT$399; AirPods 折舊快 (電池小、易耗) 二手價跌得兇, 這個價要嘛直接買新, 要嘛殺到 NT$2,500-3,000 範圍。"
+  },
+  "1441624037": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Adidas Golf Powerband shoes 高爾夫球鞋",
+    "price": 2500,
+    "note": "vsNew 117% 已經比新品 NT$2,138 起跳貴, vsSF 152% 更離譜。Powerband 是停產老款 (約 2018-2020 系列) 不是當代旗艦; 同預算可買新的 TRAXION/EQT。除非有特殊收藏價值否則直接跳過。"
   }
 }
