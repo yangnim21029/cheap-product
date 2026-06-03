@@ -42375,5 +42375,63 @@
     "title": "全新 現貨 Snow Peak 營釘收納箱 工具箱",
     "price": 3850,
     "note": "vsNew 105% 已高於蝦皮現貨新品 3680；標榜全新但溢價 170 元，沒議價空間不必出手。"
+  },
+  "1441594732": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Hario 電動磨豆機",
+    "price": 1500
+  },
+  "1441598463": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "早期精美收藏天鐵法器～九骨金剛杵～",
+    "price": 1800
+  },
+  "1441598107": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "［多寶齋佛牌］🔥【龍婆梁 2569 魂魄勇小立尊｜師父最新督造・跑廟親請】🔥",
+    "price": 1480
+  },
+  "1441597782": {
+    "newPrice": 11799,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 51,
+    "vsSecondhand": null,
+    "note": "未標明電池組數、飛行時數、是否含遙控器；vsNew 51% 落 mini 2 SE 二手合理區間 (4k-10k)，但配件規格未說明前無法判 deal。listing 內若補「電池×2 + 遙控器 + 飛行 X 小時」可重評為 uncertain→good-deal",
+    "title": "DJI mini 2 se 空拍機",
+    "price": 6000
+  },
+  "1441597351": {
+    "newPrice": 2490,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": 86,
+    "vsSecondhand": null,
+    "note": "賣家標全新；vs 最低零售 86% / vs 中位 80%，落 70-85% 議價區。momo 折價券後可達 2,290-2,390，2,150 沒顯著低於促銷後價，建議砍到 1,950-2,000 才有 good-deal 空間",
+    "title": "台中面交全新 羅技 Logi K98M 無線機械鍵盤 珍珠白",
+    "price": 2150
+  },
+  "1441603188": {
+    "newPrice": 3800,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": 92,
+    "vsSecondhand": null,
+    "note": "音響升級線屬高保值類；vs 蝦皮最低 92%、vs 露天中位 ~6,500 為 54%。3,500 接近最便宜全新零售，二手價差小，狀況/盒裝/長度未說明前難判；同賣家同時上架兩條同類線可疑，建議問接頭氧化/包裝完整度",
+    "title": "漢聲 ZENTOO Plus mmcx 4.4mm",
+    "price": 3500
+  },
+  "1441602640": {
+    "newPrice": 5500,
+    "secondhand": 1790,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": 45,
+    "vsSecondhand": 140,
+    "note": "新品 5,500 砍到 2,500 = 折 45%，遠低市場零售；同賣家同時間掛兩條不同款升級線屬可疑訊號；C106 為 Final 京線系列 4N OFC 高純度銅，仿品/拆零售包/接頭非原廠風險高，要求驗線材印刷+接頭+原盒序號",
+    "title": "Final c106 京線 mmcx 3.5mm",
+    "price": 2500
   }
 }
