@@ -43110,5 +43110,52 @@
     "note": "",
     "title": "（便宜賣）INTEL Core i5-10400 LGA1200含顯卡",
     "price": 3400
+  },
+  "1441685622": {
+    "skip": true,
+    "reason": "niche",
+    "title": "Marshall Stockwell II 藍牙喇叭 (古銅黑/藍牙音響/無線/馬歇爾音響) 全新未拆封 保固一年",
+    "price": 6500
+  },
+  "1423418397": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Dior迪奧 J'ADORE 澄淨香氛(淡香精) 30ml EAU DE PARFUM",
+    "price": 1800
+  },
+  "1441697145": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "好音悅 半銀圈 Horowitz 霍洛維玆 Giulini 朱里尼 Mozart 莫札特 第23號 鋼琴協奏曲 第13號鋼琴奏鳴曲 DG 德PMDC",
+    "price": 989
+  },
+  "1441696114": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "六支裝中國笛袋#專為笛子演奏者設計的收納攜帶用品，可同時放置六支不同調性的中國笛（如梆笛、曲笛、新笛等）方便演出練習使用",
+    "price": 598
+  },
+  "1441692817": {
+    "skip": true,
+    "reason": "spam-seller-niche",
+    "title": "美國原裝BENGE（美國製造）長笛#801Ss承襲美國傳統製管工藝的經典長笛",
+    "price": 23800
+  },
+  "1441697156": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "",
+    "title": "BURTON STEP ON ESCAPADE WOMENS BINDING S 單板滑雪女固定器",
+    "price": 4000
+  },
+  "1441695592": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "小米Redmi Watch 5 Lite 金色",
+    "price": 2000,
+    "note": ""
   }
 }
