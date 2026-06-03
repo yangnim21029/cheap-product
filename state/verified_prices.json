@@ -44003,5 +44003,88 @@
     "note": "綠聯DH系列實為DH2100/DH2300等，查無DH1000疑型號標錯；全網無價，先確認真實型號(含不含硬碟)。",
     "title": "綠聯 Ugreen DH1000 NAS 雲端存儲空間 私有雲 2T可升級 請詳閱物品說明",
     "price": 4500
+  },
+  "1441764670": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "niche沖牙機 <$2000 非需求",
+    "title": "【二手/9.9成新】ZERA 音漱小子 隨行沖牙機 洗牙機",
+    "price": 1600
+  },
+  "1441766681": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "配件(電吉他袋) <$2000",
+    "title": "電吉他袋",
+    "price": 600
+  },
+  "1441768238": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "niche釣竿 非清單需求",
+    "title": "PROTAKO上興幻海ヘチ(EXELLENT) 規格:100XH(2:8調) 高CP值的黑吉竿",
+    "price": 2500
+  },
+  "1441746288": {
+    "newPrice": 13100,
+    "secondhand": null,
+    "verdict": "overpriced",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "全新行情約12,150–14,900；掛13,000等於全新最低價附近，二手沒撿便宜；看壓縮機時數與過保。",
+    "title": "Panasonic 國際牌 F-YV24NN 變頻除濕機",
+    "price": 13000
+  },
+  "1441765605": {
+    "newPrice": 23000,
+    "secondhand": null,
+    "verdict": "manual",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "水貨機，台灣無公司貨/二手樣本不足。國際新品22,000–25,000，日本二手約20,000。掛11,000約半價，但無台灣保固、維修送國外。",
+    "title": "Redmagic 紅魔電競平板Pro (NP03J) (8gen3/16g/512g)",
+    "price": 11000
+  },
+  "1441742186": {
+    "newPrice": 24900,
+    "secondhand": 12100,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "全新約24,900；二手9,900–12,000(PTT 9,900/蝦皮12,000)。掛9,500略低於二手中位可議；注意面板亮點/筆壓衰退與線材齊全。",
+    "title": "Wacom Cintiq 16 繪圖螢幕（DTK1660）盒裝完整 近全新 可議價",
+    "price": 9500
+  },
+  "1441742757": {
+    "newPrice": null,
+    "secondhand": 6380,
+    "verdict": "overpriced",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "已停產。單機二手中位5,500–6,000，多附一手把(+1,000–1,500)。掛7,500偏高但可議到6,000–6,500接近合理；搖桿易飄移、注意風扇噪音。",
+    "title": "PS4 Pro 1TB 雙手把版 原盒完整 極新 可議價",
+    "price": 7500
+  },
+  "1441743020": {
+    "newPrice": null,
+    "secondhand": 8800,
+    "verdict": "good",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "二手蝦皮18筆5,400–12,000中位約8,000。掛5,000低於行情底部划算；注意面板烙印、頭帶老化、電池續航；128G已停產。",
+    "title": "MRA QUEST2 128GB",
+    "price": 5000
   }
 }
