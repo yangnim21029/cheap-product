@@ -17,17 +17,12 @@ const UA = UA_POOL[Math.floor(Math.random() * UA_POOL.length)];
 // Item self-pid -> query plan
 // (primary query first, broader fallback if n<5)
 const PLAN = [
-  { pid: '1441647366', queries: ['instax mini 40', 'instax mini'] },
-  { pid: '1441634865', queries: ['FIRST DOWN 夾克', 'FIRST DOWN'] },
-  { pid: '1441638413', queries: ['iPad A16 128', 'iPad 11 128'] },
-  { pid: '1441637174', queries: ['iPad Air M4 128', 'iPad Air M4'] },
-  { pid: '1435073024', queries: ['Sony WH-CH720N', 'WH-CH720N'] },
-  { pid: '1441650087', queries: ['Razer Barracuda Pro', 'Razer Barracuda'] },
-  { pid: '1441645956', queries: ['Fujifilm XF10', 'XF10'] },
-  { pid: '1441654591', queries: ['Rosen 旅行吉他', '旅行吉他'] },
-  { pid: '1441651125', queries: ['YAMAHA Clavinova', 'Clavinova 電鋼琴'] },
-  { pid: '1441642599', queries: ['Switch 主機', 'Switch 遊戲機'] },
-  { pid: '1441648353', queries: ['Asus vivobook 14', 'vivobook 14'] },
+  { pid: '1441656140', queries: ['iPad Pro 11 2020 256', 'iPad Pro 11 2020'] },
+  { pid: '1441665542', queries: ['Anker Nano 7合1 100W', 'Anker 充電座 100W'] },
+  { pid: '1441657776', queries: ['iPhone 17 Pro Max', 'iPhone 17 Pro Max 256'] },
+  { pid: '1441658913', queries: ['nikon zfc 28mm', 'Viltrox 75mm f1.2'] },
+  { pid: '1441669112', queries: ['費仔 簽名 球員卡', '球員簽名卡'] },
+  { pid: '1441666932', queries: ['DUNLOP FX 500 LS', 'DUNLOP FX 500'] },
 ];
 
 const SCRAPE_JS = `() => {

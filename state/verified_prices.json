@@ -42909,5 +42909,83 @@
     "note": "規格缺 (CPU/RAM/SSD/狀態) 但 vsNew=15.9% 偏低, 落 uncertain",
     "title": "Asus vivobook 14",
     "price": 3180
+  },
+  "1441659552": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "DIOR 迪奧 MISS DIOR 香氛髮香噴霧30ML",
+    "price": 1380
+  },
+  "1441658862": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "BALMAIN 經典香氛/小荳蔻",
+    "price": 1200
+  },
+  "1441669297": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "藍釉筆洗",
+    "price": 1200
+  },
+  "1441660490": {
+    "skip": true,
+    "reason": "niche",
+    "title": "Missgar雕花老銅壺出讓 高約18cm",
+    "price": 2000
+  },
+  "1441656140": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "iPad Pro 11 2020 256GB WiFi 9成新 + 原廠巧控鍵盤(新品約 NT$10,000) bundle NT$15,900, 同款同配置 SF anchor NT$25,000, vsNew/SF=64% 落在 good-deal 區間; bundle 含鍵盤是加分",
+    "title": "Apple iPad Pro 11 (2020) Wi-Fi 256GB（9成新）+ 原廠聰穎巧控鍵盤",
+    "price": 15900
+  },
+  "1441665542": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "Anker Nano Charging Station 7-in-1 100W (A91B6 系列) 官方新品約 NT$3,290-3,490, NT$2,700 ≈ 79% new = negotiate; SF 無 model-exact 樣本可比, 賣家是否全新未開封會影響判定, 建議問狀態 + 議價到 NT$2,400 附近",
+    "title": "Anker Nano Charging Station (黑白兩色、7合1、100W、內建伸縮收納式 USB-C 傳輸線)",
+    "price": 2700
+  },
+  "1441657776": {
+    "skip": true,
+    "reason": "installment-not-price",
+    "title": "iPhone 17 Pro Max 蘋果手機 無卡分期 手機分期 免保證人 學生上班族可辦",
+    "price": 3850,
+    "note": "NT$3,850 不是售價是無卡分期月付金額 (標題明說「無卡分期/免保證人/學生上班族可辦」促銷字眼), 屬於分期陷阱手法 — 月付 NT$3,850 × 24 期 ≈ NT$92,400 遠超新品; 不是 deal 是金融商品包裝, 直接跳過"
+  },
+  "1441658913": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "good-deal",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "Zfc + 28mm f/2.8 + Viltrox 75mm f/1.2 三件式組合 NT$30,000 ≈ 58% 新品零售; Zfc 機身+28mm SE 公司貨 NT$38,000, Viltrox 75mm f/1.2 NT$13,900-17,640, bundle 算下來相當於只付機身組價錢就送 Viltrox 鏡; Nikon Z 卡口明確 (型號隱含), 風險: 標題沒寫快門數/",
+    "title": "nikon zf-c 28mm f2.8+ Viltrox 75mm f1.2",
+    "price": 30000
+  },
+  "1441669112": {
+    "skip": true,
+    "reason": "insufficient-info",
+    "title": "費仔簽名球員卡",
+    "price": 10000,
+    "note": "標題只寫「費仔簽名球員卡」, 無年份/品牌(Topps/Bowman/Panini)/卡型(refractor/RC/auto)/編號(/199 /50)/評級(PSA/BGS) — 卡片價格 95% 由這些決定; 一般簽名 RC 卡 SF NT$2,500-3,200, 但若是 Bowman 1st Chrome /50 + BGS9 之類可值 NT$10,000+; NT$10,000 對一般"
+  },
+  "1441666932": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "negotiate",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "2026 新款球拍 NT$4,500 ≈ 79% 新品零售 (新品 median NT$5,700), 落在 negotiate 區間; 標題沒寫使用狀態/穿線/握把磨損, 若全新未穿線可接受, 已穿線使用過建議再砍到 NT$3,800-4,000; 賣家若是球館/教練清庫存可入手",
+    "title": "2026 DUNLOP FX 500 LS（ATP指定用球拍）",
+    "price": 4500
   }
 }
