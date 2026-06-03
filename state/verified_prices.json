@@ -44097,5 +44097,37 @@
     "note": "收藏品(排球少年壓克力磚) <$2000 非需求",
     "title": "排球少年 壓克力磚 合售10個 全家咖啡（ 影山 日向 月島 西谷 研磨 黑尾 利耶夫 及川 岩泉 赤葦）",
     "price": 1100
+  },
+  "1441744847": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "價格解析bug(#6月6折→6001000), 實為$940 12L烤箱 niche小家電 <$2000",
+    "title": "˗ˏˋ 𐂂 （原價$940）日式美型12L 電烤箱 全新限台中自取 ˊˎ˗ #6月6折",
+    "price": 6001000
+  },
+  "1441773878": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "收藏品(無名之劍) novelty <$2000 非需求",
+    "title": "這是一把不知道名字的劍",
+    "price": 1300
+  },
+  "1441774503": {
+    "newPrice": 32999,
+    "secondhand": null,
+    "verdict": "manual",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "ROG Ally X(RC72LA Z1E/24G/1TB)全新約32,999；BigGo無乾淨二手樣本(<3)。掛18,000約新品55%，二手行情待確認；注意搖桿飄移/保固/SD卡槽。",
+    "title": "ROG Ally X",
+    "price": 18000
   }
 }
