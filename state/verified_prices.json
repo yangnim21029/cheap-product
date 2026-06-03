@@ -44086,5 +44086,16 @@
     "note": "二手蝦皮18筆5,400–12,000中位約8,000。掛5,000低於行情底部划算；注意面板烙印、頭帶老化、電池續航；128G已停產。",
     "title": "MRA QUEST2 128GB",
     "price": 5000
+  },
+  "1441771747": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "收藏品(排球少年壓克力磚) <$2000 非需求",
+    "title": "排球少年 壓克力磚 合售10個 全家咖啡（ 影山 日向 月島 西谷 研磨 黑尾 利耶夫 及川 岩泉 赤葦）",
+    "price": 1100
   }
 }
