@@ -42606,5 +42606,95 @@
     "title": "Adidas Golf Powerband shoes 高爾夫球鞋",
     "price": 2500,
     "note": "vsNew 117% 已經比新品 NT$2,138 起跳貴, vsSF 152% 更離譜。Powerband 是停產老款 (約 2018-2020 系列) 不是當代旗艦; 同預算可買新的 TRAXION/EQT。除非有特殊收藏價值否則直接跳過。"
+  },
+  "1441628949": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Switch 健身環大冒險 Ring-Con健身環 控制器 /綁腿帶 + 遊戲片",
+    "price": 700
+  },
+  "1441626004": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "「全新品」充磁吸 行動電源",
+    "price": 1000
+  },
+  "1429476885": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "Malin + Goetz 草莓香氛蠟燭 225g 全新未用",
+    "price": 1500
+  },
+  "1441630934": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "保真天然和田玉碧玉，手工立體雕刻成對核桃手把件、擺件(附檢驗證書)",
+    "price": 1388
+  },
+  "1441627560": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "早期鶯歌陶藝老件 - 手工馬克杯（爹地&媽咪一組）#10（收藏/古董/擺飾/陶甕/珍品/煉金/酒甕/手作/鶯歌/知名窯口）",
+    "price": 1000
+  },
+  "1441627436": {
+    "skip": true,
+    "reason": "under-2k",
+    "title": "早期鶯歌柴燒老件 - 手工柴燒釉面茶海/陶土公杯#07（收藏/古董/擺飾/陶甕/珍品/煉金/酒甕/手作/鶯歌/知名窯口）",
+    "price": 1000
+  },
+  "1441629754": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Apple Airpods Max 銀色 無線充電型全罩式耳機 第一代",
+    "price": 11000,
+    "note": "銀色 1st gen Lightning, NT$11,000 比 SF 中位 NT$9000 還高 (122%); 比 Lightning 清倉新品 NT$13,000 只省 15%. 新品價差太小, 不划算."
+  },
+  "1441626913": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "停產 2014 的 collector item, 30GB 5代功能正常合理區間 NT$2,000-4,000 (中古玩家市場). 樣本不足無法精算 vsSF, BigGo 工作機 n=2 偏低參考性差. 落在 collector 合理範圍, 留 uncertain 讓 User 親看狀態/電池/硬碟健康度.",
+    "title": "Ipod classic 5 (video) 30g 功能正常 mp3 播放器 復古",
+    "price": 2800
+  },
+  "1441632930": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "NT$11,000 跟 SF 中位 NT$12500 比 88%; 跟新品 NT$12000 比 92%. 接近 SF 中位但比標準版新品還高. 若是標準版 (非全能套裝) 偏貴.",
+    "title": "DJI 大疆 OSMO POCKET 3 手持口袋攝影機/相機1英吋CMOS2英吋旋轉屏",
+    "price": 11000
+  },
+  "1441634062": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "suspicious-too-cheap",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "TiiTENT 大三環棉桿日出隧道帳新品 ~NT$36,000, NT$10,000 只 28% 新品價, 極低. 該品牌旗艦帳棚, 二手市場冷, 但跌幅這麼大要警戒: 可能仿品/棉桿斷裂/缺件/僅外帳無內帳. 建議跟賣家確認完整配件清單與使用次數, 並要求現場驗貨/促銷字眼 → negotiate 但先當可疑.",
+    "title": "Tiiten大三環棉桿日出隧道帳",
+    "price": 10000
+  },
+  "1441628082": {
+    "skip": true,
+    "reason": "overpriced",
+    "title": "Micron 美光 DDR4 3200 32GB 筆電 記憶體",
+    "price": 4500,
+    "note": "NT$4,500 對 SF 中位 NT$4500 = 100%; 對新品 NT$4000 = 113%. 比 SF 中位還貴, 偏高."
+  },
+  "1441627878": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "uncertain",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "SF 同款顯卡單品樣本不足 (n=1, 多為含 1650 的整機/筆電 bundle). 對 BigGo 新品 NT$3500 = 99%. 接近新品價, 折扣空間有限.",
+    "title": "ZOTAC GAMING GeForce GTX 1650 GDDR6 顯卡 顯示卡 6-pin",
+    "price": 3450
   }
 }
