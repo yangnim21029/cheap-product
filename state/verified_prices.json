@@ -44194,5 +44194,130 @@
     "note": "i5-10400 二手中位$3,290(BigGo 7筆)+B560M二手~$1,800=零件約$5,090。掛$4,500約88%零件價,小折讓可議;2020年平台、確認是否帶iGPU版(非F)、保固。",
     "title": "Intel I5- 10400 微星 MSI B560M pro-vdh",
     "price": 4500
+  },
+  "1441781712": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "古玩(老東西商店 古玉擺件) 收藏品",
+    "title": "【老東西商店】清早期老古董收藏 老坑種老和闐脂級古青玉福壽延綿朱雀神獸啣璧如意擺件 老手工精琢細拋 老皮漿溫潤厚實 特推",
+    "price": 4680
+  },
+  "1441781274": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "古玩(老東西商店 高古玉擺件) 收藏品",
+    "title": "【老東西商店】老古董老收藏 商周晚期高古玉黃香土沁生坑質變黃玉梟瑞獸小擺件 質地細緻溫潤 皮漿絕美厚實藏家必收 稀有特推",
+    "price": 3680
+  },
+  "1441780812": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "古玩(老東西商店 墨玉把件) 收藏品",
+    "title": "【老東西商店】早期老古董老收藏 細膩油潤老坑種老和闐脂級焦糖墨玉連年有餘荷塘情趣把件 質地細緻Q潤 皮漿絕美厚實 特推",
+    "price": 3480
+  },
+  "1441782435": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "niche樂器(小提琴) <$2000 籠統",
+    "title": "小提琴，還有另售中提琴，還有腳架放琴譜的",
+    "price": 800
+  },
+  "1441783260": {
+    "newPrice": null,
+    "secondhand": null,
+    "verdict": "skip",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "skip": true,
+    "note": "籠統折疊車(無品牌)+大件 非需求",
+    "title": "都正常7速20吋前後碟煞折疊車。九成新高雄鳳山區付兒童座椅",
+    "price": 2000
+  },
+  "1441779114": {
+    "newPrice": 33500,
+    "secondhand": 21890,
+    "verdict": "good",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "二手行情18,900-20,900(中位19,900)、全新破3萬。開價1萬約市場半價划算；風險:濾芯/配件齊否、馬達壽命現場試、確認S3非仿冒。",
+    "title": "海豚吸塵器S3",
+    "price": 10000
+  },
+  "1441747945": {
+    "newPrice": null,
+    "secondhand": 7700,
+    "verdict": "overpriced",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "已停產，台灣二手約5,000-9,999(中位7,000)。開價1萬高於中位偏貴；2016舊機鏡頭伸縮/感光易老化。",
+    "title": "Canon PowerShot SX720 HS 類單眼 數位相機",
+    "price": 10000
+  },
+  "1441751719": {
+    "newPrice": 9480,
+    "secondhand": 8800,
+    "verdict": "good",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "二手含手把約5,500-8,500(中位8,000)。開價5,000明顯低於中位；確認非紅圈、儲存正常、搖桿無漂移、附線。",
+    "title": "二手Xbox series s單手柄有盒",
+    "price": 5000
+  },
+  "1441784158": {
+    "newPrice": 11999,
+    "secondhand": null,
+    "verdict": "even",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "2026全新單條32GB約11,999-12,999(美光2月退出消費市場貨稀)。開價12,000等於全新價無折扣；不如買全新有保固。",
+    "title": "美光 DDR5-5600 32G (新品NB用)",
+    "price": 12000
+  },
+  "1441783082": {
+    "newPrice": 5745,
+    "secondhand": null,
+    "verdict": "manual",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "2026全新單條16GB約4,999-6,499(中位5,745)。開價3,500約全新6成,拆機新品的話划算;無原廠保固,需memtest驗顆粒。",
+    "title": "美光 DDR5-5600 16G (拆機新品NB用)",
+    "price": 3500
+  },
+  "1441781828": {
+    "newPrice": 3700,
+    "secondhand": null,
+    "verdict": "overpriced",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "全新街價約3,590-4,200,唯一二手樣本3,099。開價3,800等於甚至高於全新,二手不該賣這價。",
+    "title": "[Intel專用] 芝奇g.skill 幻光戟Trident Z RGB DDR4 3200 16G(8GX2) F4-3200C16D-16GTZR",
+    "price": 3800
+  },
+  "1441751779": {
+    "newPrice": 7500,
+    "secondhand": null,
+    "verdict": "even",
+    "vsNew": null,
+    "vsSecondhand": null,
+    "note": "全新約7,000-7,979(中位7,500)。開價6,800僅約全新9折折扣有限;DDR4平台退場、RGB二手保固多失效。",
+    "title": "威剛 D50 DDR4 16g X2 3600 記憶體",
+    "price": 6800
   }
 }

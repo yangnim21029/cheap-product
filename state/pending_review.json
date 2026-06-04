@@ -126,7 +126,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 07:30",
+      "listedAt": "06/03 09:04",
       "pid": "1380756437",
       "verified": {
         "newPrice": 22999,
@@ -153,7 +153,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 07:30",
+      "listedAt": "06/02 09:04",
       "pid": "1438341441",
       "verified": {
         "newPrice": 6580,
@@ -220,7 +220,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 07:30",
+      "listedAt": "06/02 09:04",
       "pid": "1441441879",
       "verified": {
         "newPrice": 89000,
@@ -257,7 +257,7 @@
     },
     {
       "seller": "ath_149305",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "15 hours ago",
       "title": "微星 RTX3050 8GB DDR6",
       "price": 3480,
       "condition": "Like new",
@@ -267,7 +267,7 @@
       "priceStr": "NT$3,480",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 17:30",
+      "listedAt": "06/03 18:04",
       "pid": "1441681188",
       "verified": {
         "newPrice": 5500,
@@ -365,7 +365,7 @@
     },
     {
       "seller": "ouo66dd",
-      "timeAgo": "16 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "Acer swift 1",
       "price": 5000,
       "condition": "Lightly used",
@@ -375,7 +375,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 15:30",
+      "listedAt": "06/03 16:04",
       "pid": "1441659373",
       "verified": {
         "newPrice": null,
@@ -506,7 +506,7 @@
     },
     {
       "seller": "boldrabbit-94b0",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "AirPods4代降噪版在保有購證",
       "price": 2500,
       "condition": "Like new",
@@ -516,7 +516,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:30",
+      "listedAt": "06/03 09:04",
       "pid": "1441591429",
       "verified": {
         "newPrice": 5590,
@@ -533,7 +533,7 @@
     },
     {
       "seller": "mightyturtle_05e690",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "AirPods4代降噪版在保",
       "price": 2600,
       "condition": "Like new",
@@ -543,7 +543,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:30",
+      "listedAt": "06/03 09:04",
       "pid": "1441590498",
       "verified": {
         "newPrice": 5590,
@@ -560,7 +560,7 @@
     },
     {
       "seller": "melody0620",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "23 hours ago",
       "title": "AirPods Pro2 （USB-C）",
       "price": 2200,
       "condition": "Like new",
@@ -570,7 +570,7 @@
       "priceStr": "NT$2,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:30",
+      "listedAt": "06/03 10:04",
       "pid": "1441594840",
       "verified": {
         "newPrice": 6590,
@@ -890,7 +890,7 @@
     },
     {
       "seller": "cc0220tw",
-      "timeAgo": "7 hours ago",
+      "timeAgo": "8 hours ago",
       "title": "SWITCH 主機 電力加強版",
       "price": 3300,
       "condition": "Lightly used",
@@ -900,7 +900,7 @@
       "priceStr": "NT$3,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/04 00:30",
+      "listedAt": "06/04 01:04",
       "pid": "1441753927",
       "verified": {
         "newPrice": 8800,
@@ -914,6 +914,33 @@
       },
       "vsNew": 38,
       "vsSecondhand": 42
+    },
+    {
+      "seller": "aaaxij82",
+      "timeAgo": "9 hours ago",
+      "title": "二手Xbox series s單手柄有盒",
+      "price": 5000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441751719/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$5,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/04 00:04",
+      "pid": "1441751719",
+      "verified": {
+        "newPrice": 9480,
+        "secondhand": 8800,
+        "verdict": "good",
+        "vsNew": null,
+        "vsSecondhand": null,
+        "note": "二手含手把約5,500-8,500(中位8,000)。開價5,000明顯低於中位；確認非紅圈、儲存正常、搖桿無漂移、附線。",
+        "title": "二手Xbox series s單手柄有盒",
+        "price": 5000
+      },
+      "vsNew": 53,
+      "vsSecondhand": 57
     },
     {
       "pid": "1441710354",
@@ -934,6 +961,33 @@
         "verdict": "good-deal",
         "note": ""
       }
+    },
+    {
+      "seller": "mengshan0994810",
+      "timeAgo": "1 hour ago",
+      "title": "海豚吸塵器S3",
+      "price": 10000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441779114/",
+      "category": "吸塵器",
+      "maxDays": 7,
+      "priceStr": "NT$10,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/04 08:04",
+      "pid": "1441779114",
+      "verified": {
+        "newPrice": 33500,
+        "secondhand": 21890,
+        "verdict": "good",
+        "vsNew": null,
+        "vsSecondhand": null,
+        "note": "二手行情18,900-20,900(中位19,900)、全新破3萬。開價1萬約市場半價划算；風險:濾芯/配件齊否、馬達壽命現場試、確認S3非仿冒。",
+        "title": "海豚吸塵器S3",
+        "price": 10000
+      },
+      "vsNew": 30,
+      "vsSecondhand": 46
     }
   ],
   "negotiate": [
@@ -949,7 +1003,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 07:30",
+      "listedAt": "06/03 09:04",
       "pid": "1441548459",
       "verified": {
         "newPrice": 18500,
@@ -1057,7 +1111,7 @@
       "priceStr": "NT$22,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 07:30",
+      "listedAt": "06/03 09:04",
       "pid": "1441540812",
       "verified": {
         "newPrice": 33500,
@@ -1214,7 +1268,7 @@
     },
     {
       "seller": "gawas100002",
-      "timeAgo": "22 hours ago",
+      "timeAgo": "23 hours ago",
       "title": "JBLcharge6也是公司抽到的🥹 用不到賣給有需要的人",
       "price": 4000,
       "condition": "Brand new",
@@ -1224,7 +1278,7 @@
       "priceStr": "NT$4,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 09:30",
+      "listedAt": "06/03 10:04",
       "pid": "1441594508",
       "verified": {
         "newPrice": 6387,
@@ -1338,7 +1392,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/02 07:30",
+      "listedAt": "06/02 09:04",
       "pid": "1441483203",
       "verified": {
         "newPrice": 7930,
@@ -1483,7 +1537,7 @@
     },
     {
       "seller": "keeeennnn",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "Macbook pro 13吋 2019 i5 8G 256G",
       "price": 6990,
       "condition": "Lightly used",
@@ -1493,7 +1547,7 @@
       "priceStr": "NT$6,990",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 21:30",
+      "listedAt": "06/03 22:04",
       "pid": "1441725728",
       "verified": {
         "newPrice": null,
@@ -1507,33 +1561,6 @@
       },
       "vsNew": null,
       "vsSecondhand": 77
-    },
-    {
-      "seller": "miirkatvibe",
-      "timeAgo": "8 hours ago",
-      "title": "Wacom Cintiq 16 繪圖螢幕（DTK1660）盒裝完整 近全新 可議價",
-      "price": 9500,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1441742186/",
-      "category": "螢幕",
-      "maxDays": 7,
-      "priceStr": "NT$9,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/03 23:30",
-      "pid": "1441742186",
-      "verified": {
-        "newPrice": 24900,
-        "secondhand": 12100,
-        "verdict": "negotiate",
-        "vsNew": null,
-        "vsSecondhand": null,
-        "note": "全新約24,900；二手9,900–12,000(PTT 9,900/蝦皮12,000)。掛9,500略低於二手中位可議；注意面板亮點/筆壓衰退與線材齊全。",
-        "title": "Wacom Cintiq 16 繪圖螢幕（DTK1660）盒裝完整 近全新 可議價",
-        "price": 9500
-      },
-      "vsNew": 38,
-      "vsSecondhand": 79
     },
     {
       "seller": "azer.0920",
@@ -1590,6 +1617,33 @@
       "vsSecondhand": 88
     },
     {
+      "seller": "bcjohnson26044",
+      "timeAgo": "2 hours ago",
+      "title": "Intel I5- 10400 微星 MSI B560M pro-vdh",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441777833/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/04 07:04",
+      "pid": "1441777833",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5090,
+        "verdict": "negotiate",
+        "vsNew": null,
+        "vsSecondhand": null,
+        "note": "i5-10400 二手中位$3,290(BigGo 7筆)+B560M二手~$1,800=零件約$5,090。掛$4,500約88%零件價,小折讓可議;2020年平台、確認是否帶iGPU版(非F)、保固。",
+        "title": "Intel I5- 10400 微星 MSI B560M pro-vdh",
+        "price": 4500
+      },
+      "vsNew": null,
+      "vsSecondhand": 88
+    },
+    {
       "pid": "1441553865",
       "title": "【FEELWORLD 富威德】F6 PLUS V2 4K攝影監視螢幕(6吋)",
       "price": 3000,
@@ -1608,6 +1662,33 @@
         "verdict": "negotiate",
         "note": "BigGo 新品 NT$3,900-4,300 median 4,100 (Skyline/CameraPro 多家); Carousell/旋轉無二手樣本 (BigGo 二手 query 0 results), 用新品作 anchor vsNew 73%; 落 negotiate 區間, 但缺 SF 比對信心中等"
       }
+    },
+    {
+      "seller": "miirkatvibe",
+      "timeAgo": "10 hours ago",
+      "title": "Wacom Cintiq 16 繪圖螢幕（DTK1660）盒裝完整 近全新 可議價",
+      "price": 9500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441742186/",
+      "category": "螢幕",
+      "maxDays": 7,
+      "priceStr": "NT$9,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 23:04",
+      "pid": "1441742186",
+      "verified": {
+        "newPrice": 24900,
+        "secondhand": 12100,
+        "verdict": "negotiate",
+        "vsNew": null,
+        "vsSecondhand": null,
+        "note": "全新約24,900；二手9,900–12,000(PTT 9,900/蝦皮12,000)。掛9,500略低於二手中位可議；注意面板亮點/筆壓衰退與線材齊全。",
+        "title": "Wacom Cintiq 16 繪圖螢幕（DTK1660）盒裝完整 近全新 可議價",
+        "price": 9500
+      },
+      "vsNew": 38,
+      "vsSecondhand": 79
     },
     {
       "pid": "1441553904",
@@ -1631,7 +1712,7 @@
     },
     {
       "seller": "qwt49970608",
-      "timeAgo": "8 hours ago",
+      "timeAgo": "9 hours ago",
       "title": "Rog ally 512g z1 extreme 電競掌機",
       "price": 11000,
       "condition": "Lightly used",
@@ -1641,7 +1722,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 23:30",
+      "listedAt": "06/04 00:04",
       "pid": "1441747776",
       "verified": {
         "newPrice": 16999,
@@ -1785,7 +1866,7 @@
     },
     {
       "seller": "ok_nana01",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "拍立得instax mini 40",
       "price": 3400,
       "condition": "Like new",
@@ -1795,7 +1876,7 @@
       "priceStr": "NT$3,400",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 15:29",
+      "listedAt": "06/03 15:04",
       "pid": "1441647366",
       "verified": {
         "newPrice": null,
@@ -1809,33 +1890,6 @@
       },
       "vsNew": null,
       "vsSecondhand": 89
-    },
-    {
-      "seller": "bcjohnson26044",
-      "timeAgo": "27 minutes ago",
-      "title": "Intel I5- 10400 微星 MSI B560M pro-vdh",
-      "price": 4500,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441777833/",
-      "category": "電腦科技",
-      "maxDays": 3,
-      "priceStr": "NT$4,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/04 07:03",
-      "pid": "1441777833",
-      "verified": {
-        "newPrice": null,
-        "secondhand": 5090,
-        "verdict": "negotiate",
-        "vsNew": null,
-        "vsSecondhand": null,
-        "note": "i5-10400 二手中位$3,290(BigGo 7筆)+B560M二手~$1,800=零件約$5,090。掛$4,500約88%零件價,小折讓可議;2020年平台、確認是否帶iGPU版(非F)、保固。",
-        "title": "Intel I5- 10400 微星 MSI B560M pro-vdh",
-        "price": 4500
-      },
-      "vsNew": null,
-      "vsSecondhand": 88
     }
   ],
   "uncertain": [
@@ -1851,7 +1905,7 @@
       "priceStr": "NT$10,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 07:30",
+      "listedAt": "06/03 09:04",
       "pid": "1441540392",
       "verified": {
         "newPrice": 24000,
@@ -1864,33 +1918,6 @@
         "price": 10000
       },
       "vsNew": 42,
-      "vsSecondhand": null
-    },
-    {
-      "seller": "qaz741ws85",
-      "timeAgo": "21 hours ago",
-      "title": "DJI mini 2 se 空拍機",
-      "price": 6000,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1441597782/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "priceStr": "NT$6,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/03 10:30",
-      "pid": "1441597782",
-      "verified": {
-        "newPrice": 11799,
-        "secondhand": null,
-        "verdict": "uncertain",
-        "vsNew": 51,
-        "vsSecondhand": null,
-        "note": "未標明電池組數、飛行時數、是否含遙控器；vsNew 51% 落 mini 2 SE 二手合理區間 (4k-10k)，但配件規格未說明前無法判 deal。listing 內若補「電池×2 + 遙控器 + 飛行 X 小時」可重評為 uncertain→good-deal",
-        "title": "DJI mini 2 se 空拍機",
-        "price": 6000
-      },
-      "vsNew": 51,
       "vsSecondhand": null
     },
     {
@@ -1954,6 +1981,33 @@
       }
     },
     {
+      "seller": "qaz741ws85",
+      "timeAgo": "23 hours ago",
+      "title": "DJI mini 2 se 空拍機",
+      "price": 6000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1441597782/",
+      "category": "dji",
+      "maxDays": 7,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/03 10:04",
+      "pid": "1441597782",
+      "verified": {
+        "newPrice": 11799,
+        "secondhand": null,
+        "verdict": "uncertain",
+        "vsNew": 51,
+        "vsSecondhand": null,
+        "note": "未標明電池組數、飛行時數、是否含遙控器；vsNew 51% 落 mini 2 SE 二手合理區間 (4k-10k)，但配件規格未說明前無法判 deal。listing 內若補「電池×2 + 遙控器 + 飛行 X 小時」可重評為 uncertain→good-deal",
+        "title": "DJI mini 2 se 空拍機",
+        "price": 6000
+      },
+      "vsNew": 51,
+      "vsSecondhand": null
+    },
+    {
       "pid": "1441341188",
       "title": "DJI pocket 1",
       "price": 3500,
@@ -1995,7 +2049,7 @@
     },
     {
       "seller": "guarduin",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "12 hours ago",
       "title": "Steinberg UR-12 USB 錄音介面 直播首選 二手",
       "price": 2000,
       "condition": "Like new",
@@ -2005,7 +2059,7 @@
       "priceStr": "NT$2,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 21:30",
+      "listedAt": "06/03 21:04",
       "pid": "1441721645",
       "verified": {
         "newPrice": 4700,
@@ -2022,7 +2076,7 @@
     },
     {
       "seller": "shenhuakon94992",
-      "timeAgo": "10 hours ago",
+      "timeAgo": "11 hours ago",
       "title": "See audio yume iv",
       "price": 4500,
       "condition": "Lightly used",
@@ -2032,7 +2086,7 @@
       "priceStr": "NT$4,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 21:30",
+      "listedAt": "06/03 22:04",
       "pid": "1441724006",
       "verified": {
         "newPrice": 6980,
@@ -2168,8 +2222,35 @@
       }
     },
     {
+      "seller": "5nini0.0",
+      "timeAgo": "23 minutes ago",
+      "title": "美光 DDR5-5600 16G (拆機新品NB用)",
+      "price": 3500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441783082/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/04 08:41",
+      "pid": "1441783082",
+      "verified": {
+        "newPrice": 5745,
+        "secondhand": null,
+        "verdict": "manual",
+        "vsNew": null,
+        "vsSecondhand": null,
+        "note": "2026全新單條16GB約4,999-6,499(中位5,745)。開價3,500約全新6成,拆機新品的話划算;無原廠保固,需memtest驗顆粒。",
+        "title": "美光 DDR5-5600 16G (拆機新品NB用)",
+        "price": 3500
+      },
+      "vsNew": 61,
+      "vsSecondhand": null
+    },
+    {
       "seller": "carusokusoyoo",
-      "timeAgo": "9 hours ago",
+      "timeAgo": "10 hours ago",
       "title": "Asus VIVO BOOK go 14",
       "price": 4950,
       "condition": "Lightly used",
@@ -2179,7 +2260,7 @@
       "priceStr": "NT$4,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/03 22:30",
+      "listedAt": "06/03 23:04",
       "pid": "1435782894",
       "verified": {
         "newPrice": 7999,
@@ -2255,26 +2336,6 @@
       }
     },
     {
-      "pid": "1441562495",
-      "title": "Brother PT-910BT標籤機✨",
-      "price": 8000,
-      "priceStr": "NT$8,000",
-      "seller": "cynthia_o219",
-      "url": "https://tw.carousell.com/p/1441562495/",
-      "timeAgo": "7 hours ago",
-      "listedAt": "06/03 02:06",
-      "category": "電腦科技",
-      "condition": "Like new",
-      "vsNew": 89,
-      "vsSecondhand": 100,
-      "verified": {
-        "newPrice": 8950,
-        "secondhand": 8000,
-        "verdict": "uncertain",
-        "note": "蝦皮新品最低 NT$8,950 (含2捲帶)；二手樣本不足，開價僅低新品 11% 無 deal 空間"
-      }
-    },
-    {
       "pid": "1441421335",
       "title": "Marimekko 白橘配色花花地毯",
       "price": 2550,
@@ -2316,7 +2377,7 @@
     },
     {
       "seller": "yunglin_market",
-      "timeAgo": "5 hours ago",
+      "timeAgo": "7 hours ago",
       "title": "Redmagic 紅魔電競平板Pro (NP03J) (8gen3/16g/512g)",
       "price": 11000,
       "condition": "Lightly used",
@@ -2326,7 +2387,7 @@
       "priceStr": "NT$11,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/04 02:30",
+      "listedAt": "06/04 02:04",
       "pid": "1441765605",
       "verified": {
         "newPrice": 23000,
@@ -2460,6 +2521,33 @@
         "verdict": "uncertain",
         "note": ""
       }
+    },
+    {
+      "seller": "you2bepremium",
+      "timeAgo": "4 hours ago",
+      "title": "ROG Ally X",
+      "price": 18000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1441774503/",
+      "category": "電玩主機",
+      "maxDays": 3,
+      "priceStr": "NT$18,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/04 05:04",
+      "pid": "1441774503",
+      "verified": {
+        "newPrice": 32999,
+        "secondhand": null,
+        "verdict": "manual",
+        "vsNew": null,
+        "vsSecondhand": null,
+        "note": "ROG Ally X(RC72LA Z1E/24G/1TB)全新約32,999；BigGo無乾淨二手樣本(<3)。掛18,000約新品55%，二手行情待確認；注意搖桿飄移/保固/SD卡槽。",
+        "title": "ROG Ally X",
+        "price": 18000
+      },
+      "vsNew": 55,
+      "vsSecondhand": null
     },
     {
       "pid": "1441533027",
@@ -2913,33 +3001,6 @@
         "price": 8800
       },
       "vsNew": 68,
-      "vsSecondhand": null
-    },
-    {
-      "seller": "you2bepremium",
-      "timeAgo": "2 hours ago",
-      "title": "ROG Ally X",
-      "price": 18000,
-      "condition": "Like new",
-      "url": "https://tw.carousell.com/p/1441774503/",
-      "category": "電玩主機",
-      "maxDays": 3,
-      "priceStr": "NT$18,000",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/04 05:30",
-      "pid": "1441774503",
-      "verified": {
-        "newPrice": 32999,
-        "secondhand": null,
-        "verdict": "manual",
-        "vsNew": null,
-        "vsSecondhand": null,
-        "note": "ROG Ally X(RC72LA Z1E/24G/1TB)全新約32,999；BigGo無乾淨二手樣本(<3)。掛18,000約新品55%，二手行情待確認；注意搖桿飄移/保固/SD卡槽。",
-        "title": "ROG Ally X",
-        "price": 18000
-      },
-      "vsNew": 55,
       "vsSecondhand": null
     }
   ]
