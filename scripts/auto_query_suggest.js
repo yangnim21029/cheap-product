@@ -29,6 +29,12 @@ const KNOWN_DEAL_BRANDS = new Set([
   'akai mpk', 'arturia keylab', 'novation launchkey', 'm-audio code',
   // 居家
   'marimekko', 'wedgwood', 'iittala', 'oakley',
+  // 電繪板 (patrol 441 殺價 / 446 反覆進桶)
+  'wacom', 'cintiq', 'xp-pen', 'xppen',
+  // 電競掌機 (patrol 443 ROG Ally X / 446 MSI Claw 連續)
+  'rog ally', 'msi claw',
+  // 相機/鏡頭 (patrol 446 連續進桶)
+  'pentax', 'contax', 'voigtlander',
   // 其他
   'apple watch s', 'honeywell hpa', 'honeywell hap', 'beurer', '未來實驗室',
 ]);

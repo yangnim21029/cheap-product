@@ -264,3 +264,17 @@ raw 848 筆 / 候選 36，本輪掃 raw 雜訊看到的非清單訊號：
 
 ### 賣家分類（自動做）
 - a0968331932「老東西商店」古玩玉器連發 3 件 → 已加進 sellers.shops，下輪自動過濾
+
+## 2026-06-04 21:31 觀察（patrol 446 — 清 155 待查大批次）
+
+User 在 GitHub 看完 patrol 445 累積 130 件 → mark_seen（seen 15053→15837）。本輪 scrape 990 件 3 天內，待查一度 155 筆，分流：**89 整批 skip（收藏品 30 / 運動戶外非露營 19 / 樂器 CD 13 / 香氛消耗 8 / 配件雜項）+ 66 subagent 查價**（8 批並行，BigGo 優先）。結果好貨 6 殺價 9 手動 5，待查清零。
+
+### 進桶亮點
+- **始祖鳥 Beta AR S 號 $9,000**（好貨）— GORE-TEX 殼二手中位 $14,500、新品 $23,880，38% new。Arc'teryx 殼保值高、size 對就是撿漏；Rho AR 排汗衣同賣家但只 71% 邊緣值已 drop（保值低）。**奢侈/機能外套是 User 興趣軸**，但走 運動戶外 分類已覆蓋，不必獨立 query
+- **DJI Flip Fly More Combo + Care 2 年 + 三電 $17,000**（殺價）— 整捆新等值約 $25k，二手中位 $20k，85% 二手
+- **Transcend DDR5-5600 8G SODIMM $3,299**（手動）— 2026 記憶體缺貨，8G 筆電條新品已漲到 ~$5k，$3,299 約 66% new。**RAM 行情持續走高，舊認知會誤判**（§patrol445 已記）
+
+### 雜訊/賣家觀察
+- **主流藍牙音響賣家普遍掛高於二手**：Willen II $3,900(二手$3,200) / Emberton II $3,500(=二手) / AirPods 4 $4,500(二手$4,000)，賣家錨高，真撿漏少。Bose 系（QC Ultra $4,200、NC700 $2,500）反而是真好貨
+- **bocbon 連發 3 張全新進口黑膠**（Bob Marley / Tommy Guerrero / Sunny Day Service），售價≈進口零售底價非二手價，皆 drop。疑黑膠商家，下次同賣家多筆可考慮歸 resellers 標記
+- **型號可疑要帶疑點上 README**：小米手錶 S4「46mm」(台版僅 41mm，疑水貨)、AW S6「41mm」(S6 無 41mm，實為 40mm)、JMGO「三色」(疑 N1S) — subagent note 已標，User 看 listing 時要核型號
