@@ -292,3 +292,10 @@ User 在 GitHub 看完 patrol 445 累積 130 件 → mark_seen（seen 15053→15
 ### 新功能：售出速度追蹤（velocity）
 - velocity_log.js（每輪快照）+ velocity_report.js（各分類五分位價帶 × 售出速度）。即時粗估已可看，真實在市待累積。
 - 限制：sold/保留標籤搜尋頁抓不到（只在詳情頁），故主訊號走「消失+上架時長」。
+
+## 2026-06-06 01:30 觀察（patrol 448 — velocity 首批消失資料，暴露 page-churn 偏差）
+
+- 第 2 輪 velocity_log：在榜 2195、**消失 475**。但 1.5h 消失 22% 顯然不合理——套「上架≥1天才算離開」過濾後幾乎全歸零，證實 **475 絕大多數是 sort=recent+只抓首頁的 page churn**（新貨把舊貨擠出首頁），不是售出。
+- 結論：disappearance 在「每小時 + recent + 首頁」下沒有有效售出訊號。velocity_report 已誠實標註 + fallback 到即時粗估。
+- **要拿到真售出速度的路**（待 User 定）：(a) 抽樣開詳情頁讀售出標籤校準；(b) scrape 抓多頁不只首頁；(c) 改用 oldest-first 或降頻（讓「消失」更可能是真離開）。
+- 查價照舊延後（446 的 6/9/5 未看完）。scrape 2275 筆、無 CF。

@@ -23,12 +23,18 @@ for (const r of recs) { (byCat[r.cat] = byCat[r.cat] || []).push(r); }
 
 const cats = Object.entries(byCat)
   .map(([c, arr]) => [c, arr, arr.filter(r => !r.gone).length])
-  .filter(([, , liveN]) => liveN >= MIN_LIVE)
+  .filter(([c, , liveN]) => c && liveN >= MIN_LIVE)   // 跳過空分類雜訊
   .sort((a, b) => b[2] - a[2]);
 
+// 消失視為「離開市場」訊號的最低上架天數 — 過濾 sort=recent + 首頁的 page churn
+// (新 listing 一直把舊的擠出首頁，<1d 的「消失」多半是掉出視窗、不是賣掉)
+const MIN_GONE_AGE = 1;
+
+const goneAll = recs.filter(r => r.gone).length;
+const goneUsable = recs.filter(r => r.gone && r.timeOnMarketDays != null && r.timeOnMarketDays >= MIN_GONE_AGE).length;
 console.log(`# 各分類售出速度 — 自適應五分位價帶\n`);
-console.log(`> 追蹤 ${recs.length} 筆 listing，已消失 ${recs.filter(r => r.gone).length} 筆（真實在市樣本）`);
-console.log(`> 即時粗估＝在售存貨年齡中位（低＝周轉快，含 survivor bias 僅參考）｜真實＝已消失者末見上架年齡中位\n`);
+console.log(`> 追蹤 ${recs.length} 筆；消失 ${goneAll} 筆，其中上架≥1天才消失（過濾首頁churn後）僅 ${goneUsable} 筆可用`);
+console.log(`> ⚠ sort=recent+只抓首頁 → 多數「消失」是新貨把舊貨擠出首頁，非售出。目前主要看「即時粗估」。\n`);
 
 for (const [cat, arr, liveN] of cats) {
   const live = arr.filter(r => !r.gone && r.lastPrice > 0);
@@ -40,7 +46,7 @@ for (const [cat, arr, liveN] of cats) {
     const lo = cuts[i], hi = cuts[i + 1];
     const inBand = (p) => i === 4 ? (p >= lo && p <= hi) : (p >= lo && p < hi);
     const bl = live.filter(r => inBand(r.lastPrice));
-    const bg = arr.filter(r => r.gone && r.timeOnMarketDays != null && inBand(r.firstPrice));
+    const bg = arr.filter(r => r.gone && r.timeOnMarketDays != null && r.timeOnMarketDays >= MIN_GONE_AGE && inBand(r.firstPrice));
     bands.push({
       range: `${nt(lo)}–${nt(hi)}`,
       liveN: bl.length,
@@ -52,14 +58,15 @@ for (const [cat, arr, liveN] of cats) {
   // 最快帶：有 ≥3 已消失樣本時用真實在市，否則用即時粗估
   const ranked = bands.filter(b => b.goneN >= 3);
   let fastest, basis;
-  if (ranked.length) { fastest = ranked.reduce((a, b) => (b.tom < a.tom ? b : a)); basis = '真實在市'; }
+  if (ranked.length) { fastest = ranked.reduce((a, b) => (b.tom < a.tom ? b : a)); basis = '離開前在市'; }
   else { const lb = bands.filter(b => b.liveN >= 3 && b.liveAge != null); fastest = lb.length ? lb.reduce((a, b) => (b.liveAge < a.liveAge ? b : a)) : null; basis = '即時粗估'; }
 
   console.log(`## ${cat}（在售 ${liveN}）`);
-  console.log(`| 價帶 | 在售數 | 即時粗估(年齡中位) | 已消失 | 真實在市中位 |`);
+  console.log(`| 價帶 | 在售數 | 即時粗估(年齡中位) | 離開(≥1d) | 離開前在市中位 |`);
   console.log(`|---|---|---|---|---|`);
   bands.forEach(b => console.log(`| ${b.range} | ${b.liveN} | ${fmtAge(b.liveAge)} | ${b.goneN} | ${fmtAge(b.tom)} |`));
-  if (fastest) console.log(`\n→ **最快售出價帶：${fastest.range}**（依${basis}，${basis === '真實在市' ? fmtAge(fastest.tom) : fmtAge(fastest.liveAge)}）`);
+  if (fastest) console.log(`\n→ **最快周轉價帶：${fastest.range}**（依${basis}，${basis === '離開前在市' ? fmtAge(fastest.tom) : fmtAge(fastest.liveAge)}）`);
   console.log('');
 }
-console.log(`_資料隨每輪 patrol 累積，"真實在市" 樣本越多越準；目前多數分類靠即時粗估，跑數天後再看會穩。_`);
+console.log(`_"離開前在市" = 上架≥1天後從搜尋消失者的在市天數中位（已濾掉當天掉出首頁的 page churn，但仍含下架/降價出框，非確認售出）。_`);
+console.log(`_真確認售出需抽樣開詳情頁看標籤（v2）。即時粗估含 survivor bias，兩者都隨輪數累積變穩。_`);
