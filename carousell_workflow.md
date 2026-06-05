@@ -300,3 +300,26 @@ Yamaha Seqtrak（9000→11000）、iPad 10（7000→7500）都因為 secondhand 
 真正的撿漏是：有人不知道行情、急著出清、或是純粹懶得查價。這個窗口通常只有幾小時。
 
 所以整套系統做的不是「找便宜的東西」，而是在行情表準確的前提下，比市場快一步看到定價不合理的瞬間。行情表錯了，一切都錯——這就是為什麼行情必須 subagent web search、不能用猜的、不能用 regex 靜默丟棄。
+
+## 22. 售出速度追蹤（velocity）— patrol 447 新增
+
+找「各分類最快售出的價帶」。兩支腳本：
+
+- `scripts/velocity_log.js`：每輪 patrol 在 scrape 之後跑，把 `state/raw_results.json` 當前在售 listing 快照進 `state/velocity_listings.json`（每 pid 一筆：分類/價格/上架年齡/首見/末見/rounds/gone）。上輪在榜、這輪消失 = 離開市場（賣出/下架），記 `timeOnMarketDays`。
+- `scripts/velocity_report.js`：讀 store，**每分類用在售價格五分位自適應切價帶**，輸出兩指標 + 最快帶：
+  - **即時粗估** = 在售存貨上架年齡中位（低＝周轉快；有 survivor bias + 高上架率也偏年輕，僅參考）
+  - **真實在市** = 已消失 listing 末見上架年齡中位（需累積數輪，越多越準）
+
+跑法：`node scripts/velocity_report.js [最少在售數，預設30]`
+
+**踩過的坑 / 設計限制：**
+- **售出/保留標籤抓不到**：probe 證實 sold/reserved 標籤不在篩選搜尋結果、也不在賣家頁預設視圖，只在商品詳情頁。要直接讀標籤 = 每筆 disappeared 開詳情頁（200+/輪、慢、撞 CF），不划算。故主訊號用「從搜尋消失 + 上架時長」，標籤留作未來抽樣校準（v2）。
+- **迴圈序列**：loop prompt 改為 scrape → `velocity_log.js` → `process.js`，velocity 每輪都要記才追得到消失。
+
+## 23. 出口 IP 必須是台灣（patrol 447 教訓）
+
+scrape 隱含依賴台灣 IP。掛日本 VPN（User 打遊戲用）時 Carousell 的 Cloudflare 會對海外/VPN IP 發「Just a moment...」挑戰，**連真 Chrome 有頭也過不了**——牆在 IP 層，不是 cookie 也不是 headless 指紋。
+
+- 已加 guard：`scrape.js` 連續 3 頁吃 CF 挑戰就 `process.exit(2)`，**在寫檔前中止**，不覆寫 raw_results、不污染 query_stats 的「連續 N 輪沒貨」計數。
+- 解法：跑巡邏前關 VPN，或 Surfshark Bypasser 依網站把 `carousell.com` 排除在隧道外（遊戲照走日本）。
+- cf_clearance 綁 UA+IP，且 Carousell 正常瀏覽不發此 cookie（靠指紋放行），所以「複製 cookie」無效。

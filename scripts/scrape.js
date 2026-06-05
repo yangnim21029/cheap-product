@@ -207,6 +207,7 @@ const SKIP_RATIO = 0.3;
   const page = await ctx.newPage();
   const all = [];
   let errorCount = 0;
+  let cfBlockCount = 0; // 連續 Cloudflare 挑戰頁計數 — 多半是出口 IP 被不信任
 
   // === 搜尋頁（隨機跳過 SKIP_RATIO）===
   const skipSet = new Set();
@@ -230,6 +231,20 @@ const SKIP_RATIO = 0.3;
 
       const pageTitle = await page.title();
       console.log(`  頁面標題: ${pageTitle}`);
+
+      // Cloudflare 挑戰頁偵測 — 連續 3 頁就判定 IP 層級被擋，立刻中止（在寫檔前，不污染 state）
+      if (/just a moment|attention required|cf-browser-verification|checking your browser/i.test(pageTitle)) {
+        cfBlockCount++;
+        console.log(`  🛑 Cloudflare 挑戰頁 (${cfBlockCount}/3) — 多半是出口 IP 被不信任 (VPN/海外/機房 IP)`);
+        if (cfBlockCount >= 3) {
+          console.log(`\n🛑🛑 連續 3 頁吃 Cloudflare 挑戰 → 判定 IP 層級被擋，中止本輪。`);
+          console.log(`   未覆寫 raw_results.json / query_stats.json（避免空跑污染「連續 N 輪沒貨」計數）。`);
+          console.log(`   解法：關掉 VPN / 改用台灣 residential IP 再跑。`);
+          await browser.close();
+          process.exit(2);
+        }
+        continue;
+      }
 
       // 檢查是否被擋（500 錯誤）
       const bodyText = await page.evaluate(() => document.body?.innerText?.slice(0, 200) || '');
@@ -260,6 +275,7 @@ const SKIP_RATIO = 0.3;
 
       all.push(...items);
       errorCount = 0;
+      cfBlockCount = 0; // 有成功頁就重置（只在「連續」吃挑戰時才中止）
 
       // 記錄 query 效果
       if (!stats[q]) stats[q] = { total: 0, recentTotal: 0, zeroStreak: 0, lastSeen: null };

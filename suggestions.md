@@ -278,3 +278,17 @@ User 在 GitHub 看完 patrol 445 累積 130 件 → mark_seen（seen 15053→15
 - **主流藍牙音響賣家普遍掛高於二手**：Willen II $3,900(二手$3,200) / Emberton II $3,500(=二手) / AirPods 4 $4,500(二手$4,000)，賣家錨高，真撿漏少。Bose 系（QC Ultra $4,200、NC700 $2,500）反而是真好貨
 - **bocbon 連發 3 張全新進口黑膠**（Bob Marley / Tommy Guerrero / Sunny Day Service），售價≈進口零售底價非二手價，皆 drop。疑黑膠商家，下次同賣家多筆可考慮歸 resellers 標記
 - **型號可疑要帶疑點上 README**：小米手錶 S4「46mm」(台版僅 41mm，疑水貨)、AW S6「41mm」(S6 無 41mm，實為 40mm)、JMGO「三色」(疑 N1S) — subagent note 已標，User 看 listing 時要核型號
+
+## 2026-06-05 23:xx 觀察（patrol 447 — CF/VPN 事故 + 速度追蹤上線）
+
+### patrol 447 狀況
+- 首跑被 Cloudflare 全擋（0 筆，"Just a moment..."），根因＝User 打遊戲掛**日本 VPN**，海外 IP 被 CF 挑戰。關 VPN（台灣 IP 219.91.x）後 scraper 原設定直接過、零改動。
+- 已還原被空跑污染的 raw_results/query_stats，未用 0 筆 commit。
+- 重跑：2189 筆（963 三天內）。好貨+1 殺價+3 手動+2 皆 446 同 listing 重新比中、無淨新增。**新 213 筆待查本輪延後**（446 的 6/9/5 都還沒在 GitHub 看完，不急著再堆）。
+
+### 新增 IP-guard
+- scrape.js 連 3 頁吃 CF 挑戰即中止（exit 2），不污染狀態。以後掛 VPN 跑會快速 fail 並提示關 VPN。
+
+### 新功能：售出速度追蹤（velocity）
+- velocity_log.js（每輪快照）+ velocity_report.js（各分類五分位價帶 × 售出速度）。即時粗估已可看，真實在市待累積。
+- 限制：sold/保留標籤搜尋頁抓不到（只在詳情頁），故主訊號走「消失+上架時長」。
