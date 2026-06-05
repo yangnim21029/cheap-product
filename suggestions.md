@@ -299,3 +299,8 @@ User 在 GitHub 看完 patrol 445 累積 130 件 → mark_seen（seen 15053→15
 - 結論：disappearance 在「每小時 + recent + 首頁」下沒有有效售出訊號。velocity_report 已誠實標註 + fallback 到即時粗估。
 - **要拿到真售出速度的路**（待 User 定）：(a) 抽樣開詳情頁讀售出標籤校準；(b) scrape 抓多頁不只首頁；(c) 改用 oldest-first 或降頻（讓「消失」更可能是真離開）。
 - 查價照舊延後（446 的 6/9/5 未看完）。scrape 2275 筆、無 CF。
+
+## 2026-06-06 02:31（patrol 449 — 消失商品「重現」再證 churn）
+- velocity 第3輪：消失394，但累積gone僅+9（475→484）→ 大量448消失者449重現(un-gone)。商品在首頁進出 = page churn 鐵證。
+- 乾淨售出訊號浮現：「消失後連續≥N輪未重現」才算 candidate-sold；velocity_log 已自動 un-gone 重現者。等累積數輪可加此過濾。
+- 查價續延後（6/9/5未看）。scrape 2415、無CF。
