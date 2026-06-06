@@ -52,7 +52,10 @@ lock.acquire('velocity_check.js');
       if (/SoldOut|OutOfStock/i.test(d.avail)) {
         r.soldConfirmed = true;
         r.soldAt = now;
-        r.timeToSellDays = r.firstSeenAt ? +((Date.parse(now) - Date.parse(r.firstSeenAt)) / 86400000).toFixed(2) : null;
+        // 真實在市 = 首見時已上架天數(firstAgeDays) + 我們追蹤天數。漏掉 firstAgeDays 會嚴重低估「抓到時已老」的貨。
+        const trackedDays = r.firstSeenAt ? (Date.parse(now) - Date.parse(r.firstSeenAt)) / 86400000 : 0;
+        r.timeToSellDays = +((r.firstAgeDays || 0) + trackedDays).toFixed(2);
+        r.caughtLate = (r.firstAgeDays || 0) >= 7; // 首見時已上架≥7天 = 抓得晚, velocity 來自 timeAgo 粗估
         sold++;
       } else if (d.avail === 'InStock') {
         if (r.gone) { r.gone = false; delete r.goneAt; } // 還在賣 = churn，取消 gone

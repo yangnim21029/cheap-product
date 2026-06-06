@@ -4280,7 +4280,8 @@
     "lastAvail": "SoldOut",
     "soldConfirmed": true,
     "soldAt": "2026-06-06T16:09:12.204Z",
-    "timeToSellDays": 1.01
+    "timeToSellDays": 151.01,
+    "caughtLate": true
   },
   "1411813294": {
     "cat": "掃地機器人",
@@ -5507,7 +5508,8 @@
     "lastAvail": "SoldOut",
     "soldConfirmed": true,
     "soldAt": "2026-06-06T17:08:36.217Z",
-    "timeToSellDays": 1.05
+    "timeToSellDays": 121.05,
+    "caughtLate": true
   },
   "1419663601": {
     "cat": "KEF Muo",
@@ -6295,7 +6297,8 @@
     "lastAvail": "SoldOut",
     "soldConfirmed": true,
     "soldAt": "2026-06-06T17:08:36.217Z",
-    "timeToSellDays": 1.05
+    "timeToSellDays": 91.05,
+    "caughtLate": true
   },
   "1422557603": {
     "cat": "除濕機",

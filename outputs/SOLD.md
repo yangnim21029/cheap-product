@@ -1,14 +1,22 @@
 # 售出商品 · velocity 排序
 
-> 更新 2026-06-07 01:13 (台灣) · 追蹤 3674 件 · 已複查 216 件 · **確認售出 3 件**（可信 velocity 0）· 已移除 0 件
+> 更新 2026-06-07 01:16 (台灣) · 追蹤 3674 件 · 已複查 216 件 · **確認售出 3 件**（3 件 velocity 粗估）· 已移除 0 件
 
-> velocity = 首次看到 → 確認售出（詳情頁 JSON-LD 轉 SoldOut）的天數。賣最快在最上面。
-> ⚠ 標題已是「SOLD/保留」的，抓到時已末期、velocity 非真實在市時間，標 ⚠ 且不進分類中位。
+> velocity = 上架 → 確認售出（詳情頁 JSON-LD 轉 SoldOut）的真實在市天數 = 首見時已上架天數 + 追蹤天數。賣最快在最上面。
+> 「估」= 首見時已上架≥7天，velocity 來自 timeAgo（「X 個月前」）粗估，誤差較大但仍是真售出。
+
+## 各分類售出速度
+
+| 分類 | 售出數 | velocity 中位 | 售價中位 |
+|---|---|---|---|
+| 三腳架 | 1 | 91.0 天 | NT$600 |
+| 手機 HDMI | 1 | 121.0 天 | NT$200 |
+| Bose SoundLink | 1 | 151.0 天 | NT$2,800 |
 
 ## 全部售出（V 排序，最快在前）
 
 | # | velocity | 品項 | 分類 | 售價 | 連結 |
 |---|---|---|---|---|---|
-| 1 | 1.0 天 ⚠不準 | SOLD | Bose SoundLink | NT$2,800 | [→](https://tw.carousell.com/p/1411666517/) |
-| 2 | 1.1 天 ⚠不準 | SOLD | 手機 HDMI | NT$200 | [→](https://tw.carousell.com/p/1419562335/) |
-| 3 | 1.1 天 ⚠不準 | SOLD | 三腳架 | NT$600 | [→](https://tw.carousell.com/p/1422540157/) |
+| 1 | 91.0 天 (估) | SOLD | 三腳架 | NT$600 | [→](https://tw.carousell.com/p/1422540157/) |
+| 2 | 121.0 天 (估) | SOLD | 手機 HDMI | NT$200 | [→](https://tw.carousell.com/p/1419562335/) |
+| 3 | 151.0 天 (估) | SOLD | Bose SoundLink | NT$2,800 | [→](https://tw.carousell.com/p/1411666517/) |
