@@ -35,6 +35,12 @@ const KNOWN_DEAL_BRANDS = new Set([
   'rog ally', 'msi claw',
   // 相機/鏡頭 (patrol 446 連續進桶)
   'pentax', 'contax', 'voigtlander',
+  // 美容儀 (patrol 446+467 反覆進桶)
+  'medicube', 'ulike',
+  // 智慧手錶 (patrol 468 大量進桶)
+  'galaxy watch',
+  // 投影機 (patrol 467+468 連續進桶)
+  'viewsonic', 'jmgo',
   // 其他
   'apple watch s', 'honeywell hpa', 'honeywell hap', 'beurer', '未來實驗室',
 ]);
