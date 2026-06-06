@@ -304,3 +304,9 @@ User 在 GitHub 看完 patrol 445 累積 130 件 → mark_seen（seen 15053→15
 - velocity 第3輪：消失394，但累積gone僅+9（475→484）→ 大量448消失者449重現(un-gone)。商品在首頁進出 = page churn 鐵證。
 - 乾淨售出訊號浮現：「消失後連續≥N輪未重現」才算 candidate-sold；velocity_log 已自動 un-gone 重現者。等累積數輪可加此過濾。
 - 查價續延後（6/9/5未看）。scrape 2415、無CF。
+
+## 2026-06-06 20:04 觀察（patrol 467 — User 回來,清 20 輪累積 315 待查）
+- User 指出 deals 頁 20 小時沒動(我便宜路徑延後查價的副作用)。一次清 backlog:100 batch-skip + 215 subagent 查價 → 好貨+22 殺價+38 手動+16,待查 0。
+- 亮點好貨:AirPods Pro2 USB-C $2000(新27%)、Bose NC700 $2500、始祖鳥Beta AR $9000、ASUS FX502VM $9000(二手51%)、SHARP雷射投影機 $7000(新11%,需驗燈時)。
+- 2026 RAM/SSD 漲價再確認:多筆記憶體/SSD ask 已等於或高於新品,別用舊認知判過貴。
+- 教訓:便宜路徑延後查價會讓可見產出(deals頁)靜止,User 以為沒更新。下次長時間 defer 要嘛在 DEALS 頂部標清楚、要嘛降頻但別全停查價。
