@@ -301,20 +301,20 @@ Yamaha Seqtrak（9000→11000）、iPad 10（7000→7500）都因為 secondhand 
 
 所以整套系統做的不是「找便宜的東西」，而是在行情表準確的前提下，比市場快一步看到定價不合理的瞬間。行情表錯了，一切都錯——這就是為什麼行情必須 subagent web search、不能用猜的、不能用 regex 靜默丟棄。
 
-## 22. 售出速度追蹤（velocity）— patrol 447 新增
+## 22. 售出速度追蹤（velocity）— patrol 447 起，467 改 check-based
 
-找「各分類最快售出的價帶」。兩支腳本：
+目標：知道**追蹤過的貨哪些真的賣掉了**、各分類售出多快。三支腳本：
 
-- `scripts/velocity_log.js`：每輪 patrol 在 scrape 之後跑，把 `state/raw_results.json` 當前在售 listing 快照進 `state/velocity_listings.json`（每 pid 一筆：分類/價格/上架年齡/首見/末見/rounds/gone）。上輪在榜、這輪消失 = 離開市場（賣出/下架），記 `timeOnMarketDays`。
-- `scripts/velocity_report.js`：讀 store，**每分類用在售價格五分位自適應切價帶**，輸出兩指標 + 最快帶：
-  - **即時粗估** = 在售存貨上架年齡中位（低＝周轉快；有 survivor bias + 高上架率也偏年輕，僅參考）
-  - **真實在市** = 已消失 listing 末見上架年齡中位（需累積數輪，越多越準）
+- `scripts/velocity_log.js`：每輪 scrape 後跑，把當前在售 listing 快照進 `state/velocity_listings.json`（每 pid：分類/title/url/價格/首見/末見/rounds/gone）。
+- `scripts/velocity_check.js [N]`：每輪挑 N 件（gone 優先、最久沒查先）**開詳情頁讀 JSON-LD `availability`**。`InStock`=還在賣（gone 的取消 gone，那是 churn）；`SoldOut/OutOfStock`=確認售出，記 `soldAt` + `timeToSellDays`（首見→售出）；頁面移除=`removed`。預設 N=40，~3000 件追蹤約 2–3 天輪一遍。
+- `scripts/velocity_sold_table.js`：把 `soldConfirmed` 項目按 `timeToSellDays`（velocity）排序，賣最快在前，寫 `outputs/SOLD.md`（GitHub 可見）。
+- `scripts/velocity_report.js`：各分類五分位價帶的「即時粗估」（在售存貨年齡中位，survivor-bias 僅參考）。真售出速度看 SOLD.md。
 
-跑法：`node scripts/velocity_report.js [最少在售數，預設30]`
-
-**踩過的坑 / 設計限制：**
-- **售出/保留標籤抓不到**：probe 證實 sold/reserved 標籤不在篩選搜尋結果、也不在賣家頁預設視圖，只在商品詳情頁。要直接讀標籤 = 每筆 disappeared 開詳情頁（200+/輪、慢、撞 CF），不划算。故主訊號用「從搜尋消失 + 上架時長」，標籤留作未來抽樣校準（v2）。
-- **迴圈序列**：loop prompt 改為 scrape → `velocity_log.js` → `process.js`，velocity 每輪都要記才追得到消失。
+**核心發現（patrol 467 實證，別再走回頭路）：**
+- **「從搜尋消失」≈ 100% 是 page churn，不是賣掉**：sort=recent + 只抓首頁，新貨一直把舊貨擠出首頁。實測 15+60 個「消失」item 開詳情頁，**全部 `InStock`（還在賣），0 售出**。絕不能用 disappearance 當售出訊號。
+- **唯一可信的售出訊號 = 詳情頁 JSON-LD `availability`**（InStock vs SoldOut）。文字搜 "Sold/售出" 會誤中頁面其他區塊（假陽性）；賣家把標題改「保留」只是慣例非系統 badge。一律讀 JSON-LD。
+- **商品要數天才賣掉**，不是數小時 → 別對每小時 churn 反應，對追蹤清單**每隔幾天回查一次** availability。
+- 迴圈序列：scrape → `velocity_log` → `velocity_check N` → `velocity_sold_table` → `process`。velocity_check 用 chromium（吃 chromium-lock，排 scrape 之後）。
 
 ## 23. 出口 IP 必須是台灣（patrol 447 教訓）
 

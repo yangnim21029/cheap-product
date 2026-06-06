@@ -52,12 +52,15 @@ for (const it of raw) {
     r.lastSeenAt = now;
     if (age != null) r.lastAgeDays = age;
     r.lastPrice = price;
+    r.title = it.title || r.title || '';     // 補/更新 title + url（SOLD 表要顯示）
+    r.url = it.url || r.url || '';
     r.rounds = (r.rounds || 1) + 1;
     if (r.gone) { r.gone = false; delete r.goneAt; } // 重新出現（價格改回區間內等）→ 取消 gone
     upserted++;
   } else {
     store[pid] = {
       cat: it.category || '',
+      title: it.title || '', url: it.url || '',
       firstPrice: price, lastPrice: price,
       cond: it.condition || '',
       firstSeenAt: now, lastSeenAt: now,

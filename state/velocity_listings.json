@@ -74,9 +74,10 @@
     "firstAgeDays": 2190,
     "lastAgeDays": 2190,
     "rounds": 15,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 2190,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1100044965": {
     "cat": "Refa",
@@ -127,9 +128,10 @@
     "firstAgeDays": 1460,
     "lastAgeDays": 1460,
     "rounds": 9,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 1460,
-    "goneAt": "2026-06-06T08:45:37.098Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1171526784": {
     "cat": "20L 除濕機",
@@ -167,9 +169,10 @@
     "firstAgeDays": 1460,
     "lastAgeDays": 1460,
     "rounds": 15,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 1460,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1184364675": {
     "cat": "Devialet",
@@ -181,9 +184,10 @@
     "firstAgeDays": 1460,
     "lastAgeDays": 1460,
     "rounds": 10,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 1460,
-    "goneAt": "2026-06-06T10:46:41.661Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1185405629": {
     "cat": "Refa",
@@ -221,9 +225,10 @@
     "firstAgeDays": 1460,
     "lastAgeDays": 1460,
     "rounds": 15,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 1460,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1194781258": {
     "cat": "相印機",
@@ -468,9 +473,10 @@
     "firstAgeDays": 1,
     "lastAgeDays": 1,
     "rounds": 3,
-    "gone": true,
-    "goneAt": "2026-06-05T19:32:55.152Z",
-    "timeOnMarketDays": 1
+    "gone": false,
+    "timeOnMarketDays": 1,
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1289612838": {
     "cat": "Refa",
@@ -586,9 +592,10 @@
     "firstAgeDays": 730,
     "lastAgeDays": 730,
     "rounds": 13,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 730,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1317639149": {
     "cat": "電競椅",
@@ -897,9 +904,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1342417637": {
     "cat": "Bose SoundLink",
@@ -976,9 +984,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 15,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1345849668": {
     "cat": "相印機",
@@ -1003,9 +1012,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1346332055": {
     "cat": "Refa",
@@ -1148,9 +1158,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1357176489": {
     "cat": "手機 HDMI",
@@ -1266,9 +1277,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 15,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1361307838": {
     "cat": "電競椅",
@@ -1293,9 +1305,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1362219815": {
     "cat": "手機 HDMI",
@@ -1359,9 +1372,10 @@
     "firstAgeDays": 330,
     "lastAgeDays": 330,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 330,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1365343790": {
     "cat": "Bose SoundLink",
@@ -1425,9 +1439,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1368101249": {
     "cat": "空氣循環扇",
@@ -1439,9 +1454,10 @@
     "firstAgeDays": 330,
     "lastAgeDays": 330,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 330,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1368478855": {
     "cat": "空氣循環扇",
@@ -1453,9 +1469,10 @@
     "firstAgeDays": 300,
     "lastAgeDays": 300,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 300,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1369632606": {
     "cat": "Steam Deck",
@@ -1544,9 +1561,10 @@
     "firstAgeDays": 365,
     "lastAgeDays": 365,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 365,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1376230457": {
     "cat": "Refa",
@@ -1636,9 +1654,10 @@
     "firstAgeDays": 330,
     "lastAgeDays": 330,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 330,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1379376477": {
     "cat": "相印機",
@@ -1663,9 +1682,10 @@
     "firstAgeDays": 330,
     "lastAgeDays": 330,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 330,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1381122155": {
     "cat": "Rimowa",
@@ -1807,9 +1827,10 @@
     "firstAgeDays": 300,
     "lastAgeDays": 300,
     "rounds": 13,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 300,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1384456327": {
     "cat": "Galaxy S",
@@ -1821,9 +1842,10 @@
     "firstAgeDays": 300,
     "lastAgeDays": 300,
     "rounds": 15,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 300,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1384691645": {
     "cat": "Bose QC",
@@ -1848,9 +1870,10 @@
     "firstAgeDays": 210,
     "lastAgeDays": 210,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 210,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1384780329": {
     "cat": "Rimowa",
@@ -1927,9 +1950,10 @@
     "firstAgeDays": 300,
     "lastAgeDays": 300,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 300,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1387175328": {
     "cat": "Rimowa",
@@ -1954,9 +1978,10 @@
     "firstAgeDays": 300,
     "lastAgeDays": 300,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 300,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1387701510": {
     "cat": "Rimowa",
@@ -2007,9 +2032,10 @@
     "firstAgeDays": 210,
     "lastAgeDays": 210,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 210,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1388554109": {
     "cat": "Steam Deck",
@@ -2125,9 +2151,10 @@
     "firstAgeDays": 270,
     "lastAgeDays": 270,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 270,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1390544042": {
     "cat": "空氣循環扇",
@@ -2139,9 +2166,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1390668707": {
     "cat": "空氣循環扇",
@@ -2153,9 +2181,10 @@
     "firstAgeDays": 270,
     "lastAgeDays": 270,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 270,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1390718668": {
     "cat": "Steam Deck",
@@ -2193,9 +2222,10 @@
     "firstAgeDays": 210,
     "lastAgeDays": 210,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 210,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1390801162": {
     "cat": "Tumi",
@@ -2207,9 +2237,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1390854436": {
     "cat": "空氣循環扇",
@@ -2221,9 +2252,10 @@
     "firstAgeDays": 270,
     "lastAgeDays": 270,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 270,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1391643805": {
     "cat": "相印機",
@@ -2430,9 +2462,10 @@
     "firstAgeDays": 270,
     "lastAgeDays": 270,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 270,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1394360336": {
     "cat": "空氣循環扇",
@@ -2444,9 +2477,10 @@
     "firstAgeDays": 270,
     "lastAgeDays": 270,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 270,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1394429958": {
     "cat": "Tumi",
@@ -2458,9 +2492,10 @@
     "firstAgeDays": 240,
     "lastAgeDays": 270,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 270,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1394717086": {
     "cat": "手機 HDMI",
@@ -2511,9 +2546,10 @@
     "firstAgeDays": 150,
     "lastAgeDays": 150,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 150,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1395573925": {
     "cat": "空氣循環扇",
@@ -2525,9 +2561,10 @@
     "firstAgeDays": 150,
     "lastAgeDays": 150,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 150,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1395625297": {
     "cat": "手機 HDMI",
@@ -2580,7 +2617,10 @@
     "rounds": 14,
     "gone": true,
     "timeOnMarketDays": 240,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "goneAt": "2026-06-06T11:49:21.745Z",
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "none",
+    "checkNote": "avail=none len=4579"
   },
   "1398340343": {
     "cat": "Rimowa",
@@ -2631,9 +2671,10 @@
     "firstAgeDays": 240,
     "lastAgeDays": 240,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 240,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1399423755": {
     "cat": "Rimowa",
@@ -2671,9 +2712,10 @@
     "firstAgeDays": 240,
     "lastAgeDays": 240,
     "rounds": 5,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 240,
-    "goneAt": "2026-06-05T23:35:39.618Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1400850040": {
     "cat": "相印機",
@@ -2802,9 +2844,10 @@
     "firstAgeDays": 210,
     "lastAgeDays": 210,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 210,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1403521912": {
     "cat": "磨豆機",
@@ -2816,9 +2859,10 @@
     "firstAgeDays": 210,
     "lastAgeDays": 210,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 210,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1403679668": {
     "cat": "Rimowa",
@@ -2869,9 +2913,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1404505315": {
     "cat": "Refa",
@@ -2922,9 +2967,10 @@
     "firstAgeDays": 210,
     "lastAgeDays": 210,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 210,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1405427756": {
     "cat": "手機 HDMI",
@@ -2988,9 +3034,10 @@
     "firstAgeDays": 60,
     "lastAgeDays": 60,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 60,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1406804989": {
     "cat": "Rimowa",
@@ -3054,9 +3101,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1407547819": {
     "cat": "相印機",
@@ -3094,9 +3142,10 @@
     "firstAgeDays": 30,
     "lastAgeDays": 30,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 30,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1407714182": {
     "cat": "Bose SoundLink",
@@ -3134,9 +3183,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 14,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1408164318": {
     "cat": "磨豆機",
@@ -3148,9 +3198,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1408800735": {
     "cat": "電競椅",
@@ -3175,9 +3226,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1409132373": {
     "cat": "手機 HDMI",
@@ -3202,9 +3254,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1409897085": {
     "cat": "Sony WH-1000XM",
@@ -3281,9 +3334,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1410511356": {
     "cat": "相印機",
@@ -3373,9 +3427,10 @@
     "firstAgeDays": 180,
     "lastAgeDays": 180,
     "rounds": 11,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1411062854": {
     "cat": "Bose QC",
@@ -3400,9 +3455,10 @@
     "firstAgeDays": 150,
     "lastAgeDays": 180,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 180,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1411544774": {
     "cat": "Tumi",
@@ -3414,9 +3470,10 @@
     "firstAgeDays": 150,
     "lastAgeDays": 150,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 150,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1411666517": {
     "cat": "Bose SoundLink",
@@ -3441,9 +3498,10 @@
     "firstAgeDays": 60,
     "lastAgeDays": 60,
     "rounds": 12,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 60,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1411834857": {
     "cat": "相印機",
@@ -3481,9 +3539,10 @@
     "firstAgeDays": 150,
     "lastAgeDays": 150,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 150,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1412490555": {
     "cat": "掃地機器人",
@@ -3495,9 +3554,10 @@
     "firstAgeDays": 120,
     "lastAgeDays": 120,
     "rounds": 12,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 120,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1412698907": {
     "cat": "相印機",
@@ -3600,9 +3660,10 @@
     "firstAgeDays": 150,
     "lastAgeDays": 150,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 150,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1414409546": {
     "cat": "瑜珈墊",
@@ -3627,9 +3688,10 @@
     "firstAgeDays": 90,
     "lastAgeDays": 90,
     "rounds": 16,
-    "gone": true,
+    "gone": false,
     "timeOnMarketDays": 90,
-    "goneAt": "2026-06-06T11:49:21.745Z"
+    "checkedAt": "2026-06-06T12:26:51.408Z",
+    "lastAvail": "InStock"
   },
   "1414648714": {
     "cat": "相印機",
