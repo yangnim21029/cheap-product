@@ -15,7 +15,7 @@ const checked = Object.values(store).filter(r => r.checkedAt).length;
 const tracked = Object.keys(store).length;
 const nt = (n) => 'NT$' + (n || 0).toLocaleString();
 const fmtV = (d) => d < 1 ? `${Math.round(d * 24)} 小時` : `${d.toFixed(1)} 天`;
-const ts = new Date().toISOString().replace('T', ' ').slice(0, 16);
+const ts = new Date(Date.now() + 8 * 3600 * 1000).toISOString().replace('T', ' ').slice(0, 16) + ' (台灣)';
 
 let md = `# 售出商品 · velocity 排序\n\n`;
 md += `> 更新 ${ts} · 追蹤 ${tracked} 件 · 已複查 ${checked} 件 · **確認售出 ${sold.length} 件** · 已移除 ${removed} 件\n\n`;
