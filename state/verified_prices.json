@@ -1545,6 +1545,12 @@
     "note": "Patrol 356 SKIP: <NT$2K 爵士鼓棒袋",
     "source": "patrol_356_skip"
   },
+  "1424129099": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "海鷹LT船竿架",
+    "verifiedAt": "2026-06-08"
+  },
   "1424137811": {
     "newPrice": null,
     "secondhand": null,
@@ -1842,6 +1848,18 @@
     "note": "patrol467 查無行情/型號不明",
     "verifiedAt": "2026-06-06"
   },
+  "1425195999": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "民選總統紀念鈔",
+    "verifiedAt": "2026-06-08"
+  },
+  "1425222512": {
+    "secondhand": null,
+    "newPrice": 2880,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1425224417": {
     "skip": true,
     "note": "patrol467 batch-skip 非追蹤需求(音樂媒體)",
@@ -1860,6 +1878,12 @@
     "note": "咒術迴戰寶寶娃吊飾，動漫周邊非目標 SKIP",
     "source": "2026-05-14",
     "skip": true
+  },
+  "1425257106": {
+    "secondhand": null,
+    "newPrice": 30000,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1425261086": {
     "newPrice": null,
@@ -1881,6 +1905,12 @@
     "note": "烏克麗麗 NT$800 luckybear.e9d26c <$2K 樂器 SKIP",
     "source": "2026-05-25",
     "skip": true
+  },
+  "1425403045": {
+    "secondhand": 15000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1425403799": {
     "newPrice": null,
@@ -2399,6 +2429,12 @@
     "secondhand": null,
     "note": "Patrol 100 SKIP: 【吉卜力】霍爾的移動城堡 透明書籤收藏｜宮崎駿 電影特典 truekite",
     "source": "manual_skip"
+  },
+  "1427372697": {
+    "secondhand": 19000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1427374577": {
     "newPrice": null,
@@ -4259,6 +4295,36 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1430667881": {
+    "secondhand": null,
+    "newPrice": 2990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1430672577": {
+    "secondhand": null,
+    "newPrice": 17888,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1430673261": {
+    "secondhand": null,
+    "newPrice": 3190,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1430674799": {
+    "secondhand": null,
+    "newPrice": 2790,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1430678070": {
+    "secondhand": 11000,
+    "newPrice": 13790,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1430683824": {
     "newPrice": null,
     "secondhand": null,
@@ -4286,6 +4352,12 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1430729582": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "BlackPink-Jisoo LP",
+    "verifiedAt": "2026-06-08"
+  },
   "1430730086": {
     "newPrice": null,
     "secondhand": null,
@@ -4300,12 +4372,29 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1430733579": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
   "1430739352": {
     "newPrice": null,
     "secondhand": null,
     "note": "三腳架 手機藍牙自拍棒/三腳架（兩用） NT$500 入門腳架二手價合理無顯著折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1430740199": {
+    "secondhand": null,
+    "newPrice": 11950,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1430740941": {
+    "secondhand": 3800,
+    "newPrice": 4680,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1430745056": {
     "newPrice": null,
@@ -4321,11 +4410,23 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1430774127": {
+    "secondhand": 4300,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1430774612": {
     "newPrice": 19900,
     "secondhand": null,
     "note": "B&O Beoplay H9i 星空版 已停產 公司貨原價$19,900。$5,000=25% → 好貨檻, ⚠ 二手實際$4.5K-5K 同價, 樣本不足",
     "source": "web search 2026-05-09"
+  },
+  "1430785701": {
+    "secondhand": 1500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1430794488": {
     "skip": true,
@@ -6368,6 +6469,12 @@
     "note": "除濕機 2022 HITACHI 6公升除濕機 NT$4,500 monkey30407 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1434315070": {
+    "secondhand": null,
+    "newPrice": 20990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1434329122": {
     "newPrice": null,
@@ -8646,6 +8753,12 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1436209510": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "急售面交詹姆斯球鞋21尺寸是12",
+    "verifiedAt": "2026-06-08"
+  },
   "1436215088": {
     "newPrice": 4490,
     "secondhand": 3230,
@@ -8657,6 +8770,12 @@
     "secondhand": 7500,
     "note": "AW S7 45mm 個人賣家$7,000-8,000(Carousell$8K/蝦皮$7.2K)。$5,000=67%二手, 過保固期",
     "source": "web search 2026-05-05"
+  },
+  "1436218143": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "XXIO PRIME SP900 鐵桿組 #6 ~ #P, R 桿身",
+    "verifiedAt": "2026-06-08"
   },
   "1436218357": {
     "newPrice": null,
@@ -8846,6 +8965,12 @@
     "title": "Kepma ES36-NM 36寸原木色 面單琴 九成九新 二手 新手吉他 小吉",
     "verifiedAt": "2026-06-06"
   },
+  "1436356296": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "Mizuno 美津濃 競速跑鞋 Hyperwarp Pro 白 碳板 馬拉松 J",
+    "verifiedAt": "2026-06-08"
+  },
   "1436357849": {
     "newPrice": null,
     "secondhand": null,
@@ -8881,6 +9006,12 @@
     "secondhand": null,
     "note": "Samsung Galaxy Buds 4 (非Pro) TW新品$5,190(2026/3上市)。$3,000=58%, 才6週新機型二手稀少",
     "source": "web search 2026-05-06"
+  },
+  "1436367330": {
+    "secondhand": null,
+    "newPrice": 8500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1436367629": {
     "newPrice": 5980,
@@ -8974,6 +9105,12 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1436423441": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "MALIN+GOETZ麻草滾珠式香氛油/ 7ml",
+    "verifiedAt": "2026-06-08"
+  },
   "1436424889": {
     "newPrice": 4990,
     "secondhand": null,
@@ -8992,6 +9129,12 @@
     "secondhand": null,
     "note": "Fuji Mini 40 新品$2,990-3,619。$3,500=92%幾乎新品價",
     "source": "web search 2026-05-06"
+  },
+  "1436433171": {
+    "secondhand": 15500,
+    "newPrice": 16500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1436436510": {
     "skip": true,
@@ -9013,6 +9156,12 @@
     "note": "Insta360 Ace Pro 2 微距鏡頭 港價HK$999≈NT$3,900。$2,800=72% 邊緣, 進手動可參考",
     "source": "web search 2026-05-11"
   },
+  "1436444813": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "Biancofiore 白之花香氛濕紙巾12入",
+    "verifiedAt": "2026-06-08"
+  },
   "1436445938": {
     "newPrice": null,
     "secondhand": null,
@@ -9031,6 +9180,12 @@
     "secondhand": null,
     "note": "Marshall Major IV 咖啡 新品$4,990。$3,350=67%, ⚠ PTT/Dcard 有假貨警告，建議當面驗",
     "source": "web search 2026-05-07"
+  },
+  "1436448557": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "銅門刀 銅蘭 刀身32長 全長49 含刀鞘58",
+    "verifiedAt": "2026-06-08"
   },
   "1436451845": {
     "newPrice": 5900,
@@ -9153,6 +9308,12 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1436504375": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "DAINESE NEXUS 2 義大利配色 全新 有原廠瑕疵染色",
+    "verifiedAt": "2026-06-08"
+  },
   "1436509508": {
     "newPrice": 4500,
     "secondhand": null,
@@ -9178,6 +9339,12 @@
     "note": "AirPods 4 ANC 新品$4,990, 二手中位$4,000。連續降價$3,200→$2,700→$2,300=46%/57%, 越來越便宜⚠ 假貨多請當面驗",
     "source": "web search 2026-05-07"
   },
+  "1436519538": {
+    "secondhand": null,
+    "newPrice": 6490,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1436523874": {
     "newPrice": null,
     "secondhand": null,
@@ -9190,6 +9357,12 @@
     "secondhand": 30000,
     "note": "Sony A7III 機身公司貨 已停產 二手中位$30,000。$27,000=90% → 殺價檻邊緣, 快門3千多極低算合理偏便宜",
     "source": "web search 2026-05-08"
+  },
+  "1436526227": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "SEATOSUMMIT輕厚系列睡墊(L)",
+    "verifiedAt": "2026-06-08"
   },
   "1436527640": {
     "newPrice": null,
@@ -9270,6 +9443,12 @@
     "note": "Switch 遊戲片 Switch 遊戲片 周邊配件 NT$999 ilove820216 中位/雜訊/批量 SKIP",
     "source": "2026-05-17",
     "skip": true
+  },
+  "1436565990": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "Native Instruments Maschine MK2 節奏 編曲控制器",
+    "verifiedAt": "2026-06-08"
   },
   "1436575549": {
     "newPrice": null,
@@ -9403,6 +9582,11 @@
     "source": "2026-05-17",
     "skip": true
   },
+  "1436625158": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
   "1436625667": {
     "newPrice": null,
     "secondhand": null,
@@ -9423,6 +9607,12 @@
     "note": "標題只有 YouTube link 詐騙 SKIP",
     "source": "manual 2026-05-08",
     "skip": true
+  },
+  "1436631238": {
+    "secondhand": 8500,
+    "newPrice": 10500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1436631479": {
     "newPrice": null,
@@ -45604,6 +45794,12 @@
     "verifiedAt": "2026-06-04",
     "source": "subagent+biggo"
   },
+  "1441913752": {
+    "secondhand": 12000,
+    "newPrice": 9690,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1441914709": {
     "secondhand": 2600,
     "newPrice": 2830,
@@ -45808,6 +46004,12 @@
     "verifiedAt": "2026-06-06",
     "source": "subagent+biggo"
   },
+  "1441993442": {
+    "secondhand": null,
+    "newPrice": 4000,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1441995942": {
     "skip": true,
     "note": "patrol467 batch-skip 非追蹤需求(行動電源)",
@@ -45872,6 +46074,12 @@
     "newPrice": 2390,
     "verifiedAt": "2026-06-06",
     "source": "subagent+biggo"
+  },
+  "1442028115": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "Initio Parfums Prives Absolute Aphrodisi",
+    "verifiedAt": "2026-06-08"
   },
   "1442029361": {
     "skip": true,
@@ -45961,6 +46169,12 @@
     "title": "OceanMRX蛙鞋單支",
     "verifiedAt": "2026-06-06"
   },
+  "1442046425": {
+    "secondhand": 3500,
+    "newPrice": 4250,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1442059738": {
     "secondhand": 3800,
     "newPrice": 6000,
@@ -46042,6 +46256,12 @@
     "verifiedAt": "2026-06-06",
     "source": "subagent+biggo"
   },
+  "1442087356": {
+    "secondhand": 3500,
+    "newPrice": 4250,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1442087741": {
     "secondhand": null,
     "newPrice": 15000,
@@ -46119,6 +46339,12 @@
     "verifiedAt": "2026-06-06",
     "source": "subagent+biggo"
   },
+  "1442103324": {
+    "secondhand": null,
+    "newPrice": 2108,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1442104402": {
     "secondhand": 6400,
     "newPrice": 9400,
@@ -46189,6 +46415,12 @@
     "skip": true,
     "note": "patrol467 查無行情/型號不明",
     "verifiedAt": "2026-06-06"
+  },
+  "1442113980": {
+    "secondhand": null,
+    "newPrice": 1099,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
   },
   "1442114431": {
     "skip": true,
@@ -46888,6 +47120,12 @@
     "verifiedAt": "2026-06-06",
     "source": "subagent+biggo"
   },
+  "1442223169": {
+    "secondhand": null,
+    "newPrice": 3190,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1442223535": {
     "secondhand": 10500,
     "newPrice": null,
@@ -47089,6 +47327,18 @@
     "note": "patrol467 查無行情/型號不明",
     "verifiedAt": "2026-06-06"
   },
+  "1442260371": {
+    "secondhand": 2900,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442260416": {
+    "secondhand": null,
+    "newPrice": 2500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
   "1442262213": {
     "skip": true,
     "note": "patrol467 batch-skip 非追蹤需求(收藏品)",
@@ -47165,5 +47415,1395 @@
     "newPrice": null,
     "verifiedAt": "2026-06-06",
     "source": "subagent+biggo"
+  },
+  "1442303398": {
+    "secondhand": 15500,
+    "newPrice": 16500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442303738": {
+    "secondhand": 7500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442305721": {
+    "secondhand": null,
+    "newPrice": 9500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442310122": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "單板雪衣+雪褲+ 手套（滑雪用品 單板 雙板）",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442311710": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "Byzoom Fitness 40磅 (18kg) 調整式壺鈴白 全新箱裝",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442314055": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "高爾夫球袋",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442314708": {
+    "secondhand": null,
+    "newPrice": 8400,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442315476": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442316602": {
+    "secondhand": 850,
+    "newPrice": 1380,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442317759": {
+    "secondhand": 5500,
+    "newPrice": 8190,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442318796": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442324007": {
+    "secondhand": 13000,
+    "newPrice": 15500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442324054": {
+    "secondhand": 24000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442325586": {
+    "secondhand": 10500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442325839": {
+    "secondhand": 9000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442328349": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442330024": {
+    "secondhand": null,
+    "newPrice": 999,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442331235": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442332653": {
+    "secondhand": 1600,
+    "newPrice": 1990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442333984": {
+    "secondhand": 6000,
+    "newPrice": 9790,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442335032": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442336877": {
+    "secondhand": 13000,
+    "newPrice": 11990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442337174": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442337919": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442340081": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442341957": {
+    "secondhand": 11000,
+    "newPrice": 14500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442342049": {
+    "secondhand": null,
+    "newPrice": 6680,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442345060": {
+    "secondhand": null,
+    "newPrice": 4599,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442345077": {
+    "secondhand": 1200,
+    "newPrice": 1880,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442346274": {
+    "secondhand": 3300,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442349821": {
+    "secondhand": 6300,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442351136": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "XTERRA FB370 健身车",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442352670": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "電動 滑板車",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442353214": {
+    "secondhand": null,
+    "newPrice": 9500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442354208": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(行動電源)",
+    "title": "【亞果元素】VIONTA L10 超薄型磁吸行動電源10000mAh(標示Wh/",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442361135": {
+    "secondhand": null,
+    "newPrice": 14900,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442369330": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "Kerzon無敵潔淨織品呵護香氛噴霧-玫瑰100ml",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442373170": {
+    "secondhand": 2800,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442374976": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "06月從日本帶回 快速出貨🚚 無印良品・睡眠噴霧💦 香氛噴霧 枕頭香水 舒眠",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442375028": {
+    "secondhand": 320,
+    "newPrice": 600,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442380080": {
+    "secondhand": 4500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442381307": {
+    "secondhand": 4580,
+    "newPrice": 7490,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442385585": {
+    "secondhand": 8000,
+    "newPrice": 9900,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442385849": {
+    "secondhand": null,
+    "newPrice": 2988,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442387044": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "Penhaligon’s 潘海利根香氛圖書館 Scent Library 10x",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442388786": {
+    "secondhand": 4500,
+    "newPrice": 6990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442388908": {
+    "secondhand": 1600,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442389822": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442392364": {
+    "secondhand": null,
+    "newPrice": 8980,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442392490": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442392723": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442393258": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442394200": {
+    "secondhand": 2800,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442395228": {
+    "secondhand": null,
+    "newPrice": 5980,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442396658": {
+    "secondhand": 1700,
+    "newPrice": 3000,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442396680": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442397471": {
+    "secondhand": null,
+    "newPrice": 4690,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442397770": {
+    "secondhand": 2200,
+    "newPrice": 3280,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442397773": {
+    "secondhand": 6500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442398109": {
+    "secondhand": null,
+    "newPrice": 4690,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442399634": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "Diptyque 漿果 70g 香氛蠟燭 超迷你香氛蠟燭 全新 超殺優惠 專櫃貨",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442400829": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "alpinestars SMX-6 V2 honda 45號聯名款 有盒 很新 ",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442402657": {
+    "secondhand": null,
+    "newPrice": 3490,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442404803": {
+    "secondhand": null,
+    "newPrice": 12490,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442405228": {
+    "secondhand": 5500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442405926": {
+    "secondhand": 10500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442406681": {
+    "secondhand": 22700,
+    "newPrice": 34999,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442407558": {
+    "secondhand": 15500,
+    "newPrice": 19990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442410564": {
+    "secondhand": 1800,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442412997": {
+    "secondhand": 5500,
+    "newPrice": 8633,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442417360": {
+    "secondhand": 2200,
+    "newPrice": 2990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442417717": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "全新 Aesop 線香 蜻蛉線香 香氛 岩蘭草",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442420915": {
+    "secondhand": 11000,
+    "newPrice": 14090,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442424250": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "Diptyque 限量暖陽臉部與身體香氛噴霧 100ml 全新 專櫃 正貨 優惠",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442426569": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "早期老日本民俗舊藏 - 日式算盤#01（風水/闢邪/藝術/古董/擺件/收藏/展示",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442426628": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "早期老日本民俗舊藏 - 花梨木算盤#02（財富/進財/招財/風水/古董/擺件/收",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442427903": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "TFboys 王俊凱 易烊千璽 出整圖周邊",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442430478": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "英國骨瓷 Made in England 英國皇家伍斯特(Royal Worce",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442432499": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(行動電源)",
+    "title": "(限面交)eSENSE 超薄磁吸快充行動電源",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442432572": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "早期老日本紫銅舊藏 - 大型輪花銅器（落款：穎川）（古董/銅雕/收藏/銅爐/香爐",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442433487": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(行動電源)",
+    "title": "宏晉 行動電源(灰色）",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442435483": {
+    "secondhand": null,
+    "newPrice": 10500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442436706": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "限量異形抱臉蟲手機支架",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442437154": {
+    "secondhand": 7500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442437588": {
+    "secondhand": 1500,
+    "newPrice": 2190,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442438584": {
+    "secondhand": 12000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442438895": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "木雕擺設品, 領頭羊",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442439659": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "鈦晶手排(咖啡鈦) 市價 2600 元",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442440126": {
+    "secondhand": null,
+    "newPrice": 7990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442442155": {
+    "secondhand": 2500,
+    "newPrice": 3580,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442442297": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "全新 絕版經典 花式滑冰 羽生結弦",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442442531": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442443414": {
+    "secondhand": null,
+    "newPrice": 1999,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442445260": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "頂級皇家紫 ── 烏拉圭天然紫晶洞",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442446201": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "異象共生·烏拉圭拱門紫晶座",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442446538": {
+    "secondhand": 8500,
+    "newPrice": 12990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442447727": {
+    "secondhand": 5000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442448655": {
+    "secondhand": 2600,
+    "newPrice": 5100,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442449682": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "【古韻傳承·招財瑞獸】天然壽山石雕刻印章（三件御用套組）",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442450759": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "迪卡儂 臥推椅 引體向上 啞鈴50公斤",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442452620": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(行動電源)",
+    "title": "【MUNICHI沐尼黑】能量小Q寶(5000mAh口袋行動電源)MR.50",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442453943": {
+    "secondhand": 35000,
+    "newPrice": 63000,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442455041": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "2020雲林國際偶戲節紀念毛巾",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442455189": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(行動電源)",
+    "title": "18W 快速充電行動電源",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442456172": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442456645": {
+    "secondhand": 4000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442457066": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(行動電源)",
+    "title": "Mimax 三合一 折疊無線磁吸充電器 三合一充電座 磁吸 行動電源",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442459786": {
+    "secondhand": null,
+    "newPrice": 29000,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442459949": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "Chanson跑步機（價錢誠可議）",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442460127": {
+    "secondhand": null,
+    "newPrice": 18150,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442460512": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "Sisley 伊之露夜之頌香氛禮盒 女性淡香精 30ML+6.5mlx3",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442461605": {
+    "secondhand": null,
+    "newPrice": 14500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442461775": {
+    "secondhand": 12500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442462363": {
+    "secondhand": 12000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442464057": {
+    "secondhand": null,
+    "newPrice": 900,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442465540": {
+    "secondhand": null,
+    "newPrice": 3670,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442465621": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "L'ERBOLARIO蕾莉歐 綻藍芙蓉香氛禮盒 全新含紙袋",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442466541": {
+    "secondhand": 3900,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442467884": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "Adidas Anthony Edwards 2",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442468267": {
+    "secondhand": null,
+    "newPrice": 31900,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442468899": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "超大型防水尼龍戰鬥個裝公發國軍數位迷彩背包攻擊包攜行袋戰術攜行袋",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442469508": {
+    "secondhand": null,
+    "newPrice": 12999,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442470985": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(行動電源)",
+    "title": "HANG 13000MAH 雙線行動電源",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442472937": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "VANA Rovaniemi芬蘭聖誕小鎮 香 氛蠟燭210g",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442473619": {
+    "secondhand": null,
+    "newPrice": 3800,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442474912": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442475152": {
+    "secondhand": 1500,
+    "newPrice": 2490,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442476643": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442476858": {
+    "secondhand": null,
+    "newPrice": 3290,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442479550": {
+    "secondhand": 1600,
+    "newPrice": 1990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442480311": {
+    "secondhand": 3500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442480651": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442480899": {
+    "secondhand": 8000,
+    "newPrice": 14990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442487225": {
+    "secondhand": null,
+    "newPrice": 7100,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442487633": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "美版寶可夢卡牌 御三家 木木梟 火斑喵 球球海獅",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442488147": {
+    "secondhand": 9000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442488198": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442489104": {
+    "secondhand": null,
+    "newPrice": 5690,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442489251": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "❤️ 放藏`",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442489268": {
+    "secondhand": 11000,
+    "newPrice": 15129,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442490346": {
+    "secondhand": null,
+    "newPrice": 3790,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442491946": {
+    "secondhand": 10500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442492615": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "愛膝足反轉式護腿機 美腿機 按摩機FUJI",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442494296": {
+    "secondhand": null,
+    "newPrice": 6300,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442494326": {
+    "secondhand": 1990,
+    "newPrice": 3990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442496004": {
+    "secondhand": 15500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442496781": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "Cortis年曆（含特典）",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442499405": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "二手滑板",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442499456": {
+    "secondhand": null,
+    "newPrice": 5490,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442499577": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "二手Cortis球專（贈二手出道專三本）",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442502006": {
+    "secondhand": 8500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442502028": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "龍牙之刃-天命 黑神話悟空款 悟空鋼號 (可換物)",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442502443": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442503675": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "dahon eco",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442504648": {
+    "secondhand": null,
+    "newPrice": 3200,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442504828": {
+    "secondhand": 12000,
+    "newPrice": 20400,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442504860": {
+    "secondhand": null,
+    "newPrice": 2804,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442506765": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "日本🇯🇵 寶可夢中心皮卡丘伊布夏季系列玩偶",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442507236": {
+    "secondhand": 2200,
+    "newPrice": 3000,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442508835": {
+    "secondhand": null,
+    "newPrice": 2200,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442510577": {
+    "secondhand": 5500,
+    "newPrice": 8990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442511180": {
+    "secondhand": 15000,
+    "newPrice": 21800,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442511900": {
+    "secondhand": 4500,
+    "newPrice": 6490,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442512896": {
+    "secondhand": 14000,
+    "newPrice": 17390,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442513828": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442514580": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "芭比2008假日",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442515150": {
+    "secondhand": 4200,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442515477": {
+    "secondhand": 2850,
+    "newPrice": 4990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442516093": {
+    "secondhand": null,
+    "newPrice": 18999,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442516276": {
+    "secondhand": null,
+    "newPrice": 3480,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442516773": {
+    "secondhand": null,
+    "newPrice": 10800,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442518110": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "免運 二手9.9成新 yuyu 郁郁 香氛噴霧 美濃水蓮 寶島氣味農作社",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442518737": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "【首批絕版品】吳青峰《窺／寂寞的時候》國語復刻日盤8cm單曲",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442518884": {
+    "secondhand": 3000,
+    "newPrice": 3690,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442520197": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442520363": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "cortis球專+2張年末",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442520936": {
+    "secondhand": 7500,
+    "newPrice": 11990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442520937": {
+    "secondhand": 2500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442521359": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442521398": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "Cortis頌缽",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442521905": {
+    "secondhand": 1900,
+    "newPrice": 3000,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442522333": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "TXT 彩春娃送隨機特典卡+專卡",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442522725": {
+    "secondhand": 2600,
+    "newPrice": 2990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442522846": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(香氛)",
+    "title": "歐舒丹專櫃絕版都會男士枸櫞男士香氛系列淡香水50ml",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442524359": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "TXT 蘋果娃",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442524576": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "【全新一組4張未拆】我的英雄學院 2026 jump shop 綠谷出久 爆豪勝",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442524778": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "紫檀手珠串",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442525032": {
+    "secondhand": 9500,
+    "newPrice": 12500,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442525382": {
+    "secondhand": 4980,
+    "newPrice": 5980,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442527355": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "電吉他音箱 內過載鍵 OD效果 全新 先看介紹說明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442529807": {
+    "secondhand": null,
+    "newPrice": 10900,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442530115": {
+    "secondhand": 6500,
+    "newPrice": 6290,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442530729": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "Yonex 88S tour",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442530842": {
+    "secondhand": null,
+    "newPrice": 2390,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442532377": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "Tupac 低音管",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442532704": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "豎琴",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442532864": {
+    "secondhand": 5000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442533370": {
+    "secondhand": 550,
+    "newPrice": 990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442534109": {
+    "secondhand": null,
+    "newPrice": 2800,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442534512": {
+    "secondhand": 3800,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442535166": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442535298": {
+    "secondhand": 6800,
+    "newPrice": 9990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442535646": {
+    "secondhand": null,
+    "newPrice": 6990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442535875": {
+    "secondhand": 7000,
+    "newPrice": 6300,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442536170": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "SONY 索尼 PS-LX310BT 高解析藍牙黑膠唱盤+漫步者1200BT音響",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442536908": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "Dragonet Swing",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442538065": {
+    "secondhand": null,
+    "newPrice": 969,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442538133": {
+    "secondhand": null,
+    "newPrice": 969,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442538472": {
+    "secondhand": 6500,
+    "newPrice": 9980,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442539679": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "Holly Humberstone - Cruwl World CD+簽名卡",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442539886": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "Holly Humberstone- Paint My Bedroom Blac",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442539966": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "Holly Himberstone - Paint My Bedroom Bla",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442542468": {
+    "secondhand": null,
+    "newPrice": 999,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442542659": {
+    "secondhand": null,
+    "newPrice": 999,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442543537": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "老料中國笛🔴 蘇州民族樂器一廠經典庫存老貨套笛",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442547260": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "SEVENTEEN 第三代手燈(黑色) 全新現貨",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442548762": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "捷安特 XtC Jr 24 兒童腳踏車 24吋",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442548784": {
+    "secondhand": 7500,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442552921": {
+    "secondhand": 6500,
+    "newPrice": 8890,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442553569": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442554298": {
+    "secondhand": 4800,
+    "newPrice": 6390,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442554700": {
+    "secondhand": 2800,
+    "newPrice": 4200,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442554849": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "羽毛球發球機",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442554901": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
+    "title": "近全新烏克麗麗出售",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442556421": {
+    "secondhand": 8000,
+    "newPrice": 14900,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442556759": {
+    "secondhand": 4500,
+    "newPrice": 5990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442556801": {
+    "secondhand": 11000,
+    "newPrice": 17580,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442557954": {
+    "secondhand": 4500,
+    "newPrice": 6990,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442561242": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "初學高爾夫ONOFF球袋+BRIDGSTONE三支木桿+KING COBRA推桿",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442562598": {
+    "skip": true,
+    "note": "patrol482 查無行情/型號不明",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442566977": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "Super junior 銀赫超市小盤",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442567584": {
+    "secondhand": 15000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442569989": {
+    "secondhand": 11000,
+    "newPrice": null,
+    "verifiedAt": "2026-06-08",
+    "source": "subagent+biggo"
+  },
+  "1442570569": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "super junior 藝聲厲旭小盤",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442570608": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
+    "title": "Blackpink長腿娃娃 Jennie",
+    "verifiedAt": "2026-06-08"
+  },
+  "1442571650": {
+    "skip": true,
+    "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
+    "title": "捷安特 淑女車",
+    "verifiedAt": "2026-06-08"
   }
 }
