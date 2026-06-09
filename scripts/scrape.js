@@ -64,13 +64,13 @@ const QUERIES = [
   { q: '除濕機', min: 3000, max: 20000, maxDays: 7 },
   { q: '22L 除濕機', min: 4000, max: 25000, maxDays: 7 }, // Rose 想找 22L 大坪數 2026-05-25
   { q: '18L 除濕機', min: 4000, max: 20000, maxDays: 7 }, // Rose 想找 18L 大坪數 2026-05-25
-  { q: '20L 除濕機', min: 3000, max: 15000, maxDays: 7 }, // 2026-05-27 補位中段
+  // { q: '20L 除濕機', min: 3000, max: 15000, maxDays: 7 }, // 暫停：146輪從未有貨 2026-06-10
   { q: '20公升 除濕機', min: 3000, max: 15000, maxDays: 7 }, // 2026-05-27 中文字
   // 2026-05-27 高階藍牙喇叭追蹤 (Devialet/Sonos Move/Vifa/KEF/Bose SoundLink)
   { q: 'Devialet', min: 5000, max: 50000, maxDays: 7 },
   { q: 'Sonos Move', min: 3000, max: 25000, maxDays: 7 },
-  { q: 'Vifa', min: 2000, max: 15000, maxDays: 7 },
-  { q: 'KEF Muo', min: 2000, max: 15000, maxDays: 7 },
+  // { q: 'Vifa', min: 2000, max: 15000, maxDays: 7 }, // 暫停：135輪從未有貨 2026-06-10
+  // { q: 'KEF Muo', min: 2000, max: 15000, maxDays: 7 }, // 暫停：132輪從未有貨 2026-06-10
   { q: 'Bose SoundLink', min: 2000, max: 20000, maxDays: 7 },
   // 2026-05-27 耳罩耳機 (XM5/XM6/QC Ultra/AirPods Max/HD 系列)
   { q: 'Sony WH-1000XM', min: 3000, max: 15000, maxDays: 7 },
@@ -80,7 +80,7 @@ const QUERIES = [
   // 2026-05-27 藍牙喇叭擴充 (JBL + Marshall Heston 聲霸)
   { q: 'JBL Charge', min: 2000, max: 8000, maxDays: 7 },
   { q: 'JBL Flip', min: 1500, max: 6000, maxDays: 7 },
-  { q: 'Marshall Heston', min: 5000, max: 25000, maxDays: 7 },
+  // { q: 'Marshall Heston', min: 5000, max: 25000, maxDays: 7 }, // 暫停：134輪從未有貨 2026-06-10
   { q: 'dji', min: 2000, max: 25000, maxDays: 7 },
   { q: 'insta360', min: 2000, max: 25000, maxDays: 7 },
   { q: '果汁機', min: 500, max: 10000, maxDays: 7 },
@@ -111,7 +111,7 @@ const QUERIES = [
   // { q: '游泳耳機', min: 500, max: 8000, maxDays: 7 }, // 暫停：連續 4 輪空 2026-05-21 (台灣 Carousell 太冷門, Shokz OpenSwim 沒人賣)
   // 2026-05-30 User 想找手機, 二手 NT$3-5K 區間 mid-range deal
   { q: 'iPhone', min: 3000, max: 6000, maxDays: 5 },
-  { q: 'Galaxy S', min: 3000, max: 6000, maxDays: 5 },
+  // { q: 'Galaxy S', min: 3000, max: 6000, maxDays: 5 }, // 暫停：45輪沒新貨(上次6/2) 2026-06-10
   { q: 'Pixel', min: 3000, max: 6000, maxDays: 5 },
   // 無關鍵字瀏覽：雜訊高但偶有冷門品牌好物（SoundSticks 4 等）
   { q: '', min: 5000, max: 10000, maxDays: 1, label: '無關鍵字' },
