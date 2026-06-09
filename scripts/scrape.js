@@ -63,12 +63,12 @@ const QUERIES = [
   { q: '手沖', min: 500, max: 5000, maxDays: 7 },
   { q: '除濕機', min: 3000, max: 20000, maxDays: 7 },
   { q: '22L 除濕機', min: 4000, max: 25000, maxDays: 7 }, // Rose 想找 22L 大坪數 2026-05-25
-  { q: '18L 除濕機', min: 4000, max: 20000, maxDays: 7 }, // Rose 想找 18L 大坪數 2026-05-25
+  // { q: '18L 除濕機', min: 4000, max: 20000, maxDays: 7 }, // 暫停：182輪從未有貨(18L靠「除濕機」通用詞補) 2026-06-10
   // { q: '20L 除濕機', min: 3000, max: 15000, maxDays: 7 }, // 暫停：146輪從未有貨 2026-06-10
   { q: '20公升 除濕機', min: 3000, max: 15000, maxDays: 7 }, // 2026-05-27 中文字
   // 2026-05-27 高階藍牙喇叭追蹤 (Devialet/Sonos Move/Vifa/KEF/Bose SoundLink)
   { q: 'Devialet', min: 5000, max: 50000, maxDays: 7 },
-  { q: 'Sonos Move', min: 3000, max: 25000, maxDays: 7 },
+  // { q: 'Sonos Move', min: 3000, max: 25000, maxDays: 7 }, // 暫停：135輪從未有貨 2026-06-10
   // { q: 'Vifa', min: 2000, max: 15000, maxDays: 7 }, // 暫停：135輪從未有貨 2026-06-10
   // { q: 'KEF Muo', min: 2000, max: 15000, maxDays: 7 }, // 暫停：132輪從未有貨 2026-06-10
   { q: 'Bose SoundLink', min: 2000, max: 20000, maxDays: 7 },
