@@ -17,8 +17,11 @@ const pendingIds = all.filter(d => !isWatchlist(d)).map(d => d.pid).filter(Boole
 
 // 也收 raw_results 裡的 ID（避免重複出現）, 排除 watchlist pids
 const watchlistPids = new Set(watchlistItems.map(d => d.pid).filter(Boolean));
+// need_verify 還沒查價（<120 門檻延後中）— 不標 seen，否則 User 說「看完了」時待查清單被永久吞掉
+let needVerifyPids = new Set();
+try { needVerifyPids = new Set(JSON.parse(fs.readFileSync('state/need_verify.json', 'utf8')).map(d => d.pid).filter(Boolean)); } catch {}
 const raw = JSON.parse(fs.readFileSync('state/raw_results.json', 'utf8'));
-const rawIds = raw.map(i => i.url?.match(/\/p\/(\d+)/)?.[1]).filter(Boolean).filter(pid => !watchlistPids.has(pid));
+const rawIds = raw.map(i => i.url?.match(/\/p\/(\d+)/)?.[1]).filter(Boolean).filter(pid => !watchlistPids.has(pid) && !needVerifyPids.has(pid));
 
 const newSeen = [...new Set([...seen, ...pendingIds, ...rawIds])];
 
@@ -34,4 +37,4 @@ for (const item of watchlistItems) {
 fs.writeFileSync(PENDING_FILE, JSON.stringify(newPending, null, 2));
 
 console.log(`已標記: ${seen.length} → ${newSeen.length}（+${newSeen.length - seen.length} 筆）`);
-console.log(`pending_review: ${pendingIds.length} 筆移至 seen, watchlist 保留 ${watchlistItems.length} 筆`);
+console.log(`pending_review: ${pendingIds.length} 筆移至 seen, watchlist 保留 ${watchlistItems.length} 筆, need_verify 保留 ${needVerifyPids.size} 筆未查價`);

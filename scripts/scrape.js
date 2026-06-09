@@ -264,7 +264,7 @@ const SKIP_RATIO = 0.3;
         console.log(`  ⚠ evaluate 回傳非陣列: ${typeof items}`);
         continue;
       }
-      items.forEach(it => { it.category = q; it.maxDays = QUERIES[i].maxDays || 3; });
+      items.forEach(it => { it.category = q; it.maxDays = QUERIES[i].maxDays || 3; it.minPrice = QUERIES[i].min; });
       const recent = items.filter(it => /minute|hour|1 day|2 days|yesterday/.test(it.timeAgo));
       console.log(`  抓到 ${items.length} 筆（3天內: ${recent.length} 筆）`);
 
@@ -342,7 +342,7 @@ const SKIP_RATIO = 0.3;
         console.log(`  ⚠ evaluate 回傳非陣列: ${typeof items}`);
         continue;
       }
-      items.forEach(it => { it.category = name; it.maxDays = 3; });
+      items.forEach(it => { it.category = name; it.maxDays = 3; it.minPrice = min; });
       const recent = items.filter(it => /minute|hour|1 day|2 days|yesterday/.test(it.timeAgo));
       console.log(`  抓到 ${items.length} 筆（3天內: ${recent.length} 筆）`);
 

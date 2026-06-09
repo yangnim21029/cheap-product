@@ -76,6 +76,8 @@ process.js 有 SKIP 詞表，標題包含這些詞的商品直接跳過。這個
 
 每輪跑完如果看到不該出現的東西，就把關鍵字加進 SKIP。
 
+**模糊詞別進 SKIP**（2026-06-10 教訓）：`電池/殼/保護/海報` 這類詞在誠實賣家標題裡是加分描述（「電池健康90%」「附保護殼」「黑膠附海報」），純 substring 會誤殺好貨。這四類走 process.js 的 `ambiguousSkip()` 上下文規則；新發現的模糊詞也加在那裡，不要丟回 SKIP 陣列。
+
 ## 07. 3 天內才有意義
 
 process.js 的 `isRecent` 只留 minutes/hours/1 day/2 days/yesterday。超過 3 天的幾乎都被搶走了。
@@ -315,6 +317,16 @@ Yamaha Seqtrak（9000→11000）、iPad 10（7000→7500）都因為 secondhand 
 - **唯一可信的售出訊號 = 詳情頁 JSON-LD `availability`**（InStock vs SoldOut）。文字搜 "Sold/售出" 會誤中頁面其他區塊（假陽性）；賣家把標題改「保留」只是慣例非系統 badge。一律讀 JSON-LD。
 - **商品要數天才賣掉**，不是數小時 → 別對每小時 churn 反應，對追蹤清單**每隔幾天回查一次** availability。
 - 迴圈序列：scrape → `velocity_log` → `velocity_check N` → `velocity_sold_table` → `process`。velocity_check 用 chromium（吃 chromium-lock，排 scrape 之後）。
+
+## 24. 管線一律單層背景跑（patrol 484 教訓）
+
+整條巡邏管線（scrape → velocity_log → velocity_check 120 → velocity_sold_table → process）固定走 `bash scripts/patrol.sh <輪次>`，由主 agent 用**一個** background Bash 跑完，結束時 harness 直接通知主 agent 接手 commit + push + 報告。
+
+**不要**把管線丟給 subagent、讓 subagent 自己再背景跑 scrape 等喚回——那是兩層接力，內層喚回沒觸發時 scrape 之後的步驟全部懸空（patrol 484 實際發生）。Bash 前景上限 10 分鐘、scrape 要 8-12 分鐘，所以 subagent 也不能前景等。分工原則：**確定性腳本鏈 = 一支 shell script 單層背景；subagent 只接判斷型工作**（查價、賣家分類——一次坐完、不用等長進程）。
+
+- `--skip-scrape`：接手斷掉的輪次用（raw_results 已是新的），不重打 Carousell。
+- stdout 只留每步尾巴 + `PATROL_*` 標記，完整 log 在 `/tmp/carousell_patrol_<N>.log`，避免 task output 巨大到讀不了。
+- scrape exit 2 → 標 `CF_BLOCKED` 整條中止（同 §23，提醒 User 關 VPN，不要自己修）。
 
 ## 23. 出口 IP 必須是台灣（patrol 447 教訓）
 

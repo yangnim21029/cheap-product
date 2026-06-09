@@ -12,7 +12,7 @@ const resellerNotes = Object.fromEntries(sellersData.resellers.accounts.map(a =>
 // === 跳過配件/周邊/非商品 ===
 const SKIP = [
   // 配件/耗材
-  '配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','電池','滾筒','刷頭','硬管','防滑墊','殼','保護','充電線','說明書','充電盒','相紙','底片',
+  '配件','電源線','濾網','維修','遙控器','錶帶','底座','收納架','吸頭','馬達','滾筒','刷頭','硬管','防滑墊','充電線','說明書','充電盒','相紙','底片',
   // 非目標商品
   '租借','寫真','鬼滅','禮盒組','蠟燈','沐浴','護手霜','香水瓶','香水筆','隨行杯','吸管杯','潔膚露','面膜','髮夾','DVD','專櫃組合','赫蓮娜','衛生紙','收納盒','身體乳',
   // 衣服
@@ -23,16 +23,16 @@ const SKIP = [
   '鬆餅機','刨冰機','榨汁機','電鍋','微波爐','氣炸鍋','電動牙刷','吹風機','計算機','掃地機','洗牙器','蛋捲夾',
   // 美妝雜物
   '眼影','腮紅','唇蜜','粉底','卸妝','化妝包','彩妝包','眼霜','乳液','護膚','妝前乳',
-  // 手機殼/配件
-  'Clear Case','手機殼','記憶卡',
+  // 手機殼/配件（'手機殼' 移到 ambiguousSkip — 「附手機殼」是加分不是配件）
+  'Clear Case','記憶卡',
   // 3C 通訊行話術 (店家二手機常用, 貼齊中位無折扣) — User 反饋 2026-05-30
   '中古機','舊機折抵','舊機貼換','門號折抵','免卡分期','實體門市','實體經營','店保','二手平板',
   // 古董/錢幣專營連發 (鴻兔小舖龍銀 5+ 輪 / 紫砂連發 / 古銅雕連號 #編號) — Patrol 340
   '鴻兔小舖','龍銀','紫砂老件','紫砂舊藏','早期銅雕','早期純銅','早期樹脂神尊','紀念幣','銀幣','早期收藏',
   // 新品太便宜（低於$2,000）
   '小米藍牙喇叭','小米藍牙','大鑽石','X-mini','x-mini',
-  // 不是商品本體
-  '海報','紀念票','拍立得紀念','公仔','陶瓷',
+  // 不是商品本體（'海報' 移到 ambiguousSkip — 黑膠附海報是常態）
+  '紀念票','拍立得紀念','公仔','陶瓷',
   // 家具店/非目標
   '床頭櫃','床邊櫃',
   // 便宜品牌咖啡機/家電
@@ -73,6 +73,18 @@ const SKIP = [
   '直笛','Aulos','Sopranino','中音笛','高音笛',
 ];
 
+
+// === 模糊 SKIP 詞 — 純 substring 會誤殺誠實賣家 ===
+// 「電池健康90%」是手機賣家標配描述、「附保護殼」是加分、「黑膠附海報」是常態，
+// 但「Dyson 原廠電池」「iPhone 14 保護殼」是真配件。看上下文不看字面。
+const ACCESSORY_RE = /(?<![附送含贈帶配]\s{0,2})(手機殼|保護殼|保護貼|保護套|保護膜|玻璃貼|犀牛盾|空壓殼|皮套)/;
+const BATTERY_HEALTH_RE = /電池\s*(健康|容量|效能|效率|壽命|續航|良好|正常)|換過?電池|電池\s*\d{2,3}\s*%|\d{2,3}\s*%\s*電池/;
+const ambiguousSkip = (title, category) => {
+  if (ACCESSORY_RE.test(title)) return true;
+  if (title.includes('電池') && !BATTERY_HEALTH_RE.test(title)) return true;
+  if (title.includes('海報') && category !== '黑膠' && !/黑膠|唱片|LP/i.test(title)) return true;
+  return false;
+};
 
 // === 跳過的 category ===
 const SKIP_CAT = [
@@ -199,13 +211,15 @@ raw.forEach(item => {
   if (BANNED.has(item.seller)) return;
   if (SKIP_CAT.includes(item.category)) return;
   const price = parsePrice(item.price);
-  if (price < 500) return;
+  // 地板跟 query 自己的 min 對齊（USB-C HDMI 等 min $200 的 query 不被 $500 一刀切掉）
+  if (price < Math.min(item.minPrice ?? 500, 500)) return;
   if (price > 10_000_000) return; // hashtag bug: #26 + price 被接合成大數
   // wearables sub-cat leak (AirPods/Pencil/Polar/翻譯眼鏡)
   if (item.category === '智慧手錶' && /AirPod|Powerbeats|Apple Pencil|心率|翻譯眼鏡/i.test(item.title)) return;
   if (seen.has(item.url)) return;
   seen.add(item.url);
   if (SKIP.some(w => item.title.includes(w))) return;
+  if (ambiguousSkip(item.title, item.category)) return;
 
   const pid = item.url.match(/\/p\/(\d+)/)?.[1];
   const isSeen = pid && seenSet.has(pid);

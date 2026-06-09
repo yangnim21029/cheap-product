@@ -10,8 +10,6 @@ const sold = Object.entries(store)
   .filter(([, r]) => r.soldConfirmed && r.timeToSellDays != null)
   .map(([pid, r]) => ({ pid, ...r }))
   .sort((a, b) => a.timeToSellDays - b.timeToSellDays);   // V 排序：賣最快在前
-const soldClean = sold;   // 全部納入中位數（caughtLate 也是真售出，只是時間粗）
-
 const removed = Object.values(store).filter(r => r.removed).length;
 const checked = Object.values(store).filter(r => r.checkedAt).length;
 const tracked = Object.keys(store).length;
@@ -25,18 +23,24 @@ md += `> 更新 ${ts} · 追蹤 ${tracked} 件 · 已複查 ${checked} 件 · **
 md += `> velocity = 上架 → 確認售出（詳情頁 JSON-LD 轉 SoldOut）的真實在市天數 = 首見時已上架天數 + 追蹤天數。賣最快在最上面。\n`;
 md += `> 「估」= 首見時已上架≥7天，velocity 來自 timeAgo（「X 個月前」）粗估，誤差較大但仍是真售出。\n\n`;
 
-if (!soldClean.length && !sold.length) {
+if (!sold.length) {
   md += `_目前尚無確認售出。velocity 追蹤約 2026-06-05 起跑，商品多需數天才賣出；複查迴圈會持續回補，此表會逐漸長出來。_\n`;
 } else {
-  // 各分類售出速度（只用可信 velocity 樣本）
+  // 各分類售出速度 — 乾淨樣本（非估）≥3 件時中位數只用乾淨的，不足才混入「估」
   const byCat = {};
-  soldClean.forEach(s => { (byCat[s.cat] = byCat[s.cat] || []).push(s); });
+  sold.forEach(s => { (byCat[s.cat] = byCat[s.cat] || []).push(s); });
   const median = (a) => { const s = [...a].sort((x, y) => x - y); const m = Math.floor(s.length / 2); return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2; };
   if (Object.keys(byCat).length) {
-    md += `## 各分類售出速度\n\n| 分類 | 售出數 | velocity 中位 | 售價中位 |\n|---|---|---|---|\n`;
-    Object.entries(byCat).sort((a, b) => median(a[1].map(x => x.timeToSellDays)) - median(b[1].map(x => x.timeToSellDays)))
-      .forEach(([c, arr]) => md += `| ${c} | ${arr.length} | ${fmtV(median(arr.map(x => x.timeToSellDays)))} | ${nt(median(arr.map(x => x.lastPrice)))} |\n`);
-    md += `\n`;
+    const catRow = ([c, arr]) => {
+      const clean = arr.filter(x => !x.caughtLate);
+      const basisArr = clean.length >= 3 ? clean : arr;
+      const basisLabel = clean.length >= 3 ? '乾淨' : '混估';
+      return { c, arr, clean, v: median(basisArr.map(x => x.timeToSellDays)), price: median(basisArr.map(x => x.lastPrice)), basisLabel };
+    };
+    md += `## 各分類售出速度\n\n| 分類 | 售出數 (乾淨) | velocity 中位 | 基準 | 售價中位 |\n|---|---|---|---|---|\n`;
+    Object.entries(byCat).map(catRow).sort((a, b) => a.v - b.v)
+      .forEach(r => md += `| ${r.c} | ${r.arr.length} (${r.clean.length}) | ${fmtV(r.v)} | ${r.basisLabel} | ${nt(r.price)} |\n`);
+    md += `\n_基準「乾淨」= 該分類非估樣本 ≥3 件，中位數只算乾淨的；「混估」= 乾淨樣本不足，混入粗估值，參考就好。_\n\n`;
   }
   md += `## 全部售出（V 排序，最快在前）\n\n`;
   md += `| # | velocity | 品項 | 分類 | 售價 | 連結 |\n|---|---|---|---|---|---|\n`;
