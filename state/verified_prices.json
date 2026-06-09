@@ -1919,12 +1919,23 @@
     "source": "2026-05-16",
     "skip": true
   },
+  "1425466283": {
+    "skip": true,
+    "note": "Xbox360殘值末段",
+    "verifiedAt": "2026-06-09"
+  },
   "1425499776": {
     "newPrice": 17749,
     "secondhand": null,
     "note": "XGIMI 極米 Google TV 投影機 型號未指明 (MoGo 2/Pro/3?) $7,850 對不上任何現役機種, ⚠ 仿品或舊型號掛新名 SKIP",
     "source": "web search 2026-05-10",
     "skip": true
+  },
+  "1425512785": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "停產 查無二手行情",
+    "verifiedAt": "2026-06-10"
   },
   "1425521107": {
     "skip": true,
@@ -1990,6 +2001,12 @@
   "1425608663": {
     "skip": true,
     "note": "iFi iPower2 直流電源 $2,000 = 83% PChome 公司貨 $2,400 / 121% 二手個人中位 $1,650. 二手個人 $1,500-1,800 常見, 價格普通不算撿到"
+  },
+  "1425618066": {
+    "newPrice": 34800,
+    "secondhand": 26400,
+    "note": "二手12筆中位24000",
+    "verifiedAt": "2026-06-10"
   },
   "1425709767": {
     "newPrice": null,
@@ -3484,6 +3501,11 @@
     "note": "Patrol 337 SKIP: <NT$2K 灌籃高手快閃週邊",
     "source": "patrol_337_skip"
   },
+  "1429156267": {
+    "skip": true,
+    "note": "雜牌WONDERMAX",
+    "verifiedAt": "2026-06-09"
+  },
   "1429164660": {
     "skip": true,
     "newPrice": null,
@@ -3830,6 +3852,11 @@
     "secondhand": null,
     "note": "Patrol 380 SKIP: ROG 65% 藍牙鍵盤型號未列 (Falchion? Azoth?)",
     "source": "patrol_380_skip"
+  },
+  "1429617294": {
+    "skip": true,
+    "note": "70D高於行情",
+    "verifiedAt": "2026-06-09"
   },
   "1429630084": {
     "newPrice": null,
@@ -4465,6 +4492,17 @@
     "note": "羅技 G Pro X LIGHTSPEED 一代原價$5,990。$3,000=50% 進手動",
     "source": "web search 2026-05-11"
   },
+  "1430857614": {
+    "skip": true,
+    "note": "車衣niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1430880874": {
+    "newPrice": 1380,
+    "secondhand": null,
+    "note": "平輸全新1300-1380",
+    "verifiedAt": "2026-06-10"
+  },
   "1430898445": {
     "newPrice": null,
     "secondhand": null,
@@ -4555,6 +4593,17 @@
     "note": "寶可夢盾「沒有封面」二手$500-700無封面殘缺。$875偏高 SKIP",
     "source": "2026-05-15",
     "skip": true
+  },
+  "1431095012": {
+    "skip": true,
+    "note": "CD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1431098504": {
+    "newPrice": 15990,
+    "secondhand": null,
+    "note": "全新12500起 樣本不足",
+    "verifiedAt": "2026-06-10"
   },
   "1431100087": {
     "newPrice": null,
@@ -7027,6 +7076,12 @@
     "note": "Patrol 99 SKIP: 電吉他與音箱 pureturtle_87065c",
     "source": "manual_skip"
   },
+  "1434889816": {
+    "newPrice": 5400,
+    "secondhand": null,
+    "note": "全新僅低新品3%",
+    "verifiedAt": "2026-06-10"
+  },
   "1434907666": {
     "newPrice": null,
     "secondhand": null,
@@ -8897,6 +8952,11 @@
     "title": "Sola pro半固態全能充行動電源",
     "verifiedAt": "2026-06-06"
   },
+  "1436288073": {
+    "skip": true,
+    "note": "副廠螢幕背蓋風險",
+    "verifiedAt": "2026-06-09"
+  },
   "1436291334": {
     "newPrice": null,
     "secondhand": null,
@@ -9849,6 +9909,13 @@
     "note": "PS5數位版+雙手把 $12,000=82%二手 a747808096239 略低於行情⚠雙手把PS5詐騙警戒",
     "source": "2026-05-16"
   },
+  "1436737358": {
+    "newPrice": 19800,
+    "secondhand": 11000,
+    "note": "二手約1萬 開價過高",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
   "1436739357": {
     "newPrice": 3880,
     "secondhand": null,
@@ -9895,6 +9962,17 @@
     "note": "iRocks K83R+M28R套裝 $2,000 iRocks套裝無折扣 SKIP",
     "source": "2026-05-16",
     "skip": true
+  },
+  "1436765767": {
+    "skip": true,
+    "note": "雪褲服飾",
+    "verifiedAt": "2026-06-09"
+  },
+  "1436769890": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "型號未標",
+    "verifiedAt": "2026-06-10"
   },
   "1436770487": {
     "newPrice": null,
@@ -9970,6 +10048,11 @@
     "note": "Sony SEL11F18+ZV-E10 組合 二手合理$24,500-27,000。$27,500=65%/102% 比二手略貴 SKIP",
     "source": "web search 2026-05-08",
     "skip": true
+  },
+  "1436799652": {
+    "skip": true,
+    "note": "潤膚禮非香水",
+    "verifiedAt": "2026-06-09"
   },
   "1436801503": {
     "newPrice": 4990,
@@ -10082,6 +10165,11 @@
     "source": "web search 2026-05-09",
     "skip": true
   },
+  "1436836060": {
+    "skip": true,
+    "note": "6代i5殘值",
+    "verifiedAt": "2026-06-09"
+  },
   "1436841536": {
     "skip": true,
     "note": "Philips HR3041 超活氧調理機 $2,800 = 85% 新品 $3,288 / 140% 二手 $2,000 偏貴"
@@ -10111,6 +10199,16 @@
     "note": "Bose QuietComfort Earbuds 一代 已停產 二手中位$3,500。$2,900=83% 二手, <$3K 殺價門檻邊緣 SKIP",
     "source": "web search 2026-05-09",
     "skip": true
+  },
+  "1436848854": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1436848970": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
   },
   "1436850682": {
     "newPrice": 27800,
@@ -10416,6 +10514,11 @@
     "note": "Samsung Galaxy Buds FE 公司貨$2,990。$3,000=100% 沒便宜 SKIP",
     "source": "web search 2026-05-11",
     "skip": true
+  },
+  "1437001792": {
+    "skip": true,
+    "note": "吉他弦配件",
+    "verifiedAt": "2026-06-09"
   },
   "1437002035": {
     "newPrice": 56880,
@@ -47509,6 +47612,12 @@
     "note": "patrol482 查無行情/型號不明",
     "verifiedAt": "2026-06-08"
   },
+  "1442329578": {
+    "newPrice": 18498,
+    "secondhand": null,
+    "note": "水貨新品18498 二手0筆",
+    "verifiedAt": "2026-06-10"
+  },
   "1442330024": {
     "secondhand": null,
     "newPrice": 999,
@@ -47694,6 +47803,19 @@
     "skip": true,
     "note": "patrol482 查無行情/型號不明",
     "verifiedAt": "2026-06-08"
+  },
+  "1442389890": {
+    "newPrice": 16821,
+    "secondhand": null,
+    "note": "型號未標 DD181全新16821",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442390503": {
+    "newPrice": 24200,
+    "secondhand": 19690,
+    "note": "開價貼行情無空間",
+    "verifiedAt": "2026-06-10",
+    "skip": true
   },
   "1442392364": {
     "secondhand": null,
@@ -47936,6 +48058,11 @@
     "newPrice": 7990,
     "verifiedAt": "2026-06-08",
     "source": "subagent+biggo"
+  },
+  "1442441103": {
+    "skip": true,
+    "note": "舊AVR殘值末段",
+    "verifiedAt": "2026-06-09"
   },
   "1442442155": {
     "secondhand": 2500,
@@ -48427,6 +48554,12 @@
     "title": "免運 二手9.9成新 yuyu 郁郁 香氛噴霧 美濃水蓮 寶島氣味農作社",
     "verifiedAt": "2026-06-08"
   },
+  "1442518176": {
+    "newPrice": 13690,
+    "secondhand": 13750,
+    "note": "套裝二手12500 低價驗詐",
+    "verifiedAt": "2026-06-10"
+  },
   "1442518737": {
     "skip": true,
     "note": "patrol482 batch-skip 非追蹤需求(音樂媒體)",
@@ -48502,6 +48635,12 @@
     "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
     "title": "TXT 蘋果娃",
     "verifiedAt": "2026-06-08"
+  },
+  "1442524453": {
+    "newPrice": 8500,
+    "secondhand": null,
+    "note": "全新約8500 折8%偏弱",
+    "verifiedAt": "2026-06-10"
   },
   "1442524576": {
     "skip": true,
@@ -48682,6 +48821,11 @@
     "title": "老料中國笛🔴 蘇州民族樂器一廠經典庫存老貨套笛",
     "verifiedAt": "2026-06-08"
   },
+  "1442543994": {
+    "skip": true,
+    "note": "Switch2近原價無折",
+    "verifiedAt": "2026-06-09"
+  },
   "1442547260": {
     "skip": true,
     "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
@@ -48770,6 +48914,12 @@
     "note": "patrol482 查無行情/型號不明",
     "verifiedAt": "2026-06-08"
   },
+  "1442564440": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "型號未標無法鎖定",
+    "verifiedAt": "2026-06-10"
+  },
   "1442566977": {
     "skip": true,
     "note": "patrol482 batch-skip 非追蹤需求(收藏品)",
@@ -48805,5 +48955,1251 @@
     "note": "patrol482 batch-skip 非追蹤需求(運動戶外)",
     "title": "捷安特 淑女車",
     "verifiedAt": "2026-06-08"
+  },
+  "1442573090": {
+    "newPrice": 3490,
+    "secondhand": 1540,
+    "note": "高於二手中位1400",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442577871": {
+    "newPrice": 4290,
+    "secondhand": 3190,
+    "note": "Galaxv拼字可疑 看profile",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442578034": {
+    "skip": true,
+    "note": "聲卡非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442581445": {
+    "newPrice": 26900,
+    "secondhand": null,
+    "note": "全新26900起 二手<3筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442581922": {
+    "newPrice": null,
+    "secondhand": 8635,
+    "note": "停產 開價高於二手中位",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442582313": {
+    "newPrice": null,
+    "secondhand": 4950,
+    "note": "略低行情 機齡老",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442583682": {
+    "skip": true,
+    "note": "AirPods4近原價無折",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442591650": {
+    "skip": true,
+    "note": "雜牌耳夾",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442591885": {
+    "newPrice": 7500,
+    "secondhand": 4950,
+    "note": "僅左右耳缺充電盒",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442599918": {
+    "newPrice": 9599,
+    "secondhand": 7810,
+    "note": "出清新品9599 二手7100",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442603360": {
+    "newPrice": 4290,
+    "secondhand": null,
+    "note": "2022限定 現貨4290",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442606412": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "淨化版停售 無行情",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442606905": {
+    "skip": true,
+    "note": "雜牌加濕扇",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442608077": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "型號未標無法定型",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442610817": {
+    "newPrice": null,
+    "secondhand": 5940,
+    "note": "停產 二手11筆中位5400",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442610822": {
+    "newPrice": null,
+    "secondhand": 8635,
+    "note": "停產 開價高於二手中位",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442621060": {
+    "skip": true,
+    "note": "卡牌收藏",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442621983": {
+    "skip": true,
+    "note": "電話總機非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442624391": {
+    "skip": true,
+    "note": "型號可疑Z1",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442627166": {
+    "newPrice": 880,
+    "secondhand": null,
+    "note": "全新約880 折扣有限",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442632216": {
+    "skip": true,
+    "note": "單片老遊戲",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442632477": {
+    "skip": true,
+    "note": "型號不明手錶",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442635531": {
+    "skip": true,
+    "note": "parker5265連發商家",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442635945": {
+    "skip": true,
+    "note": "parker5265連發商家",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442636393": {
+    "newPrice": null,
+    "secondhand": 8250,
+    "note": "停產 二手7500 價差200",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442636413": {
+    "skip": true,
+    "note": "parker5265連發商家",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442636932": {
+    "skip": true,
+    "note": "型號未明",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442637043": {
+    "newPrice": 20000,
+    "secondhand": 18700,
+    "note": "二手3筆17000",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442639168": {
+    "skip": true,
+    "note": "雜牌方向盤",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442639642": {
+    "skip": true,
+    "note": "型號未明",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442640388": {
+    "skip": true,
+    "note": "parker5265連發商家",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442640645": {
+    "skip": true,
+    "note": "parker5265連發商家",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442643393": {
+    "newPrice": 6120,
+    "secondhand": 2860,
+    "note": "同款APP2已驗 高於二手中位2600",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442654059": {
+    "newPrice": 3590,
+    "secondhand": 2750,
+    "note": "新品3590 二手2500",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442660430": {
+    "newPrice": 6990,
+    "secondhand": 6941,
+    "note": "二手中位6310 BigGo3筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442661003": {
+    "newPrice": 2700,
+    "secondhand": 2310,
+    "note": "尺寸未標以170g計",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442662526": {
+    "newPrice": 19900,
+    "secondhand": 18150,
+    "note": "以128G估 含Pencil略划算",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442662691": {
+    "newPrice": 2399,
+    "secondhand": null,
+    "note": "新品2399 二手僅1筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442664716": {
+    "newPrice": 13000,
+    "secondhand": null,
+    "note": "二手2筆疑同件 新品13000",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442666573": {
+    "skip": true,
+    "note": "香氛皂",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442667113": {
+    "newPrice": 5400,
+    "secondhand": null,
+    "note": "二手樣本不足 新品4860",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442669957": {
+    "newPrice": 20250,
+    "secondhand": 8789,
+    "note": "低於二手最低5800 超值",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442672424": {
+    "newPrice": null,
+    "secondhand": 19800,
+    "note": "機+鏡合估18000 過低驗貨",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442675821": {
+    "newPrice": 9900,
+    "secondhand": 8250,
+    "note": "新品9900 福利品7500",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442690221": {
+    "newPrice": 2680,
+    "secondhand": null,
+    "note": "型號未標以PREMIUM計",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442691929": {
+    "newPrice": null,
+    "secondhand": 2750,
+    "note": "電池76%同況2100-2500",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442695834": {
+    "skip": true,
+    "note": "AirPads拼字仿品疑慮",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442699809": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "停產 二手樣本不足",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442700915": {
+    "newPrice": null,
+    "secondhand": 9350,
+    "note": "低行情2500 需驗機防詐",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442701343": {
+    "newPrice": 1990,
+    "secondhand": 2090,
+    "note": "二手1900 全新1990",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442703983": {
+    "skip": true,
+    "note": "組合內容不明",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442705562": {
+    "skip": true,
+    "note": "無品牌滑板車",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442706173": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "系列未標無法對價",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442707745": {
+    "newPrice": 3099,
+    "secondhand": null,
+    "note": "台無專櫃 清貨3099",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442708985": {
+    "newPrice": null,
+    "secondhand": 5720,
+    "note": "停產 二手中位5200",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442710638": {
+    "newPrice": 3650,
+    "secondhand": 3520,
+    "note": "二手行情3200",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442710668": {
+    "newPrice": 12900,
+    "secondhand": null,
+    "note": "2025新鏡 價差僅1600",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442711107": {
+    "newPrice": null,
+    "secondhand": 880,
+    "note": "初代二手650-900 過貴",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442711379": {
+    "newPrice": 12900,
+    "secondhand": null,
+    "note": "蝦皮新品9900 價差1100",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442712722": {
+    "newPrice": null,
+    "secondhand": 4180,
+    "note": "停產 44mm二手中位3800",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442714127": {
+    "newPrice": null,
+    "secondhand": 15400,
+    "note": "規格未標 行情約14000",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442716192": {
+    "skip": true,
+    "note": "高於新品行情",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442717011": {
+    "newPrice": 4618,
+    "secondhand": null,
+    "note": "全新4056起 折扣有限",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442717900": {
+    "skip": true,
+    "note": "低階N4500殘值",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442718093": {
+    "newPrice": 3650,
+    "secondhand": 3520,
+    "note": "二手3200 開價偏高",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442719021": {
+    "skip": true,
+    "note": "雪板niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442719062": {
+    "skip": true,
+    "note": "雪板niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442719644": {
+    "skip": true,
+    "note": "型號可疑macbook neo",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442719771": {
+    "skip": true,
+    "note": "雪板niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442720743": {
+    "newPrice": null,
+    "secondhand": 6050,
+    "note": "二手5500 同行情",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442723582": {
+    "newPrice": 6999,
+    "secondhand": 6599,
+    "note": "高於二手中位5999",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442727658": {
+    "skip": true,
+    "note": "棒壘手套niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442729961": {
+    "newPrice": 5190,
+    "secondhand": null,
+    "note": "全新未拆低市價600",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442733930": {
+    "newPrice": 3490,
+    "secondhand": null,
+    "note": "新品3490 樣本不足",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442737386": {
+    "newPrice": 19800,
+    "secondhand": null,
+    "note": "樣本不足 新品19800",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442742637": {
+    "newPrice": null,
+    "secondhand": 3300,
+    "note": "停產 二手中位3000 偏貴",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442743857": {
+    "newPrice": 7990,
+    "secondhand": 7040,
+    "note": "二手6400 無利潤",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442748346": {
+    "newPrice": 5990,
+    "secondhand": 4840,
+    "note": "同款二手約4000",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442749111": {
+    "newPrice": null,
+    "secondhand": 12100,
+    "note": "二手11筆 低於最低8900",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442749338": {
+    "newPrice": 7900,
+    "secondhand": 4620,
+    "note": "世代未標 以II計4200",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442750265": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "EOL 二手僅自身",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442755362": {
+    "newPrice": 3960,
+    "secondhand": null,
+    "note": "無酒精版全新3960",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442759473": {
+    "newPrice": 15700,
+    "secondhand": 12100,
+    "note": "組合合估含殼電供",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442767160": {
+    "newPrice": 5180,
+    "secondhand": 4510,
+    "note": "二手3400-4400含扇",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442767502": {
+    "newPrice": null,
+    "secondhand": 6050,
+    "note": "EOL 二手4500-7350",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442767614": {
+    "newPrice": 26900,
+    "secondhand": null,
+    "note": "RF版存在 新品26900",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442769584": {
+    "newPrice": null,
+    "secondhand": 7150,
+    "note": "單機行情6500 無價差",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442771341": {
+    "newPrice": 4968,
+    "secondhand": null,
+    "note": "全新約4968 二手僅1筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442771408": {
+    "skip": true,
+    "note": "混搭組型號雜",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442772216": {
+    "skip": true,
+    "note": "服飾混入非音響",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442774024": {
+    "newPrice": 9700,
+    "secondhand": null,
+    "note": "全新9700起",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442776585": {
+    "skip": true,
+    "note": "Jetson舊世代niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442782849": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "白金S全新4990",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442783165": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442783445": {
+    "newPrice": 4290,
+    "secondhand": 3300,
+    "note": "非降噪版二手3000 偏高",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442785202": {
+    "skip": true,
+    "note": "無品牌划船機",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442785431": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442785571": {
+    "newPrice": 21900,
+    "secondhand": 15950,
+    "note": "SSD漲價 二手14k-19k",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442786488": {
+    "newPrice": null,
+    "secondhand": 4400,
+    "note": "略低行情 注意電池門",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442787322": {
+    "skip": true,
+    "note": "2007攝影機殘值",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442788517": {
+    "skip": true,
+    "note": "雜牌車尾帳",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442789112": {
+    "skip": true,
+    "note": "二手冷錢包安全風險",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442789240": {
+    "skip": true,
+    "note": "骨傳導無型號",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442789613": {
+    "skip": true,
+    "note": "防寒衣niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442790534": {
+    "skip": true,
+    "note": "雜牌單車",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442791697": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442793274": {
+    "skip": true,
+    "note": "低階舊筆電",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442793625": {
+    "newPrice": 4280,
+    "secondhand": null,
+    "note": "全新中位4280 二手0筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442798165": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442799242": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442801208": {
+    "newPrice": 8274,
+    "secondhand": 7975,
+    "note": "二手8筆7250 高於行情",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442802616": {
+    "newPrice": 3990,
+    "secondhand": null,
+    "note": "全新3990 二手0筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442803234": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442805592": {
+    "skip": true,
+    "note": "雜牌Vephos",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442810565": {
+    "newPrice": 3000,
+    "secondhand": 2200,
+    "note": "高於二手中位2000",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442813268": {
+    "newPrice": 6590,
+    "secondhand": 7029,
+    "note": "遠低二手行情 仿品疑慮",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442815633": {
+    "newPrice": 2399,
+    "secondhand": null,
+    "note": "新品2399 樣本不足",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442817086": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442817363": {
+    "skip": true,
+    "note": "古董機身況不明",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442818564": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442818971": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442819311": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442820072": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442820525": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442821630": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442822020": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442822116": {
+    "newPrice": 4990,
+    "secondhand": null,
+    "note": "全新3990起 開價≥新品",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442825188": {
+    "newPrice": 2499,
+    "secondhand": null,
+    "note": "STOENSE官網2499",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442825905": {
+    "newPrice": 24816,
+    "secondhand": 32780,
+    "note": "無型號serial 真偽需驗",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442827250": {
+    "skip": true,
+    "note": "MoDT小眾",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442829321": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442829498": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442829730": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442830514": {
+    "skip": true,
+    "note": "老平台殘值",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442832149": {
+    "skip": true,
+    "note": "雜牌擴香",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442832336": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442833097": {
+    "newPrice": null,
+    "secondhand": 6270,
+    "note": "低行情500 電池87%",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442834092": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442834215": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "停產 僅此1筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442835913": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442836638": {
+    "skip": true,
+    "note": "喇叭架配件",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442837028": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442840172": {
+    "newPrice": 17200,
+    "secondhand": 14850,
+    "note": "組合合估",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442840507": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442842309": {
+    "newPrice": 17700,
+    "secondhand": 13200,
+    "note": "二手12000 無價差",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442842821": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442843798": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442844680": {
+    "newPrice": 2699,
+    "secondhand": null,
+    "note": "PChome全新2699",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442844712": {
+    "skip": true,
+    "note": "無型號閱讀器",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442844933": {
+    "newPrice": 5890,
+    "secondhand": 5500,
+    "note": "二手中位5000",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442844939": {
+    "newPrice": 900,
+    "secondhand": null,
+    "note": "35g全新約900",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442846647": {
+    "newPrice": 32900,
+    "secondhand": 11550,
+    "note": "二手10500 開價偏高",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442847380": {
+    "newPrice": 6480,
+    "secondhand": 5720,
+    "note": "二手4320-6240 遠低行情",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442849243": {
+    "skip": true,
+    "note": "低階文書",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442849487": {
+    "newPrice": 2490,
+    "secondhand": null,
+    "note": "二手樣本<3 全新2490",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442849872": {
+    "newPrice": 7450,
+    "secondhand": 6380,
+    "note": "二手中位5800",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442851640": {
+    "skip": true,
+    "note": "無型號筆電",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442854841": {
+    "newPrice": 3530,
+    "secondhand": null,
+    "note": "全新最低3530 省幅有限",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442855348": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442855526": {
+    "newPrice": 7580,
+    "secondhand": null,
+    "note": "專櫃7580 真偽注意",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442857753": {
+    "newPrice": 1640,
+    "secondhand": null,
+    "note": "原廠全新1490-1790 超新品",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442860113": {
+    "newPrice": 360,
+    "secondhand": null,
+    "note": "全新約360 過高",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442860400": {
+    "newPrice": 436,
+    "secondhand": null,
+    "note": "全新300-436 開價過高",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442861871": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442862381": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442862570": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442862898": {
+    "newPrice": 9200,
+    "secondhand": 6600,
+    "note": "二手中位6000 無價差",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442863298": {
+    "skip": true,
+    "note": "保養品非香氛",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442863435": {
+    "newPrice": null,
+    "secondhand": 5390,
+    "note": "絕版特仕 二手4900 n11",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442864984": {
+    "skip": true,
+    "note": "SHARP型號未明小台",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442865430": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442866199": {
+    "newPrice": null,
+    "secondhand": 21450,
+    "note": "機9500+鏡10000合估",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442867063": {
+    "skip": true,
+    "note": "短線材配件",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442868277": {
+    "skip": true,
+    "note": "輪組niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442869304": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442869563": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442873103": {
+    "skip": true,
+    "note": "爆米花桶周邊",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442874438": {
+    "skip": true,
+    "note": "電鋼琴非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442875474": {
+    "skip": true,
+    "note": "雜牌Hysure",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442877779": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442877871": {
+    "skip": true,
+    "note": "遊戲帳號交易風險",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442878056": {
+    "newPrice": 8100,
+    "secondhand": 4400,
+    "note": "缺貨潮二手保值 32G合估",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442879397": {
+    "skip": true,
+    "note": "手機殼配件",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442879435": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442880221": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442880289": {
+    "newPrice": 5299,
+    "secondhand": null,
+    "note": "二手樣本<3 全新5300",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442881406": {
+    "skip": true,
+    "note": "樂器非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442882026": {
+    "skip": true,
+    "note": "匹克球niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442882253": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442882618": {
+    "newPrice": 1400,
+    "secondhand": null,
+    "note": "2026新發片 進口約1400",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442882684": {
+    "newPrice": 7490,
+    "secondhand": null,
+    "note": "A7Lite全新7490 二手0筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442882701": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "停產 二手僅1筆12000",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442883768": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442883998": {
+    "skip": true,
+    "note": "公路車型號未明",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442884762": {
+    "skip": true,
+    "note": "高爾夫niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442884931": {
+    "skip": true,
+    "note": "徵求文",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442885148": {
+    "skip": true,
+    "note": "高爾夫niche",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442885306": {
+    "newPrice": 11590,
+    "secondhand": 9130,
+    "note": "組合合估",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442886068": {
+    "skip": true,
+    "note": "雜牌兒投",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442886659": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "型號未標無法鎖定",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442886981": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442887219": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442887375": {
+    "skip": true,
+    "note": "雜牌噴霧",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442888007": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442888668": {
+    "newPrice": 2490,
+    "secondhand": null,
+    "note": "二手樣本<3 全新2490",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442889177": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442889727": {
+    "newPrice": 4070,
+    "secondhand": null,
+    "note": "二手僅2筆 近新品價",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442889991": {
+    "skip": true,
+    "note": "CD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442890043": {
+    "skip": true,
+    "note": "藍光BD",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442891353": {
+    "newPrice": null,
+    "secondhand": null,
+    "note": "停產 僅1筆i5版參考",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442891432": {
+    "skip": true,
+    "note": "無品牌立燈",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442894146": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442894366": {
+    "newPrice": 5480,
+    "secondhand": 5060,
+    "note": "二手中位4600 31筆 仿品多",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442894841": {
+    "newPrice": null,
+    "secondhand": 12100,
+    "note": "一代二手中位11000 超行情",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442895136": {
+    "newPrice": 5480,
+    "secondhand": 5060,
+    "note": "二手中位4600 開價高於行情",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442895303": {
+    "newPrice": 14155,
+    "secondhand": 14740,
+    "note": "二手中位13400 25筆",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442897763": {
+    "skip": true,
+    "note": "巧控鍵盤尺寸未明",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442903434": {
+    "newPrice": null,
+    "secondhand": 5115,
+    "note": "五片二手合估4650",
+    "verifiedAt": "2026-06-10"
+  },
+  "1442903563": {
+    "newPrice": 6120,
+    "secondhand": 2860,
+    "note": "高於二手中位2600",
+    "verifiedAt": "2026-06-10",
+    "skip": true
+  },
+  "1442906648": {
+    "skip": true,
+    "note": "收藏品非需求",
+    "verifiedAt": "2026-06-09"
+  },
+  "1442909459": {
+    "skip": true,
+    "note": "6sPlus殘值末段",
+    "verifiedAt": "2026-06-09"
   }
 }

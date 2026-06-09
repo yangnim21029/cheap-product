@@ -250,6 +250,10 @@ try { verified = JSON.parse(fs.readFileSync(VERIFIED_FILE, 'utf8')); } catch {}
 const PENDING_FILE = 'state/pending_review.json';
 let pending = { newDeals: [], negotiate: [], uncertain: [] };
 try { pending = JSON.parse(fs.readFileSync(PENDING_FILE, 'utf8')); } catch {}
+// 黑名單賣家回溯生效：sellers.json 事後加的店家，連已累積的 pending 一併清掉
+for (const k of ['newDeals', 'negotiate', 'uncertain']) {
+  if (pending[k]) pending[k] = pending[k].filter(d => !BANNED.has(d.seller));
+}
 
 // === 用已驗證價格比價，沒驗證的列為待查 ===
 const newDeals = [];
