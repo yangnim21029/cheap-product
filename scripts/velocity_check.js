@@ -3,6 +3,11 @@
 // 「從搜尋消失」幾乎全是 page churn（新貨擠出首頁），不等於賣掉 → 必須開詳情頁讀 availability 才準。
 // InStock→SoldOut 的轉變 = 確認售出，記 soldAt + timeToSellDays（首見→售出）。
 // 跑法：node scripts/velocity_check.js [N]  （預設 40，在 scrape 之後跑）
+//
+// 2026-06-10 防呆（patrol 490 卡死 112 分鐘的教訓）：
+// - 每件套 45s watchdog（Promise.race）— 單頁 promise 懸住不再拖死整輪
+// - 每 20 件增量寫 store — 中途被殺只損失最後一批，不再全輪白做
+// - 連續 5 件失敗判定瀏覽器掛了，提前收尾（store 照寫）
 
 const fs = require('fs');
 const { chromium } = require('playwright');
@@ -10,10 +15,13 @@ const lock = require('./chromium-lock');
 
 const STORE = 'state/velocity_listings.json';
 const N = parseInt(process.argv[2]) || 40;
+const WATCHDOG_MS = 45000;
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36';
 
 const now = new Date().toISOString();
 const store = JSON.parse(fs.readFileSync(STORE, 'utf8'));
+const flush = () => fs.writeFileSync(STORE, JSON.stringify(store, null, 2));
+const timeout = (ms, tag) => new Promise((_, rej) => setTimeout(() => rej(new Error(tag || `watchdog ${ms}ms`)), ms));
 
 // 挑要複查的：已確認售出/移除的不再查；其餘按「最久沒查（或沒查過）」排序，gone 的優先（較可能已售）。
 const lastChk = (r) => r.checkedAt || r.firstSeenAt || '';
@@ -32,14 +40,15 @@ lock.acquire('velocity_check.js');
 (async () => {
   const browser = await chromium.launch({ headless: true });
   const ctx = await browser.newContext({ userAgent: UA });
-  let sold = 0, active = 0, removed = 0, err = 0;
+  let sold = 0, active = 0, removed = 0, err = 0, errStreak = 0, done = 0;
 
   for (const pid of candidates) {
     const r = store[pid];
-    const pg = await ctx.newPage();
-    let http = 0;
-    pg.on('response', resp => { if (resp.url().includes('/p/' + pid)) http = resp.status(); });
-    try {
+    let pg = null;
+    const work = (async () => {
+      pg = await ctx.newPage();
+      let http = 0;
+      pg.on('response', resp => { if (resp.url().includes('/p/' + pid)) http = resp.status(); });
       await pg.goto('https://tw.carousell.com/p/' + pid + '/', { waitUntil: 'load', timeout: 25000 });
       await pg.waitForTimeout(3500);
       const d = await pg.evaluate(() => {
@@ -65,16 +74,29 @@ lock.acquire('velocity_check.js');
       } else {
         r.checkNote = 'avail=' + d.avail + ' len=' + d.bodyLen; err++;
       }
+    })();
+
+    try {
+      await Promise.race([work, timeout(WATCHDOG_MS)]);
+      errStreak = 0;
     } catch (e) {
-      r.checkErr = (e.message || '').slice(0, 40); err++;
+      r.checkErr = (e.message || '').slice(0, 40); err++; errStreak++;
     }
-    await pg.close();
+    try { if (pg) await Promise.race([pg.close(), timeout(5000, 'close timeout')]); } catch {}
+
+    done++;
+    if (done % 20 === 0) flush(); // 增量寫檔：中途被殺不全損
+
+    if (errStreak >= 5) {
+      console.log(`velocity_check: 連續 ${errStreak} 件失敗 — 判定瀏覽器/網路掛了，提前收尾 (${done}/${candidates.length})`);
+      break;
+    }
     await new Promise(res => setTimeout(res, 2000)); // rate limit
   }
 
-  fs.writeFileSync(STORE, JSON.stringify(store, null, 2));
+  flush();
   const totalSold = Object.values(store).filter(r => r.soldConfirmed).length;
-  console.log(`velocity_check: 複查 ${candidates.length} 件 → 售出 ${sold} / 仍在賣 ${active} / 已移除 ${removed} / 異常 ${err}`);
+  console.log(`velocity_check: 複查 ${done} 件 → 售出 ${sold} / 仍在賣 ${active} / 已移除 ${removed} / 異常 ${err}`);
   console.log(`  累積確認售出 ${totalSold} 件`);
-  await browser.close();
+  try { await Promise.race([browser.close(), timeout(10000, 'browser close timeout')]); } catch { process.exit(0); }
 })();
