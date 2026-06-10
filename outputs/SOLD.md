@@ -1,6 +1,6 @@
 # 售出商品 · velocity 排序
 
-> 更新 2026-06-10 23:07 (台灣) · 追蹤 6987 件 · 已複查 2108 件 · **確認售出 111 件**（20 件 velocity 粗估）· 已移除 61 件
+> 更新 2026-06-11 00:06 (台灣) · 追蹤 7083 件 · 已複查 2228 件 · **確認售出 129 件**（24 件 velocity 粗估）· 已移除 66 件
 
 > velocity = 上架 → 確認售出（詳情頁 JSON-LD 轉 SoldOut）的真實在市天數 = 首見時已上架天數 + 追蹤天數。賣最快在最上面。
 > 「估」= 首見時已上架≥7天，velocity 來自 timeAgo（「X 個月前」）粗估，誤差較大但仍是真售出。
@@ -32,17 +32,23 @@
 | apple watch | 4 (4) | 5.3 天 | 乾淨 | NT$2,049.5 |
 | 筆電 | 2 (2) | 5.6 天 | 混估 | NT$8,750 |
 | 運動戶外 | 2 (2) | 5.8 天 | 混估 | NT$4,250 |
+| Bose QC | 3 (2) | 5.9 天 | 混估 | NT$6,500 |
 | 智慧手錶 | 4 (4) | 6.3 天 | 乾淨 | NT$6,500 |
 | dji | 4 (3) | 6.3 天 | 乾淨 | NT$3,500 |
+| iPhone | 4 (4) | 6.9 天 | 乾淨 | NT$4,450 |
+| 香氛 | 1 (1) | 6.9 天 | 混估 | NT$18,883,146 |
 | 滑鼠 | 2 (1) | 8.3 天 | 混估 | NT$2,250 |
 | PS5 | 1 (1) | 8.6 天 | 混估 | NT$12,000 |
-| USB-C HDMI | 1 (1) | 8.9 天 | 混估 | NT$345 |
+| USB-C HDMI | 4 (4) | 10.4 天 | 乾淨 | NT$347.5 |
+| 美容儀 | 2 (2) | 10.9 天 | 混估 | NT$4,250 |
+| Pixel | 2 (1) | 14.9 天 | 混估 | NT$3,250 |
+| 烤箱 | 2 (1) | 18.4 天 | 混估 | NT$2,250 |
 | 露營 | 2 (0) | 20.8 天 | 混估 | NT$2,210 |
+| Switch 遊戲片 | 3 (1) | 22.9 天 | 混估 | NT$800 |
 | 空氣清淨機 | 2 (0) | 24.0 天 | 混估 | NT$1,240 |
 | 吸塵器 | 2 (0) | 26.4 天 | 混估 | NT$3,400 |
 | 掃地機器人 | 2 (0) | 32.1 天 | 混估 | NT$7,550 |
 | 手沖 | 3 (0) | 32.5 天 | 混估 | NT$880 |
-| Bose QC | 2 (1) | 50.4 天 | 混估 | NT$5,000 |
 | 三腳架 | 1 (0) | 91.0 天 | 混估 | NT$600 |
 | 相印機 | 1 (0) | 94.9 天 | 混估 | NT$2,800 |
 | 手機 HDMI | 1 (0) | 121.0 天 | 混估 | NT$200 |
@@ -128,42 +134,60 @@ _基準「乾淨」= 該分類非估樣本 ≥3 件，中位數只算乾淨的�
 | 70 | **5.3 天** | (未存標題) | 拍立得 | NT$2,500 |  |
 | 71 | **5.3 天** | (未存標題) | 家電影音 | NT$2,900 |  |
 | 72 | **5.3 天** | (未存標題) | 電腦科技 | NT$16,500 |  |
-| 73 | **5.6 天** | 《Marshall》emberton 2 藍芽喇叭 | 喇叭 | NT$3,100 | [→](https://tw.carousell.com/p/1441420777/) |
-| 74 | **5.6 天** | Apple Watch S6 Series 6 Series6 GPS 40mm蘋果 | apple watch | NT$2,400 | [→](https://tw.carousell.com/p/1441432602/) |
-| 75 | **5.6 天** | (未存標題) | iPad | NT$8,500 |  |
-| 76 | **5.9 天** | (未存標題) | Bose QC | NT$3,500 |  |
-| 77 | **6.2 天** | ipad 7 2019 128G LTE 版 玫瑰金 🔋100% 90成新 功能正 | iPad | NT$5,100 | [→](https://tw.carousell.com/p/1441636073/) |
-| 78 | **6.3 天** | (未存標題) | 智慧手錶 | NT$6,500 |  |
-| 79 | **6.3 天** | RG cube | 電玩主機 | NT$4,500 | [→](https://tw.carousell.com/p/1441710354/) |
-| 80 | **6.3 天** | Dji neo備用機 可議價 | dji | NT$2,800 | [→](https://tw.carousell.com/p/1441715553/) |
-| 81 | **6.3 天** | Garmin vívoactive 5 GPS 智慧手錶 腕錶 | 智慧手錶 | NT$3,800 | [→](https://tw.carousell.com/p/1441726588/) |
-| 82 | **6.3 天** | 高雄 Lenovo 聯想 ideaPad3 15iUA7 高效能 i5-12代 筆電 | 筆電 | NT$8,500 | [→](https://tw.carousell.com/p/1441746358/) |
-| 83 | **6.3 天** | (未存標題) | 運動戶外 | NT$2,500 |  |
-| 84 | **6.3 天** | 【售】apple watch SE3 44MM 星光色全新未使用 | 智慧手錶 | NT$6,990 | [→](https://tw.carousell.com/p/1441784025/) |
-| 85 | **6.3 天** | Switch NS 寶可夢 盾 + 擴充票 中文版 ( 台灣公司貨 ) | 電玩主機 | NT$3,650 | [→](https://tw.carousell.com/p/1441789061/) |
-| 86 | **6.6 天** | 小米20000高階 行動電源 | 行動電源 | NT$600 | [→](https://tw.carousell.com/p/1441295765/) |
-| 87 | **6.6 天** | (未存標題) | dji | NT$3,500 |  |
-| 88 | **8.6 天** | (未存標題) | PS5 | NT$12,000 |  |
-| 89 | **8.9 天** | (未存標題) | USB-C HDMI | NT$345 |  |
-| 90 | **9.2 天** | FUJIFILM 富士 拍立得底片 白邊 INSTAX MINI 2025-06 | 拍立得 | NT$555 | [→](https://tw.carousell.com/p/1441002133/) |
-| 91 | **10.2 天** | Apple Watch SE 3 (GPS)附錶帶*3 保固至2027/2/1 | apple watch | NT$5,000 | [→](https://tw.carousell.com/p/1440947499/) |
-| 92 | 11.2 天 (估) | Razer Viper v3 pro 雷蛇電競滑鼠 | 滑鼠 | NT$2,500 | [→](https://tw.carousell.com/p/1440723718/) |
-| 93 | 14.6 天 (估) | 搖曳露營 普通版32張 全套 整套 套組 一套 ensky 透明卡 食玩 收藏卡 卡 | 露營 | NT$2,220 | [→](https://tw.carousell.com/p/1439744127/) |
-| 94 | 15.6 天 (估) | (未存標題) | dji | NT$3,000 |  |
-| 95 | 15.6 天 (估) | 🩵Hysure海說Q9 ⭐️二合一除濕機+空氣清淨機Wifi app控制 | 空氣清淨機 | NT$1,380 | [→](https://tw.carousell.com/p/1439553676/) |
-| 96 | 15.9 天 (估) | 全新公司貨CHIMEI 奇美 360度仿手沖咖啡機 CG-065A10 | 手沖 | NT$860 | [→](https://tw.carousell.com/p/1440005603/) |
-| 97 | 20.2 天 (估) | (未存標題) | 吸塵器 | NT$3,800 |  |
-| 98 | 27.1 天 (估) | 繁體中文 智能投影機｜房間/露營適用｜內建 Netflix Disney YouTu | 露營 | NT$2,200 | [→](https://tw.carousell.com/p/1437615832/) |
-| 99 | 31.6 天 (估) | 石頭S6掃地機器人 | 掃地機器人 | NT$3,100 | [→](https://tw.carousell.com/p/1436671809/) |
-| 100 | 32.5 天 (估) | (未存標題) | 空氣清淨機 | NT$1,100 |  |
-| 101 | 32.5 天 (估) | Electrolux 伊萊克斯 Well Q6 無線吸塵器 毛髮截斷 WQ61-10 | 吸塵器 | NT$3,000 | [→](https://tw.carousell.com/p/1435687558/) |
-| 102 | 32.5 天 (估) | ［全新］ LI:FIL 波佐見燒陶瓷濾杯 (手沖、咖啡機兩用款) | 手沖 | NT$880 | [→](https://tw.carousell.com/p/1436218357/) |
-| 103 | 32.6 天 (估) | Brewista 戶外旅咖手沖咖啡套組 | 手沖 | NT$1,600 | [→](https://tw.carousell.com/p/1436408751/) |
-| 104 | 32.6 天 (估) | (未存標題) | 掃地機器人 | NT$12,000 |  |
-| 105 | 91.0 天 (估) | SOLD | 三腳架 | NT$600 | [→](https://tw.carousell.com/p/1422540157/) |
-| 106 | 94.9 天 (估) | SOLD | Bose QC | NT$6,500 | [→](https://tw.carousell.com/p/1411062854/) |
-| 107 | 94.9 天 (估) | 富士 instax mini link 相印機 粉色 | 相印機 | NT$2,800 | [→](https://tw.carousell.com/p/1425509436/) |
-| 108 | 121.0 天 (估) | SOLD | 手機 HDMI | NT$200 | [→](https://tw.carousell.com/p/1419562335/) |
-| 109 | 121.2 天 (估) | SOLD | 瑜珈墊 | NT$1,640 | [→](https://tw.carousell.com/p/1419667890/) |
-| 110 | 151.0 天 (估) | SOLD | Bose SoundLink | NT$2,800 | [→](https://tw.carousell.com/p/1411666517/) |
-| 111 | 366.1 天 (估) | SOLD | 電競椅 | NT$2,700 | [→](https://tw.carousell.com/p/1340057020/) |
+| 73 | **5.5 天** | BOSE QC ULTRA 黑 | Bose QC | NT$6,500 | [→](https://tw.carousell.com/p/1439806964/) |
+| 74 | **5.6 天** | 《Marshall》emberton 2 藍芽喇叭 | 喇叭 | NT$3,100 | [→](https://tw.carousell.com/p/1441420777/) |
+| 75 | **5.6 天** | Apple Watch S6 Series 6 Series6 GPS 40mm蘋果 | apple watch | NT$2,400 | [→](https://tw.carousell.com/p/1441432602/) |
+| 76 | **5.6 天** | (未存標題) | iPad | NT$8,500 |  |
+| 77 | **5.9 天** | (未存標題) | Bose QC | NT$3,500 |  |
+| 78 | **6.2 天** | ipad 7 2019 128G LTE 版 玫瑰金 🔋100% 90成新 功能正 | iPad | NT$5,100 | [→](https://tw.carousell.com/p/1441636073/) |
+| 79 | **6.3 天** | (未存標題) | 智慧手錶 | NT$6,500 |  |
+| 80 | **6.3 天** | RG cube | 電玩主機 | NT$4,500 | [→](https://tw.carousell.com/p/1441710354/) |
+| 81 | **6.3 天** | Dji neo備用機 可議價 | dji | NT$2,800 | [→](https://tw.carousell.com/p/1441715553/) |
+| 82 | **6.3 天** | Garmin vívoactive 5 GPS 智慧手錶 腕錶 | 智慧手錶 | NT$3,800 | [→](https://tw.carousell.com/p/1441726588/) |
+| 83 | **6.3 天** | 高雄 Lenovo 聯想 ideaPad3 15iUA7 高效能 i5-12代 筆電 | 筆電 | NT$8,500 | [→](https://tw.carousell.com/p/1441746358/) |
+| 84 | **6.3 天** | (未存標題) | 運動戶外 | NT$2,500 |  |
+| 85 | **6.3 天** | 【售】apple watch SE3 44MM 星光色全新未使用 | 智慧手錶 | NT$6,990 | [→](https://tw.carousell.com/p/1441784025/) |
+| 86 | **6.3 天** | Switch NS 寶可夢 盾 + 擴充票 中文版 ( 台灣公司貨 ) | 電玩主機 | NT$3,650 | [→](https://tw.carousell.com/p/1441789061/) |
+| 87 | **6.6 天** | 小米20000高階 行動電源 | 行動電源 | NT$600 | [→](https://tw.carousell.com/p/1441295765/) |
+| 88 | **6.6 天** | (未存標題) | dji | NT$3,500 |  |
+| 89 | **6.9 天** | iPhone 12 128G | iPhone | NT$4,000 | [→](https://tw.carousell.com/p/1441729346/) |
+| 90 | **6.9 天** | Apple iPhone 12 Pro A2407 128GB 金色 功能正常 | iPhone | NT$4,900 | [→](https://tw.carousell.com/p/1441736386/) |
+| 91 | **6.9 天** | Diptyque 限量 櫻花🌸 香氛蠟燭 cherry blossom 全新未拆封 | 香氛 | NT$18,883,146 | [→](https://tw.carousell.com/p/1441743641/) |
+| 92 | **6.9 天** | iPhone 12 128G 藍色 | iPhone | NT$6,000 | [→](https://tw.carousell.com/p/1441821306/) |
+| 93 | **7.9 天** | 寶可夢 劍 Switch遊戲片 | Switch 遊戲片 | NT$800 | [→](https://tw.carousell.com/p/1441484739/) |
+| 94 | **7.9 天** | iphone xs 64G 黑色 100% | iPhone | NT$3,500 | [→](https://tw.carousell.com/p/1441534609/) |
+| 95 | **7.9 天** | 伊萊克斯 40公升 Ultimate Taste 500 電子式精準控溫旋風烤箱 ( | 烤箱 | NT$2,500 | [→](https://tw.carousell.com/p/1441541972/) |
+| 96 | **8.6 天** | (未存標題) | PS5 | NT$12,000 |  |
+| 97 | **8.9 天** | (未存標題) | USB-C HDMI | NT$345 |  |
+| 98 | **8.9 天** | Google Pixel 4 (6G/64G) 5.7吋智慧型手機 黑 | Pixel | NT$3,300 | [→](https://tw.carousell.com/p/1441242075/) |
+| 99 | **9.2 天** | FUJIFILM 富士 拍立得底片 白邊 INSTAX MINI 2025-06 | 拍立得 | NT$555 | [→](https://tw.carousell.com/p/1441002133/) |
+| 100 | **9.9 天** | (未存標題) | USB-C HDMI | NT$350 |  |
+| 101 | **10.2 天** | Apple Watch SE 3 (GPS)附錶帶*3 保固至2027/2/1 | apple watch | NT$5,000 | [→](https://tw.carousell.com/p/1440947499/) |
+| 102 | **10.9 天** | Medicube AGE-R Booster Pro 美容儀（粉） | 美容儀 | NT$3,900 | [→](https://tw.carousell.com/p/1440924214/) |
+| 103 | **10.9 天** | (未存標題) | USB-C HDMI | NT$2,790 |  |
+| 104 | **10.9 天** | (未存標題) | 美容儀 | NT$4,600 |  |
+| 105 | **10.9 天** | Apple 原廠未使用 USB-C 對 Lightning 連接線 (1 公尺) | USB-C HDMI | NT$250 | [→](https://tw.carousell.com/p/1440983974/) |
+| 106 | 11.2 天 (估) | Razer Viper v3 pro 雷蛇電競滑鼠 | 滑鼠 | NT$2,500 | [→](https://tw.carousell.com/p/1440723718/) |
+| 107 | 14.6 天 (估) | 搖曳露營 普通版32張 全套 整套 套組 一套 ensky 透明卡 食玩 收藏卡 卡 | 露營 | NT$2,220 | [→](https://tw.carousell.com/p/1439744127/) |
+| 108 | 15.6 天 (估) | (未存標題) | dji | NT$3,000 |  |
+| 109 | 15.6 天 (估) | 🩵Hysure海說Q9 ⭐️二合一除濕機+空氣清淨機Wifi app控制 | 空氣清淨機 | NT$1,380 | [→](https://tw.carousell.com/p/1439553676/) |
+| 110 | 15.9 天 (估) | 全新公司貨CHIMEI 奇美 360度仿手沖咖啡機 CG-065A10 | 手沖 | NT$860 | [→](https://tw.carousell.com/p/1440005603/) |
+| 111 | 20.2 天 (估) | (未存標題) | 吸塵器 | NT$3,800 |  |
+| 112 | 20.9 天 (估) | Google pixel 6a | Pixel | NT$3,200 | [→](https://tw.carousell.com/p/1439003915/) |
+| 113 | 22.9 天 (估) | (未存標題) | Switch 遊戲片 | NT$1,000 |  |
+| 114 | 24.9 天 (估) | 任天堂 switch 塊魂 全新遊戲片 | Switch 遊戲片 | NT$660 | [→](https://tw.carousell.com/p/1438245093/) |
+| 115 | 27.1 天 (估) | 繁體中文 智能投影機｜房間/露營適用｜內建 Netflix Disney YouTu | 露營 | NT$2,200 | [→](https://tw.carousell.com/p/1437615832/) |
+| 116 | 28.9 天 (估) | 台中2手家電中古全新家具館 推薦樂居二手家具館XS6050308BJJJ*不鏽鋼工作 | 烤箱 | NT$2,000 | [→](https://tw.carousell.com/p/1437446362/) |
+| 117 | 31.6 天 (估) | 石頭S6掃地機器人 | 掃地機器人 | NT$3,100 | [→](https://tw.carousell.com/p/1436671809/) |
+| 118 | 32.5 天 (估) | (未存標題) | 空氣清淨機 | NT$1,100 |  |
+| 119 | 32.5 天 (估) | Electrolux 伊萊克斯 Well Q6 無線吸塵器 毛髮截斷 WQ61-10 | 吸塵器 | NT$3,000 | [→](https://tw.carousell.com/p/1435687558/) |
+| 120 | 32.5 天 (估) | ［全新］ LI:FIL 波佐見燒陶瓷濾杯 (手沖、咖啡機兩用款) | 手沖 | NT$880 | [→](https://tw.carousell.com/p/1436218357/) |
+| 121 | 32.6 天 (估) | Brewista 戶外旅咖手沖咖啡套組 | 手沖 | NT$1,600 | [→](https://tw.carousell.com/p/1436408751/) |
+| 122 | 32.6 天 (估) | (未存標題) | 掃地機器人 | NT$12,000 |  |
+| 123 | 91.0 天 (估) | SOLD | 三腳架 | NT$600 | [→](https://tw.carousell.com/p/1422540157/) |
+| 124 | 94.9 天 (估) | SOLD | Bose QC | NT$6,500 | [→](https://tw.carousell.com/p/1411062854/) |
+| 125 | 94.9 天 (估) | 富士 instax mini link 相印機 粉色 | 相印機 | NT$2,800 | [→](https://tw.carousell.com/p/1425509436/) |
+| 126 | 121.0 天 (估) | SOLD | 手機 HDMI | NT$200 | [→](https://tw.carousell.com/p/1419562335/) |
+| 127 | 121.2 天 (估) | SOLD | 瑜珈墊 | NT$1,640 | [→](https://tw.carousell.com/p/1419667890/) |
+| 128 | 151.0 天 (估) | SOLD | Bose SoundLink | NT$2,800 | [→](https://tw.carousell.com/p/1411666517/) |
+| 129 | 366.1 天 (估) | SOLD | 電競椅 | NT$2,700 | [→](https://tw.carousell.com/p/1340057020/) |
