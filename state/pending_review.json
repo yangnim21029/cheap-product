@@ -2,10 +2,10 @@
   "newDeals": [
     {
       "seller": "jayddddddde",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "1 day ago",
       "title": "ible Airvida 小艾寶穿戴式空氣清淨機 M1 50cm",
       "price": 1200,
-      "condition": "",
+      "condition": "Unknown",
       "url": "https://tw.carousell.com/p/1442793625/",
       "category": "空氣清淨機",
       "maxDays": 3,
@@ -13,7 +13,7 @@
       "priceStr": "NT$1,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 15:38",
+      "listedAt": "06/09 19:17",
       "pid": "1442793625",
       "verified": {
         "newPrice": 4280,
@@ -60,7 +60,7 @@
       "priceStr": "NT$2,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/07 14:09",
+      "listedAt": "06/07 19:17",
       "pid": "1442468267",
       "verified": {
         "secondhand": null,
@@ -84,7 +84,7 @@
       "priceStr": "NT$2,600",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/07 09:38",
+      "listedAt": "06/07 19:17",
       "pid": "1442392364",
       "verified": {
         "secondhand": null,
@@ -97,7 +97,7 @@
     },
     {
       "seller": "stanley.lo",
-      "timeAgo": "2 days ago",
+      "timeAgo": "3 days ago",
       "title": "insta360 X3",
       "price": 7000,
       "condition": "Lightly used",
@@ -108,7 +108,7 @@
       "priceStr": "NT$7,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 06:33",
+      "listedAt": "06/07 19:17",
       "pid": "1442489268",
       "verified": {
         "secondhand": 11000,
@@ -143,11 +143,35 @@
       "vsSecondhand": 69
     },
     {
+      "seller": "loekermax",
+      "timeAgo": "3 days ago",
+      "title": "JamesDonkey RS2 3.0 三模無線機械鍵盤",
+      "price": 800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1442534109/",
+      "category": "機械鍵盤",
+      "maxDays": 7,
+      "minPrice": 500,
+      "priceStr": "NT$800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/07 19:17",
+      "pid": "1442534109",
+      "verified": {
+        "secondhand": null,
+        "newPrice": 2800,
+        "verifiedAt": "2026-06-08",
+        "source": "subagent+biggo"
+      },
+      "vsNew": 29,
+      "vsSecondhand": null
+    },
+    {
       "seller": "madelineage0617",
       "timeAgo": "5 days ago",
       "title": "［二手］櫻桃 Cherry G80-3000 MX3000 USB 茶軸 機械鍵盤",
       "price": 1200,
-      "condition": "",
+      "condition": "Unknown",
       "url": "https://tw.carousell.com/p/1441993442/",
       "category": "機械鍵盤",
       "maxDays": 7,
@@ -155,7 +179,7 @@
       "priceStr": "NT$1,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/05 14:09",
+      "listedAt": "06/05 19:17",
       "pid": "1441993442",
       "verified": {
         "secondhand": null,
@@ -179,7 +203,7 @@
       "priceStr": "NT$5,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442556421",
       "verified": {
         "secondhand": 8000,
@@ -189,6 +213,30 @@
       },
       "vsNew": 35,
       "vsSecondhand": 65
+    },
+    {
+      "seller": "wtcheng623",
+      "timeAgo": "2 days ago",
+      "title": "KlipschThe One Plus 藍牙喇叭",
+      "price": 4500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1442675821/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "minPrice": 2000,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/08 19:17",
+      "pid": "1442675821",
+      "verified": {
+        "newPrice": 9900,
+        "secondhand": 8250,
+        "note": "新品9900 福利品7500",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 45,
+      "vsSecondhand": 55
     },
     {
       "seller": "wow.u",
@@ -212,6 +260,54 @@
       },
       "vsNew": null,
       "vsSecondhand": 59
+    },
+    {
+      "seller": "goldenstorm.740c2a",
+      "timeAgo": "7 hours ago",
+      "title": "Airpod 4代 （降噪版）",
+      "price": 2500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442932189/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "minPrice": 2000,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 12:17",
+      "pid": "1442932189",
+      "verified": {
+        "newPrice": 5190,
+        "secondhand": 3740,
+        "note": "低於二手中位 建議驗真品",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 48,
+      "vsSecondhand": 67
+    },
+    {
+      "seller": "boldrabbit-94b0",
+      "timeAgo": "2 minutes ago",
+      "title": "AirPodsPro2代在保",
+      "price": 2000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1443002159/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "minPrice": 2000,
+      "priceStr": "NT$2,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 19:15",
+      "pid": "1443002159",
+      "verified": {
+        "newPrice": 6120,
+        "secondhand": 2860,
+        "note": "同款APP2已驗 二手中位2600",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 33,
+      "vsSecondhand": 70
     },
     {
       "seller": "yu2221113",
@@ -333,7 +429,7 @@
     },
     {
       "seller": "ya14243493544",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "Garmin Venu2s",
       "price": 3980,
       "condition": "Lightly used",
@@ -344,7 +440,7 @@
       "priceStr": "NT$3,980",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442708985",
       "verified": {
         "newPrice": null,
@@ -354,30 +450,6 @@
       },
       "vsNew": null,
       "vsSecondhand": 70
-    },
-    {
-      "seller": "wtcheng623",
-      "timeAgo": "2 days ago",
-      "title": "KlipschThe One Plus 藍牙喇叭",
-      "price": 4500,
-      "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1442675821/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "minPrice": 2000,
-      "priceStr": "NT$4,500",
-      "isReseller": false,
-      "sellerNote": "",
-      "listedAt": "06/08 14:09",
-      "pid": "1442675821",
-      "verified": {
-        "newPrice": 9900,
-        "secondhand": 8250,
-        "note": "新品9900 福利品7500",
-        "verifiedAt": "2026-06-10"
-      },
-      "vsNew": 45,
-      "vsSecondhand": 55
     },
     {
       "seller": "boldphoenix_e3531a",
@@ -392,7 +464,7 @@
       "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442660430",
       "verified": {
         "newPrice": 6990,
@@ -453,7 +525,7 @@
     },
     {
       "seller": "taipei225",
-      "timeAgo": "14 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "雅詩蘭黛【雋永工藝探索香氛系列】 岩蘭之沙 淡香精100m",
       "price": 1800,
       "condition": "Like new",
@@ -464,7 +536,7 @@
       "priceStr": "NT$1,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/10 00:09",
+      "listedAt": "06/10 00:17",
       "pid": "1442855526",
       "verified": {
         "newPrice": 7580,
@@ -512,7 +584,7 @@
       "priceStr": "NT$1,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442661003",
       "verified": {
         "newPrice": 2700,
@@ -572,6 +644,30 @@
       "vsSecondhand": 63
     },
     {
+      "seller": "sanders_maxryanax",
+      "timeAgo": "7 hours ago",
+      "title": "徠卡 Leica D-Lux4",
+      "price": 5800,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1442928581/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "minPrice": 5000,
+      "priceStr": "NT$5,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 12:17",
+      "pid": "1442928581",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 15180,
+        "note": "CCD熱潮 二手約13800",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": null,
+      "vsSecondhand": 38
+    },
+    {
       "seller": "ryder111",
       "timeAgo": "2 days ago",
       "title": "SONY a6000+18-200 Le",
@@ -597,7 +693,7 @@
     },
     {
       "seller": "manui",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "Sony A7M3 A7 III 全畫幅機身快門數2萬 A73/ILCE-7M3",
       "price": 16000,
       "condition": "Like new",
@@ -608,7 +704,7 @@
       "priceStr": "NT$16,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 21:38",
+      "listedAt": "06/10 00:17",
       "pid": "1425618066",
       "verified": {
         "newPrice": 34800,
@@ -621,7 +717,7 @@
     },
     {
       "seller": "tinaliii",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "21 hours ago",
       "title": "【美國 Mystery Ranch】神秘農場 SCREE 32 /M",
       "price": 2500,
       "condition": "Lightly used",
@@ -632,7 +728,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 23:09",
+      "listedAt": "06/09 22:17",
       "pid": "1442847380",
       "verified": {
         "newPrice": 6480,
@@ -644,34 +740,34 @@
       "vsSecondhand": 44
     },
     {
-      "seller": "loekermax",
-      "timeAgo": "2 days ago",
-      "title": "JamesDonkey RS2 3.0 三模無線機械鍵盤",
-      "price": 800,
+      "seller": "rexchengxi",
+      "timeAgo": "8 hours ago",
+      "title": "羅大佑 愛人同志 黑膠 西洋版",
+      "price": 3500,
       "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1442534109/",
-      "category": "機械鍵盤",
+      "url": "https://tw.carousell.com/p/1442925292/",
+      "category": "黑膠",
       "maxDays": 7,
       "minPrice": 500,
-      "priceStr": "NT$800",
+      "priceStr": "NT$3,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
-      "pid": "1442534109",
+      "listedAt": "06/10 11:17",
+      "pid": "1442925292",
       "verified": {
-        "secondhand": null,
-        "newPrice": 2800,
-        "verifiedAt": "2026-06-08",
-        "source": "subagent+biggo"
+        "newPrice": null,
+        "secondhand": 9350,
+        "note": "首版行情8-9千 西洋版需驗版位",
+        "verifiedAt": "2026-06-10"
       },
-      "vsNew": 29,
-      "vsSecondhand": null
+      "vsNew": null,
+      "vsSecondhand": 37
     }
   ],
   "negotiate": [
     {
       "seller": "pureearth.632ff2",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "Apple Watch S6",
       "price": 3000,
       "condition": "Lightly used",
@@ -682,7 +778,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442712722",
       "verified": {
         "newPrice": null,
@@ -692,6 +788,30 @@
       },
       "vsNew": null,
       "vsSecondhand": 72
+    },
+    {
+      "seller": "pinkbear0114",
+      "timeAgo": "3 hours ago",
+      "title": "Apple Watch s7鋁金屬41mm",
+      "price": 3500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1442958217/",
+      "category": "apple watch",
+      "maxDays": 3,
+      "minPrice": 1000,
+      "priceStr": "NT$3,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 16:17",
+      "pid": "1442958217",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 4620,
+        "note": "停產 低於二手中位4200",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": null,
+      "vsSecondhand": 76
     },
     {
       "seller": "ares06327",
@@ -706,7 +826,7 @@
       "priceStr": "NT$3,950",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442557954",
       "verified": {
         "secondhand": 4500,
@@ -730,7 +850,7 @@
       "priceStr": "NT$6,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/07 14:09",
+      "listedAt": "06/07 19:17",
       "pid": "1442437154",
       "verified": {
         "secondhand": 7500,
@@ -884,6 +1004,30 @@
       "vsSecondhand": 78
     },
     {
+      "seller": "murphy061553267",
+      "timeAgo": "5 hours ago",
+      "title": "Canon 60D+17-55mm F2.8 IS USM",
+      "price": 12000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442950803/",
+      "category": "相機攝影",
+      "maxDays": 3,
+      "minPrice": 5000,
+      "priceStr": "NT$12,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 14:17",
+      "pid": "1442950803",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 14850,
+        "note": "機5500+鏡8000合估",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": null,
+      "vsSecondhand": 81
+    },
+    {
       "seller": "brightdeer_d371f3",
       "timeAgo": "18 hours ago",
       "title": "Ricoh GR Digital IV 含充電器",
@@ -907,28 +1051,28 @@
       "vsSecondhand": 83
     },
     {
-      "seller": "ninng0715",
-      "timeAgo": "12 hours ago",
-      "title": "Sony A6000+蔡司鏡頭1.8/24",
-      "price": 18000,
+      "seller": "hyacinth66",
+      "timeAgo": "5 hours ago",
+      "title": "Canon eos 77d",
+      "price": 10500,
       "condition": "Lightly used",
-      "url": "https://tw.carousell.com/p/1442866199/",
+      "url": "https://tw.carousell.com/p/1442949139/",
       "category": "相機攝影",
       "maxDays": 3,
       "minPrice": 5000,
-      "priceStr": "NT$18,000",
+      "priceStr": "NT$10,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 21:38",
-      "pid": "1442866199",
+      "listedAt": "06/10 14:17",
+      "pid": "1442949139",
       "verified": {
         "newPrice": null,
-        "secondhand": 21450,
-        "note": "機9500+鏡10000合估",
+        "secondhand": 12650,
+        "note": "停產 二手30+筆11500",
         "verifiedAt": "2026-06-10"
       },
       "vsNew": null,
-      "vsSecondhand": 84
+      "vsSecondhand": 83
     },
     {
       "seller": "zhogood",
@@ -937,13 +1081,13 @@
       "price": 7300,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1442636393/",
-      "category": "相機攝影",
-      "maxDays": 3,
-      "minPrice": 5000,
+      "category": "insta360",
+      "maxDays": 7,
+      "minPrice": 2000,
       "priceStr": "NT$7,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 08:35",
+      "listedAt": "06/08 19:17",
       "pid": "1442636393",
       "verified": {
         "newPrice": null,
@@ -956,7 +1100,7 @@
     },
     {
       "seller": "cash12345",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "Switch lite 劍盾特仕版",
       "price": 4200,
       "condition": "Like new",
@@ -967,7 +1111,7 @@
       "priceStr": "NT$4,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/10 01:09",
+      "listedAt": "06/10 00:17",
       "pid": "1442863435",
       "verified": {
         "newPrice": null,
@@ -1027,7 +1171,7 @@
     },
     {
       "seller": "nobody_aka",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "18 hours ago",
       "title": "Asrock Deskmini X300 3400G/16G/500G",
       "price": 6500,
       "condition": "Like new",
@@ -1038,7 +1182,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/10 02:09",
+      "listedAt": "06/10 01:17",
       "pid": "1442885306",
       "verified": {
         "newPrice": 11590,
@@ -1122,7 +1266,7 @@
     },
     {
       "seller": "hung_1238",
-      "timeAgo": "13 hours ago",
+      "timeAgo": "19 hours ago",
       "title": "一拍兩條=32G SAMSUNG三星 雙面桌機用 DDR4 2400 16G 良品 保固一個月",
       "price": 3360,
       "condition": "Like new",
@@ -1133,7 +1277,7 @@
       "priceStr": "NT$3,360",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/10 01:09",
+      "listedAt": "06/10 00:17",
       "pid": "1442878056",
       "verified": {
         "newPrice": 8100,
@@ -1265,6 +1409,102 @@
       "vsSecondhand": 89
     },
     {
+      "seller": "garfield1030",
+      "timeAgo": "5 hours ago",
+      "title": "福利機Tab S10 Lite WIFI X400 (6G/128G) 10.9吋平板",
+      "price": 8000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442940342/",
+      "category": "iPad",
+      "maxDays": 7,
+      "minPrice": 5000,
+      "priceStr": "NT$8,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 14:17",
+      "pid": "1442940342",
+      "verified": {
+        "newPrice": 10490,
+        "secondhand": 10318,
+        "note": "福利品行情9380",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 76,
+      "vsSecondhand": 78
+    },
+    {
+      "seller": "janet.do.52",
+      "timeAgo": "2 hours ago",
+      "title": "iPad mini 7 128g WiFi版紫色💜",
+      "price": 11500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442971586/",
+      "category": "iPad",
+      "maxDays": 7,
+      "minPrice": 5000,
+      "priceStr": "NT$11,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 17:17",
+      "pid": "1442971586",
+      "verified": {
+        "newPrice": 16388,
+        "secondhand": 14289,
+        "note": "二手中位12990 低約1500",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 70,
+      "vsSecondhand": 80
+    },
+    {
+      "seller": "garfield1030",
+      "timeAgo": "5 hours ago",
+      "title": "【福利品】 三星Galaxy Tab S10FE WiFi SM-X520 10.9吋平板電腦 (8G/128GB)",
+      "price": 11000,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442940047/",
+      "category": "iPad",
+      "maxDays": 7,
+      "minPrice": 5000,
+      "priceStr": "NT$11,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 14:17",
+      "pid": "1442940047",
+      "verified": {
+        "newPrice": 14290,
+        "secondhand": 13068,
+        "note": "二手11880 價差<1000",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 77,
+      "vsSecondhand": 84
+    },
+    {
+      "seller": "creator668",
+      "timeAgo": "14 minutes ago",
+      "title": "Apple iPad A16（11代）11吋 128G 藍色｜全新未拆封附贈保護殼",
+      "price": 9288,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1437084671/",
+      "category": "iPad",
+      "maxDays": 7,
+      "minPrice": 5000,
+      "priceStr": "NT$9,288",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 19:03",
+      "pid": "1437084671",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": 10780,
+        "note": "新品最低9200 價差小",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 93,
+      "vsSecondhand": 86
+    },
+    {
       "seller": "mengfanyu",
       "timeAgo": "2 days ago",
       "title": "ipad air m3 11 + apple pencil",
@@ -1277,7 +1517,7 @@
       "priceStr": "NT$16,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442662526",
       "verified": {
         "newPrice": 19900,
@@ -1290,7 +1530,7 @@
     },
     {
       "seller": "karanaj",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "Dior迪奧癮誘粉漾蜜桃香氛50ml",
       "price": 3000,
       "condition": "Like new",
@@ -1301,7 +1541,7 @@
       "priceStr": "NT$3,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442710638",
       "verified": {
         "newPrice": 3650,
@@ -1314,7 +1554,7 @@
     },
     {
       "seller": "goldenearth.c257b6",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "1 day ago",
       "title": "Google Pixel 4a G025J 6G 128G",
       "price": 3300,
       "condition": "Lightly used",
@@ -1325,7 +1565,7 @@
       "priceStr": "NT$3,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 14:35",
+      "listedAt": "06/09 19:17",
       "pid": "1442786488",
       "verified": {
         "newPrice": null,
@@ -1338,18 +1578,18 @@
     },
     {
       "seller": "alexsu9013",
-      "timeAgo": "15 hours ago",
+      "timeAgo": "20 hours ago",
       "title": "Google Pixel Buds Pro 2",
       "price": 4200,
       "condition": "Lightly used",
       "url": "https://tw.carousell.com/p/1442844933/",
-      "category": "音響耳機",
-      "maxDays": 3,
-      "minPrice": 2000,
+      "category": "Pixel",
+      "maxDays": 5,
+      "minPrice": 3000,
       "priceStr": "NT$4,200",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 23:09",
+      "listedAt": "06/09 23:17",
       "pid": "1442844933",
       "verified": {
         "newPrice": 5890,
@@ -1359,12 +1599,84 @@
       },
       "vsNew": 71,
       "vsSecondhand": 76
+    },
+    {
+      "seller": "oddgem_c1ea79",
+      "timeAgo": "13 hours ago",
+      "title": "Google pixel 7a 8/128g 藍色 極新",
+      "price": 4500,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442912902/",
+      "category": "Pixel",
+      "maxDays": 5,
+      "minPrice": 3000,
+      "priceStr": "NT$4,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 06:17",
+      "pid": "1442912902",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5379,
+        "note": "停產 二手4890 價差小",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": null,
+      "vsSecondhand": 84
+    },
+    {
+      "seller": "kt1207",
+      "timeAgo": "1 day ago",
+      "title": "FUJIFILM INSTAX SQUARE SQ10 數位拍立得",
+      "price": 3600,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1442748290/",
+      "category": "拍立得",
+      "maxDays": 5,
+      "minPrice": 500,
+      "priceStr": "NT$3,600",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/09 19:17",
+      "pid": "1442748290",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 4950,
+        "note": "停產 二手11筆中位4500",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": null,
+      "vsSecondhand": 73
+    },
+    {
+      "seller": "cozykid",
+      "timeAgo": "2 days ago",
+      "title": "現貨 Frank Ocean ‘Blonde’ 官方黑膠唱片",
+      "price": 4180,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1442689095/",
+      "category": "黑膠",
+      "maxDays": 7,
+      "minPrice": 500,
+      "priceStr": "NT$4,180",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/08 19:17",
+      "pid": "1442689095",
+      "verified": {
+        "newPrice": null,
+        "secondhand": 5830,
+        "note": "台灣行情5.3千 盜版多需驗",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": null,
+      "vsSecondhand": 72
     }
   ],
   "uncertain": [
     {
       "seller": "cleverriver.b2574f",
-      "timeAgo": "2 days ago",
+      "timeAgo": "3 days ago",
       "title": "bose soundlink max",
       "price": 6500,
       "condition": "Like new",
@@ -1375,7 +1687,7 @@
       "priceStr": "NT$6,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 08:35",
+      "listedAt": "06/07 19:17",
       "pid": "1442529807",
       "verified": {
         "secondhand": null,
@@ -1388,18 +1700,18 @@
     },
     {
       "seller": "greathoken",
-      "timeAgo": "2 days ago",
+      "timeAgo": "3 days ago",
       "title": "20260607 Acer Aspire 5 A515-57-52NZ 15.6吋 筆電i5-1235U/8G/512GB win 11",
-      "price": 9500,
+      "price": 9000,
       "condition": "Like new",
       "url": "https://tw.carousell.com/p/1442516093/",
       "category": "筆電",
       "maxDays": 7,
       "minPrice": 5000,
-      "priceStr": "NT$9,500",
+      "priceStr": "NT$9,000",
       "isReseller": true,
       "sellerNote": "3C混賣重複刊登 2026-06-10",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/07 19:17",
       "pid": "1442516093",
       "verified": {
         "secondhand": null,
@@ -1407,7 +1719,7 @@
         "verifiedAt": "2026-06-08",
         "source": "subagent+biggo"
       },
-      "vsNew": 50,
+      "vsNew": 47,
       "vsSecondhand": null
     },
     {
@@ -1423,7 +1735,7 @@
       "priceStr": "NT$18,000",
       "isReseller": true,
       "sellerNote": "電競筆電trader 2026-06-10",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442581445",
       "verified": {
         "newPrice": 26900,
@@ -1447,7 +1759,7 @@
       "priceStr": "NT$5,000",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/07 14:09",
+      "listedAt": "06/07 19:17",
       "pid": "1442487225",
       "verified": {
         "secondhand": null,
@@ -1483,7 +1795,7 @@
     },
     {
       "seller": "gabe91024",
-      "timeAgo": "12 hours ago",
+      "timeAgo": "17 hours ago",
       "title": "SONY MDR-CD900ST (日版) 監聽耳機",
       "price": 2500,
       "condition": "Lightly used",
@@ -1494,7 +1806,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/10 02:09",
+      "listedAt": "06/10 02:17",
       "pid": "1442880289",
       "verified": {
         "newPrice": 5299,
@@ -1526,6 +1838,30 @@
         "source": "subagent+biggo"
       },
       "vsNew": 53,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "oppa2258",
+      "timeAgo": "37 minutes ago",
+      "title": "LG TONE Free T90S 真無線藍牙耳機 女用99新",
+      "price": 3999,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442994765/",
+      "category": "音響耳機",
+      "maxDays": 3,
+      "minPrice": 2000,
+      "priceStr": "NT$3,999",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 18:40",
+      "pid": "1442994765",
+      "verified": {
+        "newPrice": 6990,
+        "secondhand": null,
+        "note": "官網6990 二手無樣本",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 57,
       "vsSecondhand": null
     },
     {
@@ -1645,8 +1981,32 @@
       "vsSecondhand": null
     },
     {
+      "seller": "leona0605",
+      "timeAgo": "54 minutes ago",
+      "title": "MSI Modern 14 C12M-297TW 玫瑰粉 微星創作輕薄筆電/i7-1255U/Iris Xe",
+      "price": 12000,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1443003207/",
+      "category": "電腦科技",
+      "maxDays": 3,
+      "minPrice": 3000,
+      "priceStr": "NT$12,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 18:23",
+      "pid": "1443003207",
+      "verified": {
+        "newPrice": 18700,
+        "secondhand": null,
+        "note": "二手樣本不足 新品18700起",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 64,
+      "vsSecondhand": null
+    },
+    {
       "seller": "y4157",
-      "timeAgo": "20 hours ago",
+      "timeAgo": "1 day ago",
       "title": "Coway 熱銷10坪除臭抗敏空氣清淨機 AP 1019 C 頂級活性碳加強除臭 安靜輕巧百搭 抑制流感",
       "price": 2800,
       "condition": "Like new",
@@ -1657,7 +2017,7 @@
       "priceStr": "NT$2,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 13:38",
+      "listedAt": "06/09 19:17",
       "pid": "1442771341",
       "verified": {
         "newPrice": 4968,
@@ -1670,7 +2030,7 @@
     },
     {
       "seller": "st0re_d",
-      "timeAgo": "18 hours ago",
+      "timeAgo": "24 hours ago",
       "title": "Wanbo智慧微型投影機 X2 Max 白",
       "price": 2500,
       "condition": "Lightly used",
@@ -1681,7 +2041,7 @@
       "priceStr": "NT$2,500",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 20:09",
+      "listedAt": "06/09 19:17",
       "pid": "1442802616",
       "verified": {
         "newPrice": 3990,
@@ -1694,7 +2054,7 @@
     },
     {
       "seller": "27nny",
-      "timeAgo": "1 day ago",
+      "timeAgo": "2 days ago",
       "title": "全新僅試用 【HUION繪王】KAMVAS PRO13 (2.5K) 繪圖螢幕",
       "price": 8800,
       "condition": "Like new",
@@ -1705,7 +2065,7 @@
       "priceStr": "NT$8,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/09 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442711379",
       "verified": {
         "newPrice": 12900,
@@ -1729,7 +2089,7 @@
       "priceStr": "NT$2,300",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442603360",
       "verified": {
         "newPrice": 4290,
@@ -1738,6 +2098,30 @@
         "verifiedAt": "2026-06-10"
       },
       "vsNew": 54,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "pilipalalabom",
+      "timeAgo": "1 hour ago",
+      "title": "【迷人香購入】CORETERNO轉捩點淡香精",
+      "price": 2500,
+      "condition": "Lightly used",
+      "url": "https://tw.carousell.com/p/1442986598/",
+      "category": "香氛",
+      "maxDays": 7,
+      "minPrice": 500,
+      "priceStr": "NT$2,500",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 18:17",
+      "pid": "1442986598",
+      "verified": {
+        "newPrice": 4300,
+        "secondhand": null,
+        "note": "NOSEWAY全新100ml約4300",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 58,
       "vsSecondhand": null
     },
     {
@@ -1753,7 +2137,7 @@
       "priceStr": "NT$7,800",
       "isReseller": false,
       "sellerNote": "",
-      "listedAt": "06/08 14:09",
+      "listedAt": "06/08 19:17",
       "pid": "1442664716",
       "verified": {
         "newPrice": 13000,
@@ -1762,6 +2146,126 @@
         "verifiedAt": "2026-06-10"
       },
       "vsNew": 60,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "shurongwu272108",
+      "timeAgo": "3 hours ago",
+      "title": "Polaroid 寶麗萊 Flip 聲納對焦拍立得-白色(DF1)",
+      "price": 4000,
+      "condition": "Brand new",
+      "url": "https://tw.carousell.com/p/1442965041/",
+      "category": "拍立得",
+      "maxDays": 5,
+      "minPrice": 500,
+      "priceStr": "NT$4,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 16:17",
+      "pid": "1442965041",
+      "verified": {
+        "newPrice": 7990,
+        "secondhand": null,
+        "note": "新品7990 二手僅1筆",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 50,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "cosmicstorm_b72b86",
+      "timeAgo": "5 days ago",
+      "title": "小米掃拖機器人DreameBot L10s Ultra",
+      "price": 6000,
+      "condition": "Unknown",
+      "url": "https://tw.carousell.com/p/1442128605/",
+      "category": "掃地機器人",
+      "maxDays": 7,
+      "minPrice": 3000,
+      "priceStr": "NT$6,000",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/05 19:17",
+      "pid": "1442128605",
+      "verified": {
+        "newPrice": 18980,
+        "secondhand": null,
+        "note": "現售18980 2022旗艦",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 32,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "alix829",
+      "timeAgo": "3 days ago",
+      "title": "Fotopro X-Aircross 2 碳纖龍紋三腳架（火焰橘）搭配 FPH-42QR 雙全景球型雲台",
+      "price": 2800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442426283/",
+      "category": "三腳架",
+      "maxDays": 7,
+      "minPrice": 500,
+      "priceStr": "NT$2,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/07 19:17",
+      "pid": "1442426283",
+      "verified": {
+        "newPrice": 5980,
+        "secondhand": null,
+        "note": "二手僅2筆含本件",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 47,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "sherry880410278768",
+      "timeAgo": "9 hours ago",
+      "title": "GARMIN VIVOACTIVE 6",
+      "price": 6800,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442927820/",
+      "category": "智慧手錶",
+      "maxDays": 3,
+      "minPrice": 1500,
+      "priceStr": "NT$6,800",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 10:17",
+      "pid": "1442927820",
+      "verified": {
+        "newPrice": 9990,
+        "secondhand": null,
+        "note": "二手僅1筆5800 樣本不足",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 68,
+      "vsSecondhand": null
+    },
+    {
+      "seller": "hrhududjd",
+      "timeAgo": "6 hours ago",
+      "title": "Rog Haper ace mini無線電競滑鼠",
+      "price": 2140,
+      "condition": "Like new",
+      "url": "https://tw.carousell.com/p/1442946017/",
+      "category": "滑鼠",
+      "maxDays": 3,
+      "minPrice": 1000,
+      "priceStr": "NT$2,140",
+      "isReseller": false,
+      "sellerNote": "",
+      "listedAt": "06/10 13:17",
+      "pid": "1442946017",
+      "verified": {
+        "newPrice": 3190,
+        "secondhand": null,
+        "note": "二手僅1筆2300",
+        "verifiedAt": "2026-06-10"
+      },
+      "vsNew": 67,
       "vsSecondhand": null
     }
   ]
